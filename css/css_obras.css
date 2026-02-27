@@ -3,7 +3,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: #ffffff;
-    text-align: center;
 }
 
 h1 {
@@ -13,26 +12,36 @@ h1 {
     text-align: center;
 }
 
-h2 {
+nav {
+    background-color: #c2c2ff;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+h2, p {
     color: #000000;
     margin-top: 20px;
+    text-align: center;
 }
 
-button {
-    background-color: #a68cca;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    margin-top: 20px;
-    cursor: pointer;
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
+img {    
+    width: 200px;
+    height: 200px;
     margin-top: 20px;
     text-align: left;
     padding: 10px;
+}
+
+p#j_eyre {
+    text-align: center;
+    font-size: 1.2em;
+    color: #000000;
 }
 
 footer {
