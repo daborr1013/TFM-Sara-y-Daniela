@@ -1,5 +1,5 @@
 body {
-    font-family: comic sans, cursive, sans-serif;
+    font-family: 'Inter', system-ui, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #ffffff;
@@ -18,6 +18,13 @@ h2 {
     margin-top: 20px;
 }
 
+main p {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #ffffff;
+    text-align: justify;
+}
+
 button {
     background-color: #a68cca;
     color: white;
@@ -27,10 +34,17 @@ button {
     cursor: pointer;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
+header{
+    background-color: #6a4c93;
+}
+
+nav{
+    padding: 10px 20px;
     margin-top: 20px;
+}
+
+.logo{
+    width: 10%; 
     text-align: center;
 }
 
@@ -41,38 +55,9 @@ footer {
     color: white;
 }
 
-.sidebar {
-  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 1000;
-  height: 100%;
-  overflow: auto;
-}
-
-.sidebar a {
-  display: block;
-  color: black;
-  padding: 16px;
-  text-decoration: none;
-}
-
-.sidebar a.active {
-  background-color: #a68cca;
-  color: white;
-}
-
-.sidebar a:hover:not(.active) {
-  background-color: #555;
-  color: white;
-}
-
-div.content {
-  margin-left: 200px;
-  padding: 1px 16px;
-  height: 1000px;
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    text-align: center;
 }

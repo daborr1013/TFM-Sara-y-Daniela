@@ -1,0 +1,8 @@
+body {
+    font-family: 'Charter', 'Bitstream Charter', 'Sitka Text', Georgia, serif;
+    line-height: 1.6;
+    font-size: 1.1rem;
+    color: #333; /* Modo claro: nunca negro puro */
+    max-width: 700px; /* Ancho de lectura óptimo */
+    margin: 0 auto;
+    padding: 2rem;
