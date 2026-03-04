@@ -1,0 +1,799 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Capítulo 11</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Este es el capítulo 11">
+    <meta name="keywords" content="HTML, CSS">
+    <link rel="stylesheet" href="../../../../../css/css_caps.css">
+    <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
+</head>
+
+<body>
+    <header>
+        <img class="logo" src="../../../../../media/images/litGrande.png">
+    </header>
+
+    <nav>
+        <a href="../../../../../../index.php">Inicio</a>
+        <a href="../../../../../obras.php">Obras</a>
+        <a href="../../../../../about_us.php">Sobre nosotras</a>
+        <a href="#">Asistente virtual</a>
+        <a href="../../../../../tfm.php">Sobre este proyecto</a>
+        <a href="../../../../../pUsuario.php">Perfil de usuario</a>
+    </nav> 
+
+    <main>
+        <h1>Capítulo XI</h1>
+        
+        <p>Un nuevo capítulo en una novela es algo así como una nueva escena
+        en una obra de teatro; y cuando levante el telón esta vez, lector,
+        debe imaginar que ve una habitación en la Posada George en
+        Millcote, con un papel pintado de grandes figuras en las paredes
+        como suelen tener las habitaciones de las posadas; una alfombra,
+        muebles, adornos en la repisa de la chimenea y grabados de ese
+        estilo, incluyendo un retrato de Jorge III, otro del Príncipe de Gales
+        y una representación de la muerte de Wolfe. Todo esto es visible
+        para usted a la luz de una lámpara de aceite que cuelga del techo, y
+        a la de un excelente fuego, cerca del cual me siento con mi capa y
+        mi gorro; mi manguito y mi paraguas yacen sobre la mesa, y estoy
+        calentando el entumecimiento y el frío contraídos por dieciséis horas
+        de exposición a la crudeza de un día de octubre. Dejé Lowton a las
+        cuatro de la madrugada, y el reloj de la ciudad de Millcote acaba de
+        dar las ocho.</p>
+
+        <p>Lector, aunque parezco cómodamente instalada, no estoy muy
+        tranquila de espíritu. Pensé que cuando la diligencia se detuviera
+        aquí habría alguien para recibirme; miré ansiosamente a mi
+        alrededor mientras descendía los escalones de madera que el mozo
+        de cuadra colocó para mi comodidad, esperando oír mi nombre y ver
+        algún tipo de carruaje esperando para llevarme a Thornfield. No se
+        veía nada de eso; y cuando le pregunté a un camarero si alguien
+        había venido a preguntar por una tal señorita Eyre, me respondieron
+        negativamente. Así que no tuve más remedio que pedir que me
+        mostraran una habitación privada, y aquí estoy, esperando, mientras
+        toda clase de dudas y temores perturban mis pensamientos.</p>
+
+        <p>Es una sensación muy extraña para la juventud inexperta sentirse
+        completamente sola en el mundo, separada de toda conexión,
+        incierta de si el puerto al que se dirige puede ser alcanzado, e
+        impedida por muchos obstáculos de regresar al que ha abandonado.
+        El encanto de la aventura endulza esa sensación, el ardor del orgullo
+        la calienta; pero entonces el latido del miedo la perturba; y el miedo
+        en mí se volvió predominante cuando transcurrió media hora y
+        todavía estaba sola. Se me ocurrió tocar la campanilla.</p>
+
+        <p>—¿Hay un lugar en esta vecindad llamado Thornfield? —le
+        pregunté al camarero que respondió a la llamada.</p>
+
+        <p> —¿Thornfield? No lo sé, señora; preguntaré en la barra.</p>
+
+        <p>Desapareció, pero reapareció al instante.</p>
+
+        <p>—¿Se llama usted Eyre, señorita?</p>
+
+        <p>—Sí.</p>
+
+        <p>—Hay una persona aquí esperándola.</p>
+
+        <p>Me levanté de un salto, tomé mi manguito y mi paraguas, y me
+        apresuré al pasillo de la posada. Un hombre estaba de pie junto a la
+        puerta abierta, y en la calle iluminada por las farolas vi vagamente
+        un carruaje de un solo caballo.</p>
+
+        <p>—Este será su equipaje, supongo —dijo el hombre con bastante
+        brusquedad cuando me vio, señalando mi baúl en el pasillo.</p>
+
+        <p>—Sí. —Lo izó al vehículo, que era una especie de calesa, y luego
+        me subí. Antes de que me encerrara, le pregunté a qué distancia
+        estaba Thornfield.</p>
+
+        <p>—Unas seis millas.</p>
+
+        <p>—¿Cuánto tardaremos en llegar?</p>
+
+        <p>—Aproximadamente una hora y media.</p>
+
+        <p>Cerró la portezuela de la calesa, subió a su propio asiento exterior
+        y partimos. Nuestro progreso fue pausado y me dio tiempo de sobra
+        para reflexionar. Estaba contenta de estar por fin tan cerca del final
+        de mi viaje; y mientras me reclinaba en el cómodo aunque no
+        elegante vehículo, medité a mis anchas.</p>
+
+        <p>«Supongo», pensé, «a juzgar por la sencillez del criado y del
+        carruaje, que la señora Fairfax no es una persona muy ostentosa.
+        Tanto mejor; solo viví una vez entre gente distinguida, y fui muy
+        desdichada con ellos. Me pregunto si vive sola, excepto por esta
+        niña. Si es así, y si es en algún grado amable, seguramente podré
+        llevarme bien con ella. Haré todo lo posible. Es una lástima que
+        hacer lo mejor que uno puede no siempre dé resultado. En Lowood,
+        ciertamente, tomé esa resolución, la mantuve y logré complacer;
+        pero con la señora Reed, recuerdo que lo mejor de mí siempre fue
+        despreciado con desdén. Ruego a Dios que la señora Fairfax no
+        resulte ser una segunda señora Reed; pero si lo es, ¡no estoy
+        obligada a quedarme con ella! En el peor de los casos, puedo volver
+        a poner un anuncio. ¿A qué distancia estaremos ahora, me
+        pregunto?».</p>
+
+        <p>Bajé la ventanilla y miré hacia fuera. Millcote estaba detrás de
+        nosotros; a juzgar por el número de sus luces, parecía un lugar de
+        considerable magnitud, mucho más grande que Lowton. Estábamos
+        ahora, por lo que podía ver, en una especie de terreno comunal;
+        pero había casas esparcidas por todo el distrito. Sentí que
+        estábamos en una región diferente a la de Lowood, más poblada,
+        menos pintoresca; más bulliciosa, menos romántica.</p>
+
+        <p>Los caminos estaban pesados, la noche neblinosa; mi conductor
+        dejó que su caballo caminara todo el trayecto, y la hora y media se
+        extendió, creo firmemente, a dos horas. Finalmente, se giró en su
+        asiento y dijo:</p>
+
+        <p>—Ya no estáis muy lejos de Thornfield.</p>
+
+        <p>De nuevo miré hacia fuera. Estábamos pasando una iglesia; vi su
+        torre baja y ancha contra el cielo, y su campana daba un cuarto. Vi
+        también una estrecha galaxia de luces en la ladera de una colina,
+        marcando un pueblo o una aldea. Unos diez minutos después, el
+        conductor se bajó y abrió un par de verjas. Pasamos, y se cerraron
+        de golpe tras nosotros. Ahora ascendimos lentamente por un camino
+        de entrada y llegamos al largo frente de una casa. La luz de una vela
+        brillaba desde una ventana salediza con cortinas; todo lo demás
+        estaba oscuro. La calesa se detuvo en la puerta principal; la abrió
+        una sirvienta; me apeé y entré.</p>
+
+        <p>—¿Quiere pasar por aquí, señora? —dijo la muchacha; y la seguí a
+        través de un vestíbulo cuadrado con altas puertas por todas partes.
+        Me condujo a una habitación cuya doble iluminación de fuego y vela
+        me deslumbró al principio, contrastando como lo hacía con la
+        oscuridad a la que mis ojos se habían acostumbrado durante dos
+        horas. Cuando pude ver, sin embargo, se presentó ante mi vista un
+        cuadro acogedor y agradable.</p>
+
+        <p>Una habitación pequeña y confortable; una mesa redonda junto a
+        un fuego alegre; un sillón de respaldo alto y anticuado, en el que se
+        sentaba la dama de edad más pulcra que se pueda imaginar, con
+        cofia de viuda, vestido de seda negra y un delantal de muselina
+        nívea; exactamente como había imaginado a la señora Fairfax, solo
+        que menos majestuosa y de aspecto más dulce. Estaba ocupada
+        tejiendo; un gato grande se sentaba recatadamente a sus pies; en
+        resumen, no faltaba nada para completar el beau idéal del confort
+        doméstico. Difícilmente podría concebirse una presentación más
+        tranquilizadora para una nueva institutriz; no había grandeza que
+        abrumara, ni majestuosidad que avergonzara. Y entonces, al entrar
+        yo, la anciana se levantó y se adelantó pronta y amablemente a mi
+        encuentro.</p>
+
+        <p>—¿Cómo está, querida? Me temo que ha tenido un viaje tedioso;
+        John conduce tan despacio... Debe de tener frío, acérquese al fuego.</p>
+
+        <p>—¿La señora Fairfax, supongo? —dije.</p>
+
+        <p>—Sí, tiene razón. Siéntese, por favor.</p>
+
+        <p>Me condujo a su propia silla y luego comenzó a quitarme el chal y
+        a desatarme los lazos del gorro. Le rogué que no se tomara tanta
+        molestia.</p>
+
+        <p>—Oh, no es ninguna molestia. Me atrevo a decir que sus propias
+        manos están casi entumecidas por el frío. Leah, prepara un poco de
+        negus caliente y corta uno o dos sándwiches; aquí están las llaves
+        de la despensa. —Y sacó de su bolsillo un manojo de llaves de lo
+        más hacendoso y se las entregó a la sirvienta.</p>
+
+        <p>—Ahora, acérquese al fuego —continuó—. Ha traído su equipaje
+        consigo, ¿verdad, querida?</p>
+
+        <p>—Sí, señora.</p>
+
+        <p>—Me encargaré de que lo lleven a su habitación —dijo, y salió
+        apresuradamente.</p>
+
+        <p>«Me trata como a una invitada», pensé. «Poco esperaba tal
+        recepción; solo anticipaba frialdad y rigidez. Esto no se parece a lo
+        que he oído sobre el trato a las institutrices; pero no debo
+        regocijarme demasiado pronto».</p>
+
+        <p>Regresó; con sus propias manos retiró su equipo de tejer y uno o
+        dos libros de la mesa para hacer sitio a la bandeja que Leah traía
+        ahora, y luego ella misma me sirvió los refrescos. Me sentí bastante
+        confundida al ser objeto de más atención de la que había recibido
+        nunca, y además, mostrada por mi empleadora y superiora; pero
+        como ella misma no parecía considerar que estuviera haciendo nada
+        fuera de lugar, pensé que era mejor tomar sus amabilidades con
+        tranquilidad.</p>
+
+        <p>—¿Tendré el placer de ver a la señorita Fairfax esta noche? —
+        pregunté, cuando hube probado lo que me ofrecía.</p>
+
+        <p>—¿Qué ha dicho, querida? Estoy un poco sorda —respondió la
+        buena dama, acercando su oreja a mi boca.</p>
+
+        <p>Repetí la pregunta más claramente.</p>
+
+        <p>—¿La señorita Fairfax? ¡Oh, se refiere a la señorita Varens! Varens
+        es el nombre de su futura alumna.</p>
+
+        <p>—¡De veras! ¿Entonces no es su hija?</p>
+
+        <p>—No, no tengo familia.</p>
+
+        <p>Debería haber seguido mi primera pregunta, inquiriendo de qué
+        manera estaba relacionada la señorita Varens con ella; pero recordé
+        que no era cortés hacer demasiadas preguntas. Además, estaba
+        segura de que lo sabría con el tiempo.</p>
+
+        <p>—Estoy tan contenta —continuó, mientras se sentaba frente a mí
+        y tomaba al gato en su regazo—. Estoy tan contenta de que haya
+        venido; será muy agradable vivir aquí ahora con una compañera. Por
+        supuesto, es agradable en cualquier momento, pues Thornfield es
+        una hermosa y antigua mansión, quizás un poco descuidada en los
+        últimos años, pero aun así es un lugar respetable. Sin embargo, ya
+        sabe, en invierno una se siente bastante sola en las mejores
+        estancias. Digo sola... Leah es una buena chica, por supuesto, y
+        John y su esposa son gente muy decente; pero ya ve, solo son
+        criados, y una no puede conversar con ellos en términos de
+        igualdad; hay que mantenerlos a la debida distancia, por temor a
+        perder la autoridad. Estoy segura de que el invierno pasado (fue
+        muy severo, si recuerda, y cuando no nevaba, llovía y soplaba el
+        viento), ni una criatura más que el carnicero y el cartero vinieron a
+        la casa, desde noviembre hasta febrero; y realmente me puse
+        bastante melancólica de estar sentada noche tras noche sola. A
+        veces hacía subir a Leah para que me leyera, pero no creo que a la
+        pobre chica le gustara mucho la tarea; lo sentía como una atadura.
+        En primavera y verano una se las arreglaba mejor; el sol y los días
+        largos marcan una gran diferencia. Y luego, justo al comienzo de
+        este otoño, llegó la pequeña Adèle Varens y su nodriza. Una niña
+        hace que una casa cobre vida de repente; y ahora que está usted
+        aquí, estaré muy alegre.</p>
+
+        <p>Mi corazón realmente se enterneció hacia la digna dama mientras
+        la oía hablar; y acerqué mi silla un poco más a la suya, y expresé mi
+        sincero deseo de que encontrara mi compañía tan agradable como
+        anticipaba.</p>
+
+        <p>—Pero no la mantendré levantada hasta tarde esta noche —dijo—.
+        Están a punto de dar las doce y ha estado viajando todo el día. Debe
+        de sentirse cansada. Si ya se ha calentado bien los pies, le mostraré
+        su dormitorio. He preparado para usted la habitación contigua a la
+        mía; es solo un apartamento pequeño, pero pensé que le gustaría
+        más que una de las grandes cámaras del frente. Por supuesto,
+        tienen muebles más finos, pero son tan lúgubres y solitarias que yo
+        misma nunca duermo en ellas.</p>
+
+        <p>Le agradecí su considerada elección y, como realmente me sentía
+        fatigada por mi largo viaje, expresé mi disposición a retirarme. Tomó
+        su vela y la seguí fuera de la habitación. Primero fue a ver si la
+        puerta del vestíbulo estaba cerrada; habiendo quitado la llave de la
+        cerradura, me guio escaleras arriba. Los escalones y la barandilla
+        eran de roble; la ventana de la escalera era alta y con celosía; tanto
+        ella como la larga galería a la que daban las puertas de los
+        dormitorios parecían pertenecer a una iglesia más que a una casa.
+        Un aire muy frío y de cripta impregnaba las escaleras y la galería,
+        sugiriendo ideas lúgubres de espacio y soledad; y me alegré, cuando
+        finalmente me condujeron a mi cámara, de encontrarla de pequeñas
+        dimensiones y amueblada en un estilo ordinario y moderno.</p>
+
+        <p>Cuando la señora Fairfax me hubo dado unas amables buenas
+        noches y yo hube cerrado mi puerta, miré tranquilamente a mi
+        alrededor y, en cierta medida, borré la espeluznante impresión
+        causada por aquel amplio vestíbulo, aquella oscura y espaciosa
+        escalera, y aquella larga y fría galería, con el aspecto más animado
+        de mi pequeña habitación. Recordé que, después de un día de fatiga
+        corporal y ansiedad mental, estaba ahora por fin en un puerto
+        seguro. El impulso de la gratitud hinchó mi corazón, y me arrodillé al
+        lado de la cama y ofrecí gracias donde eran debidas; sin olvidar,
+        antes de levantarme, implorar ayuda en mi camino futuro y el poder
+        de merecer la amabilidad que parecía ofrecérseme tan francamente
+        antes de haberla ganado. Mi lecho no tuvo espinas esa noche; mi
+        solitaria habitación, ningún temor. A la vez cansada y contenta,
+        dormí pronto y profundamente. Cuando desperté, era pleno día.</p>
+
+        <p>La cámara me pareció un lugar tan luminoso y pequeño mientras
+        el sol brillaba entre las alegres cortinas de cretona azul de la
+        ventana, mostrando paredes empapeladas y un suelo alfombrado,
+        tan diferente de las tablas desnudas y el yeso manchado de Lowood,
+        que mi ánimo se levantó ante la vista. Lo externo tiene un gran
+        efecto en los jóvenes. Pensé que una era más hermosa de la vida
+        comenzaba para mí, una que tendría sus flores y placeres, así como
+        sus espinas y trabajos. Mis facultades, despertadas por el cambio de
+        escena, el nuevo campo ofrecido a la esperanza, parecían todas en
+        movimiento. No puedo definir con precisión lo que esperaban, pero
+        era algo agradable; no quizás ese día o ese mes, sino en un período
+        futuro indefinido.</p>
+
+        <p>Me levanté; me vestí con esmero. Obligada a ser sencilla —pues
+        no tenía ninguna prenda de vestir que no estuviera hecha con
+        extrema simplicidad—, era, sin embargo, por naturaleza, solícita en
+        ser pulcra. No era mi costumbre ser desconsiderada con mi
+        apariencia o descuidada con la impresión que causaba; por el
+        contrario, siempre deseaba lucir lo mejor posible y agradar tanto
+        como mi falta de belleza me lo permitiera. A veces lamentaba no ser
+        más guapa; a veces deseaba tener mejillas sonrosadas, una nariz
+        recta y una boca pequeña de cereza; deseaba ser alta, majestuosa y
+        de figura finamente desarrollada. Sentía como una desgracia ser tan
+        pequeña, tan pálida y tener rasgos tan irregulares y marcados. ¿Y
+        por qué tenía estas aspiraciones y estos lamentos? Sería difícil de
+        decir; no podía entonces decírmelo a mí misma con claridad; sin
+        embargo, tenía una razón, y una razón lógica y natural también. No
+        obstante, cuando me hube cepillado el pelo muy liso y me hube
+        puesto mi vestido negro —que, por muy cuáquero que fuera, al
+        menos tenía el mérito de ajustarse a la perfección— y me hube
+        ajustado mi pechera blanca y limpia, pensé que me las arreglaría
+        con la suficiente respetabilidad para aparecer ante la señora Fairfax,
+        y que mi nueva alumna al menos no retrocedería ante mí con
+        antipatía. Habiendo abierto la ventana de mi cámara y visto que
+        dejaba todas las cosas rectas y ordenadas en el tocador, me
+        aventuré a salir.</p>
+
+        <p>Atravesando la larga y enmoquetada galería, descendí los
+        resbaladizos escalones de roble; luego llegué al vestíbulo. Me detuve
+        allí un minuto; miré algunos cuadros en las paredes (uno, recuerdo,
+        representaba a un hombre adusto con coraza, y otro a una dama
+        con el pelo empolvado y un collar de perlas), una lámpara de bronce
+        que pendía del techo, un gran reloj cuya caja era de roble
+        curiosamente tallado, y negro como el ébano por el tiempo y el
+        frotamiento. Todo me pareció muy majestuoso e imponente; pero es
+        que estaba tan poco acostumbrada a la grandeza. La puerta del
+        vestíbulo, que era mitad de cristal, estaba abierta; crucé el umbral.
+        Era una hermosa mañana de otoño; el sol temprano brillaba
+        serenamente sobre arboledas parduscas y campos aún verdes.
+        Avanzando hacia el césped, levanté la vista y examiné la fachada de
+        la mansión. Tenía tres pisos de altura, de proporciones no vastas,
+        aunque considerables: la casa solariega de un caballero, no la
+        residencia de un noble. Las almenas alrededor de la parte superior le
+        daban un aspecto pintoresco. Su fachada gris destacaba bien contra
+        el fondo de una grajera, cuyos inquilinos graznadores estaban ahora
+        en pleno vuelo. Volaron sobre el césped y los terrenos para posarse
+        en un gran prado, del que estos estaban separados por un foso, y
+        donde una hilera de poderosos y viejos espinos, fuertes, nudosos y
+        anchos como robles, explicaba de inmediato la etimología de la
+        designación de la mansión. Más lejos había colinas; no tan altas
+        como las de los alrededores de Lowood, ni tan escarpadas, ni tan
+        parecidas a barreras de separación del mundo de los vivos; pero aun
+        así, colinas bastante tranquilas y solitarias, que parecían abrazar
+        Thornfield con un aislamiento que no esperaba encontrar tan cerca
+        de la bulliciosa localidad de Millcote. Una pequeña aldea, cuyos
+        tejados se mezclaban con los árboles, se extendía por la ladera de
+        una de estas colinas. La iglesia del distrito estaba más cerca de
+        Thornfield; la cima de su vieja torre se asomaba por encima de un
+        montículo entre la casa y las verjas.</p>
+
+        <p>Aún disfrutaba de la tranquila vista y del agradable aire fresco,
+        aún escuchaba con deleite el graznido de las grajas, aún examinaba
+        la ancha y canosa fachada de la mansión, y pensaba qué lugar tan
+        grande era para que lo habitara una solitaria damita como la señora
+        Fairfax, cuando esa dama apareció en la puerta.</p>
+
+        <p>—¡Vaya! ¿Ya fuera? —dijo—. Veo que es usted madrugadora. —Me
+        acerqué a ella y fui recibida con un afable beso y un apretón de
+        manos.</p>
+
+        <p>—¿Qué le parece Thornfield? —preguntó. Le dije que me gustaba
+        mucho.</p>
+
+        <p>—Sí —dijo—, es un lugar bonito; pero me temo que se irá
+        deteriorando, a menos que al señor Rochester se le ocurra venir a
+        residir aquí permanentemente; o, al menos, visitarlo con más
+        frecuencia. Las grandes casas y los hermosos terrenos requieren la
+        presencia del propietario.</p>
+        
+        <p>—¡Señor Rochester! —exclamé—. ¿Quién es?</p>
+
+        <p>—El dueño de Thornfield —respondió tranquilamente—. ¿No sabía
+        que se llamaba Rochester?</p>
+
+        <p>Por supuesto que no, nunca había oído hablar de él antes; pero la
+        anciana parecía considerar su existencia como un hecho
+        universalmente entendido, con el que todo el mundo debía estar
+        familiarizado por instinto.</p>
+
+        <p>—Pensé —continué— que Thornfield le pertenecía a usted.</p>
+
+        <p>—¿A mí? ¡Bendita sea, niña; qué idea! ¿A mí? Solo soy el ama de
+        llaves, la administradora. Por supuesto, estoy lejanamente
+        emparentada con los Rochester por parte de madre, o al menos mi
+        marido lo estaba; él era clérigo, titular de Hay —ese pequeño pueblo
+        de allí en la colina— y esa iglesia cerca de las verjas era suya. La
+        madre del actual señor Rochester era una Fairfax, y prima segunda
+        de mi marido; pero nunca presumo de la conexión; de hecho, no es
+        nada para mí. Me considero completamente como una ama de llaves
+        ordinaria. Mi empleador siempre es cortés, y no espero nada más.</p>
+
+        <p>—¡Y la niña, mi alumna!</p>
+
+        <p>—Es la pupila del señor Rochester; él me encargó que le
+        encontrara una institutriz. Tenía la intención de que se criara en
+        ...shire, creo. Aquí viene, con su «bonne», como llama a su nodriza.
+        —El enigma entonces se explicó: esta afable y amable viudita no era
+        una gran dama, sino una dependiente como yo. No me cayó peor
+        por eso; al contrario, me sentí más complacida que nunca. La
+        igualdad entre ella y yo era real; no el mero resultado de la
+        condescendencia por su parte. Mucho mejor, mi posición era mucho
+        más libre.</p>
+
+        <p>Mientras meditaba sobre este descubrimiento, una niña pequeña,
+        seguida de su acompañante, llegó corriendo por el césped. Miré a mi
+        alumna, que al principio no pareció fijarse en mí. Era toda una niña,
+        quizás de siete u ocho años, de constitución delgada, con un rostro
+        pálido de rasgos pequeños y una abundancia de cabello que le caía
+        en rizos hasta la cintura.</p>
+
+        <p>—Buenos días, señorita Adèle —dijo la señora Fairfax—. Venga a
+        hablar con la dama que le va a enseñar y a hacer de usted una
+        mujer inteligente algún día. —Se acercó.</p>
+
+        <p>—<i>¡C'est là ma gouvernante!</i> —dijo, señalándome y dirigiéndose a
+        su nodriza; quien respondió:</p>
+
+        <p>—<i>Mais oui, certainement</i>.</p>
+
+        <p>—¿Son extranjeras? —inquirí, asombrada de oír el idioma francés.</p>
+
+        <p>—La nodriza es extranjera, y Adèle nació en el Continente; y, creo,
+        nunca lo abandonó hasta hace unos seis meses. Cuando llegó aquí
+        por primera vez no hablaba nada de inglés; ahora se las arregla para
+        hablarlo un poco. No la entiendo, lo mezcla tanto con el francés;
+        pero usted entenderá su significado muy bien, me atrevo a decir.</p>
+
+        <p>Afortunadamente, yo había tenido la ventaja de que una dama
+        francesa me enseñara francés; y como siempre me había esmerado
+        en conversar con Madame Pierrot tan a menudo como podía, y
+        además, durante los últimos siete años, había aprendido de memoria
+        una porción de francés diariamente —aplicándome a esmerarme en
+        mi acento e imitando lo más fielmente posible la pronunciación de
+        mi maestra—, había adquirido un cierto grado de soltura y
+        corrección en el idioma, y no era probable que me encontrara muy
+        perdida con <i>Mademoiselle</i> Adèle. Se acercó y me dio la mano cuando
+        oyó que yo era su institutriz; y mientras la conducía al desayuno, le
+        dirigí algunas frases en su propia lengua. Al principio respondió
+        brevemente, pero después de que nos sentamos a la mesa, y me
+        hubo examinado unos diez minutos con sus grandes ojos avellana,
+        de repente comenzó a parlotear fluidamente.</p>
+
+        <p>—¡Ah! —exclamó, en francés—, usted habla mi idioma tan bien
+        como el señor Rochester. Puedo hablar con usted como puedo con
+        él, y también Sophie. Ella se alegrará; nadie aquí la entiende.
+        Madame Fairfax es toda inglesa. Sophie es mi nodriza; vino conmigo
+        a través del mar en un gran barco con una chimenea que echaba
+        humo, ¡cómo echaba humo! Y yo me mareé, y también Sophie, y
+        también el señor Rochester. El señor Rochester se tumbó en un sofá
+        en una bonita habitación llamada el salón, y Sophie y yo teníamos
+        pequeñas camas en otro lugar. Casi me caigo de la mía; era como un
+        estante. Y <i>Mademoiselle</i>, ¿cuál es su nombre?</p>
+
+        <p>—Eyre, Jane Eyre.</p>
+
+        <p>—¿Aire? ¡Bah! No puedo decirlo. Bueno, nuestro barco se detuvo
+        por la mañana, antes de que amaneciera del todo, en una gran
+        ciudad, una ciudad enorme, con casas muy oscuras y todo lleno de
+        humo; nada que ver con la bonita y limpia ciudad de la que venía. Y
+        el señor Rochester me llevó en brazos por una plancha hasta tierra,
+        y Sophie vino detrás, y todos nos metimos en un coche, que nos
+        llevó a una hermosa casa grande, más grande que esta y más fina,
+        llamada un hotel. Nos quedamos allí casi una semana. Sophie y yo
+        solíamos pasear todos los días por un gran lugar verde lleno de
+        árboles, llamado el Parque; y había muchos niños allí además de mí,
+        y un estanque con pájaros preciosos a los que daba de comer migas.</p>
+
+        <p>—¿La entiende cuando habla tan rápido? —preguntó la señora Fairfax.</p>
+
+        <p>La entendía muy bien, pues estaba acostumbrada a la lengua
+        fluida de Madame Pierrot.</p>
+
+        <p>—Desearía —continuó la buena dama— que le hiciera una o dos
+        preguntas sobre sus padres. Me pregunto si los recuerda.</p>
+
+        <p>—Adèle —inquirí—, ¿con quién vivías cuando estabas en esa
+        bonita y limpia ciudad de la que hablabas?</p>
+
+        <p>—Viví hace mucho tiempo con mamá; pero se ha ido con la
+        Santísima Virgen. Mamá solía enseñarme a bailar y a cantar, y a
+        recitar versos. Venían muchos señores y señoras a ver a mamá, y yo
+        solía bailar delante de ellos, o sentarme en sus rodillas y cantarles.
+        Me gustaba. ¿Quiere que le cante ahora?</p>
+
+        <p>Había terminado su desayuno, así que le permití que diera una
+        muestra de sus habilidades. Descendiendo de su silla, vino y se
+        colocó en mi regazo; luego, juntando sus manitas recatadamente
+        ante sí, echando hacia atrás sus rizos y levantando los ojos al techo,
+        comenzó a cantar una canción de alguna ópera. Era la melodía de
+        una dama abandonada que, tras lamentar la perfidia de su amante,
+        llama al orgullo en su ayuda; desea que su doncella la adorne con
+        sus joyas más brillantes y sus ropas más ricas, y resuelve
+        encontrarse con el falso esa noche en un baile y demostrarle, por la
+        alegría de su comportamiento, lo poco que su abandono la ha
+        afectado.</p>
+
+        <p>El tema parecía extrañamente elegido para una cantante infantil;
+        pero supongo que el punto de la exhibición residía en oír las notas
+        de amor y celos gorjeadas con el ceceo de la infancia; y de muy mal
+        gusto era ese punto, al menos así lo pensé.</p>
+
+        <p>Adèle cantó la canzonetta con bastante afinación y con la naïveté
+        de su edad. Logrado esto, saltó de mi regazo y dijo:</p>
+
+        <p>—Ahora, <i>Mademoiselle</i>, le recitaré un poco de poesía.</p>
+
+        <p>Asumiendo una actitud, comenzó a recitar <i>La Ligue des Rats, fábula de
+        La Fontaine</i>. Luego declamó la pequeña pieza con una atención a la
+        puntuación y el énfasis, una flexibilidad de voz y una adecuación de
+        gestos, muy inusuales ciertamente a su edad, y que demostraban
+        que había sido cuidadosamente entrenada.</p>
+
+        <p>—¿Fue tu mamá quien te enseñó esa pieza? —pregunté.</p>
+
+        <p>—Sí, y solía decirla así: «<i>Qu'avez-vous donc? lui dit un de ces rats;
+        parlez!</i>». Me hacía levantar la mano —así— para recordarme que
+        debía alzar la voz en la pregunta. ¿Ahora bailo para usted?</p>
+
+        <p>—No, con eso basta. Pero después de que tu mamá se fuera con
+        la Santísima Virgen, como dices, ¿con quién viviste entonces?</p>
+        
+        <p>—Con Madame Frédéric y su marido. Ella me cuidó, pero no es
+        pariente mía. Creo que es pobre, porque no tenía una casa tan
+        bonita como mamá. No estuve mucho tiempo allí. El señor Rochester
+        me preguntó si me gustaría ir a vivir con él a Inglaterra, y yo dije
+        que sí; porque conocía al señor Rochester antes de conocer a
+        Madame Frédéric, y siempre fue amable conmigo y me regaló
+        vestidos y juguetes bonitos. Pero ya ve, no ha cumplido su palabra,
+        porque me ha traído a Inglaterra y ahora él mismo ha vuelto a
+        marcharse, y nunca lo veo.</p>
+
+        <p>Después del desayuno, Adèle y yo nos retiramos a la biblioteca,
+        habitación que, al parecer, el señor Rochester había indicado que se
+        usara como aula. La mayoría de los libros estaban encerrados tras
+        puertas de cristal; pero había una estantería abierta que contenía
+        todo lo que se podía necesitar en cuanto a obras elementales, y
+        varios volúmenes de literatura ligera, poesía, biografía, viajes,
+        algunas novelas, etc. Supongo que había considerado que esto era
+        todo lo que la institutriz necesitaría para su lectura privada; y, de
+        hecho, me contentaron ampliamente por el momento. Comparado
+        con las escasas migajas que de vez en cuando había podido recoger
+        en Lowood, parecían ofrecer una abundante cosecha de
+        entretenimiento e información. En esta habitación, también, había
+        un piano de gabinete, completamente nuevo y de tono superior;
+        también un caballete para pintar y un par de globos terráqueos.</p>
+
+        <p>Encontré a mi alumna suficientemente dócil, aunque poco
+        inclinada a aplicarse. No estaba acostumbrada a la ocupación regular
+        de ningún tipo. Sentí que sería imprudente confinarla demasiado al
+        principio; así que, cuando hube hablado mucho con ella y
+        conseguido que aprendiera un poco, y cuando la mañana había
+        avanzado hasta el mediodía, le permití volver con su nodriza.
+        Propuse entonces ocuparme hasta la hora de la cena en dibujar
+        algunos pequeños bocetos para su uso.</p>
+
+        <p>Mientras subía las escaleras para buscar mi portafolio y mis
+        lápices, la señora Fairfax me llamó.</p>
+
+        <p>—Sus horas de clase de la mañana han terminado ya, supongo —
+        dijo. Estaba en una habitación cuyas puertas plegables estaban
+        abiertas. Entré cuando se dirigió a mí. Era un apartamento grande y
+        majestuoso, con sillas y cortinas púrpuras, una alfombra turca,
+        paredes con paneles de nogal, una vasta ventana rica en vidrieras y
+        un techo elevado, noblemente moldeado. La señora Fairfax estaba
+        quitando el polvo a unos jarrones de fino espato púrpura, que
+        estaban sobre un aparador.</p>
+
+        <p>—¡Qué habitación tan hermosa! —exclamé, mientras miraba a mi
+        alrededor; pues nunca antes había visto ninguna ni la mitad de
+        imponente.</p>
+
+        <p>—Sí; este es el comedor. Acabo de abrir la ventana para que entre
+        un poco de aire y de sol; pues todo se humedece tanto en los
+        apartamentos que rara vez se habitan. El salón de allá parece una
+        cripta.</p>
+
+        <p>Señaló un amplio arco correspondiente a la ventana, y colgado
+        como ella con una cortina teñida de púrpura de Tiro, ahora recogida.
+        Subiendo a él por dos anchos escalones y mirando a través, creí
+        vislumbrar un lugar de hadas, tan brillante pareció a mis ojos de
+        novicia la vista más allá. Sin embargo, era simplemente un salón
+        muy bonito, y dentro de él un tocador, ambos cubiertos con
+        alfombras blancas, sobre las que parecían yacer brillantes guirnaldas
+        de flores; ambos con techos de molduras níveas de uvas blancas y
+        hojas de vid, bajo las cuales brillaban en rico contraste sofás y pufs
+        carmesí; mientras que los adornos de la pálida repisa de mármol de
+        Paros eran de cristal de Bohemia centelleante, rojo rubí; y entre las
+        ventanas, grandes espejos repetían la mezcla general de nieve y
+        fuego.</p>
+
+        <p>—¡En qué orden mantiene estas habitaciones, señora Fairfax! —
+        dije—. Ni polvo, ni fundas de lona. Excepto que el aire se siente frío,
+        uno pensaría que están habitadas a diario.</p>
+
+        <p>—Bueno, señorita Eyre, aunque las visitas del señor Rochester
+        aquí son raras, siempre son repentinas e inesperadas; y como
+        observé que le molestaba encontrar todo envuelto, y tener un
+        ajetreo de arreglos a su llegada, pensé que era mejor mantener las
+        habitaciones listas.</p>
+
+        <p>—¿Es el señor Rochester un hombre exigente y quisquilloso?</p>
+
+        <p>—No particularmente; pero tiene los gustos y hábitos de un
+        caballero, y espera que las cosas se manejen de acuerdo con ellos.</p>
+
+        <p>—¿Le cae bien a usted? ¿Es generalmente apreciado?</p>
+
+        <p>—Oh, sí; la familia siempre ha sido respetada aquí. Casi todas las
+        tierras de esta vecindad, hasta donde alcanza la vista, han
+        pertenecido a los Rochester desde tiempos inmemoriales.</p>
+
+        <p>—Bueno, pero, dejando de lado sus tierras, ¿le cae bien a usted?
+        ¿Es apreciado por sí mismo?</p>
+
+        <p>—No tengo motivos para que no me caiga bien; y creo que sus
+        inquilinos lo consideran un terrateniente justo y liberal, pero nunca
+        ha vivido mucho entre ellos.</p>
+
+        <p>—¿Pero no tiene peculiaridades? En resumen, ¿cuál es su carácter?</p>
+
+        <p>—¡Oh! Su carácter es intachable, supongo. Es bastante peculiar,
+        quizás. Ha viajado mucho y ha visto mucho mundo, creo yo. Me
+        atrevo a decir que es inteligente, pero nunca he tenido mucha
+        conversación con él.</p>
+
+        <p>—¿En qué sentido es peculiar?</p>
+
+        <p>—No sé, no es fácil de describir. Nada llamativo, pero lo sientes
+        cuando te habla; nunca puedes estar segura de si está bromeando o
+        hablando en serio, si está complacido o lo contrario. No lo entiendes
+        del todo, en resumen, al menos yo no. Pero no tiene importancia, es
+        un muy buen amo.</p>
+
+        <p>Este fue todo el relato que obtuve de la señora Fairfax sobre su
+        empleador y el mío. Hay personas que parecen no tener noción de
+        esbozar un carácter, o de observar y describir puntos sobresalientes,
+        ya sea en personas o en cosas. La buena dama evidentemente
+        pertenecía a esta clase; mis preguntas la desconcertaban, pero no la
+        hacían hablar. El señor Rochester era el señor Rochester a sus ojos;
+        un caballero, un terrateniente, nada más. Ella no inquiría ni buscaba
+        más allá, y evidentemente se maravillaba de mi deseo de obtener
+        una noción más definida de su identidad.</p>
+
+        <p>Cuando salimos del comedor, me propuso mostrarme el resto de la
+        casa; y la seguí escaleras arriba y abajo, admirando a medida que
+        avanzaba, pues todo estaba bien dispuesto y era hermoso. Las
+        grandes cámaras del frente me parecieron especialmente
+        grandiosas, y algunas de las habitaciones del tercer piso, aunque
+        oscuras y bajas, eran interesantes por su aire de antigüedad. Los
+        muebles que una vez pertenecieron a los apartamentos inferiores
+        habían sido trasladados aquí de vez en cuando, a medida que
+        cambiaban las modas; y la luz imperfecta que entraba por sus
+        estrechas ventanas mostraba lechos de cien años de antigüedad;
+        arcones de roble o nogal, que parecían, con sus extrañas tallas de
+        ramas de palma y cabezas de querubines, tipos del arca hebrea; filas
+        de sillas venerables, de respaldo alto y estrechas; taburetes aún más
+        anticuados, en cuyos asientos acolchados aún se apreciaban rastros
+        de bordados medio borrados, realizados por dedos que durante dos
+        generaciones habían sido polvo de ataúd. Todas estas reliquias
+        daban al tercer piso de Thornfield Hall el aspecto de un hogar del
+        pasado, un santuario de la memoria. Me gustaba el silencio, la
+        penumbra, la singularidad de estos retiros durante el día; pero de
+        ninguna manera codiciaba el reposo de una noche en una de esas
+        camas anchas y pesadas, encerradas, algunas de ellas, con puertas
+        de roble; sombreadas, otras, con antiguos cortinajes ingleses
+        labrados, incrustados de grueso trabajo, que representaban efigies
+        de flores extrañas, y pájaros más extraños, y seres humanos
+        extrañísimos, todo lo cual habría parecido extraño, en verdad, bajo
+        el pálido resplandor de la luna.</p>
+
+        <p>—¿Duermen los criados en estas habitaciones? —pregunté.</p>
+
+        <p>—No; ocupan una serie de apartamentos más pequeños en la
+        parte trasera. Nadie duerme nunca aquí. Casi se diría que, si hubiera
+        un fantasma en Thornfield Hall, este sería su refugio.</p>
+
+        <p>—Eso pienso yo. ¿No tienen ningún fantasma, entonces?</p>
+
+        <p>—Ninguno del que yo haya oído hablar —respondió la señora
+        Fairfax, sonriendo.</p>
+
+        <p>—¿Ni tradiciones de uno? ¿Ni leyendas o historias de fantasmas?</p>
+
+        <p>—Creo que no. Y sin embargo, se dice que los Rochester han sido
+        una estirpe más bien violenta que tranquila en su tiempo. Quizás, sin
+        embargo, esa sea la razón por la que ahora descansan
+        tranquilamente en sus tumbas.</p>
+
+        <p>—Sí... «tras la febril fiebre de la vida, duermen bien» —murmuré
+        —. ¿Adónde va ahora, señora Fairfax? —pues se estaba alejando.</p>
+
+        <p>—A la azotea; ¿quiere venir a ver la vista desde allí? —La seguí,
+        subiendo por una escalera muy estrecha hasta los desvanes, y de allí
+        por una escalerilla y a través de una trampilla hasta el tejado de la
+        mansión. Estaba ahora al nivel de la colonia de grajas y podía ver
+        sus nidos. Inclinándome sobre las almenas y mirando muy abajo,
+        examiné los terrenos dispuestos como un mapa: el césped brillante y
+        aterciopelado que ceñía estrechamente la base gris de la mansión; el
+        campo, ancho como un parque, salpicado de sus antiguos árboles; el
+        bosque, pardo y seco, dividido por un sendero visiblemente cubierto
+        de maleza, más verde de musgo que los árboles de follaje; la iglesia
+        junto a las verjas, el camino, las tranquilas colinas, todo reposando
+        bajo el sol del día de otoño; el horizonte limitado por un cielo
+        propicio, azul, veteado de blanco nacarado. Ningún rasgo de la
+        escena era extraordinario, pero todo era agradable. Cuando me
+        aparté de ella y volví a pasar por la trampilla, apenas podía ver el
+        camino para bajar por la escalerilla; el desván parecía negro como
+        una cripta en comparación con aquel arco de aire azul al que había
+        estado mirando, y a aquella escena iluminada por el sol de arboleda,
+        pastizal y verde colina, de la que la mansión era el centro, y sobre la
+        cual había estado contemplando con deleite.</p>
+        
+        <p>La señora Fairfax se quedó atrás un momento para cerrar la
+        trampilla; yo, a fuerza de tantear, encontré la salida del desván y
+        procedí a descender la estrecha escalera del ático. Me detuve en el
+        largo pasillo al que esta conducía, que separaba las habitaciones
+        delanteras y traseras del tercer piso. Estrecho, bajo y oscuro, con
+        solo una pequeña ventana en el extremo más alejado, y que parecía,
+        con sus dos hileras de pequeñas puertas negras todas cerradas, un
+        corredor en algún castillo de Barba Azul.</p>
+
+        <p>Mientras caminaba suavemente, el último sonido que esperaba oír
+        en una región tan silenciosa, una risa, hirió mi oído. Era una risa
+        curiosa; nítida, formal, sin alegría. Me detuve. El sonido cesó, solo
+        por un instante; comenzó de nuevo, más fuerte, pues al principio,
+        aunque nítido, era muy bajo. Se desvaneció en una carcajada
+        clamorosa que pareció despertar un eco en cada cámara solitaria;
+        aunque se originó solo en una, y podría haber señalado la puerta de
+        donde provenían los acentos.</p>
+
+        <p>—¡Señora Fairfax! —grité, pues la oía ahora descender la gran
+        escalera—. ¿Oyó esa fuerte risa? ¿Quién es?</p>
+
+        <p>—Alguno de los criados, muy probablemente —respondió—.
+        Quizás Grace Poole.</p>
+
+        <p>—¿La oyó usted? —inquirí de nuevo.</p>
+
+        <p>—Sí, claramente. La oigo a menudo. Cose en una de estas
+        habitaciones. A veces Leah está con ella; con frecuencia hacen ruido
+        juntas.</p>
+
+        <p>La risa se repitió en su tono bajo y silábico, y terminó en un
+        extraño murmullo.</p>
+
+        <p>—¡Grace! —exclamó la señora Fairfax.</p>
+
+        <p>Realmente no esperaba que ninguna Grace respondiera, pues la
+        risa era tan trágica, tan preternatural como ninguna que hubiera
+        oído jamás; y, de no ser porque era pleno mediodía y que ninguna
+        circunstancia fantasmagórica acompañaba la curiosa carcajada; de
+        no ser porque ni la escena ni la estación favorecían el miedo, habría
+        estado supersticiosamente asustada. Sin embargo, el acontecimiento
+        me demostró que era una tonta por albergar siquiera una sensación
+        de sorpresa.</p>
+
+        <p>La puerta más cercana a mí se abrió y salió una sirvienta, una
+        mujer de entre treinta y cuarenta años; una figura fornida,
+        cuadrada, pelirroja y con un rostro duro y corriente. Difícilmente
+        podría concebirse una aparición menos romántica o menos
+        fantasmal.</p>
+
+        <p>—Demasiado ruido, Grace —dijo la señora Fairfax—. ¡Recuerda las
+        instrucciones! —Grace hizo una reverencia en silencio y entró.</p>
+
+        <p>—Es una persona que tenemos para coser y ayudar a Leah en sus
+        labores de doncella —continuó la viuda—; no del todo irreprochable
+        en algunos puntos, pero se las arregla bastante bien. Por cierto,
+        ¿cómo le ha ido con su nueva alumna esta mañana?</p>
+
+        <p>La conversación, así desviada hacia Adèle, continuó hasta que
+        llegamos a la región luminosa y alegre de abajo. Adèle vino
+        corriendo a nuestro encuentro en el vestíbulo, exclamando:</p>
+
+        <p>—<i>Mesdames, vous êtes servies!</i> —y añadiendo—: <i>J'ai bien faim,
+        moi!</i></p>
+
+        <p>Encontramos la cena lista y esperándonos en la habitación de la
+        señora Fairfax.</p>
+
+        <a class="cambioAnterior" href="cap10.php" rel="prev">Anterior</a>
+        <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
+        <a class="cambioSiguiente" href="cap12.php" rel="next">Siguiente</a>
+    </main>
+</body>
+</html>
+
+
+

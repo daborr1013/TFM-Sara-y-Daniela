@@ -1,0 +1,232 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Capítulo 38</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Este es el capítulo 38">
+    <meta name="keywords" content="HTML, CSS">
+    <link rel="stylesheet" href="../../../../../css/css_caps.css">
+    <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
+</head>
+
+<body>
+    <header>
+        <img class="logo" src="../../../../../media/images/litGrande.png">
+    </header>
+
+    <nav>
+        <a href="../../../../../../index.php">Inicio</a>
+        <a href="../../../../../obras.php">Obras</a>
+        <a href="../../../../../about_us.php">Sobre nosotras</a>
+        <a href="#">Asistente virtual</a>
+        <a href="../../../../../tfm.php">Sobre este proyecto</a>
+        <a href="../../../../../pUsuario.php">Perfil de usuario</a>
+    </nav>    
+
+    <main>
+        <h1>Capítulo XXXVIII - Conclusión</h1>
+        
+        <p>Lector, me casé con él. Tuvimos una boda tranquila. Él y yo, el
+        párroco y el sacristán, éramos los únicos presentes. Cuando
+        volvimos de la iglesia, entré en la cocina de la casa solariega, donde
+        Mary cocinaba la cena y John limpiaba los cuchillos, y dije:</p>
+
+        <p>—Mary, me he casado con el señor Rochester esta mañana.</p>
+
+        <p>El ama de llaves y su marido eran de ese orden de gente decente y
+        flemática a quienes se puede comunicar en cualquier momento con
+        seguridad una noticia notable sin incurrir en el peligro de que le
+        perforen a uno los oídos con alguna exclamación estridente y
+        posteriormente lo aturdan con un torrente de asombro verbal. Mary
+        sí levantó la vista y sí me miró fijamente. El cucharón con el que
+        estaba rociando un par de pollos que se asaban al fuego permaneció
+        suspendido en el aire durante unos tres minutos; y durante el mismo
+        espacio de tiempo los cuchillos de John también descansaron del
+        proceso de pulido. Pero Mary, inclinándose de nuevo sobre el asado,
+        solo dijo:</p>
+
+        <p>—¿De veras, señorita? ¡Vaya por Dios!</p>
+
+        <p>Poco después prosiguió:</p>
+
+        <p>—La vi salir con el amo, pero no sabía que se habían ido a la
+        iglesia a casarse. —Y siguió rociando. John, cuando me volví hacia
+        él, sonreía de oreja a oreja.</p>
+
+        <p>—Ya le dije a Mary cómo sería —dijo—. Sabía lo que el señor
+        Edward (John era un viejo sirviente y había conocido a su amo
+        cuando era el cadete de la casa; por lo tanto, a menudo le daba su
+        nombre de pila), sabía lo que el señor Edward haría; y estaba seguro
+        de que no esperaría mucho tampoco. Y ha hecho bien, por lo que
+        sé. ¡Le deseo felicidad, señorita! —Y se tiró cortésmente del mechón
+        de pelo.</p>
+
+        <p>—Gracias, John. El señor Rochester me dijo que les diera esto a ti
+        y a Mary. —Puse en su mano un billete de cinco libras. Sin esperar a
+        oír más, salí de la cocina. Al pasar por la puerta de ese santuario un
+        tiempo después, capté las palabras:</p>
+
+        <p>—Seguro que le irá mejor con él que cualquiera de las grandes
+        damas. —Y de nuevo—: Aunque no sea de las más guapas, no es
+        nada fea y es muy bondadosa; y a sus ojos es una belleza,
+        cualquiera puede verlo.</p>
+
+        <p>Escribí inmediatamente a Moor House y a Cambridge para decir lo
+        que había hecho, explicando también detalladamente por qué había
+        actuado así. Diana y Mary aprobaron el paso sin reservas. Diana
+        anunció que me daría justo el tiempo para superar la luna de miel y
+        que luego vendría a verme.</p>
+
+        <p>—Será mejor que no espere hasta entonces, Jane —dijo el señor
+        Rochester, cuando le leí su carta—. Si lo hace, será demasiado tarde,
+        pues nuestra luna de miel brillará toda nuestra vida; sus rayos solo
+        se desvanecerán sobre tu tumba o la mía.</p>
+
+        <p>Cómo recibió St. John la noticia, no lo sé. Nunca respondió a la
+        carta en la que se la comuniqué. Sin embargo, seis meses después
+        me escribió, sin mencionar, no obstante, el nombre del señor
+        Rochester ni aludir a mi matrimonio. Su carta era entonces serena y,
+        aunque muy seria, amable. Ha mantenido una correspondencia
+        regular, aunque no frecuente, desde entonces. Espera que sea feliz y
+        confía en que no sea de aquellos que viven sin Dios en el mundo y
+        solo se preocupan por las cosas terrenales.</p>
+
+        <p>No ha olvidado del todo a la pequeña Adèle, ¿verdad, lector? Yo
+        no. Pronto pedí y obtuve permiso del señor Rochester para ir a verla
+        a la escuela donde la había puesto. Su alegría frenética al volver a
+        verme me conmovió mucho. Parecía pálida y delgada; dijo que no
+        era feliz. Descubrí que las reglas del establecimiento eran demasiado
+        estrictas, su curso de estudios demasiado severo para una niña de
+        su edad. La llevé a casa conmigo. Tenía la intención de convertirme
+        de nuevo en su institutriz, pero pronto descubrí que era
+        impracticable. Mi tiempo y mis cuidados eran ahora requeridos por
+        otro: mi marido los necesitaba todos. Así que busqué una escuela
+        dirigida con un sistema más indulgente y lo suficientemente cerca
+        como para permitirme visitarla a menudo y traerla a casa a veces.
+        Me encargué de que nunca le faltara nada que pudiera contribuir a
+        su comodidad. Pronto se instaló en su nueva morada, se volvió muy
+        feliz allí e hizo buenos progresos en sus estudios. A medida que
+        crecía, una sólida educación inglesa corrigió en gran medida sus
+        defectos franceses; y cuando dejó la escuela, encontré en ella una
+        compañera agradable y servicial: dócil, de buen carácter y con
+        buenos principios. Con su agradecida atención hacia mí y los míos,
+        hace mucho que ha pagado con creces cualquier pequeña
+        amabilidad que haya estado en mi poder ofrecerle.</p>
+
+        <p>Mi relato llega a su fin. Una palabra respecto a mi experiencia de
+        la vida matrimonial, y una breve mirada a las fortunas de aquellos
+        cuyos nombres han recurrido con más frecuencia en esta narración,
+        y habré terminado.</p>
+
+        <p>Llevo ya diez años casada. Sé lo que es vivir enteramente para y
+        con lo que más amo en la tierra. Me considero sumamente
+        bendecida, bendecida más allá de lo que el lenguaje puede
+        expresar; porque soy la vida de mi marido tan plenamente como él
+        es la mía. Ninguna mujer estuvo jamás más cerca de su compañero
+        que yo; nunca más absolutamente hueso de su hueso y carne de su
+        carne. No conozco el cansancio de la compañía de mi Edward; él no
+        conoce ninguno de la mía, no más de lo que cada uno de nosotros
+        conoce la pulsación del corazón que late en nuestros pechos
+        separados; en consecuencia, estamos siempre juntos. Estar juntos
+        es para nosotros ser a la vez tan libres como en la soledad, tan
+        alegres como en compañía. Hablamos, creo, todo el día. Hablar el
+        uno con el otro no es más que un pensar más animado y audible.
+        Toda mi confianza se la otorgo a él, toda su confianza se me dedica
+        a mí; somos precisamente adecuados en carácter, la concordia
+        perfecta es el resultado.</p>
+
+        <p>El señor Rochester continuó ciego los dos primeros años de
+        nuestra unión. Quizás fue esa circunstancia la que nos acercó tanto,
+        la que nos unió tan estrechamente; pues yo era entonces su visión,
+        como sigo siendo su mano derecha. Literalmente, yo era (lo que a
+        menudo me llamaba) la niña de sus ojos. Él veía la naturaleza, veía
+        los libros a través de mí; y nunca me cansé de mirar por él y de
+        poner en palabras el efecto del campo, el árbol, la ciudad, el río, la
+        nube, el rayo de sol, del paisaje ante nosotros, del tiempo a nuestro
+        alrededor, e imprimir con el sonido en su oído lo que la luz ya no
+        podía estampar en su ojo. Nunca me cansé de leerle; nunca me
+        cansé de conducirlo adonde deseaba ir, de hacer por él lo que
+        deseaba que se hiciera. Y había un placer en mis servicios, de lo
+        más pleno, de lo más exquisito, aunque triste, porque él reclamaba
+        estos servicios sin dolorosa vergüenza ni humillación desalentadora.
+        Me amaba tan verdaderamente que no conocía renuencia en
+        aprovecharse de mi atención; sentía que lo amaba tan tiernamente
+        que prestar esa atención era complacer mis más dulces deseos.</p>
+
+        <p>Una mañana, al final de los dos años, mientras yo escribía una
+        carta a su dictado, se acercó, se inclinó sobre mí y dijo:</p>
+
+        <p>—Jane, ¿tienes un adorno brillante alrededor del cuello?</p>
+
+        <p>Llevaba una cadena de reloj de oro. Respondí:</p>
+
+        <p>—Sí.</p>
+
+        <p>—¿Y llevas un vestido azul pálido?</p>
+
+        <p>Así lo hice. Me informó entonces de que, desde hacía algún
+        tiempo, le había parecido que la oscuridad que nublaba un ojo se
+        estaba volviendo menos densa; y que ahora estaba seguro de ello.</p>
+
+        <p>Él y yo subimos a Londres. Recibió el consejo de un eminente
+        oculista; y finalmente recuperó la vista de ese único ojo. Ahora no
+        puede ver con mucha claridad; no puede leer ni escribir mucho; pero
+        puede encontrar su camino sin que lo lleven de la mano. El cielo ya
+        no es un vacío para él, la tierra ya no es un hueco. Cuando le
+        pusieron a su primogénito en brazos, pudo ver que el niño había
+        heredado sus propios ojos, como eran antes: grandes, brillantes y
+        negros. En esa ocasión, de nuevo, con el corazón lleno, reconoció
+        que Dios había atemperado el juicio con la misericordia.</p>
+
+        <p>Mi Edward y yo, pues, somos felices; y más aún, porque aquellos
+        a quienes más amamos son felices igualmente. Diana y Mary Rivers
+        están ambas casadas. Alternativamente, una vez al año, vienen a
+        vernos y nosotros vamos a verlas. El marido de Diana es un capitán
+        de la marina, un oficial gallardo y un buen hombre. El de Mary es un
+        clérigo, un amigo de la universidad de su hermano y, por sus logros
+        y principios, digno de la conexión. Tanto el Capitán Fitzjames como
+        el señor Wharton aman a sus esposas y son amados por ellas.</p>
+
+        <p>En cuanto a St. John Rivers, dejó Inglaterra; se fue a la India.
+        Entró en el camino que se había marcado; todavía lo sigue. Un
+        pionero más resuelto e infatigable nunca trabajó en medio de rocas
+        y peligros. Firme, fiel y devoto, lleno de energía, celo y verdad,
+        trabaja por su raza; despeja su doloroso camino hacia la mejora;
+        derriba como un gigante los prejuicios de credo y casta que lo
+        obstaculizan. Puede que sea severo; puede que sea exigente; puede
+        que sea ambicioso todavía; pero la suya es la severidad del guerrero
+        Gran Corazón, que protege su convoy de peregrinos del ataque de
+        Apolión. La suya es la exigencia del apóstol, que habla solo por
+        Cristo cuando dice: «El que quiera venir en pos de mí, niéguese a sí
+        mismo, tome su cruz y sígame». La suya es la ambición del gran
+        espíritu maestro, que aspira a ocupar un lugar en la primera fila de
+        los que son redimidos de la tierra, que están sin mancha ante el
+        trono de Dios, que comparten las últimas y poderosas victorias del
+        Cordero, que son llamados, y elegidos, y fieles.</p>
+
+        <p>St. John no está casado; ya no se casará nunca. Él mismo ha
+        bastado hasta ahora para la tarea, y la tarea se acerca a su fin. Su
+        glorioso sol se apresura a su ocaso. La última carta que recibí de él
+        arrancó de mis ojos lágrimas humanas y, sin embargo, llenó mi
+        corazón de alegría divina. Él anticipaba su recompensa segura, su
+        corona incorruptible. Sé que la mano de un extraño me escribirá la
+        próxima vez para decir que el siervo bueno y fiel ha sido llamado por
+        fin al gozo de su Señor. ¿Y por qué llorar por esto? Ningún temor a
+        la muerte oscurecerá la última hora de St. John. Su mente estará
+        despejada, su corazón intrépido, su esperanza segura, su fe firme.
+        Sus propias palabras son una promesa de ello:</p>
+
+        <p>«Mi Maestro», dice, «me ha prevenido. Diariamente anuncia con
+        más claridad: “¡Ciertamente, vengo en breve!”. Y cada hora yo
+        respondo con más avidez: “¡Amén; sí, ven, Señor Jesús!”».</p>
+        
+        <h1>FIN</h1>
+        
+        <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
+        <a class="cambioAnterior" href="cap37.php" rel="prev">Anterior</a>
+    </main>
+</body>
+</html>
+
+
+

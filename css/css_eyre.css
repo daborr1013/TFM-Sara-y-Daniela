@@ -1,5 +1,5 @@
 body {
-    font-family: comic sans, cursive, sans-serif;
+    font-family: 'Inter', system-ui, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #ffffff;
@@ -14,23 +14,26 @@ h1 {
 }
 
 h2 {
+    font-style: italic;
     color: #000000;
     margin-top: 20px;
 }
 
-button {
-    background-color: #a68cca;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    margin-top: 20px;
-    cursor: pointer;
+h3 {
+    font-weight: bold;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
+header{
+    background-color: #6a4c93;
+}
+
+nav{
+    padding: 10px 20px;
     margin-top: 20px;
+}
+
+.logo{
+    width: 10%; 
     text-align: center;
 }
 
@@ -41,38 +44,100 @@ footer {
     color: white;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.menu{
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+.boton{
+    font-family: 'Inter', system-ui, sans-serif;
+    background-color: #694c9337;
+	text-align: left;
+	line-height: 50px;
+	margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 15px;
+	border-style: double;
+	border-radius: 20px;
+}
+
+.pjustificado{
+    text-align: justify;
+    text-indent: 20px;
+    margin: 20px
+}
+
+nav a {
+    display: inline-block;
+    margin: 0 15px;
+    color: #000000;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #6a4c93;
+}
+
+.hero {
+    background: linear-gradient(135deg, #6a4c93 0%, #a8dadc 100%);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.hero h2 {
+    color: white;
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.hero p {
+    margin-top: 10px;
+    font-size: 1.1em;
+}
+
 .sidebar {
-  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 1000;
-  height: 100%;
-  overflow: auto;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px;
+    border-left: 4px solid #6a4c93;
 }
 
 .sidebar a {
-  display: block;
-  color: black;
-  padding: 16px;
-  text-decoration: none;
+    display: block;
+    padding: 12px 15px;
+    margin: 8px 0;
+    text-decoration: none;
+    color: #333333;
+    background-color: white;
+    border-radius: 5px;
+    transition: all 0.3s;
+    border-left: 3px solid transparent;
+}
+
+.sidebar a:hover {
+    background-color: #e8e8e8;
+    border-left-color: #6a4c93;
+    padding-left: 20px;
 }
 
 .sidebar a.active {
-  background-color: #a68cca;
-  color: white;
-}
-
-.sidebar a:hover:not(.active) {
-  background-color: #555;
-  color: white;
-}
-
-div.content {
-  margin-left: 200px;
-  padding: 1px 16px;
-  height: 1000px;
+    background-color: #6a4c93;
+    color: white;
+    border-left-color: #6a4c93;
 }
