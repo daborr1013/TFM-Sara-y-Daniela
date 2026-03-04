@@ -1,5 +1,4 @@
-﻿?>
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -10,28 +9,28 @@
 <body>
 
 <header>
-    <h1>Litterally </h1>
-    <nav>
-        <a href="index.html">Inicio</a>
-        <a href="content/obras.html">Obras/</a>
-        <a href="content/about_us.html">Sobre nosotras</a>
-        <a href="#">Asistente virtual</a>
-        <a href="content/tfm.html">Sobre este proyecto</a>
-        <a href="content/pUsuario.html">Perfil de usuario</a>
-    </nav>
+    <img class="logo" src="media/images/litGrande.png">
 </header>
+
+<nav>
+    <a href="index.php">Inicio</a>
+    <a href="../obras.php">Obras</a>
+    <a href="../about_us.php">Sobre nosotras</a>
+    <a href="#">Asistente virtual</a>
+    <a href="../tfm.php">Sobre este proyecto</a>
+    <a href="../pUsuario.php">Perfil de usuario</a>
+</nav>
 
 <main>
     <section class="hero">
         <h2>Inicio</h2>
         <p>Bienvenido a <i>Litterally</i>, una plataforma en la que puedes explorar y analizar obras literarias de forma interactiva.</p>
-    </section>
 
-    <section class="content">
-        <h3>Jane Eyre</h3>
-        <p>Jane Eyre es una novela de Charlotte Brontë publicada en 1847...</p>
-        <button>
-          <a href="content/works/eyre.html">Ver más detalles</a>
+        <p>Actualmente, esta plataforma cuenta con la novela Jane Eyre, pero esperamos poder ir actualizando 
+            la página con más obras para que aprendas con ellas</p>
+
+        <button class="boton">
+          <a href="content/works/eyre.php">Accede a Jane Eyre</a>
         </button>
     </section>
 </main>

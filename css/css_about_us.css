@@ -25,15 +25,6 @@ main p {
     text-align: justify;
 }
 
-button {
-    background-color: #a68cca;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    margin-top: 20px;
-    cursor: pointer;
-}
-
 header{
     background-color: #6a4c93;
 }

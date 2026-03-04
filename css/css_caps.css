@@ -82,12 +82,3 @@ main p {
 	border-style: double;
 	border-radius: 20px;
 }
-
-button {
-    background-color: #a68cca;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    margin-top: 20px;
-    cursor: pointer;
-}

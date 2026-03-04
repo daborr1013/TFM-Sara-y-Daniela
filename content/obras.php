@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Litterally</title>
+    <link rel="stylesheet" href="../css/css_obras.css">
+    <link rel="icon" href="../media/images/iconoPestanaClara.png">
+</head>
+<body>
+
+<header>
+    <img class="logo" src="../media/images/litGrande.png">
+</header>
+
+<nav>
+    <a href="../index.php">Inicio</a>
+    <a href="obras.php">Obras</a>
+    <a href="about_us.php">Sobre nosotras</a>
+    <a href="#">Asistente virtual</a>
+    <a href="tfm.php">Sobre este proyecto</a>
+    <a href="pUsuario.php">Perfil de usuario</a>
+</nav>
+
+<main>
+    <section class="hero">
+        <h2>Catálogo de obras disponibles</h2>
+        <p>En este apartado puedes ver las obras que tenemos disponibles en el momento,¡haz click sobre la que más te guste!</p>
+        <p>Estamos trabajando actualmente en poder proporcionar más obras y materiales educativos de ellas, ¡mantente atento a las novedades!</p> 
+        <p>También puedes ponerte en contacto con nosotras para sugerir una obra.</p>
+    </section>
+
+    <hr>
+
+    <section class="content">
+        <table>
+            <tr>
+                <a id="j_eyre" href="works/eyre.php" target="_blank">
+                    <img class="portada" src="../media/images/portadaJane.png" alt="Portada de Jane Eyre">
+                </a>
+            </tr>
+        </table>
+
+    </section>
+</main>
+
+<footer>
+    <p>TFM – Letras Digitales – UCM</p>
+</footer>
+
+</body>
+</html>
+
+
+
+
