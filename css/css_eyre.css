@@ -18,13 +18,6 @@ h2 {
     margin-top: 20px;
 }
 
-main p {
-    margin: 1rem;
-    padding: 1rem;
-    background-color: #ffffff;
-    text-align: justify;
-}
-
 button {
     background-color: #a68cca;
     color: white;
@@ -60,4 +53,21 @@ img {
     height: auto;
     margin-top: 20px;
     text-align: center;
+}
+
+.menu{
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+.boton{
+    font-family: 'Inter', system-ui, sans-serif;
+    background-color: #694c9337;
+	text-align: left;
+	line-height: 50px;
+	margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 15px;
+	border-style: double;
+	border-radius: 20px;
 }

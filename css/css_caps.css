@@ -50,21 +50,37 @@ main p {
 .cambioSiguiente{
     font-family: 'Inter', system-ui, sans-serif;
     background-color: #694c9337;
-	text-align: right;
+	text-align: center;
 	line-height: 50px;
-	margin: 30px 250px 30px 250px;
+	margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 15px;
 	border-style: double;
-	border-radius: 4px;
+	border-radius: 20px;
 }
 
 .cambioAnterior{
     font-family: 'Inter', system-ui, sans-serif;
     background-color: #694c9337;
-	text-align: left;
+	text-align: center;
 	line-height: 50px;
-	margin: 30px 250px 30px 250px;
+	margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 15px;
 	border-style: double;
-	border-radius: 4px;
+	border-radius: 20px;
+}
+
+.boton{
+    font-family: 'Inter', system-ui, sans-serif;
+    background-color: #694c9337;
+	text-align: center;
+	line-height: 50px;
+	margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 15px;
+	border-style: double;
+	border-radius: 20px;
 }
 
 button {
