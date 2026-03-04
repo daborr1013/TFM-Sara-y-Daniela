@@ -14,11 +14,11 @@
 
 <nav>
     <a href="index.php">Inicio</a>
-    <a href="../obras.php">Obras</a>
-    <a href="../about_us.php">Sobre nosotras</a>
+    <a href="content/obras.php">Obras</a>
+    <a href="content/about_us.php">Sobre nosotras</a>
     <a href="#">Asistente virtual</a>
-    <a href="../tfm.php">Sobre este proyecto</a>
-    <a href="../pUsuario.php">Perfil de usuario</a>
+    <a href="content/tfm.php">Sobre este proyecto</a>
+    <a href="content/pUsuario.php">Perfil de usuario</a>
 </nav>
 
 <main>
