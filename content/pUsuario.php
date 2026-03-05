@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Litterally</title>
-    <link rel="stylesheet" href="../css/css_about_us.css">
+    <link rel="stylesheet" href="../css/css_pUsuario.css">
     <link rel="icon" href="../media/images/iconoPestanaClara.png">
 </head>
 <body>
@@ -31,14 +31,30 @@
 </nav>
 
 <main>
-    <section class="hero">
-        <h2>lorem ipsum</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit maecenas, ridiculus magna fames semper himenaeos commodo per pellentesque primis, ligula massa nunc cubilia duis nisl laoreet vel, potenti nascetur mollis habitant senectus congue porta. At litora magnis curabitur fusce pharetra vestibulum maecenas platea ornare, praesent hac donec venenatis dignissim turpis parturient blandit cum sapien, et conubia diam tristique vehicula rutrum ridiculus augue. Sollicitudin felis id orci nibh sem nisi proin auctor nec, a conubia penatibus hendrerit mauris platea augue sociosqu convallis, montes taciti habitasse bibendum in et aenean vehicula.</p>
-    </section>
+    <div class="user-card">
+        <div class="profile-picture">
+            <img src="../media/images/pfp.jpg" alt="Foto de perfil">
+        </div>
+        <div class="user-info">
+            <h2>Nombre de usuario: Nombre Apellidos.</h2>
+            <p>Id usuario: 12345A.</p>
+            <p>Miembro desde: 2026.</p>
+            <p>Edad: 25 años.</p>
+            <p>Correo electrónico: correo@ucm.es.</p>
+            <p>Obras favoritas: Jane Eyre, Orgullo y prejuicio, Cumbres borrascosas.</p>
+            <p>Géneros literarios favoritos: terror, romance.</p>
+        </div>
+        <div class="edit-profile">
+            <button>Editar perfil</button>
+        </div>
+        <div class="barcode">
+            <img src="../media/images/barcode.avif" alt="Código de barras">
+        </div>
+    </div>
 
-    <section class="content">
-        <img src="../media/images/a.jfif" alt="Portada de Jane Eyre">
-    </section>
+        <a id="progreso" href="#" target="_blank">
+            <img class="progreso-img" src="../media/images/libro.avif" alt="Icono de libro">
+        </a>
 </main>
 
 <footer>

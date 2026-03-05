@@ -34,11 +34,6 @@
 <main>
     <section class="hero">
         <h2>Resúmenes y capítulos</h2>
-        <section>
-            <p>Aquí puedes encontrar los capítulos completos de la obra junto a sus resúmenes. Como podrás ver, están separados
-            en distintas etapas, ¿sabes por qué?</p>
-            <p>Durante la historia, estos son los principales lugares o eventos que marcan el camino de Jane.</p>
-        </section>
     </section>    
 
     <div class="layout">
@@ -90,6 +85,11 @@
             </div>
 
         <section class="contenido">
+            <section>
+                <p>Aquí puedes encontrar los capítulos completos de la obra junto a sus resúmenes. Como podrás ver, están separados
+                en distintas etapas, ¿sabes por qué?</p>
+                <p>Durante la historia, estos son los principales lugares o eventos que marcan el camino de Jane.</p>
+            </section>
             <section class="menu">
                 <details>
                     <summary><b>Infancia en Gateshead</b></summary>

@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Litterally</title>
     <link rel="stylesheet" href="../../css/css_eyre.css">
+    <link rel="icon" href="../../media/images/iconoPestanaClara.png">
 </head>
 
 <body>

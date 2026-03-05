@@ -19,7 +19,7 @@
             <li class="dropdown">
                 <a href="../../../obras.php">Obras</a>
                 <ul class="dropdown-menu">
-                    <li><a href="works/eyre.php">Jane Eyre</a></li>
+                    <li><a href="../../eyre.php">Jane Eyre</a></li>
                 </ul>
             </li>
 
@@ -32,8 +32,7 @@
 
     <main>
         <section class="hero">
-            <h2>Jane Eyre</h2>
-            <p>Obra esencial de la literatura inglesa del siglo XIX.</p>
+            <h2>Resúmenes</h2>
         </section>
 
         <div class="layout">

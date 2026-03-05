@@ -32,7 +32,7 @@
 
 <main>
     <section class="hero">
-        <h2>Jane Eyre</h2>
+        <h2>Rellenar</h2>
         <p>Obra esencial de la literatura inglesa del siglo XIX.</p>
     </section>
 

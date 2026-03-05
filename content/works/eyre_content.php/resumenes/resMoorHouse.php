@@ -21,7 +21,7 @@
             <li class="dropdown">
                 <a href="../../../obras.php">Obras</a>
                 <ul class="dropdown-menu">
-                    <li><a href="works/eyre.php">Jane Eyre</a></li>
+                    <li><a href="../../eyre.php">Jane Eyre</a></li>
                 </ul>
             </li>
 
