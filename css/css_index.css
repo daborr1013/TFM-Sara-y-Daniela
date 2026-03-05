@@ -29,10 +29,63 @@ header{
     background-color: #6a4c93;
 }
 
+/*barra de navegación*/
 nav{
     padding: 10px 20px;
     margin-top: 20px;
 }
+
+.navbar {
+  background: linear-gradient(135deg, #6a4c93 0%, #a8dadc 100%); 
+  padding: 10px;
+  overflow: visible;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.menu li {
+  position: relative;
+}
+
+.menu a {
+  text-decoration: none;
+  color: white;
+  padding: 8px 12px;
+  display: block;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #c3b7d2;
+  list-style: none;
+  padding: 0;
+  min-width: 150px;
+  z-index: 1000;
+}
+
+.dropdown-menu li a {
+  padding: 10px 15px;
+  display: block;
+  color: white;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu li a:hover {
+  background: #694c93;
+}
+
+/* fin barra navegación */
 
 .logo{
     width: 10%; 
@@ -41,14 +94,14 @@ nav{
 
 .boton{
     font-family: 'Inter', system-ui, sans-serif;
-    background-color: #694c9337;
-	text-align: center;
-	line-height: 50px;
-	margin-top: 40px;
+    background-color: #a8dadc;
+	  text-align: center;
+    line-height: 50px;
+    margin-top: 40px;
     margin-bottom: 40px;
-    padding: 15px;
-	border-style: double;
-	border-radius: 20px;
+    padding: 10px;
+    border-style: double;
+    border-radius: 20px;
 }
 
 footer {

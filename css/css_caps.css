@@ -1,84 +1,239 @@
 body {
-    font-family: 'Charter', 'Bitstream Charter', 'Sitka Text', Georgia, serif;
-    background-color: #f8e9d8;
+  font-family: 'Charter', 'Bitstream Charter', 'Sitka Text', Georgia, serif;
+  background-color: #f8e9d8;
 }
 
 header{
-    background-color: #6a4c93;
-    text-align: center;
+  background-color: #6a4c93;
+  text-align: center;
 }
 
 .logo{
-    width: 10%; 
-    text-align: center;
+  width: 10%; 
+  text-align: center;
 }
 
+/*barra de navegación principal*/
 nav {
-    font-family: 'Inter', system-ui, sans-serif;
-    background-color: #694c9337;
-	text-align: center;
-	line-height: 50px;
-	margin: 30px 250px 30px 250px;
-	border-style: double;
-	border-radius: 4px;
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #6b4f97;
+  text-align: center;
+  line-height: 50px;
+  width: 100%;  
 }
+
+.navbar {
+  background: #6b4f97; 
+  padding: 1px;
+  overflow: visible;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.menu li {
+  position: relative;
+}
+
+.menu a {
+  text-decoration: none;
+  color: white;
+  padding: 8px 12px;
+  display: block;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #c3b7d2;
+  list-style: none;
+  padding: 0;
+  min-width: 150px;
+  z-index: 1000;
+}
+
+.dropdown-menu li a {
+  padding: 10px 15px;
+  display: block;
+  color: white;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu li a:hover {
+  background: #694c93;
+}
+
+/* fin barra navegación */
 
 h1 {
-    color: #333;
-    padding: 20px;
-    text-align: center;
+  color: #333;
+  padding: 20px;
+  text-align: center;
 }
 
 main p {
-    text-indent: 25px;
-    text-align: justify;
-    line-height: 1.6;
-    font-size: 1.1rem;
-    color: #333;
-    max-width: 700px;
-    margin: 0 auto;
-    padding: 0.5rem;
+  text-indent: 25px;
+  text-align: justify;
+  line-height: 1.6;
+  font-size: 1.1rem;
+  color: #333;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0.5rem;
 }
 
 .centradoP{
-    margin: 0 auto;
-    padding: 0.5rem;    
-    text-align: center;
-    font-style: italic;
+  margin: 0 auto;
+  padding: 0.5rem;    
+  text-align: center;
+  font-style: italic;
 }
 
 .cambioSiguiente{
-    font-family: 'Inter', system-ui, sans-serif;
-    background-color: #694c9337;
-	text-align: center;
-	line-height: 50px;
-	margin-top: 40px;
-    margin-bottom: 40px;
-    padding: 15px;
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #694c9337;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 15px;
 	border-style: double;
 	border-radius: 20px;
 }
 
 .cambioAnterior{
-    font-family: 'Inter', system-ui, sans-serif;
-    background-color: #694c9337;
-	text-align: center;
-	line-height: 50px;
-	margin-top: 40px;
-    margin-bottom: 40px;
-    padding: 15px;
-	border-style: double;
-	border-radius: 20px;
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #694c9337;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 15px;
+  border-style: double;
+  border-radius: 20px;
 }
 
 .boton{
-    font-family: 'Inter', system-ui, sans-serif;
-    background-color: #694c9337;
-	text-align: center;
-	line-height: 50px;
-	margin-top: 40px;
-    margin-bottom: 40px;
-    padding: 15px;
-	border-style: double;
-	border-radius: 20px;
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #694c9337;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 15px;
+  border-style: double;
+  border-radius: 20px;
+}
+
+.botonesFinales {
+  display: flex;          
+  justify-content: center;
+  gap: 10px;               
+  margin-top: 20px;       
+}
+
+.layout{
+  display: flex;
+  align-items: flex-start;
+}
+
+.contenido{
+  flex: 1;
+  padding: 20px;
+  text-align: left;
+}
+
+.sidebar {
+    width: 220px;
+    flex-shrink: 0;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 8px;
+    margin-right: 20px;
+    border-left: 4px solid #6a4c93;
+
+    position: sticky;
+    top: 20px;
+
+    max-height: calc(100vh - 40px);
+    overflow-y: auto;
+}
+
+.sidebar a {
+    display:block;
+    padding:10px;
+    margin:0;
+    text-decoration:none;
+    color:#333;
+    background-color:white;
+    border-radius:5px;
+}
+
+.menu-sidebar{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: #f5f5f5;
+}
+
+.menu-sidebar li{
+    margin: 0;
+    padding: 0;
+}
+
+.menu-sidebar a {
+    font-family: 'Charter', 'Bitstream Charter', 'Sitka Text', Georgia, serif;
+    display: block;
+    padding: 1px 15px;
+    margin: 8px 0;
+    text-decoration: none;
+    color: #333333;
+    background-color: white;
+    border-radius: 5px;
+    transition: all 0.3s;
+    border-left: 3px solid transparent;
+}
+
+.menu-sidebar a:hover {
+    background-color: #e8e8e8;
+    border-left-color: #6a4c93;
+    padding-left: 20px;
+}
+
+.dropdown-sidebar .dropdown-menu-sidebar {
+    display: none;
+    list-style: none;
+    padding-left: 10px;
+    margin-top: 5px;
+}
+
+.dropdown-sidebar:hover .dropdown-menu-sidebar {
+    display: block;
+}
+
+.dropdown-menu-sidebar li a {
+    background-color: #ffffff;
+    margin: 5px 0;
+    padding: 1px 15px;
+    border-left: 3px solid transparent;
+}
+
+.dropdown-menu-sidebar li a:hover {
+    background-color: #e8e8e8;
+    border-left-color: #6a4c93;
+}
+
+.dropdown-menu-sidebar{
+    list-style: none;
+    padding-left: 10px;
 }

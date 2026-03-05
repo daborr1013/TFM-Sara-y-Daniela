@@ -13,6 +13,10 @@ h1 {
     text-align: center;
 }
 
+.contenido h3{
+    justify-content: center;
+}
+
 h2 {
     font-style: italic;
     color: #000000;
@@ -27,10 +31,60 @@ header{
     background-color: #6a4c93;
 }
 
-nav{
-    padding: 10px 20px;
-    margin-top: 20px;
+/*barra de navegación principal*/
+
+.navbar { 
+  padding: 10px;
+  overflow: visible;
 }
+
+.menu {
+    background: white;
+    color: black;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.menu li {
+  position: relative;
+}
+
+.menu a {
+  text-decoration: none;
+  color: black;
+  padding: 8px 12px;
+  display: block;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #c3b7d2;
+  list-style: none;
+  padding: 0;
+  min-width: 150px;
+  z-index: 1000;
+}
+
+.dropdown-menu li a {
+  padding: 10px 15px;
+  display: block;
+  color: white;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu li a:hover {
+  background: #694c93;
+}
+
+/* fin barra navegación */
 
 .logo{
     width: 10%; 
@@ -58,12 +112,12 @@ img {
 
 .boton{
     font-family: 'Inter', system-ui, sans-serif;
-    background-color: #694c9337;
+    background-color: #a8dadc;
 	text-align: left;
 	line-height: 50px;
 	margin-top: 40px;
     margin-bottom: 40px;
-    padding: 15px;
+    padding: 10px;
 	border-style: double;
 	border-radius: 20px;
 }
@@ -90,7 +144,7 @@ nav a:hover {
 .hero {
     background: linear-gradient(135deg, #6a4c93 0%, #a8dadc 100%);
     color: white;
-    padding: 60px 20px;
+    padding: 50px 20px;
     text-align: center;
     border-radius: 10px;
     margin: 20px;
@@ -107,20 +161,62 @@ nav a:hover {
     font-size: 1.1em;
 }
 
-.sidebar {
+
+.layout{
+    font-family: 'Inter', system-ui, sans-serif;
     display: flex;
-    flex-direction: column;
-    width: 200px;
+    align-items: flex-start;
+}
+
+.contenido{
+  flex: 1;
+  padding: 20px;
+  text-align: left;
+}
+
+.sidebar {
+    width: 300px;
+    flex-shrink: 0;
     background-color: #f5f5f5;
-    padding: 20px;
+    padding: 10px;
     border-radius: 8px;
-    margin: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
     border-left: 4px solid #6a4c93;
+
+    position: sticky;
+    top: 20px;
+
+    max-height: calc(100vh - 40px);
+    overflow-y: auto;
 }
 
 .sidebar a {
+    display:block;
+    padding:10px;
+    margin:0;
+    text-decoration:none;
+    color:#333;
+    background-color:white;
+    border-radius:5px;
+}
+
+.menu-sidebar{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: #f5f5f5;
+}
+
+.menu-sidebar li{
+    margin: 0;
+    padding: 0;
+}
+
+.menu-sidebar a {
+    font-family: 'Inter', system-ui, sans-serif;
     display: block;
-    padding: 12px 15px;
+    padding: 1px 15px;
     margin: 8px 0;
     text-decoration: none;
     color: #333333;
@@ -130,14 +226,31 @@ nav a:hover {
     border-left: 3px solid transparent;
 }
 
-.sidebar a:hover {
+.menu-sidebar a:hover {
     background-color: #e8e8e8;
     border-left-color: #6a4c93;
     padding-left: 20px;
 }
 
-.sidebar a.active {
-    background-color: #6a4c93;
-    color: white;
+.dropdown-sidebar .dropdown-menu-sidebar {
+    display: none;
+    list-style: none;
+    padding-left: 10px;
+    margin-top: 5px;
+}
+
+.dropdown-sidebar:hover .dropdown-menu-sidebar {
+    display: block;
+}
+
+.dropdown-menu-sidebar li a {
+    background-color: #ffffff;
+    margin: 5px 0;
+    padding: 1px 15px;
+    border-left: 3px solid transparent;
+}
+
+.dropdown-menu-sidebar li a:hover {
+    background-color: #e8e8e8;
     border-left-color: #6a4c93;
 }
