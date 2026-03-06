@@ -1,9 +1,9 @@
-ï»¿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>CapÃ­tulo 6</title>
+    <title>Capítulo 6</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el capÃ­tulo 6">
+    <meta name="description" content="Este es el capítulo 6">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -27,7 +27,7 @@
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
             <li><a href="#">Asistente virtual</a></li>
-            <li><a href="../../../../tfm.php">Sobre este proyecto</a></li>
+
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
     </nav>
@@ -39,21 +39,21 @@
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="../../intro_obra.php">IntroducciÃ³n a la obra</a></li>
+                        <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contenido_eyre.php">Contenido</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../resumenes/resumenes.php">ResÃºmenes</a></li>
-                                <li><a href="../../capitulos.php">CapÃ­tulos</a></li>
+                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
+                                <li><a href="../../capitulos.php">Capítulos</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte BrontÃ«</a></li>
-                                <li><a href="contexto_historico.php">Contexto histÃ³rico</a></li>
+                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
+                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
                             </ul>
                         </li>
 
@@ -61,7 +61,7 @@
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">SÃ­mbolos</a></li>
+                                <li><a href="simbolos.php">Símbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
                                 <li><a href="mapa.php">Mapa</a></li>
@@ -82,368 +82,368 @@
             </div>
             
             <section class="contenido">
-                <h1>CapÃ­tulo VI</h1>
+                <h1>Capítulo VI</h1>
                 
-                <p>El dÃ­a siguiente comenzÃ³ como el anterior, levantÃ¡ndonos y
-                vistiÃ©ndonos a la luz de una lamparilla; pero esta maÃ±ana nos vimos
+                <p>El día siguiente comenzó como el anterior, levantándonos y
+                vistiéndonos a la luz de una lamparilla; pero esta mañana nos vimos
                 obligadas a prescindir de la ceremonia de lavarnos; el agua de las
-                jarras estaba congelada. El tiempo habÃ­a cambiado la tarde anterior,
-                y un agudo viento del nordeste, que silbÃ³ toda la noche por las
-                rendijas de las ventanas de nuestro dormitorio, nos habÃ­a hecho
-                tiritar en nuestras camas y habÃ­a convertido el contenido de los
+                jarras estaba congelada. El tiempo había cambiado la tarde anterior,
+                y un agudo viento del nordeste, que silbó toda la noche por las
+                rendijas de las ventanas de nuestro dormitorio, nos había hecho
+                tiritar en nuestras camas y había convertido el contenido de los
                 aguamaniles en hielo.</p>
 
                 <p>Antes de que terminara la larga hora y media de oraciones y
-                lectura de la Biblia, me sentÃ­a a punto de perecer de frÃ­o. Por fin
-                llegÃ³ la hora del desayuno, y esta maÃ±ana las gachas no estaban
-                quemadas; la calidad era comestible, la cantidad pequeÃ±a. Â¡QuÃ©
-                pequeÃ±a me pareciÃ³ mi porciÃ³n! DeseÃ© que hubiera sido el doble.</p>
+                lectura de la Biblia, me sentía a punto de perecer de frío. Por fin
+                llegó la hora del desayuno, y esta mañana las gachas no estaban
+                quemadas; la calidad era comestible, la cantidad pequeña. ¡Qué
+                pequeña me pareció mi porción! Deseé que hubiera sido el doble.</p>
 
-                <p>En el transcurso del dÃ­a fui inscrita como miembro de la cuarta
+                <p>En el transcurso del día fui inscrita como miembro de la cuarta
                 clase, y se me asignaron tareas y ocupaciones regulares; hasta
-                entonces, solo habÃ­a sido una espectadora de los procedimientos en
+                entonces, solo había sido una espectadora de los procedimientos en
                 Lowood; ahora iba a convertirme en una actriz en ellos. Al principio,
                 poco acostumbrada a aprender de memoria, las lecciones me
-                parecieron largas y difÃ­ciles; el frecuente cambio de una tarea a otra,
-                tambiÃ©n, me desconcertaba; y me alegrÃ© cuando, sobre las tres de
-                la tarde, la seÃ±orita Smith me puso en las manos un borde de
+                parecieron largas y difíciles; el frecuente cambio de una tarea a otra,
+                también, me desconcertaba; y me alegré cuando, sobre las tres de
+                la tarde, la señorita Smith me puso en las manos un borde de
                 muselina de dos yardas de largo, junto con aguja, dedal, etc., y me
-                mandÃ³ a sentarme en un rincÃ³n tranquilo del aula, con instrucciones
-                de hacerle el dobladillo. A esa hora, la mayorÃ­a de las demÃ¡s
-                tambiÃ©n estaban cosiendo; pero una clase aÃºn permanecÃ­a de pie
-                alrededor de la silla de la seÃ±orita Scatcherd leyendo, y como todo
-                estaba en silencio, se podÃ­a oÃ­r el tema de sus lecciones, junto con la
-                manera en que cada niÃ±a se desenvolvÃ­a, y las crÃ­ticas o elogios de
-                la seÃ±orita Scatcherd sobre su ejecuciÃ³n. Era historia de Inglaterra;
-                entre las lectoras observÃ© a mi conocida de la galerÃ­a; al comienzo
-                de la lecciÃ³n, su lugar habÃ­a estado en la cabecera de la clase, pero
-                por algÃºn error de pronunciaciÃ³n, o alguna falta de atenciÃ³n a las
+                mandó a sentarme en un rincón tranquilo del aula, con instrucciones
+                de hacerle el dobladillo. A esa hora, la mayoría de las demás
+                también estaban cosiendo; pero una clase aún permanecía de pie
+                alrededor de la silla de la señorita Scatcherd leyendo, y como todo
+                estaba en silencio, se podía oír el tema de sus lecciones, junto con la
+                manera en que cada niña se desenvolvía, y las críticas o elogios de
+                la señorita Scatcherd sobre su ejecución. Era historia de Inglaterra;
+                entre las lectoras observé a mi conocida de la galería; al comienzo
+                de la lección, su lugar había estado en la cabecera de la clase, pero
+                por algún error de pronunciación, o alguna falta de atención a las
                 pausas, fue enviada de repente al final del todo. Incluso en esa
-                oscura posiciÃ³n, la seÃ±orita Scatcherd continuÃ³ haciÃ©ndola objeto de
-                constante atenciÃ³n; continuamente le dirigÃ­a frases como las
+                oscura posición, la señorita Scatcherd continuó haciéndola objeto de
+                constante atención; continuamente le dirigía frases como las
                 siguientes:</p>
 
-                <p>â€”Burns (tal parecÃ­a ser su nombre; aquÃ­ a las niÃ±as se las llamaba
-                a todas por sus apellidos, como a los niÃ±os en otros lugares), Burns,
-                estÃ¡s apoyada en el canto del zapato; saca las puntas de los pies
+                <p>—Burns (tal parecía ser su nombre; aquí a las niñas se las llamaba
+                a todas por sus apellidos, como a los niños en otros lugares), Burns,
+                estás apoyada en el canto del zapato; saca las puntas de los pies
                 inmediatamente. Burns, sacas la barbilla de forma muy
-                desagradable; mÃ©tela hacia dentro. Burns, insisto en que mantengas
-                la cabeza alta; no quiero tenerte delante de mÃ­ en esa actitud, etc.,
+                desagradable; métela hacia dentro. Burns, insisto en que mantengas
+                la cabeza alta; no quiero tenerte delante de mí en esa actitud, etc.,
                 etc.</p>
 
-                <p>HabiÃ©ndose leÃ­do un capÃ­tulo dos veces, se cerraron los libros y se
-                examinÃ³ a las niÃ±as. La lecciÃ³n habÃ­a abarcado parte del reinado de
+                <p>Habiéndose leído un capítulo dos veces, se cerraron los libros y se
+                examinó a las niñas. La lección había abarcado parte del reinado de
                 Carlos I, y hubo diversas preguntas sobre el impuesto sobre el
-                tonelaje y el peso y el impuesto sobre los barcos, que la mayorÃ­a de
-                ellas parecÃ­an incapaces de responder; aun asÃ­, cada pequeÃ±a
-                dificultad se resolvÃ­a al instante cuando le llegaba el turno a Burns;
-                su memoria parecÃ­a haber retenido la sustancia de toda la lecciÃ³n, y
+                tonelaje y el peso y el impuesto sobre los barcos, que la mayoría de
+                ellas parecían incapaces de responder; aun así, cada pequeña
+                dificultad se resolvía al instante cuando le llegaba el turno a Burns;
+                su memoria parecía haber retenido la sustancia de toda la lección, y
                 estaba lista con respuestas en cada punto. Yo esperaba que la
-                seÃ±orita Scatcherd elogiara su atenciÃ³n; pero, en lugar de eso, gritÃ³
+                señorita Scatcherd elogiara su atención; pero, en lugar de eso, gritó
                 de repente:</p>
 
-                <p>â€”Â¡NiÃ±a sucia y desagradable! Â¡No te has limpiado las uÃ±as esta
-                maÃ±ana!</p>
+                <p>—¡Niña sucia y desagradable! ¡No te has limpiado las uñas esta
+                mañana!</p>
 
-                <p>Burns no respondiÃ³. Me extraÃ±Ã³ su silencio.</p>
+                <p>Burns no respondió. Me extrañó su silencio.</p>
 
-                <p>Â«Â¿Por quÃ©?Â», pensÃ©, Â«Â¿no explica que no pudo limpiarse las uÃ±as
-                ni lavarse la cara, ya que el agua estaba congelada?Â».</p>
+                <p>«¿Por qué?», pensé, «¿no explica que no pudo limpiarse las uñas
+                ni lavarse la cara, ya que el agua estaba congelada?».</p>
 
-                <p>Mi atenciÃ³n fue entonces requerida por la seÃ±orita Smith, que me
-                pidiÃ³ que sujetara una madeja de hilo. Mientras la devanaba, me
-                hablaba de vez en cuando, preguntÃ¡ndome si habÃ­a estado antes en
-                la escuela, si sabÃ­a marcar, coser, tejer, etc.; hasta que me despidiÃ³,
+                <p>Mi atención fue entonces requerida por la señorita Smith, que me
+                pidió que sujetara una madeja de hilo. Mientras la devanaba, me
+                hablaba de vez en cuando, preguntándome si había estado antes en
+                la escuela, si sabía marcar, coser, tejer, etc.; hasta que me despidió,
                 no pude continuar mis observaciones sobre los movimientos de la
-                seÃ±orita Scatcherd. Cuando volvÃ­ a mi asiento, esa dama estaba
-                precisamente dando una orden cuyo significado no captÃ©; pero
-                Burns abandonÃ³ inmediatamente la clase y, entrando en la pequeÃ±a
-                habitaciÃ³n interior donde se guardaban los libros, regresÃ³ en medio
+                señorita Scatcherd. Cuando volví a mi asiento, esa dama estaba
+                precisamente dando una orden cuyo significado no capté; pero
+                Burns abandonó inmediatamente la clase y, entrando en la pequeña
+                habitación interior donde se guardaban los libros, regresó en medio
                 minuto, llevando en la mano un manojo de varas atadas por un
-                extremo. PresentÃ³ esta ominosa herramienta a la seÃ±orita Scatcherd
+                extremo. Presentó esta ominosa herramienta a la señorita Scatcherd
                 con una respetuosa reverencia; luego, tranquilamente y sin que se lo
-                dijeran, se desatÃ³ el delantal, y la maestra le infligiÃ³ al instante y
+                dijeran, se desató el delantal, y la maestra le infligió al instante y
                 con fuerza una docena de golpes en el cuello con el haz de varas. Ni
-                una lÃ¡grima asomÃ³ a los ojos de Burns; y, mientras yo dejaba de
-                coser, porque mis dedos temblaban ante este espectÃ¡culo con un
-                sentimiento de ira inÃºtil e impotente, ni un rasgo de su rostro
-                pensativo alterÃ³ su expresiÃ³n ordinaria.</p>
+                una lágrima asomó a los ojos de Burns; y, mientras yo dejaba de
+                coser, porque mis dedos temblaban ante este espectáculo con un
+                sentimiento de ira inútil e impotente, ni un rasgo de su rostro
+                pensativo alteró su expresión ordinaria.</p>
 
-                <p>â€”Â¡NiÃ±a empedernida! â€”exclamÃ³ la seÃ±orita Scatcherdâ€”. Nada
-                puede corregir tus hÃ¡bitos desaliÃ±ados. LlÃ©vate la vara.</p>
+                <p>—¡Niña empedernida! —exclamó la señorita Scatcherd—. Nada
+                puede corregir tus hábitos desaliñados. Llévate la vara.</p>
 
-                <p>Burns obedeciÃ³. La mirÃ© detenidamente mientras salÃ­a del cuarto
-                de los libros; se estaba guardando el paÃ±uelo en el bolsillo, y el
-                rastro de una lÃ¡grima brillaba en su delgada mejilla.</p>
+                <p>Burns obedeció. La miré detenidamente mientras salía del cuarto
+                de los libros; se estaba guardando el pañuelo en el bolsillo, y el
+                rastro de una lágrima brillaba en su delgada mejilla.</p>
 
-                <p>La hora de recreo de la tarde me parecÃ­a la fracciÃ³n mÃ¡s
-                agradable del dÃ­a en Lowood: el trozo de pan, el trago de cafÃ©
-                ingerido a las cinco en punto habÃ­an reavivado la vitalidad, si no
-                habÃ­an satisfecho el hambre; la larga contenciÃ³n del dÃ­a se relajaba;
-                el aula se sentÃ­a mÃ¡s cÃ¡lida que por la maÃ±ana â€”se permitÃ­a que sus
-                fuegos ardieran un poco mÃ¡s vivos, para suplir, en cierta medida, el
-                lugar de las velas, aÃºn no introducidasâ€”. El resplandor rojizo del
-                crepÃºsculo, el alboroto permitido, la confusiÃ³n de muchas voces
-                daban una bienvenida sensaciÃ³n de libertad.</p>
+                <p>La hora de recreo de la tarde me parecía la fracción más
+                agradable del día en Lowood: el trozo de pan, el trago de café
+                ingerido a las cinco en punto habían reavivado la vitalidad, si no
+                habían satisfecho el hambre; la larga contención del día se relajaba;
+                el aula se sentía más cálida que por la mañana —se permitía que sus
+                fuegos ardieran un poco más vivos, para suplir, en cierta medida, el
+                lugar de las velas, aún no introducidas—. El resplandor rojizo del
+                crepúsculo, el alboroto permitido, la confusión de muchas voces
+                daban una bienvenida sensación de libertad.</p>
 
-                <p>La tarde del dÃ­a en que habÃ­a visto a la seÃ±orita Scatcherd azotar
-                a su alumna, Burns, vaguÃ© como de costumbre entre los bancos, las
-                mesas y los grupos risueÃ±os sin compaÃ±Ã­a, pero sin sentirme sola.
+                <p>La tarde del día en que había visto a la señorita Scatcherd azotar
+                a su alumna, Burns, vagué como de costumbre entre los bancos, las
+                mesas y los grupos risueños sin compañía, pero sin sentirme sola.
                 Cuando pasaba por las ventanas, de vez en cuando levantaba una
                 persiana y miraba hacia fuera; nevaba copiosamente, ya se estaba
                 formando un ventisquero contra los cristales inferiores; acercando el
-                oÃ­do a la ventana, podÃ­a distinguir, del alegre tumulto interior, el
+                oído a la ventana, podía distinguir, del alegre tumulto interior, el
                 gemido desconsolado del viento exterior.</p>
 
                 <p>Probablemente, si hubiera dejado recientemente un buen hogar y
-                unos padres amables, esta habrÃ­a sido la hora en que mÃ¡s
-                intensamente habrÃ­a lamentado la separaciÃ³n; aquel viento habrÃ­a
-                entristecido entonces mi corazÃ³n; Â¡este oscuro caos habrÃ­a
-                perturbado mi paz! Tal como era, obtenÃ­a de ambos una extraÃ±a
-                excitaciÃ³n, y temeraria y febril, deseaba que el viento aullara mÃ¡s
+                unos padres amables, esta habría sido la hora en que más
+                intensamente habría lamentado la separación; aquel viento habría
+                entristecido entonces mi corazón; ¡este oscuro caos habría
+                perturbado mi paz! Tal como era, obtenía de ambos una extraña
+                excitación, y temeraria y febril, deseaba que el viento aullara más
                 salvajemente, que la penumbra se profundizara hasta la oscuridad y
-                que la confusiÃ³n se elevara hasta el clamor.</p>
+                que la confusión se elevara hasta el clamor.</p>
 
-                <p>Saltando por encima de los bancos y arrastrÃ¡ndome por debajo de
-                las mesas, me abrÃ­ paso hasta una de las chimeneas; allÃ­, arrodillada
-                junto al alto guardafuegos de alambre, encontrÃ© a Burns, absorta,
-                silenciosa, abstraÃ­da de todo lo que la rodeaba por la compaÃ±Ã­a de
-                un libro, que leÃ­a a la tenue luz de las brasas.</p>
+                <p>Saltando por encima de los bancos y arrastrándome por debajo de
+                las mesas, me abrí paso hasta una de las chimeneas; allí, arrodillada
+                junto al alto guardafuegos de alambre, encontré a Burns, absorta,
+                silenciosa, abstraída de todo lo que la rodeaba por la compañía de
+                un libro, que leía a la tenue luz de las brasas.</p>
 
-                <p>â€”Â¿Sigue siendo Rasselas? â€”preguntÃ©, acercÃ¡ndome por detrÃ¡s.</p>
+                <p>—¿Sigue siendo Rasselas? —pregunté, acercándome por detrás.</p>
 
-                <p>â€”SÃ­ â€”dijoâ€”, y acabo de terminarlo.</p>
+                <p>—Sí —dijo—, y acabo de terminarlo.</p>
 
-                <p>Y en cinco minutos mÃ¡s lo cerrÃ³. Me alegrÃ© de ello.</p>
+                <p>Y en cinco minutos más lo cerró. Me alegré de ello.</p>
 
-                <p>Â«AhoraÂ», pensÃ©, Â«quizÃ¡s pueda conseguir que hableÂ». Me sentÃ© a
+                <p>«Ahora», pensé, «quizás pueda conseguir que hable». Me senté a
                 su lado en el suelo.</p>
 
-                <p>â€”Â¿CuÃ¡l es tu nombre ademÃ¡s de Burns?</p>
+                <p>—¿Cuál es tu nombre además de Burns?</p>
 
-                <p>â€”Helen.</p>
+                <p>—Helen.</p>
 
-                <p>â€”Â¿Vienes de muy lejos?</p>
+                <p>—¿Vienes de muy lejos?</p>
 
-                <p>â€”Vengo de un lugar mÃ¡s al norte, justo en la frontera con
+                <p>—Vengo de un lugar más al norte, justo en la frontera con
                 Escocia.</p>
 
-                <p>â€”Â¿VolverÃ¡s alguna vez?</p>
+                <p>—¿Volverás alguna vez?</p>
 
-                <p>â€”Eso espero; pero nadie puede estar seguro del futuro.</p>
+                <p>—Eso espero; pero nadie puede estar seguro del futuro.</p>
 
-                <p>â€”Debes de desear marcharte de Lowood.</p>
+                <p>—Debes de desear marcharte de Lowood.</p>
 
-                <p>â€”Â¡No! Â¿Por quÃ© iba a hacerlo? Me enviaron a Lowood para recibir
-                una educaciÃ³n; y no servirÃ­a de nada marcharme hasta que haya
+                <p>—¡No! ¿Por qué iba a hacerlo? Me enviaron a Lowood para recibir
+                una educación; y no serviría de nada marcharme hasta que haya
                 alcanzado ese objetivo.</p>
 
-                <p>â€”Â¿Pero esa maestra, la seÃ±orita Scatcherd, es tan cruel contigo?</p>
+                <p>—¿Pero esa maestra, la señorita Scatcherd, es tan cruel contigo?</p>
 
-                <p>â€”Â¿Cruel? Â¡En absoluto! Es severa; le disgustan mis faltas.</p>
+                <p>—¿Cruel? ¡En absoluto! Es severa; le disgustan mis faltas.</p>
 
-                <p>â€”Y si yo estuviera en tu lugar, a mÃ­ me disgustarÃ­a ella; me
-                resistirÃ­a. Si me golpeara con esa vara, se la quitarÃ­a de la mano; la
-                romperÃ­a delante de sus narices.</p>
+                <p>—Y si yo estuviera en tu lugar, a mí me disgustaría ella; me
+                resistiría. Si me golpeara con esa vara, se la quitaría de la mano; la
+                rompería delante de sus narices.</p>
 
-                <p>â€”Probablemente no harÃ­as nada de eso; pero si lo hicieras, el
-                seÃ±or Brocklehurst te expulsarÃ­a de la escuela; eso serÃ­a un gran
+                <p>—Probablemente no harías nada de eso; pero si lo hicieras, el
+                señor Brocklehurst te expulsaría de la escuela; eso sería un gran
                 disgusto para tus parientes. Es mucho mejor soportar pacientemente
-                un dolor que nadie siente mÃ¡s que tÃº misma, que cometer una
-                acciÃ³n precipitada cuyas malas consecuencias se extenderÃ¡n a todos
-                los que estÃ¡n conectados contigo; y ademÃ¡s, la Biblia nos manda
+                un dolor que nadie siente más que tú misma, que cometer una
+                acción precipitada cuyas malas consecuencias se extenderán a todos
+                los que están conectados contigo; y además, la Biblia nos manda
                 devolver bien por mal.</p>
 
-                <p>â€”Pero entonces parece vergonzoso que te azoten y que te
-                manden a estar de pie en medio de una habitaciÃ³n llena de gente; y
-                tÃº eres una chica tan mayor. Yo soy mucho mÃ¡s joven que tÃº y no
-                podrÃ­a soportarlo.</p>
+                <p>—Pero entonces parece vergonzoso que te azoten y que te
+                manden a estar de pie en medio de una habitación llena de gente; y
+                tú eres una chica tan mayor. Yo soy mucho más joven que tú y no
+                podría soportarlo.</p>
 
-                <p>â€”Sin embargo, serÃ­a tu deber soportarlo, si no pudieras evitarlo.
-                Es dÃ©bil y necio decir que no puedes soportar lo que tu destino te
+                <p>—Sin embargo, sería tu deber soportarlo, si no pudieras evitarlo.
+                Es débil y necio decir que no puedes soportar lo que tu destino te
                 exige soportar.</p>
 
-                <p>La escuchÃ© con asombro; no podÃ­a comprender esta doctrina de la
-                resistencia; y menos aÃºn podÃ­a entender o simpatizar con la
-                indulgencia que expresaba hacia quien la castigaba. Aun asÃ­, sentÃ­
+                <p>La escuché con asombro; no podía comprender esta doctrina de la
+                resistencia; y menos aún podía entender o simpatizar con la
+                indulgencia que expresaba hacia quien la castigaba. Aun así, sentí
                 que Helen Burns consideraba las cosas bajo una luz invisible para
-                mis ojos. SospechÃ© que ella podrÃ­a tener razÃ³n y yo estar
+                mis ojos. Sospeché que ella podría tener razón y yo estar
                 equivocada; pero no quise reflexionar profundamente sobre el
-                asunto; como FÃ©lix, lo pospuse para un momento mÃ¡s oportuno.</p>
+                asunto; como Félix, lo pospuse para un momento más oportuno.</p>
 
-                <p>â€”Dices que tienes faltas, Helen. Â¿CuÃ¡les son? A mÃ­ me pareces
+                <p>—Dices que tienes faltas, Helen. ¿Cuáles son? A mí me pareces
                 muy buena.</p>
 
-                <p>â€”Entonces aprende de mÃ­ a no juzgar por las apariencias. Soy,
-                como dijo la seÃ±orita Scatcherd, desaliÃ±ada; rara vez pongo, y nunca
+                <p>—Entonces aprende de mí a no juzgar por las apariencias. Soy,
+                como dijo la señorita Scatcherd, desaliñada; rara vez pongo, y nunca
                 mantengo, las cosas en orden; soy descuidada; olvido las reglas; leo
-                cuando deberÃ­a aprender mis lecciones; no tengo mÃ©todo; y a veces
-                digo, como tÃº, que no puedo soportar estar sometida a arreglos
-                sistemÃ¡ticos. Todo esto es muy irritante para la seÃ±orita Scatcherd,
+                cuando debería aprender mis lecciones; no tengo método; y a veces
+                digo, como tú, que no puedo soportar estar sometida a arreglos
+                sistemáticos. Todo esto es muy irritante para la señorita Scatcherd,
                 que es naturalmente ordenada, puntual y meticulosa.</p>
 
-                <p>â€”Y antipÃ¡tica y cruel â€”aÃ±adÃ­; pero Helen Burns no admitiÃ³ mi
-                adiciÃ³n; guardÃ³ silencio.</p>
+                <p>—Y antipática y cruel —añadí; pero Helen Burns no admitió mi
+                adición; guardó silencio.</p>
 
-                <p>â€”Â¿Es la seÃ±orita Temple tan severa contigo como la seÃ±orita
+                <p>—¿Es la señorita Temple tan severa contigo como la señorita
                 Scatcherd?</p>
 
-                <p>Al pronunciar el nombre de la seÃ±orita Temple, una suave sonrisa
-                revoloteÃ³ por su grave rostro.</p>
+                <p>Al pronunciar el nombre de la señorita Temple, una suave sonrisa
+                revoloteó por su grave rostro.</p>
 
-                <p>â€”La seÃ±orita Temple estÃ¡ llena de bondad; le duele ser severa
+                <p>—La señorita Temple está llena de bondad; le duele ser severa
                 con cualquiera, incluso con la peor de la escuela. Ve mis errores y
                 me los dice con delicadeza; y, si hago algo digno de elogio, me da
                 mi recompensa generosamente. Una fuerte prueba de mi naturaleza
                 terriblemente defectuosa es que incluso sus reconvenciones, tan
                 suaves, tan racionales, no tienen influencia para curarme de mis
-                faltas; e incluso su elogio, aunque lo valoro muchÃ­simo, no puede
-                estimularme a un cuidado y previsiÃ³n continuos.</p>
+                faltas; e incluso su elogio, aunque lo valoro muchísimo, no puede
+                estimularme a un cuidado y previsión continuos.</p>
 
-                <p>â€”Eso es curioso â€”dijeâ€”, es tan fÃ¡cil ser cuidadosa.</p>
+                <p>—Eso es curioso —dije—, es tan fácil ser cuidadosa.</p>
 
-                <p>â€”Para ti, no tengo duda de que lo es. Te observÃ© en tu clase esta
-                maÃ±ana, y vi que estabas muy atenta; tus pensamientos nunca
-                parecÃ­an divagar mientras la seÃ±orita Miller explicaba la lecciÃ³n y te
-                interrogaba. Ahora bien, los mÃ­os continuamente se desvÃ­an; cuando
-                deberÃ­a estar escuchando a la seÃ±orita Scatcherd, y recogiendo todo
+                <p>—Para ti, no tengo duda de que lo es. Te observé en tu clase esta
+                mañana, y vi que estabas muy atenta; tus pensamientos nunca
+                parecían divagar mientras la señorita Miller explicaba la lección y te
+                interrogaba. Ahora bien, los míos continuamente se desvían; cuando
+                debería estar escuchando a la señorita Scatcherd, y recogiendo todo
                 lo que dice con asiduidad, a menudo pierdo hasta el sonido de su
-                voz; caigo en una especie de sueÃ±o. A veces pienso que estoy en
+                voz; caigo en una especie de sueño. A veces pienso que estoy en
                 Northumberland, y que los ruidos que oigo a mi alrededor son el
                 burbujeo de un arroyuelo que corre por Deepden, cerca de nuestra
                 casa; entonces, cuando me toca responder, tienen que despertarme;
-                y como no he oÃ­do nada de lo que se leÃ­a por estar escuchando al
+                y como no he oído nada de lo que se leía por estar escuchando al
                 arroyo imaginario, no tengo ninguna respuesta preparada.</p>
 
-                <p>â€”Sin embargo, quÃ© bien respondiste esta tarde.</p>
+                <p>—Sin embargo, qué bien respondiste esta tarde.</p>
 
-                <p>â€”Fue pura casualidad; el tema sobre el que habÃ­amos estado
-                leyendo me habÃ­a interesado. Esta tarde, en lugar de soÃ±ar con
-                Deepden, me preguntaba cÃ³mo un hombre que deseaba hacer lo
-                correcto podÃ­a actuar de manera tan injusta e imprudente como lo
-                hizo a veces Carlos I; y pensÃ© quÃ© lÃ¡stima que, con su integridad y
-                conciencia, no pudiera ver mÃ¡s allÃ¡ de las prerrogativas de la
-                corona. Â¡Si tan solo hubiera sido capaz de mirar a lo lejos y ver hacia
-                dÃ³nde tendÃ­a lo que llaman el espÃ­ritu de la Ã©poca! Aun asÃ­, me
-                gusta Carlos, lo respeto, lo compadezco, Â¡pobre rey asesinado! SÃ­,
-                sus enemigos fueron los peores; derramaron sangre que no tenÃ­an
-                derecho a derramar. Â¡CÃ³mo se atrevieron a matarlo!</p>
+                <p>—Fue pura casualidad; el tema sobre el que habíamos estado
+                leyendo me había interesado. Esta tarde, en lugar de soñar con
+                Deepden, me preguntaba cómo un hombre que deseaba hacer lo
+                correcto podía actuar de manera tan injusta e imprudente como lo
+                hizo a veces Carlos I; y pensé qué lástima que, con su integridad y
+                conciencia, no pudiera ver más allá de las prerrogativas de la
+                corona. ¡Si tan solo hubiera sido capaz de mirar a lo lejos y ver hacia
+                dónde tendía lo que llaman el espíritu de la época! Aun así, me
+                gusta Carlos, lo respeto, lo compadezco, ¡pobre rey asesinado! Sí,
+                sus enemigos fueron los peores; derramaron sangre que no tenían
+                derecho a derramar. ¡Cómo se atrevieron a matarlo!</p>
 
-                <p>Helen hablaba ahora consigo misma; habÃ­a olvidado que yo no
-                podÃ­a entenderla muy bien, que era ignorante, o casi, del tema que
-                discutÃ­a. La traje de vuelta a mi nivel.</p>
+                <p>Helen hablaba ahora consigo misma; había olvidado que yo no
+                podía entenderla muy bien, que era ignorante, o casi, del tema que
+                discutía. La traje de vuelta a mi nivel.</p>
 
-                <p>â€”Y cuando la seÃ±orita Temple te enseÃ±a, Â¿tus pensamientos
+                <p>—Y cuando la señorita Temple te enseña, ¿tus pensamientos
                 divagan entonces?</p>
 
-                <p>â€”No, ciertamente, no a menudo; porque la seÃ±orita Temple
-                generalmente tiene algo que decir que es mÃ¡s nuevo que mis
+                <p>—No, ciertamente, no a menudo; porque la señorita Temple
+                generalmente tiene algo que decir que es más nuevo que mis
                 propias reflexiones; su lenguaje me resulta singularmente agradable,
-                y la informaciÃ³n que comunica es a menudo justo lo que deseaba
+                y la información que comunica es a menudo justo lo que deseaba
                 obtener.</p>
 
-                <p>â€”Bueno, entonces, Â¿con la seÃ±orita Temple eres buena?</p>
+                <p>—Bueno, entonces, ¿con la señorita Temple eres buena?</p>
 
-                <p>â€”SÃ­, de manera pasiva. No hago ningÃºn esfuerzo; sigo a donde
-                me guÃ­a la inclinaciÃ³n. No hay mÃ©rito en tal bondad.</p>
+                <p>—Sí, de manera pasiva. No hago ningún esfuerzo; sigo a donde
+                me guía la inclinación. No hay mérito en tal bondad.</p>
 
-                <p>â€”MuchÃ­simo. Eres buena con quienes son buenos contigo. Es todo
+                <p>—Muchísimo. Eres buena con quienes son buenos contigo. Es todo
                 lo que yo deseo ser. Si la gente fuera siempre amable y obediente
-                con quienes son crueles e injustos, la gente malvada se saldrÃ­a
-                siempre con la suya; nunca sentirÃ­an miedo, y asÃ­ nunca cambiarÃ­an,
-                sino que se volverÃ­an peores y peores. Cuando nos golpean sin
-                razÃ³n, deberÃ­amos devolver el golpe con mucha fuerza; estoy segura
-                de que deberÃ­amos, tan fuerte como para enseÃ±ar a la persona que
-                nos golpeÃ³ a no volver a hacerlo nunca.</p>
+                con quienes son crueles e injustos, la gente malvada se saldría
+                siempre con la suya; nunca sentirían miedo, y así nunca cambiarían,
+                sino que se volverían peores y peores. Cuando nos golpean sin
+                razón, deberíamos devolver el golpe con mucha fuerza; estoy segura
+                de que deberíamos, tan fuerte como para enseñar a la persona que
+                nos golpeó a no volver a hacerlo nunca.</p>
 
-                <p>â€”CambiarÃ¡s de opiniÃ³n, espero, cuando seas mayor. Por ahora no
-                eres mÃ¡s que una niÃ±a pequeÃ±a sin instrucciÃ³n.</p>
+                <p>—Cambiarás de opinión, espero, cuando seas mayor. Por ahora no
+                eres más que una niña pequeña sin instrucción.</p>
 
-                <p>â€”Pero siento esto, Helen; debo detestar a quienes, haga lo que
+                <p>—Pero siento esto, Helen; debo detestar a quienes, haga lo que
                 haga para complacerles, persisten en detestarme; debo resistir a
                 quienes me castigan injustamente. Es tan natural como que ame a
                 quienes me muestran afecto, o me someta al castigo cuando siento
                 que lo merezco.</p>
 
-                <p>â€”Los paganos y las tribus salvajes sostienen esa doctrina, pero
+                <p>—Los paganos y las tribus salvajes sostienen esa doctrina, pero
                 los cristianos y las naciones civilizadas la rechazan.</p>
 
-                <p>â€”Â¿CÃ³mo? No lo entiendo.</p>
+                <p>—¿Cómo? No lo entiendo.</p>
 
-                <p>â€”No es la violencia lo que mejor vence al odio, ni la venganza lo
-                que mÃ¡s ciertamente cura la herida.</p>
+                <p>—No es la violencia lo que mejor vence al odio, ni la venganza lo
+                que más ciertamente cura la herida.</p>
 
-                <p>â€”Â¿QuÃ© entonces?</p>
+                <p>—¿Qué entonces?</p>
 
-                <p>â€”Lee el Nuevo Testamento, y observa lo que Cristo dice y cÃ³mo
-                actÃºa; haz de su palabra tu regla, y de su conducta tu ejemplo.</p>
+                <p>—Lee el Nuevo Testamento, y observa lo que Cristo dice y cómo
+                actúa; haz de su palabra tu regla, y de su conducta tu ejemplo.</p>
 
-                <p>â€”Â¿QuÃ© dice Ã‰l?</p>
+                <p>—¿Qué dice Él?</p>
 
-                <p>â€”Ama a tus enemigos; bendice a los que te maldicen; haz bien a
+                <p>—Ama a tus enemigos; bendice a los que te maldicen; haz bien a
                 los que te odian y te ultrajan.</p>
 
-                <p>â€”Entonces deberÃ­a amar a la seÃ±ora Reed, cosa que no puedo
-                hacer; deberÃ­a bendecir a su hijo John, lo cual es imposible.</p>
+                <p>—Entonces debería amar a la señora Reed, cosa que no puedo
+                hacer; debería bendecir a su hijo John, lo cual es imposible.</p>
 
-                <p>A su vez, Helen Burns me pidiÃ³ que me explicara, y procedÃ­
+                <p>A su vez, Helen Burns me pidió que me explicara, y procedí
                 inmediatamente a verter, a mi manera, el relato de mis sufrimientos
-                y resentimientos. Amarga y mordaz cuando me excitaba, hablÃ© como
-                sentÃ­a, sin reservas ni atenuantes.</p>
+                y resentimientos. Amarga y mordaz cuando me excitaba, hablé como
+                sentía, sin reservas ni atenuantes.</p>
 
-                <p>Helen me escuchÃ³ pacientemente hasta el final. Esperaba que
-                entonces hiciera algÃºn comentario, pero no dijo nada.</p>
+                <p>Helen me escuchó pacientemente hasta el final. Esperaba que
+                entonces hiciera algún comentario, pero no dijo nada.</p>
 
-                <p>â€”Bueno â€”preguntÃ© con impacienciaâ€”, Â¿no es la seÃ±ora Reed una
-                mujer mala y de corazÃ³n duro?</p>
+                <p>—Bueno —pregunté con impaciencia—, ¿no es la señora Reed una
+                mujer mala y de corazón duro?</p>
 
-                <p>â€”Ha sido cruel contigo, sin duda; porque, ya ves, le disgusta tu
-                tipo de carÃ¡cter, como a la seÃ±orita Scatcherd el mÃ­o. Â¡Pero con quÃ©
-                minuciosidad recuerdas todo lo que te ha hecho y dicho! Â¡QuÃ©
-                impresiÃ³n tan singularmente profunda parece haber dejado su
-                injusticia en tu corazÃ³n! NingÃºn maltrato marca asÃ­ su huella en mis
-                sentimientos. Â¿No serÃ­as mÃ¡s feliz si intentaras olvidar su severidad,
-                junto con las apasionadas emociones que suscitÃ³? La vida me parece
+                <p>—Ha sido cruel contigo, sin duda; porque, ya ves, le disgusta tu
+                tipo de carácter, como a la señorita Scatcherd el mío. ¡Pero con qué
+                minuciosidad recuerdas todo lo que te ha hecho y dicho! ¡Qué
+                impresión tan singularmente profunda parece haber dejado su
+                injusticia en tu corazón! Ningún maltrato marca así su huella en mis
+                sentimientos. ¿No serías más feliz si intentaras olvidar su severidad,
+                junto con las apasionadas emociones que suscitó? La vida me parece
                 demasiado corta para pasarla alimentando animosidad o registrando
                 agravios. Todos estamos, y debemos estar, cargados de faltas en
-                este mundo; pero pronto llegarÃ¡ el momento en que, confÃ­o, nos
+                este mundo; pero pronto llegará el momento en que, confío, nos
                 despojaremos de ellas al despojarnos de nuestros cuerpos
-                corruptibles; cuando la bajeza y el pecado caerÃ¡n de nosotros con
-                esta pesada estructura de carne, y solo quedarÃ¡ la chispa del
-                espÃ­ritu, el principio impalpable de luz y pensamiento, puro como
-                cuando dejÃ³ al Creador para inspirar a la criatura. De donde vino,
-                volverÃ¡; quizÃ¡s para ser comunicado de nuevo a algÃºn ser superior
-                al hombre, quizÃ¡s para pasar por gradaciones de gloria, desde la
-                pÃ¡lida alma humana hasta brillar como el serafÃ­n. Seguramente, por
-                el contrario, Â¿nunca se permitirÃ¡ que degenere de hombre a
+                corruptibles; cuando la bajeza y el pecado caerán de nosotros con
+                esta pesada estructura de carne, y solo quedará la chispa del
+                espíritu, el principio impalpable de luz y pensamiento, puro como
+                cuando dejó al Creador para inspirar a la criatura. De donde vino,
+                volverá; quizás para ser comunicado de nuevo a algún ser superior
+                al hombre, quizás para pasar por gradaciones de gloria, desde la
+                pálida alma humana hasta brillar como el serafín. Seguramente, por
+                el contrario, ¿nunca se permitirá que degenere de hombre a
                 demonio? No; no puedo creer eso. Sostengo otro credo, que nadie
-                me enseÃ±Ã³ jamÃ¡s y que rara vez menciono, pero en el que me
+                me enseñó jamás y que rara vez menciono, pero en el que me
                 deleito y al que me aferro, pues extiende la esperanza a todos; hace
                 de la Eternidad un descanso, un hogar poderoso, no un terror y un
-                abismo. AdemÃ¡s, con este credo, puedo distinguir tan claramente
+                abismo. Además, con este credo, puedo distinguir tan claramente
                 entre el criminal y su crimen; puedo perdonar tan sinceramente al
                 primero mientras aborrezco lo segundo. Con este credo, la venganza
-                nunca atormenta mi corazÃ³n, la degradaciÃ³n nunca me asquea
+                nunca atormenta mi corazón, la degradación nunca me asquea
                 demasiado profundamente, la injusticia nunca me aplasta demasiado
                 bajo. Vivo en calma, mirando hacia el final.</p>
 
-                <p>La cabeza de Helen, siempre inclinada, se hundiÃ³ un poco mÃ¡s al
+                <p>La cabeza de Helen, siempre inclinada, se hundió un poco más al
                 terminar esta frase. Vi por su mirada que ya no deseaba hablar
-                conmigo, sino mÃ¡s bien conversar con sus propios pensamientos. No
-                se le concediÃ³ mucho tiempo para la meditaciÃ³n: una monitora, una
-                chica alta y ruda, se acercÃ³ al momento, exclamando con un fuerte
+                conmigo, sino más bien conversar con sus propios pensamientos. No
+                se le concedió mucho tiempo para la meditación: una monitora, una
+                chica alta y ruda, se acercó al momento, exclamando con un fuerte
                 acento de Cumberland:</p>
 
-                <p>â€”Â¡Helen Burns, si no vas a poner en orden tu cajÃ³n y a doblar tu
-                labor en este mismo instante, le dirÃ© a la seÃ±orita Scatcherd que
+                <p>—¡Helen Burns, si no vas a poner en orden tu cajón y a doblar tu
+                labor en este mismo instante, le diré a la señorita Scatcherd que
                 venga a verlo!</p>
 
-                <p>Helen suspirÃ³ mientras su ensoÃ±aciÃ³n se desvanecÃ­a y,
-                levantÃ¡ndose, obedeciÃ³ a la monitora sin responder y sin demora.</p>
+                <p>Helen suspiró mientras su ensoñación se desvanecía y,
+                levantándose, obedeció a la monitora sin responder y sin demora.</p>
                 
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap5.php" rel="prev">Anterior</a>
-                    <a class="boton" href="../../contenido_eyre.php">Regresa al menÃº de capÃ­tulos</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
                     <a class="cambioSiguiente" href="cap7.php" rel="next">Siguiente</a>
                 </div>
             </section>
@@ -451,6 +451,7 @@
     </main>
 </body>
 </html>
+
 
 
 

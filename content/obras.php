@@ -25,7 +25,6 @@
 
         <li><a href="about_us.php">Sobre nosotras</a></li>
         <li><a href="#">Asistente virtual</a></li>
-        <li><a href="tfm.php">Sobre este proyecto</a></li>
         <li><a href="pUsuario.php">Perfil de usuario</a></li>
     </ul>
 </nav>
@@ -37,19 +36,28 @@
 
     <hr>
 
-    <section>
-        <p>En este apartado puedes ver las obras que tenemos disponibles en el momento,¡haz click sobre la que más te guste!<br>
-        Estamos trabajando actualmente en poder proporcionar más obras y materiales educativos de ellas, ¡mantente atento a las novedades!</p> 
-
-        <table>
-            <tr>
-                <a id="j_eyre" href="works/eyre.php" target="_blank">
-                    <img class="portada" src="../media/images/portadaJane.png" alt="Portada de Jane Eyre">
-                </a>
-            </tr>
-        </table>
-
+    <section class="pjustificado">
+        <p>Este espacio ha sido diseñado para que tecnología y literatura clásica puedan fusionarse y así
+        proporcionar a los lectores una mayor comprensión sobre las obras que leen y darles una nueva visión 
+        crítica sobre ellas.</p>
+        
+        <p>Haciendo click en la portada del libro, no solo encontrarás los textos, también verás una pequeña introducción de la historia, 
+        nuestra sección de resúmenes, el contexto tanto histórico como el personal del autor/a, explicaciones relevantes, análisis de personajes y 
+        de símbolos, glorarios, citas célebres y mapas interactivos, además de actividades que ayuden a mejorar tu comprensión lectora.</p>
+        
+        <p>Aquí puedes ver las obras que tenemos disponibles en el momento. Estamos trabajando para poder proporcionar más obras y materiales educativos 
+        de ellas, ¡mantente atento a las novedades!</p> 
     </section>
+
+    <table>
+        <tr><img class="portada2" src="../media/images/prox.png" alt="Próximamente en Litterally"></tr>
+        <tr>
+            <a id="j_eyre" href="works/eyre.php" target="_blank">
+                <img class="portada" src="../media/images/portadaJane.png" alt="Portada de Jane Eyre">
+            </a>
+        </tr>
+        <tr><img class="portada2" src="../media/images/prox.png" alt="Próximamente en Litterally"></tr>
+    </table>
 </main>
 
 <footer>

@@ -25,7 +25,6 @@
 
         <li><a href="../../about_us.php">Sobre nosotras</a></li>
         <li><a href="#">Asistente virtual</a></li>
-        <li><a href="../../tfm.php">Sobre este proyecto</a></li>
         <li><a href="../../pUsuario.php">Perfil de usuario</a></li>
     </ul>
 </nav>
@@ -84,7 +83,7 @@
                 </nav>
             </div>
 
-        <section class="contenido">
+        <section class="pjustificado">
         </section>
     </div>
 </main>

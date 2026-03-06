@@ -26,7 +26,6 @@
 
         <li><a href="../about_us.php">Sobre nosotras</a></li>
         <li><a href="#">Asistente virtual</a></li>
-        <li><a href="../tfm.php">Sobre este proyecto</a></li>
         <li><a href="../pUsuario.php">Perfil de usuario</a></li>
     </ul>
 </nav>
@@ -34,7 +33,6 @@
 <main>
     <section class="hero">
         <h2>Jane Eyre</h2>
-        <p>Obra esencial de la literatura inglesa del siglo XIX.</p>
     </section>
 
     <div class="layout">
@@ -85,8 +83,21 @@
                 </nav>
             </div>
 
-        <section class="contenido">
-            <p>imimimim</p>
+        <section class="pjustificado">
+            <p>Bienvenido al entorno de <i>Jane Eyre</i>. Aquí podrás conocer más acerca de la vida de <a href="eyre_content.php/charlotte.php">Charlotte Brontë</a>,
+            como el dato curioso de que publicó esta obra bajo el pseudónimo de Currer Bell, las tensiones sociales de la Inglaterra
+            del siglo XIX que modelaron la novela.</p>
+
+            <p>También podrás descubrir los significados ocultos tras elementos como la "habitación roja", el fuego y el hielo, la 
+                naturaleza, o incluso el mismo nombre de la protagonista. En la sección de <a href="eyre_content.php/personajes.php">personajes</a>, la encontrarás 
+                a ella y a los demás. ¿Quién es el culpable de los ruidos de y eventos extraños en Thornfield?</p>
+
+            <p>Y no te olvides de <a href="#">Litto</a>, él puede ayudarte a resolver tus preguntas.</p>
+
+            <p>Te recomendamos comenzar conociendo más sobre el <a href="eyre_content/contexto_historico.php">contexto histórico</a> para así comprender
+            las limitaciones a las que se enfrenta Jane a lo largo de la historia. Ten en cuenta que también contamos con
+            un <a href="eyre_content.php/glosario.php">glosario</a> que te puede ayudar con términos que puedan llegar a dificultar tu comprensión. ¿Qué mejor 
+            para terminar que unas cuantas frases célebres? En <a href="eyre_content/citas.php">citas</a> podrás encontrarlas todas.</p>
         </section>
     </div>    
 </main>

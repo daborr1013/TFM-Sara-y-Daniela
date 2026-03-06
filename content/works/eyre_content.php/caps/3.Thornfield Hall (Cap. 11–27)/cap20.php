@@ -1,9 +1,9 @@
-ï»¿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>CapÃ­tulo 20</title>
+    <title>Capítulo 20</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el capÃ­tulo 20">
+    <meta name="description" content="Este es el capítulo 20">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -27,7 +27,7 @@
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
             <li><a href="#">Asistente virtual</a></li>
-            <li><a href="../../../../tfm.php">Sobre este proyecto</a></li>
+
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
     </nav>
@@ -39,21 +39,21 @@
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="../../intro_obra.php">IntroducciÃ³n a la obra</a></li>
+                        <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contenido_eyre.php">Contenido</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../resumenes/resumenes.php">ResÃºmenes</a></li>
-                                <li><a href="../../capitulos.php">CapÃ­tulos</a></li>
+                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
+                                <li><a href="../../capitulos.php">Capítulos</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte BrontÃ«</a></li>
-                                <li><a href="contexto_historico.php">Contexto histÃ³rico</a></li>
+                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
+                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
                             </ul>
                         </li>
 
@@ -61,7 +61,7 @@
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">SÃ­mbolos</a></li>
+                                <li><a href="simbolos.php">Símbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
                                 <li><a href="mapa.php">Mapa</a></li>
@@ -82,762 +82,762 @@
             </div>
             
             <section class="contenido">
-                <h1>CapÃ­tulo XX</h1>
+                <h1>Capítulo XX</h1>
             
-                <p>HabÃ­a olvidado correr la cortina, lo que solÃ­a hacer, y tambiÃ©n bajar
+                <p>Había olvidado correr la cortina, lo que solía hacer, y también bajar
                 la persiana de mi ventana. La consecuencia fue que cuando la luna,
-                que estaba llena y brillante (pues la noche era buena), llegÃ³ en su
-                curso a ese espacio en el cielo opuesto a mi ventanal y me mirÃ³ a
-                travÃ©s de los cristales descubiertos, su gloriosa mirada me despertÃ³.
-                Despertando en plena noche, abrÃ­ los ojos a su disco, blanco
+                que estaba llena y brillante (pues la noche era buena), llegó en su
+                curso a ese espacio en el cielo opuesto a mi ventanal y me miró a
+                través de los cristales descubiertos, su gloriosa mirada me despertó.
+                Despertando en plena noche, abrí los ojos a su disco, blanco
                 plateado y claro como el cristal. Era hermoso, pero demasiado
-                solemne. Me incorporÃ© a medias y extendÃ­ el brazo para correr la
+                solemne. Me incorporé a medias y extendí el brazo para correr la
                 cortina.</p>
 
-                <p>Â¡Santo Dios! Â¡QuÃ© grito!</p>
+                <p>¡Santo Dios! ¡Qué grito!</p>
 
-                <p>La noche â€”su silencio, su descansoâ€” fue rasgada en dos por un
-                sonido salvaje, agudo, estridente, que corriÃ³ de un extremo a otro
+                <p>La noche —su silencio, su descanso— fue rasgada en dos por un
+                sonido salvaje, agudo, estridente, que corrió de un extremo a otro
                 de Thornfield Hall.</p>
 
-                <p>Mi pulso se detuvo, mi corazÃ³n se parÃ³, mi brazo extendido quedÃ³
-                paralizado. El grito muriÃ³ y no se renovÃ³. En verdad, cualquier ser
-                que hubiera proferido aquel espantoso chillido no podrÃ­a repetirlo
-                pronto. Ni el cÃ³ndor de alas mÃ¡s anchas de los Andes podrÃ­a, dos
+                <p>Mi pulso se detuvo, mi corazón se paró, mi brazo extendido quedó
+                paralizado. El grito murió y no se renovó. En verdad, cualquier ser
+                que hubiera proferido aquel espantoso chillido no podría repetirlo
+                pronto. Ni el cóndor de alas más anchas de los Andes podría, dos
                 veces seguidas, lanzar semejante aullido desde la nube que
-                envuelve su nido. El ser que emitiÃ³ tal sonido debÃ­a descansar antes
+                envuelve su nido. El ser que emitió tal sonido debía descansar antes
                 de poder repetir el esfuerzo.</p>
 
-                <p>SaliÃ³ del tercer piso, pues pasÃ³ por encima de mi cabeza. Y por
-                encima de mi cabeza â€”sÃ­, en la habitaciÃ³n justo encima del techo de
-                mi cÃ¡maraâ€” oÃ­ ahora una lucha; una lucha mortal, parecÃ­a por el
-                ruido; y una voz medio ahogada gritÃ³:</p>
+                <p>Salió del tercer piso, pues pasó por encima de mi cabeza. Y por
+                encima de mi cabeza —sí, en la habitación justo encima del techo de
+                mi cámara— oí ahora una lucha; una lucha mortal, parecía por el
+                ruido; y una voz medio ahogada gritó:</p>
 
-                <p>â€”Â¡Socorro! Â¡Socorro! Â¡Socorro! â€”tres veces rÃ¡pidamente.</p>
+                <p>—¡Socorro! ¡Socorro! ¡Socorro! —tres veces rápidamente.</p>
 
-                <p>â€”Â¿No vendrÃ¡ nadie? â€”gritÃ³; y entonces, mientras el tambaleo y el
-                pateo continuaban salvajemente, distinguÃ­ a travÃ©s de tablas y yeso:</p>
+                <p>—¿No vendrá nadie? —gritó; y entonces, mientras el tambaleo y el
+                pateo continuaban salvajemente, distinguí a través de tablas y yeso:</p>
 
-                <p>â€”Â¡Rochester! Â¡Rochester! Â¡Por el amor de Dios, ven!</p>
+                <p>—¡Rochester! ¡Rochester! ¡Por el amor de Dios, ven!</p>
 
-                <p>Se abriÃ³ la puerta de una cÃ¡mara; alguien corriÃ³, o se precipitÃ³, a
-                lo largo de la galerÃ­a. Otro paso resonÃ³ en el suelo de arriba y algo
-                cayÃ³; y hubo silencio.</p>
+                <p>Se abrió la puerta de una cámara; alguien corrió, o se precipitó, a
+                lo largo de la galería. Otro paso resonó en el suelo de arriba y algo
+                cayó; y hubo silencio.</p>
 
-                <p>Me habÃ­a puesto algo de ropa, aunque el horror sacudÃ­a todos mis
-                miembros. SalÃ­ de mi apartamento. Todos los durmientes estaban
+                <p>Me había puesto algo de ropa, aunque el horror sacudía todos mis
+                miembros. Salí de mi apartamento. Todos los durmientes estaban
                 despiertos. Exclamaciones, murmullos aterrorizados sonaban en
-                cada habitaciÃ³n; puerta tras puerta se abrÃ­a; uno miraba y otro
-                miraba; la galerÃ­a se llenÃ³. Caballeros y damas por igual habÃ­an
-                abandonado sus lechos; y Â«Â¡Oh! Â¿QuÃ© es?Â», Â«Â¿QuiÃ©n estÃ¡ herido?Â»,
-                Â«Â¿QuÃ© ha pasado?Â», Â«Â¡Traed una luz!Â», Â«Â¿Es fuego?Â», Â«Â¿Hay
-                ladrones?Â», Â«Â¿AdÃ³nde corremos?Â», se demandaba confusamente por
-                todas partes. De no ser por la luz de la luna, habrÃ­an estado en
-                completa oscuridad. CorrÃ­an de un lado a otro; se agolpaban.
-                Algunos sollozaban, otros tropezaban. La confusiÃ³n era inextricable.</p>
+                cada habitación; puerta tras puerta se abría; uno miraba y otro
+                miraba; la galería se llenó. Caballeros y damas por igual habían
+                abandonado sus lechos; y «¡Oh! ¿Qué es?», «¿Quién está herido?»,
+                «¿Qué ha pasado?», «¡Traed una luz!», «¿Es fuego?», «¿Hay
+                ladrones?», «¿Adónde corremos?», se demandaba confusamente por
+                todas partes. De no ser por la luz de la luna, habrían estado en
+                completa oscuridad. Corrían de un lado a otro; se agolpaban.
+                Algunos sollozaban, otros tropezaban. La confusión era inextricable.</p>
 
-                <p>â€”Â¿DÃ³nde diablos estÃ¡ Rochester? â€”gritÃ³ el Coronel Dentâ€”. No lo encuentro en su cama.</p>
+                <p>—¿Dónde diablos está Rochester? —gritó el Coronel Dent—. No lo encuentro en su cama.</p>
 
-                <p>â€”Â¡AquÃ­! Â¡AquÃ­! â€”se gritÃ³ en respuestaâ€”. CÃ¡lmense todos. Ya voy.</p>
+                <p>—¡Aquí! ¡Aquí! —se gritó en respuesta—. Cálmense todos. Ya voy.</p>
 
-                <p>Y la puerta al final de la galerÃ­a se abriÃ³, y el seÃ±or Rochester
-                avanzÃ³ con una vela. Acababa de descender del piso superior. Una
-                de las damas corriÃ³ directamente hacia Ã©l; le agarrÃ³ del brazo. Era la
-                seÃ±orita Ingram.</p>
+                <p>Y la puerta al final de la galería se abrió, y el señor Rochester
+                avanzó con una vela. Acababa de descender del piso superior. Una
+                de las damas corrió directamente hacia él; le agarró del brazo. Era la
+                señorita Ingram.</p>
 
-                <p>â€”Â¿QuÃ© terrible suceso ha tenido lugar? â€”dijo ellaâ€”. Â¡Hable! Â¡Que
+                <p>—¿Qué terrible suceso ha tenido lugar? —dijo ella—. ¡Hable! ¡Que
                 sepamos lo peor de una vez!</p>
 
-                <p>â€”Pero no me derribe ni me estrangule â€”replicÃ³ Ã©l; pues las
-                seÃ±oritas Eshton se aferraban ahora a Ã©l; y las dos viudas, con
-                vastas batas blancas, avanzaban sobre Ã©l como navÃ­os a toda vela.</p>
+                <p>—Pero no me derribe ni me estrangule —replicó él; pues las
+                señoritas Eshton se aferraban ahora a él; y las dos viudas, con
+                vastas batas blancas, avanzaban sobre él como navíos a toda vela.</p>
 
-                <p>â€”Â¡Todo estÃ¡ bien! Â¡Todo estÃ¡ bien! â€”gritÃ³â€”. Es un mero ensayo
-                de Mucho ruido y pocas nueces. Â¡SeÃ±oras, apÃ¡rtense, o me volverÃ©
+                <p>—¡Todo está bien! ¡Todo está bien! —gritó—. Es un mero ensayo
+                de Mucho ruido y pocas nueces. ¡Señoras, apártense, o me volveré
                 peligroso!</p>
 
-                <p>Y peligroso parecÃ­a. Sus ojos negros lanzaban chispas.
-                CalmÃ¡ndose con un esfuerzo, aÃ±adiÃ³:</p>
+                <p>Y peligroso parecía. Sus ojos negros lanzaban chispas.
+                Calmándose con un esfuerzo, añadió:</p>
 
-                <p>â€”Una criada ha tenido una pesadilla; eso es todo. Es una persona
-                excitable y nerviosa. Sin duda ha interpretado su sueÃ±o como una
-                apariciÃ³n o algo por el estilo, y le ha dado un ataque de miedo.
+                <p>—Una criada ha tenido una pesadilla; eso es todo. Es una persona
+                excitable y nerviosa. Sin duda ha interpretado su sueño como una
+                aparición o algo por el estilo, y le ha dado un ataque de miedo.
                 Ahora, pues, debo verlos a todos de vuelta en sus habitaciones;
                 pues hasta que la casa no se asiente, no se la puede atender.
-                Caballeros, tengan la bondad de dar ejemplo a las damas. SeÃ±orita
-                Ingram, estoy seguro de que no dejarÃ¡ de mostrar superioridad ante
+                Caballeros, tengan la bondad de dar ejemplo a las damas. Señorita
+                Ingram, estoy seguro de que no dejará de mostrar superioridad ante
                 terrores ociosos. Amy y Louisa, vuelvan a sus nidos como un par de
-                palomas que son. Mesdames (a las viudas), se resfriarÃ¡n con toda
-                certeza si se quedan mÃ¡s tiempo en esta frÃ­a galerÃ­a.</p>
+                palomas que son. Mesdames (a las viudas), se resfriarán con toda
+                certeza si se quedan más tiempo en esta fría galería.</p>
 
-                <p>Y asÃ­, a fuerza de alternar halagos y Ã³rdenes, se las arreglÃ³ para
+                <p>Y así, a fuerza de alternar halagos y órdenes, se las arregló para
                 que todos volvieran a encerrarse en sus dormitorios separados. No
-                esperÃ© a que me ordenaran volver al mÃ­o, sino que me retirÃ© sin ser
-                vista, como sin ser vista lo habÃ­a dejado.</p>
+                esperé a que me ordenaran volver al mío, sino que me retiré sin ser
+                vista, como sin ser vista lo había dejado.</p>
 
-                <p>No, sin embargo, para acostarme. Al contrario, comencÃ© y me
-                vestÃ­ cuidadosamente. Los sonidos que habÃ­a oÃ­do despuÃ©s del grito,
-                y las palabras que se habÃ­an pronunciado, probablemente solo
-                habÃ­an sido oÃ­das por mÃ­, pues habÃ­an procedido de la habitaciÃ³n de
-                encima de la mÃ­a; pero me aseguraron que no era el sueÃ±o de una
-                criada lo que asÃ­ habÃ­a sembrado el horror en la casa; y que la
-                explicaciÃ³n que el seÃ±or Rochester habÃ­a dado era meramente una
-                invenciÃ³n urdida para apaciguar a sus invitados. Me vestÃ­, pues, para
-                estar lista para emergencias. Una vez vestida, me sentÃ© un largo
+                <p>No, sin embargo, para acostarme. Al contrario, comencé y me
+                vestí cuidadosamente. Los sonidos que había oído después del grito,
+                y las palabras que se habían pronunciado, probablemente solo
+                habían sido oídas por mí, pues habían procedido de la habitación de
+                encima de la mía; pero me aseguraron que no era el sueño de una
+                criada lo que así había sembrado el horror en la casa; y que la
+                explicación que el señor Rochester había dado era meramente una
+                invención urdida para apaciguar a sus invitados. Me vestí, pues, para
+                estar lista para emergencias. Una vez vestida, me senté un largo
                 rato junto a la ventana, mirando los terrenos silenciosos y los
-                campos plateados, y esperando no sÃ© quÃ©. Me parecÃ­a que algÃºn
-                suceso debÃ­a seguir al extraÃ±o grito, a la lucha y a la llamada.</p>
+                campos plateados, y esperando no sé qué. Me parecía que algún
+                suceso debía seguir al extraño grito, a la lucha y a la llamada.</p>
 
-                <p>No. La quietud regresÃ³. Cada murmullo y movimiento cesÃ³
+                <p>No. La quietud regresó. Cada murmullo y movimiento cesó
                 gradualmente, y en aproximadamente una hora, Thornfield Hall
-                volviÃ³ a estar tan silencioso como un desierto. ParecÃ­a que el sueÃ±o
-                y la noche habÃ­an reanudado su imperio. Mientras tanto, la luna
-                declinaba; estaba a punto de ponerse. No gustÃ¡ndome sentarme en
-                el frÃ­o y la oscuridad, pensÃ© en acostarme en mi cama, vestida como
-                estaba. DejÃ© la ventana y me movÃ­ con poco ruido por la alfombra;
+                volvió a estar tan silencioso como un desierto. Parecía que el sueño
+                y la noche habían reanudado su imperio. Mientras tanto, la luna
+                declinaba; estaba a punto de ponerse. No gustándome sentarme en
+                el frío y la oscuridad, pensé en acostarme en mi cama, vestida como
+                estaba. Dejé la ventana y me moví con poco ruido por la alfombra;
                 mientras me agachaba para quitarme los zapatos, una mano
-                cautelosa golpeÃ³ suavemente la puerta.</p>
+                cautelosa golpeó suavemente la puerta.</p>
 
-                <p>â€”Â¿Me necesitan? â€”preguntÃ©.</p>
+                <p>—¿Me necesitan? —pregunté.</p>
 
-                <p>â€”Â¿EstÃ¡s levantada? â€”preguntÃ³ la voz que esperaba oÃ­r, a saber, la de mi amo.</p>
+                <p>—¿Estás levantada? —preguntó la voz que esperaba oír, a saber, la de mi amo.</p>
 
-                <p>â€”SÃ­, seÃ±or.</p>
+                <p>—Sí, señor.</p>
 
-                <p>â€”Â¿Y vestida?</p>
+                <p>—¿Y vestida?</p>
 
-                <p>â€”SÃ­.</p>
+                <p>—Sí.</p>
 
-                <p>â€”Sal, entonces, silenciosamente.</p>
+                <p>—Sal, entonces, silenciosamente.</p>
 
-                <p>ObedecÃ­. El seÃ±or Rochester estaba de pie en la galerÃ­a sosteniendo una luz.</p>
+                <p>Obedecí. El señor Rochester estaba de pie en la galería sosteniendo una luz.</p>
 
-                <p>â€”Te necesito â€”dijoâ€”. Ven por aquÃ­. TÃ³mate tu tiempo y no hagas ruido.</p>
+                <p>—Te necesito —dijo—. Ven por aquí. Tómate tu tiempo y no hagas ruido.</p>
 
-                <p>Mis zapatillas eran finas. PodÃ­a caminar por el suelo enesterado
-                tan suavemente como un gato. Se deslizÃ³ por la galerÃ­a y subiÃ³ las
-                escaleras, y se detuvo en el oscuro y bajo corredor del fatÃ­dico tercer
-                piso. Yo lo habÃ­a seguido y estaba de pie a su lado.</p>
+                <p>Mis zapatillas eran finas. Podía caminar por el suelo enesterado
+                tan suavemente como un gato. Se deslizó por la galería y subió las
+                escaleras, y se detuvo en el oscuro y bajo corredor del fatídico tercer
+                piso. Yo lo había seguido y estaba de pie a su lado.</p>
 
-                <p>â€”Â¿Tienes una esponja en tu habitaciÃ³n? â€”preguntÃ³ en un susurro.</p>
+                <p>—¿Tienes una esponja en tu habitación? —preguntó en un susurro.</p>
 
-                <p>â€”SÃ­, seÃ±or.</p>
+                <p>—Sí, señor.</p>
 
-                <p>â€”Â¿Tienes algunas sales... sales volÃ¡tiles?</p>
+                <p>—¿Tienes algunas sales... sales volátiles?</p>
 
-                <p>â€”SÃ­.</p>
+                <p>—Sí.</p>
 
-                <p>â€”Vuelve y trae ambas cosas.</p>
+                <p>—Vuelve y trae ambas cosas.</p>
 
-                <p>RegresÃ©, busquÃ© la esponja en el lavabo, las sales en mi cajÃ³n, y
-                una vez mÃ¡s desanduve mis pasos. Ã‰l todavÃ­a esperaba; sostenÃ­a
-                una llave en la mano. AcercÃ¡ndose a una de las pequeÃ±as puertas
-                negras, la introdujo en la cerradura; hizo una pausa y se dirigiÃ³ a mÃ­
+                <p>Regresé, busqué la esponja en el lavabo, las sales en mi cajón, y
+                una vez más desanduve mis pasos. Él todavía esperaba; sostenía
+                una llave en la mano. Acercándose a una de las pequeñas puertas
+                negras, la introdujo en la cerradura; hizo una pausa y se dirigió a mí
                 de nuevo.</p>
 
-                <p>â€”No te mareas al ver sangre, Â¿verdad?</p>
+                <p>—No te mareas al ver sangre, ¿verdad?</p>
 
-                <p>â€”Creo que no. Nunca me he puesto a prueba todavÃ­a.</p>
+                <p>—Creo que no. Nunca me he puesto a prueba todavía.</p>
 
-                <p>SentÃ­ un escalofrÃ­o mientras le respondÃ­a, pero ninguna frialdad ni desmayo.</p>
+                <p>Sentí un escalofrío mientras le respondía, pero ninguna frialdad ni desmayo.</p>
 
-                <p>â€”Solo dame tu mano â€”dijoâ€”. No conviene arriesgarse a un desmayo.</p>
+                <p>—Solo dame tu mano —dijo—. No conviene arriesgarse a un desmayo.</p>
 
                 <p>Puse mis dedos en los suyos.</p>
 
-                <p>â€”CÃ¡lida y firme â€”fue su comentario. GirÃ³ la llave y abriÃ³ la puerta.</p>
+                <p>—Cálida y firme —fue su comentario. Giró la llave y abrió la puerta.</p>
 
-                <p>Vi una habitaciÃ³n que recordaba haber visto antes, el dÃ­a en que
-                la seÃ±ora Fairfax me mostrÃ³ la casa. Estaba cubierta de tapices; pero
-                el tapiz estaba ahora recogido en una parte, y se veÃ­a una puerta
-                que entonces habÃ­a estado oculta. Esta puerta estaba abierta; una
-                luz brillaba desde la habitaciÃ³n interior. OÃ­ desde allÃ­ un sonido de
-                gruÃ±idos y arrebatos, casi como un perro riÃ±endo. El seÃ±or
-                Rochester, dejando su vela, me dijo: Â«Espera un minutoÂ», y avanzÃ³
-                hacia el apartamento interior. Un grito de risa saludÃ³ su entrada;
-                ruidoso al principio, y terminando en el propio Â¡ja! Â¡ja! de duende de
-                Grace Poole. Ella, entonces, estaba allÃ­. Hizo algÃºn tipo de arreglo sin
-                hablar, aunque oÃ­ una voz baja dirigirse a Ã©l. SaliÃ³ y cerrÃ³ la puerta
-                tras de sÃ­.</p>
+                <p>Vi una habitación que recordaba haber visto antes, el día en que
+                la señora Fairfax me mostró la casa. Estaba cubierta de tapices; pero
+                el tapiz estaba ahora recogido en una parte, y se veía una puerta
+                que entonces había estado oculta. Esta puerta estaba abierta; una
+                luz brillaba desde la habitación interior. Oí desde allí un sonido de
+                gruñidos y arrebatos, casi como un perro riñendo. El señor
+                Rochester, dejando su vela, me dijo: «Espera un minuto», y avanzó
+                hacia el apartamento interior. Un grito de risa saludó su entrada;
+                ruidoso al principio, y terminando en el propio ¡ja! ¡ja! de duende de
+                Grace Poole. Ella, entonces, estaba allí. Hizo algún tipo de arreglo sin
+                hablar, aunque oí una voz baja dirigirse a él. Salió y cerró la puerta
+                tras de sí.</p>
 
-                <p>â€”Â¡AquÃ­, Jane! â€”dijo; y rodeÃ© una gran cama que, con sus cortinas
-                corridas, ocultaba una parte considerable de la cÃ¡mara. Un sillÃ³n
+                <p>—¡Aquí, Jane! —dijo; y rodeé una gran cama que, con sus cortinas
+                corridas, ocultaba una parte considerable de la cámara. Un sillón
                 estaba cerca de la cabecera de la cama. Un hombre estaba sentado
-                en Ã©l, vestido a excepciÃ³n de su abrigo; estaba quieto; su cabeza
-                reclinada hacia atrÃ¡s; sus ojos cerrados. El seÃ±or Rochester sostuvo
-                la vela sobre Ã©l; reconocÃ­ en su rostro pÃ¡lido y aparentemente sin
-                vida al extraÃ±o, Mason. Vi tambiÃ©n que su ropa de lino por un lado,
+                en él, vestido a excepción de su abrigo; estaba quieto; su cabeza
+                reclinada hacia atrás; sus ojos cerrados. El señor Rochester sostuvo
+                la vela sobre él; reconocí en su rostro pálido y aparentemente sin
+                vida al extraño, Mason. Vi también que su ropa de lino por un lado,
                 y un brazo, estaban casi empapados en sangre.</p>
 
-                <p>â€”SostÃ©n la vela â€”dijo el seÃ±or Rochester, y la tomÃ©. Trajo una
-                palangana con agua del lavaboâ€”. SostÃ©n eso â€”dijo. ObedecÃ­. TomÃ³
-                la esponja, la mojÃ³ y humedeciÃ³ el rostro cadavÃ©rico. PidiÃ³ mi frasco
-                de sales y lo aplicÃ³ a las fosas nasales. El seÃ±or Mason abriÃ³ en
-                breve los ojos; gimiÃ³. El seÃ±or Rochester abriÃ³ la camisa del hombre
-                herido, cuyo brazo y hombro estaban vendados. LimpiÃ³ con la
-                esponja la sangre que goteaba rÃ¡pidamente.</p>
+                <p>—Sostén la vela —dijo el señor Rochester, y la tomé. Trajo una
+                palangana con agua del lavabo—. Sostén eso —dijo. Obedecí. Tomó
+                la esponja, la mojó y humedeció el rostro cadavérico. Pidió mi frasco
+                de sales y lo aplicó a las fosas nasales. El señor Mason abrió en
+                breve los ojos; gimió. El señor Rochester abrió la camisa del hombre
+                herido, cuyo brazo y hombro estaban vendados. Limpió con la
+                esponja la sangre que goteaba rápidamente.</p>
 
-                <p>â€”Â¿Hay peligro inmediato? â€”murmurÃ³ el seÃ±or Mason.</p>
+                <p>—¿Hay peligro inmediato? —murmuró el señor Mason.</p>
 
-                <p>â€”Â¡Bah! No, un simple rasguÃ±o. No te dejes abatir tanto, hombre.
-                Â¡Ãnimo! IrÃ© yo mismo a buscar un cirujano para ti ahora. Espero que
-                puedas ser trasladado por la maÃ±ana. Jane â€”continuÃ³.</p>
+                <p>—¡Bah! No, un simple rasguño. No te dejes abatir tanto, hombre.
+                ¡Ánimo! Iré yo mismo a buscar un cirujano para ti ahora. Espero que
+                puedas ser trasladado por la mañana. Jane —continuó.</p>
 
-                <p>â€”Â¿SeÃ±or?</p>
+                <p>—¿Señor?</p>
 
-                <p>â€”TendrÃ© que dejarte en esta habitaciÃ³n con este caballero,
-                durante una hora, o quizÃ¡s dos. LimpiarÃ¡s la sangre con la esponja
-                como yo lo hago cuando vuelva a salir. Si se siente dÃ©bil, le pondrÃ¡s
-                el vaso de agua que estÃ¡ en esa mesita en los labios y tus sales en
-                la nariz. No le hablarÃ¡s bajo ningÃºn pretexto, y... Richard, te irÃ¡ la
-                vida en ello si le hablas a ella. Abre los labios, agÃ­tate, y no
-                responderÃ© de las consecuencias.</p>
+                <p>—Tendré que dejarte en esta habitación con este caballero,
+                durante una hora, o quizás dos. Limpiarás la sangre con la esponja
+                como yo lo hago cuando vuelva a salir. Si se siente débil, le pondrás
+                el vaso de agua que está en esa mesita en los labios y tus sales en
+                la nariz. No le hablarás bajo ningún pretexto, y... Richard, te irá la
+                vida en ello si le hablas a ella. Abre los labios, agítate, y no
+                responderé de las consecuencias.</p>
 
-                <p>De nuevo, el pobre hombre gimiÃ³; parecÃ­a como si no se atreviera
-                a moverse. El miedo, ya fuera a la muerte o a otra cosa, parecÃ­a casi
-                paralizarlo. El seÃ±or Rochester me puso en la mano la esponja ahora
-                ensangrentada, y procedÃ­ a usarla como Ã©l lo habÃ­a hecho. Me
-                observÃ³ un segundo y luego, diciendo: Â«Â¡Recuerda! Nada de
-                conversaciÃ³nÂ», abandonÃ³ la habitaciÃ³n. ExperimentÃ© una extraÃ±a
-                sensaciÃ³n cuando la llave chirriÃ³ en la cerradura y el sonido de sus
-                pasos al retirarse dejÃ³ de oÃ­rse.</p>
+                <p>De nuevo, el pobre hombre gimió; parecía como si no se atreviera
+                a moverse. El miedo, ya fuera a la muerte o a otra cosa, parecía casi
+                paralizarlo. El señor Rochester me puso en la mano la esponja ahora
+                ensangrentada, y procedí a usarla como él lo había hecho. Me
+                observó un segundo y luego, diciendo: «¡Recuerda! Nada de
+                conversación», abandonó la habitación. Experimenté una extraña
+                sensación cuando la llave chirrió en la cerradura y el sonido de sus
+                pasos al retirarse dejó de oírse.</p>
 
-                <p>AquÃ­ estaba yo, pues, en el tercer piso, encerrada en una de sus
-                celdas mÃ­sticas; la noche a mi alrededor; un espectÃ¡culo pÃ¡lido y
+                <p>Aquí estaba yo, pues, en el tercer piso, encerrada en una de sus
+                celdas místicas; la noche a mi alrededor; un espectáculo pálido y
                 sangriento bajo mis ojos y mis manos; una asesina apenas separada
-                de mÃ­ por una sola puerta. SÃ­, eso era espantoso; el resto podÃ­a
-                soportarlo; pero me estremecÃ­ al pensar en Grace Poole irrumpiendo
-                sobre mÃ­.</p>
+                de mí por una sola puerta. Sí, eso era espantoso; el resto podía
+                soportarlo; pero me estremecí al pensar en Grace Poole irrumpiendo
+                sobre mí.</p>
 
                 <p>Debo mantenerme en mi puesto, sin embargo. Debo vigilar este
-                rostro macabro, estos labios azules e inmÃ³viles a los que se les
-                prohÃ­be abrirse, estos ojos ahora cerrados, ahora abiertos, ahora
-                vagando por la habitaciÃ³n, ahora fijÃ¡ndose en mÃ­, y siempre
+                rostro macabro, estos labios azules e inmóviles a los que se les
+                prohíbe abrirse, estos ojos ahora cerrados, ahora abiertos, ahora
+                vagando por la habitación, ahora fijándose en mí, y siempre
                 vidriosos con la opacidad del horror. Debo sumergir mi mano una y
                 otra vez en la palangana de sangre y agua, y limpiar la sangre que
                 gotea. Debo ver la luz de la vela sin despabilar menguar sobre mi
                 tarea; las sombras oscurecerse en el antiguo tapiz labrado a mi
                 alrededor, y volverse negras bajo los cortinajes de la vasta y vieja
-                cama, y temblar extraÃ±amente sobre las puertas de un gran armario
-                enfrente, cuyo frente, dividido en doce paneles, llevaba, en sombrÃ­o
-                diseÃ±o, las cabezas de los doce apÃ³stoles, cada una encerrada en su
+                cama, y temblar extrañamente sobre las puertas de un gran armario
+                enfrente, cuyo frente, dividido en doce paneles, llevaba, en sombrío
+                diseño, las cabezas de los doce apóstoles, cada una encerrada en su
                 panel separado como en un marco; mientras que sobre ellos, en la
-                parte superior, se alzaba un crucifijo de Ã©bano y un Cristo
+                parte superior, se alzaba un crucifijo de ébano y un Cristo
                 moribundo.</p>
 
-                <p>SegÃºn la cambiante oscuridad y el parpadeante resplandor se
-                cernÃ­an aquÃ­ o se deslizaban allÃ¡, era ahora el barbudo mÃ©dico,
-                Lucas, el que fruncÃ­a el ceÃ±o; ahora el largo cabello de San Juan el
-                que ondeaba; y al instante el rostro diabÃ³lico de Judas, que emergÃ­a
-                del panel y parecÃ­a cobrar vida y amenazar con una revelaciÃ³n del
-                architraidor, del propio SatanÃ¡s, en la forma de su subordinado.</p>
+                <p>Según la cambiante oscuridad y el parpadeante resplandor se
+                cernían aquí o se deslizaban allá, era ahora el barbudo médico,
+                Lucas, el que fruncía el ceño; ahora el largo cabello de San Juan el
+                que ondeaba; y al instante el rostro diabólico de Judas, que emergía
+                del panel y parecía cobrar vida y amenazar con una revelación del
+                architraidor, del propio Satanás, en la forma de su subordinado.</p>
 
-                <p>En medio de todo esto, tenÃ­a que escuchar ademÃ¡s de vigilar:
+                <p>En medio de todo esto, tenía que escuchar además de vigilar:
                 escuchar los movimientos de la bestia salvaje o del demonio en la
-                guarida de al lado. Pero desde la visita del seÃ±or Rochester parecÃ­a
-                hechizada. Toda la noche no oÃ­ mÃ¡s que tres sonidos a tres largos
-                intervalos: el crujido de un paso, una renovaciÃ³n momentÃ¡nea del
-                ruido canino y gruÃ±Ã³n, y un profundo gemido humano.</p>
+                guarida de al lado. Pero desde la visita del señor Rochester parecía
+                hechizada. Toda la noche no oí más que tres sonidos a tres largos
+                intervalos: el crujido de un paso, una renovación momentánea del
+                ruido canino y gruñón, y un profundo gemido humano.</p>
 
-                <p>Luego, mis propios pensamientos me atormentaban. Â¿QuÃ© crimen
-                era este, que vivÃ­a encarnado en esta mansiÃ³n apartada y no podÃ­a
-                ser ni expulsado ni sometido por el dueÃ±o? Â¿QuÃ© misterio, que
-                estallaba ahora en fuego y ahora en sangre, en las horas mÃ¡s
-                muertas de la noche? Â¿QuÃ© criatura era, que, enmascarada en un
-                rostro y una forma de mujer corriente, emitÃ­a la voz, ora de un
-                demonio burlÃ³n, ora de un ave de rapiÃ±a en busca de carroÃ±a?</p>
+                <p>Luego, mis propios pensamientos me atormentaban. ¿Qué crimen
+                era este, que vivía encarnado en esta mansión apartada y no podía
+                ser ni expulsado ni sometido por el dueño? ¿Qué misterio, que
+                estallaba ahora en fuego y ahora en sangre, en las horas más
+                muertas de la noche? ¿Qué criatura era, que, enmascarada en un
+                rostro y una forma de mujer corriente, emitía la voz, ora de un
+                demonio burlón, ora de un ave de rapiña en busca de carroña?</p>
 
-                <p>Y este hombre sobre el que me inclinaba, este extraÃ±o corriente y
-                tranquilo, Â¿cÃ³mo se habÃ­a visto envuelto en la red del horror? Â¿Y por
-                quÃ© la Furia se habÃ­a lanzado contra Ã©l? Â¿QuÃ© le hizo buscar este
-                rincÃ³n de la casa a una hora intempestiva, cuando deberÃ­a haber
-                estado dormido en la cama? HabÃ­a oÃ­do al seÃ±or Rochester asignarle
-                un apartamento abajo, Â¿quÃ© lo trajo aquÃ­? Y, Â¿por quÃ©, ahora, estaba
-                tan dÃ³cil bajo la violencia o la traiciÃ³n que se le habÃ­a hecho? Â¿Por
-                quÃ© se sometÃ­a tan tranquilamente al ocultamiento que el seÃ±or
-                Rochester imponÃ­a? Â¿Por quÃ© el seÃ±or Rochester imponÃ­a este
-                ocultamiento? Su invitado habÃ­a sido ultrajado, su propia vida en una
-                ocasiÃ³n anterior habÃ­a sido espantosamente tramada en su contra;
-                Â¡y ambos intentos los sofocaba en secreto y los hundÃ­a en el olvido!
-                Por Ãºltimo, vi que el seÃ±or Mason era sumiso al seÃ±or Rochester;
-                que la voluntad impetuosa de este Ãºltimo dominaba por completo la
-                inercia del primero. Las pocas palabras que habÃ­an cruzado entre
+                <p>Y este hombre sobre el que me inclinaba, este extraño corriente y
+                tranquilo, ¿cómo se había visto envuelto en la red del horror? ¿Y por
+                qué la Furia se había lanzado contra él? ¿Qué le hizo buscar este
+                rincón de la casa a una hora intempestiva, cuando debería haber
+                estado dormido en la cama? Había oído al señor Rochester asignarle
+                un apartamento abajo, ¿qué lo trajo aquí? Y, ¿por qué, ahora, estaba
+                tan dócil bajo la violencia o la traición que se le había hecho? ¿Por
+                qué se sometía tan tranquilamente al ocultamiento que el señor
+                Rochester imponía? ¿Por qué el señor Rochester imponía este
+                ocultamiento? Su invitado había sido ultrajado, su propia vida en una
+                ocasión anterior había sido espantosamente tramada en su contra;
+                ¡y ambos intentos los sofocaba en secreto y los hundía en el olvido!
+                Por último, vi que el señor Mason era sumiso al señor Rochester;
+                que la voluntad impetuosa de este último dominaba por completo la
+                inercia del primero. Las pocas palabras que habían cruzado entre
                 ellos me aseguraron de esto. Era evidente que en su trato anterior,
-                la disposiciÃ³n pasiva de uno habÃ­a sido habitualmente influenciada
-                por la energÃ­a activa del otro. Â¿De dÃ³nde, entonces, habÃ­a surgido la
-                consternaciÃ³n del seÃ±or Rochester al oÃ­r la llegada del seÃ±or Mason?
-                Â¿Por quÃ© el mero nombre de este individuo sin resistencia â€”a quien
-                su palabra ahora bastaba para controlar como a un niÃ±oâ€” habÃ­a
-                caÃ­do sobre Ã©l, unas horas antes, como un rayo podrÃ­a caer sobre un
+                la disposición pasiva de uno había sido habitualmente influenciada
+                por la energía activa del otro. ¿De dónde, entonces, había surgido la
+                consternación del señor Rochester al oír la llegada del señor Mason?
+                ¿Por qué el mero nombre de este individuo sin resistencia —a quien
+                su palabra ahora bastaba para controlar como a un niño— había
+                caído sobre él, unas horas antes, como un rayo podría caer sobre un
                 roble?</p>
 
-                <p>Oh! No podÃ­a olvidar su mirada y su palidez cuando susurrÃ³:
-                Â«Jane, he recibido un golpe, he recibido un golpe, JaneÂ». No podÃ­a
-                olvidar cÃ³mo habÃ­a temblado el brazo que apoyaba en mi hombro; y
-                no era asunto baladÃ­ lo que podÃ­a doblegar asÃ­ el espÃ­ritu resuelto y
+                <p>Oh! No podía olvidar su mirada y su palidez cuando susurró:
+                «Jane, he recibido un golpe, he recibido un golpe, Jane». No podía
+                olvidar cómo había temblado el brazo que apoyaba en mi hombro; y
+                no era asunto baladí lo que podía doblegar así el espíritu resuelto y
                 hacer temblar el vigoroso cuerpo de Fairfax Rochester.</p>
 
-                <p>Â«Â¿CuÃ¡ndo vendrÃ¡? Â¿CuÃ¡ndo vendrÃ¡?Â», gritÃ© interiormente,
+                <p>«¿Cuándo vendrá? ¿Cuándo vendrá?», grité interiormente,
                 mientras la noche se prolongaba y se prolongaba, mientras mi
-                paciente sangrante se debilitaba, gemÃ­a, enfermaba; y ni el dÃ­a ni la
-                ayuda llegaban. Una y otra vez habÃ­a llevado el agua a los labios
-                blancos de Mason; una y otra vez le habÃ­a ofrecido las sales
-                estimulantes. Mis esfuerzos parecÃ­an ineficaces: o el sufrimiento
-                corporal o mental, o la pÃ©rdida de sangre, o los tres combinados,
-                estaban postrando rÃ¡pidamente sus fuerzas. GemÃ­a tanto y parecÃ­a
-                tan dÃ©bil, desvariado y perdido, que temÃ­ que se estuviera muriendo;
-                y ni siquiera podÃ­a hablarle.</p>
+                paciente sangrante se debilitaba, gemía, enfermaba; y ni el día ni la
+                ayuda llegaban. Una y otra vez había llevado el agua a los labios
+                blancos de Mason; una y otra vez le había ofrecido las sales
+                estimulantes. Mis esfuerzos parecían ineficaces: o el sufrimiento
+                corporal o mental, o la pérdida de sangre, o los tres combinados,
+                estaban postrando rápidamente sus fuerzas. Gemía tanto y parecía
+                tan débil, desvariado y perdido, que temí que se estuviera muriendo;
+                y ni siquiera podía hablarle.</p>
 
-                <p>La vela, consumida por fin, se apagÃ³; al expirar, percibÃ­ vetas de
+                <p>La vela, consumida por fin, se apagó; al expirar, percibí vetas de
                 luz gris bordeando las cortinas de la ventana. El amanecer se
-                acercaba entonces. Al instante oÃ­ a Pilot ladrar muy abajo, desde su
-                lejana perrera en el patio. La esperanza reviviÃ³. Y no fue infundada.
-                En cinco minutos mÃ¡s, la llave chirriante, la cerradura que cedÃ­a, me
-                advirtieron que mi vigilia habÃ­a terminado. No podrÃ­a haber durado
-                mÃ¡s de dos horas; muchas semanas me han parecido mÃ¡s cortas.</p>
+                acercaba entonces. Al instante oí a Pilot ladrar muy abajo, desde su
+                lejana perrera en el patio. La esperanza revivió. Y no fue infundada.
+                En cinco minutos más, la llave chirriante, la cerradura que cedía, me
+                advirtieron que mi vigilia había terminado. No podría haber durado
+                más de dos horas; muchas semanas me han parecido más cortas.</p>
 
-                <p>El seÃ±or Rochester entrÃ³, y con Ã©l el cirujano que habÃ­a ido a buscar.</p>
+                <p>El señor Rochester entró, y con él el cirujano que había ido a buscar.</p>
 
-                <p>â€”Ahora, Carter, estÃ© alerta â€”le dijo a este Ãºltimoâ€”. Le doy solo
+                <p>—Ahora, Carter, esté alerta —le dijo a este último—. Le doy solo
                 media hora para curar la herida, sujetar los vendajes, bajar al
-                paciente y todo lo demÃ¡s.</p>
+                paciente y todo lo demás.</p>
 
-                <p>â€”Pero, Â¿estÃ¡ en condiciones de moverse, seÃ±or?</p>
+                <p>—Pero, ¿está en condiciones de moverse, señor?</p>
 
-                <p>â€”Sin duda. No es nada serio. EstÃ¡ nervioso, hay que mantenerle
-                el Ã¡nimo. Venga, pÃ³ngase a trabajar.</p>
+                <p>—Sin duda. No es nada serio. Está nervioso, hay que mantenerle
+                el ánimo. Venga, póngase a trabajar.</p>
 
-                <p>El seÃ±or Rochester descorriÃ³ la gruesa cortina, subiÃ³ la persiana
-                de Holanda, dejÃ³ entrar toda la luz del dÃ­a que pudo; y me
-                sorprendiÃ³ y animÃ³ ver cuÃ¡n avanzado estaba el amanecer, quÃ©
-                vetas rosadas comenzaban a iluminar el este. Luego se acercÃ³ a
+                <p>El señor Rochester descorrió la gruesa cortina, subió la persiana
+                de Holanda, dejó entrar toda la luz del día que pudo; y me
+                sorprendió y animó ver cuán avanzado estaba el amanecer, qué
+                vetas rosadas comenzaban a iluminar el este. Luego se acercó a
                 Mason, a quien el cirujano ya estaba atendiendo.</p>
 
-                <p>â€”Ahora, mi buen amigo, Â¿cÃ³mo estÃ¡? â€”preguntÃ³.</p>
+                <p>—Ahora, mi buen amigo, ¿cómo está? —preguntó.</p>
 
-                <p>â€”Me temo que ha acabado conmigo â€”fue la dÃ©bil respuesta.</p>
+                <p>—Me temo que ha acabado conmigo —fue la débil respuesta.</p>
 
-                <p>â€”Â¡Ni una pizca! Â¡Valor! En quince dÃ­as apenas estarÃ¡ un Ã¡pice
-                peor. Ha perdido un poco de sangre, eso es todo. Carter, asegÃºrele
+                <p>—¡Ni una pizca! ¡Valor! En quince días apenas estará un ápice
+                peor. Ha perdido un poco de sangre, eso es todo. Carter, asegúrele
                 que no hay peligro.</p>
 
-                <p>â€”Puedo hacerlo a conciencia â€”dijo Carter, que ahora habÃ­a
-                deshecho los vendajesâ€”. Solo desearÃ­a haber llegado antes. No
-                habrÃ­a sangrado tanto. Pero, Â¿cÃ³mo es esto? La carne del hombro
-                estÃ¡ desgarrada ademÃ¡s de cortada. Esta herida no se hizo con un
-                cuchillo. Â¡AquÃ­ ha habido dientes!</p>
+                <p>—Puedo hacerlo a conciencia —dijo Carter, que ahora había
+                deshecho los vendajes—. Solo desearía haber llegado antes. No
+                habría sangrado tanto. Pero, ¿cómo es esto? La carne del hombro
+                está desgarrada además de cortada. Esta herida no se hizo con un
+                cuchillo. ¡Aquí ha habido dientes!</p>
 
-                <p>â€”Me mordiÃ³ â€”murmurÃ³â€”. Me atacÃ³ como una tigresa cuando
-                Rochester le quitÃ³ el cuchillo.</p>
+                <p>—Me mordió —murmuró—. Me atacó como una tigresa cuando
+                Rochester le quitó el cuchillo.</p>
 
-                <p>â€”No deberÃ­as haber cedido; deberÃ­as haberte enfrentado a ella de
-                inmediato â€”dijo el seÃ±or Rochester.</p>
+                <p>—No deberías haber cedido; deberías haberte enfrentado a ella de
+                inmediato —dijo el señor Rochester.</p>
 
-                <p>â€”Pero en tales circunstancias, Â¿quÃ© podÃ­a hacer uno? â€”replicÃ³
-                Masonâ€”. Â¡Oh, fue espantoso! â€”aÃ±adiÃ³, estremeciÃ©ndoseâ€”. Y no me
-                lo esperaba. ParecÃ­a tan tranquila al principio.</p>
+                <p>—Pero en tales circunstancias, ¿qué podía hacer uno? —replicó
+                Mason—. ¡Oh, fue espantoso! —añadió, estremeciéndose—. Y no me
+                lo esperaba. Parecía tan tranquila al principio.</p>
 
-                <p>â€”Te lo advertÃ­ â€”fue la respuesta de su amigoâ€”. Dije: â€œTen
-                cuidado cuando te acerques a ellaâ€. AdemÃ¡s, podrÃ­as haber esperado
-                hasta maÃ±ana y haberme tenido contigo. Fue una mera locura
+                <p>—Te lo advertí —fue la respuesta de su amigo—. Dije: “Ten
+                cuidado cuando te acerques a ella”. Además, podrías haber esperado
+                hasta mañana y haberme tenido contigo. Fue una mera locura
                 intentar la entrevista esta noche y a solas.</p>
 
-                <p>â€”PensÃ© que podrÃ­a haber hecho algÃºn bien.</p>
+                <p>—Pensé que podría haber hecho algún bien.</p>
 
-                <p>â€”Â¡Pensaste! Â¡Pensaste! SÃ­, me impacienta oÃ­rte. Pero, como sea,
+                <p>—¡Pensaste! ¡Pensaste! Sí, me impacienta oírte. Pero, como sea,
                 has sufrido y es probable que sufras lo suficiente por no seguir mi
-                consejo; asÃ­ que no dirÃ© mÃ¡s. Â¡Carter, deprisa, deprisa! El sol saldrÃ¡
-                pronto y tengo que sacarlo de aquÃ­.</p>
+                consejo; así que no diré más. ¡Carter, deprisa, deprisa! El sol saldrá
+                pronto y tengo que sacarlo de aquí.</p>
 
-                <p>â€”Inmediatamente, seÃ±or; el hombro estÃ¡ vendado. Debo mirar
-                esta otra herida en el brazo. Creo que tambiÃ©n ha metido los dientes
-                aquÃ­.</p>
+                <p>—Inmediatamente, señor; el hombro está vendado. Debo mirar
+                esta otra herida en el brazo. Creo que también ha metido los dientes
+                aquí.</p>
 
-                <p>â€”Me chupÃ³ la sangre; dijo que me desangrarÃ­a el corazÃ³n â€”dijo Mason.</p>
+                <p>—Me chupó la sangre; dijo que me desangraría el corazón —dijo Mason.</p>
 
-                <p>Vi al seÃ±or Rochester estremecerse. Una expresiÃ³n singularmente
-                marcada de asco, horror, odio, deformÃ³ su semblante casi hasta la
-                distorsiÃ³n; pero solo dijo:</p>
+                <p>Vi al señor Rochester estremecerse. Una expresión singularmente
+                marcada de asco, horror, odio, deformó su semblante casi hasta la
+                distorsión; pero solo dijo:</p>
 
-                <p>â€”Venga, cÃ¡llate, Richard, y no hagas caso de sus galimatÃ­as. No
+                <p>—Venga, cállate, Richard, y no hagas caso de sus galimatías. No
                 las repitas.</p>
 
-                <p>â€”OjalÃ¡ pudiera olvidarlo â€”fue la respuesta.</p>
+                <p>—Ojalá pudiera olvidarlo —fue la respuesta.</p>
 
-                <p>â€”Lo harÃ¡s cuando estÃ©s fuera del paÃ­s. Cuando vuelvas a Spanish
-                Town, podrÃ¡s pensar en ella como muerta y enterrada, o mÃ¡s bien,
-                no necesitarÃ¡s pensar en ella en absoluto.</p>
+                <p>—Lo harás cuando estés fuera del país. Cuando vuelvas a Spanish
+                Town, podrás pensar en ella como muerta y enterrada, o más bien,
+                no necesitarás pensar en ella en absoluto.</p>
 
-                <p>â€”Â¡Imposible olvidar esta noche!</p>
+                <p>—¡Imposible olvidar esta noche!</p>
 
-                <p>â€”No es imposible. Ten algo de energÃ­a, hombre. Hace dos horas
-                pensabas que estabas mÃ¡s muerto que una sardina, y ahora estÃ¡s
-                vivo y coleando. Â¡Ea! Carter ha terminado contigo, o casi. Te pondrÃ©
-                decente en un santiamÃ©n. Jane (se volviÃ³ hacia mÃ­ por primera vez
+                <p>—No es imposible. Ten algo de energía, hombre. Hace dos horas
+                pensabas que estabas más muerto que una sardina, y ahora estás
+                vivo y coleando. ¡Ea! Carter ha terminado contigo, o casi. Te pondré
+                decente en un santiamén. Jane (se volvió hacia mí por primera vez
                 desde su reingreso), toma esta llave, baja a mi dormitorio y camina
-                directamente a mi vestidor. Abre el cajÃ³n superior del armario y saca
-                una camisa y un paÃ±uelo de cuello limpios. TrÃ¡elos aquÃ­; y sÃ© Ã¡gil.</p>
+                directamente a mi vestidor. Abre el cajón superior del armario y saca
+                una camisa y un pañuelo de cuello limpios. Tráelos aquí; y sé ágil.</p>
 
-                <p>Fui; busquÃ© el depÃ³sito que habÃ­a mencionado, encontrÃ© los
-                artÃ­culos nombrados y regresÃ© con ellos.</p>
+                <p>Fui; busqué el depósito que había mencionado, encontré los
+                artículos nombrados y regresé con ellos.</p>
 
-                <p>â€”Ahora â€”dijoâ€”, ve al otro lado de la cama mientras ordeno su
-                aseo; pero no salgas de la habitaciÃ³n. Puede que te necesiten de
+                <p>—Ahora —dijo—, ve al otro lado de la cama mientras ordeno su
+                aseo; pero no salgas de la habitación. Puede que te necesiten de
                 nuevo.</p>
 
-                <p>Me retirÃ© segÃºn lo indicado.</p>
+                <p>Me retiré según lo indicado.</p>
 
-                <p>â€”Â¿HabÃ­a alguien levantado abajo cuando bajaste, Jane? â€”inquiriÃ³
-                el seÃ±or Rochester al instante.</p>
+                <p>—¿Había alguien levantado abajo cuando bajaste, Jane? —inquirió
+                el señor Rochester al instante.</p>
 
-                <p>â€”No, seÃ±or; todo estaba muy tranquilo.</p>
+                <p>—No, señor; todo estaba muy tranquilo.</p>
 
-                <p>â€”Te sacaremos de aquÃ­ con sigilo, Dick. Y serÃ¡ mejor, tanto por tu
-                bien como por el de la pobre criatura de allÃ¡. He luchado mucho por
-                evitar la exposiciÃ³n, y no me gustarÃ­a que llegara al final. AquÃ­,
-                Carter, ayÃºdalo a ponerse el chaleco. Â¿DÃ³nde dejaste tu capa de
-                piel? No puedes viajar ni una milla sin ella, lo sÃ©, en este maldito
-                clima frÃ­o. Â¿En tu habitaciÃ³n? Jane, baja corriendo a la habitaciÃ³n del
-                seÃ±or Mason, la que estÃ¡ al lado de la mÃ­a, y trae una capa que
-                verÃ¡s allÃ­.</p>
+                <p>—Te sacaremos de aquí con sigilo, Dick. Y será mejor, tanto por tu
+                bien como por el de la pobre criatura de allá. He luchado mucho por
+                evitar la exposición, y no me gustaría que llegara al final. Aquí,
+                Carter, ayúdalo a ponerse el chaleco. ¿Dónde dejaste tu capa de
+                piel? No puedes viajar ni una milla sin ella, lo sé, en este maldito
+                clima frío. ¿En tu habitación? Jane, baja corriendo a la habitación del
+                señor Mason, la que está al lado de la mía, y trae una capa que
+                verás allí.</p>
 
-                <p>De nuevo corrÃ­, y de nuevo regresÃ©, llevando un inmenso manto
+                <p>De nuevo corrí, y de nuevo regresé, llevando un inmenso manto
                 forrado y bordeado de piel.</p>
 
-                <p>â€”Ahora tengo otro recado para ti â€”dijo mi incansable amoâ€”.
-                Debes volver a mi habitaciÃ³n. Â¡QuÃ© suerte que estÃ©s calzada de
-                terciopelo, Jane! Un mensajero de zuecos nunca servirÃ­a en esta
-                coyuntura. Debes abrir el cajÃ³n del medio de mi tocador y sacar un
-                pequeÃ±o frasco y un vasito que encontrarÃ¡s allÃ­. Â¡RÃ¡pido!</p>
+                <p>—Ahora tengo otro recado para ti —dijo mi incansable amo—.
+                Debes volver a mi habitación. ¡Qué suerte que estés calzada de
+                terciopelo, Jane! Un mensajero de zuecos nunca serviría en esta
+                coyuntura. Debes abrir el cajón del medio de mi tocador y sacar un
+                pequeño frasco y un vasito que encontrarás allí. ¡Rápido!</p>
 
-                <p>VolÃ© allÃ­ y de vuelta, trayendo los recipientes deseados.</p>
+                <p>Volé allí y de vuelta, trayendo los recipientes deseados.</p>
 
-                <p>â€”Â¡Eso estÃ¡ bien! Ahora, doctor, me tomarÃ© la libertad de
+                <p>—¡Eso está bien! Ahora, doctor, me tomaré la libertad de
                 administrar una dosis yo mismo, bajo mi propia responsabilidad.
-                ConseguÃ­ este cordial en Roma, de un charlatÃ¡n italiano, un tipo al
-                que habrÃ­as pateado, Carter. No es algo para usar
+                Conseguí este cordial en Roma, de un charlatán italiano, un tipo al
+                que habrías pateado, Carter. No es algo para usar
                 indiscriminadamente, pero es bueno en ocasiones, como ahora, por
                 ejemplo. Jane, un poco de agua.</p>
 
-                <p>ExtendiÃ³ el diminuto vaso y lo llenÃ© hasta la mitad con la botella
+                <p>Extendió el diminuto vaso y lo llené hasta la mitad con la botella
                 de agua del lavabo.</p>
 
-                <p>â€”Eso servirÃ¡. Ahora moja el borde del frasco.</p>
+                <p>—Eso servirá. Ahora moja el borde del frasco.</p>
 
-                <p>Lo hice; midiÃ³ doce gotas de un lÃ­quido carmesÃ­ y se lo presentÃ³ a Mason.</p>
+                <p>Lo hice; midió doce gotas de un líquido carmesí y se lo presentó a Mason.</p>
 
-                <p>â€”Bebe, Richard. Te darÃ¡ el corazÃ³n que te falta, durante una hora mÃ¡s o menos.</p>
+                <p>—Bebe, Richard. Te dará el corazón que te falta, durante una hora más o menos.</p>
 
-                <p>â€”Â¿Pero me harÃ¡ daÃ±o? Â¿Es inflamatorio?</p>
+                <p>—¿Pero me hará daño? ¿Es inflamatorio?</p>
 
-                <p>â€”Â¡Bebe! Â¡Bebe! Â¡Bebe!</p>
+                <p>—¡Bebe! ¡Bebe! ¡Bebe!</p>
 
-                <p>El seÃ±or Mason obedeciÃ³, porque era evidentemente inÃºtil
-                resistirse. Estaba vestido ahora; todavÃ­a parecÃ­a pÃ¡lido, pero ya no
-                estaba ensangrentado y manchado. El seÃ±or Rochester lo dejÃ³
-                sentar tres minutos despuÃ©s de que se hubiera tragado el lÃ­quido;
-                luego lo tomÃ³ del brazo.</p>
+                <p>El señor Mason obedeció, porque era evidentemente inútil
+                resistirse. Estaba vestido ahora; todavía parecía pálido, pero ya no
+                estaba ensangrentado y manchado. El señor Rochester lo dejó
+                sentar tres minutos después de que se hubiera tragado el líquido;
+                luego lo tomó del brazo.</p>
 
-                <p>â€”Ahora estoy seguro de que puedes ponerte de pie â€”dijoâ€”. IntÃ©ntalo.</p>
+                <p>—Ahora estoy seguro de que puedes ponerte de pie —dijo—. Inténtalo.</p>
 
-                <p>El paciente se levantÃ³.</p>
+                <p>El paciente se levantó.</p>
 
-                <p>â€”Carter, tÃ³malo por el otro hombro. Â¡Ãnimo, Richard; da un paso, eso es!</p>
+                <p>—Carter, tómalo por el otro hombro. ¡Ánimo, Richard; da un paso, eso es!</p>
 
-                <p>â€”Me siento mejor â€”observÃ³ el seÃ±or Mason.</p>
+                <p>—Me siento mejor —observó el señor Mason.</p>
 
-                <p>â€”Estoy seguro de que sÃ­. Ahora, Jane, trota delante de nosotros
+                <p>—Estoy seguro de que sí. Ahora, Jane, trota delante de nosotros
                 hacia la escalera de servicio; descorre el cerrojo de la puerta del
-                pasillo lateral y dile al cochero de la silla de postas que verÃ¡s en el
-                patio â€”o justo fuera, pues le dije que no hiciera rodar sus ruidosas
-                ruedas sobre el pavimentoâ€” que estÃ© listo; ya vamos. Y, Jane, si hay
-                alguien por ahÃ­, ven al pie de la escalera y carraspea.</p>
+                pasillo lateral y dile al cochero de la silla de postas que verás en el
+                patio —o justo fuera, pues le dije que no hiciera rodar sus ruidosas
+                ruedas sobre el pavimento— que esté listo; ya vamos. Y, Jane, si hay
+                alguien por ahí, ven al pie de la escalera y carraspea.</p>
 
                 <p>Para entonces eran las cinco y media, y el sol estaba a punto de
-                salir; pero encontrÃ© la cocina todavÃ­a oscura y silenciosa. La puerta
-                del pasillo lateral estaba cerrada; la abrÃ­ con el menor ruido posible.
+                salir; pero encontré la cocina todavía oscura y silenciosa. La puerta
+                del pasillo lateral estaba cerrada; la abrí con el menor ruido posible.
                 Todo el patio estaba en silencio; pero las verjas estaban abiertas de
-                par en par, y habÃ­a una silla de postas, con los caballos ya
+                par en par, y había una silla de postas, con los caballos ya
                 enjaezados y el cochero sentado en el pescante, estacionada fuera.
-                Me acerquÃ© a Ã©l y le dije que los caballeros venÃ­an; Ã©l asintiÃ³. Luego
-                mirÃ© cuidadosamente a mi alrededor y escuchÃ©. La quietud del
-                amanecer dormitaba por todas partes; las cortinas aÃºn estaban
+                Me acerqué a él y le dije que los caballeros venían; él asintió. Luego
+                miré cuidadosamente a mi alrededor y escuché. La quietud del
+                amanecer dormitaba por todas partes; las cortinas aún estaban
                 corridas en las ventanas de las habitaciones de los criados; pajarillos
-                acababan de empezar a gorjear en los Ã¡rboles del huerto
+                acababan de empezar a gorjear en los árboles del huerto
                 blanqueados por las flores, cuyas ramas colgaban como guirnaldas
                 blancas sobre el muro que rodeaba un lado del patio; los caballos
                 del carruaje pateaban de vez en cuando en sus establos cerrados.
-                Todo lo demÃ¡s estaba en silencio.</p>
+                Todo lo demás estaba en silencio.</p>
 
-                <p>Aparecieron entonces los caballeros. Mason, apoyado en el seÃ±or
-                Rochester y el cirujano, parecÃ­a caminar con tolerable facilidad. Lo
-                ayudaron a subir a la calesa; Carter lo siguiÃ³.</p>
+                <p>Aparecieron entonces los caballeros. Mason, apoyado en el señor
+                Rochester y el cirujano, parecía caminar con tolerable facilidad. Lo
+                ayudaron a subir a la calesa; Carter lo siguió.</p>
 
-                <p>â€”Cuida de Ã©l â€”le dijo el seÃ±or Rochester a este Ãºltimoâ€”, y
-                mantenlo en tu casa hasta que estÃ© completamente bien. PasarÃ© a
-                caballo en uno o dos dÃ­as para ver cÃ³mo le va. Richard, Â¿cÃ³mo estÃ¡s?</p>
+                <p>—Cuida de él —le dijo el señor Rochester a este último—, y
+                mantenlo en tu casa hasta que esté completamente bien. Pasaré a
+                caballo en uno o dos días para ver cómo le va. Richard, ¿cómo estás?</p>
 
-                <p>â€”El aire fresco me reanima, Fairfax.</p>
+                <p>—El aire fresco me reanima, Fairfax.</p>
 
-                <p>â€”Deja la ventana abierta de su lado, Carter; no hay viento. AdiÃ³s, Dick.</p>
+                <p>—Deja la ventana abierta de su lado, Carter; no hay viento. Adiós, Dick.</p>
 
-                <p>â€”Fairfax...</p>
+                <p>—Fairfax...</p>
 
-                <p>â€”Bueno, Â¿quÃ© pasa?</p>
+                <p>—Bueno, ¿qué pasa?</p>
 
-                <p>â€”Que la cuiden; que la traten con la mayor ternura posible. Que
-                la... â€”Se detuvo y rompiÃ³ a llorar.</p>
+                <p>—Que la cuiden; que la traten con la mayor ternura posible. Que
+                la... —Se detuvo y rompió a llorar.</p>
 
-                <p>â€”Hago lo mejor que puedo, y lo he hecho, y lo harÃ© â€”fue la
-                respuesta. CerrÃ³ la portezuela de la calesa y el vehÃ­culo se alejÃ³.</p>
+                <p>—Hago lo mejor que puedo, y lo he hecho, y lo haré —fue la
+                respuesta. Cerró la portezuela de la calesa y el vehículo se alejó.</p>
 
-                <p>â€”Â¡OjalÃ¡, por Dios, hubiera un final para todo esto! â€”aÃ±adiÃ³ el
-                seÃ±or Rochester, mientras cerraba y atrancaba las pesadas verjas del
+                <p>—¡Ojalá, por Dios, hubiera un final para todo esto! —añadió el
+                señor Rochester, mientras cerraba y atrancaba las pesadas verjas del
                 patio.</p>
 
-                <p>Hecho esto, se dirigiÃ³ con paso lento y aire abstraÃ­do hacia una
+                <p>Hecho esto, se dirigió con paso lento y aire abstraído hacia una
                 puerta en el muro que bordeaba el huerto. Yo, suponiendo que
-                habÃ­a terminado conmigo, me preparÃ© para volver a la casa; de
-                nuevo, sin embargo, lo oÃ­ llamar: Â«Â¡Jane!Â». HabÃ­a abierto el portal y
-                estaba de pie en Ã©l, esperÃ¡ndome.</p>
+                había terminado conmigo, me preparé para volver a la casa; de
+                nuevo, sin embargo, lo oí llamar: «¡Jane!». Había abierto el portal y
+                estaba de pie en él, esperándome.</p>
 
-                <p>â€”Ven donde hay algo de frescura, por unos momentos â€”dijoâ€”.
-                Esa casa es una mera mazmorra. Â¿No te lo parece?</p>
+                <p>—Ven donde hay algo de frescura, por unos momentos —dijo—.
+                Esa casa es una mera mazmorra. ¿No te lo parece?</p>
 
-                <p>â€”A mÃ­ me parece una mansiÃ³n esplÃ©ndida, seÃ±or.</p>
+                <p>—A mí me parece una mansión espléndida, señor.</p>
 
-                <p>â€”El hechizo de la inexperiencia estÃ¡ sobre tus ojos â€”respondiÃ³â€”.
-                Y la ves a travÃ©s de un medio encantado. No puedes discernir que el
-                dorado es fango y los cortinajes de seda telaraÃ±as; que el mÃ¡rmol es
-                pizarra sÃ³rdida y las maderas pulidas meras astillas de desecho y
-                corteza escamosa. Ahora, aquÃ­ (seÃ±alÃ³ el frondoso recinto en el que
-                habÃ­amos entrado) todo es real, dulce y puro.</p>
+                <p>—El hechizo de la inexperiencia está sobre tus ojos —respondió—.
+                Y la ves a través de un medio encantado. No puedes discernir que el
+                dorado es fango y los cortinajes de seda telarañas; que el mármol es
+                pizarra sórdida y las maderas pulidas meras astillas de desecho y
+                corteza escamosa. Ahora, aquí (señaló el frondoso recinto en el que
+                habíamos entrado) todo es real, dulce y puro.</p>
 
-                <p>VagÃ³ por un sendero bordeado de boj, con manzanos, perales y
+                <p>Vagó por un sendero bordeado de boj, con manzanos, perales y
                 cerezos a un lado, y un arriate al otro lleno de toda clase de flores
-                antiguas: alhelÃ­es, clavellinas, prÃ­mulas, pensamientos, mezclados
-                con abrÃ³tano, escaramujo y diversas hierbas fragantes. Estaban
-                frescas ahora, como solo una sucesiÃ³n de chubascos y claros de
-                abril, seguidos de una hermosa maÃ±ana de primavera, podÃ­an
+                antiguas: alhelíes, clavellinas, prímulas, pensamientos, mezclados
+                con abrótano, escaramujo y diversas hierbas fragantes. Estaban
+                frescas ahora, como solo una sucesión de chubascos y claros de
+                abril, seguidos de una hermosa mañana de primavera, podían
                 hacerlas. El sol acababa de entrar en el este veteado, y su luz
-                iluminaba los Ã¡rboles del huerto enramados y cubiertos de rocÃ­o, y
+                iluminaba los árboles del huerto enramados y cubiertos de rocío, y
                 brillaba por los tranquilos paseos bajo ellos.</p>
 
-                <p>â€”Jane, Â¿quieres una flor?</p>
+                <p>—Jane, ¿quieres una flor?</p>
 
-                <p>CogiÃ³ una rosa a medio abrir, la primera del rosal, y me la ofreciÃ³.</p>
+                <p>Cogió una rosa a medio abrir, la primera del rosal, y me la ofreció.</p>
 
-                <p>â€”Gracias, seÃ±or.</p>
+                <p>—Gracias, señor.</p>
 
-                <p>â€”Â¿Te gusta este amanecer, Jane? Â¿Ese cielo con sus nubes altas y
-                ligeras que seguramente se disiparÃ¡n a medida que el dÃ­a se
-                caliente, esta atmÃ³sfera plÃ¡cida y balsÃ¡mica?</p>
+                <p>—¿Te gusta este amanecer, Jane? ¿Ese cielo con sus nubes altas y
+                ligeras que seguramente se disiparán a medida que el día se
+                caliente, esta atmósfera plácida y balsámica?</p>
 
-                <p>â€”SÃ­, mucho.</p>
+                <p>—Sí, mucho.</p>
 
-                <p>â€”Has pasado una noche extraÃ±a, Jane.</p>
+                <p>—Has pasado una noche extraña, Jane.</p>
 
-                <p>â€”SÃ­, seÃ±or.</p>
+                <p>—Sí, señor.</p>
 
-                <p>â€”Y te ha puesto pÃ¡lida. Â¿Tuviste miedo cuando te dejÃ© sola con Mason?</p>
+                <p>—Y te ha puesto pálida. ¿Tuviste miedo cuando te dejé sola con Mason?</p>
 
-                <p>â€”TenÃ­a miedo de que alguien saliera de la habitaciÃ³n interior.</p>
+                <p>—Tenía miedo de que alguien saliera de la habitación interior.</p>
 
-                <p>â€”Pero yo habÃ­a cerrado la puerta con llave, tenÃ­a la llave en mi
-                bolsillo. HabrÃ­a sido un pastor descuidado si hubiera dejado un
-                cordero â€”mi corderitoâ€” tan cerca de la guarida de un lobo, sin
+                <p>—Pero yo había cerrado la puerta con llave, tenía la llave en mi
+                bolsillo. Habría sido un pastor descuidado si hubiera dejado un
+                cordero —mi corderito— tan cerca de la guarida de un lobo, sin
                 vigilancia. Estabas a salvo.</p>
 
-                <p>â€”Â¿SeguirÃ¡ viviendo aquÃ­ Grace Poole, seÃ±or?</p>
+                <p>—¿Seguirá viviendo aquí Grace Poole, señor?</p>
 
-                <p>â€”Â¡Oh, sÃ­! No te preocupes por ella, saca el asunto de tus pensamientos.</p>
+                <p>—¡Oh, sí! No te preocupes por ella, saca el asunto de tus pensamientos.</p>
 
-                <p>â€”Sin embargo, me parece que su vida apenas estÃ¡ segura
+                <p>—Sin embargo, me parece que su vida apenas está segura
                 mientras ella se quede.</p>
 
-                <p>â€”No temas, me cuidarÃ©.</p>
+                <p>—No temas, me cuidaré.</p>
 
-                <p>â€”Â¿Ha pasado ya el peligro que temÃ­a anoche, seÃ±or?</p>
+                <p>—¿Ha pasado ya el peligro que temía anoche, señor?</p>
 
-                <p>â€”No puedo garantizarlo hasta que Mason estÃ© fuera de
-                Inglaterra; ni siquiera entonces. Vivir, para mÃ­, Jane, es estar de pie
-                sobre la corteza de un crÃ¡ter que puede agrietarse y escupir fuego
-                cualquier dÃ­a.</p>
+                <p>—No puedo garantizarlo hasta que Mason esté fuera de
+                Inglaterra; ni siquiera entonces. Vivir, para mí, Jane, es estar de pie
+                sobre la corteza de un cráter que puede agrietarse y escupir fuego
+                cualquier día.</p>
 
-                <p>â€”Pero el seÃ±or Mason parece un hombre fÃ¡cil de llevar. Su
-                influencia, seÃ±or, es evidentemente potente con Ã©l. Nunca lo
-                desafiarÃ¡ ni lo herirÃ¡ voluntariamente.</p>
+                <p>—Pero el señor Mason parece un hombre fácil de llevar. Su
+                influencia, señor, es evidentemente potente con él. Nunca lo
+                desafiará ni lo herirá voluntariamente.</p>
 
-                <p>â€”Â¡Oh, no! Mason no me desafiarÃ¡; ni, sabiÃ©ndolo, me herirÃ¡.
-                Pero, sin querer, podrÃ­a en un momento, con una palabra
-                descuidada, privarme, si no de la vida, sÃ­ para siempre de la
+                <p>—¡Oh, no! Mason no me desafiará; ni, sabiéndolo, me herirá.
+                Pero, sin querer, podría en un momento, con una palabra
+                descuidada, privarme, si no de la vida, sí para siempre de la
                 felicidad.</p>
 
-                <p>â€”DÃ­gale que sea cauto, seÃ±or. HÃ¡gale saber lo que teme y
-                muÃ©strele cÃ³mo evitar el peligro.</p>
+                <p>—Dígale que sea cauto, señor. Hágale saber lo que teme y
+                muéstrele cómo evitar el peligro.</p>
 
-                <p>Rio sardÃ³nicamente, me tomÃ³ la mano apresuradamente y con la
-                misma prisa la apartÃ³.</p>
+                <p>Rio sardónicamente, me tomó la mano apresuradamente y con la
+                misma prisa la apartó.</p>
 
-                <p>â€”Si pudiera hacer eso, simplona, Â¿dÃ³nde estarÃ­a el peligro?
+                <p>—Si pudiera hacer eso, simplona, ¿dónde estaría el peligro?
                 Aniquilado en un momento. Desde que conozco a Mason, solo he
-                tenido que decirle â€œHaz esoâ€, y la cosa se ha hecho. Pero no puedo
-                darle Ã³rdenes en este caso. No puedo decir â€œTen cuidado de no
-                hacerme daÃ±o, Richardâ€, porque es imperativo que lo mantenga
-                ignorante de que el daÃ±o hacia mÃ­ es posible. Ahora pareces
-                perpleja; y te dejarÃ© aÃºn mÃ¡s perpleja. Eres mi pequeÃ±a amiga, Â¿no
-                es asÃ­?</p>
+                tenido que decirle “Haz eso”, y la cosa se ha hecho. Pero no puedo
+                darle órdenes en este caso. No puedo decir “Ten cuidado de no
+                hacerme daño, Richard”, porque es imperativo que lo mantenga
+                ignorante de que el daño hacia mí es posible. Ahora pareces
+                perpleja; y te dejaré aún más perpleja. Eres mi pequeña amiga, ¿no
+                es así?</p>
 
-                <p>â€”Me gusta servirle, seÃ±or, y obedecerle en todo lo que es correcto.</p>
+                <p>—Me gusta servirle, señor, y obedecerle en todo lo que es correcto.</p>
 
-                <p>â€”Precisamente. Veo que lo haces. Veo un genuino contento en tu
-                andar y tu semblante, en tu ojo y tu rostro, cuando me estÃ¡s
-                ayudando y complaciendo, trabajando para mÃ­ y conmigo, en, como
-                dices caracterÃ­sticamente, Â«todo lo que es correctoÂ». Porque si te
-                ordenara hacer lo que consideraras incorrecto, no habrÃ­a carreras
-                ligeras, ni presteza de manos Ã¡giles, ni mirada vivaz y tez animada.
-                Mi amiga se volverÃ­a entonces hacia mÃ­, tranquila y pÃ¡lida, y dirÃ­a:
-                Â«No, seÃ±or; eso es imposible. No puedo hacerlo, porque estÃ¡ malÂ»;
-                y se volverÃ­a inmutable como una estrella fija. Bueno, tÃº tambiÃ©n
-                tienes poder sobre mÃ­, y puedes herirme. Sin embargo, no me atrevo
-                a mostrarte dÃ³nde soy vulnerable, no sea que, fiel y amistosa como
+                <p>—Precisamente. Veo que lo haces. Veo un genuino contento en tu
+                andar y tu semblante, en tu ojo y tu rostro, cuando me estás
+                ayudando y complaciendo, trabajando para mí y conmigo, en, como
+                dices característicamente, «todo lo que es correcto». Porque si te
+                ordenara hacer lo que consideraras incorrecto, no habría carreras
+                ligeras, ni presteza de manos ágiles, ni mirada vivaz y tez animada.
+                Mi amiga se volvería entonces hacia mí, tranquila y pálida, y diría:
+                «No, señor; eso es imposible. No puedo hacerlo, porque está mal»;
+                y se volvería inmutable como una estrella fija. Bueno, tú también
+                tienes poder sobre mí, y puedes herirme. Sin embargo, no me atrevo
+                a mostrarte dónde soy vulnerable, no sea que, fiel y amistosa como
                 eres, me traspases de inmediato.</p>
 
-                <p>â€”Si no tiene mÃ¡s que temer del seÃ±or Mason que de mÃ­, seÃ±or,
-                estÃ¡ usted muy a salvo.</p>
+                <p>—Si no tiene más que temer del señor Mason que de mí, señor,
+                está usted muy a salvo.</p>
 
-                <p>â€”Â¡Quiera Dios que asÃ­ sea! AquÃ­, Jane, hay un cenador; siÃ©ntate.</p>
+                <p>—¡Quiera Dios que así sea! Aquí, Jane, hay un cenador; siéntate.</p>
 
-                <p>El cenador era un arco en el muro, revestido de hiedra; contenÃ­a
-                un asiento rÃºstico. El seÃ±or Rochester lo tomÃ³, dejando sitio, sin
-                embargo, para mÃ­; pero yo permanecÃ­ de pie ante Ã©l.</p>
+                <p>El cenador era un arco en el muro, revestido de hiedra; contenía
+                un asiento rústico. El señor Rochester lo tomó, dejando sitio, sin
+                embargo, para mí; pero yo permanecí de pie ante él.</p>
 
-                <p>â€”SiÃ©ntate â€”dijoâ€”. El banco es lo suficientemente largo para dos.
-                No dudas en tomar un lugar a mi lado, Â¿verdad? Â¿EstÃ¡ eso mal,
+                <p>—Siéntate —dijo—. El banco es lo suficientemente largo para dos.
+                No dudas en tomar un lugar a mi lado, ¿verdad? ¿Está eso mal,
                 Jane?</p>
 
-                <p>Le respondÃ­ asumiÃ©ndolo. Negarse, sentÃ­, habrÃ­a sido imprudente.</p>
+                <p>Le respondí asumiéndolo. Negarse, sentí, habría sido imprudente.</p>
 
-                <p>â€”Ahora, mi pequeÃ±a amiga, mientras el sol bebe el rocÃ­o,
-                mientras todas las flores de este viejo jardÃ­n despiertan y se
-                expanden, y los pÃ¡jaros buscan el desayuno de sus crÃ­as fuera de
+                <p>—Ahora, mi pequeña amiga, mientras el sol bebe el rocío,
+                mientras todas las flores de este viejo jardín despiertan y se
+                expanden, y los pájaros buscan el desayuno de sus crías fuera de
                 Thornfield, y las primeras abejas hacen su primer turno de trabajo,
-                te plantearÃ© un caso que debes intentar suponer como propio. Pero
-                primero, mÃ­rame y dime que estÃ¡s a gusto y que no temes que yo
-                me equivoque al retenerte o que tÃº te equivoques al quedarte.</p>
+                te plantearé un caso que debes intentar suponer como propio. Pero
+                primero, mírame y dime que estás a gusto y que no temes que yo
+                me equivoque al retenerte o que tú te equivoques al quedarte.</p>
 
-                <p>â€”No, seÃ±or; estoy contenta.</p>
+                <p>—No, señor; estoy contenta.</p>
 
-                <p>â€”Bien, entonces, Jane, recurre a tu fantasÃ­a. SupÃ³n que ya no
-                fueras una niÃ±a bien criada y disciplinada, sino un muchacho salvaje
-                consentido desde la infancia; imagÃ­nate en una remota tierra
-                extranjera; concibe que allÃ­ cometes un error funesto, no importa de
-                quÃ© naturaleza o por quÃ© motivos, pero uno cuyas consecuencias
+                <p>—Bien, entonces, Jane, recurre a tu fantasía. Supón que ya no
+                fueras una niña bien criada y disciplinada, sino un muchacho salvaje
+                consentido desde la infancia; imagínate en una remota tierra
+                extranjera; concibe que allí cometes un error funesto, no importa de
+                qué naturaleza o por qué motivos, pero uno cuyas consecuencias
                 deben seguirte a lo largo de la vida y contaminar toda tu existencia.
                 Ojo, no digo un crimen; no estoy hablando de derramamiento de
-                sangre ni de ningÃºn otro acto culpable que pudiera hacer al autor
+                sangre ni de ningún otro acto culpable que pudiera hacer al autor
                 responsable ante la ley; mi palabra es error. Los resultados de lo que
                 has hecho se vuelven con el tiempo para ti absolutamente
                 insoportables; tomas medidas para obtener alivio, medidas
-                inusuales, pero ni ilegales ni culpables. Aun asÃ­, eres desdichado,
+                inusuales, pero ni ilegales ni culpables. Aun así, eres desdichado,
                 porque la esperanza te ha abandonado en los mismos confines de la
-                vida; tu sol al mediodÃ­a se oscurece en un eclipse que sientes que
-                no lo dejarÃ¡ hasta la hora del ocaso. Asociaciones amargas y bajas
-                se han convertido en el Ãºnico alimento de tu memoria. Vagas de
-                aquÃ­ para allÃ¡, buscando descanso en el exilio, felicidad en el placer
-                â€”me refiero al placer desalmado y sensualâ€”, ese que embota el
-                intelecto y marchita el sentimiento. Cansado del corazÃ³n y marchito
-                del alma, vuelves a casa despuÃ©s de aÃ±os de destierro voluntario.
-                Haces un nuevo conocido, cÃ³mo o dÃ³nde no importa. Encuentras en
-                este extraÃ±o muchas de las cualidades buenas y brillantes que has
-                buscado durante veinte aÃ±os y nunca antes habÃ­as encontrado; y
-                todas son frescas, saludables, sin mancha y sin mÃ¡cula. Tal
-                compaÃ±Ã­a reaviva, regenera; sientes que vuelven dÃ­as mejores,
-                deseos mÃ¡s elevados, sentimientos mÃ¡s puros; deseas recomenzar
-                tu vida y pasar lo que te queda de dÃ­as de una manera mÃ¡s digna de
-                un ser inmortal. Para alcanzar este fin, Â¿estÃ¡s justificado a saltar un
-                obstÃ¡culo de la costumbre, un mero impedimento convencional que
+                vida; tu sol al mediodía se oscurece en un eclipse que sientes que
+                no lo dejará hasta la hora del ocaso. Asociaciones amargas y bajas
+                se han convertido en el único alimento de tu memoria. Vagas de
+                aquí para allá, buscando descanso en el exilio, felicidad en el placer
+                —me refiero al placer desalmado y sensual—, ese que embota el
+                intelecto y marchita el sentimiento. Cansado del corazón y marchito
+                del alma, vuelves a casa después de años de destierro voluntario.
+                Haces un nuevo conocido, cómo o dónde no importa. Encuentras en
+                este extraño muchas de las cualidades buenas y brillantes que has
+                buscado durante veinte años y nunca antes habías encontrado; y
+                todas son frescas, saludables, sin mancha y sin mácula. Tal
+                compañía reaviva, regenera; sientes que vuelven días mejores,
+                deseos más elevados, sentimientos más puros; deseas recomenzar
+                tu vida y pasar lo que te queda de días de una manera más digna de
+                un ser inmortal. Para alcanzar este fin, ¿estás justificado a saltar un
+                obstáculo de la costumbre, un mero impedimento convencional que
                 ni tu conciencia santifica ni tu juicio aprueba?</p>
 
-                <p>Hizo una pausa esperando una respuesta. Â¿Y quÃ© iba a decir yo?
-                Â¡Oh, por algÃºn buen espÃ­ritu que me sugiriera una respuesta juiciosa
-                y satisfactoria! Â¡Vana aspiraciÃ³n! El viento del oeste susurraba en la
-                hiedra a mi alrededor, pero ningÃºn gentil Ariel tomÃ³ prestado su
-                aliento como medio de expresiÃ³n; los pÃ¡jaros cantaban en las copas
-                de los Ã¡rboles, pero su canto, por muy dulce que fuera, era
+                <p>Hizo una pausa esperando una respuesta. ¿Y qué iba a decir yo?
+                ¡Oh, por algún buen espíritu que me sugiriera una respuesta juiciosa
+                y satisfactoria! ¡Vana aspiración! El viento del oeste susurraba en la
+                hiedra a mi alrededor, pero ningún gentil Ariel tomó prestado su
+                aliento como medio de expresión; los pájaros cantaban en las copas
+                de los árboles, pero su canto, por muy dulce que fuera, era
                 inarticulado.</p>
 
-                <p>De nuevo el seÃ±or Rochester propuso su pregunta:</p>
+                <p>De nuevo el señor Rochester propuso su pregunta:</p>
 
-                <p>â€”Â¿EstÃ¡ el hombre errante y pecador, pero ahora en busca de
-                descanso y arrepentido, justificado a desafiar la opiniÃ³n del mundo
-                para unirse a Ã©l para siempre a este extraÃ±o gentil, amable y cordial,
-                asegurando asÃ­ su propia paz mental y la regeneraciÃ³n de su vida?</p>
+                <p>—¿Está el hombre errante y pecador, pero ahora en busca de
+                descanso y arrepentido, justificado a desafiar la opinión del mundo
+                para unirse a él para siempre a este extraño gentil, amable y cordial,
+                asegurando así su propia paz mental y la regeneración de su vida?</p>
 
-                <p>â€”SeÃ±or â€”respondÃ­â€”, el reposo de un errante o la reforma de un
-                pecador nunca deberÃ­an depender de una criatura semejante. Los
-                hombres y las mujeres mueren; los filÃ³sofos flaquean en la sabidurÃ­a
+                <p>—Señor —respondí—, el reposo de un errante o la reforma de un
+                pecador nunca deberían depender de una criatura semejante. Los
+                hombres y las mujeres mueren; los filósofos flaquean en la sabiduría
                 y los cristianos en la bondad. Si alguien que usted conoce ha sufrido
-                y errado, que busque mÃ¡s alto que sus iguales la fuerza para
+                y errado, que busque más alto que sus iguales la fuerza para
                 enmendarse y el consuelo para sanar.</p>
 
-                <p>â€”Â¡Pero el instrumento, el instrumento! Dios, que hace la obra,
-                ordena el instrumento. Yo mismo â€”te lo digo sin parÃ¡bolasâ€” he sido
+                <p>—¡Pero el instrumento, el instrumento! Dios, que hace la obra,
+                ordena el instrumento. Yo mismo —te lo digo sin parábolas— he sido
                 un hombre mundano, disipado e inquieto; y creo que he encontrado
                 el instrumento para mi cura en...</p>
 
-                <p>Hizo una pausa. Los pÃ¡jaros siguieron trinando, las hojas
-                susurrando ligeramente. Casi me extraÃ±Ã³ que no detuvieran sus
-                cantos y susurros para captar la revelaciÃ³n suspendida; pero habrÃ­an
-                tenido que esperar muchos minutos, tan largo se prolongÃ³ el
-                silencio. Por fin levantÃ© la vista hacia el tardo orador. Me miraba con
+                <p>Hizo una pausa. Los pájaros siguieron trinando, las hojas
+                susurrando ligeramente. Casi me extrañó que no detuvieran sus
+                cantos y susurros para captar la revelación suspendida; pero habrían
+                tenido que esperar muchos minutos, tan largo se prolongó el
+                silencio. Por fin levanté la vista hacia el tardo orador. Me miraba con
                 avidez.</p>
 
-                <p>â€”PequeÃ±a amiga â€”dijo, en un tono completamente cambiado,
-                mientras su rostro tambiÃ©n cambiaba, perdiendo toda su suavidad y
-                gravedad y volviÃ©ndose Ã¡spero y sarcÃ¡sticoâ€”, has notado mi tierna
-                inclinaciÃ³n por la seÃ±orita Ingram. Â¿No crees que si me casara con
-                ella me regenerarÃ­a con creces?</p>
+                <p>—Pequeña amiga —dijo, en un tono completamente cambiado,
+                mientras su rostro también cambiaba, perdiendo toda su suavidad y
+                gravedad y volviéndose áspero y sarcástico—, has notado mi tierna
+                inclinación por la señorita Ingram. ¿No crees que si me casara con
+                ella me regeneraría con creces?</p>
 
-                <p>Se levantÃ³ al instante, fue hasta el otro extremo del paseo y,
-                cuando regresÃ³, tarareaba una melodÃ­a.</p>
+                <p>Se levantó al instante, fue hasta el otro extremo del paseo y,
+                cuando regresó, tarareaba una melodía.</p>
 
-                <p>â€”Jane, Jane â€”dijo, deteniÃ©ndose ante mÃ­â€”, estÃ¡s completamente
-                pÃ¡lida por tus vigilias. Â¿No me maldices por perturbar tu descanso?</p>
+                <p>—Jane, Jane —dijo, deteniéndose ante mí—, estás completamente
+                pálida por tus vigilias. ¿No me maldices por perturbar tu descanso?</p>
 
-                <p>â€”Â¿Maldecirle? No, seÃ±or.</p>
+                <p>—¿Maldecirle? No, señor.</p>
 
-                <p>â€”Dame la mano en confirmaciÃ³n de la palabra. Â¡QuÃ© dedos tan
-                frÃ­os! Estaban mÃ¡s cÃ¡lidos anoche cuando los toquÃ© en la puerta de
-                la misteriosa cÃ¡mara. Jane, Â¿cuÃ¡ndo velarÃ¡s conmigo de nuevo?</p>
+                <p>—Dame la mano en confirmación de la palabra. ¡Qué dedos tan
+                fríos! Estaban más cálidos anoche cuando los toqué en la puerta de
+                la misteriosa cámara. Jane, ¿cuándo velarás conmigo de nuevo?</p>
 
-                <p>â€”Cuando pueda ser Ãºtil, seÃ±or.</p>
+                <p>—Cuando pueda ser útil, señor.</p>
 
-                <p>â€”Por ejemplo, Â¡la noche antes de que me case! Estoy seguro de
-                que no podrÃ© dormir. Â¿Prometes quedarte levantada conmigo para
-                hacerme compaÃ±Ã­a? A ti puedo hablarte de mi amada, pues ahora la
+                <p>—Por ejemplo, ¡la noche antes de que me case! Estoy seguro de
+                que no podré dormir. ¿Prometes quedarte levantada conmigo para
+                hacerme compañía? A ti puedo hablarte de mi amada, pues ahora la
                 has visto y la conoces.</p>
 
-                <p>â€”SÃ­, seÃ±or.</p>
+                <p>—Sí, señor.</p>
 
-                <p>â€”Es una joya, Â¿no es asÃ­, Jane?</p>
+                <p>—Es una joya, ¿no es así, Jane?</p>
 
-                <p>â€”SÃ­, seÃ±or.</p>
+                <p>—Sí, señor.</p>
 
-                <p>â€”Una mujerona, una verdadera moza de rompe y rasga, Jane.
-                Grande, morena y robusta; con un cabello como el que debÃ­an de
-                tener las damas de Cartago. Â¡Cielos! Â¡AhÃ­ estÃ¡n Dent y Lynn en las
+                <p>—Una mujerona, una verdadera moza de rompe y rasga, Jane.
+                Grande, morena y robusta; con un cabello como el que debían de
+                tener las damas de Cartago. ¡Cielos! ¡Ahí están Dent y Lynn en las
                 caballerizas! Entra por la zona de arbustos, por ese postigo.</p>
 
-                <p>Mientras yo iba por un lado, Ã©l se fue por otro, y lo oÃ­ en el patio,
+                <p>Mientras yo iba por un lado, él se fue por otro, y lo oí en el patio,
                 diciendo alegremente:</p>
 
-                <p>â€”Mason se les ha adelantado a todos esta maÃ±ana; se fue antes
-                del amanecer. Me levantÃ© a las cuatro para despedirlo.</p>
+                <p>—Mason se les ha adelantado a todos esta mañana; se fue antes
+                del amanecer. Me levanté a las cuatro para despedirlo.</p>
 
                 <div class="botonesFinales">
                     <a class="cambioAnterior"href="cap19.php" rel="prev">Anterior</a>
-                    <a class="boton" href="../../contenido_eyre.php">Regresa al menÃº de capÃ­tulos</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
                     <a class="cambioSiguiente" href="cap21.php" rel="next">Siguiente</a>
                 </div>
             </section>
@@ -845,6 +845,7 @@
     </main>
 </body>
 </html>
+
 
 
 

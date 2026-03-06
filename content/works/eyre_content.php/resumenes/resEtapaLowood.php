@@ -1,9 +1,9 @@
-Ôªø<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <title>Resumen Etapa en Lowood</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el cap√≠tulo 1">
+    <meta name="description" content="Este es el capÌtulo 1">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../css/css_eyre.css">
     <link rel="icon" href="../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -27,7 +27,7 @@
 
             <li><a href="../../../about_us.php">Sobre nosotras</a></li>
             <li><a href="#">Asistente virtual</a></li>
-            <li><a href="../../../tfm.php">Sobre este proyecto</a></li>
+
             <li><a href="../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
     </nav>
@@ -35,7 +35,7 @@
     <div class="layout">
         <div class="sidebar">
             <a class="active" href="inicio_eyre.php">Inicio</a>
-            <a href="intro_obra.php">Introducci√≥n a la obra</a>
+            <a href="intro_obra.php">IntroducciÛn a la obra</a>
             <a href="contenido_eyre.php">Contenido</a>
             <a href="contexto_eyre.php">Contexto</a>
             <a href="recursos_eyre.php">Recursos</a>
@@ -45,63 +45,63 @@
         <section class="contenido">
             <h1>Resumen bloque <i>Etapa en Lowood</i></h1>
             <h3>
-                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5‚Äì10)/cap5.php">Cap√≠tulo V</a>   
+                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5ñ10)/cap5.php">CapÌtulo V</a>   
             </h3>
-            <p class="pjustificado">Jane emprende sola un largo viaje en carruaje hasta llegar a Lowood en un d√≠a gris y lluvioso. La atm√≥sfera del edificio 
-                es sombr√≠a y austera, marcando un fuerte contraste con el lujo de Gateshead. Al d√≠a siguiente, Jane descubre la r√≠gida disciplina del internado: 
-                una rutina agotadora que comienza antes del amanecer, marcada por el fr√≠o, el hambre y las oraciones constantes.</p>
+            <p class="pjustificado">Jane emprende sola un largo viaje en carruaje hasta llegar a Lowood en un dÌa gris y lluvioso. La atmÛsfera del edificio 
+                es sombrÌa y austera, marcando un fuerte contraste con el lujo de Gateshead. Al dÌa siguiente, Jane descubre la rÌgida disciplina del internado: 
+                una rutina agotadora que comienza antes del amanecer, marcada por el frÌo, el hambre y las oraciones constantes.</p>
             <p class="pjustificado">En este entorno conoce a dos figuras opuestas: la amable superintendente Miss Temple y la severa Miss Scatcherd, quien castiga
-                injustamente a una alumna llamada Helen Burns. Jane entabla amistad con Helen y descubre la cruda realidad de la instituci√≥n: Lowood es una escuela
-                de caridad para hu√©rfanas financiada por donaciones, lo que confirma que la t√≠a Reed no ha gastado un c√©ntimo en su educaci√≥n. Adem√°s, comprende que
-                el Se√±or Brocklehurst ejerce un control tir√°nico sobre cada detalle del lugar.</p>
+                injustamente a una alumna llamada Helen Burns. Jane entabla amistad con Helen y descubre la cruda realidad de la instituciÛn: Lowood es una escuela
+                de caridad para huÈrfanas financiada por donaciones, lo que confirma que la tÌa Reed no ha gastado un cÈntimo en su educaciÛn. Adem·s, comprende que
+                el SeÒor Brocklehurst ejerce un control tir·nico sobre cada detalle del lugar.</p>
             
             <h3>
-                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5‚Äì10)/cap6.php">Cap√≠tulo VI</a>   
+                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5ñ10)/cap6.php">CapÌtulo VI</a>   
             </h3>
-            <p class="pjustificado">La vida en Lowood se revela en toda su dureza: las ni√±as despiertan con el agua de las palanganas congelada y sufren hambre constante
-                y sermones interminables. En este ambiente de privaci√≥n, Jane observa con asombro a Helen Burns, quien soporta con una paciencia sobrehumana los castigos
+            <p class="pjustificado">La vida en Lowood se revela en toda su dureza: las niÒas despiertan con el agua de las palanganas congelada y sufren hambre constante
+                y sermones interminables. En este ambiente de privaciÛn, Jane observa con asombro a Helen Burns, quien soporta con una paciencia sobrehumana los castigos
                 y humillaciones de la Srta. Scatcherd.</p>
-            <p class="pjustificado">Helen le explica a Jane su filosof√≠a de resignaci√≥n cristiana: cree en devolver bien por mal y en aceptar el sufrimiento con humildad.
-                Jane, fiel a su sentido de la justicia, rechaza frontalmente esta idea de sumisi√≥n ante la tiran√≠a. Mientras Jane admira la vasta cultura de su amiga, 
-                Helen se critica a s√≠ misma por ser "distra√≠da" y so√±ar con su hogar, demostrando un nivel de autodisciplina que Jane a√∫n no logra comprender.</p>
+            <p class="pjustificado">Helen le explica a Jane su filosofÌa de resignaciÛn cristiana: cree en devolver bien por mal y en aceptar el sufrimiento con humildad.
+                Jane, fiel a su sentido de la justicia, rechaza frontalmente esta idea de sumisiÛn ante la tiranÌa. Mientras Jane admira la vasta cultura de su amiga, 
+                Helen se critica a sÌ misma por ser "distraÌda" y soÒar con su hogar, demostrando un nivel de autodisciplina que Jane a˙n no logra comprender.</p>
 
             <h3>
-                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5‚Äì10)/cap7.php">Cap√≠tulo VII</a>    
+                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5ñ10)/cap7.php">CapÌtulo VII</a>    
             </h3>
-            <p class="pjustificado">Tras un mes de ausencia, el Se√±or Brocklehurst regresa a Lowood, aumentando la ansiedad de Jane. Durante su inspecci√≥n, 
+            <p class="pjustificado">Tras un mes de ausencia, el SeÒor Brocklehurst regresa a Lowood, aumentando la ansiedad de Jane. Durante su inspecciÛn, 
                 Jane deja caer accidentalmente su pizarra, lo que el director aprovecha para descargar su furia. Cumpliendo la promesa que le hizo a la Sra. Reed, 
-                obliga a Jane a subirse a un taburete y la denuncia ante toda la escuela como una mentirosa, prohibiendo a las dem√°s alumnas hablar con ella durante el resto del d√≠a.</p>
-            <p class="pjustificado">A pesar de la verg√ºenza extrema, Jane encuentra consuelo en Helen Burns. Mientras las dem√°s la ignoran, Helen le dedica sonrisas 
-                c√≥mplices y silenciosas cada vez que pasa a su lado, demostrando una lealtad que ayuda a Jane a soportar la humillaci√≥n p√∫blica.</p>
+                obliga a Jane a subirse a un taburete y la denuncia ante toda la escuela como una mentirosa, prohibiendo a las dem·s alumnas hablar con ella durante el resto del dÌa.</p>
+            <p class="pjustificado">A pesar de la verg¸enza extrema, Jane encuentra consuelo en Helen Burns. Mientras las dem·s la ignoran, Helen le dedica sonrisas 
+                cÛmplices y silenciosas cada vez que pasa a su lado, demostrando una lealtad que ayuda a Jane a soportar la humillaciÛn p˙blica.</p>
 
             <h3>
-                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5‚Äì10)/cap8.php">Cap√≠tulo VIII</a>    
+                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5ñ10)/cap8.php">CapÌtulo VIII</a>    
             </h3>
-            <p class="pjustificado">Tras la humillaci√≥n, Jane se derrumba creyendo que su reputaci√≥n est√° destruida para siempre, pero Helen la consuela asegur√°ndole que sus compa√±era
-                s sienten l√°stima por ella, no desprecio. Poco despu√©s, Miss Temple invita a ambas a su habitaci√≥n y permite que Jane cuente su verdadera historia sobre Gateshead y la t√≠a Reed.</p>
+            <p class="pjustificado">Tras la humillaciÛn, Jane se derrumba creyendo que su reputaciÛn est· destruida para siempre, pero Helen la consuela asegur·ndole que sus compaÒera
+                s sienten l·stima por ella, no desprecio. Poco despuÈs, Miss Temple invita a ambas a su habitaciÛn y permite que Jane cuente su verdadera historia sobre Gateshead y la tÌa Reed.</p>
             <p class="pjustificado">Miss Temple, mostrando una confianza ciega en Jane, escribe al Sr. Lloyd para confirmar los hechos. Mientras esperan la respuesta, 
-                comparte con las ni√±as un t√© con pastel, un gesto de humanidad inolvidable para Jane. Cuando llega la carta del boticario corroborando la versi√≥n de la ni√±a, 
-                Miss Temple limpia el nombre de Jane ante toda la escuela. Liberada de la etiqueta de "mentirosa", Jane se entrega con pasi√≥n a sus estudios, destacando pronto en dibujo y franc√©s.</p>
+                comparte con las niÒas un tÈ con pastel, un gesto de humanidad inolvidable para Jane. Cuando llega la carta del boticario corroborando la versiÛn de la niÒa, 
+                Miss Temple limpia el nombre de Jane ante toda la escuela. Liberada de la etiqueta de "mentirosa", Jane se entrega con pasiÛn a sus estudios, destacando pronto en dibujo y francÈs.</p>
 
             <h3>
-                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5‚Äì10)/cap9.php">Cap√≠tulo IX</a>    
+                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5ñ10)/cap9.php">CapÌtulo IX</a>    
             </h3>
-            <p class="pjustificado">Con la llegada de la primavera, la ubicaci√≥n insalubre de Lowood provoca un brote masivo de tifus que afecta a m√°s de la mitad de las ni√±as. 
-                Mientras Jane se mantiene sana y disfruta de una libertad inusual jugando al aire libre, descubre con horror que Helen Burns est√° agonizando, pero no de tifus, 
-                sino de tuberculosis (consunci√≥n).</p>
-            <p class="pjustificado">Una noche, Jane se cuela en la habitaci√≥n de Miss Temple para ver a su amiga por √∫ltima vez. En una escena desgarradora, Helen la consuela 
-                dici√©ndole que no teme a la muerte y que est√° en paz por abandonar el sufrimiento del mundo. Ambas se quedan dormidas abrazadas en la misma cama; a la ma√±ana siguiente,
-                Helen ha muerto. Quince a√±os despu√©s, se coloca sobre su tumba una placa con la palabra <i>Resurgam</i> ("Resurgir√©"), simbolizando la fe de Helen y el impacto eterno que dej√≥ en Jane.</p>
+            <p class="pjustificado">Con la llegada de la primavera, la ubicaciÛn insalubre de Lowood provoca un brote masivo de tifus que afecta a m·s de la mitad de las niÒas. 
+                Mientras Jane se mantiene sana y disfruta de una libertad inusual jugando al aire libre, descubre con horror que Helen Burns est· agonizando, pero no de tifus, 
+                sino de tuberculosis (consunciÛn).</p>
+            <p class="pjustificado">Una noche, Jane se cuela en la habitaciÛn de Miss Temple para ver a su amiga por ˙ltima vez. En una escena desgarradora, Helen la consuela 
+                diciÈndole que no teme a la muerte y que est· en paz por abandonar el sufrimiento del mundo. Ambas se quedan dormidas abrazadas en la misma cama; a la maÒana siguiente,
+                Helen ha muerto. Quince aÒos despuÈs, se coloca sobre su tumba una placa con la palabra <i>Resurgam</i> ("ResurgirÈ"), simbolizando la fe de Helen y el impacto eterno que dejÛ en Jane.</p>
 
             <h3>
-                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5‚Äì10)/cap10.php">Cap√≠tulo X</a>    
+                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5ñ10)/cap10.php">CapÌtulo X</a>    
             </h3>
-            <p class="pjustificado">Tras el esc√°ndalo del tifus, una nueva directiva asume el control de Lowood, mejorando dr√°sticamente las condiciones de vida. Jane pasa all√≠ ocho a√±os: 
-                seis como alumna brillante y dos como maestra. Sin embargo, tras el matrimonio y la partida de su mentora, Miss Temple, Jane siente que su mundo se ha quedado peque√±o y 
-                decide buscar nuevos horizontes, aceptando un puesto de institutriz en una mansi√≥n llamada Thornfield.</p>
-            <p class="pjustificado">Antes de partir, recibe la visita de Bessie, quien le pone al d√≠a sobre los Reed: sus primas est√°n enfrentadas tras un intento de fuga amorosa de Georgiana,
-                y su primo John se ha hundido en la depravaci√≥n. Lo m√°s impactante es la noticia de que un t√≠o paterno, John Eyre, la busc√≥ hace siete a√±os antes de partir hacia Madeira en 
-                busca de fortuna. Con esta mezcla de pasado y futuro, Jane se despide de Bessie y se encamina, llena de determinaci√≥n, hacia su nueva vida.</p>
+            <p class="pjustificado">Tras el esc·ndalo del tifus, una nueva directiva asume el control de Lowood, mejorando dr·sticamente las condiciones de vida. Jane pasa allÌ ocho aÒos: 
+                seis como alumna brillante y dos como maestra. Sin embargo, tras el matrimonio y la partida de su mentora, Miss Temple, Jane siente que su mundo se ha quedado pequeÒo y 
+                decide buscar nuevos horizontes, aceptando un puesto de institutriz en una mansiÛn llamada Thornfield.</p>
+            <p class="pjustificado">Antes de partir, recibe la visita de Bessie, quien le pone al dÌa sobre los Reed: sus primas est·n enfrentadas tras un intento de fuga amorosa de Georgiana,
+                y su primo John se ha hundido en la depravaciÛn. Lo m·s impactante es la noticia de que un tÌo paterno, John Eyre, la buscÛ hace siete aÒos antes de partir hacia Madeira en 
+                busca de fortuna. Con esta mezcla de pasado y futuro, Jane se despide de Bessie y se encamina, llena de determinaciÛn, hacia su nueva vida.</p>
             
                 <section>
                     <a class="boton" href="../contenido_eyre.php">Regresar a contenido</a>
@@ -109,6 +109,7 @@
     </div>
 </body>
 </html>
+
 
 
 

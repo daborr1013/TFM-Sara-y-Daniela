@@ -25,22 +25,45 @@
 
         <li><a href="about_us.php">Sobre nosotras</a></li>
         <li><a href="#">Asistente virtual</a></li>
-        <li><a href="tfm.php">Sobre este proyecto</a></li>
         <li><a href="pUsuario.php">Perfil de usuario</a></li>
     </ul>
 </nav>
 
 <main>
     <section class="hero">
-        <h2>lorem ipsum</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit maecenas, ridiculus magna fames semper himenaeos commodo per pellentesque primis, ligula massa nunc cubilia duis nisl laoreet vel, potenti nascetur mollis habitant senectus congue porta. At litora magnis curabitur fusce pharetra vestibulum maecenas platea ornare, praesent hac donec venenatis dignissim turpis parturient blandit cum sapien, et conubia diam tristique vehicula rutrum ridiculus augue. Sollicitudin felis id orci nibh sem nisi proin auctor nec, a conubia penatibus hendrerit mauris platea augue sociosqu convallis, montes taciti habitasse bibendum in et aenean vehicula.</p>
+        <h2>Daniela Borrego & Sara Escribano</h2>
     </section>
-    <section class="pjustificado">
-        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit maecenas, ridiculus magna fames semper himenaeos commodo per pellentesque primis, 
-            ligula massa nunc cubilia duis nisl laoreet vel, potenti nascetur mollis habitant senectus congue porta. At litora magnis curabitur fusce 
-            pharetra vestibulum maecenas platea ornare, praesent hac donec venenatis dignissim turpis parturient blandit cum sapien, et conubia diam
-             tristique vehicula rutrum ridiculus augue. Sollicitudin felis id orci nibh sem nisi proin auctor nec, a conubia penatibus hendrerit mauris
-              platea augue sociosqu convallis, montes taciti habitasse bibendum in et aenean vehicula.</p>
+
+    <section class="layout">
+        <section class="pjustificado">
+            <h2>Daniela Borrego</h2>
+            
+            <section class="layout">
+                <section class="pjustificado">
+                    <p>Hello I'm Dani uwu</p>
+                </section>
+                <img class="nosotras" src="../media/images/pfp.jpg" alt="Daniela Borrego">
+            </section>
+        </section>
+
+        <section class="pjustificado">
+            <h2>Sara Escribano</h2>
+
+            <section class="layout">
+                <section class="pjustificado">
+                    <p>¡Hola! Soy Sara, apasionada por la escritura, la literatura y el arte audiovisual.</p>
+
+                    <p>Mi trayectoria comenzó estudiando Lenguas Modernas, Cultura y Comunicación en la Universidad Autónoma de Madrid, 
+                    donde me enfoqué en asesoría lingüistica, escritura creativa y comunicación audiovisual.</p> 
+
+                    <p>Actualmente trabajo en una librería y hago prácticas en Lovi AI mientras estudio un master en Letras Digitales en la Universidad Complutense de Madrid, 
+                    en el cual profundizamos en diferentes ramas de las Humanidades Digitales.</p>
+
+                    <p>También he realizado un voluntariado como copywriter en Socialty y un curso especializado en Maquillaje Social y Caracterización.</p>
+                </section>
+                <img class="nosotras" src="../media/images/sara.jpg" alt="Sara Escribano">
+            </section>
+        </section>
     </section>
 </main>
 

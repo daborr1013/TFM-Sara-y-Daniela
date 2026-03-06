@@ -1,9 +1,9 @@
-ï»¿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>CapÃ­tulo 27</title>
+    <title>Capítulo 27</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el capÃ­tulo 27">
+    <meta name="description" content="Este es el capítulo 27">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -27,7 +27,7 @@
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
             <li><a href="#">Asistente virtual</a></li>
-            <li><a href="../../../../tfm.php">Sobre este proyecto</a></li>
+
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
     </nav>
@@ -39,21 +39,21 @@
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="../../intro_obra.php">IntroducciÃ³n a la obra</a></li>
+                        <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contenido_eyre.php">Contenido</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../resumenes/resumenes.php">ResÃºmenes</a></li>
-                                <li><a href="../../capitulos.php">CapÃ­tulos</a></li>
+                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
+                                <li><a href="../../capitulos.php">Capítulos</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte BrontÃ«</a></li>
-                                <li><a href="contexto_historico.php">Contexto histÃ³rico</a></li>
+                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
+                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
                             </ul>
                         </li>
 
@@ -61,7 +61,7 @@
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">SÃ­mbolos</a></li>
+                                <li><a href="simbolos.php">Símbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
                                 <li><a href="mapa.php">Mapa</a></li>
@@ -82,1215 +82,1215 @@
             </div>
             
             <section class="contenido">
-                <h1>CapÃ­tulo XXVII</h1>
+                <h1>Capítulo XXVII</h1>
                 
-                <p>En algÃºn momento de la tarde levantÃ© la cabeza y, mirando a mi
-                alrededor y viendo el sol poniente dorar en la pared la seÃ±al de su
-                declive, me preguntÃ©: Â«Â¿QuÃ© debo hacer?Â».</p>
+                <p>En algún momento de la tarde levanté la cabeza y, mirando a mi
+                alrededor y viendo el sol poniente dorar en la pared la señal de su
+                declive, me pregunté: «¿Qué debo hacer?».</p>
 
-                <p>Pero la respuesta que mi mente dio â€”Â«Abandona Thornfield de
-                inmediatoÂ»â€” fue tan pronta, tan terrible, que me tapÃ© los oÃ­dos.
-                Dije que no podÃ­a soportar tales palabras ahora. Â«Que no soy la
-                novia de Edward Rochester es la menor parte de mi aflicciÃ³nÂ»,
-                aleguÃ©. Â«Que he despertado de los sueÃ±os mÃ¡s gloriosos y los he
-                encontrado todos vacÃ­os y vanos, es un horror que podrÃ­a soportar y
+                <p>Pero la respuesta que mi mente dio —«Abandona Thornfield de
+                inmediato»— fue tan pronta, tan terrible, que me tapé los oídos.
+                Dije que no podía soportar tales palabras ahora. «Que no soy la
+                novia de Edward Rochester es la menor parte de mi aflicción»,
+                alegué. «Que he despertado de los sueños más gloriosos y los he
+                encontrado todos vacíos y vanos, es un horror que podría soportar y
                 dominar; pero que debo dejarlo decididamente, al instante, por
-                completo, es intolerable. No puedo hacerloÂ».</p>
+                completo, es intolerable. No puedo hacerlo».</p>
 
-                <p>Pero entonces, una voz dentro de mÃ­ aseverÃ³ que podÃ­a hacerlo y
-                predijo que lo harÃ­a. LuchÃ© con mi propia resoluciÃ³n. QuerÃ­a ser dÃ©bil
-                para poder evitar el terrible pasaje de mayor sufrimiento que veÃ­a
-                dispuesto para mÃ­; y la Conciencia, convertida en tirana, agarraba a
-                la PasiÃ³n por el cuello, le decÃ­a burlonamente que apenas habÃ­a
-                mojado su delicado pie en la ciÃ©naga, y juraba que con ese brazo de
-                hierro la hundirÃ­a en profundidades insondables de agonÃ­a.</p>
+                <p>Pero entonces, una voz dentro de mí aseveró que podía hacerlo y
+                predijo que lo haría. Luché con mi propia resolución. Quería ser débil
+                para poder evitar el terrible pasaje de mayor sufrimiento que veía
+                dispuesto para mí; y la Conciencia, convertida en tirana, agarraba a
+                la Pasión por el cuello, le decía burlonamente que apenas había
+                mojado su delicado pie en la ciénaga, y juraba que con ese brazo de
+                hierro la hundiría en profundidades insondables de agonía.</p>
 
-                <p>â€”Â¡Que me arranquen, entonces! â€”gritÃ©â€”. Â¡Que otro me ayude!</p>
+                <p>—¡Que me arranquen, entonces! —grité—. ¡Que otro me ayude!</p>
 
-                <p>â€”No; tÃº misma te arrancarÃ¡s, nadie te ayudarÃ¡. TÃº misma te
-                sacarÃ¡s el ojo derecho; tÃº misma te cortarÃ¡s la mano derecha. Tu
-                corazÃ³n serÃ¡ la vÃ­ctima y tÃº el sacerdote que lo traspasarÃ¡.</p>
+                <p>—No; tú misma te arrancarás, nadie te ayudará. Tú misma te
+                sacarás el ojo derecho; tú misma te cortarás la mano derecha. Tu
+                corazón será la víctima y tú el sacerdote que lo traspasará.</p>
 
-                <p>Me levantÃ© de repente, aterrorizada por la soledad que tan
+                <p>Me levanté de repente, aterrorizada por la soledad que tan
                 despiadado juez rondaba, por el silencio que tan espantosa voz
                 llenaba. Mi cabeza daba vueltas mientras estaba de pie. Me di
-                cuenta de que estaba enfermando por la excitaciÃ³n y la inaniciÃ³n; ni
-                carne ni bebida habÃ­an pasado por mis labios ese dÃ­a, pues no habÃ­a
-                desayunado. Y, con una extraÃ±a punzada, reflexionÃ© ahora que, por
-                mucho tiempo que hubiera estado encerrada aquÃ­, no se habÃ­a
-                enviado ningÃºn mensaje para preguntar cÃ³mo estaba, ni para
-                invitarme a bajar. Ni siquiera la pequeÃ±a AdÃ¨le habÃ­a llamado a la
-                puerta; ni siquiera la seÃ±ora Fairfax me habÃ­a buscado. Â«Los amigos
-                siempre olvidan a aquellos a quienes la fortuna abandonaÂ»,
-                murmurÃ©, mientras descorrÃ­a el cerrojo y salÃ­a. TropecÃ© con un
-                obstÃ¡culo. Mi cabeza todavÃ­a estaba mareada, mi vista nublada y mis
-                miembros dÃ©biles. No pude recuperarme pronto. CaÃ­, pero no al
-                suelo; un brazo extendido me sostuvo. LevantÃ© la vista: me sostenÃ­a
-                el seÃ±or Rochester, que estaba sentado en una silla al otro lado del
-                umbral de mi cÃ¡mara.</p>
+                cuenta de que estaba enfermando por la excitación y la inanición; ni
+                carne ni bebida habían pasado por mis labios ese día, pues no había
+                desayunado. Y, con una extraña punzada, reflexioné ahora que, por
+                mucho tiempo que hubiera estado encerrada aquí, no se había
+                enviado ningún mensaje para preguntar cómo estaba, ni para
+                invitarme a bajar. Ni siquiera la pequeña Adèle había llamado a la
+                puerta; ni siquiera la señora Fairfax me había buscado. «Los amigos
+                siempre olvidan a aquellos a quienes la fortuna abandona»,
+                murmuré, mientras descorría el cerrojo y salía. Tropecé con un
+                obstáculo. Mi cabeza todavía estaba mareada, mi vista nublada y mis
+                miembros débiles. No pude recuperarme pronto. Caí, pero no al
+                suelo; un brazo extendido me sostuvo. Levanté la vista: me sostenía
+                el señor Rochester, que estaba sentado en una silla al otro lado del
+                umbral de mi cámara.</p>
 
-                <p>â€”Por fin sales â€”dijoâ€”. Bueno, te he estado esperando mucho
-                tiempo y escuchando; sin embargo, no he oÃ­do ni un solo
-                movimiento, ni un solo sollozo. Cinco minutos mÃ¡s de ese silencio
-                mortal y habrÃ­a forzado la cerradura como un ladrÃ³n. Â¿AsÃ­ que me
-                rehÃºyes? Â¡Te encierras y te afliges sola! HabrÃ­a preferido que
+                <p>—Por fin sales —dijo—. Bueno, te he estado esperando mucho
+                tiempo y escuchando; sin embargo, no he oído ni un solo
+                movimiento, ni un solo sollozo. Cinco minutos más de ese silencio
+                mortal y habría forzado la cerradura como un ladrón. ¿Así que me
+                rehúyes? ¡Te encierras y te afliges sola! Habría preferido que
                 hubieras venido y me hubieras reprendido con vehemencia. Eres
-                apasionada; esperaba una escena de algÃºn tipo. Estaba preparado
-                para la lluvia caliente de lÃ¡grimas; solo que querÃ­a que fueran
+                apasionada; esperaba una escena de algún tipo. Estaba preparado
+                para la lluvia caliente de lágrimas; solo que quería que fueran
                 derramadas en mi pecho. Ahora un suelo insensible las ha recibido,
-                o tu paÃ±uelo empapado. Â¡Pero me equivoco! Â¡No has llorado en
+                o tu pañuelo empapado. ¡Pero me equivoco! ¡No has llorado en
                 absoluto! Veo una mejilla blanca y un ojo apagado, pero ni rastro de
-                lÃ¡grimas. Supongo, entonces, Â¿que tu corazÃ³n ha estado llorando
+                lágrimas. Supongo, entonces, ¿que tu corazón ha estado llorando
                 sangre?</p>
 
-                <p>Â»Â¡Bueno, Jane! Â¿Ni una palabra de reproche? Â¿Nada amargo, nada
-                punzante? Â¿Nada que hiera un sentimiento o aguijonee una pasiÃ³n?
+                <p>»¡Bueno, Jane! ¿Ni una palabra de reproche? ¿Nada amargo, nada
+                punzante? ¿Nada que hiera un sentimiento o aguijonee una pasión?
                 Te sientas tranquilamente donde te he colocado y me miras con una
                 mirada cansada y pasiva.</p>
 
-                <p>Â»Jane, nunca tuve la intenciÃ³n de herirte asÃ­. Si el hombre que no
-                tenÃ­a mÃ¡s que una corderita que le era tan querida como una hija,
-                que comÃ­a de su pan y bebÃ­a de su copa y yacÃ­a en su seno, la
-                hubiera sacrificado por error en la majada, no habrÃ­a lamentado su
-                sangriento desliz mÃ¡s de lo que yo lamento ahora el mÃ­o. Â¿Me
-                perdonarÃ¡s alguna vez?</p>
+                <p>»Jane, nunca tuve la intención de herirte así. Si el hombre que no
+                tenía más que una corderita que le era tan querida como una hija,
+                que comía de su pan y bebía de su copa y yacía en su seno, la
+                hubiera sacrificado por error en la majada, no habría lamentado su
+                sangriento desliz más de lo que yo lamento ahora el mío. ¿Me
+                perdonarás alguna vez?</p>
 
-                <p>Lector, lo perdonÃ© en ese momento y en ese mismo lugar. HabÃ­a
+                <p>Lector, lo perdoné en ese momento y en ese mismo lugar. Había
                 un remordimiento tan profundo en su ojo, una piedad tan verdadera
-                en su tono, una energÃ­a tan viril en sus modales; y ademÃ¡s, habÃ­a
-                un amor tan inalterado en toda su mirada y su porte. Le perdonÃ©
+                en su tono, una energía tan viril en sus modales; y además, había
+                un amor tan inalterado en toda su mirada y su porte. Le perdoné
                 todo; sin embargo, no con palabras, no exteriormente; solo en lo
-                mÃ¡s profundo de mi corazÃ³n.</p>
+                más profundo de mi corazón.</p>
 
-                <p>â€”Â¿Sabes que soy un canalla, Jane? â€”inquiriÃ³ al poco rato con
-                melancolÃ­a, maravillado, supongo, de mi continuo silencio y
-                docilidad, resultado mÃ¡s de la debilidad que de la voluntad.</p>
+                <p>—¿Sabes que soy un canalla, Jane? —inquirió al poco rato con
+                melancolía, maravillado, supongo, de mi continuo silencio y
+                docilidad, resultado más de la debilidad que de la voluntad.</p>
 
-                <p>â€”SÃ­, seÃ±or.</p>
+                <p>—Sí, señor.</p>
 
-                <p>â€”Entonces dÃ­melo redonda y bruscamente, no me compadezcas.</p>
+                <p>—Entonces dímelo redonda y bruscamente, no me compadezcas.</p>
 
-                <p>â€”No puedo. Estoy cansada y enferma. Quiero un poco de agua.
-                â€”ExhalÃ³ una especie de suspiro estremecido y, tomÃ¡ndome en sus
-                brazos, me bajÃ³ las escaleras. Al principio no supe a quÃ© habitaciÃ³n
-                me habÃ­a llevado; todo estaba nublado para mi vista vidriosa. Al
-                instante sentÃ­ el calor revivificador de un fuego; pues, aunque era
-                verano, me habÃ­a quedado helada en mi cÃ¡mara. Me puso vino en
-                los labios; lo probÃ© y revivÃ­. Luego comÃ­ algo que me ofreciÃ³ y
-                pronto volvÃ­ en mÃ­. Estaba en la biblioteca, sentada en su silla, Ã©l
-                estaba muy cercaâ€”. Â«Si pudiera salir de la vida ahora, sin una
-                punzada demasiado aguda, serÃ­a bueno para mÃ­Â», pensÃ©. Â«Entonces
-                no tendrÃ­a que hacer el esfuerzo de romper las cuerdas de mi
-                corazÃ³n al arrancarlas de entre las del seÃ±or Rochester. Debo
-                dejarlo, al parecer. No quiero dejarlo, no puedo dejarloÂ».</p>
+                <p>—No puedo. Estoy cansada y enferma. Quiero un poco de agua.
+                —Exhaló una especie de suspiro estremecido y, tomándome en sus
+                brazos, me bajó las escaleras. Al principio no supe a qué habitación
+                me había llevado; todo estaba nublado para mi vista vidriosa. Al
+                instante sentí el calor revivificador de un fuego; pues, aunque era
+                verano, me había quedado helada en mi cámara. Me puso vino en
+                los labios; lo probé y reviví. Luego comí algo que me ofreció y
+                pronto volví en mí. Estaba en la biblioteca, sentada en su silla, él
+                estaba muy cerca—. «Si pudiera salir de la vida ahora, sin una
+                punzada demasiado aguda, sería bueno para mí», pensé. «Entonces
+                no tendría que hacer el esfuerzo de romper las cuerdas de mi
+                corazón al arrancarlas de entre las del señor Rochester. Debo
+                dejarlo, al parecer. No quiero dejarlo, no puedo dejarlo».</p>
 
-                <p>â€”Â¿CÃ³mo estÃ¡s ahora, Jane?</p>
+                <p>—¿Cómo estás ahora, Jane?</p>
 
-                <p>â€”Mucho mejor, seÃ±or; pronto estarÃ© bien.</p>
+                <p>—Mucho mejor, señor; pronto estaré bien.</p>
 
-                <p>â€”Prueba el vino de nuevo, Jane.</p>
+                <p>—Prueba el vino de nuevo, Jane.</p>
 
-                <p>Le obedecÃ­. Luego Ã©l puso el vaso sobre la mesa, se parÃ³ ante mÃ­
-                y me mirÃ³ atentamente. De repente se apartÃ³, con una exclamaciÃ³n
-                inarticulada, llena de apasionada emociÃ³n de algÃºn tipo; caminÃ³
-                rÃ¡pido por la habitaciÃ³n y regresÃ³. Se inclinÃ³ hacia mÃ­ como para
-                besarme; pero recordÃ© que las caricias ahora estaban prohibidas.
-                ApartÃ© la cara y le apartÃ© la suya.</p>
+                <p>Le obedecí. Luego él puso el vaso sobre la mesa, se paró ante mí
+                y me miró atentamente. De repente se apartó, con una exclamación
+                inarticulada, llena de apasionada emoción de algún tipo; caminó
+                rápido por la habitación y regresó. Se inclinó hacia mí como para
+                besarme; pero recordé que las caricias ahora estaban prohibidas.
+                Aparté la cara y le aparté la suya.</p>
 
-                <p>â€”Â¡QuÃ©! Â¿CÃ³mo es esto? â€”exclamÃ³ apresuradamenteâ€”. Â¡Oh, ya
-                sÃ©! Â¿No besarÃ¡s al marido de Bertha Mason? Â¿Consideras mis brazos
+                <p>—¡Qué! ¿Cómo es esto? —exclamó apresuradamente—. ¡Oh, ya
+                sé! ¿No besarás al marido de Bertha Mason? ¿Consideras mis brazos
                 ocupados y mis abrazos apropiados?</p>
 
-                <p>â€”En cualquier caso, no hay ni lugar ni derecho para mÃ­, seÃ±or.</p>
+                <p>—En cualquier caso, no hay ni lugar ni derecho para mí, señor.</p>
 
-                <p>â€”Â¿Por quÃ©, Jane? Te ahorrarÃ© la molestia de hablar mucho;
-                responderÃ© por ti: â€œPorque ya tengo una esposaâ€, responderÃ­as.
-                Â¿Adivino correctamente?</p>
+                <p>—¿Por qué, Jane? Te ahorraré la molestia de hablar mucho;
+                responderé por ti: “Porque ya tengo una esposa”, responderías.
+                ¿Adivino correctamente?</p>
 
-                <p>â€”SÃ­.</p>
+                <p>—Sí.</p>
 
-                <p>â€”Si piensas asÃ­, debes tener una extraÃ±a opiniÃ³n de mÃ­; debes
+                <p>—Si piensas así, debes tener una extraña opinión de mí; debes
                 considerarme un libertino conspirador, un rastrero y bajo calavera
                 que ha estado simulando un amor desinteresado para atraerte a una
                 trampa deliberadamente tendida y despojarte del honor y robarte el
-                respeto propio. Â¿QuÃ© dices a eso? Veo que no puedes decir nada. En
-                primer lugar, todavÃ­a estÃ¡s dÃ©bil y tienes bastante con respirar; en
-                segundo lugar, todavÃ­a no puedes acostumbrarte a acusarme e
-                injuriarme; y ademÃ¡s, las compuertas de las lÃ¡grimas estÃ¡n abiertas
-                y se precipitarÃ­an si hablaras mucho. Y no tienes ningÃºn deseo de
-                reconvenir, de reprochar, de montar una escena. EstÃ¡s pensando en
-                cÃ³mo actuar, hablar consideras que no sirve de nada. Te conozco,
+                respeto propio. ¿Qué dices a eso? Veo que no puedes decir nada. En
+                primer lugar, todavía estás débil y tienes bastante con respirar; en
+                segundo lugar, todavía no puedes acostumbrarte a acusarme e
+                injuriarme; y además, las compuertas de las lágrimas están abiertas
+                y se precipitarían si hablaras mucho. Y no tienes ningún deseo de
+                reconvenir, de reprochar, de montar una escena. Estás pensando en
+                cómo actuar, hablar consideras que no sirve de nada. Te conozco,
                 estoy en guardia.</p>
 
-                <p>â€”SeÃ±or, no deseo actuar en su contra â€”dije; y mi voz inestable
-                me advirtiÃ³ que abreviara mi frase.</p>
+                <p>—Señor, no deseo actuar en su contra —dije; y mi voz inestable
+                me advirtió que abreviara mi frase.</p>
 
-                <p>â€”No en tu sentido de la palabra, pero en el mÃ­o estÃ¡s conspirando
-                para destruirme. Has dicho prÃ¡cticamente que soy un hombre
-                casado; como hombre casado me rehuirÃ¡s, te mantendrÃ¡s fuera de
+                <p>—No en tu sentido de la palabra, pero en el mío estás conspirando
+                para destruirme. Has dicho prácticamente que soy un hombre
+                casado; como hombre casado me rehuirás, te mantendrás fuera de
                 mi camino. Justo ahora te has negado a besarme. Tienes la
-                intenciÃ³n de convertirte en una completa extraÃ±a para mÃ­; de vivir
-                bajo este techo solo como la institutriz de AdÃ¨le; si alguna vez te
+                intención de convertirte en una completa extraña para mí; de vivir
+                bajo este techo solo como la institutriz de Adèle; si alguna vez te
                 digo una palabra amistosa, si alguna vez un sentimiento amistoso te
-                inclina de nuevo hacia mÃ­, dirÃ¡s: â€œEse hombre casi me convierte en
-                su amante. Debo ser hielo y roca para Ã©lâ€; y hielo y roca te volverÃ¡s
+                inclina de nuevo hacia mí, dirás: “Ese hombre casi me convierte en
+                su amante. Debo ser hielo y roca para él”; y hielo y roca te volverás
                 en consecuencia.</p>
 
-                <p>AclarÃ© y afirmÃ© mi voz para responder:</p>
+                <p>Aclaré y afirmé mi voz para responder:</p>
 
-                <p>â€”Todo ha cambiado a mi alrededor, seÃ±or; yo tambiÃ©n debo
+                <p>—Todo ha cambiado a mi alrededor, señor; yo también debo
                 cambiar, de eso no hay duda. Y para evitar fluctuaciones de
                 sentimiento y combates continuos con recuerdos y asociaciones, solo
-                hay un camino: AdÃ¨le debe tener una nueva institutriz, seÃ±or.</p>
+                hay un camino: Adèle debe tener una nueva institutriz, señor.</p>
 
-                <p>â€”Oh, AdÃ¨le irÃ¡ a la escuela, ya lo he arreglado; ni tengo la
-                intenciÃ³n de atormentarte con las espantosas asociaciones y
+                <p>—Oh, Adèle irá a la escuela, ya lo he arreglado; ni tengo la
+                intención de atormentarte con las espantosas asociaciones y
                 recuerdos de Thornfield Hall, este lugar maldito, esta tienda de
-                AcÃ¡n, esta bÃ³veda insolente que ofrece la truculencia de la muerte
+                Acán, esta bóveda insolente que ofrece la truculencia de la muerte
                 en vida a la luz del cielo abierto, este estrecho infierno de piedra,
-                con su Ãºnico demonio real, peor que una legiÃ³n de los que
-                imaginamos. Jane, no te quedarÃ¡s aquÃ­, ni yo tampoco. Me
-                equivoquÃ© al traerte a Thornfield Hall, sabiendo como sabÃ­a que
-                estaba embrujado. Les ordenÃ© que te ocultaran, antes de que te
-                viera, todo conocimiento de la maldiciÃ³n del lugar; simplemente
-                porque temÃ­a que AdÃ¨le nunca tuviera una institutriz que se quedara
-                si sabÃ­a con quÃ© interna estaba alojada, y mis planes no me
-                permitÃ­an trasladar a la manÃ­aca a otro lugar, aunque poseo una
-                vieja casa, Ferndean Manor, aÃºn mÃ¡s retirada y oculta que esta,
-                donde podrÃ­a haberla alojado con bastante seguridad, de no ser
-                porque un escrÃºpulo sobre la insalubridad de la situaciÃ³n, en el
-                corazÃ³n de un bosque, hizo que mi conciencia retrocediera ante el
-                arreglo. Probablemente esos muros hÃºmedos me habrÃ­an aliviado
-                pronto de su cargo; pero a cada villano su propio vicio; y el mÃ­o no
-                es una tendencia al asesinato indirecto, ni siquiera de lo que mÃ¡s
+                con su único demonio real, peor que una legión de los que
+                imaginamos. Jane, no te quedarás aquí, ni yo tampoco. Me
+                equivoqué al traerte a Thornfield Hall, sabiendo como sabía que
+                estaba embrujado. Les ordené que te ocultaran, antes de que te
+                viera, todo conocimiento de la maldición del lugar; simplemente
+                porque temía que Adèle nunca tuviera una institutriz que se quedara
+                si sabía con qué interna estaba alojada, y mis planes no me
+                permitían trasladar a la maníaca a otro lugar, aunque poseo una
+                vieja casa, Ferndean Manor, aún más retirada y oculta que esta,
+                donde podría haberla alojado con bastante seguridad, de no ser
+                porque un escrúpulo sobre la insalubridad de la situación, en el
+                corazón de un bosque, hizo que mi conciencia retrocediera ante el
+                arreglo. Probablemente esos muros húmedos me habrían aliviado
+                pronto de su cargo; pero a cada villano su propio vicio; y el mío no
+                es una tendencia al asesinato indirecto, ni siquiera de lo que más
                 odio.</p>
 
-                <p>Â»Ocultarte la vecindad de la loca, sin embargo, fue algo asÃ­ como
-                cubrir a un niÃ±o con una capa y dejarlo cerca de un Ã¡rbol upas. La
-                vecindad de ese demonio estÃ¡ envenenada, y siempre lo estuvo.
-                Pero cerrarÃ© Thornfield Hall. ClavarÃ© la puerta principal y tapiarÃ© las
-                ventanas inferiores. Le darÃ© a la seÃ±ora Poole doscientas libras al
-                aÃ±o para que viva aquÃ­ con mi esposa, como llamas a esa espantosa
-                arpÃ­a. Grace harÃ¡ mucho por dinero, y tendrÃ¡ a su hijo, el guardiÃ¡n
-                del Retiro de Grimsby, para que le haga compaÃ±Ã­a y estÃ© a mano
+                <p>»Ocultarte la vecindad de la loca, sin embargo, fue algo así como
+                cubrir a un niño con una capa y dejarlo cerca de un árbol upas. La
+                vecindad de ese demonio está envenenada, y siempre lo estuvo.
+                Pero cerraré Thornfield Hall. Clavaré la puerta principal y tapiaré las
+                ventanas inferiores. Le daré a la señora Poole doscientas libras al
+                año para que viva aquí con mi esposa, como llamas a esa espantosa
+                arpía. Grace hará mucho por dinero, y tendrá a su hijo, el guardián
+                del Retiro de Grimsby, para que le haga compañía y esté a mano
                 para ayudarla en los paroxismos, cuando mi esposa es impulsada
                 por su demonio familiar a quemar a la gente en sus camas por la
-                noche, a apuÃ±alarlos, a arrancarles la carne de los huesos a
-                mordiscos, y asÃ­ sucesivamente...</p>
+                noche, a apuñalarlos, a arrancarles la carne de los huesos a
+                mordiscos, y así sucesivamente...</p>
 
-                <p>â€”SeÃ±or â€”lo interrumpÃ­â€”, es usted inexorable con esa
-                desafortunada dama. Habla de ella con odio, con antipatÃ­a
+                <p>—Señor —lo interrumpí—, es usted inexorable con esa
+                desafortunada dama. Habla de ella con odio, con antipatía
                 vengativa. Es cruel, ella no puede evitar estar loca.</p>
 
-                <p>â€”Jane, mi pequeÃ±a querida (asÃ­ te llamarÃ©, porque asÃ­ eres), no
-                sabes de lo que estÃ¡s hablando; me juzgas mal de nuevo. No es
-                porque estÃ© loca que la odio. Si tÃº estuvieras loca, Â¿crees que te odiarÃ­a?</p>
+                <p>—Jane, mi pequeña querida (así te llamaré, porque así eres), no
+                sabes de lo que estás hablando; me juzgas mal de nuevo. No es
+                porque esté loca que la odio. Si tú estuvieras loca, ¿crees que te odiaría?</p>
 
-                <p>â€”SÃ­, ciertamente, seÃ±or.</p>
+                <p>—Sí, ciertamente, señor.</p>
 
-                <p>â€”Entonces te equivocas, y no sabes nada de mÃ­, ni nada del tipo
-                de amor del que soy capaz. Cada Ã¡tomo de tu carne me es tan
-                querido como el mÃ­o propio; en el dolor y la enfermedad seguirÃ­a
-                siendo querido. Tu mente es mi tesoro, y si se rompiera, seguirÃ­a
-                siendo mi tesoro. Si desvariaras, mis brazos te sujetarÃ­an, y no una
-                camisa de fuerza; tu agarre, incluso en la furia, tendrÃ­a un encanto
-                para mÃ­. Si te abalanzaras sobre mÃ­ tan salvajemente como esa
-                mujer lo hizo esta maÃ±ana, te recibirÃ­a en un abrazo, al menos tan
-                afectuoso como restrictivo serÃ­a. No me apartarÃ­a de ti con asco
-                como lo hice de ella. En tus momentos de calma no tendrÃ­as mÃ¡s
-                vigilante ni enfermero que yo; y podrÃ­a velar por ti con una ternura
+                <p>—Entonces te equivocas, y no sabes nada de mí, ni nada del tipo
+                de amor del que soy capaz. Cada átomo de tu carne me es tan
+                querido como el mío propio; en el dolor y la enfermedad seguiría
+                siendo querido. Tu mente es mi tesoro, y si se rompiera, seguiría
+                siendo mi tesoro. Si desvariaras, mis brazos te sujetarían, y no una
+                camisa de fuerza; tu agarre, incluso en la furia, tendría un encanto
+                para mí. Si te abalanzaras sobre mí tan salvajemente como esa
+                mujer lo hizo esta mañana, te recibiría en un abrazo, al menos tan
+                afectuoso como restrictivo sería. No me apartaría de ti con asco
+                como lo hice de ella. En tus momentos de calma no tendrías más
+                vigilante ni enfermero que yo; y podría velar por ti con una ternura
                 incansable, aunque no me devolvieras ninguna sonrisa; y nunca me
-                cansarÃ­a de mirar tus ojos, aunque ya no tuvieran un rayo de
-                reconocimiento para mÃ­. Pero, Â¿por quÃ© sigo ese hilo de ideas?
-                Estaba hablando de sacarte de Thornfield. Todo, ya sabes, estÃ¡
-                preparado para una pronta partida. MaÃ±ana te irÃ¡s. Solo te pido que
-                soportes una noche mÃ¡s bajo este techo, Jane; y luego, Â¡adiÃ³s a sus
+                cansaría de mirar tus ojos, aunque ya no tuvieran un rayo de
+                reconocimiento para mí. Pero, ¿por qué sigo ese hilo de ideas?
+                Estaba hablando de sacarte de Thornfield. Todo, ya sabes, está
+                preparado para una pronta partida. Mañana te irás. Solo te pido que
+                soportes una noche más bajo este techo, Jane; y luego, ¡adiós a sus
                 miserias y terrores para siempre! Tengo un lugar al que retirarme,
-                que serÃ¡ un santuario seguro de odiosos recuerdos, de intrusiones
+                que será un santuario seguro de odiosos recuerdos, de intrusiones
                 inoportunas, incluso de la falsedad y la calumnia.</p>
 
-                <p>â€”Y lleve a AdÃ¨le con usted, seÃ±or â€”interrumpÃ­â€”. SerÃ¡ una
-                compaÃ±era para usted.</p>
+                <p>—Y lleve a Adèle con usted, señor —interrumpí—. Será una
+                compañera para usted.</p>
 
-                <p>â€”Â¿QuÃ© quieres decir, Jane? Te dije que enviarÃ­a a AdÃ¨le a la
-                escuela. Â¿Y para quÃ© quiero a una niÃ±a por compaÃ±era, y no a mi
-                propia hija, la bastarda de una bailarina francesa? Â¡Por quÃ© me
-                importunas con ella! Digo, Â¿por quÃ© me asignas a AdÃ¨le como
-                compaÃ±era?</p>
+                <p>—¿Qué quieres decir, Jane? Te dije que enviaría a Adèle a la
+                escuela. ¿Y para qué quiero a una niña por compañera, y no a mi
+                propia hija, la bastarda de una bailarina francesa? ¡Por qué me
+                importunas con ella! Digo, ¿por qué me asignas a Adèle como
+                compañera?</p>
 
-                <p>â€”HablÃ³ usted de un retiro, seÃ±or; y el retiro y la soledad son
+                <p>—Habló usted de un retiro, señor; y el retiro y la soledad son
                 aburridos, demasiado aburridos para usted.</p>
 
-                <p>â€”Â¡Soledad! Â¡Soledad! â€”reiterÃ³ con irritaciÃ³nâ€”. Veo que debo
-                llegar a una explicaciÃ³n. No sÃ© quÃ© expresiÃ³n de esfinge se estÃ¡
-                formando en tu semblante. TÃº vas a compartir mi soledad.
-                Â¿Entiendes?</p>
+                <p>—¡Soledad! ¡Soledad! —reiteró con irritación—. Veo que debo
+                llegar a una explicación. No sé qué expresión de esfinge se está
+                formando en tu semblante. Tú vas a compartir mi soledad.
+                ¿Entiendes?</p>
 
-                <p>NeguÃ© con la cabeza. Se requerÃ­a un grado de valor, excitado
-                como se estaba poniendo, incluso para arriesgar esa muda seÃ±al de
-                disenso. HabÃ­a estado caminando rÃ¡pido por la habitaciÃ³n y se
+                <p>Negué con la cabeza. Se requería un grado de valor, excitado
+                como se estaba poniendo, incluso para arriesgar esa muda señal de
+                disenso. Había estado caminando rápido por la habitación y se
                 detuvo, como si de repente se hubiera arraigado en un punto. Me
-                mirÃ³ larga y duramente. ApartÃ© los ojos de Ã©l, los fijÃ© en el fuego e
-                intentÃ© asumir y mantener un aspecto tranquilo y sereno.</p>
+                miró larga y duramente. Aparté los ojos de él, los fijé en el fuego e
+                intenté asumir y mantener un aspecto tranquilo y sereno.</p>
 
-                <p>â€”Ahora, el escollo en el carÃ¡cter de Jane â€”dijo al fin, hablando
-                mÃ¡s calmadamente de lo que por su mirada esperaba que hablaraâ€”.
+                <p>—Ahora, el escollo en el carácter de Jane —dijo al fin, hablando
+                más calmadamente de lo que por su mirada esperaba que hablara—.
                 El carrete de seda ha corrido bastante bien hasta ahora; pero
-                siempre supe que llegarÃ­a un nudo y un enigma. AquÃ­ estÃ¡. Â¡Ahora, a
-                la vejaciÃ³n, y la exasperaciÃ³n, y problemas sin fin! Â¡Por Dios! Anhelo
-                ejercer una fracciÃ³n de la fuerza de SansÃ³n y romper el enredo
+                siempre supe que llegaría un nudo y un enigma. Aquí está. ¡Ahora, a
+                la vejación, y la exasperación, y problemas sin fin! ¡Por Dios! Anhelo
+                ejercer una fracción de la fuerza de Sansón y romper el enredo
                 como estopa.</p>
 
-                <p>ReanudÃ³ su paseo, pero pronto se detuvo de nuevo, y esta vez
-                justo delante de mÃ­.</p>
+                <p>Reanudó su paseo, pero pronto se detuvo de nuevo, y esta vez
+                justo delante de mí.</p>
 
-                <p>â€”Â¡Jane! Â¿AtenderÃ¡s a razones? (se inclinÃ³ y acercÃ³ sus labios a mi
-                oÃ­do); porque, si no, intentarÃ© la violencia. â€”Su voz era ronca; su
-                mirada, la de un hombre que estÃ¡ a punto de romper un lazo
+                <p>—¡Jane! ¿Atenderás a razones? (se inclinó y acercó sus labios a mi
+                oído); porque, si no, intentaré la violencia. —Su voz era ronca; su
+                mirada, la de un hombre que está a punto de romper un lazo
                 insoportable y precipitarse de cabeza en una licencia salvaje. Vi que
-                en otro momento, y con un Ã­mpetu mÃ¡s de frenesÃ­, no podrÃ­a hacer
-                nada con Ã©l. El presente, el segundo de tiempo que pasaba, era todo
-                lo que tenÃ­a para controlarlo y refrenarlo. Un movimiento de
-                repulsiÃ³n, huida, miedo habrÃ­a sellado mi perdiciÃ³n, y la suya. Pero
-                no tenÃ­a miedo; ni lo mÃ¡s mÃ­nimo. SentÃ­ un poder interior, una
-                sensaciÃ³n de influencia que me sostenÃ­a. La crisis era peligrosa, pero
-                no sin su encanto; tal como el indio, quizÃ¡s, siente cuando se desliza
-                sobre el rÃ¡pido en su canoa. TomÃ© su mano apretada, aflojÃ© los
+                en otro momento, y con un ímpetu más de frenesí, no podría hacer
+                nada con él. El presente, el segundo de tiempo que pasaba, era todo
+                lo que tenía para controlarlo y refrenarlo. Un movimiento de
+                repulsión, huida, miedo habría sellado mi perdición, y la suya. Pero
+                no tenía miedo; ni lo más mínimo. Sentí un poder interior, una
+                sensación de influencia que me sostenía. La crisis era peligrosa, pero
+                no sin su encanto; tal como el indio, quizás, siente cuando se desliza
+                sobre el rápido en su canoa. Tomé su mano apretada, aflojé los
                 dedos contorsionados y le dije, con voz tranquilizadora:</p>
 
-                <p>Â»SiÃ©ntese; hablarÃ© con usted todo el tiempo que quiera y oirÃ©
+                <p>»Siéntese; hablaré con usted todo el tiempo que quiera y oiré
                 todo lo que tenga que decir, sea razonable o irrazonable.</p>
 
-                <p>Se sentÃ³, pero no obtuvo permiso para hablar directamente. HabÃ­a
-                estado luchando con las lÃ¡grimas durante algÃºn tiempo. Me habÃ­a
-                esforzado mucho por reprimirlas, porque sabÃ­a que no le gustarÃ­a
-                verme llorar. Ahora, sin embargo, considerÃ© bueno dejarlas fluir tan
+                <p>Se sentó, pero no obtuvo permiso para hablar directamente. Había
+                estado luchando con las lágrimas durante algún tiempo. Me había
+                esforzado mucho por reprimirlas, porque sabía que no le gustaría
+                verme llorar. Ahora, sin embargo, consideré bueno dejarlas fluir tan
                 libremente y tanto tiempo como quisieran. Si el diluvio lo molestaba,
-                tanto mejor. AsÃ­ que cedÃ­ y llorÃ© de todo corazÃ³n.</p>
+                tanto mejor. Así que cedí y lloré de todo corazón.</p>
 
-                <p>Pronto lo oÃ­ suplicarme encarecidamente que me calmara. Dije
-                que no podÃ­a mientras Ã©l estuviera en tal pasiÃ³n.</p>
+                <p>Pronto lo oí suplicarme encarecidamente que me calmara. Dije
+                que no podía mientras él estuviera en tal pasión.</p>
 
-                <p>â€”Pero no estoy enfadado, Jane. Solo te amo demasiado; y habÃ­as
-                acerado tu pequeÃ±o rostro pÃ¡lido con una mirada tan resuelta y
-                helada que no pude soportarlo. Calla ahora y sÃ©cate los ojos.</p>
+                <p>—Pero no estoy enfadado, Jane. Solo te amo demasiado; y habías
+                acerado tu pequeño rostro pálido con una mirada tan resuelta y
+                helada que no pude soportarlo. Calla ahora y sécate los ojos.</p>
 
-                <p>Su voz suavizada anunciÃ³ que estaba sometido; asÃ­ que yo, a mi
-                vez, me calmÃ©. Ahora hizo un esfuerzo por apoyar su cabeza en mi
-                hombro, pero no lo permitÃ­. Luego quiso atraerme hacia Ã©l: no.</p>
+                <p>Su voz suavizada anunció que estaba sometido; así que yo, a mi
+                vez, me calmé. Ahora hizo un esfuerzo por apoyar su cabeza en mi
+                hombro, pero no lo permití. Luego quiso atraerme hacia él: no.</p>
 
-                <p>â€”Â¡Jane! Â¡Jane! â€”dijo, con tal acento de amarga tristeza que me
-                estremeciÃ³ cada nervioâ€”. Â¿No me amas, entonces? Â¿Era solo mi
-                posiciÃ³n y el rango de mi esposa lo que valorabas? Ahora que me
-                crees descalificado para convertirme en tu marido, Â¿retrocedes ante
+                <p>—¡Jane! ¡Jane! —dijo, con tal acento de amarga tristeza que me
+                estremeció cada nervio—. ¿No me amas, entonces? ¿Era solo mi
+                posición y el rango de mi esposa lo que valorabas? Ahora que me
+                crees descalificado para convertirme en tu marido, ¿retrocedes ante
                 mi tacto como si fuera un sapo o un mono?</p>
 
-                <p>Estas palabras me hirieron. Sin embargo, Â¿quÃ© podÃ­a hacer o
-                decir? Probablemente no deberÃ­a haber hecho ni dicho nada; pero
-                me torturaba tanto un sentimiento de remordimiento por herir asÃ­
-                sus sentimientos, que no pude controlar el deseo de verter bÃ¡lsamo
-                donde habÃ­a herido.</p>
+                <p>Estas palabras me hirieron. Sin embargo, ¿qué podía hacer o
+                decir? Probablemente no debería haber hecho ni dicho nada; pero
+                me torturaba tanto un sentimiento de remordimiento por herir así
+                sus sentimientos, que no pude controlar el deseo de verter bálsamo
+                donde había herido.</p>
 
-                <p>â€”SÃ­ lo amo â€”dijeâ€”, mÃ¡s que nunca; pero no debo mostrar ni
-                entregarme al sentimiento, y esta es la Ãºltima vez que debo
+                <p>—Sí lo amo —dije—, más que nunca; pero no debo mostrar ni
+                entregarme al sentimiento, y esta es la última vez que debo
                 expresarlo.</p>
 
-                <p>â€”Â¡La Ãºltima vez, Jane! Â¡CÃ³mo! Â¿Crees que puedes vivir conmigo y
-                verme a diario y, sin embargo, si todavÃ­a me amas, ser siempre frÃ­a y
+                <p>—¡La última vez, Jane! ¡Cómo! ¿Crees que puedes vivir conmigo y
+                verme a diario y, sin embargo, si todavía me amas, ser siempre fría y
                 distante?</p>
 
-                <p>â€”No, seÃ±or; estoy segura de que no podrÃ­a. Y por lo tanto veo
-                que solo hay un camino. Pero se enfurecerÃ¡ si lo menciono.</p>
+                <p>—No, señor; estoy segura de que no podría. Y por lo tanto veo
+                que solo hay un camino. Pero se enfurecerá si lo menciono.</p>
 
-                <p>â€”Â¡Oh, menciÃ³nalo! Si estallo, tienes el arte de llorar.</p>
+                <p>—¡Oh, menciónalo! Si estallo, tienes el arte de llorar.</p>
 
-                <p>â€”SeÃ±or Rochester, debo dejarle.</p>
+                <p>—Señor Rochester, debo dejarle.</p>
 
-                <p>â€”Â¿Por cuÃ¡nto tiempo, Jane? Â¿Por unos minutos, mientras te alisas
-                el pelo, que estÃ¡ algo desgreÃ±ado, y te lavas la cara, que parece
+                <p>—¿Por cuánto tiempo, Jane? ¿Por unos minutos, mientras te alisas
+                el pelo, que está algo desgreñado, y te lavas la cara, que parece
                 febril?</p>
 
-                <p>â€”Debo dejar a AdÃ¨le y a Thornfield. Debo separarme de usted
+                <p>—Debo dejar a Adèle y a Thornfield. Debo separarme de usted
                 para toda mi vida. Debo comenzar una nueva existencia entre
-                rostros extraÃ±os y escenas extraÃ±as.</p>
+                rostros extraños y escenas extrañas.</p>
 
-                <p>â€”Por supuesto. Te dije que lo harÃ­as. Paso por alto la locura de
-                separarte de mÃ­. Quieres decir que debes convertirte en parte de mÃ­.
-                En cuanto a la nueva existencia, estÃ¡ todo bien. AÃºn serÃ¡s mi
-                esposa. No estoy casado. SerÃ¡s la seÃ±ora Rochester, tanto virtual
-                como nominalmente. Me mantendrÃ© solo a tu lado mientras tÃº y yo
-                vivamos. IrÃ¡s a un lugar que tengo en el sur de Francia, una villa
-                encalada a orillas del MediterrÃ¡neo. AllÃ­ vivirÃ¡s una vida feliz, y
-                protegida, y de lo mÃ¡s inocente. No temas que desee atraerte al
-                error, hacerte mi amante. Â¿Por quÃ© negaste con la cabeza? Jane,
-                debes ser razonable, o en verdad volverÃ© a enloquecer.</p>
+                <p>—Por supuesto. Te dije que lo harías. Paso por alto la locura de
+                separarte de mí. Quieres decir que debes convertirte en parte de mí.
+                En cuanto a la nueva existencia, está todo bien. Aún serás mi
+                esposa. No estoy casado. Serás la señora Rochester, tanto virtual
+                como nominalmente. Me mantendré solo a tu lado mientras tú y yo
+                vivamos. Irás a un lugar que tengo en el sur de Francia, una villa
+                encalada a orillas del Mediterráneo. Allí vivirás una vida feliz, y
+                protegida, y de lo más inocente. No temas que desee atraerte al
+                error, hacerte mi amante. ¿Por qué negaste con la cabeza? Jane,
+                debes ser razonable, o en verdad volveré a enloquecer.</p>
 
                 <p>Su voz y su mano temblaban; sus anchas fosas nasales se
-                dilataban; su ojo ardÃ­a. Aun asÃ­, me atrevÃ­ a hablar.</p>
+                dilataban; su ojo ardía. Aun así, me atreví a hablar.</p>
 
-                <p>â€”SeÃ±or, su esposa estÃ¡ viva. Es un hecho reconocido esta
-                maÃ±ana por usted mismo. Si viviera con usted como desea,
-                entonces serÃ­a su amante. Decir lo contrario es sofÃ­stico, es falso.</p>
+                <p>—Señor, su esposa está viva. Es un hecho reconocido esta
+                mañana por usted mismo. Si viviera con usted como desea,
+                entonces sería su amante. Decir lo contrario es sofístico, es falso.</p>
 
-                <p>â€”Jane, no soy un hombre de temperamento apacible, lo olvidas.
-                No soy muy sufrido; no soy frÃ­o ni desapasionado. Â¡Por piedad hacia
-                mÃ­ y hacia ti, pon tu dedo en mi pulso, siente cÃ³mo late y... ten
+                <p>—Jane, no soy un hombre de temperamento apacible, lo olvidas.
+                No soy muy sufrido; no soy frío ni desapasionado. ¡Por piedad hacia
+                mí y hacia ti, pon tu dedo en mi pulso, siente cómo late y... ten
                 cuidado!</p>
 
-                <p>DesnudÃ³ su muÃ±eca y me la ofreciÃ³. La sangre abandonaba su
-                mejilla y sus labios, se estaban volviendo lÃ­vidos. Estaba angustiada
+                <p>Desnudó su muñeca y me la ofreció. La sangre abandonaba su
+                mejilla y sus labios, se estaban volviendo lívidos. Estaba angustiada
                 por todas partes. Agitarlo tan profundamente, con una resistencia
-                que tanto aborrecÃ­a, era cruel. Ceder estaba fuera de cuestiÃ³n. Hice
+                que tanto aborrecía, era cruel. Ceder estaba fuera de cuestión. Hice
                 lo que los seres humanos hacen instintivamente cuando son llevados
-                al extremo: busquÃ© ayuda en alguien superior al hombre. Las
-                palabras Â«Â¡Dios, ayÃºdame!Â» brotaron involuntariamente de mis
+                al extremo: busqué ayuda en alguien superior al hombre. Las
+                palabras «¡Dios, ayúdame!» brotaron involuntariamente de mis
                 labios.</p>
 
-                <p>â€”Â¡Soy un tonto! â€”exclamÃ³ el seÃ±or Rochester de repenteâ€”. Le
-                sigo diciendo que no estoy casado y no le explico por quÃ©. Olvido
-                que no sabe nada del carÃ¡cter de esa mujer, ni de las circunstancias
-                que rodearon mi uniÃ³n infernal con ella. Â¡Oh, estoy seguro de que
-                Jane estarÃ¡ de acuerdo conmigo en opiniÃ³n cuando sepa todo lo que
-                yo sÃ©! Solo pon tu mano en la mÃ­a, Janet, para que tenga la
-                evidencia del tacto ademÃ¡s de la vista, para probar que estÃ¡s cerca
-                de mÃ­, y en pocas palabras te mostrarÃ© el verdadero estado del caso.
-                Â¿Puedes escucharme?</p>
+                <p>—¡Soy un tonto! —exclamó el señor Rochester de repente—. Le
+                sigo diciendo que no estoy casado y no le explico por qué. Olvido
+                que no sabe nada del carácter de esa mujer, ni de las circunstancias
+                que rodearon mi unión infernal con ella. ¡Oh, estoy seguro de que
+                Jane estará de acuerdo conmigo en opinión cuando sepa todo lo que
+                yo sé! Solo pon tu mano en la mía, Janet, para que tenga la
+                evidencia del tacto además de la vista, para probar que estás cerca
+                de mí, y en pocas palabras te mostraré el verdadero estado del caso.
+                ¿Puedes escucharme?</p>
 
-                <p>â€”SÃ­, seÃ±or; durante horas si quiere.</p>
+                <p>—Sí, señor; durante horas si quiere.</p>
 
-                <p>â€”Solo pido minutos. Jane, Â¿oÃ­ste o supiste alguna vez que yo no
+                <p>—Solo pido minutos. Jane, ¿oíste o supiste alguna vez que yo no
                 era el hijo mayor de mi casa, que una vez tuve un hermano mayor
                 que yo?</p>
 
-                <p>â€”Recuerdo que la seÃ±ora Fairfax me lo dijo una vez.</p>
+                <p>—Recuerdo que la señora Fairfax me lo dijo una vez.</p>
 
-                <p>â€”Â¿Y oÃ­ste alguna vez que mi padre era un hombre Ã¡varo y codicioso?</p>
+                <p>—¿Y oíste alguna vez que mi padre era un hombre ávaro y codicioso?</p>
 
-                <p>â€”He entendido algo en ese sentido.</p>
+                <p>—He entendido algo en ese sentido.</p>
 
-                <p>â€”Bueno, Jane, siÃ©ndolo asÃ­, su resoluciÃ³n fue mantener la
-                propiedad unida; no podÃ­a soportar la idea de dividir su patrimonio y
-                dejarme una porciÃ³n justa. Todo, resolviÃ³, irÃ­a a mi hermano,
-                Rowland. Sin embargo, tampoco podÃ­a soportar que un hijo suyo
-                fuera un hombre pobre. DebÃ­a ser provisto mediante un matrimonio
-                rico. Me buscÃ³ una pareja a su debido tiempo. El seÃ±or Mason, un
+                <p>—Bueno, Jane, siéndolo así, su resolución fue mantener la
+                propiedad unida; no podía soportar la idea de dividir su patrimonio y
+                dejarme una porción justa. Todo, resolvió, iría a mi hermano,
+                Rowland. Sin embargo, tampoco podía soportar que un hijo suyo
+                fuera un hombre pobre. Debía ser provisto mediante un matrimonio
+                rico. Me buscó una pareja a su debido tiempo. El señor Mason, un
                 plantador y comerciante de las Indias Occidentales, era su viejo
                 conocido. Estaba seguro de que sus posesiones eran reales y vastas;
-                hizo averiguaciones. El seÃ±or Mason, descubriÃ³, tenÃ­a un hijo y una
-                hija; y supo por Ã©l que podÃ­a y darÃ­a a esta Ãºltima una fortuna de
-                treinta mil libras. Eso fue suficiente. Cuando dejÃ© la universidad, me
-                enviaron a Jamaica para desposar a una novia ya cortejada para mÃ­.
-                Mi padre no dijo nada sobre su dinero; pero me dijo que la seÃ±orita
+                hizo averiguaciones. El señor Mason, descubrió, tenía un hijo y una
+                hija; y supo por él que podía y daría a esta última una fortuna de
+                treinta mil libras. Eso fue suficiente. Cuando dejé la universidad, me
+                enviaron a Jamaica para desposar a una novia ya cortejada para mí.
+                Mi padre no dijo nada sobre su dinero; pero me dijo que la señorita
                 Mason era el orgullo de Spanish Town por su belleza, y esto no era
-                mentira. La encontrÃ© una mujer hermosa, al estilo de Blanche
+                mentira. La encontré una mujer hermosa, al estilo de Blanche
                 Ingram: alta, morena y majestuosa. Su familia deseaba asegurarse
-                de mÃ­ porque yo era de buena estirpe; y ella tambiÃ©n. Me la
-                mostraron en fiestas, esplÃ©ndidamente vestida. Rara vez la vi a solas
-                y tuve muy poca conversaciÃ³n privada con ella. Me halagaba y
+                de mí porque yo era de buena estirpe; y ella también. Me la
+                mostraron en fiestas, espléndidamente vestida. Rara vez la vi a solas
+                y tuve muy poca conversación privada con ella. Me halagaba y
                 desplegaba generosamente para mi placer sus encantos y
-                habilidades. Todos los hombres de su cÃ­rculo parecÃ­an admirarla y
-                envidiarme. QuedÃ© deslumbrado, estimulado. Mis sentidos se
-                excitaron; y siendo ignorante, novato e inexperto, pensÃ© que la
+                habilidades. Todos los hombres de su círculo parecían admirarla y
+                envidiarme. Quedé deslumbrado, estimulado. Mis sentidos se
+                excitaron; y siendo ignorante, novato e inexperto, pensé que la
                 amaba. No hay locura tan embrutecedora a la que las rivalidades
                 idiotas de la sociedad, la lascivia, la temeridad, la ceguera de la
-                juventud, no apresuren a un hombre a su comisiÃ³n. Sus parientes
-                me animaron; los competidores me picaron; ella me sedujo. Se logrÃ³
-                un matrimonio casi antes de que supiera dÃ³nde estaba. Â¡Oh, no
-                siento ningÃºn respeto por mÃ­ mismo cuando pienso en ese acto! Una
-                agonÃ­a de desprecio interior me domina. Nunca la amÃ©, nunca la
-                estimÃ©, ni siquiera la conocÃ­a. No estaba seguro de la existencia de
-                una sola virtud en su naturaleza. No habÃ­a notado ni modestia, ni
+                juventud, no apresuren a un hombre a su comisión. Sus parientes
+                me animaron; los competidores me picaron; ella me sedujo. Se logró
+                un matrimonio casi antes de que supiera dónde estaba. ¡Oh, no
+                siento ningún respeto por mí mismo cuando pienso en ese acto! Una
+                agonía de desprecio interior me domina. Nunca la amé, nunca la
+                estimé, ni siquiera la conocía. No estaba seguro de la existencia de
+                una sola virtud en su naturaleza. No había notado ni modestia, ni
                 benevolencia, ni franqueza, ni refinamiento en su mente o modales,
-                y me casÃ© con ella. Â¡Bruto, rastrero, topo cegato que fui! Con menos
-                pecado podrÃ­a haber... Pero dÃ©jame recordar a quiÃ©n estoy
+                y me casé con ella. ¡Bruto, rastrero, topo cegato que fui! Con menos
+                pecado podría haber... Pero déjame recordar a quién estoy
                 hablando.</p>
 
-                <p>Â»A la madre de mi novia nunca la habÃ­a visto; entendÃ­ que estaba
+                <p>»A la madre de mi novia nunca la había visto; entendí que estaba
                 muerta. Pasada la luna de miel, supe mi error; solo estaba loca y
-                encerrada en un manicomio. HabÃ­a tambiÃ©n un hermano menor, un
+                encerrada en un manicomio. Había también un hermano menor, un
                 completo idiota mudo. El mayor, a quien has visto (y a quien no
                 puedo odiar, mientras aborrezco a toda su parentela, porque tiene
-                algunos granos de afecto en su dÃ©bil mente, demostrados en el
-                continuo interÃ©s que toma por su desdichada hermana, y tambiÃ©n en
-                un apego perruno que una vez me tuvo), probablemente estarÃ¡ en
-                el mismo estado algÃºn dÃ­a. Mi padre y mi hermano Rowland sabÃ­an
+                algunos granos de afecto en su débil mente, demostrados en el
+                continuo interés que toma por su desdichada hermana, y también en
+                un apego perruno que una vez me tuvo), probablemente estará en
+                el mismo estado algún día. Mi padre y mi hermano Rowland sabían
                 todo esto; pero solo pensaron en las treinta mil libras y se unieron
-                en el complot contra mÃ­.</p>
+                en el complot contra mí.</p>
 
-                <p>Â»Estos fueron descubrimientos viles; pero, a excepciÃ³n de la
-                traiciÃ³n del ocultamiento, no los habrÃ­a hecho objeto de reproche a
-                mi esposa, ni siquiera cuando descubrÃ­ que su naturaleza era
-                completamente ajena a la mÃ­a, sus gustos odiosos para mÃ­, su
-                mentalidad comÃºn, baja, estrecha y singularmente incapaz de ser
-                conducida a algo mÃ¡s alto, expandida a algo mÃ¡s grande; cuando
-                descubrÃ­ que no podÃ­a pasar una sola tarde, ni siquiera una sola hora
-                del dÃ­a con ella cÃ³modamente; que una conversaciÃ³n amable no
-                podÃ­a sostenerse entre nosotros, porque cualquier tema que yo
-                iniciara, inmediatamente recibÃ­a de ella un giro a la vez tosco y
-                trillado, perverso e imbÃ©cil; cuando percibÃ­ que nunca tendrÃ­a un
-                hogar tranquilo o estable, porque ningÃºn criado soportarÃ­a los
+                <p>»Estos fueron descubrimientos viles; pero, a excepción de la
+                traición del ocultamiento, no los habría hecho objeto de reproche a
+                mi esposa, ni siquiera cuando descubrí que su naturaleza era
+                completamente ajena a la mía, sus gustos odiosos para mí, su
+                mentalidad común, baja, estrecha y singularmente incapaz de ser
+                conducida a algo más alto, expandida a algo más grande; cuando
+                descubrí que no podía pasar una sola tarde, ni siquiera una sola hora
+                del día con ella cómodamente; que una conversación amable no
+                podía sostenerse entre nosotros, porque cualquier tema que yo
+                iniciara, inmediatamente recibía de ella un giro a la vez tosco y
+                trillado, perverso e imbécil; cuando percibí que nunca tendría un
+                hogar tranquilo o estable, porque ningún criado soportaría los
                 continuos estallidos de su temperamento violento e irrazonable, o las
-                vejaciones de sus Ã³rdenes absurdas, contradictorias y exigentes;
-                incluso entonces me contuve. EvitÃ© las reprimendas, abreviÃ© las
-                reconvenciones; intentÃ© devorar mi arrepentimiento y mi asco en
-                secreto; reprimÃ­ la profunda antipatÃ­a que sentÃ­a.</p>
+                vejaciones de sus órdenes absurdas, contradictorias y exigentes;
+                incluso entonces me contuve. Evité las reprimendas, abrevié las
+                reconvenciones; intenté devorar mi arrepentimiento y mi asco en
+                secreto; reprimí la profunda antipatía que sentía.</p>
 
-                <p>Â»Jane, no te molestarÃ© con detalles abominables; unas pocas
-                palabras fuertes expresarÃ¡n lo que tengo que decir. VivÃ­ con esa
-                mujer de arriba cuatro aÃ±os, y antes de ese tiempo ya me habÃ­a
-                puesto a prueba, en verdad. Su carÃ¡cter madurÃ³ y se desarrollÃ³ con
-                una rapidez espantosa; sus vicios brotaron rÃ¡pidos y frondosos. Eran
-                tan fuertes que solo la crueldad podÃ­a frenarlos, y yo no quise usar
-                la crueldad. Â¡QuÃ© intelecto de pigmeo tenÃ­a, y quÃ© propensiones de
-                gigante! Â¡QuÃ© terribles eran las maldiciones que esas propensiones
-                acarreaban sobre mÃ­! Bertha Mason, la verdadera hija de una madre
-                infame, me arrastrÃ³ por todas las agonÃ­as espantosas y degradantes
-                que deben acompaÃ±ar a un hombre atado a una esposa a la vez
+                <p>»Jane, no te molestaré con detalles abominables; unas pocas
+                palabras fuertes expresarán lo que tengo que decir. Viví con esa
+                mujer de arriba cuatro años, y antes de ese tiempo ya me había
+                puesto a prueba, en verdad. Su carácter maduró y se desarrolló con
+                una rapidez espantosa; sus vicios brotaron rápidos y frondosos. Eran
+                tan fuertes que solo la crueldad podía frenarlos, y yo no quise usar
+                la crueldad. ¡Qué intelecto de pigmeo tenía, y qué propensiones de
+                gigante! ¡Qué terribles eran las maldiciones que esas propensiones
+                acarreaban sobre mí! Bertha Mason, la verdadera hija de una madre
+                infame, me arrastró por todas las agonías espantosas y degradantes
+                que deben acompañar a un hombre atado a una esposa a la vez
                 intemperante y libertina.</p>
 
-                <p>Â»Mi hermano, en el intervalo, habÃ­a muerto, y al final de los cuatro
-                aÃ±os mi padre tambiÃ©n muriÃ³. Era lo suficientemente rico entonces,
+                <p>»Mi hermano, en el intervalo, había muerto, y al final de los cuatro
+                años mi padre también murió. Era lo suficientemente rico entonces,
                 pero pobre hasta una indigencia espantosa. Una naturaleza de lo
-                mÃ¡s grosera, impura, depravada que jamÃ¡s vi, estaba asociada a la
-                mÃ­a y llamada por la ley y la sociedad una parte de mÃ­. Y no podÃ­a
-                librarme de ella por ningÃºn procedimiento legal, pues los mÃ©dicos
+                más grosera, impura, depravada que jamás vi, estaba asociada a la
+                mía y llamada por la ley y la sociedad una parte de mí. Y no podía
+                librarme de ella por ningún procedimiento legal, pues los médicos
                 descubrieron entonces que mi esposa estaba loca; sus excesos
-                habÃ­an desarrollado prematuramente los gÃ©rmenes de la locura.
-                Jane, no te gusta mi narraciÃ³n; pareces casi enferma. Â¿Debo
-                posponer el resto para otro dÃ­a?</p>
+                habían desarrollado prematuramente los gérmenes de la locura.
+                Jane, no te gusta mi narración; pareces casi enferma. ¿Debo
+                posponer el resto para otro día?</p>
 
-                <p>â€”No, seÃ±or, termÃ­nela ahora. Lo compadezco, lo compadezco sinceramente.</p>
+                <p>—No, señor, termínela ahora. Lo compadezco, lo compadezco sinceramente.</p>
 
-                <p>â€”La compasiÃ³n, Jane, de algunas personas es un tributo nocivo e
-                insultante que uno estÃ¡ justificado en arrojar a los dientes de
-                quienes la ofrecen; pero esa es la clase de compasiÃ³n nativa de los
-                corazones insensibles y egoÃ­stas. Es un dolor hÃ­brido y egoÃ­sta al oÃ­r
+                <p>—La compasión, Jane, de algunas personas es un tributo nocivo e
+                insultante que uno está justificado en arrojar a los dientes de
+                quienes la ofrecen; pero esa es la clase de compasión nativa de los
+                corazones insensibles y egoístas. Es un dolor híbrido y egoísta al oír
                 hablar de desdichas, cruzado con un desprecio ignorante por
-                aquellos que las han soportado. Pero esa no es tu compasiÃ³n, Jane;
-                no es el sentimiento del que todo tu rostro estÃ¡ lleno en este
-                momento, con el que tus ojos estÃ¡n ahora casi rebosando, con el
-                que tu corazÃ³n se agita, con el que tu mano tiembla en la mÃ­a. Tu
-                compasiÃ³n, mi amor, es la madre sufriente del amor; su angustia es
-                el mismo dolor de parto de la pasiÃ³n divina. La acepto, Jane; que la
+                aquellos que las han soportado. Pero esa no es tu compasión, Jane;
+                no es el sentimiento del que todo tu rostro está lleno en este
+                momento, con el que tus ojos están ahora casi rebosando, con el
+                que tu corazón se agita, con el que tu mano tiembla en la mía. Tu
+                compasión, mi amor, es la madre sufriente del amor; su angustia es
+                el mismo dolor de parto de la pasión divina. La acepto, Jane; que la
                 hija tenga libre advenimiento; mis brazos esperan para recibirla.</p>
 
-                <p>â€”Ahora, seÃ±or, prosiga. Â¿QuÃ© hizo cuando descubriÃ³ que estaba loca?</p>
+                <p>—Ahora, señor, prosiga. ¿Qué hizo cuando descubrió que estaba loca?</p>
 
-                <p>â€”Jane, me acerquÃ© al borde de la desesperaciÃ³n; un remanente
+                <p>—Jane, me acerqué al borde de la desesperación; un remanente
                 de respeto propio fue todo lo que se interpuso entre yo y el abismo.
                 A los ojos del mundo, sin duda estaba cubierto de deshonor
-                mugriento; pero resolvÃ­ estar limpio a mis propios ojos, y hasta el
-                final repudiÃ© la contaminaciÃ³n de sus crÃ­menes y me arranquÃ© de la
-                conexiÃ³n con sus defectos mentales. Aun asÃ­, la sociedad asociaba
-                mi nombre y persona con los suyos; todavÃ­a la veÃ­a y la oÃ­a a diario.
-                Algo de su aliento (Â¡puaj!) se mezclaba con el aire que respiraba; y
-                ademÃ¡s, recordaba que una vez habÃ­a sido su marido; ese recuerdo
-                era entonces, y es ahora, inexpresablemente odioso para mÃ­.
-                AdemÃ¡s, sabÃ­a que mientras ella viviera, nunca podrÃ­a ser el marido
-                de otra esposa mejor; y, aunque cinco aÃ±os mayor que yo (su familia
-                y su padre me habÃ­an mentido incluso en el detalle de su edad), era
+                mugriento; pero resolví estar limpio a mis propios ojos, y hasta el
+                final repudié la contaminación de sus crímenes y me arranqué de la
+                conexión con sus defectos mentales. Aun así, la sociedad asociaba
+                mi nombre y persona con los suyos; todavía la veía y la oía a diario.
+                Algo de su aliento (¡puaj!) se mezclaba con el aire que respiraba; y
+                además, recordaba que una vez había sido su marido; ese recuerdo
+                era entonces, y es ahora, inexpresablemente odioso para mí.
+                Además, sabía que mientras ella viviera, nunca podría ser el marido
+                de otra esposa mejor; y, aunque cinco años mayor que yo (su familia
+                y su padre me habían mentido incluso en el detalle de su edad), era
                 probable que viviera tanto como yo, siendo tan robusta de cuerpo
-                como enferma de mente. AsÃ­, a la edad de veintisÃ©is aÃ±os, estaba
+                como enferma de mente. Así, a la edad de veintiséis años, estaba
                 sin esperanza.</p>
 
-                <p>Â»Una noche me habÃ­an despertado sus aullidos (desde que los
-                mÃ©dicos la habÃ­an declarado loca, por supuesto, habÃ­a sido
+                <p>»Una noche me habían despertado sus aullidos (desde que los
+                médicos la habían declarado loca, por supuesto, había sido
                 encerrada). Era una noche ardiente de las Indias Occidentales; de
                 esas que frecuentemente preceden a los huracanes de esos climas.
-                Incapaz de dormir en la cama, me levantÃ© y abrÃ­ la ventana. El aire
-                era como vapores de azufre, no podÃ­a encontrar refresco en ninguna
+                Incapaz de dormir en la cama, me levanté y abrí la ventana. El aire
+                era como vapores de azufre, no podía encontrar refresco en ninguna
                 parte. Los mosquitos entraban zumbando y zumbaban hoscamente
-                por la habitaciÃ³n. El mar, que podÃ­a oÃ­r desde allÃ­, retumbaba sordo
-                como un terremoto; nubes negras se alzaban sobre Ã©l. La luna se
-                ponÃ­a en las olas, ancha y roja, como una bala de caÃ±Ã³n al rojo vivo;
-                lanzÃ³ su Ãºltima mirada sangrienta sobre un mundo que temblaba
-                con el fermento de la tempestad. Me vi fÃ­sicamente influenciado por
-                la atmÃ³sfera y la escena, y mis oÃ­dos se llenaron de las maldiciones
-                que la manÃ­aca aÃºn gritaba; en las que momentÃ¡neamente mezclaba
-                mi nombre con tal tono de odio demonÃ­aco, Â¡con tal lenguaje!
-                Ninguna prostituta profesional tuvo jamÃ¡s un vocabulario mÃ¡s soez
-                que ella. Aunque estaba a dos habitaciones de distancia, oÃ­ cada
+                por la habitación. El mar, que podía oír desde allí, retumbaba sordo
+                como un terremoto; nubes negras se alzaban sobre él. La luna se
+                ponía en las olas, ancha y roja, como una bala de cañón al rojo vivo;
+                lanzó su última mirada sangrienta sobre un mundo que temblaba
+                con el fermento de la tempestad. Me vi físicamente influenciado por
+                la atmósfera y la escena, y mis oídos se llenaron de las maldiciones
+                que la maníaca aún gritaba; en las que momentáneamente mezclaba
+                mi nombre con tal tono de odio demoníaco, ¡con tal lenguaje!
+                Ninguna prostituta profesional tuvo jamás un vocabulario más soez
+                que ella. Aunque estaba a dos habitaciones de distancia, oí cada
                 palabra; las delgadas particiones de la casa de las Indias
-                Occidentales oponÃ­an solo una ligera obstrucciÃ³n a sus aullidos de
+                Occidentales oponían solo una ligera obstrucción a sus aullidos de
                 loba.</p>
 
-                <p>Â»â€œEsta vidaâ€, dije al fin, â€œes el infierno. Este es el aire, estos son
-                los sonidos del abismo sin fondo. Tengo derecho a liberarme de Ã©l si
-                puedo. Los sufrimientos de este estado mortal me dejarÃ¡n con la
+                <p>»“Esta vida”, dije al fin, “es el infierno. Este es el aire, estos son
+                los sonidos del abismo sin fondo. Tengo derecho a liberarme de él si
+                puedo. Los sufrimientos de este estado mortal me dejarán con la
                 pesada carne que ahora estorba mi alma. Del ardiente eterno del
-                fanÃ¡tico no tengo miedo. No hay un estado futuro peor que este
-                presente. Â¡DÃ©jame escapar y volver a casa con Dios!â€.</p>
+                fanático no tengo miedo. No hay un estado futuro peor que este
+                presente. ¡Déjame escapar y volver a casa con Dios!”.</p>
 
-                <p>Â»Dije esto mientras me arrodillaba y abrÃ­a un baÃºl que contenÃ­a un
-                par de pistolas cargadas. TenÃ­a la intenciÃ³n de pegarme un tiro. Solo
-                alberguÃ© la intenciÃ³n por un momento; pues, no estando loco, la
-                crisis de desesperaciÃ³n exquisita y pura que habÃ­a originado el deseo
-                y el designio de la autodestrucciÃ³n pasÃ³ en un segundo.</p>
+                <p>»Dije esto mientras me arrodillaba y abría un baúl que contenía un
+                par de pistolas cargadas. Tenía la intención de pegarme un tiro. Solo
+                albergué la intención por un momento; pues, no estando loco, la
+                crisis de desesperación exquisita y pura que había originado el deseo
+                y el designio de la autodestrucción pasó en un segundo.</p>
 
-                <p>Â»Un viento fresco de Europa soplÃ³ sobre el ocÃ©ano y se precipitÃ³
-                por el ventanal abierto. La tormenta estallÃ³, fluyÃ³, tronÃ³,
-                relampagueÃ³, y el aire se purificÃ³. Entonces formulÃ© y fijÃ© una
-                resoluciÃ³n. Mientras caminaba bajo los naranjos goteantes de mi
-                jardÃ­n mojado, y entre sus granados y piÃ±as empapados, y mientras
-                el refulgente amanecer de los trÃ³picos se encendÃ­a a mi alrededor,
-                razonÃ© asÃ­, Jane, y ahora escucha, pues fue la verdadera SabidurÃ­a la
-                que me consolÃ³ en esa hora y me mostrÃ³ el camino correcto a
+                <p>»Un viento fresco de Europa sopló sobre el océano y se precipitó
+                por el ventanal abierto. La tormenta estalló, fluyó, tronó,
+                relampagueó, y el aire se purificó. Entonces formulé y fijé una
+                resolución. Mientras caminaba bajo los naranjos goteantes de mi
+                jardín mojado, y entre sus granados y piñas empapados, y mientras
+                el refulgente amanecer de los trópicos se encendía a mi alrededor,
+                razoné así, Jane, y ahora escucha, pues fue la verdadera Sabiduría la
+                que me consoló en esa hora y me mostró el camino correcto a
                 seguir.</p>
 
-                <p>Â»El dulce viento de Europa todavÃ­a susurraba en las hojas
-                refrescadas, y el AtlÃ¡ntico tronaba en gloriosa libertad. Mi corazÃ³n,
-                seco y abrasado durante mucho tiempo, se hinchÃ³ al tono y se llenÃ³
-                de sangre viva; mi ser anhelaba la renovaciÃ³n; mi alma tenÃ­a sed de
-                un trago puro. Vi revivir la esperanza y sentÃ­ posible la regeneraciÃ³n.
-                Desde un arco florido al fondo de mi jardÃ­n contemplÃ© el mar, mÃ¡s
-                azul que el cielo. El viejo mundo estaba mÃ¡s allÃ¡; se abrieron asÃ­
+                <p>»El dulce viento de Europa todavía susurraba en las hojas
+                refrescadas, y el Atlántico tronaba en gloriosa libertad. Mi corazón,
+                seco y abrasado durante mucho tiempo, se hinchó al tono y se llenó
+                de sangre viva; mi ser anhelaba la renovación; mi alma tenía sed de
+                un trago puro. Vi revivir la esperanza y sentí posible la regeneración.
+                Desde un arco florido al fondo de mi jardín contemplé el mar, más
+                azul que el cielo. El viejo mundo estaba más allá; se abrieron así
                 claras perspectivas:</p>
 
-                <p>Â»â€œVeâ€, dijo la Esperanza, â€œy vive de nuevo en Europa. AllÃ­ no se
-                sabe quÃ© nombre manchado llevas, ni quÃ© carga inmunda estÃ¡ atada
-                a ti. Puedes llevarte a la manÃ­aca contigo a Inglaterra; confÃ­nala con
-                la debida asistencia y precauciones en Thornfield. Luego viaja tÃº
+                <p>»“Ve”, dijo la Esperanza, “y vive de nuevo en Europa. Allí no se
+                sabe qué nombre manchado llevas, ni qué carga inmunda está atada
+                a ti. Puedes llevarte a la maníaca contigo a Inglaterra; confínala con
+                la debida asistencia y precauciones en Thornfield. Luego viaja tú
                 mismo al clima que quieras y forma el nuevo lazo que te plazca. Esa
                 mujer, que tanto ha abusado de tu paciencia, que tanto ha
                 manchado tu nombre, que tanto ha ultrajado tu honor, que tanto ha
-                marchitado tu juventud, no es tu esposa, ni tÃº eres su marido.
-                AsegÃºrate de que se la cuide como su condiciÃ³n exige, y habrÃ¡s
+                marchitado tu juventud, no es tu esposa, ni tú eres su marido.
+                Asegúrate de que se la cuide como su condición exige, y habrás
                 hecho todo lo que Dios y la humanidad requieren de ti. Que su
-                identidad, su conexiÃ³n contigo, sea enterrada en el olvido. No estÃ¡s
-                obligado a comunicarlas a ningÃºn ser vivo. Ponla a salvo y cÃ³moda;
-                ampara su degradaciÃ³n con el secreto y dÃ©jalaâ€.</p>
+                identidad, su conexión contigo, sea enterrada en el olvido. No estás
+                obligado a comunicarlas a ningún ser vivo. Ponla a salvo y cómoda;
+                ampara su degradación con el secreto y déjala”.</p>
 
-                <p>Â»ActuÃ© precisamente segÃºn esta sugerencia. Mi padre y mi
-                hermano no habÃ­an dado a conocer mi matrimonio a sus conocidos;
-                porque, en la primera carta que escribÃ­ para informarles de la uniÃ³n
-                â€”habiendo ya comenzado a experimentar un extremo asco por sus
-                consecuencias y, por el carÃ¡cter y la constituciÃ³n familiar, viendo
-                abrirse ante mÃ­ un futuro espantosoâ€”, aÃ±adÃ­ un encargo urgente de
+                <p>»Actué precisamente según esta sugerencia. Mi padre y mi
+                hermano no habían dado a conocer mi matrimonio a sus conocidos;
+                porque, en la primera carta que escribí para informarles de la unión
+                —habiendo ya comenzado a experimentar un extremo asco por sus
+                consecuencias y, por el carácter y la constitución familiar, viendo
+                abrirse ante mí un futuro espantoso—, añadí un encargo urgente de
                 mantenerlo en secreto. Y muy pronto la conducta infame de la
-                esposa que mi padre habÃ­a seleccionado para mÃ­ fue tal que lo hizo
+                esposa que mi padre había seleccionado para mí fue tal que lo hizo
                 sonrojar de reconocerla como su nuera. Lejos de desear publicar la
-                conexiÃ³n, se volviÃ³ tan ansioso por ocultarla como yo mismo.</p>
+                conexión, se volvió tan ansioso por ocultarla como yo mismo.</p>
 
-                <p>Â»A Inglaterra, pues, la transportÃ©; un viaje espantoso tuve con
+                <p>»A Inglaterra, pues, la transporté; un viaje espantoso tuve con
                 semejante monstruo en el barco. Contento estuve cuando por fin la
-                llevÃ© a Thornfield y la vi alojada a salvo en esa habitaciÃ³n del tercer
+                llevé a Thornfield y la vi alojada a salvo en esa habitación del tercer
                 piso, de cuyo gabinete interior secreto ha hecho ahora durante diez
-                aÃ±os una guarida de bestia salvaje, una celda de duende. Tuve
+                años una guarida de bestia salvaje, una celda de duende. Tuve
                 algunos problemas para encontrar una asistente para ella, ya que
                 era necesario seleccionar a una en cuya fidelidad se pudiera confiar;
-                pues sus desvarÃ­os inevitablemente delatarÃ­an mi secreto. AdemÃ¡s,
-                tenÃ­a intervalos lÃºcidos de dÃ­as, a veces semanas, que llenaba con
-                insultos hacia mÃ­. Por fin contratÃ© a Grace Poole del Retiro de
-                Grimsby. Ella y el cirujano, Carter (que curÃ³ las heridas de Mason la
-                noche en que fue apuÃ±alado y atacado), son los dos Ãºnicos a
-                quienes he admitido en mi confianza. La seÃ±ora Fairfax, en verdad,
-                puede haber sospechado algo, pero no podrÃ­a haber obtenido
-                ningÃºn conocimiento preciso de los hechos. Grace, en general, ha
+                pues sus desvaríos inevitablemente delatarían mi secreto. Además,
+                tenía intervalos lúcidos de días, a veces semanas, que llenaba con
+                insultos hacia mí. Por fin contraté a Grace Poole del Retiro de
+                Grimsby. Ella y el cirujano, Carter (que curó las heridas de Mason la
+                noche en que fue apuñalado y atacado), son los dos únicos a
+                quienes he admitido en mi confianza. La señora Fairfax, en verdad,
+                puede haber sospechado algo, pero no podría haber obtenido
+                ningún conocimiento preciso de los hechos. Grace, en general, ha
                 demostrado ser una buena guardiana; aunque, debido en parte a
                 una falta suya, de la que parece que nada puede curarla y que es
-                inherente a su agotadora profesiÃ³n, su vigilancia ha sido mÃ¡s de una
-                vez adormecida y burlada. La lunÃ¡tica es a la vez astuta y maligna;
+                inherente a su agotadora profesión, su vigilancia ha sido más de una
+                vez adormecida y burlada. La lunática es a la vez astuta y maligna;
                 nunca ha dejado de aprovechar los lapsus temporales de su
-                guardiana. Una vez para esconder el cuchillo con el que apuÃ±alÃ³ a
+                guardiana. Una vez para esconder el cuchillo con el que apuñaló a
                 su hermano, y dos veces para apoderarse de la llave de su celda y
                 salir de ella durante la noche. En la primera de estas ocasiones,
-                perpetrÃ³ el intento de quemarme en mi cama; en la segunda, te hizo
-                esa espantosa visita. Doy gracias a la Providencia, que velÃ³ por ti, de
-                que entonces gastara su furia en tu ajuar de boda, que quizÃ¡s le
-                trajo vagos recuerdos de sus propios dÃ­as nupciales. Pero en lo que
-                podrÃ­a haber sucedido, no puedo soportar reflexionar. Cuando pienso
-                en la cosa que se lanzÃ³ a mi garganta esta maÃ±ana, colgando su
+                perpetró el intento de quemarme en mi cama; en la segunda, te hizo
+                esa espantosa visita. Doy gracias a la Providencia, que veló por ti, de
+                que entonces gastara su furia en tu ajuar de boda, que quizás le
+                trajo vagos recuerdos de sus propios días nupciales. Pero en lo que
+                podría haber sucedido, no puedo soportar reflexionar. Cuando pienso
+                en la cosa que se lanzó a mi garganta esta mañana, colgando su
                 rostro negro y escarlata sobre el nido de mi paloma, se me hiela la
                 sangre...</p>
 
-                <p>â€”Â¿Y quÃ©, seÃ±or â€”preguntÃ©, mientras Ã©l hacÃ­a una pausaâ€”, hizo
-                usted cuando la hubo instalado aquÃ­? Â¿AdÃ³nde fue?</p>
+                <p>—¿Y qué, señor —pregunté, mientras él hacía una pausa—, hizo
+                usted cuando la hubo instalado aquí? ¿Adónde fue?</p>
 
-                <p>â€”Â¿QuÃ© hice, Jane? Me transformÃ© en un fuego fatuo. Â¿AdÃ³nde
-                fui? EmprendÃ­ vagabundeos tan salvajes como los del espÃ­ritu de
-                marzo. BusquÃ© el Continente y recorrÃ­ tortuosamente todas sus
+                <p>—¿Qué hice, Jane? Me transformé en un fuego fatuo. ¿Adónde
+                fui? Emprendí vagabundeos tan salvajes como los del espíritu de
+                marzo. Busqué el Continente y recorrí tortuosamente todas sus
                 tierras. Mi deseo fijo era buscar y encontrar a una mujer buena e
-                inteligente a la que pudiera amar, un contraste con la furia que dejÃ©
+                inteligente a la que pudiera amar, un contraste con la furia que dejé
                 en Thornfield...</p>
 
-                <p>â€”Pero no podÃ­a casarse, seÃ±or.</p>
+                <p>—Pero no podía casarse, señor.</p>
 
-                <p>â€”HabÃ­a decidido y estaba convencido de que podÃ­a y debÃ­a. No
-                era mi intenciÃ³n original engaÃ±ar, como te he engaÃ±ado a ti. TenÃ­a la
-                intenciÃ³n de contar mi historia claramente y hacer mis propuestas
-                abiertamente. Y me parecÃ­a tan absolutamente racional que se me
-                considerara libre para amar y ser amado, que nunca dudÃ© de que se
-                podrÃ­a encontrar a alguna mujer dispuesta y capaz de entender mi
-                caso y aceptarme, a pesar de la maldiciÃ³n con la que estaba
+                <p>—Había decidido y estaba convencido de que podía y debía. No
+                era mi intención original engañar, como te he engañado a ti. Tenía la
+                intención de contar mi historia claramente y hacer mis propuestas
+                abiertamente. Y me parecía tan absolutamente racional que se me
+                considerara libre para amar y ser amado, que nunca dudé de que se
+                podría encontrar a alguna mujer dispuesta y capaz de entender mi
+                caso y aceptarme, a pesar de la maldición con la que estaba
                 cargado.</p>
 
-                <p>â€”Â¿Y bien, seÃ±or?</p>
+                <p>—¿Y bien, señor?</p>
 
-                <p>â€”Cuando eres inquisitiva, Jane, siempre me haces sonreÃ­r. Abres
-                los ojos como un pÃ¡jaro ansioso y haces de vez en cuando un
+                <p>—Cuando eres inquisitiva, Jane, siempre me haces sonreír. Abres
+                los ojos como un pájaro ansioso y haces de vez en cuando un
                 movimiento inquieto, como si las respuestas en el habla no fluyeran
-                lo suficientemente rÃ¡pido para ti y quisieras leer la tablilla del
-                corazÃ³n de uno. Pero antes de continuar, dime quÃ© quieres decir con
-                tu Â«Â¿Y bien, seÃ±or?Â». Es una frase pequeÃ±a muy frecuente en ti, y
-                que muchas veces me ha arrastrado una y otra vez a travÃ©s de una
-                charla interminable. No sÃ© muy bien por quÃ©.</p>
+                lo suficientemente rápido para ti y quisieras leer la tablilla del
+                corazón de uno. Pero antes de continuar, dime qué quieres decir con
+                tu «¿Y bien, señor?». Es una frase pequeña muy frecuente en ti, y
+                que muchas veces me ha arrastrado una y otra vez a través de una
+                charla interminable. No sé muy bien por qué.</p>
 
-                <p>â€”Quiero decir: Â¿Y despuÃ©s quÃ©? Â¿CÃ³mo procediÃ³? Â¿QuÃ© resultÃ³ de tal evento?</p>
+                <p>—Quiero decir: ¿Y después qué? ¿Cómo procedió? ¿Qué resultó de tal evento?</p>
 
-                <p>Â¡Precisamente! Â¿Y quÃ© deseas saber ahora?</p>
+                <p>¡Precisamente! ¿Y qué deseas saber ahora?</p>
 
-                <p>â€”Si encontrÃ³ a alguien que le gustara; si le pidiÃ³ que se casara
+                <p>—Si encontró a alguien que le gustara; si le pidió que se casara
                 con usted; y lo que ella dijo.</p>
 
-                <p>â€”Puedo decirte sÃ­ encontrÃ© a alguien que me gustara y si le pedÃ­
-                que se casara conmigo; pero lo que ella dijo aÃºn estÃ¡ por registrarse
-                en el libro del Destino. Durante diez largos aÃ±os vaguÃ©, viviendo
+                <p>—Puedo decirte sí encontré a alguien que me gustara y si le pedí
+                que se casara conmigo; pero lo que ella dijo aún está por registrarse
+                en el libro del Destino. Durante diez largos años vagué, viviendo
                 primero en una capital, luego en otra. A veces en San Petersburgo;
-                mÃ¡s a menudo en ParÃ­s; ocasionalmente en Roma, NÃ¡poles y
+                más a menudo en París; ocasionalmente en Roma, Nápoles y
                 Florencia. Provisto de mucho dinero y el pasaporte de un viejo
-                nombre, podÃ­a elegir mi propia sociedad; ningÃºn cÃ­rculo se me
-                cerraba. BusquÃ© mi ideal de mujer entre damas inglesas, condesas
-                francesas, signoras italianas y grÃ¤finnen alemanas. No pude
-                encontrarla. A veces, por un momento fugaz, creÃ­ vislumbrar una
-                mirada, oÃ­r un tono, contemplar una forma que anunciaba la
-                realizaciÃ³n de mi sueÃ±o; pero pronto me desengaÃ±aba. No debes
-                suponer que deseaba la perfecciÃ³n, ni de mente ni de persona.
-                Anhelaba solo lo que me convenÃ­a, las antÃ­podas de la criolla. Y lo
-                anhelaba en vano. Entre todas ellas no encontrÃ© a ninguna a la que,
-                por muy libre que hubiera estado â€”advertido como estaba de los
+                nombre, podía elegir mi propia sociedad; ningún círculo se me
+                cerraba. Busqué mi ideal de mujer entre damas inglesas, condesas
+                francesas, signoras italianas y gräfinnen alemanas. No pude
+                encontrarla. A veces, por un momento fugaz, creí vislumbrar una
+                mirada, oír un tono, contemplar una forma que anunciaba la
+                realización de mi sueño; pero pronto me desengañaba. No debes
+                suponer que deseaba la perfección, ni de mente ni de persona.
+                Anhelaba solo lo que me convenía, las antípodas de la criolla. Y lo
+                anhelaba en vano. Entre todas ellas no encontré a ninguna a la que,
+                por muy libre que hubiera estado —advertido como estaba de los
                 riesgos, los horrores, las repugnancias de las uniones incongruentes
-                â€”, le hubiera pedido que se casara conmigo. La decepciÃ³n me volviÃ³
-                temerario. ProbÃ© la disipaciÃ³n, nunca el libertinaje. Eso lo odiaba y lo
+                —, le hubiera pedido que se casara conmigo. La decepción me volvió
+                temerario. Probé la disipación, nunca el libertinaje. Eso lo odiaba y lo
                 odio. Ese era el atributo de mi Mesalina india. Un asco arraigado
                 hacia ella y sus vicios me contuvo mucho, incluso en el placer.
-                Cualquier goce que rayara en el desenfreno parecÃ­a acercarme a ella
-                y a sus vicios, y lo rehuÃ­a.</p>
+                Cualquier goce que rayara en el desenfreno parecía acercarme a ella
+                y a sus vicios, y lo rehuía.</p>
 
-                <p>Â»Sin embargo, no podÃ­a vivir solo; asÃ­ que probÃ© la compaÃ±Ã­a de
-                las amantes. La primera que elegÃ­ fue CÃ©line Varens, otro de esos
-                pasos que hacen que un hombre se desprecie a sÃ­ mismo cuando los
-                recuerda. Ya sabes lo que era y cÃ³mo terminÃ³ mi relaciÃ³n con ella.
+                <p>»Sin embargo, no podía vivir solo; así que probé la compañía de
+                las amantes. La primera que elegí fue Céline Varens, otro de esos
+                pasos que hacen que un hombre se desprecie a sí mismo cuando los
+                recuerda. Ya sabes lo que era y cómo terminó mi relación con ella.
                 Tuvo dos sucesoras: una italiana, Giacinta, y una alemana, Clara;
-                ambas consideradas singularmente hermosas. Â¿QuÃ© fue su belleza
-                para mÃ­ en unas pocas semanas? Giacinta era falta de principios y
-                violenta; me cansÃ© de ella en tres meses. Clara era honesta y
+                ambas consideradas singularmente hermosas. ¿Qué fue su belleza
+                para mí en unas pocas semanas? Giacinta era falta de principios y
+                violenta; me cansé de ella en tres meses. Clara era honesta y
                 tranquila; pero pesada, sin mente e impasible. Ni una pizca de mi
-                gusto. Me alegrÃ© de darle una suma suficiente para que montara un
-                buen negocio y asÃ­ deshacerme de ella decentemente. Pero, Jane,
-                veo por tu cara que no te estÃ¡s formando una opiniÃ³n muy favorable
-                de mÃ­ en este momento. Me crees un calavera insensible y de
-                principios laxos, Â¿no es asÃ­?</p>
+                gusto. Me alegré de darle una suma suficiente para que montara un
+                buen negocio y así deshacerme de ella decentemente. Pero, Jane,
+                veo por tu cara que no te estás formando una opinión muy favorable
+                de mí en este momento. Me crees un calavera insensible y de
+                principios laxos, ¿no es así?</p>
 
-                <p>â€”No me cae usted tan bien como a veces, en verdad, seÃ±or. Â¿No
-                le pareciÃ³ ni lo mÃ¡s mÃ­nimo incorrecto vivir de esa manera, primero
+                <p>—No me cae usted tan bien como a veces, en verdad, señor. ¿No
+                le pareció ni lo más mínimo incorrecto vivir de esa manera, primero
                 con una amante y luego con otra? Habla de ello como si fuera lo
-                mÃ¡s natural del mundo.</p>
+                más natural del mundo.</p>
 
-                <p>â€”Lo era para mÃ­; y no me gustaba. Era una forma de existencia
-                rastrera. Nunca me gustarÃ­a volver a ella. Contratar a una amante es
-                lo segundo peor despuÃ©s de comprar un esclavo. Ambas son a
-                menudo, por naturaleza, y siempre por posiciÃ³n, inferiores; y vivir
+                <p>—Lo era para mí; y no me gustaba. Era una forma de existencia
+                rastrera. Nunca me gustaría volver a ella. Contratar a una amante es
+                lo segundo peor después de comprar un esclavo. Ambas son a
+                menudo, por naturaleza, y siempre por posición, inferiores; y vivir
                 familiarmente con inferiores es degradante. Ahora odio el recuerdo
-                del tiempo que pasÃ© con CÃ©line, Giacinta y Clara.</p>
+                del tiempo que pasé con Céline, Giacinta y Clara.</p>
 
-                <p>SentÃ­ la verdad de estas palabras; y saquÃ© de ellas la inferencia
-                cierta de que si yo llegara a olvidarme de mÃ­ misma y de toda la
-                enseÃ±anza que jamÃ¡s se me habÃ­a inculcado, hasta el punto de â€”
-                bajo cualquier pretexto, con cualquier justificaciÃ³n, a travÃ©s de
-                cualquier tentaciÃ³nâ€” convertirme en la sucesora de estas pobres
-                chicas, Ã©l un dÃ­a me mirarÃ­a con el mismo sentimiento que ahora en
-                su mente profanaba su memoria. No di voz a esta convicciÃ³n;
-                bastaba con sentirla. La imprimÃ­ en mi corazÃ³n para que
-                permaneciera allÃ­ y me sirviera de ayuda en el momento de la
+                <p>Sentí la verdad de estas palabras; y saqué de ellas la inferencia
+                cierta de que si yo llegara a olvidarme de mí misma y de toda la
+                enseñanza que jamás se me había inculcado, hasta el punto de —
+                bajo cualquier pretexto, con cualquier justificación, a través de
+                cualquier tentación— convertirme en la sucesora de estas pobres
+                chicas, él un día me miraría con el mismo sentimiento que ahora en
+                su mente profanaba su memoria. No di voz a esta convicción;
+                bastaba con sentirla. La imprimí en mi corazón para que
+                permaneciera allí y me sirviera de ayuda en el momento de la
                 prueba.</p>
 
-                <p>â€”Ahora, Jane, Â¿por quÃ© no dices Â«Â¿Y bien, seÃ±or?Â». No he
-                terminado. Te ves seria. TodavÃ­a me desapruebas, ya veo. Pero
-                dÃ©jame llegar al punto. El pasado enero, libre de todas las amantes,
-                en un estado de Ã¡nimo duro y amargo, resultado de una vida inÃºtil,
-                errante y solitaria, corroÃ­do por la decepciÃ³n, agriamente dispuesto
-                contra todos los hombres y especialmente contra todo el gÃ©nero
-                femenino (pues empecÃ© a considerar la nociÃ³n de una mujer
-                intelectual, fiel y amorosa como un mero sueÃ±o), llamado por los
-                negocios, regresÃ© a Inglaterra.</p>
+                <p>—Ahora, Jane, ¿por qué no dices «¿Y bien, señor?». No he
+                terminado. Te ves seria. Todavía me desapruebas, ya veo. Pero
+                déjame llegar al punto. El pasado enero, libre de todas las amantes,
+                en un estado de ánimo duro y amargo, resultado de una vida inútil,
+                errante y solitaria, corroído por la decepción, agriamente dispuesto
+                contra todos los hombres y especialmente contra todo el género
+                femenino (pues empecé a considerar la noción de una mujer
+                intelectual, fiel y amorosa como un mero sueño), llamado por los
+                negocios, regresé a Inglaterra.</p>
 
-                <p>En una tarde helada de invierno, cabalguÃ© a la vista de
-                Thornfield Hall. Â¡Lugar aborrecido! No esperaba paz ni placer allÃ­. En
-                una estela en el sendero de Hay vi una pequeÃ±a y tranquila figura
-                sentada sola. La pasÃ© con la misma negligencia con que pasÃ© el
-                sauce desmochado de enfrente. No tuve ningÃºn presentimiento de lo
-                que serÃ­a para mÃ­; ninguna advertencia interna de que la Ã¡rbitra de
-                mi vida â€”mi genio para el bien o para el malâ€” esperaba allÃ­ con
-                humilde disfraz. No lo supe, ni siquiera cuando, con ocasiÃ³n del
-                accidente de Mesrour, se acercÃ³ y me ofreciÃ³ gravemente su ayuda.
-                Â¡Criatura infantil y esbelta! ParecÃ­a como si un jilguero hubiera
+                <p>En una tarde helada de invierno, cabalgué a la vista de
+                Thornfield Hall. ¡Lugar aborrecido! No esperaba paz ni placer allí. En
+                una estela en el sendero de Hay vi una pequeña y tranquila figura
+                sentada sola. La pasé con la misma negligencia con que pasé el
+                sauce desmochado de enfrente. No tuve ningún presentimiento de lo
+                que sería para mí; ninguna advertencia interna de que la árbitra de
+                mi vida —mi genio para el bien o para el mal— esperaba allí con
+                humilde disfraz. No lo supe, ni siquiera cuando, con ocasión del
+                accidente de Mesrour, se acercó y me ofreció gravemente su ayuda.
+                ¡Criatura infantil y esbelta! Parecía como si un jilguero hubiera
                 saltado a mi pie y se hubiera propuesto llevarme en su diminuta ala.
-                Fui hosco; pero la cosa no se iba. Se quedÃ³ a mi lado con extraÃ±a
-                perseverancia, y mirÃ³ y hablÃ³ con una especie de autoridad. DebÃ­a
+                Fui hosco; pero la cosa no se iba. Se quedó a mi lado con extraña
+                perseverancia, y miró y habló con una especie de autoridad. Debía
                 ser ayudado, y por esa mano. Y ayudado fui.</p>
 
-                <p>Â»Una vez que hube presionado el frÃ¡gil hombro, algo nuevo â€”una
-                savia y una sensaciÃ³n frescasâ€” se deslizÃ³ en mi cuerpo. Menos mal
-                que supe que este duende debÃ­a volver a mÃ­, que pertenecÃ­a a mi
-                casa de abajo, o no habrÃ­a podido sentirlo apartarse de mi mano y
-                verlo desvanecerse detrÃ¡s del oscuro seto sin un pesar singular. Te oÃ­
+                <p>»Una vez que hube presionado el frágil hombro, algo nuevo —una
+                savia y una sensación frescas— se deslizó en mi cuerpo. Menos mal
+                que supe que este duende debía volver a mí, que pertenecía a mi
+                casa de abajo, o no habría podido sentirlo apartarse de mi mano y
+                verlo desvanecerse detrás del oscuro seto sin un pesar singular. Te oí
                 llegar a casa esa noche, Jane, aunque probablemente no fueras
-                consciente de que pensaba en ti o te vigilaba. Al dÃ­a siguiente te
-                observÃ© â€”sin ser vistoâ€” durante media hora, mientras jugabas con
-                AdÃ¨le en la galerÃ­a. Era un dÃ­a de nieve, recuerdo, y no podÃ­ais salir.
-                Yo estaba en mi habitaciÃ³n; la puerta estaba entreabierta. PodÃ­a
-                escuchar y observar. AdÃ¨le reclamÃ³ tu atenciÃ³n exterior por un
-                tiempo; sin embargo, me imaginÃ© que tus pensamientos estaban en
-                otra parte. Pero fuiste muy paciente con ella, mi pequeÃ±a Jane; le
+                consciente de que pensaba en ti o te vigilaba. Al día siguiente te
+                observé —sin ser visto— durante media hora, mientras jugabas con
+                Adèle en la galería. Era un día de nieve, recuerdo, y no podíais salir.
+                Yo estaba en mi habitación; la puerta estaba entreabierta. Podía
+                escuchar y observar. Adèle reclamó tu atención exterior por un
+                tiempo; sin embargo, me imaginé que tus pensamientos estaban en
+                otra parte. Pero fuiste muy paciente con ella, mi pequeña Jane; le
                 hablaste y la entretuviste durante mucho tiempo. Cuando por fin te
-                dejÃ³, te sumiste de inmediato en una profunda ensoÃ±aciÃ³n. Te
-                pusiste a pasear lentamente por la galerÃ­a. De vez en cuando, al
-                pasar por un ventanal, mirabas la nieve que caÃ­a espesa; escuchabas
-                el viento sollozante, y de nuevo paseabas suavemente y soÃ±abas.
-                Creo que esas visiones diurnas no eran oscuras. HabÃ­a una
-                iluminaciÃ³n placentera en tu ojo ocasionalmente, una suave
-                excitaciÃ³n en tu aspecto que no hablaba de una melancolÃ­a amarga,
-                biliosa, hipocondrÃ­aca. Tu mirada revelaba mÃ¡s bien las dulces
-                cavilaciones de la juventud cuando su espÃ­ritu sigue con alas
+                dejó, te sumiste de inmediato en una profunda ensoñación. Te
+                pusiste a pasear lentamente por la galería. De vez en cuando, al
+                pasar por un ventanal, mirabas la nieve que caía espesa; escuchabas
+                el viento sollozante, y de nuevo paseabas suavemente y soñabas.
+                Creo que esas visiones diurnas no eran oscuras. Había una
+                iluminación placentera en tu ojo ocasionalmente, una suave
+                excitación en tu aspecto que no hablaba de una melancolía amarga,
+                biliosa, hipocondríaca. Tu mirada revelaba más bien las dulces
+                cavilaciones de la juventud cuando su espíritu sigue con alas
                 voluntarias el vuelo de la Esperanza hacia un cielo ideal. La voz de la
-                seÃ±ora Fairfax, hablando con un criado en el vestÃ­bulo, te despertÃ³.
-                Â¡Y quÃ© curiosamente te sonreÃ­ste a ti misma, Janet! HabÃ­a mucho
-                sentido en tu sonrisa; era muy astuta y parecÃ­a tomar a la ligera tu
-                propia abstracciÃ³n. ParecÃ­a decir: â€œMis hermosas visiones estÃ¡n muy
+                señora Fairfax, hablando con un criado en el vestíbulo, te despertó.
+                ¡Y qué curiosamente te sonreíste a ti misma, Janet! Había mucho
+                sentido en tu sonrisa; era muy astuta y parecía tomar a la ligera tu
+                propia abstracción. Parecía decir: “Mis hermosas visiones están muy
                 bien, pero no debo olvidar que son absolutamente irreales. Tengo un
-                cielo rosado y un EdÃ©n verde y florido en mi cerebro; pero fuera, soy
-                perfectamente consciente, yace a mis pies un camino Ã¡spero que
+                cielo rosado y un Edén verde y florido en mi cerebro; pero fuera, soy
+                perfectamente consciente, yace a mis pies un camino áspero que
                 recorrer, y a mi alrededor se congregan negras tempestades que
-                encontrarâ€. Corriste escaleras abajo y le pediste a la seÃ±ora Fairfax
-                alguna ocupaciÃ³n; las cuentas semanales de la casa que hacer, o
-                algo por el estilo, creo que era. Me molestÃ³ que te perdieras de mi
+                encontrar”. Corriste escaleras abajo y le pediste a la señora Fairfax
+                alguna ocupación; las cuentas semanales de la casa que hacer, o
+                algo por el estilo, creo que era. Me molestó que te perdieras de mi
                 vista.</p>
 
-                <p>Â»EsperÃ© con impaciencia la tarde, cuando podrÃ­a convocarte a mi
-                presencia. Sospechaba que tu carÃ¡cter era inusual â€”para mÃ­â€”,
-                perfectamente nuevo. Deseaba explorarlo mÃ¡s a fondo y conocerlo
-                mejor. Entraste en la habitaciÃ³n con una mirada y un aire a la vez
-                tÃ­midos e independientes. Ibas vestida de forma pintoresca, muy
-                parecida a como estÃ¡s ahora. Te hice hablar. Al poco tiempo te
-                encontrÃ© llena de extraÃ±os contrastes. Tu atuendo y tus modales
-                estaban restringidos por la regla; tu aire era a menudo tÃ­mido y, en
+                <p>»Esperé con impaciencia la tarde, cuando podría convocarte a mi
+                presencia. Sospechaba que tu carácter era inusual —para mí—,
+                perfectamente nuevo. Deseaba explorarlo más a fondo y conocerlo
+                mejor. Entraste en la habitación con una mirada y un aire a la vez
+                tímidos e independientes. Ibas vestida de forma pintoresca, muy
+                parecida a como estás ahora. Te hice hablar. Al poco tiempo te
+                encontré llena de extraños contrastes. Tu atuendo y tus modales
+                estaban restringidos por la regla; tu aire era a menudo tímido y, en
                 general, el de alguien refinado por naturaleza, pero absolutamente
                 desacostumbrado a la sociedad y con bastante miedo de hacerse
-                notar desventajosamente por algÃºn solecismo o error. Sin embargo,
-                cuando se te dirigÃ­a la palabra, levantabas un ojo agudo, audaz y
-                resplandeciente al rostro de tu interlocutor. HabÃ­a penetraciÃ³n y
+                notar desventajosamente por algún solecismo o error. Sin embargo,
+                cuando se te dirigía la palabra, levantabas un ojo agudo, audaz y
+                resplandeciente al rostro de tu interlocutor. Había penetración y
                 poder en cada mirada que dabas; cuando se te acosaba con
                 preguntas directas, encontrabas respuestas prontas y redondas. Muy
-                pronto pareciste acostumbrarte a mÃ­. Creo que sentiste la existencia
-                de simpatÃ­a entre tÃº y tu amo adusto y malhumorado, Jane; pues
-                fue asombroso ver cuÃ¡n rÃ¡pidamente una cierta y agradable soltura
-                tranquilizÃ³ tus modales. Por mucho que yo gruÃ±era, no mostrabas
+                pronto pareciste acostumbrarte a mí. Creo que sentiste la existencia
+                de simpatía entre tú y tu amo adusto y malhumorado, Jane; pues
+                fue asombroso ver cuán rápidamente una cierta y agradable soltura
+                tranquilizó tus modales. Por mucho que yo gruñera, no mostrabas
                 sorpresa, miedo, molestia o disgusto por mi malhumor; me
-                observabas y de vez en cuando me sonreÃ­as con una gracia sencilla
-                pero sagaz que no puedo describir. Me sentÃ­ a la vez contento y
-                estimulado con lo que veÃ­a. Me gustaba lo que habÃ­a visto y deseaba
-                ver mÃ¡s. Sin embargo, durante mucho tiempo te tratÃ© con distancia
-                y busquÃ© tu compaÃ±Ã­a rara vez. Era un epicÃºreo intelectual y
-                deseaba prolongar la gratificaciÃ³n de hacer este nuevo y picante
-                conocimiento. AdemÃ¡s, durante un tiempo me preocupÃ³ un temor
-                obsesivo de que si manejaba la flor libremente su floraciÃ³n se
-                marchitarÃ­a, el dulce encanto de la frescura la abandonarÃ­a. No sabÃ­a
-                entonces que no era una flor transitoria, sino mÃ¡s bien la radiante
-                semejanza de una, tallada en una gema indestructible. AdemÃ¡s,
-                deseaba ver si me buscarÃ­as si te rehuÃ­a, pero no lo hiciste; te
+                observabas y de vez en cuando me sonreías con una gracia sencilla
+                pero sagaz que no puedo describir. Me sentí a la vez contento y
+                estimulado con lo que veía. Me gustaba lo que había visto y deseaba
+                ver más. Sin embargo, durante mucho tiempo te traté con distancia
+                y busqué tu compañía rara vez. Era un epicúreo intelectual y
+                deseaba prolongar la gratificación de hacer este nuevo y picante
+                conocimiento. Además, durante un tiempo me preocupó un temor
+                obsesivo de que si manejaba la flor libremente su floración se
+                marchitaría, el dulce encanto de la frescura la abandonaría. No sabía
+                entonces que no era una flor transitoria, sino más bien la radiante
+                semejanza de una, tallada en una gema indestructible. Además,
+                deseaba ver si me buscarías si te rehuía, pero no lo hiciste; te
                 quedaste en el aula tan quieta como tu propio pupitre y caballete. Si
                 por casualidad me encontraba contigo, pasabas a mi lado tan pronto
-                y con tan poca seÃ±al de reconocimiento como era compatible con el
-                respeto. Tu expresiÃ³n habitual en aquellos dÃ­as, Jane, era una
+                y con tan poca señal de reconocimiento como era compatible con el
+                respeto. Tu expresión habitual en aquellos días, Jane, era una
                 mirada pensativa; no abatida, pues no estabas enfermiza; pero no
-                alegre, pues tenÃ­as poca esperanza y ningÃºn placer real. Me
-                preguntaba quÃ© pensarÃ­as de mÃ­, o si alguna vez pensabas en mÃ­, y
-                resolvÃ­ averiguarlo.</p>
+                alegre, pues tenías poca esperanza y ningún placer real. Me
+                preguntaba qué pensarías de mí, o si alguna vez pensabas en mí, y
+                resolví averiguarlo.</p>
 
-                <p>Â»ReanudÃ© mi atenciÃ³n sobre ti. HabÃ­a algo de alegrÃ­a en tu mirada
-                y de cordialidad en tus modales cuando conversabas. Vi que tenÃ­as
-                un corazÃ³n social; era el aula silenciosa, era el tedio de tu vida lo
-                que te entristecÃ­a. Me permitÃ­ el deleite de ser amable contigo; la
-                amabilidad pronto despertÃ³ la emociÃ³n. Tu rostro se suavizÃ³ en
-                expresiÃ³n, tus tonos se volvieron gentiles; me gustaba que mi
+                <p>»Reanudé mi atención sobre ti. Había algo de alegría en tu mirada
+                y de cordialidad en tus modales cuando conversabas. Vi que tenías
+                un corazón social; era el aula silenciosa, era el tedio de tu vida lo
+                que te entristecía. Me permití el deleite de ser amable contigo; la
+                amabilidad pronto despertó la emoción. Tu rostro se suavizó en
+                expresión, tus tonos se volvieron gentiles; me gustaba que mi
                 nombre fuera pronunciado por tus labios con un acento agradecido y
-                feliz. SolÃ­a disfrutar de un encuentro casual contigo, Jane, en esta
-                Ã©poca. HabÃ­a una curiosa vacilaciÃ³n en tus modales. Me mirabas con
-                una ligera inquietud, una duda flotante. No sabÃ­as cuÃ¡l podrÃ­a ser mi
+                feliz. Solía disfrutar de un encuentro casual contigo, Jane, en esta
+                época. Había una curiosa vacilación en tus modales. Me mirabas con
+                una ligera inquietud, una duda flotante. No sabías cuál podría ser mi
                 capricho, si iba a hacer de amo y ser severo, o de amigo y ser
-                benigno. Ahora te tenÃ­a demasiado afecto como para simular a
-                menudo el primer capricho; y, cuando extendÃ­a mi mano
-                cordialmente, tal floraciÃ³n y luz y dicha se alzaban en tus rasgos
-                jÃ³venes y anhelantes, que a menudo me costaba mucho evitar
-                estrecharte entonces y allÃ­ contra mi corazÃ³n.</p>
+                benigno. Ahora te tenía demasiado afecto como para simular a
+                menudo el primer capricho; y, cuando extendía mi mano
+                cordialmente, tal floración y luz y dicha se alzaban en tus rasgos
+                jóvenes y anhelantes, que a menudo me costaba mucho evitar
+                estrecharte entonces y allí contra mi corazón.</p>
 
-                <p>â€”No hable mÃ¡s de aquellos dÃ­as, seÃ±or â€”lo interrumpÃ­, secando
-                furtivamente algunas lÃ¡grimas de mis ojos. Su lenguaje era una
-                tortura para mÃ­, pues sabÃ­a lo que debÃ­a hacer â€”y hacerlo prontoâ€”,
+                <p>—No hable más de aquellos días, señor —lo interrumpí, secando
+                furtivamente algunas lágrimas de mis ojos. Su lenguaje era una
+                tortura para mí, pues sabía lo que debía hacer —y hacerlo pronto—,
                 y todas estas reminiscencias y estas revelaciones de sus
-                sentimientos solo hacÃ­an mi trabajo mÃ¡s difÃ­cil.</p>
+                sentimientos solo hacían mi trabajo más difícil.</p>
 
-                <p>â€”No, Jane â€”respondiÃ³ Ã©lâ€”. Â¿QuÃ© necesidad hay de insistir en el
-                Pasado, cuando el Presente es mucho mÃ¡s seguro, el Futuro mucho
-                mÃ¡s brillante?</p>
+                <p>—No, Jane —respondió él—. ¿Qué necesidad hay de insistir en el
+                Pasado, cuando el Presente es mucho más seguro, el Futuro mucho
+                más brillante?</p>
 
-                <p>Me estremecÃ­ al oÃ­r la afirmaciÃ³n infatuada.</p>
+                <p>Me estremecí al oír la afirmación infatuada.</p>
 
-                <p>â€”Ahora ves cÃ³mo estÃ¡ el caso, Â¿no es asÃ­? â€”continuÃ³â€”. DespuÃ©s
+                <p>—Ahora ves cómo está el caso, ¿no es así? —continuó—. Después
                 de una juventud y una madurez pasadas la mitad en una miseria
-                inefable y la mitad en una lÃºgubre soledad, he encontrado por
+                inefable y la mitad en una lúgubre soledad, he encontrado por
                 primera vez lo que puedo amar de verdad: te he encontrado a ti.
-                Eres mi simpatÃ­a, mi mejor yo, mi buen Ã¡ngel. Estoy atado a ti con
-                un fuerte apego. Te creo buena, dotada, encantadora. Una pasiÃ³n
-                ferviente y solemne se ha concebido en mi corazÃ³n; se inclina hacia
+                Eres mi simpatía, mi mejor yo, mi buen ángel. Estoy atado a ti con
+                un fuerte apego. Te creo buena, dotada, encantadora. Una pasión
+                ferviente y solemne se ha concebido en mi corazón; se inclina hacia
                 ti, te atrae a mi centro y fuente de vida, envuelve mi existencia a tu
-                alrededor y, encendiÃ©ndose en una llama pura y poderosa, nos funde
-                a ti y a mÃ­ en uno.</p>
+                alrededor y, encendiéndose en una llama pura y poderosa, nos funde
+                a ti y a mí en uno.</p>
 
-                <p>Â»Fue porque sentÃ­ y supe esto que resolvÃ­ casarme contigo.
-                Decirme que ya tenÃ­a una esposa es una burla vacÃ­a. Sabes ahora
-                que no tenÃ­a mÃ¡s que un demonio espantoso. Me equivoquÃ© al
-                intentar engaÃ±arte; pero temÃ­a una terquedad que existe en tu
-                carÃ¡cter. TemÃ­a un prejuicio inculcado desde temprano. QuerÃ­a
+                <p>»Fue porque sentí y supe esto que resolví casarme contigo.
+                Decirme que ya tenía una esposa es una burla vacía. Sabes ahora
+                que no tenía más que un demonio espantoso. Me equivoqué al
+                intentar engañarte; pero temía una terquedad que existe en tu
+                carácter. Temía un prejuicio inculcado desde temprano. Quería
                 tenerte a salvo antes de arriesgar confidencias. Esto fue cobarde.
-                DeberÃ­a haber apelado a tu nobleza y magnanimidad desde el
+                Debería haber apelado a tu nobleza y magnanimidad desde el
                 principio, como lo hago ahora; haberte abierto claramente mi vida
-                de agonÃ­a, haberte descrito mi hambre y sed de una existencia mÃ¡s
-                alta y digna, haberte mostrado, no mi resoluciÃ³n (esa palabra es
-                dÃ©bil), sino mi irresistible inclinaciÃ³n a amar fielmente y bien, donde
-                soy fielmente y bien amado a cambio. Entonces te habrÃ­a pedido que
+                de agonía, haberte descrito mi hambre y sed de una existencia más
+                alta y digna, haberte mostrado, no mi resolución (esa palabra es
+                débil), sino mi irresistible inclinación a amar fielmente y bien, donde
+                soy fielmente y bien amado a cambio. Entonces te habría pedido que
                 aceptaras mi promesa de fidelidad y que me dieras la tuya. Jane,
-                dÃ¡mela ahora.</p>
+                dámela ahora.</p>
 
                 <p>Una pausa.</p>
 
-                <p>â€”Â¿Por quÃ© estÃ¡s en silencio, Jane?</p>
+                <p>—¿Por qué estás en silencio, Jane?</p>
 
                 <p>Estaba experimentando una prueba. Una mano de hierro ardiente
-                atenazaba mis entraÃ±as. Momento terrible, Â¡lleno de lucha, negrura,
-                ardor! NingÃºn ser humano que haya vivido jamÃ¡s podrÃ­a desear ser
-                amado mejor de lo que yo era amada; y a aquel que asÃ­ me amaba,
-                yo lo adoraba absolutamente. Y debÃ­a renunciar al amor y al Ã­dolo.
-                Una sola palabra lÃºgubre comprendÃ­a mi intolerable deber:
-                Â«Â¡Partir!Â».</p>
+                atenazaba mis entrañas. Momento terrible, ¡lleno de lucha, negrura,
+                ardor! Ningún ser humano que haya vivido jamás podría desear ser
+                amado mejor de lo que yo era amada; y a aquel que así me amaba,
+                yo lo adoraba absolutamente. Y debía renunciar al amor y al ídolo.
+                Una sola palabra lúgubre comprendía mi intolerable deber:
+                «¡Partir!».</p>
 
-                <p>â€”Jane, Â¿entiendes lo que quiero de ti? Solo esta promesa: â€œSerÃ©
-                tuya, seÃ±or Rochesterâ€.</p>
+                <p>—Jane, ¿entiendes lo que quiero de ti? Solo esta promesa: “Seré
+                tuya, señor Rochester”.</p>
 
-                <p>â€”SeÃ±or Rochester, no serÃ© suya.</p>
+                <p>—Señor Rochester, no seré suya.</p>
 
                 <p>Otro largo silencio.</p>
 
-                <p>â€”Â¡Jane! â€”reanudÃ³, con una dulzura que me quebrÃ³ de dolor y
-                me dejÃ³ helada de terror ominoso, pues esta voz queda era el jadear
-                de un leÃ³n que se alzabaâ€”. Jane, Â¿quieres decir que irÃ¡s por un
-                camino en el mundo y me dejarÃ¡s ir a mÃ­ por otro?</p>
+                <p>—¡Jane! —reanudó, con una dulzura que me quebró de dolor y
+                me dejó helada de terror ominoso, pues esta voz queda era el jadear
+                de un león que se alzaba—. Jane, ¿quieres decir que irás por un
+                camino en el mundo y me dejarás ir a mí por otro?</p>
 
-                <p>â€”SÃ­.</p>
+                <p>—Sí.</p>
 
-                <p>â€”Jane (inclinÃ¡ndose y abrazÃ¡ndome), Â¿lo dices en serio ahora?</p>
+                <p>—Jane (inclinándose y abrazándome), ¿lo dices en serio ahora?</p>
 
-                <p>â€”SÃ­.</p>
+                <p>—Sí.</p>
 
-                <p>â€”Â¿Y ahora? â€”besando suavemente mi frente y mi mejilla.</p>
+                <p>—¿Y ahora? —besando suavemente mi frente y mi mejilla.</p>
 
-                <p>â€”SÃ­ â€”liberÃ¡ndome de la sujeciÃ³n rÃ¡pida y completamente.</p>
+                <p>—Sí —liberándome de la sujeción rápida y completamente.</p>
 
-                <p>â€”Â¡Oh, Jane, esto es amargo! Esto... esto es malvado. No serÃ­a
+                <p>—¡Oh, Jane, esto es amargo! Esto... esto es malvado. No sería
                 malvado amarme.</p>
 
-                <p>â€”Lo serÃ­a obedecerle.</p>
+                <p>—Lo sería obedecerle.</p>
 
-                <p>Una mirada salvaje alzÃ³ sus cejas, cruzÃ³ sus rasgos. Se levantÃ³,
-                pero aÃºn se contuvo. ApoyÃ© mi mano en el respaldo de una silla
-                para sostenerme. TemblÃ©, temÃ­, pero resolvÃ­.</p>
+                <p>Una mirada salvaje alzó sus cejas, cruzó sus rasgos. Se levantó,
+                pero aún se contuvo. Apoyé mi mano en el respaldo de una silla
+                para sostenerme. Temblé, temí, pero resolví.</p>
 
-                <p>â€”Un instante, Jane. Echa un vistazo a mi horrible vida cuando te
-                hayas ido. Toda la felicidad serÃ¡ arrancada contigo. Â¿QuÃ© queda
-                entonces? Por esposa no tengo mÃ¡s que a la manÃ­aca de arriba; lo
-                mismo podrÃ­as remitirme a algÃºn cadÃ¡ver en el cementerio de allÃ¡.
-                Â¿QuÃ© harÃ©, Jane? Â¿AdÃ³nde recurrir en busca de una compaÃ±era y de
+                <p>—Un instante, Jane. Echa un vistazo a mi horrible vida cuando te
+                hayas ido. Toda la felicidad será arrancada contigo. ¿Qué queda
+                entonces? Por esposa no tengo más que a la maníaca de arriba; lo
+                mismo podrías remitirme a algún cadáver en el cementerio de allá.
+                ¿Qué haré, Jane? ¿Adónde recurrir en busca de una compañera y de
                 alguna esperanza?</p>
 
-                <p>â€”Haga lo que yo: confÃ­e en Dios y en usted mismo. Crea en el
-                cielo. Espere encontrarnos de nuevo allÃ­.</p>
+                <p>—Haga lo que yo: confíe en Dios y en usted mismo. Crea en el
+                cielo. Espere encontrarnos de nuevo allí.</p>
 
-                <p>â€”Â¿Entonces no cederÃ¡s?</p>
+                <p>—¿Entonces no cederás?</p>
 
-                <p>â€”No.</p>
+                <p>—No.</p>
 
-                <p>â€”Â¿Entonces me condenas a vivir desdichado y a morir maldito? â€”
-                Su voz se alzÃ³.</p>
+                <p>—¿Entonces me condenas a vivir desdichado y a morir maldito? —
+                Su voz se alzó.</p>
 
-                <p>â€”Le aconsejo que viva sin pecado y le deseo que muera tranquilo.</p>
+                <p>—Le aconsejo que viva sin pecado y le deseo que muera tranquilo.</p>
 
-                <p>â€”Â¿Entonces me arrebatas el amor y la inocencia? Â¿Me arrojas de
-                nuevo a la lujuria por pasiÃ³n, al vicio por ocupaciÃ³n?</p>
+                <p>—¿Entonces me arrebatas el amor y la inocencia? ¿Me arrojas de
+                nuevo a la lujuria por pasión, al vicio por ocupación?</p>
 
-                <p>â€”SeÃ±or Rochester, no le asigno este destino mÃ¡s de lo que lo
-                anhelo para mÃ­ misma. Nacimos para luchar y soportar, usted tanto
-                como yo. HÃ¡galo. Me olvidarÃ¡ antes de que yo lo olvide a usted.</p>
+                <p>—Señor Rochester, no le asigno este destino más de lo que lo
+                anhelo para mí misma. Nacimos para luchar y soportar, usted tanto
+                como yo. Hágalo. Me olvidará antes de que yo lo olvide a usted.</p>
 
-                <p>â€”Me haces un mentiroso con tal lenguaje. Manchas mi honor.
-                DeclarÃ© que no podÃ­a cambiar; me dices a la cara que cambiarÃ©
-                pronto. Â¡Y quÃ© distorsiÃ³n en tu juicio, quÃ© perversidad en tus ideas,
-                demuestra tu conducta! Â¿Es mejor llevar a una criatura semejante a
-                la desesperaciÃ³n que transgredir una mera ley humana, sin que
-                nadie resulte herido por la infracciÃ³n? Pues no tienes ni parientes ni
+                <p>—Me haces un mentiroso con tal lenguaje. Manchas mi honor.
+                Declaré que no podía cambiar; me dices a la cara que cambiaré
+                pronto. ¡Y qué distorsión en tu juicio, qué perversidad en tus ideas,
+                demuestra tu conducta! ¿Es mejor llevar a una criatura semejante a
+                la desesperación que transgredir una mera ley humana, sin que
+                nadie resulte herido por la infracción? Pues no tienes ni parientes ni
                 conocidos a quienes debas temer ofender viviendo conmigo.</p>
 
-                <p>Esto era cierto; y mientras Ã©l hablaba, mi propia conciencia y
-                razÃ³n se volvieron traidoras contra mÃ­ y me acusaron de crimen al
+                <p>Esto era cierto; y mientras él hablaba, mi propia conciencia y
+                razón se volvieron traidoras contra mí y me acusaron de crimen al
                 resistirle. Hablaron casi tan alto como el Sentimiento, y este clamaba
-                salvajemente. Â«Â¡Oh, cede!Â», decÃ­a. Â«Piensa en su miseria; piensa en
+                salvajemente. «¡Oh, cede!», decía. «Piensa en su miseria; piensa en
                 su peligro; mira su estado cuando se quede solo; recuerda su
                 naturaleza impetuosa; considera la temeridad que sigue a la
-                desesperaciÃ³n; cÃ¡lmalo; sÃ¡lvalo; Ã¡malo; dile que lo amas y que serÃ¡s
-                suya. Â¿A quiÃ©n en el mundo le importas tÃº? Â¿O quiÃ©n resultarÃ¡
-                herido por lo que hagas?Â».</p>
+                desesperación; cálmalo; sálvalo; ámalo; dile que lo amas y que serás
+                suya. ¿A quién en el mundo le importas tú? ¿O quién resultará
+                herido por lo que hagas?».</p>
 
-                <p>Aun asÃ­, indomable fue la respuesta: Â«Yo me importo. Cuanto mÃ¡s
-                solitaria, mÃ¡s sin amigos, mÃ¡s desamparada estoy, mÃ¡s me
-                respetarÃ© a mÃ­ misma. GuardarÃ© la ley dada por Dios, sancionada
-                por el hombre. Me atendrÃ© a los principios que recibÃ­ cuando estaba
+                <p>Aun así, indomable fue la respuesta: «Yo me importo. Cuanto más
+                solitaria, más sin amigos, más desamparada estoy, más me
+                respetaré a mí misma. Guardaré la ley dada por Dios, sancionada
+                por el hombre. Me atendré a los principios que recibí cuando estaba
                 cuerda y no loca, como lo estoy ahora. Las leyes y los principios no
-                son para los tiempos en que no hay tentaciÃ³n; son para momentos
-                como este, cuando el cuerpo y el alma se levantan en motÃ­n contra
-                su rigor. Estrictos son; inviolables serÃ¡n. Si por mi conveniencia
-                individual pudiera romperlos, Â¿quÃ© valor tendrÃ­an? Tienen un valor,
-                asÃ­ lo he creÃ­do siempre; y si no puedo creerlo ahora, es porque
+                son para los tiempos en que no hay tentación; son para momentos
+                como este, cuando el cuerpo y el alma se levantan en motín contra
+                su rigor. Estrictos son; inviolables serán. Si por mi conveniencia
+                individual pudiera romperlos, ¿qué valor tendrían? Tienen un valor,
+                así lo he creído siempre; y si no puedo creerlo ahora, es porque
                 estoy loca, completamente loca, con mis venas corriendo fuego y mi
-                corazÃ³n latiendo mÃ¡s rÃ¡pido de lo que puedo contar sus latidos.
+                corazón latiendo más rápido de lo que puedo contar sus latidos.
                 Opiniones preconcebidas, determinaciones anteriores, es todo lo que
-                tengo en esta hora para sostenerme. AhÃ­ planto mi pieÂ».</p>
+                tengo en esta hora para sostenerme. Ahí planto mi pie».</p>
 
-                <p>Lo hice. El seÃ±or Rochester, leyendo mi semblante, vio que lo
-                habÃ­a hecho. Su furia se exacerbÃ³ al mÃ¡ximo. DebÃ­a ceder a ella por
-                un momento, pasara lo que pasara; cruzÃ³ el suelo, me agarrÃ³ del
-                brazo y me ciÃ±Ã³ la cintura. ParecÃ­a devorarme con su mirada
-                llameante. FÃ­sicamente, me sentÃ­, en ese momento, impotente como
+                <p>Lo hice. El señor Rochester, leyendo mi semblante, vio que lo
+                había hecho. Su furia se exacerbó al máximo. Debía ceder a ella por
+                un momento, pasara lo que pasara; cruzó el suelo, me agarró del
+                brazo y me ciñó la cintura. Parecía devorarme con su mirada
+                llameante. Físicamente, me sentí, en ese momento, impotente como
                 la paja expuesta a la corriente y al resplandor de un horno;
-                mentalmente, todavÃ­a poseÃ­a mi alma, y con ella la certeza de la
-                seguridad final. El alma, afortunadamente, tiene un intÃ©rprete â€”a
-                menudo inconsciente, pero aun asÃ­ verazâ€” en el ojo. Mi ojo se alzÃ³
+                mentalmente, todavía poseía mi alma, y con ella la certeza de la
+                seguridad final. El alma, afortunadamente, tiene un intérprete —a
+                menudo inconsciente, pero aun así veraz— en el ojo. Mi ojo se alzó
                 al suyo; y mientras miraba su rostro fiero, di un suspiro involuntario;
                 su agarre era doloroso y mi fuerza sobrecargada casi agotada.</p>
 
-                <p>â€”Nunca â€”dijo, mientras apretaba los dientesâ€”, nunca hubo nada
-                a la vez tan frÃ¡gil y tan indomable. Â¡Una mera caÃ±a se siente en mi
-                mano! (Y me sacudiÃ³ con la fuerza de su agarre). PodrÃ­a doblarla
-                con mi pulgar y mi Ã­ndice. Â¿Y de quÃ© servirÃ­a si la doblara, si la
+                <p>—Nunca —dijo, mientras apretaba los dientes—, nunca hubo nada
+                a la vez tan frágil y tan indomable. ¡Una mera caña se siente en mi
+                mano! (Y me sacudió con la fuerza de su agarre). Podría doblarla
+                con mi pulgar y mi índice. ¿Y de qué serviría si la doblara, si la
                 arrancara, si la aplastara? Considera ese ojo. Considera la cosa
-                resuelta, salvaje, libre que mira desde Ã©l, desafiÃ¡ndome, con mÃ¡s
+                resuelta, salvaje, libre que mira desde él, desafiándome, con más
                 que valor, con un triunfo severo. Haga lo que haga con su jaula, no
-                puedo alcanzarla, Â¡la criatura salvaje y hermosa! Si desgarro, si
-                rompo la ligera prisiÃ³n, mi ultraje solo dejarÃ¡ libre a la cautiva.
-                Conquistador podrÃ­a ser de la casa, pero la interna escaparÃ­a al cielo
+                puedo alcanzarla, ¡la criatura salvaje y hermosa! Si desgarro, si
+                rompo la ligera prisión, mi ultraje solo dejará libre a la cautiva.
+                Conquistador podría ser de la casa, pero la interna escaparía al cielo
                 antes de que pudiera llamarme poseedor de su morada de barro. Y
-                eres tÃº, espÃ­ritu, con voluntad y energÃ­a, y virtud y pureza, lo que
-                quiero; no solo tu frÃ¡gil cuerpo. Por ti misma podrÃ­as venir con suave
-                vuelo y anidar contra mi corazÃ³n, si quisieras. Agarrada contra tu
-                voluntad, eludirÃ¡s el agarre como una esencia, te desvanecerÃ¡s
-                antes de que inhale tu fragancia. Â¡Oh, ven, Jane, ven!</p>
+                eres tú, espíritu, con voluntad y energía, y virtud y pureza, lo que
+                quiero; no solo tu frágil cuerpo. Por ti misma podrías venir con suave
+                vuelo y anidar contra mi corazón, si quisieras. Agarrada contra tu
+                voluntad, eludirás el agarre como una esencia, te desvanecerás
+                antes de que inhale tu fragancia. ¡Oh, ven, Jane, ven!</p>
 
-                <p>Al decir esto, me soltÃ³ de su agarre y solo me mirÃ³. La mirada era
-                mucho peor de resistir que la tensiÃ³n frenÃ©tica. Solo un idiota, sin
-                embargo, habrÃ­a sucumbido ahora. HabÃ­a desafiado y burlado su
-                furia; debÃ­a eludir su dolor. Me retirÃ© hacia la puerta.</p>
+                <p>Al decir esto, me soltó de su agarre y solo me miró. La mirada era
+                mucho peor de resistir que la tensión frenética. Solo un idiota, sin
+                embargo, habría sucumbido ahora. Había desafiado y burlado su
+                furia; debía eludir su dolor. Me retiré hacia la puerta.</p>
 
-                <p>â€”Â¿Te vas, Jane?</p>
+                <p>—¿Te vas, Jane?</p>
 
-                <p>â€”Me voy, seÃ±or.</p>
+                <p>—Me voy, señor.</p>
 
-                <p>â€”Â¿Me dejas?</p>
+                <p>—¿Me dejas?</p>
 
-                <p>â€”SÃ­.</p>
+                <p>—Sí.</p>
 
-                <p>â€”Â¿No vendrÃ¡s? Â¿No serÃ¡s mi consoladora, mi salvadora? Â¿Mi
-                profundo amor, mi salvaje aflicciÃ³n, mi frenÃ©tica plegaria, no son
+                <p>—¿No vendrás? ¿No serás mi consoladora, mi salvadora? ¿Mi
+                profundo amor, mi salvaje aflicción, mi frenética plegaria, no son
                 nada para ti?</p>
 
-                <p>Â¡QuÃ© pathos inefable habÃ­a en su voz! Â¡QuÃ© difÃ­cil era reiterar
-                firmemente: Â«Me voyÂ».</p>
+                <p>¡Qué pathos inefable había en su voz! ¡Qué difícil era reiterar
+                firmemente: «Me voy».</p>
 
-                <p>â€”Â¡Jane!</p>
+                <p>—¡Jane!</p>
 
-                <p>â€”Â¡SeÃ±or Rochester!</p>
+                <p>—¡Señor Rochester!</p>
 
-                <p>â€”RetÃ­rate, entonces, consiento; pero recuerda que me dejas aquÃ­
-                en la angustia. Sube a tu propia habitaciÃ³n; piensa en todo lo que
-                he dicho y, Jane, echa un vistazo a mis sufrimientos, piensa en mÃ­.</p>
+                <p>—Retírate, entonces, consiento; pero recuerda que me dejas aquí
+                en la angustia. Sube a tu propia habitación; piensa en todo lo que
+                he dicho y, Jane, echa un vistazo a mis sufrimientos, piensa en mí.</p>
 
-                <p>Se dio la vuelta; se arrojÃ³ de bruces en el sofÃ¡.</p>
+                <p>Se dio la vuelta; se arrojó de bruces en el sofá.</p>
 
-                <p>â€”Â¡Oh, Jane! Â¡Mi esperanza, mi amor, mi vida! â€”brotÃ³ en angustia
+                <p>—¡Oh, Jane! ¡Mi esperanza, mi amor, mi vida! —brotó en angustia
                 de sus labios. Luego vino un sollozo profundo y fuerte.</p>
 
-                <p>Ya habÃ­a llegado a la puerta; pero, lector, volvÃ­ sobre mis pasos,
-                volvÃ­ tan decididamente como me habÃ­a retirado. Me arrodillÃ© a su
-                lado; volvÃ­ su rostro del cojÃ­n hacia mÃ­; le besÃ© la mejilla; le alisÃ© el
+                <p>Ya había llegado a la puerta; pero, lector, volví sobre mis pasos,
+                volví tan decididamente como me había retirado. Me arrodillé a su
+                lado; volví su rostro del cojín hacia mí; le besé la mejilla; le alisé el
                 pelo con mi mano.</p>
 
-                <p>â€”Â¡Que Dios lo bendiga, mi querido amo! â€”dijeâ€”. Â¡Que Dios lo
-                guarde del daÃ±o y del mal, lo dirija, lo consuele, lo recompense bien
+                <p>—¡Que Dios lo bendiga, mi querido amo! —dije—. ¡Que Dios lo
+                guarde del daño y del mal, lo dirija, lo consuele, lo recompense bien
                 por su pasada amabilidad conmigo!</p>
 
-                <p>â€”El amor de la pequeÃ±a Jane habrÃ­a sido mi mejor recompensa â€”
-                respondiÃ³â€”. Sin Ã©l, mi corazÃ³n estÃ¡ roto. Pero Jane me darÃ¡ su
-                amor. SÃ­, noblemente, generosamente.</p>
+                <p>—El amor de la pequeña Jane habría sido mi mejor recompensa —
+                respondió—. Sin él, mi corazón está roto. Pero Jane me dará su
+                amor. Sí, noblemente, generosamente.</p>
 
-                <p>La sangre subiÃ³ a su rostro; el fuego brotÃ³ de sus ojos; se irguiÃ³
-                de un salto; extendiÃ³ los brazos. Pero evadÃ­ el abrazo y abandonÃ© la
-                habitaciÃ³n de inmediato.</p>
+                <p>La sangre subió a su rostro; el fuego brotó de sus ojos; se irguió
+                de un salto; extendió los brazos. Pero evadí el abrazo y abandoné la
+                habitación de inmediato.</p>
 
-                <p>â€”Â¡AdiÃ³s! â€”fue el grito de mi corazÃ³n al dejarlo. La desesperaciÃ³n
-                aÃ±adiÃ³: Â«Â¡AdiÃ³s para siempre!Â».</p>
+                <p>—¡Adiós! —fue el grito de mi corazón al dejarlo. La desesperación
+                añadió: «¡Adiós para siempre!».</p>
 
-                <p>Aquella noche nunca pensÃ© en dormir; pero un sopor cayÃ³ sobre
-                mÃ­ tan pronto como me acostÃ© en la cama. Fui transportada en
-                pensamiento a las escenas de la infancia. SoÃ±Ã© que yacÃ­a en el
+                <p>Aquella noche nunca pensé en dormir; pero un sopor cayó sobre
+                mí tan pronto como me acosté en la cama. Fui transportada en
+                pensamiento a las escenas de la infancia. Soñé que yacía en el
                 cuarto rojo de Gateshead; que la noche era oscura y mi mente
-                estaba impresionada por extraÃ±os temores. La luz que hace mucho
-                tiempo me habÃ­a provocado un sÃ­ncope, recordada en esta visiÃ³n,
-                parecÃ­a deslizarse por la pared y detenerse temblorosamente en el
-                centro del techo oscurecido. LevantÃ© la cabeza para mirar: el techo
-                se resolviÃ³ en nubes, altas y tenues; el resplandor era como el que
-                la luna imparte a los vapores que estÃ¡ a punto de separar. La
-                observÃ© venir, observÃ© con la mÃ¡s extraÃ±a anticipaciÃ³n, como si
-                alguna palabra de perdiciÃ³n fuera a ser escrita en su disco. IrrumpiÃ³
-                como ninguna luna ha irrumpido jamÃ¡s de una nube. Una mano
-                penetrÃ³ primero los pliegues oscuros y los apartÃ³; luego, no una
-                luna, sino una forma humana blanca brillÃ³ en el azul celeste,
-                inclinando una gloriosa frente hacia la tierra. Me mirÃ³ y me mirÃ³.
-                HablÃ³ a mi espÃ­ritu; inconmensurablemente distante era el tono,
-                pero tan cercano que susurrÃ³ en mi corazÃ³n:</p>
+                estaba impresionada por extraños temores. La luz que hace mucho
+                tiempo me había provocado un síncope, recordada en esta visión,
+                parecía deslizarse por la pared y detenerse temblorosamente en el
+                centro del techo oscurecido. Levanté la cabeza para mirar: el techo
+                se resolvió en nubes, altas y tenues; el resplandor era como el que
+                la luna imparte a los vapores que está a punto de separar. La
+                observé venir, observé con la más extraña anticipación, como si
+                alguna palabra de perdición fuera a ser escrita en su disco. Irrumpió
+                como ninguna luna ha irrumpido jamás de una nube. Una mano
+                penetró primero los pliegues oscuros y los apartó; luego, no una
+                luna, sino una forma humana blanca brilló en el azul celeste,
+                inclinando una gloriosa frente hacia la tierra. Me miró y me miró.
+                Habló a mi espíritu; inconmensurablemente distante era el tono,
+                pero tan cercano que susurró en mi corazón:</p>
 
-                <p>â€”Hija mÃ­a, huye de la tentaciÃ³n.</p>
+                <p>—Hija mía, huye de la tentación.</p>
 
-                <p>â€”Madre, lo harÃ©.</p>
+                <p>—Madre, lo haré.</p>
 
-                <p>AsÃ­ respondÃ­ despuÃ©s de haber despertado del sueÃ±o como un
-                trance. TodavÃ­a era de noche, pero las noches de julio son cortas;
-                poco despuÃ©s de la medianoche llega el alba. Â«No puede ser
+                <p>Así respondí después de haber despertado del sueño como un
+                trance. Todavía era de noche, pero las noches de julio son cortas;
+                poco después de la medianoche llega el alba. «No puede ser
                 demasiado temprano para comenzar la tarea que tengo que
-                cumplirÂ», pensÃ©. Me levantÃ©. Estaba vestida, pues no me habÃ­a
-                quitado mÃ¡s que los zapatos. SabÃ­a dÃ³nde encontrar en mis cajones
-                algo de lino, un guardapelo, un anillo. Al buscar estos artÃ­culos, me
-                encontrÃ© con las cuentas de un collar de perlas que el seÃ±or
-                Rochester me habÃ­a obligado a aceptar unos dÃ­as antes. Lo dejÃ©; no
-                era mÃ­o. Era de la novia visionaria que se habÃ­a desvanecido en el
-                aire. Los otros artÃ­culos los hice un paquete; mi monedero, que
-                contenÃ­a veinte chelines (era todo lo que tenÃ­a), lo metÃ­ en mi
-                bolsillo. Me atÃ© el sombrero de paja, me prendÃ­ el chal, tomÃ© el
-                paquete y mis zapatillas, que aÃºn no me pondrÃ­a, y salÃ­
-                sigilosamente de mi habitaciÃ³n.</p>
+                cumplir», pensé. Me levanté. Estaba vestida, pues no me había
+                quitado más que los zapatos. Sabía dónde encontrar en mis cajones
+                algo de lino, un guardapelo, un anillo. Al buscar estos artículos, me
+                encontré con las cuentas de un collar de perlas que el señor
+                Rochester me había obligado a aceptar unos días antes. Lo dejé; no
+                era mío. Era de la novia visionaria que se había desvanecido en el
+                aire. Los otros artículos los hice un paquete; mi monedero, que
+                contenía veinte chelines (era todo lo que tenía), lo metí en mi
+                bolsillo. Me até el sombrero de paja, me prendí el chal, tomé el
+                paquete y mis zapatillas, que aún no me pondría, y salí
+                sigilosamente de mi habitación.</p>
 
-                <p>â€”Â¡AdiÃ³s, amable seÃ±ora Fairfax! â€”susurrÃ©, al pasar sigilosamente por su puerta.</p>
+                <p>—¡Adiós, amable señora Fairfax! —susurré, al pasar sigilosamente por su puerta.</p>
 
-                <p>â€”Â¡AdiÃ³s, mi querida AdÃ¨le! â€”dije, al echar un vistazo hacia el
-                cuarto de los niÃ±os. No podÃ­a admitirse la idea de entrar a abrazarla.
-                TenÃ­a que engaÃ±ar a un oÃ­do fino; por lo que sabÃ­a, podrÃ­a estar
+                <p>—¡Adiós, mi querida Adèle! —dije, al echar un vistazo hacia el
+                cuarto de los niños. No podía admitirse la idea de entrar a abrazarla.
+                Tenía que engañar a un oído fino; por lo que sabía, podría estar
                 escuchando ahora.</p>
 
-                <p>HabrÃ­a pasado por la cÃ¡mara del seÃ±or Rochester sin una pausa;
-                pero mi corazÃ³n, deteniendo momentÃ¡neamente su latido en ese
-                umbral, obligÃ³ a mi pie a detenerse tambiÃ©n. No habÃ­a sueÃ±o allÃ­. El
+                <p>Habría pasado por la cámara del señor Rochester sin una pausa;
+                pero mi corazón, deteniendo momentáneamente su latido en ese
+                umbral, obligó a mi pie a detenerse también. No había sueño allí. El
                 inquilino caminaba inquieto de pared a pared; y una y otra vez
-                suspiraba mientras yo escuchaba. HabÃ­a un cielo â€”un cielo temporal
-                â€” en esta habitaciÃ³n para mÃ­, si asÃ­ lo elegÃ­a. Solo tenÃ­a que entrar y
+                suspiraba mientras yo escuchaba. Había un cielo —un cielo temporal
+                — en esta habitación para mí, si así lo elegía. Solo tenía que entrar y
                 decir:</p>
 
-                <p>Â«SeÃ±or Rochester, lo amarÃ© y vivirÃ© con usted a travÃ©s de la vida
-                hasta la muerteÂ», y una fuente de Ã©xtasis brotarÃ­a a mis labios.
-                PensÃ© en esto.</p>
+                <p>«Señor Rochester, lo amaré y viviré con usted a través de la vida
+                hasta la muerte», y una fuente de éxtasis brotaría a mis labios.
+                Pensé en esto.</p>
 
-                <p>Aquel amable amo, que no podÃ­a dormir ahora, esperaba con
-                impaciencia el dÃ­a. Me mandarÃ­a a buscar por la maÃ±ana; yo me
-                habrÃ­a ido. HarÃ­a que me buscaran; en vano. Se sentirÃ­a
-                abandonado; su amor, rechazado. SufrirÃ­a; quizÃ¡s se desesperarÃ­a.
-                TambiÃ©n pensÃ© en esto. Mi mano se moviÃ³ hacia la cerradura. La
-                retirÃ© y seguÃ­ adelante.</p>
+                <p>Aquel amable amo, que no podía dormir ahora, esperaba con
+                impaciencia el día. Me mandaría a buscar por la mañana; yo me
+                habría ido. Haría que me buscaran; en vano. Se sentiría
+                abandonado; su amor, rechazado. Sufriría; quizás se desesperaría.
+                También pensé en esto. Mi mano se movió hacia la cerradura. La
+                retiré y seguí adelante.</p>
 
-                <p>LÃºgubremente bajÃ© las escaleras. SabÃ­a lo que tenÃ­a que hacer y
-                lo hice mecÃ¡nicamente. BusquÃ© la llave de la puerta lateral en la
-                cocina; busquÃ© tambiÃ©n un frasco de aceite y una pluma; aceitÃ© la
-                llave y la cerradura. ConseguÃ­ un poco de agua, conseguÃ­ un poco de
-                pan, pues quizÃ¡s tendrÃ­a que caminar mucho; y mis fuerzas, muy
-                debilitadas Ãºltimamente, no debÃ­an fallar. Todo esto lo hice sin un
-                solo sonido. AbrÃ­ la puerta, salÃ­, la cerrÃ© suavemente. El alba tenue
+                <p>Lúgubremente bajé las escaleras. Sabía lo que tenía que hacer y
+                lo hice mecánicamente. Busqué la llave de la puerta lateral en la
+                cocina; busqué también un frasco de aceite y una pluma; aceité la
+                llave y la cerradura. Conseguí un poco de agua, conseguí un poco de
+                pan, pues quizás tendría que caminar mucho; y mis fuerzas, muy
+                debilitadas últimamente, no debían fallar. Todo esto lo hice sin un
+                solo sonido. Abrí la puerta, salí, la cerré suavemente. El alba tenue
                 brillaba en el patio. Las grandes verjas estaban cerradas y con llave;
                 pero un postigo en una de ellas solo estaba cerrado con el pestillo.
-                Por allÃ­ partÃ­. TambiÃ©n lo cerrÃ©; y ahora estaba fuera de Thornfield.</p>
+                Por allí partí. También lo cerré; y ahora estaba fuera de Thornfield.</p>
 
-                <p>A una milla de distancia, mÃ¡s allÃ¡ de los campos, habÃ­a un camino
-                que se extendÃ­a en direcciÃ³n contraria a Millcote; un camino que
-                nunca habÃ­a recorrido, pero que a menudo habÃ­a observado,
-                preguntÃ¡ndome adÃ³nde conducÃ­a. Hacia allÃ­ dirigÃ­ mis pasos. No
-                debÃ­a permitirse ahora ninguna reflexiÃ³n; no debÃ­a lanzarse ni una
-                sola mirada hacia atrÃ¡s; ni siquiera una hacia adelante. No debÃ­a
+                <p>A una milla de distancia, más allá de los campos, había un camino
+                que se extendía en dirección contraria a Millcote; un camino que
+                nunca había recorrido, pero que a menudo había observado,
+                preguntándome adónde conducía. Hacia allí dirigí mis pasos. No
+                debía permitirse ahora ninguna reflexión; no debía lanzarse ni una
+                sola mirada hacia atrás; ni siquiera una hacia adelante. No debía
                 dedicarse ni un solo pensamiento ni al pasado ni al futuro. El
-                primero era una pÃ¡gina tan celestialmente dulce, tan mortalmente
-                triste, que leer una sola lÃ­nea de ella disolverÃ­a mi valor y quebrarÃ­a
-                mi energÃ­a. El Ãºltimo era un espantoso vacÃ­o, algo asÃ­ como el
-                mundo cuando el diluvio habÃ­a pasado.</p>
+                primero era una página tan celestialmente dulce, tan mortalmente
+                triste, que leer una sola línea de ella disolvería mi valor y quebraría
+                mi energía. El último era un espantoso vacío, algo así como el
+                mundo cuando el diluvio había pasado.</p>
 
-                <p>BordeÃ© campos, y setos, y senderos hasta despuÃ©s del amanecer.
-                Creo que era una hermosa maÃ±ana de verano. SÃ© que mis zapatos,
-                que me habÃ­a puesto al salir de la casa, pronto se mojaron de rocÃ­o.
-                Pero no mirÃ© ni al sol naciente, ni al cielo sonriente, ni a la
+                <p>Bordeé campos, y setos, y senderos hasta después del amanecer.
+                Creo que era una hermosa mañana de verano. Sé que mis zapatos,
+                que me había puesto al salir de la casa, pronto se mojaron de rocío.
+                Pero no miré ni al sol naciente, ni al cielo sonriente, ni a la
                 naturaleza que despertaba. Aquel que es sacado para pasar por una
-                hermosa escena hacia el cadalso no piensa en las flores que sonrÃ­en
+                hermosa escena hacia el cadalso no piensa en las flores que sonríen
                 en su camino, sino en el tajo y el filo del hacha; en el
                 desmembramiento de hueso y vena; en la tumba abierta al final. Y
-                yo pensÃ© en la lÃºgubre huida y en el vagar sin hogar, y, Â¡oh!, con
-                agonÃ­a pensÃ© en lo que dejaba. No pude evitarlo. PensÃ© en Ã©l ahora,
-                en su habitaciÃ³n, observando el amanecer; esperando que pronto
-                fuera a decir que me quedarÃ­a con Ã©l y serÃ­a suya. Ansiaba ser suya;
-                jadeaba por volver. No era demasiado tarde; aÃºn podÃ­a ahorrarle la
+                yo pensé en la lúgubre huida y en el vagar sin hogar, y, ¡oh!, con
+                agonía pensé en lo que dejaba. No pude evitarlo. Pensé en él ahora,
+                en su habitación, observando el amanecer; esperando que pronto
+                fuera a decir que me quedaría con él y sería suya. Ansiaba ser suya;
+                jadeaba por volver. No era demasiado tarde; aún podía ahorrarle la
                 amarga punzada del desamparo. Por ahora, mi huida, estaba segura,
-                no habÃ­a sido descubierta. PodÃ­a volver y ser su consoladora, su
-                orgullo; su redentora de la miseria, quizÃ¡s de la ruina. Â¡Oh, ese
-                miedo a su propio abandono, mucho peor que mi abandono, cÃ³mo
+                no había sido descubierta. Podía volver y ser su consoladora, su
+                orgullo; su redentora de la miseria, quizás de la ruina. ¡Oh, ese
+                miedo a su propio abandono, mucho peor que mi abandono, cómo
                 me acuciaba! Era una punta de flecha barbada en mi pecho; me
                 desgarraba cuando intentaba extraerla; me enfermaba cuando el
-                recuerdo la hundÃ­a mÃ¡s. Los pÃ¡jaros comenzaron a cantar en zarzas
-                y matorrales. Los pÃ¡jaros eran fieles a sus parejas; los pÃ¡jaros eran
-                emblemas de amor. Â¿QuÃ© era yo? En medio de mi dolor de corazÃ³n y
-                mi frenÃ©tico esfuerzo de principio, me aborrecÃ­ a mÃ­ misma. No tenÃ­a
-                consuelo de la autoaprobaciÃ³n; ni siquiera del respeto propio. HabÃ­a
+                recuerdo la hundía más. Los pájaros comenzaron a cantar en zarzas
+                y matorrales. Los pájaros eran fieles a sus parejas; los pájaros eran
+                emblemas de amor. ¿Qué era yo? En medio de mi dolor de corazón y
+                mi frenético esfuerzo de principio, me aborrecí a mí misma. No tenía
+                consuelo de la autoaprobación; ni siquiera del respeto propio. Había
                 herido, lastimado, abandonado a mi amo. Era odiosa a mis propios
-                ojos. Aun asÃ­, no podÃ­a volverme, ni retroceder un solo paso. Dios
-                debiÃ³ de guiarme. En cuanto a mi propia voluntad o conciencia, el
-                dolor apasionado habÃ­a pisoteado una y sofocado la otra. Lloraba
-                salvajemente mientras caminaba por mi solitario camino. RÃ¡pido,
-                rÃ¡pido iba como una delirante. Una debilidad, que comenzaba en mi
-                interior y se extendÃ­a a los miembros, se apoderÃ³ de mÃ­ y caÃ­. YacÃ­
-                en el suelo unos minutos, apretando mi rostro contra el cÃ©sped
-                hÃºmedo. Tuve algÃºn temor â€”o esperanzaâ€” de que aquÃ­ morirÃ­a.
-                Pero pronto me levantÃ©; arrastrÃ¡ndome hacia adelante sobre manos
+                ojos. Aun así, no podía volverme, ni retroceder un solo paso. Dios
+                debió de guiarme. En cuanto a mi propia voluntad o conciencia, el
+                dolor apasionado había pisoteado una y sofocado la otra. Lloraba
+                salvajemente mientras caminaba por mi solitario camino. Rápido,
+                rápido iba como una delirante. Una debilidad, que comenzaba en mi
+                interior y se extendía a los miembros, se apoderó de mí y caí. Yací
+                en el suelo unos minutos, apretando mi rostro contra el césped
+                húmedo. Tuve algún temor —o esperanza— de que aquí moriría.
+                Pero pronto me levanté; arrastrándome hacia adelante sobre manos
                 y rodillas, y luego de nuevo erguida, tan ansiosa y tan decidida
                 como siempre a llegar al camino.</p>
 
-                <p>Cuando lleguÃ© allÃ­, me vi obligada a sentarme a descansar bajo el
-                seto; y mientras estaba sentada, oÃ­ ruedas y vi venir una diligencia.
-                Me puse de pie y levantÃ© la mano; se detuvo. PreguntÃ© adÃ³nde iba.
-                El conductor nombrÃ³ un lugar muy lejano y donde estaba segura de
-                que el seÃ±or Rochester no tenÃ­a conexiones. Le preguntÃ© por quÃ©
-                suma me llevarÃ­a allÃ­; dijo treinta chelines; respondÃ­ que solo tenÃ­a
-                veinte. Bueno, intentarÃ­a que sirviera. AdemÃ¡s, me dio permiso para
-                subir al interior, ya que el vehÃ­culo estaba vacÃ­o. EntrÃ©, me
-                encerraron y siguiÃ³ su camino.</p>
+                <p>Cuando llegué allí, me vi obligada a sentarme a descansar bajo el
+                seto; y mientras estaba sentada, oí ruedas y vi venir una diligencia.
+                Me puse de pie y levanté la mano; se detuvo. Pregunté adónde iba.
+                El conductor nombró un lugar muy lejano y donde estaba segura de
+                que el señor Rochester no tenía conexiones. Le pregunté por qué
+                suma me llevaría allí; dijo treinta chelines; respondí que solo tenía
+                veinte. Bueno, intentaría que sirviera. Además, me dio permiso para
+                subir al interior, ya que el vehículo estaba vacío. Entré, me
+                encerraron y siguió su camino.</p>
 
-                <p>Amable lector, Â¡ojalÃ¡ nunca sientas lo que yo sentÃ­ entonces!
-                Â¡OjalÃ¡ tus ojos nunca derramen lÃ¡grimas tan tormentosas, hirvientes
-                y desgarradoras como las que brotaron de los mÃ­os! Â¡OjalÃ¡ nunca
+                <p>Amable lector, ¡ojalá nunca sientas lo que yo sentí entonces!
+                ¡Ojalá tus ojos nunca derramen lágrimas tan tormentosas, hirvientes
+                y desgarradoras como las que brotaron de los míos! ¡Ojalá nunca
                 apeles al Cielo en oraciones tan desesperadas y agonizantes como
                 las que en esa hora dejaron mis labios; pues nunca, como yo, temas
                 ser el instrumento del mal para lo que amas enteramente!</p>
 
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap26.php" rel="prev">Anterior</a>
-                    <a class="boton" href="../../contenido_eyre.php">Regresa al menÃº de capÃ­tulos</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
                     <a class="cambioSiguiente"href="cap28.php" rel="next">Siguiente</a>
                 </div>
             </section>
@@ -1298,6 +1298,7 @@
     </main>
 </body>
 </html>
+
 
 
 

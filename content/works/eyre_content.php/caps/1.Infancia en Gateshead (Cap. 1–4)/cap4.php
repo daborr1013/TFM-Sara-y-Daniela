@@ -1,9 +1,9 @@
-ï»¿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>CapÃ­tulo 4</title>
+    <title>Capítulo 4</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el capÃ­tulo 4">
+    <meta name="description" content="Este es el capítulo 4">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -27,7 +27,7 @@
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
             <li><a href="#">Asistente virtual</a></li>
-            <li><a href="../../../../tfm.php">Sobre este proyecto</a></li>
+
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
     </nav>
@@ -39,21 +39,21 @@
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="../../intro_obra.php">IntroducciÃ³n a la obra</a></li>
+                        <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contenido_eyre.php">Contenido</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../resumenes/resumenes.php">ResÃºmenes</a></li>
-                                <li><a href="../../capitulos.php">CapÃ­tulos</a></li>
+                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
+                                <li><a href="../../capitulos.php">Capítulos</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte BrontÃ«</a></li>
-                                <li><a href="contexto_historico.php">Contexto histÃ³rico</a></li>
+                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
+                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
                             </ul>
                         </li>
 
@@ -61,7 +61,7 @@
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">SÃ­mbolos</a></li>
+                                <li><a href="simbolos.php">Símbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
                                 <li><a href="mapa.php">Mapa</a></li>
@@ -82,726 +82,726 @@
             </div>
             
             <section class="contenido">>
-                <h1>CapÃ­tulo IV</h1>
+                <h1>Capítulo IV</h1>
                 
-                <p>De mi conversaciÃ³n con el seÃ±or Lloyd y de la antedicha conferencia
+                <p>De mi conversación con el señor Lloyd y de la antedicha conferencia
                 entre Bessie y Abbot, extraje la esperanza suficiente para que me
-                sirviera de motivo para desear ponerme bien: un cambio parecÃ­a
+                sirviera de motivo para desear ponerme bien: un cambio parecía
                 cercano, y lo deseaba y esperaba en silencio. Sin embargo, se
-                demorÃ³: pasaron dÃ­as y semanas. Yo habÃ­a recuperado mi estado
-                normal de salud, pero no se hizo ninguna nueva alusiÃ³n al tema
-                sobre el que yo cavilaba. La seÃ±ora Reed me examinaba a veces con
-                ojo severo, pero rara vez me dirigÃ­a la palabra. Desde mi
-                enfermedad, habÃ­a trazado una lÃ­nea de separaciÃ³n mÃ¡s marcada
-                que nunca entre sus hijos y yo; me asignÃ³ un pequeÃ±o cuartito para
-                dormir sola, me condenÃ³ a tomar mis comidas en solitario y a pasar
-                todo mi tiempo en el cuarto de los niÃ±os, mientras mis primos
-                estaban constantemente en el salÃ³n. Sin embargo, no dejÃ³ caer ni
-                una indirecta sobre enviarme a la escuela; aun asÃ­, sentÃ­a una
-                certeza instintiva de que no me soportarÃ­a mucho tiempo bajo el
-                mismo techo que ella, pues su mirada, ahora mÃ¡s que nunca,
-                cuando se posaba en mÃ­, expresaba una aversiÃ³n insuperable y
+                demoró: pasaron días y semanas. Yo había recuperado mi estado
+                normal de salud, pero no se hizo ninguna nueva alusión al tema
+                sobre el que yo cavilaba. La señora Reed me examinaba a veces con
+                ojo severo, pero rara vez me dirigía la palabra. Desde mi
+                enfermedad, había trazado una línea de separación más marcada
+                que nunca entre sus hijos y yo; me asignó un pequeño cuartito para
+                dormir sola, me condenó a tomar mis comidas en solitario y a pasar
+                todo mi tiempo en el cuarto de los niños, mientras mis primos
+                estaban constantemente en el salón. Sin embargo, no dejó caer ni
+                una indirecta sobre enviarme a la escuela; aun así, sentía una
+                certeza instintiva de que no me soportaría mucho tiempo bajo el
+                mismo techo que ella, pues su mirada, ahora más que nunca,
+                cuando se posaba en mí, expresaba una aversión insuperable y
                 arraigada.</p>
 
-                <p>Eliza y Georgiana, actuando evidentemente segÃºn Ã³rdenes, me
-                hablaban lo menos posible. John se metÃ­a la lengua en el carrillo
-                cada vez que me veÃ­a, y una vez intentÃ³ castigarme; pero como me
-                volvÃ­ instantÃ¡neamente contra Ã©l, impulsada por el mismo
-                sentimiento de profunda ira y revuelta desesperada que habÃ­a
-                agitado mi maldad antes, considerÃ³ que era mejor desistir y huyÃ³ de
-                mÃ­ profiriendo imprecaciones y jurando que le habÃ­a partido la nariz.
-                De hecho, le habÃ­a asestado en aquel prominente rasgo un golpe tan
+                <p>Eliza y Georgiana, actuando evidentemente según órdenes, me
+                hablaban lo menos posible. John se metía la lengua en el carrillo
+                cada vez que me veía, y una vez intentó castigarme; pero como me
+                volví instantáneamente contra él, impulsada por el mismo
+                sentimiento de profunda ira y revuelta desesperada que había
+                agitado mi maldad antes, consideró que era mejor desistir y huyó de
+                mí profiriendo imprecaciones y jurando que le había partido la nariz.
+                De hecho, le había asestado en aquel prominente rasgo un golpe tan
                 fuerte como mis nudillos pudieron infligir; y cuando vi que o eso o
-                mi mirada lo amedrentaba, sentÃ­ la mayor inclinaciÃ³n a aprovechar
-                mi ventaja; pero Ã©l ya estaba con su mamÃ¡. Le oÃ­ comenzar, en tono
-                lloroso, el relato de cÃ³mo Â«esa detestable Jane EyreÂ» se le habÃ­a
+                mi mirada lo amedrentaba, sentí la mayor inclinación a aprovechar
+                mi ventaja; pero él ya estaba con su mamá. Le oí comenzar, en tono
+                lloroso, el relato de cómo «esa detestable Jane Eyre» se le había
                 abalanzado como una gata rabiosa. Fue interrumpido con bastante
                 dureza:</p>
 
-                <p>â€”No me hables de ella, John. Te dije que no te acercaras; no es
-                digna de atenciÃ³n. No deseo que ni tÃº ni tus hermanas os relacionÃ©is
+                <p>—No me hables de ella, John. Te dije que no te acercaras; no es
+                digna de atención. No deseo que ni tú ni tus hermanas os relacionéis
                 con ella.</p>
 
-                <p>Entonces, inclinÃ¡ndome sobre la barandilla, gritÃ© de repente, y sin
+                <p>Entonces, inclinándome sobre la barandilla, grité de repente, y sin
                 deliberar en absoluto mis palabras:</p>
 
-                <p>â€”Â¡No son ellos los dignos de relacionarse conmigo!</p>
+                <p>—¡No son ellos los dignos de relacionarse conmigo!</p>
 
-                <p>La seÃ±ora Reed era una mujer mÃ¡s bien corpulenta; pero, al oÃ­r
-                esta extraÃ±a y audaz declaraciÃ³n, subiÃ³ Ã¡gilmente la escalera, me
-                arrastrÃ³ como un torbellino hasta el cuarto de los niÃ±os y,
-                aplastÃ¡ndome contra el borde de mi cuna, me desafiÃ³ con voz
-                enfÃ¡tica a levantarme de aquel lugar o a pronunciar una sola sÃ­laba
-                durante el resto del dÃ­a.</p>
+                <p>La señora Reed era una mujer más bien corpulenta; pero, al oír
+                esta extraña y audaz declaración, subió ágilmente la escalera, me
+                arrastró como un torbellino hasta el cuarto de los niños y,
+                aplastándome contra el borde de mi cuna, me desafió con voz
+                enfática a levantarme de aquel lugar o a pronunciar una sola sílaba
+                durante el resto del día.</p>
 
-                <p>â€”Â¿QuÃ© le dirÃ­a el tÃ­o Reed, si estuviera vivo? â€”fue mi pregunta
-                apenas voluntaria. Digo apenas voluntaria, pues parecÃ­a como si mi
+                <p>—¿Qué le diría el tío Reed, si estuviera vivo? —fue mi pregunta
+                apenas voluntaria. Digo apenas voluntaria, pues parecía como si mi
                 lengua pronunciara palabras sin que mi voluntad consintiera en su
-                emisiÃ³n; algo hablÃ³ a travÃ©s de mÃ­ sobre lo cual no tenÃ­a control.</p>
+                emisión; algo habló a través de mí sobre lo cual no tenía control.</p>
 
-                <p>â€”Â¿QuÃ©? â€”dijo la seÃ±ora Reed en voz baja. Su ojo gris,
-                habitualmente frÃ­o y sereno, se turbÃ³ con una mirada parecida al
-                miedo; retirÃ³ la mano de mi brazo y me contemplÃ³ como si
-                realmente no supiera si yo era una niÃ±a o un demonio. Ahora sÃ­ que
+                <p>—¿Qué? —dijo la señora Reed en voz baja. Su ojo gris,
+                habitualmente frío y sereno, se turbó con una mirada parecida al
+                miedo; retiró la mano de mi brazo y me contempló como si
+                realmente no supiera si yo era una niña o un demonio. Ahora sí que
                 estaba perdida.</p>
 
-                <p>â€”Mi tÃ­o Reed estÃ¡ en el cielo y puede ver todo lo que usted hace y
-                piensa; y tambiÃ©n papÃ¡ y mamÃ¡. Saben cÃ³mo me encierra usted
-                todo el dÃ­a y cÃ³mo desea que me muera.</p>
+                <p>—Mi tío Reed está en el cielo y puede ver todo lo que usted hace y
+                piensa; y también papá y mamá. Saben cómo me encierra usted
+                todo el día y cómo desea que me muera.</p>
 
-                <p>La seÃ±ora Reed pronto recobrÃ³ el Ã¡nimo: me zarandeÃ³ con todas
-                sus fuerzas, me abofeteÃ³ en ambas orejas y luego me dejÃ³ sin decir
-                palabra. Bessie llenÃ³ el hiato con un sermÃ³n de una hora de
-                duraciÃ³n, en el que demostrÃ³ sin lugar a dudas que yo era la niÃ±a
-                mÃ¡s malvada y abandonada que jamÃ¡s se habÃ­a criado bajo un
-                techo. La creÃ­ a medias, pues, en efecto, solo sentÃ­a malos
+                <p>La señora Reed pronto recobró el ánimo: me zarandeó con todas
+                sus fuerzas, me abofeteó en ambas orejas y luego me dejó sin decir
+                palabra. Bessie llenó el hiato con un sermón de una hora de
+                duración, en el que demostró sin lugar a dudas que yo era la niña
+                más malvada y abandonada que jamás se había criado bajo un
+                techo. La creí a medias, pues, en efecto, solo sentía malos
                 sentimientos agitarse en mi pecho.</p>
 
                 <p>Pasaron noviembre, diciembre y la mitad de enero. La Navidad y
-                el AÃ±o Nuevo se habÃ­an celebrado en Gateshead con la alegrÃ­a
-                festiva habitual; se habÃ­an intercambiado regalos, se habÃ­an dado
+                el Año Nuevo se habían celebrado en Gateshead con la alegría
+                festiva habitual; se habían intercambiado regalos, se habían dado
                 cenas y fiestas nocturnas.1 De todo disfrute, por supuesto, yo
-                estaba excluida: mi parte de la alegrÃ­a consistÃ­a en presenciar el
-                atavÃ­o diario de Eliza y Georgiana, y verlas descender al salÃ³n,
+                estaba excluida: mi parte de la alegría consistía en presenciar el
+                atavío diario de Eliza y Georgiana, y verlas descender al salón,
                 vestidas con finos trajes de muselina y lazos escarlata, con el pelo
-                elaboradamente rizado; y despuÃ©s, en escuchar el sonido del piano o
+                elaboradamente rizado; y después, en escuchar el sonido del piano o
                 del arpa que se tocaba abajo, el ir y venir del mayordomo y el
-                lacayo, el tintineo de copas y porcelana mientras se servÃ­an los
-                refrescos, el murmullo entrecortado de la conversaciÃ³n cuando la
-                puerta del salÃ³n se abrÃ­a y se cerraba. Cuando me cansaba de esta
-                ocupaciÃ³n, me retiraba del rellano de la escalera al solitario y
-                silencioso cuarto de los niÃ±os; allÃ­, aunque algo triste, no era
-                desdichada. A decir verdad, no tenÃ­a el menor deseo de estar en
-                compaÃ±Ã­a, pues en compaÃ±Ã­a muy rara vez se fijaban en mÃ­; y si
-                Bessie hubiera sido amable y sociable, habrÃ­a considerado un placer
+                lacayo, el tintineo de copas y porcelana mientras se servían los
+                refrescos, el murmullo entrecortado de la conversación cuando la
+                puerta del salón se abría y se cerraba. Cuando me cansaba de esta
+                ocupación, me retiraba del rellano de la escalera al solitario y
+                silencioso cuarto de los niños; allí, aunque algo triste, no era
+                desdichada. A decir verdad, no tenía el menor deseo de estar en
+                compañía, pues en compañía muy rara vez se fijaban en mí; y si
+                Bessie hubiera sido amable y sociable, habría considerado un placer
                 pasar las tardes tranquilamente con ella, en lugar de pasarlas bajo la
-                formidable mirada de la seÃ±ora Reed, en una habitaciÃ³n llena de
-                damas y caballeros. Pero Bessie, tan pronto como habÃ­a vestido a
-                sus seÃ±oritas, solÃ­a marcharse a las animadas regiones de la cocina y
-                el cuarto del ama de llaves, llevÃ¡ndose generalmente la vela consigo.
-                Entonces me sentaba con mi muÃ±eca en el regazo hasta que el
-                fuego se extinguÃ­a, mirando de vez en cuando a mi alrededor para
-                asegurarme de que nada peor que yo misma rondaba la sombrÃ­a
-                habitaciÃ³n; y cuando las brasas se reducÃ­an a un rojo apagado, me
-                desvestÃ­a apresuradamente, tirando de nudos y cordones como
-                mejor podÃ­a, y buscaba refugio del frÃ­o y la oscuridad en mi cuna. A
-                esta cuna siempre llevaba mi muÃ±eca; los seres humanos deben
-                amar algo y, a falta de objetos de afecto mÃ¡s dignos, me las ingeniÃ©
-                para encontrar placer en amar y cuidar una desvaÃ­da imagen tallada,
-                raÃ­da como un espantapÃ¡jaros en miniatura. Me desconcierta ahora
-                recordar con quÃ© absurda sinceridad adoraba este pequeÃ±o juguete,
-                imaginando a medias que estaba vivo y era capaz de sentir. No podÃ­a
-                dormir a menos que estuviera envuelto en mi camisÃ³n; y cuando
-                yacÃ­a allÃ­, seguro y cÃ¡lido, yo era comparativamente feliz, creyendo
-                que Ã©l tambiÃ©n lo era.</p>
+                formidable mirada de la señora Reed, en una habitación llena de
+                damas y caballeros. Pero Bessie, tan pronto como había vestido a
+                sus señoritas, solía marcharse a las animadas regiones de la cocina y
+                el cuarto del ama de llaves, llevándose generalmente la vela consigo.
+                Entonces me sentaba con mi muñeca en el regazo hasta que el
+                fuego se extinguía, mirando de vez en cuando a mi alrededor para
+                asegurarme de que nada peor que yo misma rondaba la sombría
+                habitación; y cuando las brasas se reducían a un rojo apagado, me
+                desvestía apresuradamente, tirando de nudos y cordones como
+                mejor podía, y buscaba refugio del frío y la oscuridad en mi cuna. A
+                esta cuna siempre llevaba mi muñeca; los seres humanos deben
+                amar algo y, a falta de objetos de afecto más dignos, me las ingenié
+                para encontrar placer en amar y cuidar una desvaída imagen tallada,
+                raída como un espantapájaros en miniatura. Me desconcierta ahora
+                recordar con qué absurda sinceridad adoraba este pequeño juguete,
+                imaginando a medias que estaba vivo y era capaz de sentir. No podía
+                dormir a menos que estuviera envuelto en mi camisón; y cuando
+                yacía allí, seguro y cálido, yo era comparativamente feliz, creyendo
+                que él también lo era.</p>
 
-                <p>Largas me parecÃ­an las horas mientras esperaba la partida de los
+                <p>Largas me parecían las horas mientras esperaba la partida de los
                 invitados y escuchaba el sonido de los pasos de Bessie en la
-                escalera. A veces subÃ­a en el intervalo para buscar su dedal o sus
-                tijeras, o quizÃ¡s para traerme algo a modo de cena â€”un bollo o un
-                pastel de quesoâ€”; entonces se sentaba en la cama mientras yo
-                comÃ­a, y cuando terminaba, me arropaba bien con las mantas, y en
-                dos ocasiones me besÃ³ y dijo: Â«Buenas noches, seÃ±orita JaneÂ».
-                Cuando se mostraba asÃ­ de dulce, Bessie me parecÃ­a el ser mejor,
-                mÃ¡s bonito y mÃ¡s amable del mundo; y deseaba con toda mi alma
+                escalera. A veces subía en el intervalo para buscar su dedal o sus
+                tijeras, o quizás para traerme algo a modo de cena —un bollo o un
+                pastel de queso—; entonces se sentaba en la cama mientras yo
+                comía, y cuando terminaba, me arropaba bien con las mantas, y en
+                dos ocasiones me besó y dijo: «Buenas noches, señorita Jane».
+                Cuando se mostraba así de dulce, Bessie me parecía el ser mejor,
+                más bonito y más amable del mundo; y deseaba con toda mi alma
                 que siempre fuera tan agradable y afable, y que nunca me
-                empujara, ni me riÃ±era, ni me encargara tareas irrazonables, como
-                solÃ­a hacer con demasiada frecuencia. Bessie Lee, creo, debÃ­a de ser
+                empujara, ni me riñera, ni me encargara tareas irrazonables, como
+                solía hacer con demasiada frecuencia. Bessie Lee, creo, debía de ser
                 una muchacha de buena capacidad natural, pues era lista en todo lo
-                que hacÃ­a y tenÃ­a un notable don para la narraciÃ³n; al menos, asÃ­ lo
-                juzgo por la impresiÃ³n que me causaron sus cuentos infantiles.
-                TambiÃ©n era guapa, si mis recuerdos de su rostro y su persona son
+                que hacía y tenía un notable don para la narración; al menos, así lo
+                juzgo por la impresión que me causaron sus cuentos infantiles.
+                También era guapa, si mis recuerdos de su rostro y su persona son
                 correctos. La recuerdo como una joven esbelta, de pelo negro, ojos
-                oscuros, facciones muy finas y una tez buena y clara; pero tenÃ­a un
+                oscuros, facciones muy finas y una tez buena y clara; pero tenía un
                 temperamento caprichoso y precipitado, e ideas indiferentes sobre
-                los principios o la justicia. Aun asÃ­, tal como era, la preferÃ­a a
+                los principios o la justicia. Aun así, tal como era, la prefería a
                 cualquier otra persona en Gateshead Hall.</p>
 
-                <p>Era el quince de enero, sobre las nueve de la maÃ±ana. Bessie
-                habÃ­a bajado a desayunar; mis primas aÃºn no habÃ­an sido llamadas
-                por su mamÃ¡; Eliza se estaba poniendo su gorro y su abrigo de
-                jardÃ­n para ir a dar de comer a sus aves de corral, una ocupaciÃ³n
+                <p>Era el quince de enero, sobre las nueve de la mañana. Bessie
+                había bajado a desayunar; mis primas aún no habían sido llamadas
+                por su mamá; Eliza se estaba poniendo su gorro y su abrigo de
+                jardín para ir a dar de comer a sus aves de corral, una ocupación
                 que le encantaba, y no menos la de vender los huevos al ama de
-                llaves y atesorar el dinero que asÃ­ obtenÃ­a.2 TenÃ­a vena de
-                comerciante y una marcada propensiÃ³n al ahorro, demostrada no
-                solo en la venta de huevos y pollos, sino tambiÃ©n en regatear
-                duramente con el jardinero por raÃ­ces de flores, semillas y esquejes
-                de plantas; dicho funcionario tenÃ­a Ã³rdenes de la seÃ±ora Reed de
-                comprar a su joven seÃ±orita todos los productos de su parterre que
-                ella quisiera vender. Y Eliza se habrÃ­a vendido el pelo de la cabeza si
+                llaves y atesorar el dinero que así obtenía.2 Tenía vena de
+                comerciante y una marcada propensión al ahorro, demostrada no
+                solo en la venta de huevos y pollos, sino también en regatear
+                duramente con el jardinero por raíces de flores, semillas y esquejes
+                de plantas; dicho funcionario tenía órdenes de la señora Reed de
+                comprar a su joven señorita todos los productos de su parterre que
+                ella quisiera vender. Y Eliza se habría vendido el pelo de la cabeza si
                 hubiera podido sacar un buen beneficio con ello. En cuanto a su
-                dinero, primero lo escondÃ­a en rincones extraÃ±os, envuelto en un
+                dinero, primero lo escondía en rincones extraños, envuelto en un
                 trapo o en un viejo papel de rizar; pero como algunos de estos
-                tesoros habÃ­an sido descubiertos por la doncella, Eliza, temerosa de
-                perder un dÃ­a su valioso tesoro, consintiÃ³ en confiÃ¡rselo a su madre,
-                a un tipo de interÃ©s usurero â€”cincuenta o sesenta por cientoâ€”,
-                interÃ©s que exigÃ­a cada trimestre, llevando sus cuentas en un
-                pequeÃ±o libro con ansiosa precisiÃ³n.</p>
+                tesoros habían sido descubiertos por la doncella, Eliza, temerosa de
+                perder un día su valioso tesoro, consintió en confiárselo a su madre,
+                a un tipo de interés usurero —cincuenta o sesenta por ciento—,
+                interés que exigía cada trimestre, llevando sus cuentas en un
+                pequeño libro con ansiosa precisión.</p>
 
-                <p>Georgiana estaba sentada en un taburete alto, arreglÃ¡ndose el
+                <p>Georgiana estaba sentada en un taburete alto, arreglándose el
                 pelo ante el espejo y entretejiendo sus rizos con flores artificiales y
-                plumas desvaÃ­das, de las que habÃ­a encontrado una provisiÃ³n en un
-                cajÃ³n del desvÃ¡n. Yo estaba haciendo mi cama, habiendo recibido
-                Ã³rdenes estrictas de Bessie de tenerla arreglada antes de que
+                plumas desvaídas, de las que había encontrado una provisión en un
+                cajón del desván. Yo estaba haciendo mi cama, habiendo recibido
+                órdenes estrictas de Bessie de tenerla arreglada antes de que
                 volviera (pues Bessie ahora me empleaba con frecuencia como una
-                especie de ayudante de niÃ±era, para ordenar la habitaciÃ³n, quitar el
+                especie de ayudante de niñera, para ordenar la habitación, quitar el
                 polvo de las sillas, etc.). Habiendo extendido la colcha y doblado mi
-                camisÃ³n, fui al asiento de la ventana para poner en orden algunos
-                libros de ilustraciones y muebles de casa de muÃ±ecas esparcidos por
-                allÃ­; una orden brusca de Georgiana de que dejara en paz sus
+                camisón, fui al asiento de la ventana para poner en orden algunos
+                libros de ilustraciones y muebles de casa de muñecas esparcidos por
+                allí; una orden brusca de Georgiana de que dejara en paz sus
                 juguetes (pues las diminutas sillas y espejos, los platos y tazas de
                 hadas, eran de su propiedad) detuvo mis acciones; y entonces, a
-                falta de otra ocupaciÃ³n, me puse a echar el aliento sobre las flores
-                de escarcha que cubrÃ­an la ventana, y asÃ­ despejar un espacio en el
-                cristal a travÃ©s del cual pudiera mirar los terrenos, donde todo
+                falta de otra ocupación, me puse a echar el aliento sobre las flores
+                de escarcha que cubrían la ventana, y así despejar un espacio en el
+                cristal a través del cual pudiera mirar los terrenos, donde todo
                 estaba quieto y petrificado bajo la influencia de una fuerte helada.</p>
 
-                <p>Desde esta ventana se veÃ­an la garita del portero y el camino de
-                carruajes, y justo cuando habÃ­a disuelto tanto del follaje blanco
+                <p>Desde esta ventana se veían la garita del portero y el camino de
+                carruajes, y justo cuando había disuelto tanto del follaje blanco
                 plateado que velaba los cristales como para dejar espacio para mirar,
-                vi abrirse las puertas de par en par y un carruaje entrar. Lo observÃ©
-                ascender por el camino con indiferencia; a menudo venÃ­an carruajes
-                a Gateshead, pero ninguno traÃ­a jamÃ¡s visitantes que me
-                interesaran. Se detuvo frente a la casa, el timbre de la puerta sonÃ³
-                con fuerza, el reciÃ©n llegado fue admitido. Como todo esto no
-                significaba nada para mÃ­, mi atenciÃ³n vacante pronto encontrÃ³ una
-                atracciÃ³n mÃ¡s animada en el espectÃ¡culo de un pequeÃ±o petirrojo
-                hambriento, que vino y gorjeÃ³ en las ramitas del cerezo sin hojas
+                vi abrirse las puertas de par en par y un carruaje entrar. Lo observé
+                ascender por el camino con indiferencia; a menudo venían carruajes
+                a Gateshead, pero ninguno traía jamás visitantes que me
+                interesaran. Se detuvo frente a la casa, el timbre de la puerta sonó
+                con fuerza, el recién llegado fue admitido. Como todo esto no
+                significaba nada para mí, mi atención vacante pronto encontró una
+                atracción más animada en el espectáculo de un pequeño petirrojo
+                hambriento, que vino y gorjeó en las ramitas del cerezo sin hojas
                 clavado en la pared cerca del ventanal. Los restos de mi desayuno
                 de pan y leche estaban sobre la mesa y, habiendo desmigajado un
                 trozo de panecillo, estaba forcejeando con el pestillo para poner las
-                migas en el alfÃ©izar, cuando Bessie subiÃ³ corriendo las escaleras
-                hacia el cuarto de los niÃ±os.</p>
+                migas en el alféizar, cuando Bessie subió corriendo las escaleras
+                hacia el cuarto de los niños.</p>
 
-                <p>â€”Â¡SeÃ±orita Jane, quÃ­tese el delantal! Â¿QuÃ© hace ahÃ­? Â¿Se ha
-                lavado las manos y la cara esta maÃ±ana?</p>
+                <p>—¡Señorita Jane, quítese el delantal! ¿Qué hace ahí? ¿Se ha
+                lavado las manos y la cara esta mañana?</p>
 
-                <p>Di otro tirÃ³n antes de responder, pues querÃ­a que el pÃ¡jaro tuviera
-                su pan asegurado. El pestillo cediÃ³; esparcÃ­ las migas, algunas en el
-                alfÃ©izar de piedra, otras en la rama del cerezo. Luego, cerrando la
-                ventana, respondÃ­:</p>
+                <p>Di otro tirón antes de responder, pues quería que el pájaro tuviera
+                su pan asegurado. El pestillo cedió; esparcí las migas, algunas en el
+                alféizar de piedra, otras en la rama del cerezo. Luego, cerrando la
+                ventana, respondí:</p>
 
-                <p>â€”No, Bessie; acabo de terminar de quitar el polvo.</p>
+                <p>—No, Bessie; acabo de terminar de quitar el polvo.</p>
 
-                <p>â€”Â¡NiÃ±a molesta y descuidada! Â¿Y quÃ© haces ahora? EstÃ¡s toda
-                colorada, como si hubieras hecho alguna travesura. Â¿Para quÃ© abrÃ­as
+                <p>—¡Niña molesta y descuidada! ¿Y qué haces ahora? Estás toda
+                colorada, como si hubieras hecho alguna travesura. ¿Para qué abrías
                 la ventana?</p>
 
-                <p>Me ahorrÃ³ la molestia de responder, pues Bessie parecÃ­a tener
-                demasiada prisa para escuchar explicaciones. Me arrastrÃ³ hasta el
-                lavabo, me infligiÃ³ un despiadado, pero felizmente breve, fregado en
-                la cara y las manos con jabÃ³n, agua y una toalla Ã¡spera; disciplinÃ³
-                mi cabeza con un cepillo de cerdas duras, me despojÃ³ de mi delantal
-                y luego, llevÃ¡ndome a toda prisa al rellano de la escalera, me ordenÃ³
+                <p>Me ahorró la molestia de responder, pues Bessie parecía tener
+                demasiada prisa para escuchar explicaciones. Me arrastró hasta el
+                lavabo, me infligió un despiadado, pero felizmente breve, fregado en
+                la cara y las manos con jabón, agua y una toalla áspera; disciplinó
+                mi cabeza con un cepillo de cerdas duras, me despojó de mi delantal
+                y luego, llevándome a toda prisa al rellano de la escalera, me ordenó
                 que bajara inmediatamente, pues me necesitaban en el comedor de
                 diario.</p>
 
-                <p>HabrÃ­a preguntado quiÃ©n me necesitaba; habrÃ­a exigido saber si la
-                seÃ±ora Reed estaba allÃ­; pero Bessie ya se habÃ­a ido y habÃ­a cerrado
-                la puerta del cuarto de los niÃ±os tras de sÃ­. DescendÃ­ lentamente.
-                Durante casi tres meses, nunca habÃ­a sido llamada a la presencia de
-                la seÃ±ora Reed; recluida tanto tiempo en el cuarto de los niÃ±os, el
-                comedor de diario, el comedor principal y el salÃ³n se habÃ­an
-                convertido para mÃ­ en regiones terribles, en las que me consternaba
+                <p>Habría preguntado quién me necesitaba; habría exigido saber si la
+                señora Reed estaba allí; pero Bessie ya se había ido y había cerrado
+                la puerta del cuarto de los niños tras de sí. Descendí lentamente.
+                Durante casi tres meses, nunca había sido llamada a la presencia de
+                la señora Reed; recluida tanto tiempo en el cuarto de los niños, el
+                comedor de diario, el comedor principal y el salón se habían
+                convertido para mí en regiones terribles, en las que me consternaba
                 entrometerme.</p>
 
-                <p>Ahora me encontraba en el vestÃ­bulo vacÃ­o; ante mÃ­ estaba la
+                <p>Ahora me encontraba en el vestíbulo vacío; ante mí estaba la
                 puerta del comedor de diario, y me detuve, intimidada y temblorosa.
-                Â¡En quÃ© miserable cobarde me habÃ­a convertido en aquellos dÃ­as el
-                miedo, engendrado por el castigo injusto! TemÃ­a volver al cuarto de
-                los niÃ±os y temÃ­a avanzar hacia el salÃ³n. Durante diez minutos
-                permanecÃ­ en agitada vacilaciÃ³n; el vehemente sonar de la campana
-                del comedor de diario me decidiÃ³. DebÃ­a entrar.</p>
+                ¡En qué miserable cobarde me había convertido en aquellos días el
+                miedo, engendrado por el castigo injusto! Temía volver al cuarto de
+                los niños y temía avanzar hacia el salón. Durante diez minutos
+                permanecí en agitada vacilación; el vehemente sonar de la campana
+                del comedor de diario me decidió. Debía entrar.</p>
 
-                <p>Â«Â¿QuiÃ©n podrÃ­a necesitarme?Â», me preguntÃ© para mis adentros,
-                mientras con ambas manos giraba el rÃ­gido pomo de la puerta, que,
-                por uno o dos segundos, se resistiÃ³ a mis esfuerzos. Â«Â¿QuÃ© verÃ©
-                ademÃ¡s de tÃ­a Reed en la estancia? Â¿Un hombre o una mujer?Â». El
-                pomo girÃ³, la puerta se abriÃ³ y, pasando y haciendo una profunda
-                reverencia, levantÃ© la vista hacia... Â¡un pilar negro! Tal, al menos,
-                me pareciÃ³ a primera vista la figura erguida, estrecha, vestida de
+                <p>«¿Quién podría necesitarme?», me pregunté para mis adentros,
+                mientras con ambas manos giraba el rígido pomo de la puerta, que,
+                por uno o dos segundos, se resistió a mis esfuerzos. «¿Qué veré
+                además de tía Reed en la estancia? ¿Un hombre o una mujer?». El
+                pomo giró, la puerta se abrió y, pasando y haciendo una profunda
+                reverencia, levanté la vista hacia... ¡un pilar negro! Tal, al menos,
+                me pareció a primera vista la figura erguida, estrecha, vestida de
                 negro, que se alzaba sobre la alfombra. El rostro adusto en la cima
-                era como una mÃ¡scara tallada, colocada sobre el fuste a modo de
+                era como una máscara tallada, colocada sobre el fuste a modo de
                 capitel.</p>
 
-                <p>La seÃ±ora Reed ocupaba su asiento habitual junto al fuego. Me
-                hizo una seÃ±al para que me acercara; asÃ­ lo hice, y me presentÃ³ al
-                pÃ©treo desconocido con las palabras:</p>
+                <p>La señora Reed ocupaba su asiento habitual junto al fuego. Me
+                hizo una señal para que me acercara; así lo hice, y me presentó al
+                pétreo desconocido con las palabras:</p>
 
-                <p>â€”Esta es la niÃ±a por la que le escribÃ­.</p>
+                <p>—Esta es la niña por la que le escribí.</p>
 
-                <p>Ã‰l, pues era un hombre, girÃ³ lentamente la cabeza hacia donde yo
+                <p>Él, pues era un hombre, giró lentamente la cabeza hacia donde yo
                 estaba y, tras examinarme con dos ojos grises de aspecto inquisitivo
                 que brillaban bajo un par de cejas pobladas, dijo solemnemente y
                 con voz de bajo:</p>
 
-                <p>â€”Es de pequeÃ±a estatura. Â¿QuÃ© edad tiene?</p>
+                <p>—Es de pequeña estatura. ¿Qué edad tiene?</p>
 
-                <p>â€”Diez aÃ±os.</p>
+                <p>—Diez años.</p>
 
-                <p>â€”Â¿Tanto? â€”fue la dudosa respuesta; y prolongÃ³ su escrutinio
-                durante algunos minutos. Al instante se dirigiÃ³ a mÃ­:</p>
+                <p>—¿Tanto? —fue la dudosa respuesta; y prolongó su escrutinio
+                durante algunos minutos. Al instante se dirigió a mí:</p>
 
-                <p>â€”Tu nombre, pequeÃ±a.</p>
+                <p>—Tu nombre, pequeña.</p>
 
-                <p>â€”Jane Eyre, seÃ±or.</p>
+                <p>—Jane Eyre, señor.</p>
 
-                <p>Al pronunciar estas palabras levantÃ© la vista: me pareciÃ³ un
-                caballero alto; pero claro, yo era muy pequeÃ±a. Sus facciones eran
-                grandes, y tanto ellas como todas las lÃ­neas de su complexiÃ³n eran
-                igualmente Ã¡speras y severas.</p>
+                <p>Al pronunciar estas palabras levanté la vista: me pareció un
+                caballero alto; pero claro, yo era muy pequeña. Sus facciones eran
+                grandes, y tanto ellas como todas las líneas de su complexión eran
+                igualmente ásperas y severas.</p>
 
-                <p>â€”Bueno, Jane Eyre, Â¿y eres una buena niÃ±a?</p>
+                <p>—Bueno, Jane Eyre, ¿y eres una buena niña?</p>
 
-                <p>Imposible responder afirmativamente a esto: mi pequeÃ±o mundo
-                sostenÃ­a una opiniÃ³n contraria. GuardÃ© silencio. La seÃ±ora Reed
-                respondiÃ³ por mÃ­ con un expresivo movimiento de cabeza,
-                aÃ±adiendo al poco:</p>
+                <p>Imposible responder afirmativamente a esto: mi pequeño mundo
+                sostenía una opinión contraria. Guardé silencio. La señora Reed
+                respondió por mí con un expresivo movimiento de cabeza,
+                añadiendo al poco:</p>
 
-                <p>â€”QuizÃ¡s cuanto menos se hable de ese tema, mejor, seÃ±or
+                <p>—Quizás cuanto menos se hable de ese tema, mejor, señor
                 Brocklehurst.</p>
 
-                <p>â€”Â¡Lamento oÃ­rlo, ciertamente! Ella y yo debemos tener una charla
-                â€”y, abandonando la perpendicularidad, acomodÃ³ su persona en el
-                sillÃ³n frente al de la seÃ±ora Reedâ€”. Ven aquÃ­ â€”dijo.</p>
+                <p>—¡Lamento oírlo, ciertamente! Ella y yo debemos tener una charla
+                —y, abandonando la perpendicularidad, acomodó su persona en el
+                sillón frente al de la señora Reed—. Ven aquí —dijo.</p>
 
-                <p>CrucÃ© la alfombra; me colocÃ³, recta y firme, frente a Ã©l. Â¡QuÃ©
-                rostro tenÃ­a, ahora que estaba casi a la altura del mÃ­o! Â¡QuÃ© nariz tan
-                grande! Â¡Y quÃ© boca! Â¡Y quÃ© dientes tan grandes y prominentes!</p>
+                <p>Crucé la alfombra; me colocó, recta y firme, frente a él. ¡Qué
+                rostro tenía, ahora que estaba casi a la altura del mío! ¡Qué nariz tan
+                grande! ¡Y qué boca! ¡Y qué dientes tan grandes y prominentes!</p>
 
-                <p>â€”No hay visiÃ³n tan triste como la de un niÃ±o malo â€”comenzÃ³â€”,
-                especialmente una niÃ±a mala. Â¿Sabes adÃ³nde van los malvados
-                despuÃ©s de morir?</p>
+                <p>—No hay visión tan triste como la de un niño malo —comenzó—,
+                especialmente una niña mala. ¿Sabes adónde van los malvados
+                después de morir?</p>
 
-                <p>â€”Van al infierno â€”fue mi respuesta, rÃ¡pida y ortodoxa.</p>
+                <p>—Van al infierno —fue mi respuesta, rápida y ortodoxa.</p>
 
-                <p>â€”Â¿Y quÃ© es el infierno? Â¿Puedes decÃ­rmelo?</p>
+                <p>—¿Y qué es el infierno? ¿Puedes decírmelo?</p>
 
-                <p>â€”Un pozo lleno de fuego.</p>
+                <p>—Un pozo lleno de fuego.</p>
 
-                <p>â€”Â¿Y te gustarÃ­a caer en ese pozo y arder allÃ­ para siempre?</p>
+                <p>—¿Y te gustaría caer en ese pozo y arder allí para siempre?</p>
 
-                <p>â€”No, seÃ±or.</p>
+                <p>—No, señor.</p>
 
-                <p>â€”Â¿QuÃ© debes hacer para evitarlo?</p>
+                <p>—¿Qué debes hacer para evitarlo?</p>
 
-                <p>DeliberÃ© un momento; mi respuesta, cuando llegÃ³, fue objetable:</p>
+                <p>Deliberé un momento; mi respuesta, cuando llegó, fue objetable:</p>
 
-                <p>â€”Debo mantenerme sana y no morirme.</p>
+                <p>—Debo mantenerme sana y no morirme.</p>
 
-                <p>â€”Â¿CÃ³mo puedes mantenerte sana? NiÃ±os mÃ¡s pequeÃ±os que tÃº
-                mueren a diario. EnterrÃ© a un niÃ±ito de cinco aÃ±os hace solo uno o
-                dos dÃ­as, un buen niÃ±o, cuya alma estÃ¡ ahora en el cielo. Es de
+                <p>—¿Cómo puedes mantenerte sana? Niños más pequeños que tú
+                mueren a diario. Enterré a un niñito de cinco años hace solo uno o
+                dos días, un buen niño, cuya alma está ahora en el cielo. Es de
                 temer que no se pudiera decir lo mismo de ti si fueras llamada de
                 este mundo.</p>
 
-                <p>No estando en condiciones de disipar su duda, solo bajÃ© los ojos
-                hacia los dos grandes pies plantados en la alfombra y suspirÃ©,
+                <p>No estando en condiciones de disipar su duda, solo bajé los ojos
+                hacia los dos grandes pies plantados en la alfombra y suspiré,
                 deseando estar muy lejos.</p>
 
-                <p>â€”Espero que ese suspiro salga del corazÃ³n, y que te arrepientas
-                de haber sido alguna vez ocasiÃ³n de disgusto para tu excelente
+                <p>—Espero que ese suspiro salga del corazón, y que te arrepientas
+                de haber sido alguna vez ocasión de disgusto para tu excelente
                 benefactora.</p>
 
-                <p>Â«Â¡Benefactora! Â¡Benefactora!Â», dije para mis adentros. Â«Todos
-                llaman a la seÃ±ora Reed mi benefactora; si es asÃ­, una benefactora
-                es algo desagradableÂ».</p>
+                <p>«¡Benefactora! ¡Benefactora!», dije para mis adentros. «Todos
+                llaman a la señora Reed mi benefactora; si es así, una benefactora
+                es algo desagradable».</p>
 
-                <p>â€”Â¿Rezas tus oraciones por la noche y por la maÃ±ana? â€”continuÃ³
+                <p>—¿Rezas tus oraciones por la noche y por la mañana? —continuó
                 mi interrogador.</p>
 
-                <p>â€”SÃ­, seÃ±or.</p>
+                <p>—Sí, señor.</p>
 
-                <p>â€”Â¿Lees tu Biblia?</p>
+                <p>—¿Lees tu Biblia?</p>
 
-                <p>â€”A veces.</p>
+                <p>—A veces.</p>
 
-                <p>â€”Â¿Con gusto? Â¿Te agrada?</p>
+                <p>—¿Con gusto? ¿Te agrada?</p>
 
-                <p>â€”Me gustan el Apocalipsis, y el libro de Daniel, y el GÃ©nesis y
-                Samuel, y un trocito del Ã‰xodo, y algunas partes de Reyes y
-                CrÃ³nicas, y Job y JonÃ¡s.</p>
+                <p>—Me gustan el Apocalipsis, y el libro de Daniel, y el Génesis y
+                Samuel, y un trocito del Éxodo, y algunas partes de Reyes y
+                Crónicas, y Job y Jonás.</p>
 
-                <p>â€”Â¿Y los Salmos? Â¿Espero que te gusten?</p>
+                <p>—¿Y los Salmos? ¿Espero que te gusten?</p>
 
-                <p>â€”No, seÃ±or.</p>
+                <p>—No, señor.</p>
 
-                <p>â€”Â¿No? Â¡Oh, quÃ© espanto! Tengo un niÃ±o pequeÃ±o, menor que tÃº,
-                que sabe seis Salmos de memoria; y cuando le preguntas quÃ©
-                preferirÃ­a, una galleta de jengibre para comer o un versÃ­culo de un
-                Salmo para aprender, dice: Â«Â¡Oh! Â¡El versÃ­culo de un Salmo! Los
-                Ã¡ngeles cantan SalmosÂ», dice Ã©l. Â«Deseo ser un pequeÃ±o Ã¡ngel aquÃ­
-                abajoÂ». Y entonces recibe dos galletas en recompensa por su piedad
+                <p>—¿No? ¡Oh, qué espanto! Tengo un niño pequeño, menor que tú,
+                que sabe seis Salmos de memoria; y cuando le preguntas qué
+                preferiría, una galleta de jengibre para comer o un versículo de un
+                Salmo para aprender, dice: «¡Oh! ¡El versículo de un Salmo! Los
+                ángeles cantan Salmos», dice él. «Deseo ser un pequeño ángel aquí
+                abajo». Y entonces recibe dos galletas en recompensa por su piedad
                 infantil.</p>
 
-                <p>â€”Los Salmos no son interesantes â€”observÃ©.</p>
+                <p>—Los Salmos no son interesantes —observé.</p>
 
-                <p>â€”Eso demuestra que tienes un corazÃ³n malvado; y debes rezar a
-                Dios para que lo cambie, para que te dÃ© uno nuevo y limpio, para
-                que te quite tu corazÃ³n de piedra y te dÃ© un corazÃ³n de carne.</p>
+                <p>—Eso demuestra que tienes un corazón malvado; y debes rezar a
+                Dios para que lo cambie, para que te dé uno nuevo y limpio, para
+                que te quite tu corazón de piedra y te dé un corazón de carne.</p>
 
                 <p>Estaba a punto de plantear una pregunta, tocante a la manera en
-                que esa operaciÃ³n de cambiar mi corazÃ³n debÃ­a realizarse, cuando la
-                seÃ±ora Reed interpuso, diciÃ©ndome que me sentara; luego procediÃ³
-                a continuar la conversaciÃ³n ella misma.</p>
+                que esa operación de cambiar mi corazón debía realizarse, cuando la
+                señora Reed interpuso, diciéndome que me sentara; luego procedió
+                a continuar la conversación ella misma.</p>
 
-                <p>â€”SeÃ±or Brocklehurst, creo que le insinuÃ© en la carta que le escribÃ­
-                hace tres semanas que esta niÃ±a no tiene exactamente el carÃ¡cter y
-                la disposiciÃ³n que yo desearÃ­a. Si la admite en la escuela de Lowood,
-                me alegrarÃ­a que se pidiera a la superintendente y a las maestras
+                <p>—Señor Brocklehurst, creo que le insinué en la carta que le escribí
+                hace tres semanas que esta niña no tiene exactamente el carácter y
+                la disposición que yo desearía. Si la admite en la escuela de Lowood,
+                me alegraría que se pidiera a la superintendente y a las maestras
                 que la vigilen estrictamente y, sobre todo, que la preserven de su
-                peor falta, una tendencia al engaÃ±o. Menciono esto en tu presencia,
-                Jane, para que no intentes embaucar al seÃ±or Brocklehurst.</p>
+                peor falta, una tendencia al engaño. Menciono esto en tu presencia,
+                Jane, para que no intentes embaucar al señor Brocklehurst.</p>
 
-                <p>Con razÃ³n podÃ­a temer, con razÃ³n podÃ­a detestar a la seÃ±ora Reed;
+                <p>Con razón podía temer, con razón podía detestar a la señora Reed;
                 pues era su naturaleza herirme cruelmente. Nunca fui feliz en su
                 presencia; por mucho que obedeciera, por mucho que me esforzara
                 en complacerla, mis esfuerzos eran siempre rechazados y pagados
                 con sentencias como la anterior. Ahora, pronunciada ante un
-                extraÃ±o, la acusaciÃ³n me partiÃ³ el corazÃ³n; percibÃ­ vagamente que
+                extraño, la acusación me partió el corazón; percibí vagamente que
                 ya estaba borrando la esperanza de la nueva fase de existencia a la
-                que me destinaba; sentÃ­, aunque no podrÃ­a haber expresado el
-                sentimiento, que estaba sembrando aversiÃ³n y desamabilidad a lo
+                que me destinaba; sentí, aunque no podría haber expresado el
+                sentimiento, que estaba sembrando aversión y desamabilidad a lo
                 largo de mi futuro camino; me vi transformada bajo la mirada del
-                seÃ±or Brocklehurst en una niÃ±a taimada y nociva, Â¿y quÃ© podÃ­a hacer
-                yo para remediar el daÃ±o?</p>
+                señor Brocklehurst en una niña taimada y nociva, ¿y qué podía hacer
+                yo para remediar el daño?</p>
 
-                <p>Â«Nada, en verdadÂ», pensÃ©, mientras luchaba por reprimir un
-                sollozo y me secaba apresuradamente unas lÃ¡grimas, impotentes
+                <p>«Nada, en verdad», pensé, mientras luchaba por reprimir un
+                sollozo y me secaba apresuradamente unas lágrimas, impotentes
                 evidencias de mi angustia.</p>
 
-                <p>â€”El engaÃ±o es, ciertamente, una falta lamentable en un niÃ±o â€”
-                dijo el seÃ±or Brocklehurstâ€”. Es pariente de la falsedad, y todos los
-                mentirosos tendrÃ¡n su parte en el lago que arde con fuego y azufre.
-                Sin embargo, serÃ¡ vigilada, seÃ±ora Reed. HablarÃ© con la seÃ±orita
+                <p>—El engaño es, ciertamente, una falta lamentable en un niño —
+                dijo el señor Brocklehurst—. Es pariente de la falsedad, y todos los
+                mentirosos tendrán su parte en el lago que arde con fuego y azufre.
+                Sin embargo, será vigilada, señora Reed. Hablaré con la señorita
                 Temple y las maestras.</p>
 
-                <p>â€”DesearÃ­a que fuera educada de una manera adecuada a sus
-                perspectivas â€”continuÃ³ mi benefactoraâ€”; que se la haga Ãºtil, que
+                <p>—Desearía que fuera educada de una manera adecuada a sus
+                perspectivas —continuó mi benefactora—; que se la haga útil, que
                 se la mantenga humilde. En cuanto a las vacaciones, con su
-                permiso, las pasarÃ¡ siempre en Lowood.</p>
+                permiso, las pasará siempre en Lowood.</p>
 
-                <p>â€”Sus decisiones son perfectamente juiciosas, seÃ±ora â€”respondiÃ³
-                el seÃ±or Brocklehurstâ€”. La humildad es una gracia cristiana, y una
+                <p>—Sus decisiones son perfectamente juiciosas, señora —respondió
+                el señor Brocklehurst—. La humildad es una gracia cristiana, y una
                 particularmente apropiada para las alumnas de Lowood; por lo
                 tanto, ordeno que se ponga especial cuidado en su cultivo entre
                 ellas. He estudiado la mejor manera de mortificar en ellas el
-                sentimiento mundano del orgullo; y, precisamente el otro dÃ­a, tuve
-                una grata prueba de mi Ã©xito. Mi segunda hija, Augusta, fue con su
-                mamÃ¡ a visitar la escuela, y a su regreso exclamÃ³: Â«Â¡Oh, querido
-                papÃ¡, quÃ© tranquilas y sencillas parecen todas las niÃ±as de Lowood,
-                con el pelo peinado detrÃ¡s de las orejas, y sus largos delantales, y
-                esos pequeÃ±os bolsillos de tela de Holanda fuera de sus vestidos!
-                Â¡Son casi como hijas de gente pobre! YÂ», dijo ella, Â«miraban mi
-                vestido y el de mamÃ¡, como si nunca hubieran visto un vestido de
-                seda antesÂ».</p>
+                sentimiento mundano del orgullo; y, precisamente el otro día, tuve
+                una grata prueba de mi éxito. Mi segunda hija, Augusta, fue con su
+                mamá a visitar la escuela, y a su regreso exclamó: «¡Oh, querido
+                papá, qué tranquilas y sencillas parecen todas las niñas de Lowood,
+                con el pelo peinado detrás de las orejas, y sus largos delantales, y
+                esos pequeños bolsillos de tela de Holanda fuera de sus vestidos!
+                ¡Son casi como hijas de gente pobre! Y», dijo ella, «miraban mi
+                vestido y el de mamá, como si nunca hubieran visto un vestido de
+                seda antes».</p>
 
-                <p>â€”Este es el estado de cosas que apruebo por completo â€”
-                respondiÃ³ la seÃ±ora Reedâ€”. Si hubiera buscado por toda Inglaterra,
-                apenas habrÃ­a encontrado un sistema que se ajustara mÃ¡s
-                exactamente a una niÃ±a como Jane Eyre. Coherencia, mi querido
-                seÃ±or Brocklehurst; abogo por la coherencia en todas las cosas.</p>
+                <p>—Este es el estado de cosas que apruebo por completo —
+                respondió la señora Reed—. Si hubiera buscado por toda Inglaterra,
+                apenas habría encontrado un sistema que se ajustara más
+                exactamente a una niña como Jane Eyre. Coherencia, mi querido
+                señor Brocklehurst; abogo por la coherencia en todas las cosas.</p>
 
-                <p>â€”La coherencia, seÃ±ora, es el primero de los deberes cristianos; y
-                se ha observado en cada disposiciÃ³n relacionada con el
+                <p>—La coherencia, señora, es el primero de los deberes cristianos; y
+                se ha observado en cada disposición relacionada con el
                 establecimiento de Lowood: comida sencilla, atuendo simple,
-                alojamiento sin sofisticaciones, hÃ¡bitos rudos y activos; tal es el
-                orden del dÃ­a en la casa y sus habitantes.</p>
+                alojamiento sin sofisticaciones, hábitos rudos y activos; tal es el
+                orden del día en la casa y sus habitantes.</p>
 
-                <p>â€”Muy bien dicho, seÃ±or. Â¿Puedo entonces contar con que esta
-                niÃ±a sea recibida como alumna en Lowood, y que allÃ­ sea educada
-                en conformidad con su posiciÃ³n y perspectivas?</p>
+                <p>—Muy bien dicho, señor. ¿Puedo entonces contar con que esta
+                niña sea recibida como alumna en Lowood, y que allí sea educada
+                en conformidad con su posición y perspectivas?</p>
 
-                <p>â€”SeÃ±ora, puede contar con ello. SerÃ¡ colocada en ese vivero de
-                plantas escogidas, y confÃ­o en que se mostrarÃ¡ agradecida por el
-                inestimable privilegio de su elecciÃ³n.</p>
+                <p>—Señora, puede contar con ello. Será colocada en ese vivero de
+                plantas escogidas, y confío en que se mostrará agradecida por el
+                inestimable privilegio de su elección.</p>
 
-                <p>â€”La enviarÃ©, entonces, tan pronto como sea posible, seÃ±or
+                <p>—La enviaré, entonces, tan pronto como sea posible, señor
                 Brocklehurst; pues, le aseguro, siento ansiedad por ser relevada de
                 una responsabilidad que se estaba volviendo demasiado fastidiosa.</p>
 
-                <p>â€”Sin duda, sin duda, seÃ±ora; y ahora le deseo buenos dÃ­as.
-                RegresarÃ© a Brocklehurst Hall en el transcurso de una o dos
-                semanas; mi buen amigo, el Arcediano, no me permitirÃ¡ dejarlo
-                antes. EnviarÃ© aviso a la seÃ±orita Temple de que espere a una nueva
-                alumna, para que no haya dificultad en recibirla. AdiÃ³s.</p>
+                <p>—Sin duda, sin duda, señora; y ahora le deseo buenos días.
+                Regresaré a Brocklehurst Hall en el transcurso de una o dos
+                semanas; mi buen amigo, el Arcediano, no me permitirá dejarlo
+                antes. Enviaré aviso a la señorita Temple de que espere a una nueva
+                alumna, para que no haya dificultad en recibirla. Adiós.</p>
 
-                <p>â€”AdiÃ³s, seÃ±or Brocklehurst; dÃ© recuerdos de mi parte a la seÃ±ora
-                y a la seÃ±orita Brocklehurst, y a Augusta y Theodore, y al seÃ±orito
+                <p>—Adiós, señor Brocklehurst; dé recuerdos de mi parte a la señora
+                y a la señorita Brocklehurst, y a Augusta y Theodore, y al señorito
                 Broughton Brocklehurst.</p>
 
-                <p>â€”Lo harÃ©, seÃ±ora. NiÃ±a, aquÃ­ tienes un libro titulado la Â«GuÃ­a del
-                NiÃ±oÂ»; lÃ©elo con oraciÃ³n, especialmente esa parte que contiene Â«Un
-                relato de la terriblemente sÃºbita muerte de Martha G., una niÃ±a mala
-                adicta a la falsedad y al engaÃ±oÂ».</p>
+                <p>—Lo haré, señora. Niña, aquí tienes un libro titulado la «Guía del
+                Niño»; léelo con oración, especialmente esa parte que contiene «Un
+                relato de la terriblemente súbita muerte de Martha G., una niña mala
+                adicta a la falsedad y al engaño».</p>
 
-                <p>Con estas palabras, el seÃ±or Brocklehurst puso en mi mano un
+                <p>Con estas palabras, el señor Brocklehurst puso en mi mano un
                 delgado folleto cosido en una cubierta y, habiendo hecho sonar la
-                campanilla para llamar a su carruaje, partiÃ³.</p>
+                campanilla para llamar a su carruaje, partió.</p>
 
-                <p>La seÃ±ora Reed y yo nos quedamos solas; pasaron algunos
-                minutos en silencio; ella cosÃ­a, yo la observaba. La seÃ±ora Reed
-                podrÃ­a tener en aquel tiempo unos treinta y seis o treinta y siete
-                aÃ±os; era una mujer de complexiÃ³n robusta, de hombros cuadrados
-                y miembros fuertes, no alta y, aunque corpulenta, no obesa. TenÃ­a
-                un rostro algo grande, con la mandÃ­bula inferior muy desarrollada y
-                muy sÃ³lida; su frente era baja, su barbilla grande y prominente,
+                <p>La señora Reed y yo nos quedamos solas; pasaron algunos
+                minutos en silencio; ella cosía, yo la observaba. La señora Reed
+                podría tener en aquel tiempo unos treinta y seis o treinta y siete
+                años; era una mujer de complexión robusta, de hombros cuadrados
+                y miembros fuertes, no alta y, aunque corpulenta, no obesa. Tenía
+                un rostro algo grande, con la mandíbula inferior muy desarrollada y
+                muy sólida; su frente era baja, su barbilla grande y prominente,
                 boca y nariz suficientemente regulares; bajo sus cejas claras brillaba
                 un ojo desprovisto de piedad; su piel era oscura y opaca, su cabello
-                casi rubio platino; su constituciÃ³n era sana como una campana â€”la
-                enfermedad nunca se le acercabaâ€”; era una administradora exacta
+                casi rubio platino; su constitución era sana como una campana —la
+                enfermedad nunca se le acercaba—; era una administradora exacta
                 e inteligente; su casa y sus inquilinos estaban completamente bajo
                 su control; solo sus hijos desafiaban a veces su autoridad y se
-                burlaban de ella. VestÃ­a bien, y tenÃ­a una presencia y un porte
+                burlaban de ella. Vestía bien, y tenía una presencia y un porte
                 calculados para realzar un atuendo elegante.</p>
 
-                <p>Sentada en un taburete bajo, a pocos metros de su sillÃ³n,
-                examinÃ© su figura; estudiÃ© sus facciones. En mi mano sostenÃ­a el
-                panfleto que contenÃ­a la muerte sÃºbita de la Mentirosa, narrativa a la
-                que se habÃ­a seÃ±alado mi atenciÃ³n como una advertencia apropiada.
-                Lo que acababa de pasar; lo que la seÃ±ora Reed habÃ­a dicho de mÃ­ al
-                seÃ±or Brocklehurst; todo el tenor de su conversaciÃ³n, estaba
-                reciente, crudo y punzante en mi mente; habÃ­a sentido cada palabra
-                tan agudamente como la habÃ­a oÃ­do claramente, y una pasiÃ³n de
-                resentimiento fermentaba ahora dentro de mÃ­.</p>
+                <p>Sentada en un taburete bajo, a pocos metros de su sillón,
+                examiné su figura; estudié sus facciones. En mi mano sostenía el
+                panfleto que contenía la muerte súbita de la Mentirosa, narrativa a la
+                que se había señalado mi atención como una advertencia apropiada.
+                Lo que acababa de pasar; lo que la señora Reed había dicho de mí al
+                señor Brocklehurst; todo el tenor de su conversación, estaba
+                reciente, crudo y punzante en mi mente; había sentido cada palabra
+                tan agudamente como la había oído claramente, y una pasión de
+                resentimiento fermentaba ahora dentro de mí.</p>
 
-                <p>La seÃ±ora Reed levantÃ³ la vista de su labor; su ojo se posÃ³ en el
-                mÃ­o, sus dedos suspendieron al mismo tiempo sus Ã¡giles
+                <p>La señora Reed levantó la vista de su labor; su ojo se posó en el
+                mío, sus dedos suspendieron al mismo tiempo sus ágiles
                 movimientos.</p>
 
-                <p>â€”Sal de la habitaciÃ³n; vuelve al cuarto de los niÃ±os â€”fue su
-                mandato. Mi mirada o alguna otra cosa debiÃ³ de parecerle ofensiva,
-                pues hablÃ³ con extrema aunque reprimida irritaciÃ³n. Me levantÃ©, fui
-                hacia la puerta; volvÃ­ de nuevo; caminÃ© hasta la ventana, crucÃ© la
-                habitaciÃ³n, y luego me acerquÃ© mucho a ella.</p>
+                <p>—Sal de la habitación; vuelve al cuarto de los niños —fue su
+                mandato. Mi mirada o alguna otra cosa debió de parecerle ofensiva,
+                pues habló con extrema aunque reprimida irritación. Me levanté, fui
+                hacia la puerta; volví de nuevo; caminé hasta la ventana, crucé la
+                habitación, y luego me acerqué mucho a ella.</p>
 
-                <p>TenÃ­a que hablar. Me habÃ­an pisoteado con saÃ±a, y debÃ­a
-                revolverse. Pero, Â¿cÃ³mo? Â¿QuÃ© fuerza tenÃ­a yo para lanzar una
-                represalia contra mi antagonista? ReunÃ­ mis energÃ­as y las lancÃ© en
+                <p>Tenía que hablar. Me habían pisoteado con saña, y debía
+                revolverse. Pero, ¿cómo? ¿Qué fuerza tenía yo para lanzar una
+                represalia contra mi antagonista? Reuní mis energías y las lancé en
                 esta brusca frase:</p>
 
-                <p>â€”No soy una embustera. Si lo fuera, dirÃ­a que la quiero; pero
-                declaro que no la quiero. La detesto mÃ¡s que a nadie en el mundo,
-                excepto a John Reed; y este libro sobre la mentirosa, puede dÃ¡rselo
+                <p>—No soy una embustera. Si lo fuera, diría que la quiero; pero
+                declaro que no la quiero. La detesto más que a nadie en el mundo,
+                excepto a John Reed; y este libro sobre la mentirosa, puede dárselo
                 a su hija, Georgiana, porque es ella quien dice mentiras, y no yo.</p>
 
-                <p>Las manos de la seÃ±ora Reed seguÃ­an sobre su labor, inactivas; su
-                ojo de hielo continuaba posado gÃ©lidamente en el mÃ­o.</p>
+                <p>Las manos de la señora Reed seguían sobre su labor, inactivas; su
+                ojo de hielo continuaba posado gélidamente en el mío.</p>
 
-                <p>â€”Â¿QuÃ© mÃ¡s tienes que decir? â€”preguntÃ³, mÃ¡s bien en el tono con
-                que una persona podrÃ­a dirigirse a un oponente de edad adulta que
-                en el que se usa ordinariamente con un niÃ±o.</p>
+                <p>—¿Qué más tienes que decir? —preguntó, más bien en el tono con
+                que una persona podría dirigirse a un oponente de edad adulta que
+                en el que se usa ordinariamente con un niño.</p>
 
-                <p>Aquel ojo suyo, aquella voz, agitaron toda la antipatÃ­a que yo
-                sentÃ­a. Temblando de pies a cabeza, estremecida por una excitaciÃ³n
-                ingobernable, continuÃ©:</p>
+                <p>Aquel ojo suyo, aquella voz, agitaron toda la antipatía que yo
+                sentía. Temblando de pies a cabeza, estremecida por una excitación
+                ingobernable, continué:</p>
 
-                <p>â€”Me alegro de que no sea pariente mÃ­a. No volverÃ© a llamarla tÃ­a
-                mientras viva. No vendrÃ© a verla cuando sea mayor; y si alguien me
-                pregunta si me caÃ­a bien, y cÃ³mo me tratÃ³, dirÃ© que el solo
-                pensamiento de usted me pone enferma, y que me tratÃ³ con una
+                <p>—Me alegro de que no sea pariente mía. No volveré a llamarla tía
+                mientras viva. No vendré a verla cuando sea mayor; y si alguien me
+                pregunta si me caía bien, y cómo me trató, diré que el solo
+                pensamiento de usted me pone enferma, y que me trató con una
                 crueldad miserable.</p>
 
-                <p>â€”Â¿CÃ³mo te atreves a afirmar eso, Jane Eyre?</p>
+                <p>—¿Cómo te atreves a afirmar eso, Jane Eyre?</p>
 
-                <p>â€”Â¿Que cÃ³mo me atrevo, seÃ±ora Reed? Â¿CÃ³mo me atrevo? Porque
+                <p>—¿Que cómo me atrevo, señora Reed? ¿Cómo me atrevo? Porque
                 es la verdad. Usted piensa que no tengo sentimientos, y que puedo
-                vivir sin una pizca de amor o bondad; pero no puedo vivir asÃ­, y
-                usted no tiene piedad. RecordarÃ© cÃ³mo me empujÃ³ â€”brusca y
-                violentamente me empujÃ³â€” de vuelta al cuarto rojo, y me encerrÃ³
-                allÃ­, hasta el dÃ­a de mi muerte; aunque yo estaba en agonÃ­a; aunque
-                gritÃ©, mientras me ahogaba de angustia: Â«Â¡Piedad! Â¡Piedad, tÃ­a
-                Reed!Â». Y ese castigo me lo hizo sufrir porque su malvado hijo me
-                pegÃ³, me derribÃ³ por nada. Le contarÃ© a cualquiera que me haga
+                vivir sin una pizca de amor o bondad; pero no puedo vivir así, y
+                usted no tiene piedad. Recordaré cómo me empujó —brusca y
+                violentamente me empujó— de vuelta al cuarto rojo, y me encerró
+                allí, hasta el día de mi muerte; aunque yo estaba en agonía; aunque
+                grité, mientras me ahogaba de angustia: «¡Piedad! ¡Piedad, tía
+                Reed!». Y ese castigo me lo hizo sufrir porque su malvado hijo me
+                pegó, me derribó por nada. Le contaré a cualquiera que me haga
                 preguntas, esta historia exacta. La gente cree que es usted una
-                buena mujer, pero es mala, dura de corazÃ³n. Â¡Usted es la
+                buena mujer, pero es mala, dura de corazón. ¡Usted es la
                 embustera!</p>
 
-                <p>Antes de que hubiera terminado esta respuesta, mi alma comenzÃ³
-                a expandirse, a exultar, con la mÃ¡s extraÃ±a sensaciÃ³n de libertad, de
-                triunfo, que jamÃ¡s habÃ­a sentido. ParecÃ­a como si un lazo invisible se
+                <p>Antes de que hubiera terminado esta respuesta, mi alma comenzó
+                a expandirse, a exultar, con la más extraña sensación de libertad, de
+                triunfo, que jamás había sentido. Parecía como si un lazo invisible se
                 hubiera roto y yo hubiera luchado por alcanzar una libertad
-                inesperada. No carecÃ­a de causa este sentimiento: la seÃ±ora Reed
-                parecÃ­a asustada; su labor se le habÃ­a resbalado de las rodillas;
-                levantaba las manos, se mecÃ­a de un lado a otro e incluso contraÃ­a el
+                inesperada. No carecía de causa este sentimiento: la señora Reed
+                parecía asustada; su labor se le había resbalado de las rodillas;
+                levantaba las manos, se mecía de un lado a otro e incluso contraía el
                 rostro como si fuera a llorar.</p>
 
-                <p>â€”Jane, estÃ¡s equivocada. Â¿QuÃ© te pasa? Â¿Por quÃ© tiemblas tan
-                violentamente? Â¿Quieres beber un poco de agua?</p>
+                <p>—Jane, estás equivocada. ¿Qué te pasa? ¿Por qué tiemblas tan
+                violentamente? ¿Quieres beber un poco de agua?</p>
 
-                <p>â€”No, seÃ±ora Reed.</p>
+                <p>—No, señora Reed.</p>
 
-                <p>â€”Â¿Deseas algo mÃ¡s, Jane? Te aseguro que deseo ser tu amiga.</p>
+                <p>—¿Deseas algo más, Jane? Te aseguro que deseo ser tu amiga.</p>
 
-                <p>â€”Usted no. Le dijo al seÃ±or Brocklehurst que yo tenÃ­a mal
-                carÃ¡cter, una disposiciÃ³n embustera; y harÃ© saber a todo el mundo
+                <p>—Usted no. Le dijo al señor Brocklehurst que yo tenía mal
+                carácter, una disposición embustera; y haré saber a todo el mundo
                 en Lowood lo que es usted y lo que ha hecho.</p>
 
-                <p>â€”Jane, no entiendes estas cosas; a los niÃ±os hay que corregirles
+                <p>—Jane, no entiendes estas cosas; a los niños hay que corregirles
                 sus faltas.</p>
 
-                <p>â€”Â¡El engaÃ±o no es mi falta! â€”gritÃ© con una voz salvaje y aguda.</p>
+                <p>—¡El engaño no es mi falta! —grité con una voz salvaje y aguda.</p>
 
-                <p>â€”Pero eres apasionada, Jane, eso debes admitirlo. Y ahora vuelve
-                al cuarto de los niÃ±os â€”anda, tesoroâ€” y acuÃ©state un ratito.</p>
+                <p>—Pero eres apasionada, Jane, eso debes admitirlo. Y ahora vuelve
+                al cuarto de los niños —anda, tesoro— y acuéstate un ratito.</p>
 
-                <p>â€”No soy su tesoro; no puedo acostarme. EnvÃ­eme pronto a la
-                escuela, seÃ±ora Reed, porque odio vivir aquÃ­.</p>
+                <p>—No soy su tesoro; no puedo acostarme. Envíeme pronto a la
+                escuela, señora Reed, porque odio vivir aquí.</p>
 
-                <p>â€”Desde luego que la enviarÃ© pronto a la escuela â€”murmurÃ³ la
-                seÃ±ora Reed sotto voce; y, recogiendo su labor, abandonÃ³
+                <p>—Desde luego que la enviaré pronto a la escuela —murmuró la
+                señora Reed sotto voce; y, recogiendo su labor, abandonó
                 bruscamente la estancia.</p>
 
-                <p>Me quedÃ© allÃ­ sola, vencedora del campo de batalla. Fue la batalla
-                mÃ¡s dura que habÃ­a librado y la primera victoria que habÃ­a obtenido.
-                PermanecÃ­ un rato de pie sobre la alfombra, donde el seÃ±or
-                Brocklehurst habÃ­a estado, y disfrutÃ© de la soledad de mi victoria.
-                Primero, sonreÃ­ para mis adentros y me sentÃ­ eufÃ³rica; pero este
-                feroz placer remitiÃ³ en mÃ­ tan rÃ¡pido como lo hizo el acelerado latido
-                de mi pulso. Un niÃ±o no puede reÃ±ir con sus mayores como yo lo
-                habÃ­a hecho; no puede dar rienda suelta a sus furiosos sentimientos
-                sin control, como yo habÃ­a hecho con los mÃ­os, sin experimentar
-                despuÃ©s la punzada del remordimiento y el frÃ­o de la reacciÃ³n. Una
-                cresta de brezo encendido, viva, centelleante, devoradora, habrÃ­a
-                sido un emblema adecuado de mi mente cuando acusÃ© y amenacÃ© la
-                seÃ±ora Reed; la misma cresta, negra y calcinada despuÃ©s de que las
-                llamas se extinguieran, habrÃ­a representado con igual acierto mi
-                estado posterior, cuando media hora de silencio y reflexiÃ³n me
-                mostrÃ³ la locura de mi conducta y la desolaciÃ³n de mi odiada y
-                odiosa posiciÃ³n.</p>
+                <p>Me quedé allí sola, vencedora del campo de batalla. Fue la batalla
+                más dura que había librado y la primera victoria que había obtenido.
+                Permanecí un rato de pie sobre la alfombra, donde el señor
+                Brocklehurst había estado, y disfruté de la soledad de mi victoria.
+                Primero, sonreí para mis adentros y me sentí eufórica; pero este
+                feroz placer remitió en mí tan rápido como lo hizo el acelerado latido
+                de mi pulso. Un niño no puede reñir con sus mayores como yo lo
+                había hecho; no puede dar rienda suelta a sus furiosos sentimientos
+                sin control, como yo había hecho con los míos, sin experimentar
+                después la punzada del remordimiento y el frío de la reacción. Una
+                cresta de brezo encendido, viva, centelleante, devoradora, habría
+                sido un emblema adecuado de mi mente cuando acusé y amenacé la
+                señora Reed; la misma cresta, negra y calcinada después de que las
+                llamas se extinguieran, habría representado con igual acierto mi
+                estado posterior, cuando media hora de silencio y reflexión me
+                mostró la locura de mi conducta y la desolación de mi odiada y
+                odiosa posición.</p>
 
-                <p>HabÃ­a probado por primera vez algo parecido a la venganza;
-                parecÃ­a, al tragarlo, un vino aromÃ¡tico, cÃ¡lido y especiado; su
-                regusto, metÃ¡lico y corrosivo, me dio la sensaciÃ³n de haber sido
-                envenenada. De buena gana habrÃ­a ido ahora a pedir perdÃ³n a la
-                seÃ±ora Reed; pero sabÃ­a, en parte por experiencia y en parte por
+                <p>Había probado por primera vez algo parecido a la venganza;
+                parecía, al tragarlo, un vino aromático, cálido y especiado; su
+                regusto, metálico y corrosivo, me dio la sensación de haber sido
+                envenenada. De buena gana habría ido ahora a pedir perdón a la
+                señora Reed; pero sabía, en parte por experiencia y en parte por
                 instinto, que esa era la manera de hacer que me rechazara con
-                doble desdÃ©n, reavivando asÃ­ cada impulso turbulento de mi
+                doble desdén, reavivando así cada impulso turbulento de mi
                 naturaleza.</p>
 
                 <p>Anhelaba ejercitar alguna facultad mejor que la de hablar con
-                ferocidad; anhelaba encontrar alimento para algÃºn sentimiento
-                menos diabÃ³lico que el de la sombrÃ­a indignaciÃ³n. CogÃ­ un libro â€”
-                unos cuentos Ã¡rabesâ€”; me sentÃ© e intentÃ© leer. No pude encontrarle
+                ferocidad; anhelaba encontrar alimento para algún sentimiento
+                menos diabólico que el de la sombría indignación. Cogí un libro —
+                unos cuentos árabes—; me senté e intenté leer. No pude encontrarle
                 sentido al tema; mis propios pensamientos nadaban siempre entre la
-                pÃ¡gina que habitualmente encontraba fascinante y yo. AbrÃ­ la puerta
+                página que habitualmente encontraba fascinante y yo. Abrí la puerta
                 de cristal del comedor de diario: la zona de arbustos estaba
                 completamente quieta; la helada negra reinaba, ininterrumpida por
-                el sol o la brisa, por todos los terrenos. Me cubrÃ­ la cabeza y los
-                brazos con la falda de mi vestido y salÃ­ a pasear por una parte de la
-                finca que estaba bastante apartada; pero no encontrÃ© placer en los
-                Ã¡rboles silenciosos, las piÃ±as que caÃ­an, las reliquias congeladas del
-                otoÃ±o, las hojas rojizas, amontonadas por vientos pasados y ahora
-                endurecidas. Me apoyÃ© en una verja y mirÃ© a un campo vacÃ­o donde
+                el sol o la brisa, por todos los terrenos. Me cubrí la cabeza y los
+                brazos con la falda de mi vestido y salí a pasear por una parte de la
+                finca que estaba bastante apartada; pero no encontré placer en los
+                árboles silenciosos, las piñas que caían, las reliquias congeladas del
+                otoño, las hojas rojizas, amontonadas por vientos pasados y ahora
+                endurecidas. Me apoyé en una verja y miré a un campo vacío donde
                 no pastaban ovejas, donde la hierba corta estaba marchita y
-                blanqueada por la helada. Era un dÃ­a muy gris; un cielo de lo mÃ¡s
-                opaco, que amenazaba nieve, lo cubrÃ­a todo; de Ã©l caÃ­an copos a
+                blanqueada por la helada. Era un día muy gris; un cielo de lo más
+                opaco, que amenazaba nieve, lo cubría todo; de él caían copos a
                 intervalos, que se posaban sin derretirse en el duro sendero y en la
-                pradera escarchada. PermanecÃ­ de pie, una niÃ±a bastante
-                desdichada, susurrÃ¡ndome una y otra vez: Â«Â¿QuÃ© harÃ©? Â¿QuÃ©
-                harÃ©?Â».</p>
+                pradera escarchada. Permanecí de pie, una niña bastante
+                desdichada, susurrándome una y otra vez: «¿Qué haré? ¿Qué
+                haré?».</p>
 
-                <p>De repente oÃ­ una voz clara que llamaba:</p>
+                <p>De repente oí una voz clara que llamaba:</p>
 
-                <p>â€”Â¡SeÃ±orita Jane! Â¿DÃ³nde estÃ¡? Â¡Venga a comer!</p>
+                <p>—¡Señorita Jane! ¿Dónde está? ¡Venga a comer!</p>
 
-                <p>Era Bessie, lo sabÃ­a de sobra; pero no me movÃ­; su paso ligero se
-                acercÃ³ por el sendero.</p>
+                <p>Era Bessie, lo sabía de sobra; pero no me moví; su paso ligero se
+                acercó por el sendero.</p>
 
-                <p>â€”Â¡PequeÃ±a traviesa! â€”dijoâ€”. Â¿Por quÃ© no vienes cuando te
+                <p>—¡Pequeña traviesa! —dijo—. ¿Por qué no vienes cuando te
                 llaman?</p>
 
                 <p>La presencia de Bessie, comparada con los pensamientos sobre
-                los que habÃ­a estado cavilando, parecÃ­a alegre; aunque, como de
+                los que había estado cavilando, parecía alegre; aunque, como de
                 costumbre, estaba algo enfadada. Lo cierto es que, tras mi conflicto
-                y victoria sobre la seÃ±ora Reed, no estaba dispuesta a preocuparme
-                mucho por la ira pasajera de la niÃ±era; y sÃ­ estaba dispuesta a
-                deleitarme en su juvenil alegrÃ­a de corazÃ³n. Simplemente la rodeÃ©
+                y victoria sobre la señora Reed, no estaba dispuesta a preocuparme
+                mucho por la ira pasajera de la niñera; y sí estaba dispuesta a
+                deleitarme en su juvenil alegría de corazón. Simplemente la rodeé
                 con mis dos brazos y le dije:</p>
 
-                <p>â€”Â¡Vamos, Bessie! No me riÃ±as.</p>
+                <p>—¡Vamos, Bessie! No me riñas.</p>
 
-                <p>La acciÃ³n fue mÃ¡s franca y audaz que cualquiera que yo estuviera
-                habituada a permitirme; de alguna manera, le agradÃ³.</p>
+                <p>La acción fue más franca y audaz que cualquiera que yo estuviera
+                habituada a permitirme; de alguna manera, le agradó.</p>
 
-                <p>â€”Es usted una niÃ±a extraÃ±a, seÃ±orita Jane â€”dijo, mientras me
-                mirabaâ€”; un ser pequeÃ±o, errante y solitario. Y se va a la escuela,
-                Â¿supongo?</p>
+                <p>—Es usted una niña extraña, señorita Jane —dijo, mientras me
+                miraba—; un ser pequeño, errante y solitario. Y se va a la escuela,
+                ¿supongo?</p>
 
-                <p>AsentÃ­.</p>
+                <p>Asentí.</p>
 
-                <p>â€”Â¿Y no le darÃ¡ pena dejar a la pobre Bessie?</p>
+                <p>—¿Y no le dará pena dejar a la pobre Bessie?</p>
 
-                <p>â€”Â¿QuÃ© le importa Bessie de mÃ­? Siempre me estÃ¡ riÃ±endo.</p>
+                <p>—¿Qué le importa Bessie de mí? Siempre me está riñendo.</p>
 
-                <p>â€”Porque es usted una cosita tan rara, asustadiza y tÃ­mida.
-                DeberÃ­a ser mÃ¡s audaz.</p>
+                <p>—Porque es usted una cosita tan rara, asustadiza y tímida.
+                Debería ser más audaz.</p>
 
-                <p>â€”Â¡CÃ³mo! Â¿Para recibir mÃ¡s golpes?</p>
+                <p>—¡Cómo! ¿Para recibir más golpes?</p>
 
-                <p>â€”Â¡TonterÃ­as! Pero abusan bastante de usted, eso es seguro. Mi
+                <p>—¡Tonterías! Pero abusan bastante de usted, eso es seguro. Mi
                 madre dijo, cuando vino a verme la semana pasada, que no le
-                gustarÃ­a que un pequeÃ±o suyo estuviera en su lugar. Ahora, entre,
+                gustaría que un pequeño suyo estuviera en su lugar. Ahora, entre,
                 que tengo buenas noticias para usted.</p>
 
-                <p>â€”No creo que las tenga, Bessie.</p>
+                <p>—No creo que las tenga, Bessie.</p>
 
-                <p>â€”Â¡NiÃ±a! Â¿QuÃ© quieres decir? Â¡QuÃ© ojos tan tristes me pones!
-                Bueno, pero la seÃ±ora, las seÃ±oritas y el seÃ±orito John van a tomar
-                el tÃ© fuera esta tarde, y usted tomarÃ¡ el tÃ© conmigo. Le pedirÃ© a la
-                cocinera que le hornee un pastelito, y luego me ayudarÃ¡ a revisar
-                sus cajones, porque pronto tengo que hacerle el baÃºl. La seÃ±ora
-                tiene la intenciÃ³n de que se marche de Gateshead en un dÃ­a o dos, y
-                podrÃ¡ elegir quÃ© juguetes quiere llevarse.</p>
+                <p>—¡Niña! ¿Qué quieres decir? ¡Qué ojos tan tristes me pones!
+                Bueno, pero la señora, las señoritas y el señorito John van a tomar
+                el té fuera esta tarde, y usted tomará el té conmigo. Le pediré a la
+                cocinera que le hornee un pastelito, y luego me ayudará a revisar
+                sus cajones, porque pronto tengo que hacerle el baúl. La señora
+                tiene la intención de que se marche de Gateshead en un día o dos, y
+                podrá elegir qué juguetes quiere llevarse.</p>
 
-                <p>â€”Bessie, tienes que prometerme que no me reÃ±irÃ¡s mÃ¡s hasta
+                <p>—Bessie, tienes que prometerme que no me reñirás más hasta
                 que me vaya.</p>
 
-                <p>â€”Bueno, lo prometo; pero pÃ³rtate muy bien y no me tengas
+                <p>—Bueno, lo prometo; pero pórtate muy bien y no me tengas
                 miedo. No te sobresaltes si por casualidad hablo un poco
                 bruscamente; es tan irritante.</p>
 
-                <p>â€”No creo que vuelva a tenerte miedo, Bessie, porque me he
-                acostumbrado a ti, y pronto tendrÃ© otro grupo de gente a quien
+                <p>—No creo que vuelva a tenerte miedo, Bessie, porque me he
+                acostumbrado a ti, y pronto tendré otro grupo de gente a quien
                 temer.</p>
 
-                <p>â€”Si les temes, no les gustarÃ¡s.</p>
+                <p>—Si les temes, no les gustarás.</p>
 
-                <p>â€”Â¿Como a ti, Bessie?</p>
+                <p>—¿Como a ti, Bessie?</p>
 
-                <p>â€”Usted no me disgusta, seÃ±orita; creo que le tengo mÃ¡s cariÃ±o
-                que a todos los demÃ¡s.</p>
+                <p>—Usted no me disgusta, señorita; creo que le tengo más cariño
+                que a todos los demás.</p>
 
-                <p>â€”No lo demuestras.</p>
+                <p>—No lo demuestras.</p>
 
-                <p>â€”Â¡PequeÃ±a astuta! Tienes una forma de hablar completamente
-                nueva. Â¿QuÃ© te hace tan atrevida y resuelta?</p>
+                <p>—¡Pequeña astuta! Tienes una forma de hablar completamente
+                nueva. ¿Qué te hace tan atrevida y resuelta?</p>
 
-                <p>â€”Pues que pronto estarÃ© lejos de ti, y ademÃ¡s... â€”iba a decir algo
-                sobre lo que habÃ­a pasado entre la seÃ±ora Reed y yo, pero
-                pensÃ¡ndolo mejor, considerÃ© que era preferible guardar silencio
+                <p>—Pues que pronto estaré lejos de ti, y además... —iba a decir algo
+                sobre lo que había pasado entre la señora Reed y yo, pero
+                pensándolo mejor, consideré que era preferible guardar silencio
                 sobre ese asunto.</p>
 
-                <p>â€”Â¿AsÃ­ que te alegras de dejarme?</p>
+                <p>—¿Así que te alegras de dejarme?</p>
 
-                <p>â€”En absoluto, Bessie; de hecho, ahora mismo me da bastante
+                <p>—En absoluto, Bessie; de hecho, ahora mismo me da bastante
                 pena.</p>
 
-                <p>â€”Â¡Ahora mismo! Â¡Y bastante! Â¡Con quÃ© frialdad lo dice mi
-                seÃ±orita! Me atreverÃ­a a decir que si ahora te pidiera un beso, no me
-                lo darÃ­as: dirÃ­as que preferirÃ­as no hacerlo.</p>
+                <p>—¡Ahora mismo! ¡Y bastante! ¡Con qué frialdad lo dice mi
+                señorita! Me atrevería a decir que si ahora te pidiera un beso, no me
+                lo darías: dirías que preferirías no hacerlo.</p>
 
-                <p>â€”Te darÃ© un beso con mucho gusto: inclina la cabeza.</p>
+                <p>—Te daré un beso con mucho gusto: inclina la cabeza.</p>
 
-                <p>Bessie se agachÃ³; nos abrazamos mutuamente y la seguÃ­ a la casa
-                bastante reconfortada. Aquella tarde transcurriÃ³ en paz y armonÃ­a; y
-                por la noche, Bessie me contÃ³ algunas de sus historias mÃ¡s
-                encantadoras y me cantÃ³ algunas de sus canciones mÃ¡s dulces.
-                Incluso para mÃ­, la vida tenÃ­a sus destellos de sol.</p>
+                <p>Bessie se agachó; nos abrazamos mutuamente y la seguí a la casa
+                bastante reconfortada. Aquella tarde transcurrió en paz y armonía; y
+                por la noche, Bessie me contó algunas de sus historias más
+                encantadoras y me cantó algunas de sus canciones más dulces.
+                Incluso para mí, la vida tenía sus destellos de sol.</p>
 
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap3.php" rel="prev">Anterior</a>
-                    <a class="boton" href="../../contenido_eyre.php">Regresa al menÃº de capÃ­tulos</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
                     <a class="cambioSiguiente" href="cap5.php" rel="next">Siguiente</a>
                 </div>
             </section>
@@ -809,5 +809,6 @@
     </main>
 </body>
 </html>
+
 
 

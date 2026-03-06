@@ -1,9 +1,9 @@
-ï»¿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>CapÃ­tulo 2</title>
+    <title>Capítulo 2</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el capÃ­tulo 2">
+    <meta name="description" content="Este es el capítulo 2">
     <meta name="keywords" content="HTML, CSS">
         <link rel="stylesheet" href="../../../../../css/css_caps.css">
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -27,7 +27,7 @@
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
             <li><a href="#">Asistente virtual</a></li>
-            <li><a href="../../../../tfm.php">Sobre este proyecto</a></li>
+
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
     </nav>
@@ -39,21 +39,21 @@
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="../../intro_obra.php">IntroducciÃ³n a la obra</a></li>
+                        <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contenido_eyre.php">Contenido</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../resumenes/resumenes.php">ResÃºmenes</a></li>
-                                <li><a href="../../capitulos.php">CapÃ­tulos</a></li>
+                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
+                                <li><a href="../../capitulos.php">Capítulos</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte BrontÃ«</a></li>
-                                <li><a href="contexto_historico.php">Contexto histÃ³rico</a></li>
+                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
+                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
                             </ul>
                         </li>
 
@@ -61,7 +61,7 @@
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">SÃ­mbolos</a></li>
+                                <li><a href="simbolos.php">Símbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
                                 <li><a href="mapa.php">Mapa</a></li>
@@ -82,324 +82,324 @@
             </div>
             
             <section class="contenido">
-                <h1>CapÃ­tulo II</h1>
+                <h1>Capítulo II</h1>
                 
-                <p>Me resistÃ­ durante todo el camino: algo nuevo para mÃ­, y una
-                circunstancia que fortaleciÃ³ enormemente la mala opiniÃ³n que Bessie
-                y la seÃ±orita Abbot estaban dispuestas a tener de mÃ­. Lo cierto es
-                que estaba un poco fuera de mis cabales; o mÃ¡s bien fuera de mÃ­,
-                como dirÃ­an los franceses. Era consciente de que un momento de
-                motÃ­n ya me habÃ­a hecho merecedora de extraÃ±os castigos y, como
-                cualquier otro esclavo rebelde, me sentÃ­ resuelta, en mi
-                desesperaciÃ³n, a llegar hasta el final.</p>
+                <p>Me resistí durante todo el camino: algo nuevo para mí, y una
+                circunstancia que fortaleció enormemente la mala opinión que Bessie
+                y la señorita Abbot estaban dispuestas a tener de mí. Lo cierto es
+                que estaba un poco fuera de mis cabales; o más bien fuera de mí,
+                como dirían los franceses. Era consciente de que un momento de
+                motín ya me había hecho merecedora de extraños castigos y, como
+                cualquier otro esclavo rebelde, me sentí resuelta, en mi
+                desesperación, a llegar hasta el final.</p>
 
-                <p>â€”SujÃ©tele los brazos, seÃ±orita Abbot; parece un gato rabioso.</p>
+                <p>—Sujétele los brazos, señorita Abbot; parece un gato rabioso.</p>
 
-                <p>â€”Â¡QuÃ© vergÃ¼enza! Â¡QuÃ© vergÃ¼enza! â€”exclamÃ³ la doncellaâ€”. Â¡QuÃ©
-                conducta tan espantosa, seÃ±orita Eyre, golpear a un joven caballero,
+                <p>—¡Qué vergüenza! ¡Qué vergüenza! —exclamó la doncella—. ¡Qué
+                conducta tan espantosa, señorita Eyre, golpear a un joven caballero,
                 el hijo de su benefactora! Su joven amo.</p>
 
-                <p>â€”Â¡Amo! Â¿CÃ³mo es Ã©l mi amo? Â¿Soy yo una criada?</p>
+                <p>—¡Amo! ¿Cómo es él mi amo? ¿Soy yo una criada?</p>
 
-                <p>â€”No; es usted menos que una criada, pues no hace nada a
-                cambio de su sustento. Ea, siÃ©ntese y reflexione sobre su maldad.</p>
+                <p>—No; es usted menos que una criada, pues no hace nada a
+                cambio de su sustento. Ea, siéntese y reflexione sobre su maldad.</p>
 
-                <p>Para entonces ya me habÃ­an metido en la habitaciÃ³n indicada por
-                la seÃ±ora Reed y me habÃ­an empujado sobre un taburete. Mi impulso
+                <p>Para entonces ya me habían metido en la habitación indicada por
+                la señora Reed y me habían empujado sobre un taburete. Mi impulso
                 fue levantarme de un salto; sus dos pares de manos me detuvieron
                 al instante.</p>
 
-                <p>â€”Si no se estÃ¡ quieta, habrÃ¡ que atarla â€”dijo Bessieâ€”. SeÃ±orita
-                Abbot, prÃ©steme sus ligas; las mÃ­as las romperÃ­a de inmediato.</p>
+                <p>—Si no se está quieta, habrá que atarla —dijo Bessie—. Señorita
+                Abbot, présteme sus ligas; las mías las rompería de inmediato.</p>
 
-                <p>La seÃ±orita Abbot se dispuso a despojar una robusta pierna de la
-                necesaria ligadura. Esta preparaciÃ³n para las ataduras, y la
-                ignominia adicional que implicaba, aplacÃ³ un poco mi agitaciÃ³n.</p>
+                <p>La señorita Abbot se dispuso a despojar una robusta pierna de la
+                necesaria ligadura. Esta preparación para las ataduras, y la
+                ignominia adicional que implicaba, aplacó un poco mi agitación.</p>
 
-                <p>â€”No se las quite â€”gritÃ©â€”; no me moverÃ©.</p>
+                <p>—No se las quite —grité—; no me moveré.</p>
 
-                <p>Como garantÃ­a, me aferrÃ© a mi asiento con las manos.</p>
+                <p>Como garantía, me aferré a mi asiento con las manos.</p>
 
-                <p>â€”A ver si es verdad â€”dijo Bessie; y cuando se hubo cerciorado de
-                que realmente me estaba calmando, me soltÃ³. Entonces ella y la
-                seÃ±orita Abbot se quedaron de brazos cruzados, mirÃ¡ndome el rostro
-                con aire sombrÃ­o y dubitativo, como incrÃ©dulas de mi cordura.</p>
+                <p>—A ver si es verdad —dijo Bessie; y cuando se hubo cerciorado de
+                que realmente me estaba calmando, me soltó. Entonces ella y la
+                señorita Abbot se quedaron de brazos cruzados, mirándome el rostro
+                con aire sombrío y dubitativo, como incrédulas de mi cordura.</p>
 
-                <p>â€”Nunca habÃ­a hecho algo asÃ­ â€”dijo finalmente Bessie,
-                volviÃ©ndose hacia la doncella.</p>
+                <p>—Nunca había hecho algo así —dijo finalmente Bessie,
+                volviéndose hacia la doncella.</p>
 
-                <p>â€”Pero siempre lo ha llevado dentro â€”fue la respuestaâ€”. Le he
-                dicho a la seÃ±ora mi opiniÃ³n sobre la niÃ±a muchas veces, y la seÃ±ora
-                estaba de acuerdo conmigo. Es una pequeÃ±a hipÃ³crita; nunca he
-                visto a una niÃ±a de su edad con tanta doblez.</p>
+                <p>—Pero siempre lo ha llevado dentro —fue la respuesta—. Le he
+                dicho a la señora mi opinión sobre la niña muchas veces, y la señora
+                estaba de acuerdo conmigo. Es una pequeña hipócrita; nunca he
+                visto a una niña de su edad con tanta doblez.</p>
 
-                <p>Bessie no respondiÃ³; pero al poco rato, dirigiÃ©ndose a mÃ­, dijo:</p>
+                <p>Bessie no respondió; pero al poco rato, dirigiéndose a mí, dijo:</p>
 
-                <p>â€”DeberÃ­a ser consciente, seÃ±orita, de que tiene obligaciones con
-                la seÃ±ora Reed: ella la mantiene. Si la echara, tendrÃ­a que ir al
+                <p>—Debería ser consciente, señorita, de que tiene obligaciones con
+                la señora Reed: ella la mantiene. Si la echara, tendría que ir al
                 hospicio.</p>
 
-                <p>No tuve nada que decir a estas palabras: no eran nuevas para mÃ­.
-                Mis primerÃ­simos recuerdos de la existencia incluÃ­an insinuaciones
-                del mismo tipo. Este reproche a mi dependencia se habÃ­a convertido
-                en una vaga cantinela en mis oÃ­dos: muy dolorosa y aplastante, pero
-                solo a medias inteligible. La seÃ±orita Abbot intervino:</p>
+                <p>No tuve nada que decir a estas palabras: no eran nuevas para mí.
+                Mis primerísimos recuerdos de la existencia incluían insinuaciones
+                del mismo tipo. Este reproche a mi dependencia se había convertido
+                en una vaga cantinela en mis oídos: muy dolorosa y aplastante, pero
+                solo a medias inteligible. La señorita Abbot intervino:</p>
 
-                <p>â€”Y no deberÃ­a creerse igual a las seÃ±oritas Reed y al seÃ±orito
-                Reed, porque la seÃ±ora amablemente le permite criarse con ellos.
-                Ellos tendrÃ¡n mucho dinero, y usted no tendrÃ¡ nada; su lugar es ser
+                <p>—Y no debería creerse igual a las señoritas Reed y al señorito
+                Reed, porque la señora amablemente le permite criarse con ellos.
+                Ellos tendrán mucho dinero, y usted no tendrá nada; su lugar es ser
                 humilde y tratar de resultarles agradable.</p>
 
-                <p>â€”Lo que le decimos es por su bien â€”aÃ±adiÃ³ Bessie, con voz nada
-                Ã¡speraâ€”, deberÃ­a tratar de ser Ãºtil y agradable, entonces, quizÃ¡s,
-                tendrÃ­a un hogar aquÃ­; pero si se vuelve apasionada y grosera, la
-                seÃ±ora la echarÃ¡, estoy segura.</p>
+                <p>—Lo que le decimos es por su bien —añadió Bessie, con voz nada
+                áspera—, debería tratar de ser útil y agradable, entonces, quizás,
+                tendría un hogar aquí; pero si se vuelve apasionada y grosera, la
+                señora la echará, estoy segura.</p>
 
-                <p>â€”AdemÃ¡s â€”dijo la seÃ±orita Abbotâ€”, Dios la castigarÃ¡. PodrÃ­a
-                fulminarla en medio de sus rabietas, y entonces, Â¿adÃ³nde irÃ­a?
-                Venga, Bessie, dejÃ©mosla. No querrÃ­a tener su corazÃ³n por nada del
-                mundo. Rece sus oraciones, seÃ±orita Eyre, cuando estÃ© a solas;
-                porque si no se arrepiente, podrÃ­a permitirse que algo malo bajara
+                <p>—Además —dijo la señorita Abbot—, Dios la castigará. Podría
+                fulminarla en medio de sus rabietas, y entonces, ¿adónde iría?
+                Venga, Bessie, dejémosla. No querría tener su corazón por nada del
+                mundo. Rece sus oraciones, señorita Eyre, cuando esté a solas;
+                porque si no se arrepiente, podría permitirse que algo malo bajara
                 por la chimenea y se la llevara.</p>
 
-                <p>Se fueron, cerrando la puerta y echando la llave tras de sÃ­.</p>
+                <p>Se fueron, cerrando la puerta y echando la llave tras de sí.</p>
 
                 <p>El cuarto rojo era una estancia cuadrada en la que muy rara vez
-                se dormÃ­a; dirÃ­a que nunca, en realidad, a menos que una afluencia
+                se dormía; diría que nunca, en realidad, a menos que una afluencia
                 casual de visitantes a Gateshead Hall hiciera necesario aprovechar
-                todo el alojamiento que contenÃ­a. Sin embargo, era una de las
-                habitaciones mÃ¡s grandes y majestuosas de la mansiÃ³n. Una cama
+                todo el alojamiento que contenía. Sin embargo, era una de las
+                habitaciones más grandes y majestuosas de la mansión. Una cama
                 sostenida por macizos pilares de caoba, con cortinas de damasco de
-                un rojo intenso, se alzaba como un tabernÃ¡culo en el centro; las dos
+                un rojo intenso, se alzaba como un tabernáculo en el centro; las dos
                 grandes ventanas, con las persianas siempre bajadas, estaban
-                medio ocultas por festones y caÃ­das de una paÃ±erÃ­a similar; la
+                medio ocultas por festones y caídas de una pañería similar; la
                 alfombra era roja; la mesa a los pies de la cama estaba cubierta con
-                un paÃ±o carmesÃ­; las paredes eran de un suave color cervato con un
+                un paño carmesí; las paredes eran de un suave color cervato con un
                 matiz rosado; el armario, el tocador y las sillas eran de caoba
                 antigua y oscura, muy pulida. De entre estas profundas sombras
                 circundantes se elevaban, altas y de un blanco resplandeciente, las
-                pilas de colchones y almohadas de la cama, cubiertas con una nÃ­vea
-                colcha de Marsella. Apenas menos prominente era un amplio sillÃ³n
-                orejero cerca de la cabecera de la cama, tambiÃ©n blanco, con un
-                escabel delante; y que parecÃ­a, a mi entender, un pÃ¡lido trono.</p>
+                pilas de colchones y almohadas de la cama, cubiertas con una nívea
+                colcha de Marsella. Apenas menos prominente era un amplio sillón
+                orejero cerca de la cabecera de la cama, también blanco, con un
+                escabel delante; y que parecía, a mi entender, un pálido trono.</p>
 
-                <p>Esta habitaciÃ³n era frÃ­a, porque rara vez se encendÃ­a fuego en
-                ella; era silenciosa, porque estaba alejada del cuarto de los niÃ±os y
-                de la cocina; solemne, porque se sabÃ­a que muy pocas veces se
-                entraba en ella. Solo la doncella venÃ­a aquÃ­ los sÃ¡bados, para limpiar
+                <p>Esta habitación era fría, porque rara vez se encendía fuego en
+                ella; era silenciosa, porque estaba alejada del cuarto de los niños y
+                de la cocina; solemne, porque se sabía que muy pocas veces se
+                entraba en ella. Solo la doncella venía aquí los sábados, para limpiar
                 de los espejos y los muebles el polvo silencioso de una semana; y la
-                propia seÃ±ora Reed, a intervalos muy espaciados, la visitaba para
-                revisar el contenido de cierto cajÃ³n secreto del armario, donde se
+                propia señora Reed, a intervalos muy espaciados, la visitaba para
+                revisar el contenido de cierto cajón secreto del armario, donde se
                 guardaban diversos pergaminos, su joyero y una miniatura de su
-                difunto esposo; y en estas Ãºltimas palabras yace el secreto del
-                cuarto rojo, el hechizo que lo mantenÃ­a tan solitario a pesar de su
+                difunto esposo; y en estas últimas palabras yace el secreto del
+                cuarto rojo, el hechizo que lo mantenía tan solitario a pesar de su
                 grandeza.</p>
                 
-                <p>El seÃ±or Reed habÃ­a muerto hacÃ­a nueve aÃ±os; fue en esta cÃ¡mara
-                donde exhalÃ³ su Ãºltimo aliento; aquÃ­ yaciÃ³ de cuerpo presente; de
-                aquÃ­ su ataÃºd fue transportado por los hombres de la funeraria; y,
-                desde aquel dÃ­a, una sensaciÃ³n de lÃºgubre consagraciÃ³n lo habÃ­a
+                <p>El señor Reed había muerto hacía nueve años; fue en esta cámara
+                donde exhaló su último aliento; aquí yació de cuerpo presente; de
+                aquí su ataúd fue transportado por los hombres de la funeraria; y,
+                desde aquel día, una sensación de lúgubre consagración lo había
                 protegido de intrusiones frecuentes.</p>
 
-                <p>Mi asiento, al que Bessie y la agria seÃ±orita Abbot me habÃ­an
+                <p>Mi asiento, al que Bessie y la agria señorita Abbot me habían
                 dejado remachada, era un puf bajo cerca de la chimenea de
-                mÃ¡rmol; la cama se alzaba ante mÃ­; a mi derecha estaba el armario
+                mármol; la cama se alzaba ante mí; a mi derecha estaba el armario
                 alto y oscuro, con reflejos tenues y quebrados que variaban el brillo
                 de sus paneles; a mi izquierda, las ventanas amortiguadas; un gran
-                espejo entre ellas repetÃ­a la vacÃ­a majestuosidad de la cama y la
-                habitaciÃ³n. No estaba muy segura de si habÃ­an cerrado la puerta con
-                llave; y cuando me atrevÃ­ a moverme, me levantÃ© y fui a ver. Â¡Ay, sÃ­!
-                Ninguna cÃ¡rcel fue jamÃ¡s mÃ¡s segura. Al regresar, tuve que cruzar
-                frente al espejo; mi mirada fascinada explorÃ³ involuntariamente la
-                profundidad que revelaba. Todo parecÃ­a mÃ¡s frÃ­o y oscuro en aquel
-                hueco visionario que en la realidad; y la extraÃ±a figurita que allÃ­ me
+                espejo entre ellas repetía la vacía majestuosidad de la cama y la
+                habitación. No estaba muy segura de si habían cerrado la puerta con
+                llave; y cuando me atreví a moverme, me levanté y fui a ver. ¡Ay, sí!
+                Ninguna cárcel fue jamás más segura. Al regresar, tuve que cruzar
+                frente al espejo; mi mirada fascinada exploró involuntariamente la
+                profundidad que revelaba. Todo parecía más frío y oscuro en aquel
+                hueco visionario que en la realidad; y la extraña figurita que allí me
                 contemplaba, con un rostro y unos brazos blancos que salpicaban la
-                penumbra, y unos ojos brillantes de miedo que se movÃ­an donde
-                todo lo demÃ¡s estaba quieto, tenÃ­a el efecto de un espÃ­ritu real: me
-                pareciÃ³ uno de esos diminutos fantasmas, mitad hada, mitad
+                penumbra, y unos ojos brillantes de miedo que se movían donde
+                todo lo demás estaba quieto, tenía el efecto de un espíritu real: me
+                pareció uno de esos diminutos fantasmas, mitad hada, mitad
                 duende, que los cuentos vespertinos de Bessie representaban
-                saliendo de solitarias caÃ±adas cubiertas de helechos en los pÃ¡ramos
-                y apareciÃ©ndose ante los ojos de los viajeros rezagados. VolvÃ­ a mi
+                saliendo de solitarias cañadas cubiertas de helechos en los páramos
+                y apareciéndose ante los ojos de los viajeros rezagados. Volví a mi
                 taburete.</p>
 
-                <p>La supersticiÃ³n estaba conmigo en aquel momento; pero aÃºn no
-                era su hora de victoria completa: mi sangre todavÃ­a estaba caliente;
-                el Ã¡nimo de la esclava rebelde aÃºn me sostenÃ­a con su amargo
-                vigor; tuve que contener un rÃ¡pido torrente de pensamientos
-                retrospectivos antes de acobardarme ante el lÃºgubre presente.</p>
+                <p>La superstición estaba conmigo en aquel momento; pero aún no
+                era su hora de victoria completa: mi sangre todavía estaba caliente;
+                el ánimo de la esclava rebelde aún me sostenía con su amargo
+                vigor; tuve que contener un rápido torrente de pensamientos
+                retrospectivos antes de acobardarme ante el lúgubre presente.</p>
 
-                <p>Todas las violentas tiranÃ­as de John Reed, toda la orgullosa
-                indiferencia de sus hermanas, toda la aversiÃ³n de su madre, toda la
+                <p>Todas las violentas tiranías de John Reed, toda la orgullosa
+                indiferencia de sus hermanas, toda la aversión de su madre, toda la
                 parcialidad de los criados, afloraron en mi mente perturbada como
-                un oscuro sedimento en un pozo turbio. Â¿Por quÃ© sufrÃ­a yo siempre,
-                siempre intimidada, siempre acusada, por siempre condenada? Â¿Por
-                quÃ© nunca podÃ­a complacer? Â¿Por quÃ© era inÃºtil intentar ganarme el
-                favor de nadie? Eliza, que era testaruda y egoÃ­sta, era respetada.
-                Georgiana, que tenÃ­a un carÃ¡cter mimado, un rencor muy agrio, un
+                un oscuro sedimento en un pozo turbio. ¿Por qué sufría yo siempre,
+                siempre intimidada, siempre acusada, por siempre condenada? ¿Por
+                qué nunca podía complacer? ¿Por qué era inútil intentar ganarme el
+                favor de nadie? Eliza, que era testaruda y egoísta, era respetada.
+                Georgiana, que tenía un carácter mimado, un rencor muy agrio, un
                 porte capcioso e insolente, era universalmente consentida. Su
-                belleza, sus mejillas sonrosadas y sus rizos dorados parecÃ­an deleitar
+                belleza, sus mejillas sonrosadas y sus rizos dorados parecían deleitar
                 a todos los que la miraban y comprar la indulgencia para cada falta.
                 A John nadie le contrariaba, y mucho menos le castigaba; aunque
-                retorcÃ­a el pescuezo de las palomas, mataba a los pavitos, azuzaba a
+                retorcía el pescuezo de las palomas, mataba a los pavitos, azuzaba a
                 los perros contra las ovejas, despojaba de sus frutos las vides del
-                invernadero y arrancaba los capullos de las plantas mÃ¡s selectas del
-                conservatorio; tambiÃ©n llamaba a su madre Â«viejaÂ»; a veces la
-                injuriaba por su piel oscura, similar a la suya; desatendÃ­a sin
+                invernadero y arrancaba los capullos de las plantas más selectas del
+                conservatorio; también llamaba a su madre «vieja»; a veces la
+                injuriaba por su piel oscura, similar a la suya; desatendía sin
                 miramientos sus deseos; no con poca frecuencia rasgaba y
-                estropeaba sus vestidos de seda; y aun asÃ­ era Â«su querido tesoroÂ».
+                estropeaba sus vestidos de seda; y aun así era «su querido tesoro».
                 Yo no osaba cometer ninguna falta; me esforzaba por cumplir con
-                todos mis deberes; y era tildada de traviesa y fastidiosa, de huraÃ±a y
-                taimada, desde la maÃ±ana hasta el mediodÃ­a, y desde el mediodÃ­a
+                todos mis deberes; y era tildada de traviesa y fastidiosa, de huraña y
+                taimada, desde la mañana hasta el mediodía, y desde el mediodía
                 hasta la noche.</p>
 
-                <p>AÃºn me dolÃ­a y sangraba la cabeza por el golpe y la caÃ­da que
-                habÃ­a recibido; nadie habÃ­a reprendido a John por golpearme
-                gratuitamente; y porque me habÃ­a vuelto contra Ã©l para evitar una
+                <p>Aún me dolía y sangraba la cabeza por el golpe y la caída que
+                había recibido; nadie había reprendido a John por golpearme
+                gratuitamente; y porque me había vuelto contra él para evitar una
                 mayor violencia irracional, se me cargaba con el oprobio general.</p>
 
-                <p>Â«Â¡Injusto! Â¡Injusto!Â», decÃ­a mi razÃ³n, forzada por el angustioso
-                estÃ­mulo a un poder precoz aunque transitorio. Y la DeterminaciÃ³n,
-                igualmente exaltada, instigaba algÃºn extraÃ±o recurso para lograr
-                escapar de una opresiÃ³n insoportable, como huir o, si eso no podÃ­a
+                <p>«¡Injusto! ¡Injusto!», decía mi razón, forzada por el angustioso
+                estímulo a un poder precoz aunque transitorio. Y la Determinación,
+                igualmente exaltada, instigaba algún extraño recurso para lograr
+                escapar de una opresión insoportable, como huir o, si eso no podía
                 llevarse a cabo, no volver a comer ni a beber y dejarme morir.</p>
 
-                <p>Â¡QuÃ© consternaciÃ³n del alma la mÃ­a aquella lÃºgubre tarde! Â¡CÃ³mo
-                estaba todo mi cerebro en tumulto, y todo mi corazÃ³n en
-                insurrecciÃ³n! Â¡Y sin embargo, en quÃ© oscuridad, en quÃ© densa
-                ignorancia, se libraba la batalla mental! No podÃ­a responder a la
-                incesante pregunta interna: Â¿por quÃ© sufrÃ­a yo asÃ­? Ahora, a la
-                distancia de â€”no dirÃ© cuÃ¡ntosâ€” aÃ±os, lo veo claramente.</p>
+                <p>¡Qué consternación del alma la mía aquella lúgubre tarde! ¡Cómo
+                estaba todo mi cerebro en tumulto, y todo mi corazón en
+                insurrección! ¡Y sin embargo, en qué oscuridad, en qué densa
+                ignorancia, se libraba la batalla mental! No podía responder a la
+                incesante pregunta interna: ¿por qué sufría yo así? Ahora, a la
+                distancia de —no diré cuántos— años, lo veo claramente.</p>
 
-                <p>Yo era una discordancia en Gateshead Hall: no me parecÃ­a a nadie
-                de allÃ­; no tenÃ­a nada en armonÃ­a con la seÃ±ora Reed o sus hijos, o
+                <p>Yo era una discordancia en Gateshead Hall: no me parecía a nadie
+                de allí; no tenía nada en armonía con la señora Reed o sus hijos, o
                 su selecto vasallaje. Si ellos no me amaban, de hecho, tampoco yo
                 los amaba a ellos. No estaban obligados a mirar con afecto a un ser
-                que no podÃ­a simpatizar con ninguno de ellos; un ser heterogÃ©neo,
+                que no podía simpatizar con ninguno de ellos; un ser heterogéneo,
                 opuesto a ellos en temperamento, en capacidad, en inclinaciones; un
-                ser inÃºtil, incapaz de servir a sus intereses o de aumentar su placer;
-                un ser nocivo, que albergaba los gÃ©rmenes de la indignaciÃ³n por su
-                trato, del desprecio por su juicio. SÃ© que si hubiera sido una niÃ±a
+                ser inútil, incapaz de servir a sus intereses o de aumentar su placer;
+                un ser nocivo, que albergaba los gérmenes de la indignación por su
+                trato, del desprecio por su juicio. Sé que si hubiera sido una niña
                 optimista, brillante, despreocupada, exigente, hermosa y juguetona
-                â€”aunque igualmente dependiente y sin amigosâ€”, la seÃ±ora Reed
-                habrÃ­a soportado mi presencia con mÃ¡s complacencia; sus hijos
-                habrÃ­an sentido por mÃ­ mÃ¡s de la cordialidad del compaÃ±erismo; los
-                criados habrÃ­an sido menos propensos a convertirme en el chivo
-                expiatorio del cuarto de los niÃ±os.</p>
+                —aunque igualmente dependiente y sin amigos—, la señora Reed
+                habría soportado mi presencia con más complacencia; sus hijos
+                habrían sentido por mí más de la cordialidad del compañerismo; los
+                criados habrían sido menos propensos a convertirme en el chivo
+                expiatorio del cuarto de los niños.</p>
 
-                <p>La luz del dÃ­a comenzÃ³ a abandonar el cuarto rojo; pasaban de las
-                cuatro, y la tarde nublada tendÃ­a a un lÃºgubre crepÃºsculo. OÃ­a la
-                lluvia golpear aÃºn continuamente en la ventana de la escalera, y el
-                viento aullar en la arboleda detrÃ¡s de la casa; poco a poco me quedÃ©
-                frÃ­a como una piedra, y entonces mi valor se hundiÃ³. Mi habitual
-                estado de humillaciÃ³n, duda de mÃ­ misma y desolada depresiÃ³n cayÃ³
+                <p>La luz del día comenzó a abandonar el cuarto rojo; pasaban de las
+                cuatro, y la tarde nublada tendía a un lúgubre crepúsculo. Oía la
+                lluvia golpear aún continuamente en la ventana de la escalera, y el
+                viento aullar en la arboleda detrás de la casa; poco a poco me quedé
+                fría como una piedra, y entonces mi valor se hundió. Mi habitual
+                estado de humillación, duda de mí misma y desolada depresión cayó
                 como una humedad sobre las brasas de mi ira decadente. Todos
-                decÃ­an que yo era malvada, y quizÃ¡s lo fuera; Â¿quÃ© pensamiento
+                decían que yo era malvada, y quizás lo fuera; ¿qué pensamiento
                 acababa de concebir, el de matarme de hambre? Eso ciertamente
-                era un crimen: Â¿y estaba yo en condiciones de morir? Â¿O era la
+                era un crimen: ¿y estaba yo en condiciones de morir? ¿O era la
                 cripta bajo el presbiterio de la iglesia de Gateshead un destino
-                apetecible? En esa cripta me habÃ­an dicho que yacÃ­a enterrado el
-                seÃ±or Reed; y llevada por este pensamiento a recordar su figura, me
-                detuve en ella con creciente pavor. No podÃ­a recordarlo; pero sabÃ­a
-                que era mi tÃ­o â€”hermano de mi madreâ€”, que me habÃ­a acogido en
-                su casa cuando era una niÃ±a huÃ©rfana; y que en sus Ãºltimos
-                momentos le habÃ­a exigido a la seÃ±ora Reed la promesa de que me
-                criarÃ­a y mantendrÃ­a como a una de sus propios hijos. La seÃ±ora
-                Reed probablemente consideraba que habÃ­a cumplido esta promesa;
-                y asÃ­ lo habÃ­a hecho, me atreverÃ­a a decir, tanto como su naturaleza
-                se lo permitÃ­a; pero, Â¿cÃ³mo podrÃ­a realmente querer a una intrusa
+                apetecible? En esa cripta me habían dicho que yacía enterrado el
+                señor Reed; y llevada por este pensamiento a recordar su figura, me
+                detuve en ella con creciente pavor. No podía recordarlo; pero sabía
+                que era mi tío —hermano de mi madre—, que me había acogido en
+                su casa cuando era una niña huérfana; y que en sus últimos
+                momentos le había exigido a la señora Reed la promesa de que me
+                criaría y mantendría como a una de sus propios hijos. La señora
+                Reed probablemente consideraba que había cumplido esta promesa;
+                y así lo había hecho, me atrevería a decir, tanto como su naturaleza
+                se lo permitía; pero, ¿cómo podría realmente querer a una intrusa
                 que no era de su estirpe y que, tras la muerte de su marido, no la
-                unÃ­a a ella ningÃºn lazo? DebÃ­a de serle de lo mÃ¡s fastidioso verse
+                unía a ella ningún lazo? Debía de serle de lo más fastidioso verse
                 obligada por una promesa arrancada a duras penas a hacer de
-                madre de una niÃ±a extraÃ±a a la que no podÃ­a amar, y ver a una
+                madre de una niña extraña a la que no podía amar, y ver a una
                 forastera incompatible permanentemente inmiscuida en su propio
                 grupo familiar.</p>
 
-                <p>Una idea singular amaneciÃ³ en mÃ­. No dudaba â€”nunca dudÃ©â€” de
-                que si el seÃ±or Reed hubiera estado vivo, me habrÃ­a tratado con
+                <p>Una idea singular amaneció en mí. No dudaba —nunca dudé— de
+                que si el señor Reed hubiera estado vivo, me habría tratado con
                 amabilidad; y ahora, mientras estaba sentada mirando la cama
-                blanca y las paredes ensombrecidas â€”volviendo tambiÃ©n de vez en
-                cuando una mirada fascinada hacia el espejo que brillaba dÃ©bilmente
-                â€”, comencÃ© a recordar lo que habÃ­a oÃ­do de los muertos que,
-                perturbados en sus tumbas por la violaciÃ³n de sus Ãºltimos deseos,
-                volvÃ­an a la tierra para castigar al perjuro y vengar al oprimido; y
-                pensÃ© que el espÃ­ritu del seÃ±or Reed, acosado por las injusticias
-                cometidas contra la hija de su hermana, podrÃ­a abandonar su
-                morada â€”ya fuera en la cripta de la iglesia o en el desconocido
-                mundo de los difuntosâ€” y aparecerse ante mÃ­ en esta cÃ¡mara. Me
-                sequÃ© las lÃ¡grimas y acallÃ© los sollozos, temerosa de que cualquier
+                blanca y las paredes ensombrecidas —volviendo también de vez en
+                cuando una mirada fascinada hacia el espejo que brillaba débilmente
+                —, comencé a recordar lo que había oído de los muertos que,
+                perturbados en sus tumbas por la violación de sus últimos deseos,
+                volvían a la tierra para castigar al perjuro y vengar al oprimido; y
+                pensé que el espíritu del señor Reed, acosado por las injusticias
+                cometidas contra la hija de su hermana, podría abandonar su
+                morada —ya fuera en la cripta de la iglesia o en el desconocido
+                mundo de los difuntos— y aparecerse ante mí en esta cámara. Me
+                sequé las lágrimas y acallé los sollozos, temerosa de que cualquier
                 signo de violento pesar pudiera despertar una voz sobrenatural para
-                consolarme, o hacer surgir de la penumbra algÃºn rostro aureolado,
-                inclinÃ¡ndose sobre mÃ­ con extraÃ±a piedad. Esta idea, consoladora en
-                teorÃ­a, sentÃ­ que serÃ­a terrible si se realizaba: con todas mis fuerzas
-                me esforcÃ© por reprimirla, me esforcÃ© por ser firme. ApartÃ¡ndome el
-                pelo de los ojos, levantÃ© la cabeza e intentÃ© mirar con audacia
-                alrededor de la oscura habitaciÃ³n; en ese momento, una luz brillÃ³ en
-                la pared. Â¿SerÃ­a, me preguntÃ©, un rayo de luna que penetraba por
+                consolarme, o hacer surgir de la penumbra algún rostro aureolado,
+                inclinándose sobre mí con extraña piedad. Esta idea, consoladora en
+                teoría, sentí que sería terrible si se realizaba: con todas mis fuerzas
+                me esforcé por reprimirla, me esforcé por ser firme. Apartándome el
+                pelo de los ojos, levanté la cabeza e intenté mirar con audacia
+                alrededor de la oscura habitación; en ese momento, una luz brilló en
+                la pared. ¿Sería, me pregunté, un rayo de luna que penetraba por
                 alguna rendija de la persiana? No; la luz de la luna era fija, y esta se
-                movÃ­a; mientras la miraba, se deslizÃ³ hasta el techo y temblÃ³ sobre
-                mi cabeza. Ahora puedo conjeturar fÃ¡cilmente que esta racha de luz
+                movía; mientras la miraba, se deslizó hasta el techo y tembló sobre
+                mi cabeza. Ahora puedo conjeturar fácilmente que esta racha de luz
                 era, con toda probabilidad, el resplandor de un farol que alguien
-                llevaba por el cÃ©sped; pero entonces, preparada como estaba mi
+                llevaba por el césped; pero entonces, preparada como estaba mi
                 mente para el horror, sacudidos como estaban mis nervios por la
-                agitaciÃ³n, pensÃ© que el rÃ¡pido haz de luz era un heraldo de alguna
-                visiÃ³n venidera de otro mundo. Mi corazÃ³n latiÃ³ con fuerza, mi
-                cabeza se calentÃ³; un sonido llenÃ³ mis oÃ­dos, que considerÃ© el batir
-                de alas; algo parecÃ­a cerca de mÃ­; me sentÃ­ oprimida, sofocada; la
-                resistencia se quebrÃ³; corrÃ­ hacia la puerta y sacudÃ­ la cerradura en
+                agitación, pensé que el rápido haz de luz era un heraldo de alguna
+                visión venidera de otro mundo. Mi corazón latió con fuerza, mi
+                cabeza se calentó; un sonido llenó mis oídos, que consideré el batir
+                de alas; algo parecía cerca de mí; me sentí oprimida, sofocada; la
+                resistencia se quebró; corrí hacia la puerta y sacudí la cerradura en
                 un esfuerzo desesperado. Unos pasos llegaron corriendo por el
-                pasillo exterior; la llave girÃ³, Bessie y Abbot entraron.</p>
+                pasillo exterior; la llave giró, Bessie y Abbot entraron.</p>
 
-                <p>â€”SeÃ±orita Eyre, Â¿se encuentra mal? â€”dijo Bessie.</p>
+                <p>—Señorita Eyre, ¿se encuentra mal? —dijo Bessie.</p>
 
-                <p>â€”Â¡QuÃ© ruido tan espantoso! Â¡Me ha traspasado! â€”exclamÃ³ Abbot.</p>
+                <p>—¡Qué ruido tan espantoso! ¡Me ha traspasado! —exclamó Abbot.</p>
 
-                <p>â€”Â¡Sacadme de aquÃ­! Â¡Dejadme ir al cuarto de los niÃ±os! â€”fue mi
+                <p>—¡Sacadme de aquí! ¡Dejadme ir al cuarto de los niños! —fue mi
                 grito.</p>
 
-                <p>â€”Â¿Por quÃ©? Â¿Se ha hecho daÃ±o? Â¿Ha visto algo? â€”volviÃ³ a
+                <p>—¿Por qué? ¿Se ha hecho daño? ¿Ha visto algo? —volvió a
                 preguntar Bessie.</p>
 
-                <p>â€”Â¡Oh! Vi una luz, y pensÃ© que iba a aparecer un fantasma. â€”Para
-                entonces me habÃ­a agarrado a la mano de Bessie, y ella no me la
-                apartÃ³.</p>
+                <p>—¡Oh! Vi una luz, y pensé que iba a aparecer un fantasma. —Para
+                entonces me había agarrado a la mano de Bessie, y ella no me la
+                apartó.</p>
 
-                <p>â€”Ha gritado a propÃ³sito â€”declarÃ³ Abbot, con cierto disgustoâ€”. Â¡Y
-                quÃ© grito! Si hubiera tenido un gran dolor, se le podrÃ­a haber
-                disculpado, pero solo querÃ­a traernos a todos aquÃ­. Conozco sus
+                <p>—Ha gritado a propósito —declaró Abbot, con cierto disgusto—. ¡Y
+                qué grito! Si hubiera tenido un gran dolor, se le podría haber
+                disculpado, pero solo quería traernos a todos aquí. Conozco sus
                 malas artes.</p>
 
-                <p>â€”Â¿QuÃ© es todo esto? â€”exigiÃ³ otra voz, perentoria; y la seÃ±ora
-                Reed apareciÃ³ por el pasillo, con la cofia al vuelo y el vestido
-                susurrando tempestuosamenteâ€”. Abbot y Bessie, creo que di
-                Ã³rdenes de que Jane Eyre se quedara en el cuarto rojo hasta que yo
+                <p>—¿Qué es todo esto? —exigió otra voz, perentoria; y la señora
+                Reed apareció por el pasillo, con la cofia al vuelo y el vestido
+                susurrando tempestuosamente—. Abbot y Bessie, creo que di
+                órdenes de que Jane Eyre se quedara en el cuarto rojo hasta que yo
                 misma fuera a buscarla.</p>
 
-                <p>â€”La seÃ±orita Jane gritÃ³ muy fuerte, seÃ±ora â€”suplicÃ³ Bessie.</p>
+                <p>—La señorita Jane gritó muy fuerte, señora —suplicó Bessie.</p>
 
-                <p>â€”Dejadla marchar â€”fue la Ãºnica respuestaâ€”. Suelta la mano de
-                Bessie, niÃ±a; no conseguirÃ¡s salir por estos medios, tenlo por
-                seguro. Aborrezco la artimaÃ±a, sobre todo en los niÃ±os; es mi deber
-                mostrarte que los trucos no funcionan. Te quedarÃ¡s aquÃ­ una hora
-                mÃ¡s, y solo con la condiciÃ³n de perfecta sumisiÃ³n y quietud te
-                liberarÃ© entonces.</p>
+                <p>—Dejadla marchar —fue la única respuesta—. Suelta la mano de
+                Bessie, niña; no conseguirás salir por estos medios, tenlo por
+                seguro. Aborrezco la artimaña, sobre todo en los niños; es mi deber
+                mostrarte que los trucos no funcionan. Te quedarás aquí una hora
+                más, y solo con la condición de perfecta sumisión y quietud te
+                liberaré entonces.</p>
 
-                <p>â€”Â¡Oh, tÃ­a! Â¡Tenga piedad! Â¡PerdÃ³neme! No puedo soportarlo, Â¡que
-                se me castigue de otra manera! MorirÃ© si...</p>
+                <p>—¡Oh, tía! ¡Tenga piedad! ¡Perdóneme! No puedo soportarlo, ¡que
+                se me castigue de otra manera! Moriré si...</p>
 
-                <p>â€”Â¡Silencio! Toda esta violencia es de lo mÃ¡s repulsiva. â€”Y asÃ­, sin
-                duda, lo sentÃ­a ella. Yo era una actriz precoz a sus ojos;
+                <p>—¡Silencio! Toda esta violencia es de lo más repulsiva. —Y así, sin
+                duda, lo sentía ella. Yo era una actriz precoz a sus ojos;
                 sinceramente me consideraba un compuesto de pasiones virulentas,
-                espÃ­ritu mezquino y peligrosa duplicidad.</p>
+                espíritu mezquino y peligrosa duplicidad.</p>
 
-                <p>HabiÃ©ndose retirado Bessie y Abbot, la seÃ±ora Reed, impaciente
-                ante mi ahora frenÃ©tica angustia y mis sollozos salvajes, me empujÃ³
-                bruscamente hacia dentro y me encerrÃ³, sin mÃ¡s discusiÃ³n. La oÃ­
-                alejarse; y poco despuÃ©s de que se marchara, supongo que sufrÃ­ una
-                especie de ataque: la pÃ©rdida del conocimiento cerrÃ³ la escena.</p>
+                <p>Habiéndose retirado Bessie y Abbot, la señora Reed, impaciente
+                ante mi ahora frenética angustia y mis sollozos salvajes, me empujó
+                bruscamente hacia dentro y me encerró, sin más discusión. La oí
+                alejarse; y poco después de que se marchara, supongo que sufrí una
+                especie de ataque: la pérdida del conocimiento cerró la escena.</p>
 
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap1.php" rel="prev">Anterior</a>
-                    <a class="boton" href="../../contenido_eyre.php">Regresa al menÃº de capÃ­tulos</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
                     <a class="cambioSiguiente" href="cap3.php" rel="next">Siguiente</a>
                 </div>
             </section>
@@ -407,6 +407,7 @@
     </main>
 </body>
 </html>
+
 
 
 
