@@ -32,8 +32,8 @@
 
 <main>
     <section class="hero">
-        <h2>lorem ipsum</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit maecenas, ridiculus magna fames semper himenaeos commodo per pellentesque primis, ligula massa nunc cubilia duis nisl laoreet vel, potenti nascetur mollis habitant senectus congue porta. At litora magnis curabitur fusce pharetra vestibulum maecenas platea ornare, praesent hac donec venenatis dignissim turpis parturient blandit cum sapien, et conubia diam tristique vehicula rutrum ridiculus augue. Sollicitudin felis id orci nibh sem nisi proin auctor nec, a conubia penatibus hendrerit mauris platea augue sociosqu convallis, montes taciti habitasse bibendum in et aenean vehicula.</p>
+        <h2>Sobre Nosotras</h2>
+        <p>Sara Escribano y Daniela Borrego, estudiantes del Máster de Letras Digitales en la Universidad Complutense de Madrid, están desarrollando este proyecto.</p>
     </section>
 
     <section class="content">
