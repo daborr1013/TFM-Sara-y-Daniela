@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Litterally</title>
-    <link rel="stylesheet" href="../css/css_obras.css">
+    <link rel="stylesheet" href="../css/css_index.css">
     <link rel="icon" href="../media/images/iconoPestanaClara.png">
 </head>
 <body>
@@ -33,13 +33,14 @@
 <main>
     <section class="hero">
         <h2>Catálogo de obras disponibles</h2>
-        <p>En este apartado puedes ver las obras que tenemos disponibles en el momento,¡haz click sobre la que más te guste!</p>
-        <p>Estamos trabajando actualmente en poder proporcionar más obras y materiales educativos de ellas, ¡mantente atento a las novedades!</p> 
     </section>
 
     <hr>
 
-    <section class="content">
+    <section>
+        <p>En este apartado puedes ver las obras que tenemos disponibles en el momento,¡haz click sobre la que más te guste!<br>
+        Estamos trabajando actualmente en poder proporcionar más obras y materiales educativos de ellas, ¡mantente atento a las novedades!</p> 
+
         <table>
             <tr>
                 <a id="j_eyre" href="works/eyre.php" target="_blank">

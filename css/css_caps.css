@@ -1,3 +1,4 @@
+/*base*/
 body {
   font-family: 'Charter', 'Bitstream Charter', 'Sitka Text', Georgia, serif;
   background-color: #f8e9d8;
@@ -5,11 +6,6 @@ body {
 
 header{
   background-color: #6a4c93;
-  text-align: center;
-}
-
-.logo{
-  width: 10%; 
   text-align: center;
 }
 
@@ -73,86 +69,7 @@ nav {
   background: #694c93;
 }
 
-/* fin barra navegación */
-
-h1 {
-  color: #333;
-  padding: 20px;
-  text-align: center;
-}
-
-main p {
-  text-indent: 25px;
-  text-align: justify;
-  line-height: 1.6;
-  font-size: 1.1rem;
-  color: #333;
-  max-width: 700px;
-  margin: 0 auto;
-  padding: 0.5rem;
-}
-
-.centradoP{
-  margin: 0 auto;
-  padding: 0.5rem;    
-  text-align: center;
-  font-style: italic;
-}
-
-.cambioSiguiente{
-  font-family: 'Inter', system-ui, sans-serif;
-  background-color: #694c9337;
-  text-align: center;
-  line-height: 50px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  padding: 15px;
-	border-style: double;
-	border-radius: 20px;
-}
-
-.cambioAnterior{
-  font-family: 'Inter', system-ui, sans-serif;
-  background-color: #694c9337;
-  text-align: center;
-  line-height: 50px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  padding: 15px;
-  border-style: double;
-  border-radius: 20px;
-}
-
-.boton{
-  font-family: 'Inter', system-ui, sans-serif;
-  background-color: #694c9337;
-  text-align: center;
-  line-height: 50px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  padding: 15px;
-  border-style: double;
-  border-radius: 20px;
-}
-
-.botonesFinales {
-  display: flex;          
-  justify-content: center;
-  gap: 10px;               
-  margin-top: 20px;       
-}
-
-.layout{
-  display: flex;
-  align-items: flex-start;
-}
-
-.contenido{
-  flex: 1;
-  padding: 20px;
-  text-align: left;
-}
-
+/*sidebar*/
 .sidebar {
     width: 220px;
     flex-shrink: 0;
@@ -237,3 +154,99 @@ main p {
     list-style: none;
     padding-left: 10px;
 }
+/*sidebar*/
+/* fin barra navegación principal*/
+/*base*/
+
+
+.layout{
+  display: flex;
+  align-items: flex-start;
+}
+
+.contenido{
+  flex: 1;
+  padding: 20px;
+  text-align: left;
+}
+
+/*imagenes*/
+.logo{
+  width: 10%; 
+  text-align: center;
+}
+/*fin imagenes*/
+
+/*textos*/
+h1 {
+  color: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+main p {
+  text-indent: 25px;
+  text-align: justify;
+  line-height: 1.6;
+  font-size: 1.1rem;
+  color: #333;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0.5rem;
+}
+
+.centradoP{
+  margin: 0 auto;
+  padding: 0.5rem;    
+  text-align: center;
+  font-style: italic;
+}
+/*fin textos*/
+
+/*otros elementos visuales*/
+.cambioSiguiente{
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #694c9337;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 15px;
+	border-style: double;
+	border-radius: 20px;
+}
+
+.cambioAnterior{
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #694c9337;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 15px;
+  border-style: double;
+  border-radius: 20px;
+}
+
+.boton{
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #694c9337;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 15px;
+  border-style: double;
+  border-radius: 20px;
+}
+
+.botonesFinales {
+  display: flex;          
+  justify-content: center;
+  gap: 10px;               
+  margin-top: 20px;       
+}
+/*fin de otros elementos visuales*/
+
+
+

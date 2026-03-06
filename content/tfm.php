@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Litterally</title>
-    <link rel="stylesheet" href="../css/css_tfm.css">
+    <link rel="stylesheet" href="../css/css_index.css">
     <link rel="icon" href="../media/images/iconoPestanaClara.png">
 </head>
 <body>
@@ -32,8 +32,14 @@
 
 <main>
     <section class="hero">
-        <h2>lorem ipsum</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit maecenas, ridiculus magna fames semper himenaeos commodo per pellentesque primis, ligula massa nunc cubilia duis nisl laoreet vel, potenti nascetur mollis habitant senectus congue porta. At litora magnis curabitur fusce pharetra vestibulum maecenas platea ornare, praesent hac donec venenatis dignissim turpis parturient blandit cum sapien, et conubia diam tristique vehicula rutrum ridiculus augue. Sollicitudin felis id orci nibh sem nisi proin auctor nec, a conubia penatibus hendrerit mauris platea augue sociosqu convallis, montes taciti habitasse bibendum in et aenean vehicula.</p>
+        <h2>Sobre este proyecto</h2>
+    </section>
+    <section class="pjustificado">
+        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit maecenas, ridiculus magna fames semper himenaeos commodo per pellentesque primis, 
+            ligula massa nunc cubilia duis nisl laoreet vel, potenti nascetur mollis habitant senectus congue porta. At litora magnis curabitur fusce 
+            pharetra vestibulum maecenas platea ornare, praesent hac donec venenatis dignissim turpis parturient blandit cum sapien, et conubia diam
+             tristique vehicula rutrum ridiculus augue. Sollicitudin felis id orci nibh sem nisi proin auctor nec, a conubia penatibus hendrerit mauris
+              platea augue sociosqu convallis, montes taciti habitasse bibendum in et aenean vehicula.</p>
     </section>
 </main>
 

@@ -33,6 +33,8 @@
 <main>
     <section class="hero">
         <h2>Inicio</h2>
+    </section>
+    <section>
         <p>Bienvenido a <i>Litterally</i>, una plataforma en la que puedes explorar y analizar obras literarias de forma interactiva.</p>
 
         <p>Actualmente, esta plataforma cuenta con la novela Jane Eyre, pero esperamos poder ir actualizando 
