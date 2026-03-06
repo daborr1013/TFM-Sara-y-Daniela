@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Capítulo 8</title>
+    <title>CapÃ­tulo 8</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el capítulo 8">
+    <meta name="description" content="Este es el capÃ­tulo 8">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -14,7 +14,7 @@
         <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png"></a>
     </header>
 
-   <nav class="navbar">
+    <nav class="navbar">
         <ul class="menu">
             <li><a href="../../../../../index.php">Inicio</a></li>
 
@@ -39,21 +39,21 @@
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
+                        <li><a href="../../intro_obra.php">IntroducciÃ³n a la obra</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contenido_eyre.php">Contenido</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
-                                <li><a href="../../capitulos.php">Capítulos</a></li>
+                                <li><a href="../../resumenes/resumenes.php">ResÃºmenes</a></li>
+                                <li><a href="../../capitulos.php">CapÃ­tulos</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
-                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
+                                <li><a href="charlotte.php">Charlotte BrontÃ«</a></li>
+                                <li><a href="contexto_historico.php">Contexto histÃ³rico</a></li>
                             </ul>
                         </li>
 
@@ -61,7 +61,7 @@
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">Símbolos</a></li>
+                                <li><a href="simbolos.php">SÃ­mbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
                                 <li><a href="mapa.php">Mapa</a></li>
@@ -82,376 +82,376 @@
             </div>
             
             <section class="contenido">
-                <h1>Capítulo VIII</h1>
-                
-                <p>Antes de que terminara la media hora, dieron las cinco; la escuela
-                terminó y todas se fueron al refectorio a tomar el té. Me aventuré
-                entonces a bajar; era el crepúsculo profundo. Me retiré a un rincón y
-                me senté en el suelo. El hechizo que me había sostenido hasta
-                entonces comenzó a disolverse; se produjo una reacción y pronto,
-                tan abrumador fue el dolor que se apoderó de mí, que caí postrada
-                con la cara en el suelo. Ahora lloraba. Helen Burns no estaba aquí;
-                nada me sostenía; abandonada a mí misma, me abandoné, y mis
-                lágrimas regaron las tablas. Había tenido la intención de ser tan
-                buena y de hacer tanto en Lowood: hacer tantos amigos, ganarme
-                el respeto y el afecto. Ya había hecho progresos visibles: esa misma
-                mañana había llegado a la cabeza de mi clase; la señorita Miller me
-                había elogiado calurosamente; la señorita Temple había sonreído con
-                aprobación; me había prometido enseñarme a dibujar y dejarme
-                aprender francés si continuaba haciendo mejoras similares durante
-                dos meses más. Y además, era bien recibida por mis compañeras;
-                tratada como una igual por las de mi edad, y no molestada por
-                ninguna. Ahora, aquí yacía de nuevo, aplastada y pisoteada; ¿y
-                podría levantarme alguna vez?</p>
+                    <h1>CapÃ­tulo VIII</h1>
+    
+                    <p>Antes de que terminara la media hora, dieron las cinco; la escuela
+                    terminÃ³ y todas se fueron al refectorio a tomar el tÃ©. Me aventurÃ©
+                    entonces a bajar; era el crepÃºsculo profundo. Me retirÃ© a un rincÃ³n y
+                    me sentÃ© en el suelo. El hechizo que me habÃ­a sostenido hasta
+                    entonces comenzÃ³ a disolverse; se produjo una reacciÃ³n y pronto,
+                    tan abrumador fue el dolor que se apoderÃ³ de mÃ­, que caÃ­ postrada
+                    con la cara en el suelo. Ahora lloraba. Helen Burns no estaba aquÃ­;
+                    nada me sostenÃ­a; abandonada a mÃ­ misma, me abandonÃ©, y mis
+                    lÃ¡grimas regaron las tablas. HabÃ­a tenido la intenciÃ³n de ser tan
+                    buena y de hacer tanto en Lowood: hacer tantos amigos, ganarme
+                    el respeto y el afecto. Ya habÃ­a hecho progresos visibles: esa misma
+                    maÃ±ana habÃ­a llegado a la cabeza de mi clase; la seÃ±orita Miller me
+                    habÃ­a elogiado calurosamente; la seÃ±orita Temple habÃ­a sonreÃ­do con
+                    aprobaciÃ³n; me habÃ­a prometido enseÃ±arme a dibujar y dejarme
+                    aprender francÃ©s si continuaba haciendo mejoras similares durante
+                    dos meses mÃ¡s. Y ademÃ¡s, era bien recibida por mis compaÃ±eras;
+                    tratada como una igual por las de mi edad, y no molestada por
+                    ninguna. Ahora, aquÃ­ yacÃ­a de nuevo, aplastada y pisoteada; Â¿y
+                    podrÃ­a levantarme alguna vez?</p>
 
-                <p>«Nunca», pensé; y ardientemente deseé morir. Mientras sollozaba
-                este deseo en acentos entrecortados, alguien se acercó. Me
-                sobresalté: de nuevo Helen Burns estaba cerca de mí; los fuegos
-                moribundos apenas la mostraban acercándose por la larga y vacía
-                sala; me trajo mi café y mi pan.</p>
+                    <p>Â«NuncaÂ», pensÃ©; y ardientemente deseÃ© morir. Mientras sollozaba
+                    este deseo en acentos entrecortados, alguien se acercÃ³. Me
+                    sobresaltÃ©: de nuevo Helen Burns estaba cerca de mÃ­; los fuegos
+                    moribundos apenas la mostraban acercÃ¡ndose por la larga y vacÃ­a
+                    sala; me trajo mi cafÃ© y mi pan.</p>
 
-                <p>—Vamos, come algo —dijo; pero aparté ambas cosas de mí,
-                sintiendo como si una gota o una miga me hubieran ahogado en mi
-                estado actual. Helen me miró, probablemente con sorpresa. No
-                podía ahora calmar mi agitación, aunque lo intenté con todas mis
-                fuerzas; continué llorando en voz alta. Se sentó en el suelo cerca de
-                mí, abrazó sus rodillas con los brazos y apoyó la cabeza sobre ellas;
-                en esa actitud permaneció en silencio como una india. Fui la primera
-                en hablar:</p>
+                    <p>â€”Vamos, come algo â€”dijo; pero apartÃ© ambas cosas de mÃ­,
+                    sintiendo como si una gota o una miga me hubieran ahogado en mi
+                    estado actual. Helen me mirÃ³, probablemente con sorpresa. No
+                    podÃ­a ahora calmar mi agitaciÃ³n, aunque lo intentÃ© con todas mis
+                    fuerzas; continuÃ© llorando en voz alta. Se sentÃ³ en el suelo cerca de
+                    mÃ­, abrazÃ³ sus rodillas con los brazos y apoyÃ³ la cabeza sobre ellas;
+                    en esa actitud permaneciÃ³ en silencio como una india. Fui la primera
+                    en hablar:</p>
 
-                <p>—Helen, ¿por qué te quedas con una chica a la que todo el mundo
-                cree una embustera?</p>
+                    <p>â€”Helen, Â¿por quÃ© te quedas con una chica a la que todo el mundo
+                    cree una embustera?</p>
 
-                <p>—¿Todo el mundo, Jane? Vamos, solo hay ochenta personas que
-                te han oído llamar así, y el mundo contiene cientos de millones.</p>
+                    <p>â€”Â¿Todo el mundo, Jane? Vamos, solo hay ochenta personas que
+                    te han oÃ­do llamar asÃ­, y el mundo contiene cientos de millones.</p>
 
-                <p>—¿Pero qué tengo yo que ver con millones? Las ochenta que
-                conozco me desprecian.</p>
+                    <p>â€”Â¿Pero quÃ© tengo yo que ver con millones? Las ochenta que
+                    conozco me desprecian.</p>
 
-                <p>—Jane, te equivocas. Probablemente ni una sola persona en la
-                escuela te desprecia o te tiene antipatía. Muchas, estoy segura, te
-                compadecen mucho.</p>
+                    <p>â€”Jane, te equivocas. Probablemente ni una sola persona en la
+                    escuela te desprecia o te tiene antipatÃ­a. Muchas, estoy segura, te
+                    compadecen mucho.</p>
 
-                <p>—¿Cómo pueden compadecerme después de lo que ha dicho el
-                señor Brocklehurst?</p>
+                    <p>â€”Â¿CÃ³mo pueden compadecerme despuÃ©s de lo que ha dicho el
+                    seÃ±or Brocklehurst?</p>
 
-                <p>—El señor Brocklehurst no es un dios, ni es siquiera un hombre
-                grande y admirado. Aquí se le quiere poco; nunca ha hecho nada
-                para hacerse querer. Si te hubiera tratado como a una favorita
-                especial, habrías encontrado enemigos, declarados o encubiertos,
-                por todas partes; tal como están las cosas, la mayoría te ofrecería su
-                simpatía si se atrevieran. Las maestras y las alumnas pueden mirarte
-                con frialdad durante un día o dos, pero en sus corazones se ocultan
-                sentimientos amistosos; y si perseveras en hacer el bien, estos
-                sentimientos aparecerán pronto con tanta más evidencia por su
-                supresión temporal. Además, Jane... —hizo una pausa.</p>
+                    <p>â€”El seÃ±or Brocklehurst no es un dios, ni es siquiera un hombre
+                    grande y admirado. AquÃ­ se le quiere poco; nunca ha hecho nada
+                    para hacerse querer. Si te hubiera tratado como a una favorita
+                    especial, habrÃ­as encontrado enemigos, declarados o encubiertos,
+                    por todas partes; tal como estÃ¡n las cosas, la mayorÃ­a te ofrecerÃ­a su
+                    simpatÃ­a si se atrevieran. Las maestras y las alumnas pueden mirarte
+                    con frialdad durante un dÃ­a o dos, pero en sus corazones se ocultan
+                    sentimientos amistosos; y si perseveras en hacer el bien, estos
+                    sentimientos aparecerÃ¡n pronto con tanta mÃ¡s evidencia por su
+                    supresiÃ³n temporal. AdemÃ¡s, Jane... â€”hizo una pausa.</p>
 
-                <p>—¿Y bien, Helen? —dije, poniendo mi mano en la suya. Ella me
-                frotó los dedos suavemente para calentarlos y continuó:</p>
+                    <p>â€”Â¿Y bien, Helen? â€”dije, poniendo mi mano en la suya. Ella me
+                    frotÃ³ los dedos suavemente para calentarlos y continuÃ³:</p>
 
-                <p>—Si todo el mundo te odiara y te creyera malvada, mientras tu
-                propia conciencia te aprobara y te absolviera de culpa, no estarías
-                sin amigos.</p>
+                    <p>â€”Si todo el mundo te odiara y te creyera malvada, mientras tu
+                    propia conciencia te aprobara y te absolviera de culpa, no estarÃ­as
+                    sin amigos.</p>
 
-                <p>—No; sé que pensaría bien de mí misma; pero eso no es
-                suficiente. Si los demás no me quieren, preferiría morir a vivir. No
-                puedo soportar estar sola y ser odiada, Helen. Mira; para ganar un
-                afecto real de ti, o de la señorita Temple, o de cualquier otra a quien
-                ame de verdad, me sometería voluntariamente a que me rompieran
-                el hueso de un brazo, o a que un toro me corneara, o a ponerme
-                detrás de un caballo que cocea y dejar que me lance su casco al
-                pecho...</p>
+                    <p>â€”No; sÃ© que pensarÃ­a bien de mÃ­ misma; pero eso no es
+                    suficiente. Si los demÃ¡s no me quieren, preferirÃ­a morir a vivir. No
+                    puedo soportar estar sola y ser odiada, Helen. Mira; para ganar un
+                    afecto real de ti, o de la seÃ±orita Temple, o de cualquier otra a quien
+                    ame de verdad, me someterÃ­a voluntariamente a que me rompieran
+                    el hueso de un brazo, o a que un toro me corneara, o a ponerme
+                    detrÃ¡s de un caballo que cocea y dejar que me lance su casco al
+                    pecho...</p>
 
-                <p>—¡Calla, Jane! Piensas demasiado en el amor de los seres
-                humanos; eres demasiado impulsiva, demasiado vehemente. La
-                mano soberana que creó tu cuerpo y le infundió vida te ha provisto
-                de otros recursos además de tu débil yo, o de criaturas tan débiles
-                como tú. Además de esta tierra, y además de la raza de los
-                hombres, hay un mundo invisible y un reino de los espíritus. Ese
-                mundo nos rodea, pues está en todas partes; y esos espíritus nos
-                vigilan, pues tienen la misión de guardarnos. Y si estuviéramos
-                muriendo de dolor y vergüenza, si el desprecio nos golpeara por
-                todos lados y el odio nos aplastara, los ángeles ven nuestras
-                torturas, reconocen nuestra inocencia (si inocentes somos, como sé
-                que lo eres de esta acusación que el señor Brocklehurst ha repetido
-                débil y pomposamente de segunda mano de la señora Reed; pues
-                leo una naturaleza sincera en tus ojos ardientes y en tu frente
-                despejada), y Dios solo espera la separación del espíritu de la carne
-                para coronarnos con una recompensa plena. ¿Por qué, entonces,
-                deberíamos hundirnos abrumados por la angustia, cuando la vida es
-                tan breve y la muerte es una entrada tan segura a la felicidad, a la
-                gloria?</p>
+                    <p>â€”Â¡Calla, Jane! Piensas demasiado en el amor de los seres
+                    humanos; eres demasiado impulsiva, demasiado vehemente. La
+                    mano soberana que creÃ³ tu cuerpo y le infundiÃ³ vida te ha provisto
+                    de otros recursos ademÃ¡s de tu dÃ©bil yo, o de criaturas tan dÃ©biles
+                    como tÃº. AdemÃ¡s de esta tierra, y ademÃ¡s de la raza de los
+                    hombres, hay un mundo invisible y un reino de los espÃ­ritus. Ese
+                    mundo nos rodea, pues estÃ¡ en todas partes; y esos espÃ­ritus nos
+                    vigilan, pues tienen la misiÃ³n de guardarnos. Y si estuviÃ©ramos
+                    muriendo de dolor y vergÃ¼enza, si el desprecio nos golpeara por
+                    todos lados y el odio nos aplastara, los Ã¡ngeles ven nuestras
+                    torturas, reconocen nuestra inocencia (si inocentes somos, como sÃ©
+                    que lo eres de esta acusaciÃ³n que el seÃ±or Brocklehurst ha repetido
+                    dÃ©bil y pomposamente de segunda mano de la seÃ±ora Reed; pues
+                    leo una naturaleza sincera en tus ojos ardientes y en tu frente
+                    despejada), y Dios solo espera la separaciÃ³n del espÃ­ritu de la carne
+                    para coronarnos con una recompensa plena. Â¿Por quÃ©, entonces,
+                    deberÃ­amos hundirnos abrumados por la angustia, cuando la vida es
+                    tan breve y la muerte es una entrada tan segura a la felicidad, a la
+                    gloria?</p>
 
-                <p>Guardé silencio; Helen me había calmado; pero en la tranquilidad
-                que impartía había una aleación de tristeza inexpresable. Sentí la
-                impresión de la aflicción mientras hablaba, pero no sabría decir de
-                dónde venía; y cuando, habiendo terminado de hablar, respiró un
-                poco rápido y tosió una tos corta, olvidé momentáneamente mis
-                propias penas para ceder a una vaga preocupación por ella.</p>
+                    <p>GuardÃ© silencio; Helen me habÃ­a calmado; pero en la tranquilidad
+                    que impartÃ­a habÃ­a una aleaciÃ³n de tristeza inexpresable. SentÃ­ la
+                    impresiÃ³n de la aflicciÃ³n mientras hablaba, pero no sabrÃ­a decir de
+                    dÃ³nde venÃ­a; y cuando, habiendo terminado de hablar, respirÃ³ un
+                    poco rÃ¡pido y tosiÃ³ una tos corta, olvidÃ© momentÃ¡neamente mis
+                    propias penas para ceder a una vaga preocupaciÃ³n por ella.</p>
 
-                <p>Apoyando mi cabeza en el hombro de Helen, le pasé los brazos
-                por la cintura; ella me atrajo hacia sí y reposamos en silencio. No
-                habíamos estado sentadas así mucho tiempo cuando entró otra
-                persona. Unas nubes pesadas, barridas del cielo por un viento
-                creciente, habían dejado la luna al descubierto; y su luz, que entraba
-                a raudales por una ventana cercana, nos iluminó de lleno a ambas y
-                a la figura que se acercaba, a la que reconocimos de inmediato
-                como la señorita Temple.</p>
+                    <p>Apoyando mi cabeza en el hombro de Helen, le pasÃ© los brazos
+                    por la cintura; ella me atrajo hacia sÃ­ y reposamos en silencio. No
+                    habÃ­amos estado sentadas asÃ­ mucho tiempo cuando entrÃ³ otra
+                    persona. Unas nubes pesadas, barridas del cielo por un viento
+                    creciente, habÃ­an dejado la luna al descubierto; y su luz, que entraba
+                    a raudales por una ventana cercana, nos iluminÃ³ de lleno a ambas y
+                    a la figura que se acercaba, a la que reconocimos de inmediato
+                    como la seÃ±orita Temple.</p>
 
-                <p>—He venido a propósito para encontrarte, Jane Eyre —dijo—; te
-                quiero en mi habitación; y como Helen Burns está contigo, ella
-                también puede venir.</p>
+                    <p>â€”He venido a propÃ³sito para encontrarte, Jane Eyre â€”dijoâ€”; te
+                    quiero en mi habitaciÃ³n; y como Helen Burns estÃ¡ contigo, ella
+                    tambiÃ©n puede venir.</p>
 
-                <p>Fuimos. Siguiendo la guía de la superintendente, tuvimos que
-                atravesar algunos pasillos intrincados y subir una escalera antes de
-                llegar a su apartamento; contenía un buen fuego y parecía alegre.
-                La señorita Temple le dijo a Helen Burns que se sentara en un sillón
-                bajo a un lado del hogar, y tomando ella misma otro, me llamó a su
-                lado.</p>
+                    <p>Fuimos. Siguiendo la guÃ­a de la superintendente, tuvimos que
+                    atravesar algunos pasillos intrincados y subir una escalera antes de
+                    llegar a su apartamento; contenÃ­a un buen fuego y parecÃ­a alegre.
+                    La seÃ±orita Temple le dijo a Helen Burns que se sentara en un sillÃ³n
+                    bajo a un lado del hogar, y tomando ella misma otro, me llamÃ³ a su
+                    lado.</p>
 
-                <p>—¿Ya ha pasado todo? —preguntó, mirándome el rostro—. ¿Has
-                llorado toda tu pena?</p>
+                    <p>â€”Â¿Ya ha pasado todo? â€”preguntÃ³, mirÃ¡ndome el rostroâ€”. Â¿Has
+                    llorado toda tu pena?</p>
 
-                <p>—Me temo que nunca lo haré.</p>
+                    <p>â€”Me temo que nunca lo harÃ©.</p>
 
-                <p>—¿Por qué?</p>
+                    <p>â€”Â¿Por quÃ©?</p>
 
-                <p>—Porque he sido acusada injustamente; y usted, señora, y todos
-                los demás, ahora me creerán malvada.</p>
+                    <p>â€”Porque he sido acusada injustamente; y usted, seÃ±ora, y todos
+                    los demÃ¡s, ahora me creerÃ¡n malvada.</p>
 
-                <p>—Te creeremos lo que demuestres ser, hija mía. Continúa
-                actuando como una buena chica, y nos satisfarás.</p>
+                    <p>â€”Te creeremos lo que demuestres ser, hija mÃ­a. ContinÃºa
+                    actuando como una buena chica, y nos satisfarÃ¡s.</p>
 
-                <p>—¿Lo haré, señorita Temple?</p>
+                    <p>â€”Â¿Lo harÃ©, seÃ±orita Temple?</p>
 
-                <p>—Lo harás —dijo, pasándome el brazo por los hombros—. Y ahora
-                dime quién es la dama a la que el señor Brocklehurst llamó tu
-                benefactora.</p>
+                    <p>â€”Lo harÃ¡s â€”dijo, pasÃ¡ndome el brazo por los hombrosâ€”. Y ahora
+                    dime quiÃ©n es la dama a la que el seÃ±or Brocklehurst llamÃ³ tu
+                    benefactora.</p>
 
-                <p>—La señora Reed, la esposa de mi tío. Mi tío ha muerto y me dejó
-                a su cuidado.</p>
+                    <p>â€”La seÃ±ora Reed, la esposa de mi tÃ­o. Mi tÃ­o ha muerto y me dejÃ³
+                    a su cuidado.</p>
 
-                <p>—¿No te adoptó, entonces, por voluntad propia?</p>
+                    <p>â€”Â¿No te adoptÃ³, entonces, por voluntad propia?</p>
 
-                <p>—No, señora; lamentó tener que hacerlo, pero mi tío, como he
-                oído decir a menudo a los criados, le hizo prometer antes de morir
-                que siempre me cuidaría.</p>
+                    <p>â€”No, seÃ±ora; lamentÃ³ tener que hacerlo, pero mi tÃ­o, como he
+                    oÃ­do decir a menudo a los criados, le hizo prometer antes de morir
+                    que siempre me cuidarÃ­a.</p>
 
-                <p>—Bueno, ahora, Jane, sabes, o al menos yo te lo diré, que cuando
-                se acusa a un criminal, siempre se le permite hablar en su propia
-                defensa. Has sido acusada de falsedad; defiéndete ante mí lo mejor
-                que puedas. Di lo que tu memoria te sugiera que es verdad; pero no
-                añadas nada ni exageres nada.</p>
+                    <p>â€”Bueno, ahora, Jane, sabes, o al menos yo te lo dirÃ©, que cuando
+                    se acusa a un criminal, siempre se le permite hablar en su propia
+                    defensa. Has sido acusada de falsedad; defiÃ©ndete ante mÃ­ lo mejor
+                    que puedas. Di lo que tu memoria te sugiera que es verdad; pero no
+                    aÃ±adas nada ni exageres nada.</p>
 
-                <p>Resolví, en lo más profundo de mi corazón, que sería de lo más
-                moderada, de lo más correcta; y, habiendo reflexionado unos
-                minutos para ordenar coherentemente lo que tenía que decir, le
-                conté toda la historia de mi triste infancia. Agotada por la emoción,
-                mi lenguaje fue más sosegado de lo que generalmente era cuando
-                desarrollaba ese triste tema; y consciente de las advertencias de
-                Helen contra la indulgencia del resentimiento, infundí en la narración
-                mucha menos hiel y ajenjo de lo ordinario. Así, contenida y
-                simplificada, sonó más creíble. Sentí, a medida que avanzaba, que la
-                señorita Temple me creía plenamente.</p>
+                    <p>ResolvÃ­, en lo mÃ¡s profundo de mi corazÃ³n, que serÃ­a de lo mÃ¡s
+                    moderada, de lo mÃ¡s correcta; y, habiendo reflexionado unos
+                    minutos para ordenar coherentemente lo que tenÃ­a que decir, le
+                    contÃ© toda la historia de mi triste infancia. Agotada por la emociÃ³n,
+                    mi lenguaje fue mÃ¡s sosegado de lo que generalmente era cuando
+                    desarrollaba ese triste tema; y consciente de las advertencias de
+                    Helen contra la indulgencia del resentimiento, infundÃ­ en la narraciÃ³n
+                    mucha menos hiel y ajenjo de lo ordinario. AsÃ­, contenida y
+                    simplificada, sonÃ³ mÃ¡s creÃ­ble. SentÃ­, a medida que avanzaba, que la
+                    seÃ±orita Temple me creÃ­a plenamente.</p>
 
-                <p>En el transcurso del relato había mencionado al señor Lloyd como
-                alguien que había venido a verme después del ataque; pues nunca
-                olvidé el, para mí, espantoso episodio del cuarto rojo, al detallar el
-                cual mi excitación seguramente, en algún grado, se desbordaba;
-                pues nada podía suavizar en mi recuerdo el espasmo de agonía que
-                atenazó mi corazón cuando la señora Reed despreció mi salvaje
-                súplica de perdón y me encerró por segunda vez en la cámara
-                oscura y encantada.</p>
+                    <p>En el transcurso del relato habÃ­a mencionado al seÃ±or Lloyd como
+                    alguien que habÃ­a venido a verme despuÃ©s del ataque; pues nunca
+                    olvidÃ© el, para mÃ­, espantoso episodio del cuarto rojo, al detallar el
+                    cual mi excitaciÃ³n seguramente, en algÃºn grado, se desbordaba;
+                    pues nada podÃ­a suavizar en mi recuerdo el espasmo de agonÃ­a que
+                    atenazÃ³ mi corazÃ³n cuando la seÃ±ora Reed despreciÃ³ mi salvaje
+                    sÃºplica de perdÃ³n y me encerrÃ³ por segunda vez en la cÃ¡mara
+                    oscura y encantada.</p>
 
-                <p>Había terminado. La señorita Temple me miró unos minutos en
-                silencio; luego dijo:</p>
+                    <p>HabÃ­a terminado. La seÃ±orita Temple me mirÃ³ unos minutos en
+                    silencio; luego dijo:</p>
 
-                <p>—Conozco algo del señor Lloyd; le escribiré. Si su respuesta
-                concuerda con tu declaración, serás públicamente absuelta de toda
-                imputación. Para mí, Jane, ya estás absuelta.</p>
+                    <p>â€”Conozco algo del seÃ±or Lloyd; le escribirÃ©. Si su respuesta
+                    concuerda con tu declaraciÃ³n, serÃ¡s pÃºblicamente absuelta de toda
+                    imputaciÃ³n. Para mÃ­, Jane, ya estÃ¡s absuelta.</p>
 
-                <p>Me besó y, manteniéndome aún a su lado (donde estaba muy
-                contenta de permanecer, pues obtenía un placer infantil de la
-                contemplación de su rostro, su vestido, sus uno o dos adornos, su
-                frente blanca, sus rizos agrupados y brillantes, y sus radiantes ojos
-                oscuros), procedió a dirigirse a Helen Burns.</p>
+                    <p>Me besÃ³ y, manteniÃ©ndome aÃºn a su lado (donde estaba muy
+                    contenta de permanecer, pues obtenÃ­a un placer infantil de la
+                    contemplaciÃ³n de su rostro, su vestido, sus uno o dos adornos, su
+                    frente blanca, sus rizos agrupados y brillantes, y sus radiantes ojos
+                    oscuros), procediÃ³ a dirigirse a Helen Burns.</p>
 
-                <p>—¿Cómo estás esta noche, Helen? ¿Has tosido mucho hoy?</p>
+                    <p>â€”Â¿CÃ³mo estÃ¡s esta noche, Helen? Â¿Has tosido mucho hoy?</p>
 
-                <p>—No tanto, creo, señora.</p>
+                    <p>â€”No tanto, creo, seÃ±ora.</p>
 
-                <p>—¿Y el dolor en el pecho?</p>
+                    <p>â€”Â¿Y el dolor en el pecho?</p>
 
-                <p>—Está un poco mejor.</p>
+                    <p>â€”EstÃ¡ un poco mejor.</p>
 
-                <p>La señorita Temple se levantó, le tomó la mano y le examinó el
-                pulso; luego regresó a su propio asiento. Al reanudarlo, la oí suspirar
-                bajo. Estuvo pensativa unos minutos, luego, reanimándose, dijo
-                alegremente:</p>
+                    <p>La seÃ±orita Temple se levantÃ³, le tomÃ³ la mano y le examinÃ³ el
+                    pulso; luego regresÃ³ a su propio asiento. Al reanudarlo, la oÃ­ suspirar
+                    bajo. Estuvo pensativa unos minutos, luego, reanimÃ¡ndose, dijo
+                    alegremente:</p>
 
-                <p>—Pero vosotras dos sois mis invitadas esta noche; debo trataros
-                como tales. —Tocó su campanilla.</p>
+                    <p>â€”Pero vosotras dos sois mis invitadas esta noche; debo trataros
+                    como tales. â€”TocÃ³ su campanilla.</p>
 
-                <p>—Bárbara —dijo a la sirvienta que respondió—, todavía no he
-                tomado el té; trae la bandeja y pon tazas para estas dos señoritas.</p>
+                    <p>â€”BÃ¡rbara â€”dijo a la sirvienta que respondiÃ³â€”, todavÃ­a no he
+                    tomado el tÃ©; trae la bandeja y pon tazas para estas dos seÃ±oritas.</p>
 
-                <p>Y pronto trajeron una bandeja. ¡Qué bonitas, a mis ojos, parecían
-                las tazas de porcelana y la tetera brillante, colocadas sobre la mesita
-                redonda cerca del fuego! ¡Qué fragante era el vapor de la bebida y
-                el aroma de la tostada! De la cual, sin embargo, para mi
-                consternación (pues empezaba a tener hambre), distinguí solo una
-                porción muy pequeña. La señorita Temple también lo distinguió.</p>
+                    <p>Y pronto trajeron una bandeja. Â¡QuÃ© bonitas, a mis ojos, parecÃ­an
+                    las tazas de porcelana y la tetera brillante, colocadas sobre la mesita
+                    redonda cerca del fuego! Â¡QuÃ© fragante era el vapor de la bebida y
+                    el aroma de la tostada! De la cual, sin embargo, para mi
+                    consternaciÃ³n (pues empezaba a tener hambre), distinguÃ­ solo una
+                    porciÃ³n muy pequeÃ±a. La seÃ±orita Temple tambiÃ©n lo distinguiÃ³.</p>
 
-                <p>—Bárbara —dijo—, ¿no puedes traer un poco más de pan y
-                mantequilla? No hay suficiente para tres.</p>
+                    <p>â€”BÃ¡rbara â€”dijoâ€”, Â¿no puedes traer un poco mÃ¡s de pan y
+                    mantequilla? No hay suficiente para tres.</p>
 
-                <p>Bárbara salió. Regresó pronto.</p>
+                    <p>BÃ¡rbara saliÃ³. RegresÃ³ pronto.</p>
 
-                <p>—Señora, la señora Harden dice que ha enviado la cantidad
-                habitual.</p>
+                    <p>â€”SeÃ±ora, la seÃ±ora Harden dice que ha enviado la cantidad
+                    habitual.</p>
 
-                <p>La señora Harden, cabe señalar, era el ama de llaves: una mujer
-                según el propio corazón del señor Brocklehurst, hecha de partes
-                iguales de ballena y hierro.</p>
+                    <p>La seÃ±ora Harden, cabe seÃ±alar, era el ama de llaves: una mujer
+                    segÃºn el propio corazÃ³n del seÃ±or Brocklehurst, hecha de partes
+                    iguales de ballena y hierro.</p>
 
-                <p>—¡Oh, muy bien! —respondió la señorita Temple—. Tendremos
-                que apañarnos, Bárbara, supongo. —Y mientras la chica se retiraba,
-                añadió, sonriendo—: Afortunadamente, está en mi poder suplir las
-                deficiencias por esta vez.</p>
+                    <p>â€”Â¡Oh, muy bien! â€”respondiÃ³ la seÃ±orita Templeâ€”. Tendremos
+                    que apaÃ±arnos, BÃ¡rbara, supongo. â€”Y mientras la chica se retiraba,
+                    aÃ±adiÃ³, sonriendoâ€”: Afortunadamente, estÃ¡ en mi poder suplir las
+                    deficiencias por esta vez.</p>
 
-                <p>Habiéndonos invitado a Helen y a mí a acercarnos a la mesa, y
-                colocado ante cada una de nosotras una taza de té con un delicioso
-                pero fino trozo de tostada, se levantó, abrió un cajón con llave y,
-                sacando de él un paquete envuelto en papel, reveló al instante a
-                nuestros ojos un bizcocho de semillas de buen tamaño.</p>
+                    <p>HabiÃ©ndonos invitado a Helen y a mÃ­ a acercarnos a la mesa, y
+                    colocado ante cada una de nosotras una taza de tÃ© con un delicioso
+                    pero fino trozo de tostada, se levantÃ³, abriÃ³ un cajÃ³n con llave y,
+                    sacando de Ã©l un paquete envuelto en papel, revelÃ³ al instante a
+                    nuestros ojos un bizcocho de semillas de buen tamaÃ±o.</p>
 
-                <p>—Tenía la intención de daros a cada una un poco de esto para que
-                os lo llevarais —dijo—, pero como hay tan poca tostada, debéis
-                tomarlo ahora. —Y procedió a cortar rebanadas con mano generosa.</p>
+                    <p>â€”TenÃ­a la intenciÃ³n de daros a cada una un poco de esto para que
+                    os lo llevarais â€”dijoâ€”, pero como hay tan poca tostada, debÃ©is
+                    tomarlo ahora. â€”Y procediÃ³ a cortar rebanadas con mano generosa.</p>
 
-                <p>Aquella noche nos dimos un festín como de néctar y ambrosía; y
-                no el menor deleite del agasajo fue la sonrisa de gratificación con la
-                que nuestra anfitriona nos miraba, mientras satisfacíamos nuestros
-                apetitos famélicos con la delicada comida que nos suministraba
-                generosamente.</p>
+                    <p>Aquella noche nos dimos un festÃ­n como de nÃ©ctar y ambrosÃ­a; y
+                    no el menor deleite del agasajo fue la sonrisa de gratificaciÃ³n con la
+                    que nuestra anfitriona nos miraba, mientras satisfacÃ­amos nuestros
+                    apetitos famÃ©licos con la delicada comida que nos suministraba
+                    generosamente.</p>
 
-                <p>Terminado el té y retirada la bandeja, nos convocó de nuevo junto
-                al fuego. Nos sentamos una a cada lado de ella, y siguió entonces
-                una conversación entre ella y Helen, que fue ciertamente un
-                privilegio ser admitida a escuchar.</p>
+                    <p>Terminado el tÃ© y retirada la bandeja, nos convocÃ³ de nuevo junto
+                    al fuego. Nos sentamos una a cada lado de ella, y siguiÃ³ entonces
+                    una conversaciÃ³n entre ella y Helen, que fue ciertamente un
+                    privilegio ser admitida a escuchar.</p>
 
-                <p>La señorita Temple siempre tenía algo de serenidad en su aire, de
-                majestuosidad en su porte, de refinada propiedad en su lenguaje,
-                que impedía desviarse hacia lo ardiente, lo excitado, lo ansioso; algo
-                que castigaba el placer de quienes la miraban y la escuchaban, con
-                un sentido controlador de asombro; y tal era mi sentimiento ahora.
-                Pero en cuanto a Helen Burns, quedé maravillada.</p>
+                    <p>La seÃ±orita Temple siempre tenÃ­a algo de serenidad en su aire, de
+                    majestuosidad en su porte, de refinada propiedad en su lenguaje,
+                    que impedÃ­a desviarse hacia lo ardiente, lo excitado, lo ansioso; algo
+                    que castigaba el placer de quienes la miraban y la escuchaban, con
+                    un sentido controlador de asombro; y tal era mi sentimiento ahora.
+                    Pero en cuanto a Helen Burns, quedÃ© maravillada.</p>
 
-                <p>La reconfortante comida, el brillante fuego, la presencia y la
-                amabilidad de su amada instructora o, quizás, más que todo esto,
-                algo en su propia mente única, habían despertado sus poderes en su
-                interior. Despertaron, se encendieron: primero, brillaron en el vivo
-                tinte de su mejilla, que hasta esa hora nunca había visto sino pálida
-                y exangüe; luego resplandecieron en el brillo líquido de sus ojos,
-                que de repente habían adquirido una belleza más singular que la de
-                los de la señorita Temple, una belleza que no era ni de hermoso
-                color ni de largas pestañas, ni de cejas dibujadas, sino de
-                significado, de movimiento, de radiancia. Entonces su alma se sentó
-                en sus labios, y el lenguaje fluyó, de qué fuente no puedo decir.
-                ¿Tiene una niña de catorce años un corazón lo suficientemente
-                grande, lo suficientemente vigoroso, para contener el manantial
-                creciente de elocuencia pura, plena y ferviente? Tal fue la
-                característica del discurso de Helen en aquella, para mí, memorable
-                velada; su espíritu parecía apresurarse a vivir en un lapso muy breve
-                tanto como muchos viven durante una existencia prolongada.</p>
+                    <p>La reconfortante comida, el brillante fuego, la presencia y la
+                    amabilidad de su amada instructora o, quizÃ¡s, mÃ¡s que todo esto,
+                    algo en su propia mente Ãºnica, habÃ­an despertado sus poderes en su
+                    interior. Despertaron, se encendieron: primero, brillaron en el vivo
+                    tinte de su mejilla, que hasta esa hora nunca habÃ­a visto sino pÃ¡lida
+                    y exangÃ¼e; luego resplandecieron en el brillo lÃ­quido de sus ojos,
+                    que de repente habÃ­an adquirido una belleza mÃ¡s singular que la de
+                    los de la seÃ±orita Temple, una belleza que no era ni de hermoso
+                    color ni de largas pestaÃ±as, ni de cejas dibujadas, sino de
+                    significado, de movimiento, de radiancia. Entonces su alma se sentÃ³
+                    en sus labios, y el lenguaje fluyÃ³, de quÃ© fuente no puedo decir.
+                    Â¿Tiene una niÃ±a de catorce aÃ±os un corazÃ³n lo suficientemente
+                    grande, lo suficientemente vigoroso, para contener el manantial
+                    creciente de elocuencia pura, plena y ferviente? Tal fue la
+                    caracterÃ­stica del discurso de Helen en aquella, para mÃ­, memorable
+                    velada; su espÃ­ritu parecÃ­a apresurarse a vivir en un lapso muy breve
+                    tanto como muchos viven durante una existencia prolongada.</p>
 
-                <p>Conversaban de cosas de las que nunca había oído hablar; de
-                naciones y tiempos pasados; de países lejanos; de secretos de la
-                naturaleza descubiertos o adivinados. Hablaban de libros: ¡cuántos
-                habían leído! ¡Qué acervo de conocimientos poseían! Luego parecían
-                tan familiarizadas con nombres y autores franceses. Pero mi
-                asombro alcanzó su clímax cuando la señorita Temple le preguntó a
-                Helen si a veces robaba un momento para recordar el latín que su
-                padre le había enseñado y, tomando un libro de un estante, le pidió
-                que leyera y tradujera una página de Virgilio; y Helen obedeció,
-                expandiéndose mi órgano de veneración con cada sonora línea.
-                ¡Apenas había terminado cuando la campana anunció la hora de
-                dormir! No se admitía demora. La señorita Temple nos abrazó a
-                ambas, diciendo, mientras nos atraía a su corazón:</p>
+                    <p>Conversaban de cosas de las que nunca habÃ­a oÃ­do hablar; de
+                    naciones y tiempos pasados; de paÃ­ses lejanos; de secretos de la
+                    naturaleza descubiertos o adivinados. Hablaban de libros: Â¡cuÃ¡ntos
+                    habÃ­an leÃ­do! Â¡QuÃ© acervo de conocimientos poseÃ­an! Luego parecÃ­an
+                    tan familiarizadas con nombres y autores franceses. Pero mi
+                    asombro alcanzÃ³ su clÃ­max cuando la seÃ±orita Temple le preguntÃ³ a
+                    Helen si a veces robaba un momento para recordar el latÃ­n que su
+                    padre le habÃ­a enseÃ±ado y, tomando un libro de un estante, le pidiÃ³
+                    que leyera y tradujera una pÃ¡gina de Virgilio; y Helen obedeciÃ³,
+                    expandiÃ©ndose mi Ã³rgano de veneraciÃ³n con cada sonora lÃ­nea.
+                    Â¡Apenas habÃ­a terminado cuando la campana anunciÃ³ la hora de
+                    dormir! No se admitÃ­a demora. La seÃ±orita Temple nos abrazÃ³ a
+                    ambas, diciendo, mientras nos atraÃ­a a su corazÃ³n:</p>
 
-                <p>—¡Que Dios os bendiga, hijas mías!</p>
+                    <p>â€”Â¡Que Dios os bendiga, hijas mÃ­as!</p>
 
-                <p>A Helen la retuvo un poco más que a mí; la dejó ir con más
-                renuencia; fue a Helen a quien su ojo siguió hasta la puerta; fue por
-                ella por quien suspiró tristemente una segunda vez; por ella se secó
-                una lágrima de la mejilla.</p>
+                    <p>A Helen la retuvo un poco mÃ¡s que a mÃ­; la dejÃ³ ir con mÃ¡s
+                    renuencia; fue a Helen a quien su ojo siguiÃ³ hasta la puerta; fue por
+                    ella por quien suspirÃ³ tristemente una segunda vez; por ella se secÃ³
+                    una lÃ¡grima de la mejilla.</p>
 
-                <p>Al llegar al dormitorio, oímos la voz de la señorita Scatcherd:
-                estaba examinando los cajones; acababa de sacar el de Helen Burns,
-                y cuando entramos, Helen fue recibida con una aguda reprimenda y
-                se le dijo que al día siguiente llevaría media docena de artículos
-                desordenadamente doblados prendidos a su hombro.</p>
+                    <p>Al llegar al dormitorio, oÃ­mos la voz de la seÃ±orita Scatcherd:
+                    estaba examinando los cajones; acababa de sacar el de Helen Burns,
+                    y cuando entramos, Helen fue recibida con una aguda reprimenda y
+                    se le dijo que al dÃ­a siguiente llevarÃ­a media docena de artÃ­culos
+                    desordenadamente doblados prendidos a su hombro.</p>
 
-                <p>—Mis cosas estaban ciertamente en un desorden vergonzoso —me
-                murmuró Helen, en voz baja—. Tenía la intención de arreglarlas,
-                pero lo olvidé.</p>
+                    <p>â€”Mis cosas estaban ciertamente en un desorden vergonzoso â€”me
+                    murmurÃ³ Helen, en voz bajaâ€”. TenÃ­a la intenciÃ³n de arreglarlas,
+                    pero lo olvidÃ©.</p>
 
-                <p>A la mañana siguiente, la señorita Scatcherd escribió con
-                caracteres llamativos en un trozo de cartón la palabra
-                «DESALIÑADA», y la ató como una filacteria alrededor de la frente
-                ancha, dulce, inteligente y de aspecto benigno de Helen. La llevó
-                hasta la noche, paciente, sin resentimiento, considerándola un
-                castigo merecido. En el momento en que la señorita Scatcherd se
-                retiró después de la escuela de la tarde, corrí hacia Helen, se la
-                arranqué y la arrojé al fuego. La furia de la que ella era incapaz
-                había estado ardiendo en mi alma todo el día, y lágrimas, calientes y
-                grandes, habían estado escaldando continuamente mi mejilla, pues
-                el espectáculo de su triste resignación me causaba un dolor
-                intolerable en el corazón.</p>
+                    <p>A la maÃ±ana siguiente, la seÃ±orita Scatcherd escribiÃ³ con
+                    caracteres llamativos en un trozo de cartÃ³n la palabra
+                    Â«DESALIÃ‘ADAÂ», y la atÃ³ como una filacteria alrededor de la frente
+                    ancha, dulce, inteligente y de aspecto benigno de Helen. La llevÃ³
+                    hasta la noche, paciente, sin resentimiento, considerÃ¡ndola un
+                    castigo merecido. En el momento en que la seÃ±orita Scatcherd se
+                    retirÃ³ despuÃ©s de la escuela de la tarde, corrÃ­ hacia Helen, se la
+                    arranquÃ© y la arrojÃ© al fuego. La furia de la que ella era incapaz
+                    habÃ­a estado ardiendo en mi alma todo el dÃ­a, y lÃ¡grimas, calientes y
+                    grandes, habÃ­an estado escaldando continuamente mi mejilla, pues
+                    el espectÃ¡culo de su triste resignaciÃ³n me causaba un dolor
+                    intolerable en el corazÃ³n.</p>
 
-                <p>Aproximadamente una semana después de los incidentes narrados
-                anteriormente, la señorita Temple, que había escrito al señor Lloyd,
-                recibió su respuesta: parecía que lo que él decía corroboraba mi
-                relato. La señorita Temple, habiendo reunido a toda la escuela,
-                anunció que se había investigado las acusaciones formuladas contra
-                Jane Eyre, y que estaba muy feliz de poder declararla
-                completamente absuelta de toda imputación. Las maestras entonces
-                me dieron la mano y me besaron, y un murmullo de placer recorrió
-                las filas de mis compañeras.</p>
+                    <p>Aproximadamente una semana despuÃ©s de los incidentes narrados
+                    anteriormente, la seÃ±orita Temple, que habÃ­a escrito al seÃ±or Lloyd,
+                    recibiÃ³ su respuesta: parecÃ­a que lo que Ã©l decÃ­a corroboraba mi
+                    relato. La seÃ±orita Temple, habiendo reunido a toda la escuela,
+                    anunciÃ³ que se habÃ­a investigado las acusaciones formuladas contra
+                    Jane Eyre, y que estaba muy feliz de poder declararla
+                    completamente absuelta de toda imputaciÃ³n. Las maestras entonces
+                    me dieron la mano y me besaron, y un murmullo de placer recorriÃ³
+                    las filas de mis compaÃ±eras.</p>
 
-                <p>Así, aliviada de una pesada carga, desde esa hora me puse a
-                trabajar de nuevo, resuelta a abrirme camino a través de toda
-                dificultad. Trabajé duro, y mi éxito fue proporcional a mis esfuerzos;
-                mi memoria, no naturalmente tenaz, mejoró con la práctica; el
-                ejercicio agudizó mi ingenio. En pocas semanas fui ascendida a una
-                clase superior; en menos de dos meses se me permitió comenzar
-                francés y dibujo. Aprendí los dos primeros tiempos del verbo Être y
-                esbocé mi primera cabaña (cuyas paredes, por cierto, superaban en
-                inclinación a las de la torre inclinada de Pisa) el mismo día. Aquella
-                noche, al acostarme, olvidé preparar en la imaginación la cena de
-                Barmécida de patatas asadas calientes, o pan blanco y leche fresca,
-                con la que solía entretener mis antojos internos. En su lugar, me
-                deleité con el espectáculo de dibujos ideales que veía en la
-                oscuridad, todos obra de mis propias manos: casas y árboles
-                libremente dibujados, rocas y ruinas pintorescas, grupos de ganado
-                al estilo de Cuyp, dulces pinturas de mariposas revoloteando sobre
-                rosas sin abrir, de pájaros picoteando cerezas maduras, de nidos de
-                reyezuelo que encerraban huevos como perlas, rodeados de jóvenes
-                ramas de hiedra. Examiné también, en pensamiento, la posibilidad
-                de poder traducir algún día con fluidez cierto cuentecillo francés que
-                Madame Pierrot me había mostrado ese día; y no se resolvió ese
-                problema a mi satisfacción antes de que cayera dulcemente
-                dormida.</p>
+                    <p>AsÃ­, aliviada de una pesada carga, desde esa hora me puse a
+                    trabajar de nuevo, resuelta a abrirme camino a travÃ©s de toda
+                    dificultad. TrabajÃ© duro, y mi Ã©xito fue proporcional a mis esfuerzos;
+                    mi memoria, no naturalmente tenaz, mejorÃ³ con la prÃ¡ctica; el
+                    ejercicio agudizÃ³ mi ingenio. En pocas semanas fui ascendida a una
+                    clase superior; en menos de dos meses se me permitiÃ³ comenzar
+                    francÃ©s y dibujo. AprendÃ­ los dos primeros tiempos del verbo ÃŠtre y
+                    esbocÃ© mi primera cabaÃ±a (cuyas paredes, por cierto, superaban en
+                    inclinaciÃ³n a las de la torre inclinada de Pisa) el mismo dÃ­a. Aquella
+                    noche, al acostarme, olvidÃ© preparar en la imaginaciÃ³n la cena de
+                    BarmÃ©cida de patatas asadas calientes, o pan blanco y leche fresca,
+                    con la que solÃ­a entretener mis antojos internos. En su lugar, me
+                    deleitÃ© con el espectÃ¡culo de dibujos ideales que veÃ­a en la
+                    oscuridad, todos obra de mis propias manos: casas y Ã¡rboles
+                    libremente dibujados, rocas y ruinas pintorescas, grupos de ganado
+                    al estilo de Cuyp, dulces pinturas de mariposas revoloteando sobre
+                    rosas sin abrir, de pÃ¡jaros picoteando cerezas maduras, de nidos de
+                    reyezuelo que encerraban huevos como perlas, rodeados de jÃ³venes
+                    ramas de hiedra. ExaminÃ© tambiÃ©n, en pensamiento, la posibilidad
+                    de poder traducir algÃºn dÃ­a con fluidez cierto cuentecillo francÃ©s que
+                    Madame Pierrot me habÃ­a mostrado ese dÃ­a; y no se resolviÃ³ ese
+                    problema a mi satisfacciÃ³n antes de que cayera dulcemente
+                    dormida.</p>
 
-                <p>Bien ha dicho Salomón: «Mejor es la comida de legumbres donde
-                hay amor, que de buey engordado donde hay odio».</p>
+                    <p>Bien ha dicho SalomÃ³n: Â«Mejor es la comida de legumbres donde
+                    hay amor, que de buey engordado donde hay odioÂ».</p>
 
-                <p>No habría cambiado ahora Lowood con todas sus privaciones por
-                Gateshead y sus lujos diarios.</p>
+                    <p>No habrÃ­a cambiado ahora Lowood con todas sus privaciones por
+                    Gateshead y sus lujos diarios.</p>
 
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap7.php" rel="prev">Anterior</a>
-                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menÃº de capÃ­tulos</a>
                     <a class="cambioSiguiente" href="cap9.php" rel="next">Siguiente</a>
                 </div>
             </section>

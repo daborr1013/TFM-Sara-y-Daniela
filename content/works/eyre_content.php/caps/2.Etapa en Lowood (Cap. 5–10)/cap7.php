@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Capítulo 7</title>
+    <title>CapÃ­tulo 7</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el capítulo 7">
+    <meta name="description" content="Este es el capÃ­tulo 7">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -34,26 +34,26 @@
 
     <main>
         <div class="layout">
-           <div class="sidebar">
+            <div class="sidebar">
                 <nav class="navbar-sidebar">    
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
+                        <li><a href="../../intro_obra.php">IntroducciÃ³n a la obra</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contenido_eyre.php">Contenido</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
-                                <li><a href="../../capitulos.php">Capítulos</a></li>
+                                <li><a href="../../resumenes/resumenes.php">ResÃºmenes</a></li>
+                                <li><a href="../../capitulos.php">CapÃ­tulos</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
-                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
+                                <li><a href="charlotte.php">Charlotte BrontÃ«</a></li>
+                                <li><a href="contexto_historico.php">Contexto histÃ³rico</a></li>
                             </ul>
                         </li>
 
@@ -61,7 +61,7 @@
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">Símbolos</a></li>
+                                <li><a href="simbolos.php">SÃ­mbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
                                 <li><a href="mapa.php">Mapa</a></li>
@@ -82,420 +82,420 @@
             </div>
             
             <section class="contenido">
-                <h1>Capítulo VII</h1>
+                <h1>CapÃ­tulo VII</h1>
                 
-                <p>Mi primer trimestre en Lowood me pareció una eternidad; y no la
-                edad de oro, precisamente. Comprendió una lucha fastidiosa con las
-                dificultades de habituarme a nuevas reglas y tareas insólitas. El
-                miedo a fracasar en estos puntos me atormentaba más que las
-                penalidades físicas de mi suerte, aunque estas no eran
+                <p>Mi primer trimestre en Lowood me pareciÃ³ una eternidad; y no la
+                edad de oro, precisamente. ComprendiÃ³ una lucha fastidiosa con las
+                dificultades de habituarme a nuevas reglas y tareas insÃ³litas. El
+                miedo a fracasar en estos puntos me atormentaba mÃ¡s que las
+                penalidades fÃ­sicas de mi suerte, aunque estas no eran
                 insignificantes.</p>
 
                 <p>Durante enero, febrero y parte de marzo, las profundas nieves y,
                 tras su deshielo, los caminos casi intransitables, nos impidieron salir
-                más allá de los muros del jardín, excepto para ir a la iglesia; pero
-                dentro de estos límites teníamos que pasar una hora cada día al aire
-                libre. Nuestra ropa era insuficiente para protegernos del frío severo:
-                no teníamos botas, la nieve se metía en nuestros zapatos y se
-                derretía allí; nuestras manos sin guantes se entumecían y se cubrían
-                de sabañones, al igual que nuestros pies. Recuerdo bien la irritación
+                mÃ¡s allÃ¡ de los muros del jardÃ­n, excepto para ir a la iglesia; pero
+                dentro de estos lÃ­mites tenÃ­amos que pasar una hora cada dÃ­a al aire
+                libre. Nuestra ropa era insuficiente para protegernos del frÃ­o severo:
+                no tenÃ­amos botas, la nieve se metÃ­a en nuestros zapatos y se
+                derretÃ­a allÃ­; nuestras manos sin guantes se entumecÃ­an y se cubrÃ­an
+                de sabaÃ±ones, al igual que nuestros pies. Recuerdo bien la irritaciÃ³n
                 enloquecedora que soportaba por esta causa cada tarde, cuando mis
                 pies se inflamaban; y la tortura de meter los dedos hinchados, en
-                carne viva y rígidos en mis zapatos por la mañana. Luego, el escaso
+                carne viva y rÃ­gidos en mis zapatos por la maÃ±ana. Luego, el escaso
                 suministro de comida era angustioso: con el agudo apetito de los
-                niños en crecimiento, apenas teníamos lo suficiente para mantener
-                con vida a un delicado inválido. De esta deficiencia de alimento
-                resultó un abuso, que oprimía duramente a las alumnas más
-                jóvenes: cada vez que las chicas mayores hambrientas tenían la
-                oportunidad, engatusaban o amenazaban a las pequeñas para
-                quitarles su porción. Muchas veces he compartido entre dos
+                niÃ±os en crecimiento, apenas tenÃ­amos lo suficiente para mantener
+                con vida a un delicado invÃ¡lido. De esta deficiencia de alimento
+                resultÃ³ un abuso, que oprimÃ­a duramente a las alumnas mÃ¡s
+                jÃ³venes: cada vez que las chicas mayores hambrientas tenÃ­an la
+                oportunidad, engatusaban o amenazaban a las pequeÃ±as para
+                quitarles su porciÃ³n. Muchas veces he compartido entre dos
                 pretendientas el precioso bocado de pan moreno distribuido a la
-                hora del té; y después de ceder a una tercera la mitad del contenido
-                de mi taza de café, he tragado el resto con un acompañamiento de
-                lágrimas secretas, forzadas por la exigencia del hambre.</p>
+                hora del tÃ©; y despuÃ©s de ceder a una tercera la mitad del contenido
+                de mi taza de cafÃ©, he tragado el resto con un acompaÃ±amiento de
+                lÃ¡grimas secretas, forzadas por la exigencia del hambre.</p>
 
-                <p>Los domingos eran días lúgubres en esa estación invernal.
-                Teníamos que caminar dos millas hasta la iglesia de Brocklebridge,
-                donde oficiaba nuestro patrón. Salíamos con frío, llegábamos a la
-                iglesia más fríos aún; durante el servicio matutino nos quedábamos
+                <p>Los domingos eran dÃ­as lÃºgubres en esa estaciÃ³n invernal.
+                TenÃ­amos que caminar dos millas hasta la iglesia de Brocklebridge,
+                donde oficiaba nuestro patrÃ³n. SalÃ­amos con frÃ­o, llegÃ¡bamos a la
+                iglesia mÃ¡s frÃ­os aÃºn; durante el servicio matutino nos quedÃ¡bamos
                 casi paralizados. Estaba demasiado lejos para volver a comer, y entre
-                los servicios se repartía una ración de carne fría y pan, en la misma
-                penosa proporción observada en nuestras comidas ordinarias.</p>
+                los servicios se repartÃ­a una raciÃ³n de carne frÃ­a y pan, en la misma
+                penosa proporciÃ³n observada en nuestras comidas ordinarias.</p>
 
-                <p>Al final del servicio de la tarde, regresábamos por un camino
-                expuesto y montañoso, donde el amargo viento invernal, que
+                <p>Al final del servicio de la tarde, regresÃ¡bamos por un camino
+                expuesto y montaÃ±oso, donde el amargo viento invernal, que
                 soplaba sobre una cadena de cumbres nevadas al norte, casi nos
                 arrancaba la piel de la cara.</p>
 
-                <p>Recuerdo a la señorita Temple caminando ligera y rápidamente a
-                lo largo de nuestra abatida fila, con su capa de tartán, que el viento
-                helado agitaba, ceñida a su cuerpo, y animándonos, con el precepto
-                y el ejemplo, a mantener el ánimo y a marchar hacia adelante, como
-                ella decía, «como soldados valientes». Las otras maestras,
+                <p>Recuerdo a la seÃ±orita Temple caminando ligera y rÃ¡pidamente a
+                lo largo de nuestra abatida fila, con su capa de tartÃ¡n, que el viento
+                helado agitaba, ceÃ±ida a su cuerpo, y animÃ¡ndonos, con el precepto
+                y el ejemplo, a mantener el Ã¡nimo y a marchar hacia adelante, como
+                ella decÃ­a, Â«como soldados valientesÂ». Las otras maestras,
                 pobrecillas, generalmente estaban ellas mismas demasiado abatidas
-                para intentar la tarea de animar a las demás.</p>
+                para intentar la tarea de animar a las demÃ¡s.</p>
 
-                <p>¡Cómo anhelábamos la luz y el calor de un fuego crepitante
-                cuando volvíamos! Pero, al menos para las pequeñas, esto se nos
+                <p>Â¡CÃ³mo anhelÃ¡bamos la luz y el calor de un fuego crepitante
+                cuando volvÃ­amos! Pero, al menos para las pequeÃ±as, esto se nos
                 negaba: cada hogar en el aula era inmediatamente rodeado por una
-                doble fila de chicas mayores, y detrás de ellas las niñas más jóvenes
-                se acurrucaban en grupos, envolviendo sus brazos famélicos en sus
+                doble fila de chicas mayores, y detrÃ¡s de ellas las niÃ±as mÃ¡s jÃ³venes
+                se acurrucaban en grupos, envolviendo sus brazos famÃ©licos en sus
                 delantales.</p>
 
-                <p>Un pequeño consuelo llegaba a la hora del té, en forma de una
-                doble ración de pan —una rebanada entera, en lugar de media— con
-                la deliciosa adición de una fina capa de mantequilla: era la delicia
-                hebdomadaria que todas esperábamos de sábado en sábado.
+                <p>Un pequeÃ±o consuelo llegaba a la hora del tÃ©, en forma de una
+                doble raciÃ³n de pan â€”una rebanada entera, en lugar de mediaâ€” con
+                la deliciosa adiciÃ³n de una fina capa de mantequilla: era la delicia
+                hebdomadaria que todas esperÃ¡bamos de sÃ¡bado en sÃ¡bado.
                 Generalmente me las arreglaba para reservar una mitad de este
-                generoso manjar para mí; pero el resto me veía invariablemente
+                generoso manjar para mÃ­; pero el resto me veÃ­a invariablemente
                 obligada a compartirlo.</p>
 
                 <p>La tarde del domingo se pasaba repitiendo de memoria el
-                Catecismo de la Iglesia y los capítulos quinto, sexto y séptimo de
-                San Mateo; y escuchando un largo sermón, leído por la señorita
+                Catecismo de la Iglesia y los capÃ­tulos quinto, sexto y sÃ©ptimo de
+                San Mateo; y escuchando un largo sermÃ³n, leÃ­do por la seÃ±orita
                 Miller, cuyos bostezos irreprimibles atestiguaban su cansancio. Un
-                interludio frecuente de estas actuaciones era la representación del
-                papel de Eutico por parte de media docena de niñas pequeñas,
-                quienes, vencidas por el sueño, se caían, si no del tercer piso, sí del
+                interludio frecuente de estas actuaciones era la representaciÃ³n del
+                papel de Eutico por parte de media docena de niÃ±as pequeÃ±as,
+                quienes, vencidas por el sueÃ±o, se caÃ­an, si no del tercer piso, sÃ­ del
                 cuarto banco, y eran recogidas medio muertas. El remedio era
-                empujarlas hacia el centro del aula y obligarlas a permanecer allí de
-                pie hasta que terminara el sermón. A veces les fallaban los pies y se
-                desplomaban juntas en un montón; entonces se las apuntalaba con
+                empujarlas hacia el centro del aula y obligarlas a permanecer allÃ­ de
+                pie hasta que terminara el sermÃ³n. A veces les fallaban los pies y se
+                desplomaban juntas en un montÃ³n; entonces se las apuntalaba con
                 los altos taburetes de las monitoras.</p>
 
-                <p>Todavía no he aludido a las visitas del señor Brocklehurst; y, de
+                <p>TodavÃ­a no he aludido a las visitas del seÃ±or Brocklehurst; y, de
                 hecho, ese caballero estuvo fuera de casa durante la mayor parte del
-                primer mes después de mi llegada; quizás prolongando su estancia
-                con su amigo el arcediano. Su ausencia fue un alivio para mí. No
-                necesito decir que tenía mis propias razones para temer su venida;
+                primer mes despuÃ©s de mi llegada; quizÃ¡s prolongando su estancia
+                con su amigo el arcediano. Su ausencia fue un alivio para mÃ­. No
+                necesito decir que tenÃ­a mis propias razones para temer su venida;
                 pero venir, vino al fin.</p>
 
                 <p>Una tarde (yo llevaba entonces tres semanas en Lowood),
-                mientras estaba sentada con una pizarra en la mano, rompiéndome
-                la cabeza con una suma de división larga, mis ojos, levantados en
-                abstracción hacia la ventana, divisaron una figura que pasaba justo
-                en ese momento. Reconocí casi instintivamente aquella silueta
-                demacrada; y cuando, dos minutos después, toda la escuela,
-                maestras incluidas, se levantó en masse, no fue necesario que yo
-                mirara hacia arriba para averiguar a quién saludaban con su entrada.
-                Una larga zancada midió el aula, y al instante, junto a la señorita
-                Temple, que también se había levantado, se erguía la misma
-                columna negra que me había mirado con tanto ceño ominoso desde
-                la alfombra de Gateshead. Ahora miré de reojo a esta pieza de
-                arquitectura. Sí, tenía razón: era el señor Brocklehurst, abotonado
-                en un sobretodo, y pareciendo más largo, más estrecho y más rígido
+                mientras estaba sentada con una pizarra en la mano, rompiÃ©ndome
+                la cabeza con una suma de divisiÃ³n larga, mis ojos, levantados en
+                abstracciÃ³n hacia la ventana, divisaron una figura que pasaba justo
+                en ese momento. ReconocÃ­ casi instintivamente aquella silueta
+                demacrada; y cuando, dos minutos despuÃ©s, toda la escuela,
+                maestras incluidas, se levantÃ³ en masse, no fue necesario que yo
+                mirara hacia arriba para averiguar a quiÃ©n saludaban con su entrada.
+                Una larga zancada midiÃ³ el aula, y al instante, junto a la seÃ±orita
+                Temple, que tambiÃ©n se habÃ­a levantado, se erguÃ­a la misma
+                columna negra que me habÃ­a mirado con tanto ceÃ±o ominoso desde
+                la alfombra de Gateshead. Ahora mirÃ© de reojo a esta pieza de
+                arquitectura. SÃ­, tenÃ­a razÃ³n: era el seÃ±or Brocklehurst, abotonado
+                en un sobretodo, y pareciendo mÃ¡s largo, mÃ¡s estrecho y mÃ¡s rÃ­gido
                 que nunca.</p>
 
-                <p>Tenía mis propias razones para estar consternada por esta
-                aparición; recordaba demasiado bien las pérfidas insinuaciones de la
-                señora Reed sobre mi disposición, etc.; la promesa hecha por el
-                señor Brocklehurst de informar a la señorita Temple y a las maestras
-                de mi naturaleza viciosa. Todo el tiempo había estado temiendo el
-                cumplimiento de esta promesa, había estado esperando diariamente
-                la llegada del «Hombre», cuya información sobre mi vida pasada y
-                mi conducta me marcaría como una niña mala para siempre. Ahora,
-                allí estaba él.</p>
+                <p>TenÃ­a mis propias razones para estar consternada por esta
+                apariciÃ³n; recordaba demasiado bien las pÃ©rfidas insinuaciones de la
+                seÃ±ora Reed sobre mi disposiciÃ³n, etc.; la promesa hecha por el
+                seÃ±or Brocklehurst de informar a la seÃ±orita Temple y a las maestras
+                de mi naturaleza viciosa. Todo el tiempo habÃ­a estado temiendo el
+                cumplimiento de esta promesa, habÃ­a estado esperando diariamente
+                la llegada del Â«HombreÂ», cuya informaciÃ³n sobre mi vida pasada y
+                mi conducta me marcarÃ­a como una niÃ±a mala para siempre. Ahora,
+                allÃ­ estaba Ã©l.</p>
 
-                <p>Estaba de pie al lado de la señorita Temple; le hablaba en voz baja
-                al oído. No dudé de que estaba revelando mi villanía, y observé sus
+                <p>Estaba de pie al lado de la seÃ±orita Temple; le hablaba en voz baja
+                al oÃ­do. No dudÃ© de que estaba revelando mi villanÃ­a, y observÃ© sus
                 ojos con dolorosa ansiedad, esperando a cada momento ver su
-                oscuro orbe volverse hacia mí con una mirada de repugnancia y
-                desprecio. También escuché; y como casualmente estaba sentada
-                justo en la parte delantera de la sala, capté la mayor parte de lo que
-                dijo. Su contenido me alivió de la aprensión inmediata.</p>
+                oscuro orbe volverse hacia mÃ­ con una mirada de repugnancia y
+                desprecio. TambiÃ©n escuchÃ©; y como casualmente estaba sentada
+                justo en la parte delantera de la sala, captÃ© la mayor parte de lo que
+                dijo. Su contenido me aliviÃ³ de la aprensiÃ³n inmediata.</p>
 
-                <p>—Supongo, señorita Temple, que el hilo que compré en Lowton
-                servirá; me pareció que sería de la calidad justa para las camisas de
-                calicó, y he seleccionado las agujas a juego. Puede decirle a la
-                señorita Smith que olvidé tomar nota de las agujas de zurcir, pero
-                que le enviarán algunos paquetes la próxima semana; y que, bajo
-                ningún concepto, debe dar más de una a la vez a cada alumna. Si
-                tienen más, tienden a ser descuidadas y a perderlas. ¡Y, oh, señora!
-                ¡Desearía que se vigilaran mejor las medias de lana! Cuando estuve
-                aquí la última vez, fui al huerto y examiné la ropa que se secaba en
-                el tendedero; había una cantidad de medias negras en muy mal
-                estado. Por el tamaño de los agujeros, estaba seguro de que no
-                habían sido bien remendadas de vez en cuando.</p>
+                <p>â€”Supongo, seÃ±orita Temple, que el hilo que comprÃ© en Lowton
+                servirÃ¡; me pareciÃ³ que serÃ­a de la calidad justa para las camisas de
+                calicÃ³, y he seleccionado las agujas a juego. Puede decirle a la
+                seÃ±orita Smith que olvidÃ© tomar nota de las agujas de zurcir, pero
+                que le enviarÃ¡n algunos paquetes la prÃ³xima semana; y que, bajo
+                ningÃºn concepto, debe dar mÃ¡s de una a la vez a cada alumna. Si
+                tienen mÃ¡s, tienden a ser descuidadas y a perderlas. Â¡Y, oh, seÃ±ora!
+                Â¡DesearÃ­a que se vigilaran mejor las medias de lana! Cuando estuve
+                aquÃ­ la Ãºltima vez, fui al huerto y examinÃ© la ropa que se secaba en
+                el tendedero; habÃ­a una cantidad de medias negras en muy mal
+                estado. Por el tamaÃ±o de los agujeros, estaba seguro de que no
+                habÃ­an sido bien remendadas de vez en cuando.</p>
 
                 <p>Hizo una pausa.</p>
 
-                <p>—Se atenderán sus indicaciones, señor —dijo la señorita Temple.</p>
+                <p>â€”Se atenderÃ¡n sus indicaciones, seÃ±or â€”dijo la seÃ±orita Temple.</p>
 
-                <p>—Y, señora —continuó—, la lavandera me dice que algunas de las
-                niñas tienen dos pecheras limpias a la semana. Es demasiado; las
+                <p>â€”Y, seÃ±ora â€”continuÃ³â€”, la lavandera me dice que algunas de las
+                niÃ±as tienen dos pecheras limpias a la semana. Es demasiado; las
                 reglas las limitan a una.</p>
 
-                <p>—Creo que puedo explicar esa circunstancia, señor. Agnes y
-                Catherine Johnstone fueron invitadas a tomar el té con unos amigos
+                <p>â€”Creo que puedo explicar esa circunstancia, seÃ±or. Agnes y
+                Catherine Johnstone fueron invitadas a tomar el tÃ© con unos amigos
                 en Lowton el jueves pasado, y les di permiso para ponerse pecheras
-                limpias para la ocasión.</p>
+                limpias para la ocasiÃ³n.</p>
 
-                <p>El señor Brocklehurst asintió.</p>
+                <p>El seÃ±or Brocklehurst asintiÃ³.</p>
 
-                <p>—Bueno, por una vez puede pasar; pero por favor, que la
+                <p>â€”Bueno, por una vez puede pasar; pero por favor, que la
                 circunstancia no ocurra con demasiada frecuencia. Y hay otra cosa
-                que me sorprendió; encuentro, al liquidar las cuentas con el ama de
+                que me sorprendiÃ³; encuentro, al liquidar las cuentas con el ama de
                 llaves, que se ha servido un almuerzo, consistente en pan y queso,
-                dos veces a las niñas durante la última quincena. ¿Cómo es esto?
-                Repasé el reglamento y no encuentro ninguna comida mencionada
-                como almuerzo. ¿Quién introdujo esta innovación? ¿Y con qué
+                dos veces a las niÃ±as durante la Ãºltima quincena. Â¿CÃ³mo es esto?
+                RepasÃ© el reglamento y no encuentro ninguna comida mencionada
+                como almuerzo. Â¿QuiÃ©n introdujo esta innovaciÃ³n? Â¿Y con quÃ©
                 autoridad?</p>
 
-                <p>—Debo responsabilizarme de la circunstancia, señor —replicó la
-                señorita Temple—. El desayuno estaba tan mal preparado que las
-                alumnas no pudieron comerlo de ninguna manera; y no me atreví a
+                <p>â€”Debo responsabilizarme de la circunstancia, seÃ±or â€”replicÃ³ la
+                seÃ±orita Templeâ€”. El desayuno estaba tan mal preparado que las
+                alumnas no pudieron comerlo de ninguna manera; y no me atrevÃ­ a
                 permitir que permanecieran en ayunas hasta la hora de la cena.</p>
 
-                <p>—Señora, permítame un instante. Es usted consciente de que mi
-                plan al educar a estas niñas no es acostumbrarlas a hábitos de lujo e
+                <p>â€”SeÃ±ora, permÃ­tame un instante. Es usted consciente de que mi
+                plan al educar a estas niÃ±as no es acostumbrarlas a hÃ¡bitos de lujo e
                 indulgencia, sino hacerlas resistentes, pacientes, abnegadas. Si
-                ocurriera alguna pequeña decepción accidental del apetito, como
-                que se eche a perder una comida, que un plato esté poco o
+                ocurriera alguna pequeÃ±a decepciÃ³n accidental del apetito, como
+                que se eche a perder una comida, que un plato estÃ© poco o
                 demasiado cocido, el incidente no debe neutralizarse reemplazando
-                con algo más delicado el consuelo perdido, mimando así el cuerpo y
-                frustrando el objetivo de esta institución; debe aprovecharse para la
-                edificación espiritual de las alumnas, animándolas a mostrar
-                fortaleza ante la privación temporal. Un breve discurso en esas
-                ocasiones no estaría fuera de lugar, en el que un instructor juicioso
-                aprovecharía la oportunidad para referirse a los sufrimientos de los
-                primeros cristianos; a los tormentos de los mártires; a las
-                exhortaciones de nuestro bendito Señor mismo, llamando a sus
-                discípulos a tomar su cruz y seguirle; a sus advertencias de que no
-                solo de pan vivirá el hombre, sino de toda palabra que sale de la
-                boca de Dios; a sus divinas consolaciones: «Si padecéis hambre o
-                sed por mi causa, bienaventurados sois». ¡Oh, señora, cuando
-                ponéis pan y queso, en lugar de gachas quemadas, en la boca de
-                estas niñas, podéis ciertamente alimentar sus viles cuerpos, pero
-                poco pensáis en cómo matáis de hambre sus almas inmortales!</p>
+                con algo mÃ¡s delicado el consuelo perdido, mimando asÃ­ el cuerpo y
+                frustrando el objetivo de esta instituciÃ³n; debe aprovecharse para la
+                edificaciÃ³n espiritual de las alumnas, animÃ¡ndolas a mostrar
+                fortaleza ante la privaciÃ³n temporal. Un breve discurso en esas
+                ocasiones no estarÃ­a fuera de lugar, en el que un instructor juicioso
+                aprovecharÃ­a la oportunidad para referirse a los sufrimientos de los
+                primeros cristianos; a los tormentos de los mÃ¡rtires; a las
+                exhortaciones de nuestro bendito SeÃ±or mismo, llamando a sus
+                discÃ­pulos a tomar su cruz y seguirle; a sus advertencias de que no
+                solo de pan vivirÃ¡ el hombre, sino de toda palabra que sale de la
+                boca de Dios; a sus divinas consolaciones: Â«Si padecÃ©is hambre o
+                sed por mi causa, bienaventurados soisÂ». Â¡Oh, seÃ±ora, cuando
+                ponÃ©is pan y queso, en lugar de gachas quemadas, en la boca de
+                estas niÃ±as, podÃ©is ciertamente alimentar sus viles cuerpos, pero
+                poco pensÃ¡is en cÃ³mo matÃ¡is de hambre sus almas inmortales!</p>
 
-                <p>El señor Brocklehurst volvió a hacer una pausa, quizás abrumado
-                por sus sentimientos. La señorita Temple había bajado la vista
-                cuando él comenzó a hablarle; pero ahora miraba fijamente al
-                frente, y su rostro, naturalmente pálido como el mármol, parecía
-                estar asumiendo también la frialdad y la fijeza de ese material;
+                <p>El seÃ±or Brocklehurst volviÃ³ a hacer una pausa, quizÃ¡s abrumado
+                por sus sentimientos. La seÃ±orita Temple habÃ­a bajado la vista
+                cuando Ã©l comenzÃ³ a hablarle; pero ahora miraba fijamente al
+                frente, y su rostro, naturalmente pÃ¡lido como el mÃ¡rmol, parecÃ­a
+                estar asumiendo tambiÃ©n la frialdad y la fijeza de ese material;
                 especialmente su boca, cerrada como si hubiera requerido el cincel
-                de un escultor para abrirla, y su frente se endureció gradualmente
+                de un escultor para abrirla, y su frente se endureciÃ³ gradualmente
                 en una severidad petrificada.</p>
 
-                <p>Mientras tanto, el señor Brocklehurst, de pie en el hogar con las
+                <p>Mientras tanto, el seÃ±or Brocklehurst, de pie en el hogar con las
                 manos a la espalda, inspeccionaba majestuosamente toda la
-                escuela. De repente, su ojo parpadeó, como si se hubiera topado
-                con algo que deslumbrara o sorprendiera a su pupila; volviéndose,
-                dijo con acentos más rápidos de los que había usado hasta ahora:</p>
+                escuela. De repente, su ojo parpadeÃ³, como si se hubiera topado
+                con algo que deslumbrara o sorprendiera a su pupila; volviÃ©ndose,
+                dijo con acentos mÃ¡s rÃ¡pidos de los que habÃ­a usado hasta ahora:</p>
 
-                <p>—¡Señorita Temple, señorita Temple, qué... qué es esa niña con el
-                pelo rizado? Pelo rojo, señora, rizado, ¡rizado por todas partes! —Y
-                extendiendo su bastón, señaló el terrible objeto, temblándole la
+                <p>â€”Â¡SeÃ±orita Temple, seÃ±orita Temple, quÃ©... quÃ© es esa niÃ±a con el
+                pelo rizado? Pelo rojo, seÃ±ora, rizado, Â¡rizado por todas partes! â€”Y
+                extendiendo su bastÃ³n, seÃ±alÃ³ el terrible objeto, temblÃ¡ndole la
                 mano al hacerlo.</p>
 
-                <p>—Es Julia Severn —replicó la señorita Temple, muy
+                <p>â€”Es Julia Severn â€”replicÃ³ la seÃ±orita Temple, muy
                 tranquilamente.</p>
 
-                <p>—¡Julia Severn, señora! ¿Y por qué tiene ella, o cualquier otra, el
-                pelo rizado? ¿Por qué, en desafío a todo precepto y principio de esta
-                casa, se conforma tan abiertamente al mundo —aquí, en un
-                establecimiento evangélico y de caridad— como para llevar el pelo
+                <p>â€”Â¡Julia Severn, seÃ±ora! Â¿Y por quÃ© tiene ella, o cualquier otra, el
+                pelo rizado? Â¿Por quÃ©, en desafÃ­o a todo precepto y principio de esta
+                casa, se conforma tan abiertamente al mundo â€”aquÃ­, en un
+                establecimiento evangÃ©lico y de caridadâ€” como para llevar el pelo
                 en una masa de rizos?</p>
 
-                <p>—El pelo de Julia es rizado por naturaleza —respondió la señorita
-                Temple, aún más tranquilamente.</p>
+                <p>â€”El pelo de Julia es rizado por naturaleza â€”respondiÃ³ la seÃ±orita
+                Temple, aÃºn mÃ¡s tranquilamente.</p>
 
-                <p>—¡Por naturaleza! Sí, pero no debemos conformarnos a la
-                naturaleza. Deseo que estas niñas sean hijas de la Gracia. ¿Y por
-                qué esa abundancia? He insinuado una y otra vez que deseo que el
+                <p>â€”Â¡Por naturaleza! SÃ­, pero no debemos conformarnos a la
+                naturaleza. Deseo que estas niÃ±as sean hijas de la Gracia. Â¿Y por
+                quÃ© esa abundancia? He insinuado una y otra vez que deseo que el
                 cabello se arregle pegado a la cabeza, con modestia, con sencillez.
-                Señorita Temple, el pelo de esa niña debe ser cortado por completo;
-                enviaré un barbero mañana. Y veo a otras que tienen demasiada de
-                esa excrecencia; esa chica alta, dígale que se dé la vuelta. Diga a
+                SeÃ±orita Temple, el pelo de esa niÃ±a debe ser cortado por completo;
+                enviarÃ© un barbero maÃ±ana. Y veo a otras que tienen demasiada de
+                esa excrecencia; esa chica alta, dÃ­gale que se dÃ© la vuelta. Diga a
                 toda la primera clase que se levante y ponga la cara contra la pared.</p>
 
-                <p>La señorita Temple se pasó el pañuelo por los labios, como para
+                <p>La seÃ±orita Temple se pasÃ³ el paÃ±uelo por los labios, como para
                 borrar la sonrisa involuntaria que los curvaba; dio la orden, sin
                 embargo, y cuando la primera clase pudo comprender lo que se les
-                exigía, obedecieron. Inclinándome un poco hacia atrás en mi banco,
+                exigÃ­a, obedecieron. InclinÃ¡ndome un poco hacia atrÃ¡s en mi banco,
                 pude ver las miradas y muecas con las que comentaban esta
-                maniobra. Era una lástima que el señor Brocklehurst no pudiera
-                verlas también; quizás habría sentido que, hiciera lo que hiciera con
-                el exterior de la copa y el plato, el interior estaba más allá de su
+                maniobra. Era una lÃ¡stima que el seÃ±or Brocklehurst no pudiera
+                verlas tambiÃ©n; quizÃ¡s habrÃ­a sentido que, hiciera lo que hiciera con
+                el exterior de la copa y el plato, el interior estaba mÃ¡s allÃ¡ de su
                 interferencia de lo que imaginaba.</p>
 
-                <p>Escrutó el reverso de estas medallas vivientes durante unos cinco
-                minutos, y luego pronunció sentencia. Estas palabras cayeron como
+                <p>EscrutÃ³ el reverso de estas medallas vivientes durante unos cinco
+                minutos, y luego pronunciÃ³ sentencia. Estas palabras cayeron como
                 el toque de difuntos:</p>
 
-                <p>—Todos esos moños deben ser cortados.</p>
+                <p>â€”Todos esos moÃ±os deben ser cortados.</p>
 
-                <p>La señorita Temple pareció protestar.</p>
+                <p>La seÃ±orita Temple pareciÃ³ protestar.</p>
 
-                <p>—Señora —prosiguió él—, tengo un Amo que servir cuyo reino no
-                es de este mundo. Mi misión es mortificar en estas niñas las
-                concupiscencias de la carne; enseñarles a vestirse con pudor y
+                <p>â€”SeÃ±ora â€”prosiguiÃ³ Ã©lâ€”, tengo un Amo que servir cuyo reino no
+                es de este mundo. Mi misiÃ³n es mortificar en estas niÃ±as las
+                concupiscencias de la carne; enseÃ±arles a vestirse con pudor y
                 sobriedad, no con cabellos trenzados y ropas costosas. Y cada una
-                de las jóvenes que tenemos ante nosotros tiene un mechón de pelo
-                retorcido en trenzas que la propia vanidad podría haber tejido.
+                de las jÃ³venes que tenemos ante nosotros tiene un mechÃ³n de pelo
+                retorcido en trenzas que la propia vanidad podrÃ­a haber tejido.
                 Estos, repito, deben ser cortados. Piense en el tiempo perdido, en...</p>
 
-                <p>El señor Brocklehurst fue interrumpido aquí: otras tres visitantes,
-                damas, entraron en la sala. Deberían haber llegado un poco antes
-                para haber oído su sermón sobre el vestir, pues estaban
-                espléndidamente ataviadas de terciopelo, seda y pieles. Las dos más
-                jóvenes del trío (unas bellas muchachas de dieciséis y diecisiete
-                años) llevaban sombreros de castor gris, entonces de moda,
+                <p>El seÃ±or Brocklehurst fue interrumpido aquÃ­: otras tres visitantes,
+                damas, entraron en la sala. DeberÃ­an haber llegado un poco antes
+                para haber oÃ­do su sermÃ³n sobre el vestir, pues estaban
+                esplÃ©ndidamente ataviadas de terciopelo, seda y pieles. Las dos mÃ¡s
+                jÃ³venes del trÃ­o (unas bellas muchachas de diecisÃ©is y diecisiete
+                aÃ±os) llevaban sombreros de castor gris, entonces de moda,
                 sombreados con plumas de avestruz, y de debajo del ala de este
-                gracioso tocado caía una profusión de mechones claros,
+                gracioso tocado caÃ­a una profusiÃ³n de mechones claros,
                 elaboradamente rizados; la dama mayor estaba envuelta en un
-                costoso chal de terciopelo, adornado con armiño, y llevaba un
+                costoso chal de terciopelo, adornado con armiÃ±o, y llevaba un
                 postizo de rizos franceses.</p>
 
-                <p>Estas damas fueron recibidas con deferencia por la señorita
-                Temple, como la señora y las señoritas Brocklehurst, y conducidas a
-                asientos de honor en la cabecera de la sala. Parece que habían
-                venido en el carruaje con su reverendo pariente y habían estado
-                llevando a cabo un minucioso escrutinio de la habitación de arriba,
-                mientras él trataba asuntos con el ama de llaves, interrogaba a la
+                <p>Estas damas fueron recibidas con deferencia por la seÃ±orita
+                Temple, como la seÃ±ora y las seÃ±oritas Brocklehurst, y conducidas a
+                asientos de honor en la cabecera de la sala. Parece que habÃ­an
+                venido en el carruaje con su reverendo pariente y habÃ­an estado
+                llevando a cabo un minucioso escrutinio de la habitaciÃ³n de arriba,
+                mientras Ã©l trataba asuntos con el ama de llaves, interrogaba a la
                 lavandera y sermoneaba a la superintendente. Ahora procedieron a
-                dirigir diversas observaciones y reproches a la señorita Smith, que
-                estaba a cargo del cuidado de la ropa blanca y la inspección de los
-                dormitorios; pero no tuve tiempo de escuchar lo que decían; otros
-                asuntos desviaron y encantaron mi atención.</p>
+                dirigir diversas observaciones y reproches a la seÃ±orita Smith, que
+                estaba a cargo del cuidado de la ropa blanca y la inspecciÃ³n de los
+                dormitorios; pero no tuve tiempo de escuchar lo que decÃ­an; otros
+                asuntos desviaron y encantaron mi atenciÃ³n.</p>
 
-                <p>Hasta ahora, mientras recogía el discurso del señor Brocklehurst y
-                la señorita Temple, no había, al mismo tiempo, descuidado las
-                precauciones para asegurar mi seguridad personal, que pensé que
-                se lograría si tan solo podía eludir la observación. Con este fin, me
-                había sentado bien atrás en el banco y, mientras parecía estar
-                ocupada con mi suma, había sostenido mi pizarra de tal manera que
-                ocultara mi rostro. Podría haber pasado desapercibida, si no fuera
-                porque mi traicionera pizarra se me resbaló de la mano y, al caer con
-                un estrépito indiscreto, atrajo directamente todas las miradas hacia
-                mí. Supe que todo había terminado, y, mientras me agachaba para
-                recoger los dos fragmentos de pizarra, reuní mis fuerzas para lo
-                peor. Y llegó.</p>
+                <p>Hasta ahora, mientras recogÃ­a el discurso del seÃ±or Brocklehurst y
+                la seÃ±orita Temple, no habÃ­a, al mismo tiempo, descuidado las
+                precauciones para asegurar mi seguridad personal, que pensÃ© que
+                se lograrÃ­a si tan solo podÃ­a eludir la observaciÃ³n. Con este fin, me
+                habÃ­a sentado bien atrÃ¡s en el banco y, mientras parecÃ­a estar
+                ocupada con mi suma, habÃ­a sostenido mi pizarra de tal manera que
+                ocultara mi rostro. PodrÃ­a haber pasado desapercibida, si no fuera
+                porque mi traicionera pizarra se me resbalÃ³ de la mano y, al caer con
+                un estrÃ©pito indiscreto, atrajo directamente todas las miradas hacia
+                mÃ­. Supe que todo habÃ­a terminado, y, mientras me agachaba para
+                recoger los dos fragmentos de pizarra, reunÃ­ mis fuerzas para lo
+                peor. Y llegÃ³.</p>
 
-                <p>mediatamente después—: Es la nueva alumna, percibo. —Y antes
-                de que pudiera respirar—: No debo olvidar que tengo unas palabras
-                que decir respecto a ella. —Luego en voz alta, ¡qué alta me pareció!
-                —: ¡Que la niña que ha roto su pizarra se adelante!</p>
+                <p>mediatamente despuÃ©sâ€”: Es la nueva alumna, percibo. â€”Y antes
+                de que pudiera respirarâ€”: No debo olvidar que tengo unas palabras
+                que decir respecto a ella. â€”Luego en voz alta, Â¡quÃ© alta me pareciÃ³!
+                â€”: Â¡Que la niÃ±a que ha roto su pizarra se adelante!</p>
 
-                <p>Por mi propia voluntad no podría haberme movido; estaba
+                <p>Por mi propia voluntad no podrÃ­a haberme movido; estaba
                 paralizada. Pero las dos chicas mayores que se sentaban a cada lado
-                de mí, me pusieron de pie y me empujaron hacia el temible juez, y
-                entonces la señorita Temple me ayudó suavemente a llegar hasta
-                sus mismos pies, y capté su consejo susurrado:</p>
+                de mÃ­, me pusieron de pie y me empujaron hacia el temible juez, y
+                entonces la seÃ±orita Temple me ayudÃ³ suavemente a llegar hasta
+                sus mismos pies, y captÃ© su consejo susurrado:</p>
 
-                <p>—No tengas miedo, Jane, vi que fue un accidente; no serás
+                <p>â€”No tengas miedo, Jane, vi que fue un accidente; no serÃ¡s
                 castigada.</p>
 
-                <p>El amable susurro se clavó en mi corazón como una daga.</p>
+                <p>El amable susurro se clavÃ³ en mi corazÃ³n como una daga.</p>
 
-                <p>«Un minuto más, y me despreciará por hipócrita», pensé; y un
-                impulso de furia contra Reed, Brocklehurst y Compañía saltó en mis
-                venas ante la convicción. Yo no era Helen Burns.</p>
+                <p>Â«Un minuto mÃ¡s, y me despreciarÃ¡ por hipÃ³critaÂ», pensÃ©; y un
+                impulso de furia contra Reed, Brocklehurst y CompaÃ±Ã­a saltÃ³ en mis
+                venas ante la convicciÃ³n. Yo no era Helen Burns.</p>
 
-                <p>—Traed ese taburete —dijo el señor Brocklehurst, señalando uno
+                <p>â€”Traed ese taburete â€”dijo el seÃ±or Brocklehurst, seÃ±alando uno
                 muy alto del que una monitora acababa de levantarse. Lo trajeron.</p>
 
-                <p>—Colocad a la niña sobre él.</p>
+                <p>â€”Colocad a la niÃ±a sobre Ã©l.</p>
 
-                <p>Y me colocaron allí, no sé por quién. No estaba en condiciones de
-                notar detalles; solo era consciente de que me habían izado a la
-                altura de la nariz del señor Brocklehurst, que él estaba a menos de
-                una yarda de mí, y que una extensión de pellizas de seda naranja y
-                púrpura moteada y una nube de plumaje plateado se extendían y
-                ondeaban debajo de mí.</p>
+                <p>Y me colocaron allÃ­, no sÃ© por quiÃ©n. No estaba en condiciones de
+                notar detalles; solo era consciente de que me habÃ­an izado a la
+                altura de la nariz del seÃ±or Brocklehurst, que Ã©l estaba a menos de
+                una yarda de mÃ­, y que una extensiÃ³n de pellizas de seda naranja y
+                pÃºrpura moteada y una nube de plumaje plateado se extendÃ­an y
+                ondeaban debajo de mÃ­.</p>
 
-                <p>El señor Brocklehurst carraspeó.</p>
+                <p>El seÃ±or Brocklehurst carraspeÃ³.</p>
 
-                <p>—Señoras —dijo, volviéndose hacia su familia—, señorita Temple,
-                maestras y niñas, ¿veis todas a esta chica?</p>
+                <p>â€”SeÃ±oras â€”dijo, volviÃ©ndose hacia su familiaâ€”, seÃ±orita Temple,
+                maestras y niÃ±as, Â¿veis todas a esta chica?</p>
 
-                <p>Por supuesto que la veían, pues sentía sus ojos dirigidos como
+                <p>Por supuesto que la veÃ­an, pues sentÃ­a sus ojos dirigidos como
                 lupas contra mi piel abrasada.</p>
 
-                <p>—Veis que aún es joven; observáis que posee la forma ordinaria
+                <p>â€”Veis que aÃºn es joven; observÃ¡is que posee la forma ordinaria
                 de la infancia; Dios le ha concedido graciosamente la forma que nos
-                ha dado a todos nosotros; ninguna deformidad señalada la distingue
-                como un personaje marcado. ¿Quién pensaría que el Maligno ya ha
+                ha dado a todos nosotros; ninguna deformidad seÃ±alada la distingue
+                como un personaje marcado. Â¿QuiÃ©n pensarÃ­a que el Maligno ya ha
                 encontrado una sierva y agente en ella? Sin embargo, tal, lamento
                 decir, es el caso.</p>
 
-                <p>Una pausa, en la que comencé a estabilizar el temblor de mis
-                nervios y a sentir que el Rubicón había sido cruzado, y que la
-                prueba, ya no eludible, debía ser firmemente sostenida.</p>
+                <p>Una pausa, en la que comencÃ© a estabilizar el temblor de mis
+                nervios y a sentir que el RubicÃ³n habÃ­a sido cruzado, y que la
+                prueba, ya no eludible, debÃ­a ser firmemente sostenida.</p>
 
-                <p>—Mis queridas niñas —prosiguió el clérigo de mármol negro, con
-                patetismo—, esta es una ocasión triste, melancólica; pues se
-                convierte en mi deber advertiros que esta niña, que podría ser uno
-                de los corderos de Dios, es una pequeña descarriada; no un
-                miembro del verdadero rebaño, sino evidentemente una intrusa y
-                una extraña. Debéis estar en guardia contra ella; debéis rehuir su
-                ejemplo; si es necesario, evitar su compañía, excluirla de vuestros
-                juegos y apartarla de vuestra conversación. Maestras, debéis
+                <p>â€”Mis queridas niÃ±as â€”prosiguiÃ³ el clÃ©rigo de mÃ¡rmol negro, con
+                patetismoâ€”, esta es una ocasiÃ³n triste, melancÃ³lica; pues se
+                convierte en mi deber advertiros que esta niÃ±a, que podrÃ­a ser uno
+                de los corderos de Dios, es una pequeÃ±a descarriada; no un
+                miembro del verdadero rebaÃ±o, sino evidentemente una intrusa y
+                una extraÃ±a. DebÃ©is estar en guardia contra ella; debÃ©is rehuir su
+                ejemplo; si es necesario, evitar su compaÃ±Ã­a, excluirla de vuestros
+                juegos y apartarla de vuestra conversaciÃ³n. Maestras, debÃ©is
                 vigilarla: mantened los ojos en sus movimientos, sopesad bien sus
                 palabras, escrutad sus acciones, castigad su cuerpo para salvar su
-                alma; si, en verdad, tal salvación es posible, pues (mi lengua vacila
-                mientras lo digo) esta niña, esta criatura, nativa de una tierra
-                cristiana, peor que muchos pequeños paganos que rezan sus
-                oraciones a Brahma y se arrodillan ante Juggernaut, ¡esta niña es...
+                alma; si, en verdad, tal salvaciÃ³n es posible, pues (mi lengua vacila
+                mientras lo digo) esta niÃ±a, esta criatura, nativa de una tierra
+                cristiana, peor que muchos pequeÃ±os paganos que rezan sus
+                oraciones a Brahma y se arrodillan ante Juggernaut, Â¡esta niÃ±a es...
                 una embustera!</p>
 
-                <p>Siguió una pausa de diez minutos, durante la cual yo, para
-                entonces en perfecta posesión de mis facultades, observé a todas
-                las Brocklehurst femeninas sacar sus pañuelos y aplicárselos a los
-                ojos, mientras la dama mayor se mecía de un lado a otro y las dos
-                más jóvenes susurraban: «¡Qué espanto!».</p>
+                <p>SiguiÃ³ una pausa de diez minutos, durante la cual yo, para
+                entonces en perfecta posesiÃ³n de mis facultades, observÃ© a todas
+                las Brocklehurst femeninas sacar sus paÃ±uelos y aplicÃ¡rselos a los
+                ojos, mientras la dama mayor se mecÃ­a de un lado a otro y las dos
+                mÃ¡s jÃ³venes susurraban: Â«Â¡QuÃ© espanto!Â».</p>
 
-                <p>El señor Brocklehurst reanudó.</p>
+                <p>El seÃ±or Brocklehurst reanudÃ³.</p>
 
-                <p>—Esto lo supe por su benefactora; por la piadosa y caritativa
-                dama que la adoptó en su estado de orfandad, la crió como a su
-                propia hija, y cuya bondad, cuya generosidad, la desdichada niña
-                pagó con una ingratitud tan mala, tan terrible, que al final su
+                <p>â€”Esto lo supe por su benefactora; por la piadosa y caritativa
+                dama que la adoptÃ³ en su estado de orfandad, la criÃ³ como a su
+                propia hija, y cuya bondad, cuya generosidad, la desdichada niÃ±a
+                pagÃ³ con una ingratitud tan mala, tan terrible, que al final su
                 excelente protectora se vio obligada a separarla de sus propios
-                pequeños, temerosa de que su vicioso ejemplo contaminara su
-                pureza. La ha enviado aquí para ser sanada, así como los judíos de
-                antaño enviaban a sus enfermos al agitado estanque de Betesda; y,
-                maestras, superintendente, os ruego que no permitáis que las aguas
+                pequeÃ±os, temerosa de que su vicioso ejemplo contaminara su
+                pureza. La ha enviado aquÃ­ para ser sanada, asÃ­ como los judÃ­os de
+                antaÃ±o enviaban a sus enfermos al agitado estanque de Betesda; y,
+                maestras, superintendente, os ruego que no permitÃ¡is que las aguas
                 se estanquen a su alrededor.</p>
 
-                <p>Con esta sublime conclusión, el señor Brocklehurst se ajustó el
-                botón superior de su sobretodo, murmuró algo a su familia, que se
-                levantó, hizo una reverencia a la señorita Temple, y luego toda la
-                gente importante salió majestuosamente de la sala. Volviéndose en
+                <p>Con esta sublime conclusiÃ³n, el seÃ±or Brocklehurst se ajustÃ³ el
+                botÃ³n superior de su sobretodo, murmurÃ³ algo a su familia, que se
+                levantÃ³, hizo una reverencia a la seÃ±orita Temple, y luego toda la
+                gente importante saliÃ³ majestuosamente de la sala. VolviÃ©ndose en
                 la puerta, mi juez dijo:</p>
 
-                <p>—Que permanezca media hora más en ese taburete, y que nadie
-                le hable durante el resto del día.</p>
+                <p>â€”Que permanezca media hora mÃ¡s en ese taburete, y que nadie
+                le hable durante el resto del dÃ­a.</p>
 
-                <p>Allí estaba yo, pues, montada en alto; yo, que había dicho que no
-                podría soportar la vergüenza de estar de pie en medio de la sala,
+                <p>AllÃ­ estaba yo, pues, montada en alto; yo, que habÃ­a dicho que no
+                podrÃ­a soportar la vergÃ¼enza de estar de pie en medio de la sala,
                 estaba ahora expuesta a la vista general en un pedestal de infamia.
-                Cuáles fueron mis sensaciones, ningún lenguaje puede describirlo;
-                pero justo cuando todas se levantaban, ahogándome el aliento y
-                oprimiéndome la garganta, una niña se acercó y pasó a mi lado; al
-                pasar, levantó los ojos. ¡Qué extraña luz los inspiraba! ¡Qué
-                extraordinaria sensación me envió aquel rayo! ¡Cómo me sostuvo el
-                nuevo sentimiento! Era como si un mártir, un héroe, hubiera pasado
-                junto a un esclavo o una víctima, e impartido fuerza en el tránsito.
-                Dominé la histeria naciente, levanté la cabeza y me planté con
+                CuÃ¡les fueron mis sensaciones, ningÃºn lenguaje puede describirlo;
+                pero justo cuando todas se levantaban, ahogÃ¡ndome el aliento y
+                oprimiÃ©ndome la garganta, una niÃ±a se acercÃ³ y pasÃ³ a mi lado; al
+                pasar, levantÃ³ los ojos. Â¡QuÃ© extraÃ±a luz los inspiraba! Â¡QuÃ©
+                extraordinaria sensaciÃ³n me enviÃ³ aquel rayo! Â¡CÃ³mo me sostuvo el
+                nuevo sentimiento! Era como si un mÃ¡rtir, un hÃ©roe, hubiera pasado
+                junto a un esclavo o una vÃ­ctima, e impartido fuerza en el trÃ¡nsito.
+                DominÃ© la histeria naciente, levantÃ© la cabeza y me plantÃ© con
                 firmeza en el taburete. Helen Burns hizo alguna pregunta trivial
-                sobre su labor a la señorita Smith, fue reprendida por la trivialidad
-                de la pregunta, regresó a su sitio y me sonrió al pasar de nuevo.
-                ¡Qué sonrisa! La recuerdo ahora, y sé que era la emanación de un
-                intelecto refinado, de un verdadero coraje; iluminó sus marcados
+                sobre su labor a la seÃ±orita Smith, fue reprendida por la trivialidad
+                de la pregunta, regresÃ³ a su sitio y me sonriÃ³ al pasar de nuevo.
+                Â¡QuÃ© sonrisa! La recuerdo ahora, y sÃ© que era la emanaciÃ³n de un
+                intelecto refinado, de un verdadero coraje; iluminÃ³ sus marcados
                 rasgos, su rostro delgado, su ojo gris hundido, como un reflejo del
-                aspecto de un ángel. Sin embargo, en ese momento Helen Burns
-                llevaba en su brazo la «insignia de desaliñada»; apenas una hora
-                antes la había oído condenada por la señorita Scatcherd a una cena
-                de pan y agua al día siguiente porque había manchado un ejercicio
-                al copiarlo. ¡Tal es la naturaleza imperfecta del hombre! ¡Tales
-                manchas hay en el disco del planeta más claro; y ojos como los de la
-                señorita Scatcherd solo pueden ver esos defectos diminutos, y son
+                aspecto de un Ã¡ngel. Sin embargo, en ese momento Helen Burns
+                llevaba en su brazo la Â«insignia de desaliÃ±adaÂ»; apenas una hora
+                antes la habÃ­a oÃ­do condenada por la seÃ±orita Scatcherd a una cena
+                de pan y agua al dÃ­a siguiente porque habÃ­a manchado un ejercicio
+                al copiarlo. Â¡Tal es la naturaleza imperfecta del hombre! Â¡Tales
+                manchas hay en el disco del planeta mÃ¡s claro; y ojos como los de la
+                seÃ±orita Scatcherd solo pueden ver esos defectos diminutos, y son
                 ciegos al brillo total del orbe!</p>
 
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap6.php" rel="prev">Anterior</a>
-                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menÃº de capÃ­tulos</a>
                     <a class="cambioSiguiente" href="cap8.php" rel="next">Siguiente</a>
                 </div>
             </section>

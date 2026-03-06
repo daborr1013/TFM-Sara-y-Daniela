@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Capítulo 10</title>
+    <title>CapÃ­tulo 10</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el capítulo 10">
+    <meta name="description" content="Este es el capÃ­tulo 10">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -39,21 +39,21 @@
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
+                        <li><a href="../../intro_obra.php">IntroducciÃ³n a la obra</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contenido_eyre.php">Contenido</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
-                                <li><a href="../../capitulos.php">Capítulos</a></li>
+                                <li><a href="../../resumenes/resumenes.php">ResÃºmenes</a></li>
+                                <li><a href="../../capitulos.php">CapÃ­tulos</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
-                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
+                                <li><a href="charlotte.php">Charlotte BrontÃ«</a></li>
+                                <li><a href="contexto_historico.php">Contexto histÃ³rico</a></li>
                             </ul>
                         </li>
 
@@ -61,7 +61,7 @@
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">Símbolos</a></li>
+                                <li><a href="simbolos.php">SÃ­mbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
                                 <li><a href="mapa.php">Mapa</a></li>
@@ -82,523 +82,523 @@
             </div>
             
             <section class="contenido">
-                <h1>Capítulo X</h1>
-                
+                <h1>CapÃ­tulo X</h1>
+    
                 <p>Hasta ahora he registrado en detalle los acontecimientos de mi
-                insignificante existencia; a los primeros diez años de mi vida les he
-                dedicado casi otros tantos capítulos. Pero esto no ha de ser una
-                autobiografía regular; solo estoy obligada a invocar a la Memoria
-                cuando sé que sus respuestas poseerán algún grado de interés; por
-                lo tanto, ahora paso casi en silencio un lapso de ocho años; solo
-                unas pocas líneas son necesarias para mantener los hilos de la
-                conexión.</p>
+                insignificante existencia; a los primeros diez aÃ±os de mi vida les he
+                dedicado casi otros tantos capÃ­tulos. Pero esto no ha de ser una
+                autobiografÃ­a regular; solo estoy obligada a invocar a la Memoria
+                cuando sÃ© que sus respuestas poseerÃ¡n algÃºn grado de interÃ©s; por
+                lo tanto, ahora paso casi en silencio un lapso de ocho aÃ±os; solo
+                unas pocas lÃ­neas son necesarias para mantener los hilos de la
+                conexiÃ³n.</p>
 
-                <p>Cuando la fiebre tifoidea hubo cumplido su misión de devastación
-                en Lowood, desapareció gradualmente de allí; pero no hasta que su
-                virulencia y el número de sus víctimas hubieron atraído la atención
-                pública sobre la escuela. Se investigó el origen de la plaga y, poco a
-                poco, salieron a la luz diversos hechos que suscitaron la indignación
-                pública en alto grado. La naturaleza insalubre del emplazamiento; la
-                cantidad y calidad de la comida de las niñas; el agua salobre y fétida
-                utilizada en su preparación; la miserable vestimenta y alojamiento
+                <p>Cuando la fiebre tifoidea hubo cumplido su misiÃ³n de devastaciÃ³n
+                en Lowood, desapareciÃ³ gradualmente de allÃ­; pero no hasta que su
+                virulencia y el nÃºmero de sus vÃ­ctimas hubieron atraÃ­do la atenciÃ³n
+                pÃºblica sobre la escuela. Se investigÃ³ el origen de la plaga y, poco a
+                poco, salieron a la luz diversos hechos que suscitaron la indignaciÃ³n
+                pÃºblica en alto grado. La naturaleza insalubre del emplazamiento; la
+                cantidad y calidad de la comida de las niÃ±as; el agua salobre y fÃ©tida
+                utilizada en su preparaciÃ³n; la miserable vestimenta y alojamiento
                 de las alumnas; todas estas cosas fueron descubiertas, y el
-                descubrimiento produjo un resultado mortificante para el señor
-                Brocklehurst, pero beneficioso para la institución.</p>
+                descubrimiento produjo un resultado mortificante para el seÃ±or
+                Brocklehurst, pero beneficioso para la instituciÃ³n.</p>
 
-                <p>Varios individuos ricos y benévolos del condado contribuyeron
-                generosamente para la construcción de un edificio más conveniente
-                en una mejor ubicación; se establecieron nuevas regulaciones; se
+                <p>Varios individuos ricos y benÃ©volos del condado contribuyeron
+                generosamente para la construcciÃ³n de un edificio mÃ¡s conveniente
+                en una mejor ubicaciÃ³n; se establecieron nuevas regulaciones; se
                 introdujeron mejoras en la dieta y la vestimenta; los fondos de la
-                escuela se confiaron a la gestión de un comité. El señor
+                escuela se confiaron a la gestiÃ³n de un comitÃ©. El seÃ±or
                 Brocklehurst, quien, por su riqueza y sus conexiones familiares, no
-                podía ser pasado por alto, aún conservaba el puesto de tesorero;
-                pero fue ayudado en el desempeño de sus funciones por caballeros
-                de mentes algo más amplias y compasivas. Su cargo de inspector,
-                también, fue compartido por aquellos que sabían cómo combinar la
-                razón con la severidad, la comodidad con la economía, la compasión
-                con la rectitud. La escuela, así mejorada, se convirtió con el tiempo
-                en una institución verdaderamente útil y noble. Permanecí como
-                interna de sus muros, después de su regeneración, durante ocho
-                años: seis como alumna y dos como maestra; y en ambas
+                podÃ­a ser pasado por alto, aÃºn conservaba el puesto de tesorero;
+                pero fue ayudado en el desempeÃ±o de sus funciones por caballeros
+                de mentes algo mÃ¡s amplias y compasivas. Su cargo de inspector,
+                tambiÃ©n, fue compartido por aquellos que sabÃ­an cÃ³mo combinar la
+                razÃ³n con la severidad, la comodidad con la economÃ­a, la compasiÃ³n
+                con la rectitud. La escuela, asÃ­ mejorada, se convirtiÃ³ con el tiempo
+                en una instituciÃ³n verdaderamente Ãºtil y noble. PermanecÃ­ como
+                interna de sus muros, despuÃ©s de su regeneraciÃ³n, durante ocho
+                aÃ±os: seis como alumna y dos como maestra; y en ambas
                 capacidades doy testimonio de su valor e importancia.</p>
 
-                <p>Durante estos ocho años mi vida fue uniforme, pero no infeliz,
-                porque no fue inactiva. Tuve los medios de una excelente educación
-                puestos a mi alcance; una afición por algunos de mis estudios y un
+                <p>Durante estos ocho aÃ±os mi vida fue uniforme, pero no infeliz,
+                porque no fue inactiva. Tuve los medios de una excelente educaciÃ³n
+                puestos a mi alcance; una aficiÃ³n por algunos de mis estudios y un
                 deseo de sobresalir en todos, junto con un gran deleite en
                 complacer a mis maestras, especialmente a las que amaba, me
-                impulsaron. Aproveché plenamente las ventajas que se me ofrecían.
-                Con el tiempo, llegué a ser la primera alumna de la primera clase;
-                luego fui investida con el cargo de maestra, que desempeñé con celo
-                durante dos años; pero al final de ese tiempo, cambié.</p>
+                impulsaron. AprovechÃ© plenamente las ventajas que se me ofrecÃ­an.
+                Con el tiempo, lleguÃ© a ser la primera alumna de la primera clase;
+                luego fui investida con el cargo de maestra, que desempeÃ±Ã© con celo
+                durante dos aÃ±os; pero al final de ese tiempo, cambiÃ©.</p>
 
-                <p>La señorita Temple, a través de todos los cambios, había
+                <p>La seÃ±orita Temple, a travÃ©s de todos los cambios, habÃ­a
                 continuado hasta entonces como superintendente del seminario. A
-                su instrucción debía la mejor parte de mis conocimientos; su amistad
-                y compañía habían sido mi consuelo continuo; ella había sido para
-                mí madre, institutriz y, últimamente, compañera. En este período se
-                casó, se trasladó con su marido (un clérigo, un hombre excelente,
+                su instrucciÃ³n debÃ­a la mejor parte de mis conocimientos; su amistad
+                y compaÃ±Ã­a habÃ­an sido mi consuelo continuo; ella habÃ­a sido para
+                mÃ­ madre, institutriz y, Ãºltimamente, compaÃ±era. En este perÃ­odo se
+                casÃ³, se trasladÃ³ con su marido (un clÃ©rigo, un hombre excelente,
                 casi digno de tal esposa) a un condado lejano, y, en consecuencia, la
-                perdí.</p>
+                perdÃ­.</p>
 
-                <p>Desde el día en que se fue, ya no fui la misma. Con ella se había
-                ido todo sentimiento estable, toda asociación que había hecho de
-                Lowood, en cierto grado, un hogar para mí. Había absorbido de ella
-                algo de su naturaleza y mucho de sus hábitos: pensamientos más
-                armoniosos; lo que parecían sentimientos mejor regulados se habían
-                convertido en los inquilinos de mi mente. Me había sometido a la
-                lealtad del deber y el orden; era tranquila; creía estar contenta. A los
-                ojos de los demás, incluso habitualmente a los míos propios, parecía
-                un carácter disciplinado y sosegado.</p>
+                <p>Desde el dÃ­a en que se fue, ya no fui la misma. Con ella se habÃ­a
+                ido todo sentimiento estable, toda asociaciÃ³n que habÃ­a hecho de
+                Lowood, en cierto grado, un hogar para mÃ­. HabÃ­a absorbido de ella
+                algo de su naturaleza y mucho de sus hÃ¡bitos: pensamientos mÃ¡s
+                armoniosos; lo que parecÃ­an sentimientos mejor regulados se habÃ­an
+                convertido en los inquilinos de mi mente. Me habÃ­a sometido a la
+                lealtad del deber y el orden; era tranquila; creÃ­a estar contenta. A los
+                ojos de los demÃ¡s, incluso habitualmente a los mÃ­os propios, parecÃ­a
+                un carÃ¡cter disciplinado y sosegado.</p>
 
-                <p>Pero el destino, en la forma del reverendo señor Nasmyth, se
-                interpuso entre la señorita Temple y yo. La vi con su vestido de viaje
-                subir a una silla de postas, poco después de la ceremonia nupcial;
-                observé la silla de postas subir la colina y desaparecer tras su cima;
-                y luego me retiré a mi propia habitación, y allí pasé en soledad la
-                mayor parte del medio día festivo concedido en honor a la ocasión.</p>
+                <p>Pero el destino, en la forma del reverendo seÃ±or Nasmyth, se
+                interpuso entre la seÃ±orita Temple y yo. La vi con su vestido de viaje
+                subir a una silla de postas, poco despuÃ©s de la ceremonia nupcial;
+                observÃ© la silla de postas subir la colina y desaparecer tras su cima;
+                y luego me retirÃ© a mi propia habitaciÃ³n, y allÃ­ pasÃ© en soledad la
+                mayor parte del medio dÃ­a festivo concedido en honor a la ocasiÃ³n.</p>
 
-                <p>Caminé por la habitación la mayor parte del tiempo. Me imaginaba
-                que solo estaba lamentando mi pérdida y pensando en cómo
-                repararla; pero cuando mis reflexiones concluyeron, y levanté la
-                vista y descubrí que la tarde se había ido y la noche estaba muy
-                avanzada, otro descubrimiento amaneció en mí: a saber, que en el
-                intervalo había sufrido un proceso de transformación; que mi mente
-                se había despojado de todo lo que había tomado prestado de la
-                señorita Temple —o más bien que ella se había llevado consigo la
-                atmósfera serena que yo había estado respirando en su vecindad— y
+                <p>CaminÃ© por la habitaciÃ³n la mayor parte del tiempo. Me imaginaba
+                que solo estaba lamentando mi pÃ©rdida y pensando en cÃ³mo
+                repararla; pero cuando mis reflexiones concluyeron, y levantÃ© la
+                vista y descubrÃ­ que la tarde se habÃ­a ido y la noche estaba muy
+                avanzada, otro descubrimiento amaneciÃ³ en mÃ­: a saber, que en el
+                intervalo habÃ­a sufrido un proceso de transformaciÃ³n; que mi mente
+                se habÃ­a despojado de todo lo que habÃ­a tomado prestado de la
+                seÃ±orita Temple â€”o mÃ¡s bien que ella se habÃ­a llevado consigo la
+                atmÃ³sfera serena que yo habÃ­a estado respirando en su vecindadâ€” y
                 que ahora me encontraba en mi elemento natural, y empezaba a
-                sentir la agitación de viejas emociones. No parecía como si se
-                hubiera retirado un puntal, sino más bien como si un motivo se
-                hubiera ido; no era el poder de estar tranquila lo que me había
-                fallado, sino que la razón para la tranquilidad ya no existía. Mi
-                mundo había estado durante algunos años en Lowood; mi
-                experiencia había sido de sus reglas y sistemas. Ahora recordaba
+                sentir la agitaciÃ³n de viejas emociones. No parecÃ­a como si se
+                hubiera retirado un puntal, sino mÃ¡s bien como si un motivo se
+                hubiera ido; no era el poder de estar tranquila lo que me habÃ­a
+                fallado, sino que la razÃ³n para la tranquilidad ya no existÃ­a. Mi
+                mundo habÃ­a estado durante algunos aÃ±os en Lowood; mi
+                experiencia habÃ­a sido de sus reglas y sistemas. Ahora recordaba
                 que el mundo real era ancho, y que un variado campo de esperanzas
                 y temores, de sensaciones y excitaciones, esperaba a aquellos que
-                tuvieran el valor de adentrarse en su expansión, de buscar el
+                tuvieran el valor de adentrarse en su expansiÃ³n, de buscar el
                 conocimiento real de la vida en medio de sus peligros.</p>
 
-                <p>Fui a mi ventana, la abrí y miré hacia fuera. Allí estaban las dos
-                alas del edificio; allí estaba el jardín; allí estaban los límites de
-                Lowood; allí estaba el horizonte montañoso. Mis ojos pasaron por
-                encima de todos los demás objetos para posarse en los más
+                <p>Fui a mi ventana, la abrÃ­ y mirÃ© hacia fuera. AllÃ­ estaban las dos
+                alas del edificio; allÃ­ estaba el jardÃ­n; allÃ­ estaban los lÃ­mites de
+                Lowood; allÃ­ estaba el horizonte montaÃ±oso. Mis ojos pasaron por
+                encima de todos los demÃ¡s objetos para posarse en los mÃ¡s
                 remotos, los picos azules. Eran esos los que anhelaba superar; todo
-                dentro de su límite de roca y brezo parecía un terreno de prisión,
-                límites de exilio. Tracé el camino blanco que serpenteaba alrededor
-                de la base de una montaña y se desvanecía en un desfiladero entre
-                dos. ¡Cómo anhelaba seguirlo más allá! Recordé el tiempo en que
-                había viajado por ese mismo camino en una diligencia; recordé
-                descender esa colina al crepúsculo. Parecía haber transcurrido una
-                eternidad desde el día que me trajo por primera vez a Lowood, y
-                nunca lo había abandonado desde entonces. Mis vacaciones las
-                había pasado todas en la escuela. La señora Reed nunca me había
-                mandado llamar a Gateshead; ni ella ni nadie de su familia habían
-                venido a visitarme. No había tenido comunicación por carta o
+                dentro de su lÃ­mite de roca y brezo parecÃ­a un terreno de prisiÃ³n,
+                lÃ­mites de exilio. TracÃ© el camino blanco que serpenteaba alrededor
+                de la base de una montaÃ±a y se desvanecÃ­a en un desfiladero entre
+                dos. Â¡CÃ³mo anhelaba seguirlo mÃ¡s allÃ¡! RecordÃ© el tiempo en que
+                habÃ­a viajado por ese mismo camino en una diligencia; recordÃ©
+                descender esa colina al crepÃºsculo. ParecÃ­a haber transcurrido una
+                eternidad desde el dÃ­a que me trajo por primera vez a Lowood, y
+                nunca lo habÃ­a abandonado desde entonces. Mis vacaciones las
+                habÃ­a pasado todas en la escuela. La seÃ±ora Reed nunca me habÃ­a
+                mandado llamar a Gateshead; ni ella ni nadie de su familia habÃ­an
+                venido a visitarme. No habÃ­a tenido comunicaciÃ³n por carta o
                 mensaje con el mundo exterior. Reglas de la escuela, deberes de la
-                escuela, hábitos y nociones de la escuela, y voces, y rostros, y
-                frases, y vestimentas, y preferencias, y antipatías: eso era lo que yo
-                conocía de la existencia. Y ahora sentía que no era suficiente; me
-                cansé de la rutina de ocho años en una sola tarde. Deseaba la
-                libertad; por la libertad jadeaba; por la libertad pronuncié una
-                plegaria. Pareció esparcirse en el viento que soplaba débilmente
-                entonces. La abandoné y formulé una súplica más humilde: por un
-                cambio, un estímulo. Esa petición, también, pareció ser barrida hacia
+                escuela, hÃ¡bitos y nociones de la escuela, y voces, y rostros, y
+                frases, y vestimentas, y preferencias, y antipatÃ­as: eso era lo que yo
+                conocÃ­a de la existencia. Y ahora sentÃ­a que no era suficiente; me
+                cansÃ© de la rutina de ocho aÃ±os en una sola tarde. Deseaba la
+                libertad; por la libertad jadeaba; por la libertad pronunciÃ© una
+                plegaria. PareciÃ³ esparcirse en el viento que soplaba dÃ©bilmente
+                entonces. La abandonÃ© y formulÃ© una sÃºplica mÃ¡s humilde: por un
+                cambio, un estÃ­mulo. Esa peticiÃ³n, tambiÃ©n, pareciÃ³ ser barrida hacia
                 el espacio vago.</p>
 
-                <p>—¡Entonces —grité, medio desesperada—, concédeme al menos
+                <p>â€”Â¡Entonces â€”gritÃ©, medio desesperadaâ€”, concÃ©deme al menos
                 una nueva servidumbre!</p>
 
-                <p>Aquí una campana, que tocaba la hora de la cena, me llamó
+                <p>AquÃ­ una campana, que tocaba la hora de la cena, me llamÃ³
                 abajo.</p>
 
                 <p>No fui libre de reanudar la cadena interrumpida de mis reflexiones
                 hasta la hora de acostarme. Incluso entonces, una maestra que
-                ocupaba la misma habitación que yo me mantuvo alejada del tema
-                al que anhelaba volver, con una prolongada efusión de charla trivial.
-                ¡Cómo deseaba que el sueño la silenciara! Parecía como si, si
-                pudiera volver a la idea que había entrado por última vez en mi
+                ocupaba la misma habitaciÃ³n que yo me mantuvo alejada del tema
+                al que anhelaba volver, con una prolongada efusiÃ³n de charla trivial.
+                Â¡CÃ³mo deseaba que el sueÃ±o la silenciara! ParecÃ­a como si, si
+                pudiera volver a la idea que habÃ­a entrado por Ãºltima vez en mi
                 mente mientras estaba en la ventana, alguna sugerencia ingeniosa
-                surgiría para mi alivio.</p>
+                surgirÃ­a para mi alivio.</p>
 
-                <p>La señorita Gryce roncó por fin; era una galesa corpulenta, y
-                hasta ahora sus habituales sones nasales nunca habían sido
-                considerados por mí más que como una molestia; esta noche aclamé
-                las primeras notas profundas con satisfacción. Estaba libre de
-                interrupciones; mi pensamiento a medio borrar revivió al instante.
-                «¡Una nueva servidumbre! Hay algo en eso», soliloquicé
-                (mentalmente, entiéndase; no hablé en voz alta). «Sé que lo hay,
+                <p>La seÃ±orita Gryce roncÃ³ por fin; era una galesa corpulenta, y
+                hasta ahora sus habituales sones nasales nunca habÃ­an sido
+                considerados por mÃ­ mÃ¡s que como una molestia; esta noche aclamÃ©
+                las primeras notas profundas con satisfacciÃ³n. Estaba libre de
+                interrupciones; mi pensamiento a medio borrar reviviÃ³ al instante.
+                Â«Â¡Una nueva servidumbre! Hay algo en esoÂ», soliloquicÃ©
+                (mentalmente, entiÃ©ndase; no hablÃ© en voz alta). Â«SÃ© que lo hay,
                 porque no suena demasiado dulce; no es como palabras como
-                Libertad, Excitación, Disfrute: sonidos deliciosos, en verdad; pero no
-                más que sonidos para mí; y tan huecos y fugaces que es una mera
-                pérdida de tiempo escucharlos. ¡Pero Servidumbre! Eso debe de ser
-                un hecho. Cualquiera puede servir. He servido aquí ocho años; ahora
-                todo lo que quiero es servir en otro lugar. ¿No puedo conseguir tanto
-                de mi propia voluntad? ¿No es factible? Sí, sí, el fin no es tan difícil;
+                Libertad, ExcitaciÃ³n, Disfrute: sonidos deliciosos, en verdad; pero no
+                mÃ¡s que sonidos para mÃ­; y tan huecos y fugaces que es una mera
+                pÃ©rdida de tiempo escucharlos. Â¡Pero Servidumbre! Eso debe de ser
+                un hecho. Cualquiera puede servir. He servido aquÃ­ ocho aÃ±os; ahora
+                todo lo que quiero es servir en otro lugar. Â¿No puedo conseguir tanto
+                de mi propia voluntad? Â¿No es factible? SÃ­, sÃ­, el fin no es tan difÃ­cil;
                 si tan solo tuviera un cerebro lo suficientemente activo para
-                descubrir los medios de alcanzarlo».</p>
+                descubrir los medios de alcanzarloÂ».</p>
 
-                <p>Me senté en la cama para despertar a dicho cerebro. Era una
-                noche fría; me cubrí los hombros con un chal y luego procedí a
+                <p>Me sentÃ© en la cama para despertar a dicho cerebro. Era una
+                noche frÃ­a; me cubrÃ­ los hombros con un chal y luego procedÃ­ a
                 pensar de nuevo con todas mis fuerzas.</p>
 
-                <p>«¿Qué quiero? Un nuevo lugar, en una nueva casa, entre nuevos
+                <p>Â«Â¿QuÃ© quiero? Un nuevo lugar, en una nueva casa, entre nuevos
                 rostros, bajo nuevas circunstancias. Quiero esto porque no sirve de
-                nada querer algo mejor. ¿Cómo hace la gente para conseguir un
+                nada querer algo mejor. Â¿CÃ³mo hace la gente para conseguir un
                 nuevo lugar? Recurren a amigos, supongo. Yo no tengo amigos. Hay
-                muchos otros que no tienen amigos, que deben buscar por sí
-                mismos y ser sus propios ayudantes; ¿y cuál es su recurso?».</p>
+                muchos otros que no tienen amigos, que deben buscar por sÃ­
+                mismos y ser sus propios ayudantes; Â¿y cuÃ¡l es su recurso?Â».</p>
 
-                <p>No podía decirlo; nada me respondía. Entonces ordené a mi
-                cerebro que encontrara una respuesta, y rápidamente. Trabajó y
-                trabajó más rápido. Sentí las pulsaciones palpitar en mi cabeza y en
-                mis sienes; pero durante casi una hora trabajó en el caos, y ningún
-                resultado salió de sus esfuerzos. Febril por el vano trabajo, me
-                levanté y di una vuelta por la habitación; descorrí la cortina, noté
-                una o dos estrellas, tiritée de frío y volví a meterme en la cama.</p>
+                <p>No podÃ­a decirlo; nada me respondÃ­a. Entonces ordenÃ© a mi
+                cerebro que encontrara una respuesta, y rÃ¡pidamente. TrabajÃ³ y
+                trabajÃ³ mÃ¡s rÃ¡pido. SentÃ­ las pulsaciones palpitar en mi cabeza y en
+                mis sienes; pero durante casi una hora trabajÃ³ en el caos, y ningÃºn
+                resultado saliÃ³ de sus esfuerzos. Febril por el vano trabajo, me
+                levantÃ© y di una vuelta por la habitaciÃ³n; descorrÃ­ la cortina, notÃ©
+                una o dos estrellas, tiritÃ©e de frÃ­o y volvÃ­ a meterme en la cama.</p>
 
-                <p>Un hada bondadosa, en mi ausencia, seguramente había dejado la
+                <p>Un hada bondadosa, en mi ausencia, seguramente habÃ­a dejado la
                 sugerencia requerida en mi almohada; pues mientras me acostaba,
-                me vino a la mente tranquila y naturalmente: «Quienes buscan
+                me vino a la mente tranquila y naturalmente: Â«Quienes buscan
                 empleo ponen anuncios; debes poner un anuncio en el Herald
-                de...shire».</p>
+                de...shireÂ».</p>
 
-                <p>«¿Cómo? No sé nada de poner anuncios».</p>
+                <p>Â«Â¿CÃ³mo? No sÃ© nada de poner anunciosÂ».</p>
 
                 <p>Las respuestas surgieron ahora suaves y prontas:</p>
 
-                <p>«Debes incluir el anuncio y el dinero para pagarlo en un sobre
+                <p>Â«Debes incluir el anuncio y el dinero para pagarlo en un sobre
                 dirigido al director del Herald; debes echarlo, en la primera
                 oportunidad que tengas, en el correo de Lowton; las respuestas
-                deben dirigirse a J.E., en la oficina de correos de allí; puedes ir a
-                preguntar en una semana aproximadamente después de enviar tu
-                carta, si ha llegado alguna, y actuar en consecuencia».</p>
+                deben dirigirse a J.E., en la oficina de correos de allÃ­; puedes ir a
+                preguntar en una semana aproximadamente despuÃ©s de enviar tu
+                carta, si ha llegado alguna, y actuar en consecuenciaÂ».</p>
 
-                <p>Repasé este plan dos, tres veces; luego fue digerido en mi mente;
-                lo tenía en una forma clara y práctica. Me sentí satisfecha y me
-                quedé dormida.</p>
+                <p>RepasÃ© este plan dos, tres veces; luego fue digerido en mi mente;
+                lo tenÃ­a en una forma clara y prÃ¡ctica. Me sentÃ­ satisfecha y me
+                quedÃ© dormida.</p>
 
-                <p>Con las primeras luces del día, ya estaba en pie. Tenía mi anuncio
-                escrito, metido en el sobre y con la dirección puesta antes de que
-                sonara la campana para despertar a la escuela. Decía así:</p>
+                <p>Con las primeras luces del dÃ­a, ya estaba en pie. TenÃ­a mi anuncio
+                escrito, metido en el sobre y con la direcciÃ³n puesta antes de que
+                sonara la campana para despertar a la escuela. DecÃ­a asÃ­:</p>
 
-                <p>Una joven dama acostumbrada a la enseñanza» (¿no había sido
-                yo maestra durante dos años?) «desea encontrar un puesto en una
-                familia particular donde los niños sean menores de catorce años»
-                (pensé que, como apenas tenía dieciocho años, no sería conveniente
-                encargarme de la guía de alumnos más cercanos a mi edad). «Está
-                cualificada para enseñar las ramas usuales de una buena educación
-                inglesa, junto con francés, dibujo y música» (en aquellos días, lector,
-                este ahora estrecho catálogo de habilidades se habría considerado
-                tolerable y completo). «Dirigirse a J.E., Oficina de Correos, Lowton,
-                ...shire».</p>
+                <p>Una joven dama acostumbrada a la enseÃ±anzaÂ» (Â¿no habÃ­a sido
+                yo maestra durante dos aÃ±os?) Â«desea encontrar un puesto en una
+                familia particular donde los niÃ±os sean menores de catorce aÃ±osÂ»
+                (pensÃ© que, como apenas tenÃ­a dieciocho aÃ±os, no serÃ­a conveniente
+                encargarme de la guÃ­a de alumnos mÃ¡s cercanos a mi edad). Â«EstÃ¡
+                cualificada para enseÃ±ar las ramas usuales de una buena educaciÃ³n
+                inglesa, junto con francÃ©s, dibujo y mÃºsicaÂ» (en aquellos dÃ­as, lector,
+                este ahora estrecho catÃ¡logo de habilidades se habrÃ­a considerado
+                tolerable y completo). Â«Dirigirse a J.E., Oficina de Correos, Lowton,
+                ...shireÂ».</p>
 
-                <p>Este documento permaneció encerrado en mi cajón todo el día.
-                Después del té, pedí permiso a la nueva superintendente para ir a
-                Lowton, con el fin de realizar algunos pequeños encargos para mí y
-                una o dos de mis compañeras maestras; el permiso fue concedido
+                <p>Este documento permaneciÃ³ encerrado en mi cajÃ³n todo el dÃ­a.
+                DespuÃ©s del tÃ©, pedÃ­ permiso a la nueva superintendente para ir a
+                Lowton, con el fin de realizar algunos pequeÃ±os encargos para mÃ­ y
+                una o dos de mis compaÃ±eras maestras; el permiso fue concedido
                 de buen grado; fui. Era un paseo de dos millas, y la tarde estaba
-                húmeda, pero los días aún eran largos. Visité una o dos tiendas,
-                eché la carta en la oficina de correos y regresé bajo una fuerte
-                lluvia, con las ropas chorreando, pero con el corazón aliviado.</p>
+                hÃºmeda, pero los dÃ­as aÃºn eran largos. VisitÃ© una o dos tiendas,
+                echÃ© la carta en la oficina de correos y regresÃ© bajo una fuerte
+                lluvia, con las ropas chorreando, pero con el corazÃ³n aliviado.</p>
 
-                <p>La semana siguiente pareció larga; sin embargo, llegó a su fin,
-                como todas las cosas sublimes, y una vez más, hacia el final de un
-                agradable día de otoño, me encontré a pie en el camino hacia
-                Lowton. Era un sendero pintoresco, por cierto; discurría a lo largo
-                del arroyo y a través de las curvas más dulces del valle; pero aquel
-                día pensé más en las cartas, que podrían o no estar esperándome
-                en el pequeño burgo al que me dirigía, que en los encantos de la
+                <p>La semana siguiente pareciÃ³ larga; sin embargo, llegÃ³ a su fin,
+                como todas las cosas sublimes, y una vez mÃ¡s, hacia el final de un
+                agradable dÃ­a de otoÃ±o, me encontrÃ© a pie en el camino hacia
+                Lowton. Era un sendero pintoresco, por cierto; discurrÃ­a a lo largo
+                del arroyo y a travÃ©s de las curvas mÃ¡s dulces del valle; pero aquel
+                dÃ­a pensÃ© mÃ¡s en las cartas, que podrÃ­an o no estar esperÃ¡ndome
+                en el pequeÃ±o burgo al que me dirigÃ­a, que en los encantos de la
                 pradera y el agua.</p>
 
-                <p>Mi recado ostensible en esta ocasión era que me tomaran medidas
-                para un par de zapatos; así que despaché ese asunto primero, y
-                cuando terminé, crucé la pequeña y tranquila calle desde el zapatero
+                <p>Mi recado ostensible en esta ocasiÃ³n era que me tomaran medidas
+                para un par de zapatos; asÃ­ que despachÃ© ese asunto primero, y
+                cuando terminÃ©, crucÃ© la pequeÃ±a y tranquila calle desde el zapatero
                 hasta la oficina de correos. La regentaba una anciana que llevaba
                 gafas de asta en la nariz y mitones negros en las manos.</p>
 
-                <p>—¿Hay alguna carta para J.E.? —pregunté.</p>
+                <p>â€”Â¿Hay alguna carta para J.E.? â€”preguntÃ©.</p>
 
-                <p>Me escudriñó por encima de las gafas y luego abrió un cajón y
-                rebuscó entre su contenido durante mucho tiempo, tanto que mis
+                <p>Me escudriÃ±Ã³ por encima de las gafas y luego abriÃ³ un cajÃ³n y
+                rebuscÃ³ entre su contenido durante mucho tiempo, tanto que mis
                 esperanzas comenzaron a flaquear. Por fin, tras sostener un
-                documento ante sus gafas durante casi cinco minutos, lo presentó
-                sobre el mostrador, acompañando el acto con otra mirada inquisitiva
+                documento ante sus gafas durante casi cinco minutos, lo presentÃ³
+                sobre el mostrador, acompaÃ±ando el acto con otra mirada inquisitiva
                 y desconfiada: era para J.E.</p>
 
-                <p>—¿Solo hay una? —demandé.</p>
+                <p>â€”Â¿Solo hay una? â€”demandÃ©.</p>
 
-                <p>—No hay más —dijo; y me la guardé en el bolsillo y emprendí el
-                camino de vuelta a casa. No podía abrirla entonces; las reglas me
+                <p>â€”No hay mÃ¡s â€”dijo; y me la guardÃ© en el bolsillo y emprendÃ­ el
+                camino de vuelta a casa. No podÃ­a abrirla entonces; las reglas me
                 obligaban a estar de vuelta a las ocho, y ya eran las siete y media.</p>
 
                 <p>Diversos deberes me esperaban a mi llegada. Tuve que sentarme
-                con las niñas durante su hora de estudio; luego me tocó leer las
-                oraciones; acompañarlas a la cama. Después, cené con las otras
+                con las niÃ±as durante su hora de estudio; luego me tocÃ³ leer las
+                oraciones; acompaÃ±arlas a la cama. DespuÃ©s, cenÃ© con las otras
                 maestras. Incluso cuando finalmente nos retiramos por la noche, la
-                inevitable señorita Gryce seguía siendo mi compañera. Solo nos
-                quedaba un cabo de vela en nuestro candelero, y temía que hablara
+                inevitable seÃ±orita Gryce seguÃ­a siendo mi compaÃ±era. Solo nos
+                quedaba un cabo de vela en nuestro candelero, y temÃ­a que hablara
                 hasta que se consumiera por completo; afortunadamente, sin
-                embargo, la pesada cena que había comido produjo un efecto
-                soporífero: ya estaba roncando antes de que yo terminara de
-                desvestirme. Aún quedaba una pulgada de vela. Saqué entonces mi
-                carta; el sello era una inicial F. Lo rompí; el contenido era breve.
-                «Si J.E., que se anunció en el Herald de ...shire del pasado jueves,
-                posee las aptitudes mencionadas, y si está en condiciones de dar
-                referencias satisfactorias en cuanto a carácter y competencia, se le
-                puede ofrecer un puesto donde solo hay una alumna, una niña
-                menor de diez años; y donde el salario es de treinta libras anuales.
-                Se ruega a J.E. que envíe referencias, nombre, dirección y todos los
-                detalles a la dirección:</p>
+                embargo, la pesada cena que habÃ­a comido produjo un efecto
+                soporÃ­fero: ya estaba roncando antes de que yo terminara de
+                desvestirme. AÃºn quedaba una pulgada de vela. SaquÃ© entonces mi
+                carta; el sello era una inicial F. Lo rompÃ­; el contenido era breve.
+                Â«Si J.E., que se anunciÃ³ en el Herald de ...shire del pasado jueves,
+                posee las aptitudes mencionadas, y si estÃ¡ en condiciones de dar
+                referencias satisfactorias en cuanto a carÃ¡cter y competencia, se le
+                puede ofrecer un puesto donde solo hay una alumna, una niÃ±a
+                menor de diez aÃ±os; y donde el salario es de treinta libras anuales.
+                Se ruega a J.E. que envÃ­e referencias, nombre, direcciÃ³n y todos los
+                detalles a la direcciÃ³n:</p>
 
-                <p>«Señora Fairfax, Thornfield, cerca de Millcote, ...shire».</p>
+                <p>Â«SeÃ±ora Fairfax, Thornfield, cerca de Millcote, ...shireÂ».</p>
 
-                <p>Examiné el documento durante mucho tiempo. La letra era
+                <p>ExaminÃ© el documento durante mucho tiempo. La letra era
                 anticuada y bastante insegura, como la de una dama de edad
                 avanzada. Esta circunstancia fue satisfactoria. Un temor privado me
-                había acechado, que al actuar así por mi cuenta y bajo mi propia
-                guía, corría el riesgo de meterme en algún lío; y, sobre todo,
+                habÃ­a acechado, que al actuar asÃ­ por mi cuenta y bajo mi propia
+                guÃ­a, corrÃ­a el riesgo de meterme en algÃºn lÃ­o; y, sobre todo,
                 deseaba que el resultado de mis esfuerzos fuera respetable,
-                adecuado, en règle. Ahora sentía que una dama de edad avanzada
-                no era un mal ingrediente en el asunto que tenía entre manos.
-                ¡Señora Fairfax! La vi con un vestido negro y cofia de viuda; frígida,
-                quizás, pero no descortés; un modelo de respetabilidad inglesa de
-                edad avanzada. ¡Thornfield! Ese, sin duda, era el nombre de su
-                casa; un lugar pulcro y ordenado, estaba segura; aunque fracasé en
+                adecuado, en rÃ¨gle. Ahora sentÃ­a que una dama de edad avanzada
+                no era un mal ingrediente en el asunto que tenÃ­a entre manos.
+                Â¡SeÃ±ora Fairfax! La vi con un vestido negro y cofia de viuda; frÃ­gida,
+                quizÃ¡s, pero no descortÃ©s; un modelo de respetabilidad inglesa de
+                edad avanzada. Â¡Thornfield! Ese, sin duda, era el nombre de su
+                casa; un lugar pulcro y ordenado, estaba segura; aunque fracasÃ© en
                 mis esfuerzos por concebir un plano correcto de las instalaciones.
-                Millcote, ...shire; repasé mis recuerdos del mapa de Inglaterra; sí, lo
+                Millcote, ...shire; repasÃ© mis recuerdos del mapa de Inglaterra; sÃ­, lo
                 vi; tanto el condado como la ciudad. ...shire estaba setenta millas
-                más cerca de Londres que el remoto condado donde ahora residía.
-                Eso era una recomendación para mí. Ansiaba ir a donde hubiera vida
+                mÃ¡s cerca de Londres que el remoto condado donde ahora residÃ­a.
+                Eso era una recomendaciÃ³n para mÃ­. Ansiaba ir a donde hubiera vida
                 y movimiento. Millcote era una gran ciudad industrial a orillas del
-                A...; un lugar bastante ajetreado, sin duda. Tanto mejor; sería un
-                cambio completo, al menos. No es que mi fantasía estuviera muy
-                cautivada por la idea de largas chimeneas y nubes de humo, «pero»,
-                argumenté, «Thornfield probablemente estará bastante lejos de la
-                ciudad».</p>
+                A...; un lugar bastante ajetreado, sin duda. Tanto mejor; serÃ­a un
+                cambio completo, al menos. No es que mi fantasÃ­a estuviera muy
+                cautivada por la idea de largas chimeneas y nubes de humo, Â«peroÂ»,
+                argumentÃ©, Â«Thornfield probablemente estarÃ¡ bastante lejos de la
+                ciudadÂ».</p>
 
-                <p>Aquí, el cabo de la vela se consumió y la mecha se apagó.</p>
+                <p>AquÃ­, el cabo de la vela se consumiÃ³ y la mecha se apagÃ³.</p>
 
-                <p>Al día siguiente había que dar nuevos pasos; mis planes ya no
-                podían limitarse a mi propio pecho; debía comunicarlos para lograr
-                su éxito. Habiendo solicitado y obtenido una audiencia con la
-                superintendente durante el recreo del mediodía, le dije que tenía la
-                perspectiva de conseguir un nuevo puesto donde el salario sería el
-                doble de lo que ahora recibía (pues en Lowood solo ganaba 15 libras
-                anuales); y le pedí que me planteara el asunto al señor Brocklehurst,
-                o a alguno del comité, y averiguara si me permitirían mencionarlos
-                como referencias. Ella consintió amablemente en actuar como
-                mediadora en el asunto. Al día siguiente, le expuso el caso al señor
-                Brocklehurst, quien dijo que había que escribir a la señora Reed, ya
-                que era mi tutora natural. Se dirigió una nota a esa dama, quien
-                respondió que «podía hacer lo que quisiera; hacía tiempo que había
-                renunciado a toda interferencia en mis asuntos». Esta nota circuló
-                por el comité y, finalmente, después de lo que me pareció una
-                demora de lo más tediosa, se me dio permiso formal para mejorar
-                mi condición si podía; y se añadió la seguridad de que, como
-                siempre me había comportado bien, tanto como maestra como
-                alumna, en Lowood, se me proporcionaría de inmediato un
-                certificado de carácter y capacidad, firmado por los inspectores de
-                esa institución.</p>
+                <p>Al dÃ­a siguiente habÃ­a que dar nuevos pasos; mis planes ya no
+                podÃ­an limitarse a mi propio pecho; debÃ­a comunicarlos para lograr
+                su Ã©xito. Habiendo solicitado y obtenido una audiencia con la
+                superintendente durante el recreo del mediodÃ­a, le dije que tenÃ­a la
+                perspectiva de conseguir un nuevo puesto donde el salario serÃ­a el
+                doble de lo que ahora recibÃ­a (pues en Lowood solo ganaba 15 libras
+                anuales); y le pedÃ­ que me planteara el asunto al seÃ±or Brocklehurst,
+                o a alguno del comitÃ©, y averiguara si me permitirÃ­an mencionarlos
+                como referencias. Ella consintiÃ³ amablemente en actuar como
+                mediadora en el asunto. Al dÃ­a siguiente, le expuso el caso al seÃ±or
+                Brocklehurst, quien dijo que habÃ­a que escribir a la seÃ±ora Reed, ya
+                que era mi tutora natural. Se dirigiÃ³ una nota a esa dama, quien
+                respondiÃ³ que Â«podÃ­a hacer lo que quisiera; hacÃ­a tiempo que habÃ­a
+                renunciado a toda interferencia en mis asuntosÂ». Esta nota circulÃ³
+                por el comitÃ© y, finalmente, despuÃ©s de lo que me pareciÃ³ una
+                demora de lo mÃ¡s tediosa, se me dio permiso formal para mejorar
+                mi condiciÃ³n si podÃ­a; y se aÃ±adiÃ³ la seguridad de que, como
+                siempre me habÃ­a comportado bien, tanto como maestra como
+                alumna, en Lowood, se me proporcionarÃ­a de inmediato un
+                certificado de carÃ¡cter y capacidad, firmado por los inspectores de
+                esa instituciÃ³n.</p>
 
-                <p>Este certificado lo recibí, en consecuencia, en aproximadamente
-                un mes, envié una copia a la señora Fairfax y obtuve la respuesta de
-                esa dama, declarando que estaba satisfecha y fijando ese día en
-                quince como el período para que yo asumiera el puesto de institutriz
+                <p>Este certificado lo recibÃ­, en consecuencia, en aproximadamente
+                un mes, enviÃ© una copia a la seÃ±ora Fairfax y obtuve la respuesta de
+                esa dama, declarando que estaba satisfecha y fijando ese dÃ­a en
+                quince como el perÃ­odo para que yo asumiera el puesto de institutriz
                 en su casa.</p>
 
-                <p>Ahora me ocupé en los preparativos. La quincena pasó
-                rápidamente. No tenía un vestuario muy grande, aunque era
-                adecuado a mis necesidades; y el último día fue suficiente para
-                hacer mi baúl, el mismo que había traído conmigo hacía ocho años
+                <p>Ahora me ocupÃ© en los preparativos. La quincena pasÃ³
+                rÃ¡pidamente. No tenÃ­a un vestuario muy grande, aunque era
+                adecuado a mis necesidades; y el Ãºltimo dÃ­a fue suficiente para
+                hacer mi baÃºl, el mismo que habÃ­a traÃ­do conmigo hacÃ­a ocho aÃ±os
                 desde Gateshead.</p>
 
                 <p>La caja estaba encordada, la tarjeta clavada. En media hora el
-                transportista debía pasar a recogerla para llevarla a Lowton, adonde
-                yo misma debía dirigirme a una hora temprana de la mañana
-                siguiente para tomar la diligencia. Había cepillado mi vestido de viaje
-                de estameña negra, preparado mi gorro, guantes y manguito;
-                buscado en todos mis cajones para ver que no quedara ningún
-                artículo atrás; y ahora, no teniendo nada más que hacer, me senté e
-                intenté descansar. No pude; aunque había estado de pie todo el día,
-                no podía ahora reposar ni un instante; estaba demasiado excitada.
-                Una fase de mi vida se cerraba esta noche, una nueva se abría
-                mañana. Imposible dormir en el intervalo; debía velar febrilmente
+                transportista debÃ­a pasar a recogerla para llevarla a Lowton, adonde
+                yo misma debÃ­a dirigirme a una hora temprana de la maÃ±ana
+                siguiente para tomar la diligencia. HabÃ­a cepillado mi vestido de viaje
+                de estameÃ±a negra, preparado mi gorro, guantes y manguito;
+                buscado en todos mis cajones para ver que no quedara ningÃºn
+                artÃ­culo atrÃ¡s; y ahora, no teniendo nada mÃ¡s que hacer, me sentÃ© e
+                intentÃ© descansar. No pude; aunque habÃ­a estado de pie todo el dÃ­a,
+                no podÃ­a ahora reposar ni un instante; estaba demasiado excitada.
+                Una fase de mi vida se cerraba esta noche, una nueva se abrÃ­a
+                maÃ±ana. Imposible dormir en el intervalo; debÃ­a velar febrilmente
                 mientras se realizaba el cambio.</p>
 
-                <p>—Señorita —dijo una sirvienta que me encontró en el vestíbulo,
-                donde yo vagaba como un espíritu atribulado—, una persona abajo
+                <p>â€”SeÃ±orita â€”dijo una sirvienta que me encontrÃ³ en el vestÃ­bulo,
+                donde yo vagaba como un espÃ­ritu atribuladoâ€”, una persona abajo
                 desea verla.</p>
 
-                <p>«El transportista, sin duda», pensé, y bajé corriendo sin preguntar.
+                <p>Â«El transportista, sin dudaÂ», pensÃ©, y bajÃ© corriendo sin preguntar.
                 Estaba pasando por la sala de estar de las maestras, cuya puerta
-                estaba entreabierta, para ir a la cocina, cuando alguien salió
+                estaba entreabierta, para ir a la cocina, cuando alguien saliÃ³
                 corriendo.</p>
 
-                <p>—¡Es ella, estoy segura! ¡La habría reconocido en cualquier parte!
-                —gritó el individuo que detuvo mi paso y me tomó la mano.</p>
+                <p>â€”Â¡Es ella, estoy segura! Â¡La habrÃ­a reconocido en cualquier parte!
+                â€”gritÃ³ el individuo que detuvo mi paso y me tomÃ³ la mano.</p>
 
-                <p>Miré. Vi a una mujer ataviada como una sirvienta bien vestida, de
-                aspecto maternal, aunque todavía joven; muy guapa, con pelo y
+                <p>MirÃ©. Vi a una mujer ataviada como una sirvienta bien vestida, de
+                aspecto maternal, aunque todavÃ­a joven; muy guapa, con pelo y
                 ojos negros y una tez vivaz.</p>
 
-                <p>—Bueno, ¿quién es? —preguntó, con una voz y una sonrisa que
-                reconocí a medias—. No me ha olvidado del todo, creo, señorita
+                <p>â€”Bueno, Â¿quiÃ©n es? â€”preguntÃ³, con una voz y una sonrisa que
+                reconocÃ­ a mediasâ€”. No me ha olvidado del todo, creo, seÃ±orita
                 Jane.</p>
 
                 <p>En un segundo la estaba abrazando y besando con arrebato.</p>
 
-                <p>—¡Bessie! ¡Bessie! ¡Bessie! —fue todo lo que dije; a lo que ella
-                medio rio, medio lloró, y ambas entramos en el salón. Junto al fuego
-                había un pequeño de tres años, con vestido y pantalones de tartán.</p>
+                <p>â€”Â¡Bessie! Â¡Bessie! Â¡Bessie! â€”fue todo lo que dije; a lo que ella
+                medio rio, medio llorÃ³, y ambas entramos en el salÃ³n. Junto al fuego
+                habÃ­a un pequeÃ±o de tres aÃ±os, con vestido y pantalones de tartÃ¡n.</p>
 
-                <p>—Ese es mi pequeño —dijo Bessie directamente.</p>
+                <p>â€”Ese es mi pequeÃ±o â€”dijo Bessie directamente.</p>
 
-                <p>—Entonces, ¿estás casada, Bessie?</p>
+                <p>â€”Entonces, Â¿estÃ¡s casada, Bessie?</p>
 
-                <p>—Sí; hace casi cinco años, con Robert Leaven, el cochero; y tengo
-                una niña además de Bobby, a la que he bautizado como Jane.</p>
+                <p>â€”SÃ­; hace casi cinco aÃ±os, con Robert Leaven, el cochero; y tengo
+                una niÃ±a ademÃ¡s de Bobby, a la que he bautizado como Jane.</p>
 
-                <p>—¿Y no vives en Gateshead?</p>
+                <p>â€”Â¿Y no vives en Gateshead?</p>
 
-                <p>—Vivo en la garita; el viejo portero se ha ido.</p>
+                <p>â€”Vivo en la garita; el viejo portero se ha ido.</p>
 
-                <p>—Bueno, ¿y cómo les va a todos? Cuéntamelo todo sobre ellos,
-                Bessie; pero siéntate primero. Y, Bobby, ven y siéntate en mi regazo,
-                ¿quieres? —pero Bobby prefirió acercarse a su madre.</p>
+                <p>â€”Bueno, Â¿y cÃ³mo les va a todos? CuÃ©ntamelo todo sobre ellos,
+                Bessie; pero siÃ©ntate primero. Y, Bobby, ven y siÃ©ntate en mi regazo,
+                Â¿quieres? â€”pero Bobby prefiriÃ³ acercarse a su madre.</p>
 
-                <p>—No ha crecido usted muy alta, señorita Jane, ni muy corpulenta
-                —continuó la señora Leaven—. Me atrevo a decir que no la han
-                mantenido muy bien en la escuela. La señorita Reed es cabeza y
-                hombros más alta que usted; y la señorita Georgiana haría dos como
+                <p>â€”No ha crecido usted muy alta, seÃ±orita Jane, ni muy corpulenta
+                â€”continuÃ³ la seÃ±ora Leavenâ€”. Me atrevo a decir que no la han
+                mantenido muy bien en la escuela. La seÃ±orita Reed es cabeza y
+                hombros mÃ¡s alta que usted; y la seÃ±orita Georgiana harÃ­a dos como
                 usted de ancha.</p>
 
-                <p>—Georgiana es guapa, supongo, Bessie.</p>
+                <p>â€”Georgiana es guapa, supongo, Bessie.</p>
 
-                <p>—Mucho. Fue a Londres el invierno pasado con su mamá, y allí
-                todo el mundo la admiraba, y un joven lord se enamoró de ella; pero
-                los parientes de él se oponían al matrimonio; y —¿qué te parece?—,
-                él y la señorita Georgiana planearon fugarse; pero los descubrieron y
-                los detuvieron. Fue la señorita Reed quien los descubrió. Creo que
+                <p>â€”Mucho. Fue a Londres el invierno pasado con su mamÃ¡, y allÃ­
+                todo el mundo la admiraba, y un joven lord se enamorÃ³ de ella; pero
+                los parientes de Ã©l se oponÃ­an al matrimonio; y â€”Â¿quÃ© te parece?â€”,
+                Ã©l y la seÃ±orita Georgiana planearon fugarse; pero los descubrieron y
+                los detuvieron. Fue la seÃ±orita Reed quien los descubriÃ³. Creo que
                 estaba envidiosa; y ahora ella y su hermana se llevan como el perro
-                y el gato; siempre están discutiendo.</p>
+                y el gato; siempre estÃ¡n discutiendo.</p>
 
-                <p>—Bueno, ¿y qué hay de John Reed?</p>
+                <p>â€”Bueno, Â¿y quÃ© hay de John Reed?</p>
 
-                <p>—Oh, no le va tan bien como su mamá desearía. Fue a la
-                universidad y lo... suspendieron, creo que lo llaman. Y luego sus tíos
-                querían que fuera abogado y estudiara derecho, pero es un joven
-                tan disipado que nunca harán mucho de él, creo.</p>
+                <p>â€”Oh, no le va tan bien como su mamÃ¡ desearÃ­a. Fue a la
+                universidad y lo... suspendieron, creo que lo llaman. Y luego sus tÃ­os
+                querÃ­an que fuera abogado y estudiara derecho, pero es un joven
+                tan disipado que nunca harÃ¡n mucho de Ã©l, creo.</p>
 
-                <p>—¿Qué aspecto tiene?</p>
+                <p>â€”Â¿QuÃ© aspecto tiene?</p>
 
-                <p>—Es muy alto; algunas personas lo llaman un joven apuesto, pero
+                <p>â€”Es muy alto; algunas personas lo llaman un joven apuesto, pero
                 tiene los labios tan gruesos...</p>
 
-                <p>—¿Y la señora Reed?</p>
+                <p>â€”Â¿Y la seÃ±ora Reed?</p>
 
-                <p>—La señora parece robusta y bastante bien de cara, pero creo que
-                no está muy tranquila de espíritu. La conducta del señorito John no
+                <p>â€”La seÃ±ora parece robusta y bastante bien de cara, pero creo que
+                no estÃ¡ muy tranquila de espÃ­ritu. La conducta del seÃ±orito John no
                 le agrada, gasta mucho dinero.</p>
 
-                <p>—¿Te envió ella aquí, Bessie?</p>
+                <p>â€”Â¿Te enviÃ³ ella aquÃ­, Bessie?</p>
 
-                <p>—No, en absoluto. Pero hacía tiempo que quería verla, y cuando oí
-                que había llegado una carta suya y que se iba a otra parte del país,
-                pensé en ponerme en camino y echarle un vistazo antes de que
+                <p>â€”No, en absoluto. Pero hacÃ­a tiempo que querÃ­a verla, y cuando oÃ­
+                que habÃ­a llegado una carta suya y que se iba a otra parte del paÃ­s,
+                pensÃ© en ponerme en camino y echarle un vistazo antes de que
                 estuviera completamente fuera de mi alcance.</p>
 
-                <p>—Me temo que te he decepcionado, Bessie —dije riendo. Percibí
+                <p>â€”Me temo que te he decepcionado, Bessie â€”dije riendo. PercibÃ­
                 que la mirada de Bessie, aunque expresaba afecto, de ninguna
-                manera denotaba admiración.</p>
+                manera denotaba admiraciÃ³n.</p>
 
-                <p>—No, señorita Jane, no exactamente. Es usted bastante
+                <p>â€”No, seÃ±orita Jane, no exactamente. Es usted bastante
                 distinguida; parece una dama, y es todo lo que esperaba de usted.
-                No era usted una belleza de niña.</p>
+                No era usted una belleza de niÃ±a.</p>
 
-                <p>Sonreí ante la franca respuesta de Bessie. Sentí que era correcta,
+                <p>SonreÃ­ ante la franca respuesta de Bessie. SentÃ­ que era correcta,
                 pero confieso que no me era del todo indiferente su significado. A
-                los dieciocho años, la mayoría de la gente desea agradar, y la
-                convicción de que no tienen un exterior propenso a secundar ese
-                deseo no trae más que insatisfacción.</p>
+                los dieciocho aÃ±os, la mayorÃ­a de la gente desea agradar, y la
+                convicciÃ³n de que no tienen un exterior propenso a secundar ese
+                deseo no trae mÃ¡s que insatisfacciÃ³n.</p>
 
-                <p>—Me atrevo a decir que es usted inteligente, sin embargo —
-                continuó Bessie, a modo de consuelo—. ¿Qué sabe hacer? ¿Sabe
+                <p>â€”Me atrevo a decir que es usted inteligente, sin embargo â€”
+                continuÃ³ Bessie, a modo de consueloâ€”. Â¿QuÃ© sabe hacer? Â¿Sabe
                 tocar el piano?</p>
 
-                <p>—Un poco.</p>
+                <p>â€”Un poco.</p>
 
-                <p>Había uno en la habitación; Bessie fue y lo abrió, y luego me pidió
-                que me sentara y le tocara una melodía. Toqué uno o dos valses, y
-                quedó encantada.</p>
+                <p>HabÃ­a uno en la habitaciÃ³n; Bessie fue y lo abriÃ³, y luego me pidiÃ³
+                que me sentara y le tocara una melodÃ­a. ToquÃ© uno o dos valses, y
+                quedÃ³ encantada.</p>
 
-                <p>—¡Las señoritas Reed no sabían tocar tan bien! —dijo exultante—.
-                Siempre dije que las superaría en conocimientos. ¿Y sabe dibujar?</p>
+                <p>â€”Â¡Las seÃ±oritas Reed no sabÃ­an tocar tan bien! â€”dijo exultanteâ€”.
+                Siempre dije que las superarÃ­a en conocimientos. Â¿Y sabe dibujar?</p>
 
-                <p>—Ese es uno de mis cuadros, sobre la chimenea. —Era un paisaje
-                a la acuarela, del que le había hecho un regalo a la superintendente,
-                en agradecimiento por su amable mediación con el comité en mi
-                nombre, y que ella había enmarcado y acristalado.</p>
+                <p>â€”Ese es uno de mis cuadros, sobre la chimenea. â€”Era un paisaje
+                a la acuarela, del que le habÃ­a hecho un regalo a la superintendente,
+                en agradecimiento por su amable mediaciÃ³n con el comitÃ© en mi
+                nombre, y que ella habÃ­a enmarcado y acristalado.</p>
 
-                <p>—¡Bueno, eso es precioso, señorita Jane! Es un cuadro tan bueno
+                <p>â€”Â¡Bueno, eso es precioso, seÃ±orita Jane! Es un cuadro tan bueno
                 como cualquiera que pudiera pintar el maestro de dibujo de la
-                señorita Reed, por no hablar de las propias señoritas, que no se le
-                acercaban ni de lejos. ¿Y ha aprendido francés?</p>
+                seÃ±orita Reed, por no hablar de las propias seÃ±oritas, que no se le
+                acercaban ni de lejos. Â¿Y ha aprendido francÃ©s?</p>
 
-                <p>—Sí, Bessie, puedo leerlo y hablarlo.</p>
+                <p>â€”SÃ­, Bessie, puedo leerlo y hablarlo.</p>
 
-                <p>—¿Y sabe trabajar en muselina y lienzo?</p>
+                <p>â€”Â¿Y sabe trabajar en muselina y lienzo?</p>
 
-                <p>—Sí, sé.</p>
+                <p>â€”SÃ­, sÃ©.</p>
 
-                <p>—¡Oh, es usted toda una dama, señorita Jane! Sabía que lo sería.
-                Saldrá adelante, ya sea que sus parientes le presten atención o no.
-                Había algo que quería preguntarle. ¿Ha oído alguna vez algo de los
+                <p>â€”Â¡Oh, es usted toda una dama, seÃ±orita Jane! SabÃ­a que lo serÃ­a.
+                SaldrÃ¡ adelante, ya sea que sus parientes le presten atenciÃ³n o no.
+                HabÃ­a algo que querÃ­a preguntarle. Â¿Ha oÃ­do alguna vez algo de los
                 parientes de su padre, los Eyre?</p>
 
-                <p>—Nunca en mi vida.</p>
+                <p>â€”Nunca en mi vida.</p>
 
-                <p>—Bueno, ya sabe que la señora siempre dijo que eran pobres y
+                <p>â€”Bueno, ya sabe que la seÃ±ora siempre dijo que eran pobres y
                 bastante despreciables. Y puede que sean pobres, pero creo que son
-                tan de buena cuna como los Reed; porque un día, hace casi siete
-                años, un señor Eyre vino a Gateshead y quería verla. La señora dijo
+                tan de buena cuna como los Reed; porque un dÃ­a, hace casi siete
+                aÃ±os, un seÃ±or Eyre vino a Gateshead y querÃ­a verla. La seÃ±ora dijo
                 que estaba usted en la escuela a cincuenta millas de distancia.
-                Pareció muy decepcionado, porque no podía quedarse. Se iba de
-                viaje a un país extranjero, y el barco debía zarpar de Londres en uno
-                o dos días. Parecía todo un caballero, y creo que era el hermano de
+                PareciÃ³ muy decepcionado, porque no podÃ­a quedarse. Se iba de
+                viaje a un paÃ­s extranjero, y el barco debÃ­a zarpar de Londres en uno
+                o dos dÃ­as. ParecÃ­a todo un caballero, y creo que era el hermano de
                 su padre.</p>
 
-                <p>—¿A qué país extranjero iba, Bessie?</p>
+                <p>â€”Â¿A quÃ© paÃ­s extranjero iba, Bessie?</p>
 
-                <p>—A una isla a miles de millas de distancia, donde hacen vino... el
+                <p>â€”A una isla a miles de millas de distancia, donde hacen vino... el
                 mayordomo me lo dijo...</p>
 
-                <p>—¿Madeira? —sugerí.</p>
+                <p>â€”Â¿Madeira? â€”sugerÃ­.</p>
 
-                <p>—Sí, eso es, esa es la palabra exacta.</p>
+                <p>â€”SÃ­, eso es, esa es la palabra exacta.</p>
 
-                <p>—¿Así que se fue?</p>
+                <p>â€”Â¿AsÃ­ que se fue?</p>
 
-                <p>—Sí; no se quedó muchos minutos en la casa. La señora fue muy
-                altiva con él; después lo llamó «comerciante rastrero». Mi Robert
+                <p>â€”SÃ­; no se quedÃ³ muchos minutos en la casa. La seÃ±ora fue muy
+                altiva con Ã©l; despuÃ©s lo llamÃ³ Â«comerciante rastreroÂ». Mi Robert
                 cree que era un comerciante de vinos.</p>
 
-                <p>—Muy probablemente —respondí—; o quizás un empleado o
+                <p>â€”Muy probablemente â€”respondÃ­â€”; o quizÃ¡s un empleado o
                 agente de un comerciante de vinos.</p>
 
                 <p>Bessie y yo conversamos sobre los viejos tiempos durante una
-                hora más, y luego tuvo que dejarme. La vi de nuevo por unos
-                minutos a la mañana siguiente en Lowton, mientras esperaba la
+                hora mÃ¡s, y luego tuvo que dejarme. La vi de nuevo por unos
+                minutos a la maÃ±ana siguiente en Lowton, mientras esperaba la
                 diligencia. Nos separamos finalmente en la puerta de la posada
-                Brocklehurst Arms. Cada una tomó su camino; ella partió hacia la
-                cima de Lowood Fell para tomar el transporte que la llevaría de
-                vuelta a Gateshead, yo subí al vehículo que me llevaría a nuevos
+                Brocklehurst Arms. Cada una tomÃ³ su camino; ella partiÃ³ hacia la
+                cima de Lowood Fell para tomar el transporte que la llevarÃ­a de
+                vuelta a Gateshead, yo subÃ­ al vehÃ­culo que me llevarÃ­a a nuevos
                 deberes y a una nueva vida en los desconocidos alrededores de
                 Millcote.</p>
 
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap9.php" rel="prev">Anterior</a>
-                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menÃº de capÃ­tulos</a>
                     <a class="cambioSiguiente" href="cap11.php" rel="next">Siguiente</a>
                 </div>
             </section>

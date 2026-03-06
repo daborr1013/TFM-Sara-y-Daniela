@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Capítulo 19</title>
+    <title>CapÃ­tulo 19</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el capítulo 19">
+    <meta name="description" content="Este es el capÃ­tulo 19">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -39,21 +39,21 @@
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
+                        <li><a href="../../intro_obra.php">IntroducciÃ³n a la obra</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contenido_eyre.php">Contenido</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
-                                <li><a href="../../capitulos.php">Capítulos</a></li>
+                                <li><a href="../../resumenes/resumenes.php">ResÃºmenes</a></li>
+                                <li><a href="../../capitulos.php">CapÃ­tulos</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
-                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
+                                <li><a href="charlotte.php">Charlotte BrontÃ«</a></li>
+                                <li><a href="contexto_historico.php">Contexto histÃ³rico</a></li>
                             </ul>
                         </li>
 
@@ -61,7 +61,7 @@
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">Símbolos</a></li>
+                                <li><a href="simbolos.php">SÃ­mbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
                                 <li><a href="mapa.php">Mapa</a></li>
@@ -82,535 +82,535 @@
             </div>
             
             <section class="contenido">
-                <h1>Capítulo XIX</h1>
-                
-                <p>La biblioteca parecía bastante tranquila cuando entré en ella, y la
-                Sibila —si Sibila era— estaba sentada muy cómodamente en un
-                sillón en el rincón de la chimenea. Llevaba una capa roja y un gorro
-                negro; o más bien, un sombrero de gitana de ala ancha, atado con
-                un pañuelo de rayas bajo la barbilla. Una vela apagada estaba sobre
-                la mesa; estaba inclinada sobre el fuego y parecía leer en un
-                pequeño libro negro, como un libro de oraciones, a la luz de las
-                llamas. Murmuraba las palabras para sí misma, como hacen la
-                mayoría de las ancianas mientras leen; no desistió inmediatamente a
-                mi entrada; parecía que deseaba terminar un párrafo.</p>
+                <h1>CapÃ­tulo XIX</h1>
+    
+                <p>La biblioteca parecÃ­a bastante tranquila cuando entrÃ© en ella, y la
+                Sibila â€”si Sibila eraâ€” estaba sentada muy cÃ³modamente en un
+                sillÃ³n en el rincÃ³n de la chimenea. Llevaba una capa roja y un gorro
+                negro; o mÃ¡s bien, un sombrero de gitana de ala ancha, atado con
+                un paÃ±uelo de rayas bajo la barbilla. Una vela apagada estaba sobre
+                la mesa; estaba inclinada sobre el fuego y parecÃ­a leer en un
+                pequeÃ±o libro negro, como un libro de oraciones, a la luz de las
+                llamas. Murmuraba las palabras para sÃ­ misma, como hacen la
+                mayorÃ­a de las ancianas mientras leen; no desistiÃ³ inmediatamente a
+                mi entrada; parecÃ­a que deseaba terminar un pÃ¡rrafo.</p>
 
-                <p>Me detuve en la alfombra y me calenté las manos, que estaban
-                bastante frías por haberme sentado a distancia del fuego del salón.
-                Me sentía ahora tan serena como nunca en mi vida. No había nada,
+                <p>Me detuve en la alfombra y me calentÃ© las manos, que estaban
+                bastante frÃ­as por haberme sentado a distancia del fuego del salÃ³n.
+                Me sentÃ­a ahora tan serena como nunca en mi vida. No habÃ­a nada,
                 en verdad, en la apariencia de la gitana que pudiera perturbar la
-                calma de uno. Cerró su libro y lentamente levantó la vista; el ala del
-                sombrero le ensombrecía parcialmente el rostro, pero pude ver, al
-                levantarlo, que era un rostro extraño. Parecía todo pardo y negro;
-                mechones enmarañados sobresalían de debajo de una banda blanca
-                que pasaba por debajo de su barbilla y le cubría a medias las
-                mejillas, o más bien las mandíbulas. Su ojo me confrontó al instante,
+                calma de uno. CerrÃ³ su libro y lentamente levantÃ³ la vista; el ala del
+                sombrero le ensombrecÃ­a parcialmente el rostro, pero pude ver, al
+                levantarlo, que era un rostro extraÃ±o. ParecÃ­a todo pardo y negro;
+                mechones enmaraÃ±ados sobresalÃ­an de debajo de una banda blanca
+                que pasaba por debajo de su barbilla y le cubrÃ­a a medias las
+                mejillas, o mÃ¡s bien las mandÃ­bulas. Su ojo me confrontÃ³ al instante,
                 con una mirada audaz y directa.</p>
 
-                <p>—Bueno, ¿y quieres que te lean la fortuna? —dijo, con una voz
-                tan decidida como su mirada, tan áspera como sus rasgos.</p>
+                <p>â€”Bueno, Â¿y quieres que te lean la fortuna? â€”dijo, con una voz
+                tan decidida como su mirada, tan Ã¡spera como sus rasgos.</p>
 
-                <p>—No me importa, madre; puede hacer lo que le plazca. Pero debo
+                <p>â€”No me importa, madre; puede hacer lo que le plazca. Pero debo
                 advertirle que no tengo fe.</p>
 
-                <p>—Es propio de tu insolencia decir eso. Lo esperaba de ti; lo oí en
+                <p>â€”Es propio de tu insolencia decir eso. Lo esperaba de ti; lo oÃ­ en
                 tu paso al cruzar el umbral.</p>
 
-                <p>—¿De veras? Tiene usted un oído fino.</p>
+                <p>â€”Â¿De veras? Tiene usted un oÃ­do fino.</p>
 
-                <p>—Lo tengo; y un ojo fino y un cerebro fino.</p>
+                <p>â€”Lo tengo; y un ojo fino y un cerebro fino.</p>
 
-                <p>—Los necesita todos en su oficio.</p>
+                <p>â€”Los necesita todos en su oficio.</p>
 
-                <p>—Así es; especialmente cuando tengo clientes como tú con los
-                que tratar. ¿Por qué no tiemblas?</p>
+                <p>â€”AsÃ­ es; especialmente cuando tengo clientes como tÃº con los
+                que tratar. Â¿Por quÃ© no tiemblas?</p>
 
-                <p>—No tengo frío.</p>
+                <p>â€”No tengo frÃ­o.</p>
 
-                <p>—¿Por qué no palideces?</p>
+                <p>â€”Â¿Por quÃ© no palideces?</p>
 
-                <p>—No estoy enferma.</p>
+                <p>â€”No estoy enferma.</p>
 
-                <p>—¿Por qué no consultas mi arte?</p>
+                <p>â€”Â¿Por quÃ© no consultas mi arte?</p>
 
-                <p>—No soy tonta.</p>
+                <p>â€”No soy tonta.</p>
 
-                <p>La vieja bruja soltó una risita ahogada bajo su gorro y su vendaje;
-                luego sacó una pipa corta y negra y, encendiéndola, comenzó a
-                fumar. Habiéndose entregado un rato a este sedante, irguió su
-                cuerpo encorvado, se quitó la pipa de los labios y, mientras miraba
+                <p>La vieja bruja soltÃ³ una risita ahogada bajo su gorro y su vendaje;
+                luego sacÃ³ una pipa corta y negra y, encendiÃ©ndola, comenzÃ³ a
+                fumar. HabiÃ©ndose entregado un rato a este sedante, irguiÃ³ su
+                cuerpo encorvado, se quitÃ³ la pipa de los labios y, mientras miraba
                 fijamente el fuego, dijo muy deliberadamente:</p>
 
-                <p>—Tienes frío; estás enferma; y eres tonta.</p>
+                <p>â€”Tienes frÃ­o; estÃ¡s enferma; y eres tonta.</p>
 
-                <p>—Pruébelo —repliqué.</p>
+                <p>â€”PruÃ©belo â€”repliquÃ©.</p>
 
-                <p>—Lo haré, en pocas palabras. Tienes frío porque estás sola:
-                ningún contacto hace saltar el fuego que hay en ti. Estás enferma
-                porque el mejor de los sentimientos, el más alto y el más dulce dado
+                <p>â€”Lo harÃ©, en pocas palabras. Tienes frÃ­o porque estÃ¡s sola:
+                ningÃºn contacto hace saltar el fuego que hay en ti. EstÃ¡s enferma
+                porque el mejor de los sentimientos, el mÃ¡s alto y el mÃ¡s dulce dado
                 al hombre, se mantiene lejos de ti. Eres tonta porque, por mucho
-                que sufras, no le harás señas para que se acerque, ni darás un solo
+                que sufras, no le harÃ¡s seÃ±as para que se acerque, ni darÃ¡s un solo
                 paso para encontrarlo donde te espera.</p>
 
-                <p>Volvió a ponerse la pipa corta y negra en los labios y reanudó su
+                <p>VolviÃ³ a ponerse la pipa corta y negra en los labios y reanudÃ³ su
                 fumar con vigor.</p>
 
-                <p>—Podría decir todo eso a casi cualquiera que supiera que vive
+                <p>â€”PodrÃ­a decir todo eso a casi cualquiera que supiera que vive
                 como una dependienta solitaria en una gran casa.</p>
 
-                <p>—Podría decírselo a casi cualquiera, ¿pero sería verdad para casi cualquiera?</p>
+                <p>â€”PodrÃ­a decÃ­rselo a casi cualquiera, Â¿pero serÃ­a verdad para casi cualquiera?</p>
 
-                <p>—En mis circunstancias.</p>
+                <p>â€”En mis circunstancias.</p>
 
-                <p>—Sí; exacto, en tus circunstancias. Pero encuéntrame a otra
-                precisamente situada como tú.</p>
+                <p>â€”SÃ­; exacto, en tus circunstancias. Pero encuÃ©ntrame a otra
+                precisamente situada como tÃº.</p>
 
-                <p>—Sería fácil encontrarle miles.</p>
+                <p>â€”SerÃ­a fÃ¡cil encontrarle miles.</p>
 
-                <p>—Apenas podrías encontrarme una. Si lo supieras, estás en una
-                situación peculiar: muy cerca de la felicidad; sí, al alcance de ella.
-                Los materiales están todos preparados; solo falta un movimiento
+                <p>â€”Apenas podrÃ­as encontrarme una. Si lo supieras, estÃ¡s en una
+                situaciÃ³n peculiar: muy cerca de la felicidad; sÃ­, al alcance de ella.
+                Los materiales estÃ¡n todos preparados; solo falta un movimiento
                 para combinarlos. El azar los dispuso algo separados; que se
-                acerquen una vez y el resultado será la dicha.</p>
+                acerquen una vez y el resultado serÃ¡ la dicha.</p>
 
-                <p>—No entiendo los enigmas. Nunca he podido adivinar una
+                <p>â€”No entiendo los enigmas. Nunca he podido adivinar una
                 adivinanza en mi vida.</p>
 
-                <p>—Si quieres que hable más claramente, muéstrame la palma de tu mano.</p>
+                <p>â€”Si quieres que hable mÃ¡s claramente, muÃ©strame la palma de tu mano.</p>
 
-                <p>—Y debo cruzársela con plata, supongo.</p>
+                <p>â€”Y debo cruzÃ¡rsela con plata, supongo.</p>
 
-                <p>—Por supuesto.</p>
+                <p>â€”Por supuesto.</p>
 
-                <p>Le di un chelín. Lo metió en la punta de una media vieja que sacó
-                de su bolsillo y, habiéndola atado y guardado, me dijo que
-                extendiera la mano. Lo hice. Acercó su rostro a la palma y la
-                escudriñó sin tocarla.</p>
+                <p>Le di un chelÃ­n. Lo metiÃ³ en la punta de una media vieja que sacÃ³
+                de su bolsillo y, habiÃ©ndola atado y guardado, me dijo que
+                extendiera la mano. Lo hice. AcercÃ³ su rostro a la palma y la
+                escudriÃ±Ã³ sin tocarla.</p>
 
-                <p>—Es demasiado fina —dijo—. No puedo sacar nada de una mano
-                como esa; casi sin líneas. Además, ¿qué hay en una palma? El
-                destino no está escrito allí.</p>
+                <p>â€”Es demasiado fina â€”dijoâ€”. No puedo sacar nada de una mano
+                como esa; casi sin lÃ­neas. AdemÃ¡s, Â¿quÃ© hay en una palma? El
+                destino no estÃ¡ escrito allÃ­.</p>
 
-                <p>—La creo —dije.</p>
+                <p>â€”La creo â€”dije.</p>
 
-                <p>—No —continuó—, está en el rostro: en la frente, alrededor de los
-                ojos, en las líneas de la boca. Arrodíllate y levanta la cabeza.</p>
+                <p>â€”No â€”continuÃ³â€”, estÃ¡ en el rostro: en la frente, alrededor de los
+                ojos, en las lÃ­neas de la boca. ArrodÃ­llate y levanta la cabeza.</p>
 
-                <p>—¡Ah! Ahora llega a la realidad —dije, mientras obedecía—.
-                Empezaré a tener algo de fe en usted en breve.</p>
+                <p>â€”Â¡Ah! Ahora llega a la realidad â€”dije, mientras obedecÃ­aâ€”.
+                EmpezarÃ© a tener algo de fe en usted en breve.</p>
 
-                <p>Me arrodillé a medio metro de ella. Atizó el fuego, de modo que
-                una onda de luz brotó del carbón perturbado. El resplandor, sin
-                embargo, mientras ella estaba sentada, solo arrojó su rostro a una
-                sombra más profunda; el mío, lo iluminó.</p>
+                <p>Me arrodillÃ© a medio metro de ella. AtizÃ³ el fuego, de modo que
+                una onda de luz brotÃ³ del carbÃ³n perturbado. El resplandor, sin
+                embargo, mientras ella estaba sentada, solo arrojÃ³ su rostro a una
+                sombra mÃ¡s profunda; el mÃ­o, lo iluminÃ³.</p>
 
-                <p>—Me pregunto con qué sentimientos viniste a mí esta noche —
-                dijo, después de haberme examinado un rato—. Me pregunto qué
-                pensamientos bullen en tu corazón durante todas las horas que
-                pasas en aquella habitación de allá con la gente distinguida
-                revoloteando ante ti como formas en una linterna mágica, con tan
-                poca comunión simpática entre tú y ellos como si fueran realmente
+                <p>â€”Me pregunto con quÃ© sentimientos viniste a mÃ­ esta noche â€”
+                dijo, despuÃ©s de haberme examinado un ratoâ€”. Me pregunto quÃ©
+                pensamientos bullen en tu corazÃ³n durante todas las horas que
+                pasas en aquella habitaciÃ³n de allÃ¡ con la gente distinguida
+                revoloteando ante ti como formas en una linterna mÃ¡gica, con tan
+                poca comuniÃ³n simpÃ¡tica entre tÃº y ellos como si fueran realmente
                 meras sombras de formas humanas y no la sustancia real.</p>
 
-                <p>—Me siento cansada a menudo, somnolienta a veces, pero rara vez triste.</p>
+                <p>â€”Me siento cansada a menudo, somnolienta a veces, pero rara vez triste.</p>
 
-                <p>—¿Entonces tienes alguna esperanza secreta que te sostenga y te
+                <p>â€”Â¿Entonces tienes alguna esperanza secreta que te sostenga y te
                 complazca con susurros del futuro?</p>
 
-                <p>—Yo no. Lo máximo que espero es ahorrar suficiente dinero de
-                mis ganancias para montar una escuela algún día en una casita
-                alquilada por mí misma.</p>
+                <p>â€”Yo no. Lo mÃ¡ximo que espero es ahorrar suficiente dinero de
+                mis ganancias para montar una escuela algÃºn dÃ­a en una casita
+                alquilada por mÃ­ misma.</p>
 
-                <p>—Un alimento mezquino para que el espíritu subsista. Y sentada
-                en ese asiento de ventana (ya ves que conozco tus hábitos)...</p>
+                <p>â€”Un alimento mezquino para que el espÃ­ritu subsista. Y sentada
+                en ese asiento de ventana (ya ves que conozco tus hÃ¡bitos)...</p>
 
-                <p>—Los ha aprendido de los criados.</p>
+                <p>â€”Los ha aprendido de los criados.</p>
 
-                <p>—¡Ah! Te crees muy lista. Bueno, quizás lo he hecho. A decir
-                verdad, conozco a una de ellas, la señora Poole...</p>
+                <p>â€”Â¡Ah! Te crees muy lista. Bueno, quizÃ¡s lo he hecho. A decir
+                verdad, conozco a una de ellas, la seÃ±ora Poole...</p>
 
-                <p>Me puse de pie de un salto cuando oí el nombre.</p>
+                <p>Me puse de pie de un salto cuando oÃ­ el nombre.</p>
 
-                <p>«¿La conoce, verdad?», pensé. «¡Hay diablerie en el asunto,
-                después de todo!».</p>
+                <p>Â«Â¿La conoce, verdad?Â», pensÃ©. Â«Â¡Hay diablerie en el asunto,
+                despuÃ©s de todo!Â».</p>
 
-                <p>—No te alarmes —continuó el extraño ser—. Es de fiar la señora
+                <p>â€”No te alarmes â€”continuÃ³ el extraÃ±o serâ€”. Es de fiar la seÃ±ora
                 Poole; reservada y tranquila. Cualquiera puede depositar su
-                confianza en ella. Pero, como decía: sentada en ese asiento de
-                ventana, ¿no piensas en nada más que en tu futura escuela? ¿No
-                tienes ningún interés presente en ninguna de las personas que
-                ocupan los sofás y las sillas ante ti? ¿No hay un rostro que estudies?
-                ¿Una figura cuyos movimientos sigues al menos con curiosidad?</p>
+                confianza en ella. Pero, como decÃ­a: sentada en ese asiento de
+                ventana, Â¿no piensas en nada mÃ¡s que en tu futura escuela? Â¿No
+                tienes ningÃºn interÃ©s presente en ninguna de las personas que
+                ocupan los sofÃ¡s y las sillas ante ti? Â¿No hay un rostro que estudies?
+                Â¿Una figura cuyos movimientos sigues al menos con curiosidad?</p>
 
-                <p>—Me gusta observar todos los rostros y todas las figuras.</p>
+                <p>â€”Me gusta observar todos los rostros y todas las figuras.</p>
 
-                <p>—¿Pero nunca eliges uno del resto, o tal vez dos?</p>
+                <p>â€”Â¿Pero nunca eliges uno del resto, o tal vez dos?</p>
 
-                <p>—Lo hago con frecuencia; cuando los gestos o las miradas de una
+                <p>â€”Lo hago con frecuencia; cuando los gestos o las miradas de una
                 pareja parecen contar una historia. Me divierte observarlos.</p>
 
-                <p>—¿Qué historia te gusta más oír?</p>
+                <p>â€”Â¿QuÃ© historia te gusta mÃ¡s oÃ­r?</p>
 
-                <p>—¡Oh, no tengo mucha elección! Generalmente versan sobre el
+                <p>â€”Â¡Oh, no tengo mucha elecciÃ³n! Generalmente versan sobre el
                 mismo tema: el cortejo; y prometen terminar en la misma
-                catástrofe: el matrimonio.</p>
+                catÃ¡strofe: el matrimonio.</p>
 
-                <p>—¿Y te gusta ese tema monótono?</p>
+                <p>â€”Â¿Y te gusta ese tema monÃ³tono?</p>
 
-                <p>—Positivamente, no me importa. No es nada para mí.</p>
+                <p>â€”Positivamente, no me importa. No es nada para mÃ­.</p>
 
-                <p>—¿Nada para ti? Cuando una dama, joven y llena de vida y salud,
+                <p>â€”Â¿Nada para ti? Cuando una dama, joven y llena de vida y salud,
                 encantadora por su belleza y dotada de los dones del rango y la
-                fortuna, se sienta y sonríe a los ojos de un caballero que tú...</p>
+                fortuna, se sienta y sonrÃ­e a los ojos de un caballero que tÃº...</p>
 
-                <p>—¿Que yo qué?</p>
+                <p>â€”Â¿Que yo quÃ©?</p>
 
-                <p>—Tú conoces, y quizás tienes en buena estima.</p>
+                <p>â€”TÃº conoces, y quizÃ¡s tienes en buena estima.</p>
 
-                <p>—No conozco a los caballeros de aquí. Apenas he intercambiado
-                una sílaba con uno de ellos; y en cuanto a tenerlos en buena estima,
+                <p>â€”No conozco a los caballeros de aquÃ­. Apenas he intercambiado
+                una sÃ­laba con uno de ellos; y en cuanto a tenerlos en buena estima,
                 considero a algunos respetables, y majestuosos, y de mediana edad,
-                y a otros jóvenes, apuestos, guapos y vivaces. Pero ciertamente
+                y a otros jÃ³venes, apuestos, guapos y vivaces. Pero ciertamente
                 todos tienen la libertad de ser los receptores de las sonrisas que les
-                plazcan, sin que yo me sienta dispuesta a considerar la transacción
-                de ningún momento para mí.</p>
+                plazcan, sin que yo me sienta dispuesta a considerar la transacciÃ³n
+                de ningÃºn momento para mÃ­.</p>
 
-                <p>—¿No conoces a los caballeros de aquí? ¿No has intercambiado
-                una sílaba con uno de ellos? ¿Dirás eso del amo de la casa?</p>
+                <p>â€”Â¿No conoces a los caballeros de aquÃ­? Â¿No has intercambiado
+                una sÃ­laba con uno de ellos? Â¿DirÃ¡s eso del amo de la casa?</p>
 
-                <p>—No está en casa.</p>
+                <p>â€”No estÃ¡ en casa.</p>
 
-                <p>—¡Una observación profunda! ¡Un subterfugio de lo más
-                ingenioso! Fue a Millcote esta mañana y volverá aquí esta noche o
-                mañana. ¿Esa circunstancia lo excluye de la lista de tus conocidos, lo
-                borra, por así decirlo, de la existencia?</p>
+                <p>â€”Â¡Una observaciÃ³n profunda! Â¡Un subterfugio de lo mÃ¡s
+                ingenioso! Fue a Millcote esta maÃ±ana y volverÃ¡ aquÃ­ esta noche o
+                maÃ±ana. Â¿Esa circunstancia lo excluye de la lista de tus conocidos, lo
+                borra, por asÃ­ decirlo, de la existencia?</p>
 
-                <p>—No; pero apenas veo qué tiene que ver el señor Rochester con
-                el tema que habías introducido.</p>
+                <p>â€”No; pero apenas veo quÃ© tiene que ver el seÃ±or Rochester con
+                el tema que habÃ­as introducido.</p>
 
-                <p>—Estaba hablando de damas sonriendo a los ojos de los
-                caballeros; y últimamente se han derramado tantas sonrisas en los
-                ojos del señor Rochester que rebosan como dos copas llenas por
-                encima del borde. ¿Nunca lo has notado?</p>
+                <p>â€”Estaba hablando de damas sonriendo a los ojos de los
+                caballeros; y Ãºltimamente se han derramado tantas sonrisas en los
+                ojos del seÃ±or Rochester que rebosan como dos copas llenas por
+                encima del borde. Â¿Nunca lo has notado?</p>
 
-                <p>—El señor Rochester tiene derecho a disfrutar de la compañía de sus invitados.</p>
+                <p>â€”El seÃ±or Rochester tiene derecho a disfrutar de la compaÃ±Ã­a de sus invitados.</p>
 
-                <p>—No hay duda de su derecho. ¿Pero nunca has observado que, de
-                todos los cuentos que se cuentan aquí sobre el matrimonio, el señor
-                Rochester ha sido favorecido con el más animado y el más continuo?</p>
+                <p>â€”No hay duda de su derecho. Â¿Pero nunca has observado que, de
+                todos los cuentos que se cuentan aquÃ­ sobre el matrimonio, el seÃ±or
+                Rochester ha sido favorecido con el mÃ¡s animado y el mÃ¡s continuo?</p>
 
-                <p>—El afán de un oyente aviva la lengua de un narrador. —Dije esto
-                más para mí que para la gitana, cuyo extraño hablar, voz y manera
-                me habían envuelto para entonces en una especie de sueño. Una
-                frase inesperada tras otra salía de sus labios, hasta que me vi
-                envuelta en una red de mistificación; y me pregunté qué espíritu
-                invisible había estado sentado durante semanas junto a mi corazón
+                <p>â€”El afÃ¡n de un oyente aviva la lengua de un narrador. â€”Dije esto
+                mÃ¡s para mÃ­ que para la gitana, cuyo extraÃ±o hablar, voz y manera
+                me habÃ­an envuelto para entonces en una especie de sueÃ±o. Una
+                frase inesperada tras otra salÃ­a de sus labios, hasta que me vi
+                envuelta en una red de mistificaciÃ³n; y me preguntÃ© quÃ© espÃ­ritu
+                invisible habÃ­a estado sentado durante semanas junto a mi corazÃ³n
                 observando sus tejemanejes y tomando nota de cada pulso.</p>
 
-                <p>—¡El afán de un oyente! —repitió ella—. Sí; el señor Rochester ha
-                estado sentado durante horas, con el oído inclinado hacia los labios
+                <p>â€”Â¡El afÃ¡n de un oyente! â€”repitiÃ³ ellaâ€”. SÃ­; el seÃ±or Rochester ha
+                estado sentado durante horas, con el oÃ­do inclinado hacia los labios
                 fascinantes que tanto se deleitaban en su tarea de comunicar; y el
-                señor Rochester estaba tan dispuesto a recibir y parecía tan
-                agradecido por el pasatiempo que se le ofrecía. ¿Has notado esto?</p>
+                seÃ±or Rochester estaba tan dispuesto a recibir y parecÃ­a tan
+                agradecido por el pasatiempo que se le ofrecÃ­a. Â¿Has notado esto?</p>
 
-                <p>—¡Agradecido! No recuerdo haber detectado gratitud en su rostro.</p>
+                <p>â€”Â¡Agradecido! No recuerdo haber detectado gratitud en su rostro.</p>
 
-                <p>—¡Detectado! Has analizado, entonces. ¿Y qué detectaste, si no gratitud?</p>
+                <p>â€”Â¡Detectado! Has analizado, entonces. Â¿Y quÃ© detectaste, si no gratitud?</p>
 
                 <p>No dije nada.</p>
 
-                <p>—Has visto amor, ¿no es así? Y, mirando hacia el futuro, ¿lo has
+                <p>â€”Has visto amor, Â¿no es asÃ­? Y, mirando hacia el futuro, Â¿lo has
                 visto casado y has contemplado a su novia feliz?</p>
 
-                <p>—¡Hum! No exactamente. Su habilidad de bruja falla a veces.</p>
+                <p>â€”Â¡Hum! No exactamente. Su habilidad de bruja falla a veces.</p>
 
-                <p>—¿Qué diablos has visto, entonces?</p>
+                <p>â€”Â¿QuÃ© diablos has visto, entonces?</p>
 
-                <p>—No importa. Vine aquí a preguntar, no a confesar. ¿Se sabe que
-                el señor Rochester se va a casar?</p>
+                <p>â€”No importa. Vine aquÃ­ a preguntar, no a confesar. Â¿Se sabe que
+                el seÃ±or Rochester se va a casar?</p>
 
-                <p>—Sí; y con la hermosa señorita Ingram.</p>
+                <p>â€”SÃ­; y con la hermosa seÃ±orita Ingram.</p>
 
-                <p>—¿Pronto?</p>
+                <p>â€”Â¿Pronto?</p>
 
-                <p>—Las apariencias justificarían esa conclusión; y, sin duda (aunque,
+                <p>â€”Las apariencias justificarÃ­an esa conclusiÃ³n; y, sin duda (aunque,
                 con una audacia que necesita ser castigada, pareces cuestionarlo),
-                serán una pareja superlativamente feliz. Él debe amar a una dama
+                serÃ¡n una pareja superlativamente feliz. Ã‰l debe amar a una dama
                 tan guapa, noble, ingeniosa y culta; y probablemente ella lo ame a
-                él, o, si no a su persona, al menos a su bolsa. Sé que considera la
-                finca de Rochester elegible en el más alto grado; aunque (¡Dios me
+                Ã©l, o, si no a su persona, al menos a su bolsa. SÃ© que considera la
+                finca de Rochester elegible en el mÃ¡s alto grado; aunque (Â¡Dios me
                 perdone!) le dije algo sobre ese punto hace una hora que la hizo
                 parecer maravillosamente grave. Las comisuras de su boca cayeron
-                media pulgada. Le aconsejaría a su moreno pretendiente que tuviera
-                cuidado: si viene otro con una lista de rentas más larga o más clara,
-                está perdido.</p>
+                media pulgada. Le aconsejarÃ­a a su moreno pretendiente que tuviera
+                cuidado: si viene otro con una lista de rentas mÃ¡s larga o mÃ¡s clara,
+                estÃ¡ perdido.</p>
 
-                <p>—Pero, madre, no vine a oír la fortuna del señor Rochester. Vine a
-                oír la mía; y no me ha dicho nada de ella.</p>
+                <p>â€”Pero, madre, no vine a oÃ­r la fortuna del seÃ±or Rochester. Vine a
+                oÃ­r la mÃ­a; y no me ha dicho nada de ella.</p>
 
-                <p>—Tu fortuna es aún dudosa. Cuando examiné tu rostro, un rasgo
-                contradecía a otro. El azar te ha medido una medida de felicidad;
-                eso lo sé. Lo sabía antes de venir aquí esta noche. La ha puesto
+                <p>â€”Tu fortuna es aÃºn dudosa. Cuando examinÃ© tu rostro, un rasgo
+                contradecÃ­a a otro. El azar te ha medido una medida de felicidad;
+                eso lo sÃ©. Lo sabÃ­a antes de venir aquÃ­ esta noche. La ha puesto
                 cuidadosamente a un lado para ti. La vi hacerlo. Depende de ti
-                extender la mano y tomarla. Pero si lo harás, es el problema que
-                estudio. Arrodíllate de nuevo en la alfombra.</p>
+                extender la mano y tomarla. Pero si lo harÃ¡s, es el problema que
+                estudio. ArrodÃ­llate de nuevo en la alfombra.</p>
 
-                <p>—No me retenga mucho; el fuego me abrasa.</p>
+                <p>â€”No me retenga mucho; el fuego me abrasa.</p>
 
-                <p>Me arrodillé. Ella no se inclinó hacia mí, sino que solo me miró,
-                reclinándose en su silla. Comenzó a murmurar:</p>
+                <p>Me arrodillÃ©. Ella no se inclinÃ³ hacia mÃ­, sino que solo me mirÃ³,
+                reclinÃ¡ndose en su silla. ComenzÃ³ a murmurar:</p>
 
-                <p>—La llama parpadea en el ojo; el ojo brilla como el rocío; parece
-                suave y lleno de sentimiento; sonríe ante mi jerga. Es susceptible;
-                impresión tras impresión recorre su clara esfera; donde deja de
-                sonreír, está triste; una lasitud inconsciente pesa sobre el párpado.
-                Eso significa melancolía resultante de la soledad. Se aparta de mí;
-                no sufrirá más escrutinio; parece negar, con una mirada burlona, la
+                <p>â€”La llama parpadea en el ojo; el ojo brilla como el rocÃ­o; parece
+                suave y lleno de sentimiento; sonrÃ­e ante mi jerga. Es susceptible;
+                impresiÃ³n tras impresiÃ³n recorre su clara esfera; donde deja de
+                sonreÃ­r, estÃ¡ triste; una lasitud inconsciente pesa sobre el pÃ¡rpado.
+                Eso significa melancolÃ­a resultante de la soledad. Se aparta de mÃ­;
+                no sufrirÃ¡ mÃ¡s escrutinio; parece negar, con una mirada burlona, la
                 verdad de los descubrimientos que ya he hecho, repudiar la
-                acusación tanto de sensibilidad como de disgusto. Su orgullo y
-                reserva solo me confirman en mi opinión. El ojo es favorable.</p>
+                acusaciÃ³n tanto de sensibilidad como de disgusto. Su orgullo y
+                reserva solo me confirman en mi opiniÃ³n. El ojo es favorable.</p>
 
-                <p>»En cuanto a la boca, se deleita a veces en la risa; está dispuesta
+                <p>Â»En cuanto a la boca, se deleita a veces en la risa; estÃ¡ dispuesta
                 a impartir todo lo que el cerebro concibe, aunque me atrevo a decir
-                que callaría mucho de lo que el corazón experimenta. Móvil y
+                que callarÃ­a mucho de lo que el corazÃ³n experimenta. MÃ³vil y
                 flexible, nunca fue destinada a ser comprimida en el silencio eterno
-                de la soledad. Es una boca que debería hablar mucho y sonreír a
+                de la soledad. Es una boca que deberÃ­a hablar mucho y sonreÃ­r a
                 menudo, y tener afecto humano por su interlocutor. Ese rasgo
-                también es propicio.</p>
+                tambiÃ©n es propicio.</p>
 
-                <p>»No veo enemigo para un desenlace afortunado sino en la frente;
-                y esa frente profesa decir: “Puedo vivir sola, si el respeto propio y
+                <p>Â»No veo enemigo para un desenlace afortunado sino en la frente;
+                y esa frente profesa decir: â€œPuedo vivir sola, si el respeto propio y
                 las circunstancias me lo exigen. No necesito vender mi alma para
                 comprar la dicha. Tengo un tesoro interior nacido conmigo, que
-                puede mantenerme viva si todos los deleites extraños me fueran
+                puede mantenerme viva si todos los deleites extraÃ±os me fueran
                 negados, o se ofrecieran solo a un precio que no puedo permitirme
-                dar”. La frente declara: “La Razón se sienta firme y sujeta las
-                riendas, y no dejará que los sentimientos se desboquen y la
+                darâ€. La frente declara: â€œLa RazÃ³n se sienta firme y sujeta las
+                riendas, y no dejarÃ¡ que los sentimientos se desboquen y la
                 precipiten a abismos salvajes. Las pasiones pueden rugir
                 furiosamente, como verdaderas paganas que son; y los deseos
-                pueden imaginar toda clase de cosas vanas; pero el juicio tendrá
-                siempre la última palabra en cada argumento y el voto decisivo en
-                cada decisión. Viento fuerte, terremoto y fuego pueden pasar, pero
-                yo seguiré la guía de esa voz suave y queda que interpreta los
-                dictados de la conciencia”.</p>
+                pueden imaginar toda clase de cosas vanas; pero el juicio tendrÃ¡
+                siempre la Ãºltima palabra en cada argumento y el voto decisivo en
+                cada decisiÃ³n. Viento fuerte, terremoto y fuego pueden pasar, pero
+                yo seguirÃ© la guÃ­a de esa voz suave y queda que interpreta los
+                dictados de la concienciaâ€.</p>
 
-                <p>»Bien dicho, frente; tu declaración será respetada. He formado
-                mis planes —planes correctos los considero— y en ellos he atendido
-                a las exigencias de la conciencia, a los consejos de la razón. Sé cuán
-                pronto se marchitaría la juventud y perecería la flor si, en la copa de
-                la dicha ofrecida, se detectara un solo poso de vergüenza o un solo
+                <p>Â»Bien dicho, frente; tu declaraciÃ³n serÃ¡ respetada. He formado
+                mis planes â€”planes correctos los consideroâ€” y en ellos he atendido
+                a las exigencias de la conciencia, a los consejos de la razÃ³n. SÃ© cuÃ¡n
+                pronto se marchitarÃ­a la juventud y perecerÃ­a la flor si, en la copa de
+                la dicha ofrecida, se detectara un solo poso de vergÃ¼enza o un solo
                 sabor de remordimiento; y no quiero sacrificio, ni pena, ni
-                disolución; tal no es mi gusto. Deseo fomentar, no marchitar; ganar
-                gratitud, no arrancar lágrimas de sangre, no, ni de salmuera. Mi
-                cosecha debe ser en sonrisas, en caricias, en dulces... Eso bastará.
-                Creo que desvarío en una especie de delirio exquisito. Desearía
+                disoluciÃ³n; tal no es mi gusto. Deseo fomentar, no marchitar; ganar
+                gratitud, no arrancar lÃ¡grimas de sangre, no, ni de salmuera. Mi
+                cosecha debe ser en sonrisas, en caricias, en dulces... Eso bastarÃ¡.
+                Creo que desvarÃ­o en una especie de delirio exquisito. DesearÃ­a
                 ahora prolongar este momento ad infinitum; pero no me atrevo.
-                Hasta ahora me he gobernado a fondo. He actuado como juré
-                interiormente que actuaría; pero ir más allá podría ponerme a
-                prueba por encima de mis fuerzas. Levántese, señorita Eyre;
-                déjeme; “la función ha terminado”.</p>
+                Hasta ahora me he gobernado a fondo. He actuado como jurÃ©
+                interiormente que actuarÃ­a; pero ir mÃ¡s allÃ¡ podrÃ­a ponerme a
+                prueba por encima de mis fuerzas. LevÃ¡ntese, seÃ±orita Eyre;
+                dÃ©jeme; â€œla funciÃ³n ha terminadoâ€.</p>
 
-                <p>¿Dónde estaba? ¿Despierta o dormida? ¿Había estado soñando?
-                ¿Soñaba todavía? La voz de la anciana había cambiado; su acento,
+                <p>Â¿DÃ³nde estaba? Â¿Despierta o dormida? Â¿HabÃ­a estado soÃ±ando?
+                Â¿SoÃ±aba todavÃ­a? La voz de la anciana habÃ­a cambiado; su acento,
                 su gesto y todo me eran tan familiares como mi propio rostro en un
-                espejo, como el habla de mi propia lengua. Me levanté, pero no me
-                fui. Miré; aticé el fuego y volví a mirar. Pero ella se ciñó el gorro y el
-                vendaje más cerca del rostro y de nuevo me hizo señas para que me
-                marchara. La llama iluminó su mano extendida. Despierta ahora y
-                alerta a los descubrimientos, noté al instante esa mano. No era más
-                el miembro marchito de la vejez que el mío propio; era un miembro
-                redondeado y flexible, con dedos lisos, simétricamente torneados;
-                un anillo ancho brillaba en el dedo meñique y, inclinándome hacia
-                adelante, lo miré y vi una gema que había visto cien veces antes. De
-                nuevo miré el rostro, que ya no se apartaba de mí; por el contrario,
+                espejo, como el habla de mi propia lengua. Me levantÃ©, pero no me
+                fui. MirÃ©; aticÃ© el fuego y volvÃ­ a mirar. Pero ella se ciÃ±Ã³ el gorro y el
+                vendaje mÃ¡s cerca del rostro y de nuevo me hizo seÃ±as para que me
+                marchara. La llama iluminÃ³ su mano extendida. Despierta ahora y
+                alerta a los descubrimientos, notÃ© al instante esa mano. No era mÃ¡s
+                el miembro marchito de la vejez que el mÃ­o propio; era un miembro
+                redondeado y flexible, con dedos lisos, simÃ©tricamente torneados;
+                un anillo ancho brillaba en el dedo meÃ±ique y, inclinÃ¡ndome hacia
+                adelante, lo mirÃ© y vi una gema que habÃ­a visto cien veces antes. De
+                nuevo mirÃ© el rostro, que ya no se apartaba de mÃ­; por el contrario,
                 el gorro fue quitado, el vendaje desplazado, la cabeza adelantada.</p>
 
-                <p>—Bueno, Jane, ¿me conoces? —preguntó la voz familiar.</p>
+                <p>â€”Bueno, Jane, Â¿me conoces? â€”preguntÃ³ la voz familiar.</p>
 
-                <p>—Solo quítese la capa roja, señor, y entonces...</p>
+                <p>â€”Solo quÃ­tese la capa roja, seÃ±or, y entonces...</p>
 
-                <p>—Pero el cordón está en un nudo, ayúdeme.</p>
+                <p>â€”Pero el cordÃ³n estÃ¡ en un nudo, ayÃºdeme.</p>
 
-                <p>—Rómpalo, señor.</p>
+                <p>â€”RÃ³mpalo, seÃ±or.</p>
 
-                <p>—Ahí está, entonces: «¡Fuera, prendas prestadas!». —Y el señor
-                Rochester salió de su disfraz.</p>
+                <p>â€”AhÃ­ estÃ¡, entonces: Â«Â¡Fuera, prendas prestadas!Â». â€”Y el seÃ±or
+                Rochester saliÃ³ de su disfraz.</p>
 
-                <p>—¡Ahora, señor, qué idea tan extraña!</p>
+                <p>â€”Â¡Ahora, seÃ±or, quÃ© idea tan extraÃ±a!</p>
 
-                <p>—Pero bien llevada a cabo, ¿eh? ¿No le parece?</p>
+                <p>â€”Pero bien llevada a cabo, Â¿eh? Â¿No le parece?</p>
 
-                <p>—Con las damas debe de haberse las arreglado bien.</p>
+                <p>â€”Con las damas debe de haberse las arreglado bien.</p>
 
-                <p>—¿Pero no con usted?</p>
+                <p>â€”Â¿Pero no con usted?</p>
 
-                <p>—No interpretó el personaje de una gitana conmigo.</p>
+                <p>â€”No interpretÃ³ el personaje de una gitana conmigo.</p>
 
-                <p>—¿Qué personaje interpreté? ¿El mío propio?</p>
+                <p>â€”Â¿QuÃ© personaje interpretÃ©? Â¿El mÃ­o propio?</p>
 
-                <p>—No; uno inexplicable. En resumen, creo que ha estado tratando
-                de sonsacarme, de una forma u otra; ha estado diciendo tonterías
-                para hacerme decir tonterías a mí. Apenas es justo, señor.</p>
+                <p>â€”No; uno inexplicable. En resumen, creo que ha estado tratando
+                de sonsacarme, de una forma u otra; ha estado diciendo tonterÃ­as
+                para hacerme decir tonterÃ­as a mÃ­. Apenas es justo, seÃ±or.</p>
 
-                <p>—¿Me perdona, Jane?</p>
+                <p>â€”Â¿Me perdona, Jane?</p>
 
-                <p>—No puedo decirlo hasta que lo haya pensado todo. Si, tras
-                reflexionar, encuentro que no he caído en ningún gran absurdo,
-                intentaré perdonarle; pero no estuvo bien.</p>
+                <p>â€”No puedo decirlo hasta que lo haya pensado todo. Si, tras
+                reflexionar, encuentro que no he caÃ­do en ningÃºn gran absurdo,
+                intentarÃ© perdonarle; pero no estuvo bien.</p>
 
-                <p>—Oh, ha sido usted muy correcta, muy cuidadosa, muy sensata.</p>
+                <p>â€”Oh, ha sido usted muy correcta, muy cuidadosa, muy sensata.</p>
 
-                <p>Reflexioné y pensé que, en conjunto, lo había sido. Fue un
-                consuelo; pero, en verdad, había estado en guardia casi desde el
-                principio de la entrevista. Sospechaba algo de mascarada. Sabía que
+                <p>ReflexionÃ© y pensÃ© que, en conjunto, lo habÃ­a sido. Fue un
+                consuelo; pero, en verdad, habÃ­a estado en guardia casi desde el
+                principio de la entrevista. Sospechaba algo de mascarada. SabÃ­a que
                 las gitanas y las adivinas no se expresaban como esta aparente
-                anciana se había expresado; además, había notado su voz fingida,
-                su ansiedad por ocultar sus rasgos. Pero mi mente había estado
+                anciana se habÃ­a expresado; ademÃ¡s, habÃ­a notado su voz fingida,
+                su ansiedad por ocultar sus rasgos. Pero mi mente habÃ­a estado
                 pensando en Grace Poole, ese enigma viviente, ese misterio de
-                misterios, como yo la consideraba. Nunca había pensado en el señor
+                misterios, como yo la consideraba. Nunca habÃ­a pensado en el seÃ±or
                 Rochester.</p>
 
-                <p>—Bueno —dijo él—, ¿en qué medita? ¿Qué significa esa sonrisa grave?</p>
+                <p>â€”Bueno â€”dijo Ã©lâ€”, Â¿en quÃ© medita? Â¿QuÃ© significa esa sonrisa grave?</p>
 
-                <p>—Asombro y autocomplacencia, señor. Supongo que tengo su
+                <p>â€”Asombro y autocomplacencia, seÃ±or. Supongo que tengo su
                 permiso para retirarme ahora.</p>
 
-                <p>—No; quédese un momento; y dígame qué está haciendo la gente
-                en el salón de allá.</p>
+                <p>â€”No; quÃ©dese un momento; y dÃ­game quÃ© estÃ¡ haciendo la gente
+                en el salÃ³n de allÃ¡.</p>
 
-                <p>—Discutiendo sobre la gitana, me atrevo a decir.</p>
+                <p>â€”Discutiendo sobre la gitana, me atrevo a decir.</p>
 
-                <p>—¡Siéntese! Déjeme oír lo que dijeron de mí.</p>
+                <p>â€”Â¡SiÃ©ntese! DÃ©jeme oÃ­r lo que dijeron de mÃ­.</p>
 
-                <p>—Será mejor que no me quede mucho, señor; deben de ser cerca
-                de las once. Oh, ¿es usted consciente, señor Rochester, de que ha
-                llegado un extraño aquí desde que se fue esta mañana?</p>
+                <p>â€”SerÃ¡ mejor que no me quede mucho, seÃ±or; deben de ser cerca
+                de las once. Oh, Â¿es usted consciente, seÃ±or Rochester, de que ha
+                llegado un extraÃ±o aquÃ­ desde que se fue esta maÃ±ana?</p>
 
-                <p>—¡Un extraño! No. ¿Quién puede ser? No esperaba a nadie. ¿Se ha ido?</p>
+                <p>â€”Â¡Un extraÃ±o! No. Â¿QuiÃ©n puede ser? No esperaba a nadie. Â¿Se ha ido?</p>
 
-                <p>—No; dijo que lo conocía desde hacía mucho tiempo y que podía
-                tomarse la libertad de instalarse aquí hasta que usted regresara.</p>
+                <p>â€”No; dijo que lo conocÃ­a desde hacÃ­a mucho tiempo y que podÃ­a
+                tomarse la libertad de instalarse aquÃ­ hasta que usted regresara.</p>
 
-                <p>—¡El diablo que lo hizo! ¿Dio su nombre?</p>
+                <p>â€”Â¡El diablo que lo hizo! Â¿Dio su nombre?</p>
 
-                <p>—Su nombre es Mason, señor; y viene de las Indias Occidentales;
+                <p>â€”Su nombre es Mason, seÃ±or; y viene de las Indias Occidentales;
                 de Spanish Town, en Jamaica, creo.</p>
 
-                <p>El señor Rochester estaba de pie cerca de mí; me había tomado la
+                <p>El seÃ±or Rochester estaba de pie cerca de mÃ­; me habÃ­a tomado la
                 mano, como para conducirme a una silla. Mientras yo hablaba, me
-                dio un apretón convulsivo en la muñeca; la sonrisa de sus labios se
-                congeló; aparentemente un espasmo le cortó la respiración.</p>
+                dio un apretÃ³n convulsivo en la muÃ±eca; la sonrisa de sus labios se
+                congelÃ³; aparentemente un espasmo le cortÃ³ la respiraciÃ³n.</p>
                 
-                <p>—¡Mason! ¡Las Indias Occidentales! —dijo, en el tono que uno
-                podría imaginar que un autómata parlante enuncia sus únicas
-                palabras—. ¡Mason! ¡Las Indias Occidentales! —reiteró; y repasó las
-                sílabas tres veces, volviéndose, en los intervalos de habla, más
-                blanco que la ceniza. Apenas parecía saber lo que estaba haciendo.</p>
+                <p>â€”Â¡Mason! Â¡Las Indias Occidentales! â€”dijo, en el tono que uno
+                podrÃ­a imaginar que un autÃ³mata parlante enuncia sus Ãºnicas
+                palabrasâ€”. Â¡Mason! Â¡Las Indias Occidentales! â€”reiterÃ³; y repasÃ³ las
+                sÃ­labas tres veces, volviÃ©ndose, en los intervalos de habla, mÃ¡s
+                blanco que la ceniza. Apenas parecÃ­a saber lo que estaba haciendo.</p>
 
-                <p>—¿Se encuentra mal, señor? —inquirí.</p>
+                <p>â€”Â¿Se encuentra mal, seÃ±or? â€”inquirÃ­.</p>
 
-                <p>—Jane, ¡he recibido un golpe! ¡He recibido un golpe, Jane! —Se tambaleó.</p>
+                <p>â€”Jane, Â¡he recibido un golpe! Â¡He recibido un golpe, Jane! â€”Se tambaleÃ³.</p>
 
-                <p>—Oh, apóyese en mí, señor.</p>
+                <p>â€”Oh, apÃ³yese en mÃ­, seÃ±or.</p>
 
-                <p>—Jane, me ofreciste tu hombro una vez antes; déjame tenerlo ahora.</p>
+                <p>â€”Jane, me ofreciste tu hombro una vez antes; dÃ©jame tenerlo ahora.</p>
 
-                <p>—Sí, señor, sí; y mi brazo.</p>
+                <p>â€”SÃ­, seÃ±or, sÃ­; y mi brazo.</p>
 
-                <p>Se sentó y me hizo sentar a su lado. Sosteniendo mi mano entre
-                las suyas, la frotó; mirándome, al mismo tiempo, con la mirada más
-                turbada y sombría.</p>
+                <p>Se sentÃ³ y me hizo sentar a su lado. Sosteniendo mi mano entre
+                las suyas, la frotÃ³; mirÃ¡ndome, al mismo tiempo, con la mirada mÃ¡s
+                turbada y sombrÃ­a.</p>
 
-                <p>—¡Mi pequeña amiga! —dijo—. Desearía estar en una isla
+                <p>â€”Â¡Mi pequeÃ±a amiga! â€”dijoâ€”. DesearÃ­a estar en una isla
                 tranquila solo contigo; y los problemas, y el peligro, y los recuerdos
-                espantosos alejados de mí.</p>
+                espantosos alejados de mÃ­.</p>
 
-                <p>—¿Puedo ayudarle, señor? Daría mi vida por servirle.</p>
+                <p>â€”Â¿Puedo ayudarle, seÃ±or? DarÃ­a mi vida por servirle.</p>
 
-                <p>—Jane, si se necesita ayuda, la buscaré en tus manos; te lo prometo.</p>
+                <p>â€”Jane, si se necesita ayuda, la buscarÃ© en tus manos; te lo prometo.</p>
 
-                <p>—Gracias, señor. Dígame qué hacer; intentaré, al menos, hacerlo.</p>
+                <p>â€”Gracias, seÃ±or. DÃ­game quÃ© hacer; intentarÃ©, al menos, hacerlo.</p>
 
-                <p>—Tráeme ahora, Jane, una copa de vino del comedor. Estarán
-                cenando allí. Y dime si Mason está con ellos y qué está haciendo.</p>
+                <p>â€”TrÃ¡eme ahora, Jane, una copa de vino del comedor. EstarÃ¡n
+                cenando allÃ­. Y dime si Mason estÃ¡ con ellos y quÃ© estÃ¡ haciendo.</p>
 
-                <p>Fui. Encontré a toda la comitiva en el comedor cenando, como
-                había dicho el señor Rochester. No estaban sentados a la mesa; la
-                cena estaba dispuesta en el aparador. Cada uno había tomado lo que
-                había querido y estaban de pie aquí y allá en grupos, con sus platos
-                y copas en las manos. Todos parecían de muy buen humor; la risa y
-                la conversación eran generales y animadas. El señor Mason estaba
-                de pie cerca del fuego, hablando con el Coronel y la señora Dent, y
-                parecía tan alegre como cualquiera de ellos. Llené una copa de vino
-                (vi a la señorita Ingram observarme con el ceño fruncido mientras lo
-                hacía; pensó que me estaba tomando una libertad, me atrevo a
-                decir) y regresé a la biblioteca.</p>
+                <p>Fui. EncontrÃ© a toda la comitiva en el comedor cenando, como
+                habÃ­a dicho el seÃ±or Rochester. No estaban sentados a la mesa; la
+                cena estaba dispuesta en el aparador. Cada uno habÃ­a tomado lo que
+                habÃ­a querido y estaban de pie aquÃ­ y allÃ¡ en grupos, con sus platos
+                y copas en las manos. Todos parecÃ­an de muy buen humor; la risa y
+                la conversaciÃ³n eran generales y animadas. El seÃ±or Mason estaba
+                de pie cerca del fuego, hablando con el Coronel y la seÃ±ora Dent, y
+                parecÃ­a tan alegre como cualquiera de ellos. LlenÃ© una copa de vino
+                (vi a la seÃ±orita Ingram observarme con el ceÃ±o fruncido mientras lo
+                hacÃ­a; pensÃ³ que me estaba tomando una libertad, me atrevo a
+                decir) y regresÃ© a la biblioteca.</p>
 
-                <p>La extrema palidez del señor Rochester había desaparecido y
-                volvía a parecer firme y severo. Tomó la copa de mi mano.</p>
+                <p>La extrema palidez del seÃ±or Rochester habÃ­a desaparecido y
+                volvÃ­a a parecer firme y severo. TomÃ³ la copa de mi mano.</p>
 
-                <p>—¡A tu salud, espíritu ministrador! —dijo. Se tragó el contenido y
-                me la devolvió—. ¿Qué están haciendo, Jane?</p>
+                <p>â€”Â¡A tu salud, espÃ­ritu ministrador! â€”dijo. Se tragÃ³ el contenido y
+                me la devolviÃ³â€”. Â¿QuÃ© estÃ¡n haciendo, Jane?</p>
 
-                <p>—Riendo y hablando, señor.</p>
+                <p>â€”Riendo y hablando, seÃ±or.</p>
 
-                <p>—¿No parecen graves y misteriosos, como si hubieran oído algo extraño?</p>
+                <p>â€”Â¿No parecen graves y misteriosos, como si hubieran oÃ­do algo extraÃ±o?</p>
 
-                <p>—En absoluto. Están llenos de bromas y alegría.</p>
+                <p>â€”En absoluto. EstÃ¡n llenos de bromas y alegrÃ­a.</p>
 
-                <p>—¿Y Mason?</p>
+                <p>â€”Â¿Y Mason?</p>
 
-                <p>—También se estaba riendo.</p>
+                <p>â€”TambiÃ©n se estaba riendo.</p>
 
-                <p>—Si toda esta gente entrara en masa y me escupiera, ¿qué harías, Jane?</p>
+                <p>â€”Si toda esta gente entrara en masa y me escupiera, Â¿quÃ© harÃ­as, Jane?</p>
 
-                <p>—Echarlos de la habitación, señor, si pudiera.</p>
+                <p>â€”Echarlos de la habitaciÃ³n, seÃ±or, si pudiera.</p>
 
-                <p>Sonrió a medias.</p>
+                <p>SonriÃ³ a medias.</p>
                 
-                <p>—Pero si yo fuera a ellos, y solo me miraran con frialdad y
-                susurraran con desdén entre ellos, y luego se fueran y me dejaran
-                uno por uno, ¿qué entonces? ¿Te irías con ellos?</p>
+                <p>â€”Pero si yo fuera a ellos, y solo me miraran con frialdad y
+                susurraran con desdÃ©n entre ellos, y luego se fueran y me dejaran
+                uno por uno, Â¿quÃ© entonces? Â¿Te irÃ­as con ellos?</p>
 
-                <p>—Más bien creo que no, señor. Tendría más placer en quedarme con usted.</p>
+                <p>â€”MÃ¡s bien creo que no, seÃ±or. TendrÃ­a mÃ¡s placer en quedarme con usted.</p>
 
-                <p>—¿Para consolarme?</p>
+                <p>â€”Â¿Para consolarme?</p>
 
-                <p>—Sí, señor, para consolarle, lo mejor que pudiera.</p>
+                <p>â€”SÃ­, seÃ±or, para consolarle, lo mejor que pudiera.</p>
 
-                <p>—¿Y si te proscribieran por adherirte a mí?</p>
+                <p>â€”Â¿Y si te proscribieran por adherirte a mÃ­?</p>
 
-                <p>—Yo, probablemente, no sabría nada de su proscripción; y si lo
-                supiera, no me importaría nada.</p>
+                <p>â€”Yo, probablemente, no sabrÃ­a nada de su proscripciÃ³n; y si lo
+                supiera, no me importarÃ­a nada.</p>
 
-                <p>—Entonces, ¿podrías atreverte a la censura por mi causa?</p>
+                <p>â€”Entonces, Â¿podrÃ­as atreverte a la censura por mi causa?</p>
 
-                <p>—Podría atreverme por la causa de cualquier amigo que mereciera
-                mi adhesión; como usted, estoy segura, merece.</p>
+                <p>â€”PodrÃ­a atreverme por la causa de cualquier amigo que mereciera
+                mi adhesiÃ³n; como usted, estoy segura, merece.</p>
 
-                <p>—Vuelve ahora a la habitación; acércate silenciosamente a Mason
-                y susúrrale al oído que el señor Rochester ha llegado y desea verlo.
-                Hazlo entrar aquí y luego déjame.</p>
+                <p>â€”Vuelve ahora a la habitaciÃ³n; acÃ©rcate silenciosamente a Mason
+                y susÃºrrale al oÃ­do que el seÃ±or Rochester ha llegado y desea verlo.
+                Hazlo entrar aquÃ­ y luego dÃ©jame.</p>
 
-                <p>—Sí, señor.</p>
+                <p>â€”SÃ­, seÃ±or.</p>
 
-                <p>Cumplí su mandato. Toda la compañía me miró fijamente mientras
-                pasaba directamente entre ellos. Busqué al señor Mason, le
-                entregué el mensaje y lo precedí fuera de la habitación. Lo conduje
-                a la biblioteca y luego subí las escaleras.</p>
+                <p>CumplÃ­ su mandato. Toda la compaÃ±Ã­a me mirÃ³ fijamente mientras
+                pasaba directamente entre ellos. BusquÃ© al seÃ±or Mason, le
+                entreguÃ© el mensaje y lo precedÃ­ fuera de la habitaciÃ³n. Lo conduje
+                a la biblioteca y luego subÃ­ las escaleras.</p>
 
-                <p>A una hora tardía, después de haber estado un tiempo en la
-                cama, oí a los visitantes retirarse a sus aposentos. Distinguí la voz
-                del señor Rochester y le oí decir:</p>
+                <p>A una hora tardÃ­a, despuÃ©s de haber estado un tiempo en la
+                cama, oÃ­ a los visitantes retirarse a sus aposentos. DistinguÃ­ la voz
+                del seÃ±or Rochester y le oÃ­ decir:</p>
 
-                <p>—Por aquí, Mason; esta es su habitación.</p>
+                <p>â€”Por aquÃ­, Mason; esta es su habitaciÃ³n.</p>
 
-                <p>Habló alegremente. Los tonos joviales tranquilizaron mi corazón.
-                Pronto me quedé dormida.</p>
+                <p>HablÃ³ alegremente. Los tonos joviales tranquilizaron mi corazÃ³n.
+                Pronto me quedÃ© dormida.</p>
 
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap18.php" rel="prev">Anterior</a>
-                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menÃº de capÃ­tulos</a>
                     <a class="cambioSiguiente" href="cap20.php" rel="next">Siguiente</a>
                 </div>
             </section>

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Capítulo 26</title>
+    <title>CapÃ­tulo 26</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el capítulo 26">
+    <meta name="description" content="Este es el capÃ­tulo 26">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -39,21 +39,21 @@
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
+                        <li><a href="../../intro_obra.php">IntroducciÃ³n a la obra</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contenido_eyre.php">Contenido</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
-                                <li><a href="../../capitulos.php">Capítulos</a></li>
+                                <li><a href="../../resumenes/resumenes.php">ResÃºmenes</a></li>
+                                <li><a href="../../capitulos.php">CapÃ­tulos</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
-                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
+                                <li><a href="charlotte.php">Charlotte BrontÃ«</a></li>
+                                <li><a href="contexto_historico.php">Contexto histÃ³rico</a></li>
                             </ul>
                         </li>
 
@@ -61,7 +61,7 @@
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">Símbolos</a></li>
+                                <li><a href="simbolos.php">SÃ­mbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
                                 <li><a href="mapa.php">Mapa</a></li>
@@ -82,537 +82,537 @@
             </div>
             
             <section class="contenido">
-                <h1>Capítulo XXVI</h1>
+                <h1>CapÃ­tulo XXVI</h1>
                 
-                <p>Sophie vino a las siete a vestirme. Se demoró mucho, en verdad, en
-                cumplir su tarea; tanto que el señor Rochester, supongo que
-                impaciente por mi tardanza, mandó a preguntar por qué no venía.
+                <p>Sophie vino a las siete a vestirme. Se demorÃ³ mucho, en verdad, en
+                cumplir su tarea; tanto que el seÃ±or Rochester, supongo que
+                impaciente por mi tardanza, mandÃ³ a preguntar por quÃ© no venÃ­a.
                 Justo me estaba sujetando el velo (el sencillo cuadrado de blonda,
-                después de todo) al pelo con un broche; me escabullí de sus manos
+                despuÃ©s de todo) al pelo con un broche; me escabullÃ­ de sus manos
                 tan pronto como pude.</p>
 
-                <p>—¡Deténgase! —gritó en francés—. Mírese en el espejo, no se ha
+                <p>â€”Â¡DetÃ©ngase! â€”gritÃ³ en francÃ©sâ€”. MÃ­rese en el espejo, no se ha
                 echado ni un vistazo.</p>
 
-                <p>Así que me volví en la puerta. Vi una figura vestida y velada, tan
-                diferente a mi yo habitual que parecía casi la imagen de una
-                extraña.</p>
+                <p>AsÃ­ que me volvÃ­ en la puerta. Vi una figura vestida y velada, tan
+                diferente a mi yo habitual que parecÃ­a casi la imagen de una
+                extraÃ±a.</p>
 
-                <p>—¡Jane! —llamó una voz, y bajé apresuradamente. Fui recibida al
-                pie de las escaleras por el señor Rochester.</p>
+                <p>â€”Â¡Jane! â€”llamÃ³ una voz, y bajÃ© apresuradamente. Fui recibida al
+                pie de las escaleras por el seÃ±or Rochester.</p>
 
-                <p>—¡Tardona! —dijo—. ¡Mi cerebro arde de impaciencia y tú te
+                <p>â€”Â¡Tardona! â€”dijoâ€”. Â¡Mi cerebro arde de impaciencia y tÃº te
                 demoras tanto!</p>
 
-                <p>Me llevó al comedor, me examinó atentamente de arriba abajo,
-                me declaró «hermosa como un lirio y no solo el orgullo de su vida,
-                sino el deseo de sus ojos», y luego, diciéndome que me daría solo
-                diez minutos para desayunar, tocó la campanilla. Uno de sus criados
-                recién contratados, un lacayo, respondió.</p>
+                <p>Me llevÃ³ al comedor, me examinÃ³ atentamente de arriba abajo,
+                me declarÃ³ Â«hermosa como un lirio y no solo el orgullo de su vida,
+                sino el deseo de sus ojosÂ», y luego, diciÃ©ndome que me darÃ­a solo
+                diez minutos para desayunar, tocÃ³ la campanilla. Uno de sus criados
+                reciÃ©n contratados, un lacayo, respondiÃ³.</p>
 
-                <p>—¿Está John preparando el carruaje?</p>
+                <p>â€”Â¿EstÃ¡ John preparando el carruaje?</p>
 
-                <p>—Sí, señor.</p>
+                <p>â€”SÃ­, seÃ±or.</p>
 
-                <p>—¿Se ha bajado el equipaje?</p>
+                <p>â€”Â¿Se ha bajado el equipaje?</p>
 
-                <p>—Lo están bajando, señor.</p>
+                <p>â€”Lo estÃ¡n bajando, seÃ±or.</p>
 
-                <p>—Ve a la iglesia, mira si el señor Wood (el clérigo) y el sacristán
-                están allí. Vuelve y dímelo.</p>
+                <p>â€”Ve a la iglesia, mira si el seÃ±or Wood (el clÃ©rigo) y el sacristÃ¡n
+                estÃ¡n allÃ­. Vuelve y dÃ­melo.</p>
 
                 <p>La iglesia, como sabe el lector, estaba justo al otro lado de las
-                verjas; el lacayo regresó pronto.</p>
+                verjas; el lacayo regresÃ³ pronto.</p>
 
-                <p>—El señor Wood está en la sacristía, señor, poniéndose la sobrepelliz.</p>
+                <p>â€”El seÃ±or Wood estÃ¡ en la sacristÃ­a, seÃ±or, poniÃ©ndose la sobrepelliz.</p>
 
-                <p>—¿Y el carruaje?</p>
+                <p>â€”Â¿Y el carruaje?</p>
 
-                <p>—Están enjaezando los caballos.</p>
+                <p>â€”EstÃ¡n enjaezando los caballos.</p>
 
-                <p>—No lo necesitaremos para ir a la iglesia; pero debe estar listo en
+                <p>â€”No lo necesitaremos para ir a la iglesia; pero debe estar listo en
                 el momento en que regresemos. Todas las cajas y el equipaje
                 arreglados y atados, y el cochero en su asiento.</p>
 
-                <p>—Sí, señor.</p>
+                <p>â€”SÃ­, seÃ±or.</p>
 
-                <p>—Jane, ¿estás lista?</p>
+                <p>â€”Jane, Â¿estÃ¡s lista?</p>
 
-                <p>Me levanté. No había padrinos, ni damas de honor, ni parientes a
-                quienes esperar o dirigir; nadie más que el señor Rochester y yo. La
-                señora Fairfax estaba de pie en el vestíbulo cuando pasamos. De
-                buena gana le habría hablado, pero mi mano estaba sujeta por un
-                agarre de hierro. Fui arrastrada por una zancada que apenas podía
-                seguir; y mirar el rostro del señor Rochester era sentir que no se
-                toleraría ni un segundo de retraso para ningún propósito. Me
-                pregunto qué otro novio habrá tenido el aspecto que él tenía, tan
-                decidido a un propósito, tan sombríamente resuelto; o quién, bajo
-                cejas tan firmes, habrá revelado jamás ojos tan llameantes y
+                <p>Me levantÃ©. No habÃ­a padrinos, ni damas de honor, ni parientes a
+                quienes esperar o dirigir; nadie mÃ¡s que el seÃ±or Rochester y yo. La
+                seÃ±ora Fairfax estaba de pie en el vestÃ­bulo cuando pasamos. De
+                buena gana le habrÃ­a hablado, pero mi mano estaba sujeta por un
+                agarre de hierro. Fui arrastrada por una zancada que apenas podÃ­a
+                seguir; y mirar el rostro del seÃ±or Rochester era sentir que no se
+                tolerarÃ­a ni un segundo de retraso para ningÃºn propÃ³sito. Me
+                pregunto quÃ© otro novio habrÃ¡ tenido el aspecto que Ã©l tenÃ­a, tan
+                decidido a un propÃ³sito, tan sombrÃ­amente resuelto; o quiÃ©n, bajo
+                cejas tan firmes, habrÃ¡ revelado jamÃ¡s ojos tan llameantes y
                 centelleantes.</p>
 
-                <p>No sé si el día era bueno o malo; al descender por el camino de
-                entrada, no miré ni al cielo ni a la tierra. Mi corazón estaba con mis
-                ojos; y ambos parecían haber migrado al cuerpo del señor
-                Rochester. Quería ver la cosa invisible en la que, mientras
-                avanzábamos, él parecía fijar una mirada fiera y cruel. Quería sentir
-                los pensamientos cuya fuerza parecía él afrontar y resistir.</p>
+                <p>No sÃ© si el dÃ­a era bueno o malo; al descender por el camino de
+                entrada, no mirÃ© ni al cielo ni a la tierra. Mi corazÃ³n estaba con mis
+                ojos; y ambos parecÃ­an haber migrado al cuerpo del seÃ±or
+                Rochester. QuerÃ­a ver la cosa invisible en la que, mientras
+                avanzÃ¡bamos, Ã©l parecÃ­a fijar una mirada fiera y cruel. QuerÃ­a sentir
+                los pensamientos cuya fuerza parecÃ­a Ã©l afrontar y resistir.</p>
 
-                <p>En la portilla del cementerio se detuvo. Descubrió que yo estaba
+                <p>En la portilla del cementerio se detuvo. DescubriÃ³ que yo estaba
                 completamente sin aliento.</p>
 
-                <p>—¿Soy cruel en mi amor? —dijo—. Detente un instante; apóyate en mí, Jane.</p>
+                <p>â€”Â¿Soy cruel en mi amor? â€”dijoâ€”. Detente un instante; apÃ³yate en mÃ­, Jane.</p>
 
                 <p>Y ahora puedo recordar la imagen de la vieja casa de Dios gris
-                alzándose tranquila ante mí, de una graja girando alrededor del
-                campanario, de un cielo matutino rojizo más allá. Recuerdo algo,
-                también, de los verdes túmulos de las tumbas; y no he olvidado,
-                tampoco, dos figuras de extraños que vagaban entre las pequeñas
-                colinas y leían los recordatorios grabados en las pocas lápidas
-                cubiertas de musgo. Me fijé en ellos porque, al vernos, pasaron a la
-                parte trasera de la iglesia; y no dudé de que iban a entrar por la
-                puerta del pasillo lateral y presenciar la ceremonia. El señor
-                Rochester no los observó; miraba seriamente mi rostro, del que la
-                sangre, me atrevo a decir, había huido momentáneamente, pues
-                sentí mi frente húmeda y mis mejillas y labios fríos. Cuando me
-                recuperé, lo que hice pronto, caminó suavemente conmigo por el
+                alzÃ¡ndose tranquila ante mÃ­, de una graja girando alrededor del
+                campanario, de un cielo matutino rojizo mÃ¡s allÃ¡. Recuerdo algo,
+                tambiÃ©n, de los verdes tÃºmulos de las tumbas; y no he olvidado,
+                tampoco, dos figuras de extraÃ±os que vagaban entre las pequeÃ±as
+                colinas y leÃ­an los recordatorios grabados en las pocas lÃ¡pidas
+                cubiertas de musgo. Me fijÃ© en ellos porque, al vernos, pasaron a la
+                parte trasera de la iglesia; y no dudÃ© de que iban a entrar por la
+                puerta del pasillo lateral y presenciar la ceremonia. El seÃ±or
+                Rochester no los observÃ³; miraba seriamente mi rostro, del que la
+                sangre, me atrevo a decir, habÃ­a huido momentÃ¡neamente, pues
+                sentÃ­ mi frente hÃºmeda y mis mejillas y labios frÃ­os. Cuando me
+                recuperÃ©, lo que hice pronto, caminÃ³ suavemente conmigo por el
                 sendero hasta el porche.</p>
 
                 <p>Entramos en el templo tranquilo y humilde; el sacerdote esperaba
-                con su sobrepelliz blanca en el modesto altar, el sacristán a su lado.
-                Todo estaba en silencio; solo dos sombras se movían en un rincón
-                remoto. Mi conjetura había sido correcta: los extraños se habían
+                con su sobrepelliz blanca en el modesto altar, el sacristÃ¡n a su lado.
+                Todo estaba en silencio; solo dos sombras se movÃ­an en un rincÃ³n
+                remoto. Mi conjetura habÃ­a sido correcta: los extraÃ±os se habÃ­an
                 deslizado antes que nosotros y ahora estaban de pie junto a la cripta
-                de los Rochester, de espaldas a nosotros, contemplando a través de
-                las rejas la antigua tumba de mármol manchada por el tiempo,
-                donde un ángel arrodillado guardaba los restos de Damer de
+                de los Rochester, de espaldas a nosotros, contemplando a travÃ©s de
+                las rejas la antigua tumba de mÃ¡rmol manchada por el tiempo,
+                donde un Ã¡ngel arrodillado guardaba los restos de Damer de
                 Rochester, muerto en Marston Moor en tiempos de las guerras
                 civiles, y de Elizabeth, su esposa.</p>
 
-                <p>Tomamos nuestro lugar en el comulgatorio. Al oír un paso
-                cauteloso detrás de mí, miré por encima del hombro: uno de los
-                extraños —un caballero, evidentemente— avanzaba por el
-                presbiterio. El servicio comenzó. Se leyó la explicación del propósito
-                del matrimonio; y luego el clérigo avanzó un paso más y,
-                inclinándose ligeramente hacia el señor Rochester, continuó.</p>
+                <p>Tomamos nuestro lugar en el comulgatorio. Al oÃ­r un paso
+                cauteloso detrÃ¡s de mÃ­, mirÃ© por encima del hombro: uno de los
+                extraÃ±os â€”un caballero, evidentementeâ€” avanzaba por el
+                presbiterio. El servicio comenzÃ³. Se leyÃ³ la explicaciÃ³n del propÃ³sito
+                del matrimonio; y luego el clÃ©rigo avanzÃ³ un paso mÃ¡s y,
+                inclinÃ¡ndose ligeramente hacia el seÃ±or Rochester, continuÃ³.</p>
 
-                <p>—Os requiero y conmino a ambos (así como responderéis en el
-                temible día del juicio, cuando los secretos de todos los corazones
-                serán revelados), que si alguno de vosotros sabe de algún
-                impedimento por el cual no podáis ser legalmente unidos en
-                matrimonio, lo confeséis ahora; pues tened por bien seguro que
+                <p>â€”Os requiero y conmino a ambos (asÃ­ como responderÃ©is en el
+                temible dÃ­a del juicio, cuando los secretos de todos los corazones
+                serÃ¡n revelados), que si alguno de vosotros sabe de algÃºn
+                impedimento por el cual no podÃ¡is ser legalmente unidos en
+                matrimonio, lo confesÃ©is ahora; pues tened por bien seguro que
                 tantos como se unen de otra manera que la Palabra de Dios permite,
-                no son unidos por Dios, ni su matrimonio es lícito.</p>
+                no son unidos por Dios, ni su matrimonio es lÃ­cito.</p>
 
-                <p>Hizo una pausa, como es costumbre. ¿Cuándo se rompe la pausa
-                después de esa sentencia? Quizás, ni una vez en cien años. Y el
-                clérigo, que no había levantado los ojos de su libro y había
-                contenido la respiración solo por un momento, iba a proseguir. Su
-                mano ya estaba extendida hacia el señor Rochester, mientras sus
-                labios se abrían para preguntar: «¿Quieres a esta mujer por tu
-                legítima esposa?», cuando una voz nítida y cercana dijo:</p>
+                <p>Hizo una pausa, como es costumbre. Â¿CuÃ¡ndo se rompe la pausa
+                despuÃ©s de esa sentencia? QuizÃ¡s, ni una vez en cien aÃ±os. Y el
+                clÃ©rigo, que no habÃ­a levantado los ojos de su libro y habÃ­a
+                contenido la respiraciÃ³n solo por un momento, iba a proseguir. Su
+                mano ya estaba extendida hacia el seÃ±or Rochester, mientras sus
+                labios se abrÃ­an para preguntar: Â«Â¿Quieres a esta mujer por tu
+                legÃ­tima esposa?Â», cuando una voz nÃ­tida y cercana dijo:</p>
 
-                <p>—El matrimonio no puede continuar. Declaro la existencia de un impedimento.</p>
+                <p>â€”El matrimonio no puede continuar. Declaro la existencia de un impedimento.</p>
 
-                <p>El clérigo levantó la vista hacia el que hablaba y se quedó mudo;
-                el sacristán hizo lo mismo. El señor Rochester se movió ligeramente,
+                <p>El clÃ©rigo levantÃ³ la vista hacia el que hablaba y se quedÃ³ mudo;
+                el sacristÃ¡n hizo lo mismo. El seÃ±or Rochester se moviÃ³ ligeramente,
                 como si un terremoto hubiera rodado bajo sus pies. Tomando un
-                apoyo más firme y sin volver la cabeza ni los ojos, dijo:</p>
+                apoyo mÃ¡s firme y sin volver la cabeza ni los ojos, dijo:</p>
 
-                <p>—Prosiga.</p>
+                <p>â€”Prosiga.</p>
 
-                <p>Un profundo silencio cayó cuando hubo pronunciado esa palabra,
-                con una entonación profunda pero baja. Al instante, el señor Wood
+                <p>Un profundo silencio cayÃ³ cuando hubo pronunciado esa palabra,
+                con una entonaciÃ³n profunda pero baja. Al instante, el seÃ±or Wood
                 dijo:</p>
 
-                <p>—No puedo proseguir sin alguna investigación sobre lo que se ha
+                <p>â€”No puedo proseguir sin alguna investigaciÃ³n sobre lo que se ha
                 afirmado y pruebas de su verdad o falsedad.</p>
 
-                <p>—La ceremonia está completamente rota —añadió la voz detrás
-                de nosotros—. Estoy en condiciones de probar mi alegato: existe un
+                <p>â€”La ceremonia estÃ¡ completamente rota â€”aÃ±adiÃ³ la voz detrÃ¡s
+                de nosotrosâ€”. Estoy en condiciones de probar mi alegato: existe un
                 impedimento insuperable para este matrimonio.</p>
 
-                <p>El señor Rochester oyó, pero no hizo caso. Permaneció terco y
-                rígido, sin hacer otro movimiento que el de apoderarse de mi mano.
-                ¡Qué agarre tan caliente y fuerte tenía! ¡Y qué parecido al mármol
-                de cantera era su frente pálida, firme y maciza en ese momento!
-                ¡Cómo brillaba su ojo, todavía vigilante y, sin embargo, salvaje por
+                <p>El seÃ±or Rochester oyÃ³, pero no hizo caso. PermaneciÃ³ terco y
+                rÃ­gido, sin hacer otro movimiento que el de apoderarse de mi mano.
+                Â¡QuÃ© agarre tan caliente y fuerte tenÃ­a! Â¡Y quÃ© parecido al mÃ¡rmol
+                de cantera era su frente pÃ¡lida, firme y maciza en ese momento!
+                Â¡CÃ³mo brillaba su ojo, todavÃ­a vigilante y, sin embargo, salvaje por
                 debajo!</p>
 
-                <p>El señor Wood parecía perdido.</p>
+                <p>El seÃ±or Wood parecÃ­a perdido.</p>
 
-                <p>—¿Cuál es la naturaleza del impedimento? —preguntó—. ¿Quizás
+                <p>â€”Â¿CuÃ¡l es la naturaleza del impedimento? â€”preguntÃ³â€”. Â¿QuizÃ¡s
                 se pueda superar, explicar?</p>
 
-                <p>—Difícilmente —fue la respuesta—. Lo he llamado insuperable, y
+                <p>â€”DifÃ­cilmente â€”fue la respuestaâ€”. Lo he llamado insuperable, y
                 hablo con conocimiento de causa.</p>
 
-                <p>El que hablaba se adelantó y se apoyó en la barandilla. Continuó,
+                <p>El que hablaba se adelantÃ³ y se apoyÃ³ en la barandilla. ContinuÃ³,
                 pronunciando cada palabra distintamente, con calma, con firmeza,
                 pero no en voz alta:</p>
 
-                <p>—Simplemente consiste en la existencia de un matrimonio previo.
-                El señor Rochester tiene una esposa viva actualmente.</p>
+                <p>â€”Simplemente consiste en la existencia de un matrimonio previo.
+                El seÃ±or Rochester tiene una esposa viva actualmente.</p>
 
                 <p>Mis nervios vibraron ante esas palabras pronunciadas en voz baja
-                como nunca habían vibrado ante un trueno; mi sangre sintió su sutil
-                violencia como nunca había sentido la escarcha o el fuego. Pero
-                estaba serena y no corría peligro de desmayarme. Miré al señor
+                como nunca habÃ­an vibrado ante un trueno; mi sangre sintiÃ³ su sutil
+                violencia como nunca habÃ­a sentido la escarcha o el fuego. Pero
+                estaba serena y no corrÃ­a peligro de desmayarme. MirÃ© al seÃ±or
                 Rochester; le hice mirarme. Todo su rostro era roca incolora; su ojo
-                era a la vez chispa y pedernal. No desmintió nada; parecía como si
-                fuera a desafiar todas las cosas. Sin hablar, sin sonreír, sin parecer
-                reconocer en mí a un ser humano, solo rodeó mi cintura con su
-                brazo y me remachó a su lado.</p>
+                era a la vez chispa y pedernal. No desmintiÃ³ nada; parecÃ­a como si
+                fuera a desafiar todas las cosas. Sin hablar, sin sonreÃ­r, sin parecer
+                reconocer en mÃ­ a un ser humano, solo rodeÃ³ mi cintura con su
+                brazo y me remachÃ³ a su lado.</p>
 
-                <p>—¿Quién es usted? —le preguntó al intruso.</p>
+                <p>â€”Â¿QuiÃ©n es usted? â€”le preguntÃ³ al intruso.</p>
 
-                <p>—Mi nombre es Briggs, un abogado de la calle..., Londres.</p>
+                <p>â€”Mi nombre es Briggs, un abogado de la calle..., Londres.</p>
 
-                <p>—¿Y querría imponerme una esposa?</p>
+                <p>â€”Â¿Y querrÃ­a imponerme una esposa?</p>
 
-                <p>—Quisiera recordarle la existencia de su señora, señor, que la ley
+                <p>â€”Quisiera recordarle la existencia de su seÃ±ora, seÃ±or, que la ley
                 reconoce, si usted no lo hace.</p>
 
-                <p>—Favorézcame con un relato de ella, con su nombre, su linaje, su
+                <p>â€”FavorÃ©zcame con un relato de ella, con su nombre, su linaje, su
                 lugar de residencia.</p>
 
-                <p>—Ciertamente. —El señor Briggs sacó tranquilamente un papel de
-                su bolsillo y leyó con una especie de voz oficial y nasal:</p>
+                <p>â€”Ciertamente. â€”El seÃ±or Briggs sacÃ³ tranquilamente un papel de
+                su bolsillo y leyÃ³ con una especie de voz oficial y nasal:</p>
 
-                <p>»“Afirmo y puedo probar que el 20 de octubre del año de nuestro
-                Señor... (una fecha de hace quince años), Edward Fairfax Rochester,
+                <p>Â»â€œAfirmo y puedo probar que el 20 de octubre del aÃ±o de nuestro
+                SeÃ±or... (una fecha de hace quince aÃ±os), Edward Fairfax Rochester,
                 de Thornfield Hall, en el condado de ..., y de Ferndean Manor, en
-                ...shire, Inglaterra, se casó con mi hermana, Bertha Antoinetta
+                ...shire, Inglaterra, se casÃ³ con mi hermana, Bertha Antoinetta
                 Mason, hija de Jonas Mason, comerciante, y de Antoinetta, su
                 esposa, una criolla, en la iglesia de ..., Spanish Town, Jamaica. El
-                registro del matrimonio se encontrará en el registro de esa iglesia;
-                una copia del mismo está ahora en mi posesión. Firmado, Richard
-                Mason”.</p>
+                registro del matrimonio se encontrarÃ¡ en el registro de esa iglesia;
+                una copia del mismo estÃ¡ ahora en mi posesiÃ³n. Firmado, Richard
+                Masonâ€.</p>
 
-                <p>—Eso, si es un documento genuino, puede probar que he estado
-                casado, pero no prueba que la mujer mencionada en él como mi
-                esposa todavía esté viva.</p>
+                <p>â€”Eso, si es un documento genuino, puede probar que he estado
+                casado, pero no prueba que la mujer mencionada en Ã©l como mi
+                esposa todavÃ­a estÃ© viva.</p>
 
-                <p>—Estaba viva hace tres meses —respondió el abogado.</p>
+                <p>â€”Estaba viva hace tres meses â€”respondiÃ³ el abogado.</p>
 
-                <p>—¿Cómo lo sabe?</p>
+                <p>â€”Â¿CÃ³mo lo sabe?</p>
 
-                <p>—Tengo un testigo del hecho, cuyo testimonio ni siquiera usted,
-                señor, se atreverá a contradecir.</p>
+                <p>â€”Tengo un testigo del hecho, cuyo testimonio ni siquiera usted,
+                seÃ±or, se atreverÃ¡ a contradecir.</p>
 
-                <p>—Preséntelo, o váyase al infierno.</p>
+                <p>â€”PresÃ©ntelo, o vÃ¡yase al infierno.</p>
 
-                <p>—Lo presentaré primero; está aquí mismo. Señor Mason, tenga la
+                <p>â€”Lo presentarÃ© primero; estÃ¡ aquÃ­ mismo. SeÃ±or Mason, tenga la
                 bondad de adelantarse.</p>
 
-                <p>El señor Rochester, al oír el nombre, apretó los dientes;
-                experimentó, también, una especie de fuerte temblor convulsivo.
-                Tan cerca de él como estaba, sentí el movimiento espasmódico de
-                furia o desesperación recorrer su cuerpo. El segundo extraño, que
-                hasta entonces se había mantenido en segundo plano, se acercó
-                ahora; un rostro pálido se asomó por encima del hombro del
-                abogado. Sí, era el propio Mason. El señor Rochester se volvió y lo
-                fulminó con la mirada. Su ojo, como he dicho a menudo, era un ojo
-                negro; ahora tenía una luz leonada, no, una luz sanguinaria en su
-                penumbra; y su rostro se sonrojó: mejilla olivácea y frente incolora
-                recibieron un brillo como de un fuego cardíaco que se extendía y
-                ascendía. Y se movió, levantó su fuerte brazo; podría haber
+                <p>El seÃ±or Rochester, al oÃ­r el nombre, apretÃ³ los dientes;
+                experimentÃ³, tambiÃ©n, una especie de fuerte temblor convulsivo.
+                Tan cerca de Ã©l como estaba, sentÃ­ el movimiento espasmÃ³dico de
+                furia o desesperaciÃ³n recorrer su cuerpo. El segundo extraÃ±o, que
+                hasta entonces se habÃ­a mantenido en segundo plano, se acercÃ³
+                ahora; un rostro pÃ¡lido se asomÃ³ por encima del hombro del
+                abogado. SÃ­, era el propio Mason. El seÃ±or Rochester se volviÃ³ y lo
+                fulminÃ³ con la mirada. Su ojo, como he dicho a menudo, era un ojo
+                negro; ahora tenÃ­a una luz leonada, no, una luz sanguinaria en su
+                penumbra; y su rostro se sonrojÃ³: mejilla olivÃ¡cea y frente incolora
+                recibieron un brillo como de un fuego cardÃ­aco que se extendÃ­a y
+                ascendÃ­a. Y se moviÃ³, levantÃ³ su fuerte brazo; podrÃ­a haber
                 golpeado a Mason, haberlo arrojado al suelo de la iglesia, haberle
                 arrancado el aliento con un golpe despiadado. Pero Mason se
-                encogió y gritó débilmente: «¡Santo Dios!». El desprecio cayó frío
-                sobre el señor Rochester; su pasión murió como si una plaga la
-                hubiera marchitado. Solo preguntó:</p>
+                encogiÃ³ y gritÃ³ dÃ©bilmente: Â«Â¡Santo Dios!Â». El desprecio cayÃ³ frÃ­o
+                sobre el seÃ±or Rochester; su pasiÃ³n muriÃ³ como si una plaga la
+                hubiera marchitado. Solo preguntÃ³:</p>
 
-                <p>—¿Qué tiene usted que decir?</p>
+                <p>â€”Â¿QuÃ© tiene usted que decir?</p>
 
-                <p>Una respuesta inaudible escapó de los labios blancos de Mason.</p>
+                <p>Una respuesta inaudible escapÃ³ de los labios blancos de Mason.</p>
 
-                <p>—El diablo está en ello si no puede responder claramente. Vuelvo
-                a exigir, ¿qué tiene usted que decir?</p>
+                <p>â€”El diablo estÃ¡ en ello si no puede responder claramente. Vuelvo
+                a exigir, Â¿quÃ© tiene usted que decir?</p>
 
-                <p>—Señor, señor —interrumpió el clérigo—, no olvide que está en un
-                lugar sagrado. —Luego, dirigiéndose a Mason, inquirió amablemente
-                —: ¿Es usted consciente, señor, de si la esposa de este caballero
+                <p>â€”SeÃ±or, seÃ±or â€”interrumpiÃ³ el clÃ©rigoâ€”, no olvide que estÃ¡ en un
+                lugar sagrado. â€”Luego, dirigiÃ©ndose a Mason, inquiriÃ³ amablemente
+                â€”: Â¿Es usted consciente, seÃ±or, de si la esposa de este caballero
                 sigue viva o no?</p>
 
-                <p>—Valor —le instó el abogado—, hable claro.</p>
+                <p>â€”Valor â€”le instÃ³ el abogadoâ€”, hable claro.</p>
 
-                <p>—Actualmente vive en Thornfield Hall —dijo Mason, con tonos
-                más articulados—. La vi allí el pasado abril. Soy su hermano.</p>
+                <p>â€”Actualmente vive en Thornfield Hall â€”dijo Mason, con tonos
+                mÃ¡s articuladosâ€”. La vi allÃ­ el pasado abril. Soy su hermano.</p>
 
-                <p>—¡En Thornfield Hall! —exclamó el clérigo—. ¡Imposible! Soy un
-                viejo residente de esta vecindad, señor, y nunca he oído hablar de
-                una señora Rochester en Thornfield Hall.</p>
+                <p>â€”Â¡En Thornfield Hall! â€”exclamÃ³ el clÃ©rigoâ€”. Â¡Imposible! Soy un
+                viejo residente de esta vecindad, seÃ±or, y nunca he oÃ­do hablar de
+                una seÃ±ora Rochester en Thornfield Hall.</p>
 
-                <p>Vi una sonrisa sombría contorsionar los labios del señor Rochester,
-                y murmuró:</p>
+                <p>Vi una sonrisa sombrÃ­a contorsionar los labios del seÃ±or Rochester,
+                y murmurÃ³:</p>
 
-                <p>—¡No, por Dios! Me encargué de que nadie oyera hablar de ello, ni
-                de ella bajo ese nombre. —Meditó; durante diez minutos deliberó
-                consigo mismo. Tomó su resolución y la anunció:</p>
+                <p>â€”Â¡No, por Dios! Me encarguÃ© de que nadie oyera hablar de ello, ni
+                de ella bajo ese nombre. â€”MeditÃ³; durante diez minutos deliberÃ³
+                consigo mismo. TomÃ³ su resoluciÃ³n y la anunciÃ³:</p>
 
-                <p>»¡Basta! Todo saldrá a la luz de una vez, como la bala del cañón.
-                Wood, cierre su libro y quítese la sobrepelliz; John Green (al
-                sacristán), abandone la iglesia. No habrá boda hoy. —El hombre
-                obedeció.</p>
+                <p>Â»Â¡Basta! Todo saldrÃ¡ a la luz de una vez, como la bala del caÃ±Ã³n.
+                Wood, cierre su libro y quÃ­tese la sobrepelliz; John Green (al
+                sacristÃ¡n), abandone la iglesia. No habrÃ¡ boda hoy. â€”El hombre
+                obedeciÃ³.</p>
 
-                <p>El señor Rochester continuó, con dureza y temeridad:</p>
+                <p>El seÃ±or Rochester continuÃ³, con dureza y temeridad:</p>
 
-                <p>»¡Bigamia es una palabra fea! Sin embargo, tenía la intención de
-                ser un bígamo; pero el destino me ha superado en la maniobra, o la
-                Providencia me ha frenado, quizás lo último. Soy poco mejor que un
-                demonio en este momento; y, como mi pastor de ahí me diría,
-                merezco sin duda los juicios más severos de Dios, hasta el fuego
+                <p>Â»Â¡Bigamia es una palabra fea! Sin embargo, tenÃ­a la intenciÃ³n de
+                ser un bÃ­gamo; pero el destino me ha superado en la maniobra, o la
+                Providencia me ha frenado, quizÃ¡s lo Ãºltimo. Soy poco mejor que un
+                demonio en este momento; y, como mi pastor de ahÃ­ me dirÃ­a,
+                merezco sin duda los juicios mÃ¡s severos de Dios, hasta el fuego
                 inextinguible y el gusano inmortal. Caballeros, mi plan se ha roto. Lo
-                que este abogado y su cliente dicen es cierto. ¡He estado casado y la
-                mujer con la que me casé vive! Dice usted que nunca oyó hablar de
-                una señora Rochester en la casa de allá arriba, Wood; pero me
-                atrevo a decir que muchas veces ha inclinado el oído a los chismes
-                sobre la misteriosa lunática que se mantiene allí bajo vigilancia y
+                que este abogado y su cliente dicen es cierto. Â¡He estado casado y la
+                mujer con la que me casÃ© vive! Dice usted que nunca oyÃ³ hablar de
+                una seÃ±ora Rochester en la casa de allÃ¡ arriba, Wood; pero me
+                atrevo a decir que muchas veces ha inclinado el oÃ­do a los chismes
+                sobre la misteriosa lunÃ¡tica que se mantiene allÃ­ bajo vigilancia y
                 custodia. Algunos le han susurrado que es mi media hermana
                 bastarda; otros, mi amante repudiada. Ahora les informo que es mi
-                esposa, con quien me casé hace quince años, Bertha Mason de
+                esposa, con quien me casÃ© hace quince aÃ±os, Bertha Mason de
                 nombre; hermana de este resuelto personaje, que ahora, con sus
-                miembros temblorosos y sus mejillas blancas, les está mostrando
-                qué corazón tan valiente pueden tener los hombres. ¡Ánimo, Dick!
-                ¡No me temas! Casi preferiría golpear a una mujer que a ti. Bertha
-                Mason está loca; y proviene de una familia de locos; ¡idiotas y
-                maníacos a través de tres generaciones! Su madre, la criolla, era a la
-                vez una loca y una borracha, como descubrí después de haberme
+                miembros temblorosos y sus mejillas blancas, les estÃ¡ mostrando
+                quÃ© corazÃ³n tan valiente pueden tener los hombres. Â¡Ãnimo, Dick!
+                Â¡No me temas! Casi preferirÃ­a golpear a una mujer que a ti. Bertha
+                Mason estÃ¡ loca; y proviene de una familia de locos; Â¡idiotas y
+                manÃ­acos a travÃ©s de tres generaciones! Su madre, la criolla, era a la
+                vez una loca y una borracha, como descubrÃ­ despuÃ©s de haberme
                 casado con la hija, pues guardaron silencio sobre los secretos
-                familiares antes. Bertha, como una hija obediente, copió a su
+                familiares antes. Bertha, como una hija obediente, copiÃ³ a su
                 progenitora en ambos puntos. Tuve una pareja encantadora: pura,
-                sabia, modesta. Pueden imaginarse que fui un hombre feliz. ¡Pasé
-                por escenas ricas! ¡Oh! ¡Mi experiencia ha sido celestial, si tan solo
-                lo supieran! Pero no les debo más explicaciones. Briggs, Wood,
-                Mason, ¡los invito a todos a subir a la casa y visitar a la paciente de
-                la señora Poole y a mi esposa! Verán con qué clase de ser fui
-                engañado para desposarme y juzgarán si tenía o no derecho a
-                romper el pacto y buscar simpatía con algo al menos humano. Esta
-                muchacha —continuó, mirándome— no sabía más que usted, Wood,
-                del repugnante secreto. Creyó que todo era justo y legal; y nunca
-                soñó que iba a ser atrapada en una unión fingida con un
-                desgraciado defraudado, ¡ya atado a una compañera mala, loca y
-                embrutecida! Vengan todos, ¡sigan!</p>
+                sabia, modesta. Pueden imaginarse que fui un hombre feliz. Â¡PasÃ©
+                por escenas ricas! Â¡Oh! Â¡Mi experiencia ha sido celestial, si tan solo
+                lo supieran! Pero no les debo mÃ¡s explicaciones. Briggs, Wood,
+                Mason, Â¡los invito a todos a subir a la casa y visitar a la paciente de
+                la seÃ±ora Poole y a mi esposa! VerÃ¡n con quÃ© clase de ser fui
+                engaÃ±ado para desposarme y juzgarÃ¡n si tenÃ­a o no derecho a
+                romper el pacto y buscar simpatÃ­a con algo al menos humano. Esta
+                muchacha â€”continuÃ³, mirÃ¡ndomeâ€” no sabÃ­a mÃ¡s que usted, Wood,
+                del repugnante secreto. CreyÃ³ que todo era justo y legal; y nunca
+                soÃ±Ã³ que iba a ser atrapada en una uniÃ³n fingida con un
+                desgraciado defraudado, Â¡ya atado a una compaÃ±era mala, loca y
+                embrutecida! Vengan todos, Â¡sigan!</p>
 
-                <p>Todavía sujetándome con fuerza, salió de la iglesia. Los tres
-                caballeros vinieron detrás. En la puerta principal de la mansión
+                <p>TodavÃ­a sujetÃ¡ndome con fuerza, saliÃ³ de la iglesia. Los tres
+                caballeros vinieron detrÃ¡s. En la puerta principal de la mansiÃ³n
                 encontramos el carruaje.</p>
 
-                <p>—Llévalo de vuelta a la cochera, John —dijo el señor Rochester
-                fríamente—. No se necesitará hoy.</p>
+                <p>â€”LlÃ©valo de vuelta a la cochera, John â€”dijo el seÃ±or Rochester
+                frÃ­amenteâ€”. No se necesitarÃ¡ hoy.</p>
 
-                <p>A nuestra entrada, la señora Fairfax, Adèle, Sophie, Leah, se
+                <p>A nuestra entrada, la seÃ±ora Fairfax, AdÃ¨le, Sophie, Leah, se
                 adelantaron para recibirnos y saludarnos.</p>
 
-                <p>—¡Media vuelta, todo el mundo! —gritó el amo—. ¡Fuera con sus
-                Felicitaciones! ¿Quién las quiere? ¡Yo no! ¡Llegan quince años tarde!</p>
+                <p>â€”Â¡Media vuelta, todo el mundo! â€”gritÃ³ el amoâ€”. Â¡Fuera con sus
+                Felicitaciones! Â¿QuiÃ©n las quiere? Â¡Yo no! Â¡Llegan quince aÃ±os tarde!</p>
 
-                <p>Pasó de largo y subió las escaleras, todavía sosteniendo mi mano
-                y todavía haciendo señas a los caballeros para que lo siguieran, lo
-                cual hicieron. Subimos la primera escalera, pasamos por la galería,
+                <p>PasÃ³ de largo y subiÃ³ las escaleras, todavÃ­a sosteniendo mi mano
+                y todavÃ­a haciendo seÃ±as a los caballeros para que lo siguieran, lo
+                cual hicieron. Subimos la primera escalera, pasamos por la galerÃ­a,
                 procedimos al tercer piso. La puerta baja y negra, abierta por la llave
-                maestra del señor Rochester, nos admitió en la habitación tapizada,
-                con su gran cama y su armario pictórico.</p>
+                maestra del seÃ±or Rochester, nos admitiÃ³ en la habitaciÃ³n tapizada,
+                con su gran cama y su armario pictÃ³rico.</p>
 
-                <p>—Conoces este lugar, Mason —dijo nuestro guía—. Aquí te mordió y te apuñaló.</p>
+                <p>â€”Conoces este lugar, Mason â€”dijo nuestro guÃ­aâ€”. AquÃ­ te mordiÃ³ y te apuÃ±alÃ³.</p>
 
-                <p>Levantó los tapices de la pared, descubriendo la segunda puerta.
-                Esta también la abrió. En una habitación sin ventana ardía un fuego
-                protegido por un guardafuegos alto y fuerte, y una lámpara
+                <p>LevantÃ³ los tapices de la pared, descubriendo la segunda puerta.
+                Esta tambiÃ©n la abriÃ³. En una habitaciÃ³n sin ventana ardÃ­a un fuego
+                protegido por un guardafuegos alto y fuerte, y una lÃ¡mpara
                 suspendida del techo por una cadena. Grace Poole se inclinaba sobre
                 el fuego, aparentemente cocinando algo en una cacerola. En la
-                profunda sombra, al otro extremo de la habitación, una figura corría
-                de un lado a otro. Qué era, si bestia o ser humano, no se podía decir
+                profunda sombra, al otro extremo de la habitaciÃ³n, una figura corrÃ­a
+                de un lado a otro. QuÃ© era, si bestia o ser humano, no se podÃ­a decir
                 a primera vista. Se arrastraba, al parecer, a cuatro patas; arrebataba
-                y gruñía como un extraño animal salvaje. Pero estaba cubierta de
+                y gruÃ±Ã­a como un extraÃ±o animal salvaje. Pero estaba cubierta de
                 ropa y una cantidad de pelo oscuro y entrecano, salvaje como una
                 crin, ocultaba su cabeza y su rostro.</p>
 
-                <p>—¡Buenos días, señora Poole! —dijo el señor Rochester—. ¿Cómo
-                está usted? ¿Y cómo está su pupila hoy?</p>
+                <p>â€”Â¡Buenos dÃ­as, seÃ±ora Poole! â€”dijo el seÃ±or Rochesterâ€”. Â¿CÃ³mo
+                estÃ¡ usted? Â¿Y cÃ³mo estÃ¡ su pupila hoy?</p>
 
-                <p>—Estamos pasablemente, señor, gracias —replicó Grace,
-                levantando con cuidado el guiso hirviendo sobre la repisa—. Un poco
+                <p>â€”Estamos pasablemente, seÃ±or, gracias â€”replicÃ³ Grace,
+                levantando con cuidado el guiso hirviendo sobre la repisaâ€”. Un poco
                 arisca, pero no furiosa.</p>
 
-                <p>Un grito feroz pareció desmentir su informe favorable. La hiena
-                vestida se levantó y se irguió sobre sus patas traseras.</p>
+                <p>Un grito feroz pareciÃ³ desmentir su informe favorable. La hiena
+                vestida se levantÃ³ y se irguiÃ³ sobre sus patas traseras.</p>
 
-                <p>—¡Ah, señor, lo ve! —exclamó Grace—. Sería mejor que no se quedara.</p>
+                <p>â€”Â¡Ah, seÃ±or, lo ve! â€”exclamÃ³ Graceâ€”. SerÃ­a mejor que no se quedara.</p>
 
-                <p>—Solo unos momentos, Grace. Debe permitirme unos momentos.</p>
+                <p>â€”Solo unos momentos, Grace. Debe permitirme unos momentos.</p>
 
-                <p>—¡Tenga cuidado entonces, señor! ¡Por el amor de Dios, tenga cuidado!</p>
+                <p>â€”Â¡Tenga cuidado entonces, seÃ±or! Â¡Por el amor de Dios, tenga cuidado!</p>
 
-                <p>La maníaca bramó. Apartó sus mechones hirsutos del rostro y
-                miró salvajemente a sus visitantes. Reconocí bien aquel rostro
-                purpúreo, aquellos rasgos hinchados. La señora Poole avanzó.</p>
+                <p>La manÃ­aca bramÃ³. ApartÃ³ sus mechones hirsutos del rostro y
+                mirÃ³ salvajemente a sus visitantes. ReconocÃ­ bien aquel rostro
+                purpÃºreo, aquellos rasgos hinchados. La seÃ±ora Poole avanzÃ³.</p>
 
-                <p>—Apártese —dijo el señor Rochester, empujándola a un lado—. No
+                <p>â€”ApÃ¡rtese â€”dijo el seÃ±or Rochester, empujÃ¡ndola a un ladoâ€”. No
                 tiene cuchillo ahora, supongo, y estoy en guardia.</p>
 
-                <p>—Nunca se sabe lo que tiene, señor. Es tan astuta. No está en la
-                discreción mortal sondear su astucia.</p>
+                <p>â€”Nunca se sabe lo que tiene, seÃ±or. Es tan astuta. No estÃ¡ en la
+                discreciÃ³n mortal sondear su astucia.</p>
 
-                <p>—Será mejor que la dejemos —susurró Mason.</p>
+                <p>â€”SerÃ¡ mejor que la dejemos â€”susurrÃ³ Mason.</p>
 
-                <p>—¡Váyase al diablo! —fue la recomendación de su cuñado.</p>
+                <p>â€”Â¡VÃ¡yase al diablo! â€”fue la recomendaciÃ³n de su cuÃ±ado.</p>
 
-                <p>—¡Cuidado! —gritó Grace. Los tres caballeros retrocedieron
-                simultáneamente. El señor Rochester me arrojó detrás de él. La
-                lunática saltó y le agarró la garganta con saña, y le hincó los dientes
+                <p>â€”Â¡Cuidado! â€”gritÃ³ Grace. Los tres caballeros retrocedieron
+                simultÃ¡neamente. El seÃ±or Rochester me arrojÃ³ detrÃ¡s de Ã©l. La
+                lunÃ¡tica saltÃ³ y le agarrÃ³ la garganta con saÃ±a, y le hincÃ³ los dientes
                 en la mejilla. Lucharon. Era una mujer grande, de estatura casi igual
-                a la de su marido, y corpulenta además. Mostró una fuerza viril en la
-                contienda, más de una vez casi lo estranguló, atlético como era.
-                Podría haberla despachado con un golpe bien plantado, pero no
-                quiso golpear; solo lucharía. Por fin dominó sus brazos; Grace Poole
-                le dio una cuerda y él se los ató a la espalda. Con más cuerda, que
-                estaba a mano, la ató a una silla. La operación se realizó en medio
-                de los más feroces aullidos y las más convulsivas sacudidas. El señor
-                Rochester se volvió entonces hacia los espectadores. Los miró con
+                a la de su marido, y corpulenta ademÃ¡s. MostrÃ³ una fuerza viril en la
+                contienda, mÃ¡s de una vez casi lo estrangulÃ³, atlÃ©tico como era.
+                PodrÃ­a haberla despachado con un golpe bien plantado, pero no
+                quiso golpear; solo lucharÃ­a. Por fin dominÃ³ sus brazos; Grace Poole
+                le dio una cuerda y Ã©l se los atÃ³ a la espalda. Con mÃ¡s cuerda, que
+                estaba a mano, la atÃ³ a una silla. La operaciÃ³n se realizÃ³ en medio
+                de los mÃ¡s feroces aullidos y las mÃ¡s convulsivas sacudidas. El seÃ±or
+                Rochester se volviÃ³ entonces hacia los espectadores. Los mirÃ³ con
                 una sonrisa a la vez agria y desolada.</p>
 
-                <p>—Esa es mi esposa —dijo—. ¡Tal es el único abrazo conyugal que
-                jamás conoceré, tales son las caricias que han de solazar mis horas
+                <p>â€”Esa es mi esposa â€”dijoâ€”. Â¡Tal es el Ãºnico abrazo conyugal que
+                jamÃ¡s conocerÃ©, tales son las caricias que han de solazar mis horas
                 de ocio! Y esto es lo que deseaba tener (poniendo su mano en mi
-                hombro): esta joven, que está de pie tan grave y tranquila en la
+                hombro): esta joven, que estÃ¡ de pie tan grave y tranquila en la
                 boca del infierno, mirando serenamente las cabriolas de un demonio.
-                La quería solo como un cambio después de ese fiero estofado. Wood
-                y Briggs, ¡miren la diferencia! Comparen estos ojos claros con las
-                bolas rojas de allá, este rostro con esa máscara, esta forma con esa
-                mole. Luego júzguenme, sacerdote del evangelio y hombre de la ley,
-                ¡y recuerden que con el juicio con que juzguéis seréis juzgados!
+                La querÃ­a solo como un cambio despuÃ©s de ese fiero estofado. Wood
+                y Briggs, Â¡miren la diferencia! Comparen estos ojos claros con las
+                bolas rojas de allÃ¡, este rostro con esa mÃ¡scara, esta forma con esa
+                mole. Luego jÃºzguenme, sacerdote del evangelio y hombre de la ley,
+                Â¡y recuerden que con el juicio con que juzguÃ©is serÃ©is juzgados!
                 Fuera con ustedes ahora. Debo encerrar mi premio.</p>
 
-                <p>Nos retiramos todos. El señor Rochester se quedó un momento
-                detrás de nosotros para dar alguna orden más a Grace Poole. El
-                abogado se dirigió a mí mientras descendía la escalera.</p>
+                <p>Nos retiramos todos. El seÃ±or Rochester se quedÃ³ un momento
+                detrÃ¡s de nosotros para dar alguna orden mÃ¡s a Grace Poole. El
+                abogado se dirigiÃ³ a mÃ­ mientras descendÃ­a la escalera.</p>
 
-                <p>—Usted, señora —dijo—, queda libre de toda culpa. Su tío se
-                alegrará de oírlo, si es que todavía vive, cuando el señor Mason
+                <p>â€”Usted, seÃ±ora â€”dijoâ€”, queda libre de toda culpa. Su tÃ­o se
+                alegrarÃ¡ de oÃ­rlo, si es que todavÃ­a vive, cuando el seÃ±or Mason
                 regrese a Madeira.</p>
 
-                <p>—¡Mi tío! ¿Qué hay de él? ¿Lo conoce?</p>
+                <p>â€”Â¡Mi tÃ­o! Â¿QuÃ© hay de Ã©l? Â¿Lo conoce?</p>
 
-                <p>—El señor Mason sí. El señor Eyre ha sido el corresponsal en
-                Funchal de su casa durante algunos años. Cuando su tío recibió su
-                carta insinuando la unión contemplada entre usted y el señor
-                Rochester, el señor Mason, que se encontraba en Madeira
+                <p>â€”El seÃ±or Mason sÃ­. El seÃ±or Eyre ha sido el corresponsal en
+                Funchal de su casa durante algunos aÃ±os. Cuando su tÃ­o recibiÃ³ su
+                carta insinuando la uniÃ³n contemplada entre usted y el seÃ±or
+                Rochester, el seÃ±or Mason, que se encontraba en Madeira
                 recuperando su salud, de camino de regreso a Jamaica, casualmente
-                estaba con él. El señor Eyre mencionó la noticia, pues sabía que mi
-                cliente aquí conocía a un caballero de apellido Rochester. El señor
-                Mason, asombrado y angustiado como puede suponer, reveló el
-                verdadero estado de las cosas. Su tío, lamento decir, se encuentra
+                estaba con Ã©l. El seÃ±or Eyre mencionÃ³ la noticia, pues sabÃ­a que mi
+                cliente aquÃ­ conocÃ­a a un caballero de apellido Rochester. El seÃ±or
+                Mason, asombrado y angustiado como puede suponer, revelÃ³ el
+                verdadero estado de las cosas. Su tÃ­o, lamento decir, se encuentra
                 ahora en un lecho de enfermo, del que, considerando la naturaleza
-                de su enfermedad —tisis— y la etapa que ha alcanzado, es poco
-                probable que se levante jamás. No pudo entonces apresurarse a
-                Inglaterra él mismo para sacarla de la trampa en la que había caído,
-                pero imploró al señor Mason que no perdiera tiempo en tomar
-                medidas para evitar el falso matrimonio. Lo remitió a mí en busca de
-                ayuda. Usé toda la diligencia y estoy agradecido de no haber llegado
-                demasiado tarde, como usted, sin duda, debe estarlo también. Si no
-                estuviera moralmente seguro de que su tío estará muerto antes de
-                que usted llegue a Madeira, le aconsejaría que acompañara al señor
-                Mason de regreso; pero tal como están las cosas, creo que es mejor
-                que permanezca en Inglaterra hasta que pueda tener más noticias,
-                ya sea de o sobre el señor Eyre. ¿Tenemos algo más por lo que
-                quedarnos? —inquirió al señor Mason.</p>
+                de su enfermedad â€”tisisâ€” y la etapa que ha alcanzado, es poco
+                probable que se levante jamÃ¡s. No pudo entonces apresurarse a
+                Inglaterra Ã©l mismo para sacarla de la trampa en la que habÃ­a caÃ­do,
+                pero implorÃ³ al seÃ±or Mason que no perdiera tiempo en tomar
+                medidas para evitar el falso matrimonio. Lo remitiÃ³ a mÃ­ en busca de
+                ayuda. UsÃ© toda la diligencia y estoy agradecido de no haber llegado
+                demasiado tarde, como usted, sin duda, debe estarlo tambiÃ©n. Si no
+                estuviera moralmente seguro de que su tÃ­o estarÃ¡ muerto antes de
+                que usted llegue a Madeira, le aconsejarÃ­a que acompaÃ±ara al seÃ±or
+                Mason de regreso; pero tal como estÃ¡n las cosas, creo que es mejor
+                que permanezca en Inglaterra hasta que pueda tener mÃ¡s noticias,
+                ya sea de o sobre el seÃ±or Eyre. Â¿Tenemos algo mÃ¡s por lo que
+                quedarnos? â€”inquiriÃ³ al seÃ±or Mason.</p>
 
-                <p>—No, no, vámonos —fue la ansiosa respuesta. Y sin esperar a
-                despedirse del señor Rochester, salieron por la puerta del vestíbulo.
-                El clérigo se quedó para intercambiar unas pocas frases, ya fuera de
-                amonestación o de reproche, con su altivo feligrés; cumplido este
-                deber, también él partió.</p>
+                <p>â€”No, no, vÃ¡monos â€”fue la ansiosa respuesta. Y sin esperar a
+                despedirse del seÃ±or Rochester, salieron por la puerta del vestÃ­bulo.
+                El clÃ©rigo se quedÃ³ para intercambiar unas pocas frases, ya fuera de
+                amonestaciÃ³n o de reproche, con su altivo feligrÃ©s; cumplido este
+                deber, tambiÃ©n Ã©l partiÃ³.</p>
 
-                <p>Lo oí irse mientras estaba de pie en la puerta entreabierta de mi
-                propia habitación, a la que me había retirado. Despejada la casa, me
-                encerré, eché el cerrojo para que nadie pudiera entrar y procedí, no
-                a llorar, no a lamentarme, todavía estaba demasiado tranquila para
-                eso, sino a quitarme mecánicamente el vestido de novia y a
-                reemplazarlo por el vestido de estameña que había usado ayer,
-                como pensé, por última vez. Luego me senté. Me sentía débil y
-                cansada. Apoyé los brazos en una tabla y mi cabeza cayó sobre
-                ellos. Y ahora pensé. Hasta ahora solo había oído, visto, movido,
+                <p>Lo oÃ­ irse mientras estaba de pie en la puerta entreabierta de mi
+                propia habitaciÃ³n, a la que me habÃ­a retirado. Despejada la casa, me
+                encerrÃ©, echÃ© el cerrojo para que nadie pudiera entrar y procedÃ­, no
+                a llorar, no a lamentarme, todavÃ­a estaba demasiado tranquila para
+                eso, sino a quitarme mecÃ¡nicamente el vestido de novia y a
+                reemplazarlo por el vestido de estameÃ±a que habÃ­a usado ayer,
+                como pensÃ©, por Ãºltima vez. Luego me sentÃ©. Me sentÃ­a dÃ©bil y
+                cansada. ApoyÃ© los brazos en una tabla y mi cabeza cayÃ³ sobre
+                ellos. Y ahora pensÃ©. Hasta ahora solo habÃ­a oÃ­do, visto, movido,
                 seguido arriba y abajo adonde me llevaban o arrastraban, observado
-                un suceso precipitarse sobre otro, una revelación abrirse más allá de
-                otra revelación; pero ahora, pensé.</p>
+                un suceso precipitarse sobre otro, una revelaciÃ³n abrirse mÃ¡s allÃ¡ de
+                otra revelaciÃ³n; pero ahora, pensÃ©.</p>
 
-                <p>La mañana había sido una mañana bastante tranquila, salvo la
-                breve escena con la lunática. La transacción en la iglesia no había
-                sido ruidosa; no hubo explosión de pasión, ni altercado fuerte, ni
-                disputa, ni desafío, ni lágrimas, ni sollozos. Se habían dicho unas
-                pocas palabras, se había hecho una objeción tranquilamente
-                pronunciada al matrimonio; el señor Rochester había hecho algunas
-                preguntas severas y breves; se habían dado respuestas,
-                explicaciones, se habían aducido pruebas; mi amo había admitido
-                abiertamente la verdad. Luego se había visto la prueba viviente; los
-                intrusos se habían ido y todo había terminado.</p>
+                <p>La maÃ±ana habÃ­a sido una maÃ±ana bastante tranquila, salvo la
+                breve escena con la lunÃ¡tica. La transacciÃ³n en la iglesia no habÃ­a
+                sido ruidosa; no hubo explosiÃ³n de pasiÃ³n, ni altercado fuerte, ni
+                disputa, ni desafÃ­o, ni lÃ¡grimas, ni sollozos. Se habÃ­an dicho unas
+                pocas palabras, se habÃ­a hecho una objeciÃ³n tranquilamente
+                pronunciada al matrimonio; el seÃ±or Rochester habÃ­a hecho algunas
+                preguntas severas y breves; se habÃ­an dado respuestas,
+                explicaciones, se habÃ­an aducido pruebas; mi amo habÃ­a admitido
+                abiertamente la verdad. Luego se habÃ­a visto la prueba viviente; los
+                intrusos se habÃ­an ido y todo habÃ­a terminado.</p>
 
-                <p>Estaba en mi propia habitación como de costumbre, solo yo
-                misma, sin cambio aparente. Nada me había golpeado, ni arrasado,
-                ni mutilado. Y sin embargo, ¿dónde estaba la Jane Eyre de ayer?
-                ¿Dónde estaba su vida? ¿Dónde estaban sus perspectivas?</p>
+                <p>Estaba en mi propia habitaciÃ³n como de costumbre, solo yo
+                misma, sin cambio aparente. Nada me habÃ­a golpeado, ni arrasado,
+                ni mutilado. Y sin embargo, Â¿dÃ³nde estaba la Jane Eyre de ayer?
+                Â¿DÃ³nde estaba su vida? Â¿DÃ³nde estaban sus perspectivas?</p>
 
-                <p>Jane Eyre, que había sido una mujer ardiente y expectante, casi
-                una novia, era de nuevo una chica fría y solitaria. Su vida era pálida;
-                sus perspectivas, desoladas. Una helada de Navidad había llegado
-                en pleno verano; una blanca tormenta de diciembre se había
-                arremolinado sobre junio; el hielo cubría las manzanas maduras, los
+                <p>Jane Eyre, que habÃ­a sido una mujer ardiente y expectante, casi
+                una novia, era de nuevo una chica frÃ­a y solitaria. Su vida era pÃ¡lida;
+                sus perspectivas, desoladas. Una helada de Navidad habÃ­a llegado
+                en pleno verano; una blanca tormenta de diciembre se habÃ­a
+                arremolinado sobre junio; el hielo cubrÃ­a las manzanas maduras, los
                 ventisqueros aplastaban las rosas en flor; sobre el henal y el trigal
-                yacía un sudario helado. Los senderos que anoche se sonrojaban
+                yacÃ­a un sudario helado. Los senderos que anoche se sonrojaban
                 llenos de flores, hoy estaban intransitables de nieve virgen; y los
                 bosques, que doce horas antes ondeaban frondosos y fragantes
-                como arboledas entre los trópicos, ahora se extendían, yermos,
+                como arboledas entre los trÃ³picos, ahora se extendÃ­an, yermos,
                 salvajes y blancos como pinares en la invernal Noruega. Mis
                 esperanzas estaban todas muertas, golpeadas por un destino sutil,
-                como el que, en una noche, cayó sobre todos los primogénitos en la
-                tierra de Egipto. Contemplé mis anhelados deseos, ayer tan
-                florecientes y radiantes; yacían rígidos, fríos, lívidos cadáveres que
-                nunca podrían revivir. Miré mi amor, ese sentimiento que era de mi
-                amo, que él había creado; tiritaba en mi corazón, como un niño
-                sufriente en una cuna fría. La enfermedad y la angustia se habían
-                apoderado de él; no podía buscar los brazos del señor Rochester, no
-                podía obtener calor de su pecho. ¡Oh, nunca más podría volverse
-                hacia él; pues la fe estaba marchita, la confianza destruida! El señor
-                Rochester no era para mí lo que había sido, porque no era lo que yo
-                había pensado que era. No le atribuiría vicio; no diría que me había
-                traicionado; pero el atributo de la verdad inmaculada se había ido de
-                su idea, y de su presencia debía irme. Eso lo percibí bien. Cuándo,
-                cómo, adónde, aún no podía discernirlo; pero él mismo, no dudaba,
-                me apresuraría a salir de Thornfield. Afecto real, al parecer, no podía
-                tener por mí; solo había sido una pasión intermitente. Aquello se
-                había frustrado; ya no me necesitaría. Temería incluso cruzarme en
-                su camino ahora. Mi vista debía de serle odiosa. ¡Oh, qué ciegos
-                habían estado mis ojos! ¡Qué débil mi conducta!</p>
+                como el que, en una noche, cayÃ³ sobre todos los primogÃ©nitos en la
+                tierra de Egipto. ContemplÃ© mis anhelados deseos, ayer tan
+                florecientes y radiantes; yacÃ­an rÃ­gidos, frÃ­os, lÃ­vidos cadÃ¡veres que
+                nunca podrÃ­an revivir. MirÃ© mi amor, ese sentimiento que era de mi
+                amo, que Ã©l habÃ­a creado; tiritaba en mi corazÃ³n, como un niÃ±o
+                sufriente en una cuna frÃ­a. La enfermedad y la angustia se habÃ­an
+                apoderado de Ã©l; no podÃ­a buscar los brazos del seÃ±or Rochester, no
+                podÃ­a obtener calor de su pecho. Â¡Oh, nunca mÃ¡s podrÃ­a volverse
+                hacia Ã©l; pues la fe estaba marchita, la confianza destruida! El seÃ±or
+                Rochester no era para mÃ­ lo que habÃ­a sido, porque no era lo que yo
+                habÃ­a pensado que era. No le atribuirÃ­a vicio; no dirÃ­a que me habÃ­a
+                traicionado; pero el atributo de la verdad inmaculada se habÃ­a ido de
+                su idea, y de su presencia debÃ­a irme. Eso lo percibÃ­ bien. CuÃ¡ndo,
+                cÃ³mo, adÃ³nde, aÃºn no podÃ­a discernirlo; pero Ã©l mismo, no dudaba,
+                me apresurarÃ­a a salir de Thornfield. Afecto real, al parecer, no podÃ­a
+                tener por mÃ­; solo habÃ­a sido una pasiÃ³n intermitente. Aquello se
+                habÃ­a frustrado; ya no me necesitarÃ­a. TemerÃ­a incluso cruzarme en
+                su camino ahora. Mi vista debÃ­a de serle odiosa. Â¡Oh, quÃ© ciegos
+                habÃ­an estado mis ojos! Â¡QuÃ© dÃ©bil mi conducta!</p>
 
                 <p>Mis ojos estaban cubiertos y cerrados. Una oscuridad arremolinada
-                parecía nadar a mi alrededor, y la reflexión llegó en un flujo tan
-                negro y confuso. Autoabandonada, relajada y sin esfuerzo, parecía
-                haberme acostado en el lecho seco de un gran río. Oí un torrente
-                desatado en montañas remotas y sentí venir la crecida. Para
-                levantarme no tenía voluntad, para huir no tenía fuerzas. Yacía débil,
-                anhelando estar muerta. Solo una idea aún latía como viva dentro
-                de mí: un recuerdo de Dios. Engendró una oración no pronunciada.
-                Estas palabras iban y venían en mi mente sin luz, como algo que
-                debería ser susurrado, pero no se encontraba energía para
+                parecÃ­a nadar a mi alrededor, y la reflexiÃ³n llegÃ³ en un flujo tan
+                negro y confuso. Autoabandonada, relajada y sin esfuerzo, parecÃ­a
+                haberme acostado en el lecho seco de un gran rÃ­o. OÃ­ un torrente
+                desatado en montaÃ±as remotas y sentÃ­ venir la crecida. Para
+                levantarme no tenÃ­a voluntad, para huir no tenÃ­a fuerzas. YacÃ­a dÃ©bil,
+                anhelando estar muerta. Solo una idea aÃºn latÃ­a como viva dentro
+                de mÃ­: un recuerdo de Dios. EngendrÃ³ una oraciÃ³n no pronunciada.
+                Estas palabras iban y venÃ­an en mi mente sin luz, como algo que
+                deberÃ­a ser susurrado, pero no se encontraba energÃ­a para
                 expresarlas:</p>
 
-                <p>«No te alejes de mí, porque la angustia está cerca; no hay nadie que ayude».</p>
+                <p>Â«No te alejes de mÃ­, porque la angustia estÃ¡ cerca; no hay nadie que ayudeÂ».</p>
 
-                <p>Estaba cerca. Y como no había elevado ninguna petición al Cielo
-                para evitarla —como no había juntado mis manos, ni doblado mis
-                rodillas, ni movido mis labios—, vino. Con todo su pesado impulso, el
-                torrente se derramó sobre mí. La plena conciencia de mi vida
+                <p>Estaba cerca. Y como no habÃ­a elevado ninguna peticiÃ³n al Cielo
+                para evitarla â€”como no habÃ­a juntado mis manos, ni doblado mis
+                rodillas, ni movido mis labiosâ€”, vino. Con todo su pesado impulso, el
+                torrente se derramÃ³ sobre mÃ­. La plena conciencia de mi vida
                 desamparada, mi amor perdido, mi esperanza extinguida, mi fe
-                herida de muerte, se balanceó plena y poderosa sobre mí en una
+                herida de muerte, se balanceÃ³ plena y poderosa sobre mÃ­ en una
                 sola masa hosca. Aquella hora amarga no puede ser descrita. En
-                verdad, «las aguas entraron hasta mi alma; me hundí en el lodo
-                profundo; no sentí apoyo; entré en aguas profundas; las
-                inundaciones me anegaron».</p>
+                verdad, Â«las aguas entraron hasta mi alma; me hundÃ­ en el lodo
+                profundo; no sentÃ­ apoyo; entrÃ© en aguas profundas; las
+                inundaciones me anegaronÂ».</p>
 
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap25.php" rel="prev">Anterior</a>
-                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menÃº de capÃ­tulos</a>
                     <a class="cambioSiguiente" href="cap27.php" rel="next">Siguiente</a>
                 </div>
             </section>

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Capítulo 33</title>
+    <title>Capï¿½tulo 33</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el capítulo 33">
+    <meta name="description" content="Este es el capï¿½tulo 33">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -39,21 +39,21 @@
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
+                        <li><a href="../../intro_obra.php">IntroducciÃ³n a la obra</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contenido_eyre.php">Contenido</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
-                                <li><a href="../../capitulos.php">Capítulos</a></li>
+                                <li><a href="../../resumenes/resumenes.php">ResÃºmenes</a></li>
+                                <li><a href="../../capitulos.php">CapÃ­tulos</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
-                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
+                                <li><a href="charlotte.php">Charlotte BrontÃ«</a></li>
+                                <li><a href="contexto_historico.php">Contexto histÃ³rico</a></li>
                             </ul>
                         </li>
 
@@ -61,7 +61,7 @@
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">Símbolos</a></li>
+                                <li><a href="simbolos.php">SÃ­mbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
                                 <li><a href="mapa.php">Mapa</a></li>
@@ -82,643 +82,644 @@
             </div>
             
             <section class="contenido">
-                <h1>Capítulo XXXIII</h1>
-                
-                <p>Cuando el señor St. John se fue, empezaba a nevar; la tormenta
-                arremolinada continuó toda la noche. Al día siguiente, un viento
+                <h1>CapÃ­tulo XXXIII</h1>
+    
+                <p>Cuando el seÃ±or St. John se fue, empezaba a nevar; la tormenta
+                arremolinada continuÃ³ toda la noche. Al dÃ­a siguiente, un viento
                 agudo trajo nuevas y cegadoras nevadas; al anochecer el valle
-                estaba cubierto de nieve y casi intransitable. Había cerrado mi
+                estaba cubierto de nieve y casi intransitable. HabÃ­a cerrado mi
                 contraventana, puesto una estera en la puerta para evitar que la
-                nieve entrara por debajo, avivado mi fuego y, después de estar
+                nieve entrara por debajo, avivado mi fuego y, despuÃ©s de estar
                 sentada casi una hora junto al hogar escuchando la furia ahogada de
-                la tempestad, encendí una vela, tomé «<i>Marmion</i>» y, comenzando:</p>
+                la tempestad, encendÃ­ una vela, tomÃ© Â«<i>Marmion</i>Â» y, comenzando:</p>
 
-                <p class="centradoP">«El día se puso sobre la empinada fortaleza de Norham,<br>
-                Y el hermoso río Tweed, ancho y profundo,<br>
-                Y las solitarias montañas de Cheviot;<br>
-                Las macizas torres, el torreón del homenaje,<br>
+                <p><cite>Â«El dÃ­a se puso sobre la empinada fortaleza de Norham,<br>
+                Y el hermoso rÃ­o Tweed, ancho y profundo,<br>
+                Y las solitarias montaÃ±as de Cheviot;<br>
+                Las macizas torres, el torreÃ³n del homenaje,<br>
                 Los muros flanqueantes que a su alrededor se extienden,<br>
-                En amarillo lustre brillaban».</p>
+                En amarillo lustre brillabanÂ»</cite></p>
 
-                <p>Pronto olvidé la tormenta en la música.</p>
+                <p>Pronto olvidÃ© la tormenta en la mÃºsica.</p>
 
-                <p>Oí un ruido. El viento, pensé, sacudía la puerta. No; era St. John
-                Rivers, quien, levantando el pestillo, entró del huracán helado, de la
-                aullante oscuridad, y se paró ante mí. La capa que cubría su alta
+                <p>OÃ­ un ruido. El viento, pensÃ©, sacudÃ­a la puerta. No; era St. John
+                Rivers, quien, levantando el pestillo, entrÃ³ del huracÃ¡n helado, de la
+                aullante oscuridad, y se parÃ³ ante mÃ­. La capa que cubrÃ­a su alta
                 figura, toda blanca como un glaciar. Estuve casi consternada, tan
-                poco esperaba a ningún huésped del valle bloqueado esa noche.</p>
+                poco esperaba a ningÃºn huÃ©sped del valle bloqueado esa noche.</p>
 
-                <p>—¿Alguna mala noticia? —demandé—. ¿Ha pasado algo?</p>
+                <p>â€”Â¿Alguna mala noticia? â€”demandÃ©â€”. Â¿Ha pasado algo?</p>
 
-                <p>—No. ¡Qué fácil se alarma usted! —respondió, quitándose la capa
-                y colgándola contra la puerta, hacia la cual empujó de nuevo
-                fríamente la estera que su entrada había desordenado. Se sacudió la
+                <p>â€”No. Â¡QuÃ© fÃ¡cil se alarma usted! â€”respondiÃ³, quitÃ¡ndose la capa
+                y colgÃ¡ndola contra la puerta, hacia la cual empujÃ³ de nuevo
+                frÃ­amente la estera que su entrada habÃ­a desordenado. Se sacudiÃ³ la
                 nieve de las botas.</p>
 
-                <p>—Mancharé la pureza de su suelo —dijo—, pero debe excusarme
-                por una vez. —Luego se acercó al fuego—. Me ha costado mucho
-                trabajo llegar hasta aquí, se lo aseguro —observó, mientras se
-                calentaba las manos sobre la llama—. Un ventisquero me llegó hasta
-                la cintura; felizmente la nieve todavía está bastante blanda.</p>
+                <p>â€”MancharÃ© la pureza de su suelo â€”dijoâ€”, pero debe excusarme
+                por una vez. â€”Luego se acercÃ³ al fuegoâ€”. Me ha costado mucho
+                trabajo llegar hasta aquÃ­, se lo aseguro â€”observÃ³, mientras se
+                calentaba las manos sobre la llamaâ€”. Un ventisquero me llegÃ³ hasta
+                la cintura; felizmente la nieve todavÃ­a estÃ¡ bastante blanda.</p>
 
-                <p>—Pero, ¿por qué ha venido? —no pude evitar decir.</p>
+                <p>â€”Pero, Â¿por quÃ© ha venido? â€”no pude evitar decir.</p>
 
-                <p>—Una pregunta bastante inhóspita para un visitante; pero ya que
-                la hace, respondo simplemente para tener una pequeña charla con
-                usted. Me cansé de mis libros mudos y mis habitaciones vacías.
-                Además, desde ayer he experimentado la excitación de una persona
-                a la que se le ha contado una historia a medias y que está
-                impaciente por oír la continuación.</p>
+                <p>â€”Una pregunta bastante inhÃ³spita para un visitante; pero ya que
+                la hace, respondo simplemente para tener una pequeÃ±a charla con
+                usted. Me cansÃ© de mis libros mudos y mis habitaciones vacÃ­as.
+                AdemÃ¡s, desde ayer he experimentado la excitaciÃ³n de una persona
+                a la que se le ha contado una historia a medias y que estÃ¡
+                impaciente por oÃ­r la continuaciÃ³n.</p>
 
-                <p>Se sentó. Recordé su singular conducta de ayer y realmente
-                empecé a temer que se le hubiera ido el juicio. Si estaba loco, sin
-                embargo, la suya era una locura muy fría y serena. Nunca había
-                visto ese rostro de rasgos hermosos parecerse más al mármol
+                <p>Se sentÃ³. RecordÃ© su singular conducta de ayer y realmente
+                empecÃ© a temer que se le hubiera ido el juicio. Si estaba loco, sin
+                embargo, la suya era una locura muy frÃ­a y serena. Nunca habÃ­a
+                visto ese rostro de rasgos hermosos parecerse mÃ¡s al mÃ¡rmol
                 cincelado que ahora mismo, mientras se apartaba el pelo mojado de
                 nieve de la frente y dejaba que la luz del fuego brillara libremente
-                sobre su pálida frente y su mejilla igualmente pálida, donde me
-                apenó descubrir el hueco rastro de la preocupación o la pena ahora
-                tan claramente grabado. Esperé, esperando que dijera algo que al
+                sobre su pÃ¡lida frente y su mejilla igualmente pÃ¡lida, donde me
+                apenÃ³ descubrir el hueco rastro de la preocupaciÃ³n o la pena ahora
+                tan claramente grabado. EsperÃ©, esperando que dijera algo que al
                 menos pudiera comprender; pero su mano estaba ahora en su
-                barbilla, su dedo en su labio. Estaba pensando. Me pareció que su
-                mano parecía consumida como su rostro. Un quizás inoportuno
-                arrebato de piedad se apoderó de mi corazón. Me sentí movida a
+                barbilla, su dedo en su labio. Estaba pensando. Me pareciÃ³ que su
+                mano parecÃ­a consumida como su rostro. Un quizÃ¡s inoportuno
+                arrebato de piedad se apoderÃ³ de mi corazÃ³n. Me sentÃ­ movida a
                 decir:</p>
 
-                <p>—Ojalá Diana o Mary vinieran a vivir con usted. Es una lástima
-                que esté completamente solo; y es usted temerariamente
+                <p>â€”OjalÃ¡ Diana o Mary vinieran a vivir con usted. Es una lÃ¡stima
+                que estÃ© completamente solo; y es usted temerariamente
                 imprudente con su propia salud.</p>
 
-                <p>—En absoluto —dijo—. Me cuido cuando es necesario. Estoy bien
-                ahora. ¿Qué ve de malo en mí?</p>
+                <p>â€”En absoluto â€”dijoâ€”. Me cuido cuando es necesario. Estoy bien
+                ahora. Â¿QuÃ© ve de malo en mÃ­?</p>
 
-                <p>Esto fue dicho con una indiferencia descuidada y abstraída, que
-                mostraba que mi solicitud era, al menos en su opinión,
+                <p>Esto fue dicho con una indiferencia descuidada y abstraÃ­da, que
+                mostraba que mi solicitud era, al menos en su opiniÃ³n,
                 completamente superflua. Fui silenciada.</p>
 
-                <p>Todavía movía lentamente el dedo sobre el labio superior, y
-                todavía su ojo se detenía soñadoramente en la rejilla incandescente.
-                Pensando que era urgente decir algo, le pregunté al instante si
-                sentía alguna corriente de aire frío de la puerta, que estaba detrás
-                de él.</p>
+                <p>TodavÃ­a movÃ­a lentamente el dedo sobre el labio superior, y
+                todavÃ­a su ojo se detenÃ­a soÃ±adoramente en la rejilla incandescente.
+                Pensando que era urgente decir algo, le preguntÃ© al instante si
+                sentÃ­a alguna corriente de aire frÃ­o de la puerta, que estaba detrÃ¡s
+                de Ã©l.</p>
 
-                <p>—¡No, no! —respondió brevemente y algo irritado.</p>
+                <p>â€”Â¡No, no! â€”respondiÃ³ brevemente y algo irritado.</p>
 
-                <p>«Bueno», reflexioné, «si no quieres hablar, puedes quedarte
-                quieto. Te dejaré en paz ahora y volveré a mi libro».</p>
+                <p>Â«BuenoÂ», reflexionÃ©, Â«si no quieres hablar, puedes quedarte
+                quieto. Te dejarÃ© en paz ahora y volverÃ© a mi libroÂ».</p>
 
-                <p>Así que despabilé la vela y reanudé la lectura de «<i>Marmion</i>».
-                Pronto se movió; mi ojo fue instantáneamente atraído a sus
-                movimientos. Solo sacó una cartera de marroquí, de allí extrajo una
-                carta que leyó en silencio, la dobló, la guardó y volvió a sumirse en
-                la meditación. Era vano intentar leer con una figura tan inescrutable
-                ante mí; ni podía, por impaciencia, consentir en quedarme muda.
-                Podía rechazarme si quería, pero hablaría.</p>
+                <p>AsÃ­ que despabilÃ© la vela y reanudÃ© la lectura de Â«<i>Marmion</i>Â».
+                Pronto se moviÃ³; mi ojo fue instantÃ¡neamente atraÃ­do a sus
+                movimientos. Solo sacÃ³ una cartera de marroquÃ­, de allÃ­ extrajo una
+                carta que leyÃ³ en silencio, la doblÃ³, la guardÃ³ y volviÃ³ a sumirse en
+                la meditaciÃ³n. Era vano intentar leer con una figura tan inescrutable
+                ante mÃ­; ni podÃ­a, por impaciencia, consentir en quedarme muda.
+                PodÃ­a rechazarme si querÃ­a, pero hablarÃ­a.</p>
 
-                <p>—¿Ha tenido noticias de Diana y Mary últimamente?</p>
+                <p>â€”Â¿Ha tenido noticias de Diana y Mary Ãºltimamente?</p>
 
-                <p>—No desde la carta que le mostré hace una semana.</p>
+                <p>â€”No desde la carta que le mostrÃ© hace una semana.</p>
 
-                <p>—¿No ha habido ningún cambio en sus propios arreglos? ¿No será
+                <p>â€”Â¿No ha habido ningÃºn cambio en sus propios arreglos? Â¿No serÃ¡
                 convocado a dejar Inglaterra antes de lo que esperaba?</p>
 
-                <p>—Me temo que no, en verdad. Tal suerte es demasiado buena
-                para que me ocurra. —Frustrada hasta ahora, cambié de terreno. Se
-                me ocurrió hablar de la escuela y de mis alumnas.</p>
+                <p>â€”Me temo que no, en verdad. Tal suerte es demasiado buena
+                para que me ocurra. â€”Frustrada hasta ahora, cambiÃ© de terreno. Se
+                me ocurriÃ³ hablar de la escuela y de mis alumnas.</p>
 
-                <p>—La madre de Mary Garrett está mejor y Mary ha vuelto a la
-                escuela esta mañana, y tendré cuatro niñas nuevas la próxima
-                semana de Foundry Close; habrían venido hoy de no ser por la
+                <p>â€”La madre de Mary Garrett estÃ¡ mejor y Mary ha vuelto a la
+                escuela esta maÃ±ana, y tendrÃ© cuatro niÃ±as nuevas la prÃ³xima
+                semana de Foundry Close; habrÃ­an venido hoy de no ser por la
                 nieve.</p>
 
-                <p>—¡De veras!</p>
+                <p>â€”Â¡De veras!</p>
 
-                <p>—El señor Oliver paga por dos.</p>
+                <p>â€”El seÃ±or Oliver paga por dos.</p>
 
-                <p>—¿Ah, sí?</p>
+                <p>â€”Â¿Ah, sÃ­?</p>
 
-                <p>—Tiene la intención de dar a toda la escuela un agasajo en Navidad.</p>
+                <p>â€”Tiene la intenciÃ³n de dar a toda la escuela un agasajo en Navidad.</p>
 
-                <p>—Lo sé.</p>
+                <p>â€”Lo sÃ©.</p>
 
-                <p>—¿Fue sugerencia suya?</p>
+                <p>â€”Â¿Fue sugerencia suya?</p>
 
-                <p>—No.</p>
+                <p>â€”No.</p>
 
-                <p>—¿De quién, entonces?</p>
+                <p>â€”Â¿De quiÃ©n, entonces?</p>
 
-                <p>—De su hija, creo.</p>
+                <p>â€”De su hija, creo.</p>
 
-                <p>—Es propio de ella. Es tan bondadosa.</p>
+                <p>â€”Es propio de ella. Es tan bondadosa.</p>
 
-                <p>—Sí.</p>
+                <p>â€”SÃ­.</p>
 
-                <p>De nuevo llegó el vacío de una pausa. El reloj dio ocho
-                campanadas. Lo despertó; descruzó las piernas, se enderezó y se
-                volvió hacia mí.</p>
+                <p>De nuevo llegÃ³ el vacÃ­o de una pausa. El reloj dio ocho
+                campanadas. Lo despertÃ³; descruzÃ³ las piernas, se enderezÃ³ y se
+                volviÃ³ hacia mÃ­.</p>
 
-                <p>—Deje su libro un momento y acérquese un poco más al fuego —dijo.</p>
+                <p>â€”Deje su libro un momento y acÃ©rquese un poco mÃ¡s al fuego â€”dijo.</p>
 
-                <p>Asombrada, y de mi asombro no encontrando fin, obedecí.</p>
+                <p>Asombrada, y de mi asombro no encontrando fin, obedecÃ­.</p>
 
-                <p>—Hace media hora —prosiguió—, hablé de mi impaciencia por oír
-                la continuación de un relato. Reflexionando, encuentro que el asunto
-                se manejará mejor si asumo el papel de narrador y la convierto a
+                <p>â€”Hace media hora â€”prosiguiÃ³â€”, hablÃ© de mi impaciencia por oÃ­r
+                la continuaciÃ³n de un relato. Reflexionando, encuentro que el asunto
+                se manejarÃ¡ mejor si asumo el papel de narrador y la convierto a
                 usted en oyente. Antes de comenzar, es justo advertirle que la
-                historia sonará algo trillada a sus oídos; pero los detalles manidos a
+                historia sonarÃ¡ algo trillada a sus oÃ­dos; pero los detalles manidos a
                 menudo recuperan un grado de frescura cuando pasan por nuevos
-                labios. Por lo demás, ya sea trillada o novedosa, es corta.</p>
+                labios. Por lo demÃ¡s, ya sea trillada o novedosa, es corta.</p>
 
-                <p>»Hace veinte años, un pobre cura —no importa su nombre en este
-                momento— se enamoró de la hija de un hombre rico; ella se
-                enamoró de él y se casó con él, en contra del consejo de todos sus
+                <p>Â»Hace veinte aÃ±os, un pobre cura â€”no importa su nombre en este
+                momentoâ€” se enamorÃ³ de la hija de un hombre rico; ella se
+                enamorÃ³ de Ã©l y se casÃ³ con Ã©l, en contra del consejo de todos sus
                 amigos, quienes en consecuencia la repudiaron inmediatamente
-                después de la boda. Antes de que pasaran dos años, la pareja
-                temeraria estaba muerta y yacía tranquilamente lado a lado bajo una
+                despuÃ©s de la boda. Antes de que pasaran dos aÃ±os, la pareja
+                temeraria estaba muerta y yacÃ­a tranquilamente lado a lado bajo una
                 misma losa. (He visto su tumba; formaba parte del pavimento de un
-                enorme cementerio que rodeaba la sombría y ennegrecida por el
-                hollín vieja catedral de una ciudad industrial superpoblada en
+                enorme cementerio que rodeaba la sombrÃ­a y ennegrecida por el
+                hollÃ­n vieja catedral de una ciudad industrial superpoblada en
                 ...shire). Dejaron una hija que, en su mismo nacimiento, la Caridad
-                recibió en su regazo, frío como el del ventisquero en el que casi me
-                quedo atascada esta noche. La Caridad llevó a la criatura sin amigos
-                a la casa de sus ricos parientes maternos; fue criada por una tía
-                política, llamada (llego a los nombres ahora) señora Reed de
-                Gateshead. Se sobresalta, ¿ha oído un ruido? Me atrevo a decir que
+                recibiÃ³ en su regazo, frÃ­o como el del ventisquero en el que casi me
+                quedo atascada esta noche. La Caridad llevÃ³ a la criatura sin amigos
+                a la casa de sus ricos parientes maternos; fue criada por una tÃ­a
+                polÃ­tica, llamada (llego a los nombres ahora) seÃ±ora Reed de
+                Gateshead. Se sobresalta, Â¿ha oÃ­do un ruido? Me atrevo a decir que
                 es solo una rata correteando por las vigas de la escuela contigua.
                 Era un granero antes de que lo reparara y modificara, y los graneros
-                suelen estar infestados de ratas. Para proseguir. La señora Reed
-                mantuvo a la huérfana diez años. Si fue feliz o no con ella, no puedo
+                suelen estar infestados de ratas. Para proseguir. La seÃ±ora Reed
+                mantuvo a la huÃ©rfana diez aÃ±os. Si fue feliz o no con ella, no puedo
                 decirlo, nunca me lo han contado; pero al final de ese tiempo la
-                trasladó a un lugar que usted conoce, siendo nada menos que la
-                Escuela de Lowood, donde usted misma residió tanto tiempo. Parece
-                que su carrera allí fue muy honorable. De alumna se convirtió en
+                trasladÃ³ a un lugar que usted conoce, siendo nada menos que la
+                Escuela de Lowood, donde usted misma residiÃ³ tanto tiempo. Parece
+                que su carrera allÃ­ fue muy honorable. De alumna se convirtiÃ³ en
                 maestra, como usted. Realmente me parece que hay puntos
-                paralelos en su historia y la suya. Lo dejó para ser institutriz. Allí, de
-                nuevo, sus destinos fueron análogos; emprendió la educación de la
-                pupila de un cierto señor Rochester.</p>
+                paralelos en su historia y la suya. Lo dejÃ³ para ser institutriz. AllÃ­, de
+                nuevo, sus destinos fueron anÃ¡logos; emprendiÃ³ la educaciÃ³n de la
+                pupila de un cierto seÃ±or Rochester.</p>
 
-                <p>—¡Señor Rivers! —interrumpí.</p>
+                <p>â€”Â¡SeÃ±or Rivers! â€”interrumpÃ­.</p>
 
-                <p>—Puedo adivinar sus sentimientos —dijo—, pero contrólelos por
-                un tiempo. Ya casi he terminado; escúcheme hasta el final. Del
-                carácter del señor Rochester no sé nada, salvo el hecho de que
-                profesó ofrecerle un matrimonio honorable a esta joven, y que en el
-                mismo altar ella descubrió que él tenía una esposa aún viva, aunque
-                lunática. Cuál fue su conducta y sus propuestas posteriores es una
-                cuestión de pura conjetura; pero cuando ocurrió un suceso que hizo
-                necesaria la indagación sobre la institutriz, se descubrió que se había
-                ido, nadie podía decir cuándo, dónde ni cómo. Había abandonado
-                Thornfield Hall por la noche; toda investigación sobre su rumbo
-                había sido en vano. Se había rastreado el país a lo largo y ancho; no
-                se pudo obtener ningún vestigio de información sobre ella. Sin
+                <p>â€”Puedo adivinar sus sentimientos â€”dijoâ€”, pero contrÃ³lelos por
+                un tiempo. Ya casi he terminado; escÃºcheme hasta el final. Del
+                carÃ¡cter del seÃ±or Rochester no sÃ© nada, salvo el hecho de que
+                profesÃ³ ofrecerle un matrimonio honorable a esta joven, y que en el
+                mismo altar ella descubriÃ³ que Ã©l tenÃ­a una esposa aÃºn viva, aunque
+                lunÃ¡tica. CuÃ¡l fue su conducta y sus propuestas posteriores es una
+                cuestiÃ³n de pura conjetura; pero cuando ocurriÃ³ un suceso que hizo
+                necesaria la indagaciÃ³n sobre la institutriz, se descubriÃ³ que se habÃ­a
+                ido, nadie podÃ­a decir cuÃ¡ndo, dÃ³nde ni cÃ³mo. HabÃ­a abandonado
+                Thornfield Hall por la noche; toda investigaciÃ³n sobre su rumbo
+                habÃ­a sido en vano. Se habÃ­a rastreado el paÃ­s a lo largo y ancho; no
+                se pudo obtener ningÃºn vestigio de informaciÃ³n sobre ella. Sin
                 embargo, que se la encuentre se ha convertido en un asunto de
-                seria urgencia. Se han puesto anuncios en todos los periódicos; yo
-                mismo he recibido una carta de un tal señor Briggs, un abogado,
-                comunicando los detalles que acabo de impartir. ¿No es una historia
-                extraña?</p>
+                seria urgencia. Se han puesto anuncios en todos los periÃ³dicos; yo
+                mismo he recibido una carta de un tal seÃ±or Briggs, un abogado,
+                comunicando los detalles que acabo de impartir. Â¿No es una historia
+                extraÃ±a?</p>
 
-                <p>—Solo dígame esto —dije—, y ya que sabe tanto, seguramente
-                puede decírmelo. ¿Qué hay del señor Rochester? ¿Cómo y dónde
-                está? ¿Qué está haciendo? ¿Está bien?</p>
+                <p>â€”Solo dÃ­game esto â€”dijeâ€”, y ya que sabe tanto, seguramente
+                puede decÃ­rmelo. Â¿QuÃ© hay del seÃ±or Rochester? Â¿CÃ³mo y dÃ³nde
+                estÃ¡? Â¿QuÃ© estÃ¡ haciendo? Â¿EstÃ¡ bien?</p>
 
-                <p>—Ignoro todo lo concerniente al señor Rochester. La carta nunca
+                <p>â€”Ignoro todo lo concerniente al seÃ±or Rochester. La carta nunca
                 lo menciona, salvo para narrar el intento fraudulento e ilegal al que
-                he aludido. Debería preguntar más bien el nombre de la institutriz, la
-                naturaleza del evento que requiere su aparición.</p>
+                he aludido. DeberÃ­a preguntar mÃ¡s bien el nombre de la institutriz, la
+                naturaleza del evento que requiere su apariciÃ³n.</p>
 
-                <p>—¿Nadie fue a Thornfield Hall, entonces? ¿Nadie vio al señor Rochester?</p>
+                <p>â€”Â¿Nadie fue a Thornfield Hall, entonces? Â¿Nadie vio al seÃ±or Rochester?</p>
 
-                <p>—Supongo que no.</p>
+                <p>â€”Supongo que no.</p>
 
-                <p>—¿Pero le escribieron?</p>
+                <p>â€”Â¿Pero le escribieron?</p>
 
-                <p>—Por supuesto.</p>
+                <p>â€”Por supuesto.</p>
 
-                <p>—¿Y qué dijo él? ¿Quién tiene sus cartas?</p>
+                <p>â€”Â¿Y quÃ© dijo Ã©l? Â¿QuiÃ©n tiene sus cartas?</p>
 
-                <p>—El señor Briggs insinúa que la respuesta a su solicitud no fue del
-                señor Rochester, sino de una dama. Está firmada como “Alice
-                Fairfax”.</p>
+                <p>â€”El seÃ±or Briggs insinÃºa que la respuesta a su solicitud no fue del
+                seÃ±or Rochester, sino de una dama. EstÃ¡ firmada como â€œAlice
+                Fairfaxâ€.</p>
 
-                <p>Me sentí fría y consternada. Mis peores temores, entonces, eran
-                probablemente ciertos. Con toda probabilidad había dejado
-                Inglaterra y se había precipitado en una desesperación temeraria a
-                algún antiguo refugio en el Continente. ¿Y qué opiáceo para sus
-                severos sufrimientos, qué objeto para sus fuertes pasiones había
-                buscado allí? No me atreví a responder la pregunta. ¡Oh, mi pobre
-                amo, una vez casi mi marido, a quien a menudo había llamado «mi
-                querido Edward»!</p>
+                <p>Me sentÃ­ frÃ­a y consternada. Mis peores temores, entonces, eran
+                probablemente ciertos. Con toda probabilidad habÃ­a dejado
+                Inglaterra y se habÃ­a precipitado en una desesperaciÃ³n temeraria a
+                algÃºn antiguo refugio en el Continente. Â¿Y quÃ© opiÃ¡ceo para sus
+                severos sufrimientos, quÃ© objeto para sus fuertes pasiones habÃ­a
+                buscado allÃ­? No me atrevÃ­ a responder la pregunta. Â¡Oh, mi pobre
+                amo, una vez casi mi marido, a quien a menudo habÃ­a llamado Â«mi
+                querido EdwardÂ»!</p>
 
-                <p>—Debe de haber sido un mal hombre —observó el señor Rivers.</p>
+                <p>â€”Debe de haber sido un mal hombre â€”observÃ³ el seÃ±or Rivers.</p>
 
-                <p>—Usted no lo conoce, no pronuncie una opinión sobre él —dije, con ardor.</p>
+                <p>â€”Usted no lo conoce, no pronuncie una opiniÃ³n sobre Ã©l â€”dije, con ardor.</p>
 
-                <p>—Muy bien —respondió tranquilamente—. Y de hecho mi cabeza
-                está ocupada en otra cosa que no sea él. Tengo mi relato que
+                <p>â€”Muy bien â€”respondiÃ³ tranquilamenteâ€”. Y de hecho mi cabeza
+                estÃ¡ ocupada en otra cosa que no sea Ã©l. Tengo mi relato que
                 terminar. Ya que no quiere preguntar el nombre de la institutriz,
-                debo decírselo por mi cuenta. ¡Espere! Lo tengo aquí, siempre es
-                más satisfactorio ver los puntos importantes escritos, debidamente
+                debo decÃ­rselo por mi cuenta. Â¡Espere! Lo tengo aquÃ­, siempre es
+                mÃ¡s satisfactorio ver los puntos importantes escritos, debidamente
                 consignados en blanco y negro.</p>
 
                 <p>Y la cartera fue de nuevo deliberadamente sacada, abierta,
-                registrada; de uno de sus compartimentos se extrajo un raído trozo
-                de papel, arrancado apresuradamente. Reconocí en su textura y en
-                sus manchas de ultramarino, laca y bermellón, el margen arrebatado
-                de la cubierta del retrato. Se levantó, me lo acercó a los ojos y leí,
-                trazadas con tinta china, de mi propia mano, las palabras «JANE
-                EYRE», obra sin duda de algún momento de abstracción.</p>
+                registrada; de uno de sus compartimentos se extrajo un raÃ­do trozo
+                de papel, arrancado apresuradamente. ReconocÃ­ en su textura y en
+                sus manchas de ultramarino, laca y bermellÃ³n, el margen arrebatado
+                de la cubierta del retrato. Se levantÃ³, me lo acercÃ³ a los ojos y leÃ­,
+                trazadas con tinta china, de mi propia mano, las palabras Â«JANE
+                EYREÂ», obra sin duda de algÃºn momento de abstracciÃ³n.</p>
 
-                <p>—Briggs me escribió de una Jane Eyre —dijo—. Los anuncios
-                demandaban a una Jane Eyre. Yo conocía a una Jane Elliott.
+                <p>â€”Briggs me escribiÃ³ de una Jane Eyre â€”dijoâ€”. Los anuncios
+                demandaban a una Jane Eyre. Yo conocÃ­a a una Jane Elliott.
                 Confieso que tuve mis sospechas, pero fue solo ayer por la tarde
-                cuando se resolvieron en certeza. ¿Reconoce el nombre y renuncia al
+                cuando se resolvieron en certeza. Â¿Reconoce el nombre y renuncia al
                 alias?</p>
 
-                <p>—Sí, sí; pero ¿dónde está el señor Briggs? Quizás sepa más del
-                señor Rochester que usted.</p>
+                <p>â€”SÃ­, sÃ­; pero Â¿dÃ³nde estÃ¡ el seÃ±or Briggs? QuizÃ¡s sepa mÃ¡s del
+                seÃ±or Rochester que usted.</p>
 
-                <p>—Briggs está en Londres. Dudaría que supiera algo en absoluto
-                sobre el señor Rochester; no es en el señor Rochester en quien está
+                <p>â€”Briggs estÃ¡ en Londres. DudarÃ­a que supiera algo en absoluto
+                sobre el seÃ±or Rochester; no es en el seÃ±or Rochester en quien estÃ¡
                 interesado. Mientras tanto, olvida usted puntos esenciales por
-                perseguir nimiedades. No pregunta por qué el señor Briggs la
-                buscaba, qué quería de usted.</p>
+                perseguir nimiedades. No pregunta por quÃ© el seÃ±or Briggs la
+                buscaba, quÃ© querÃ­a de usted.</p>
 
-                <p>—Bueno, ¿qué quería?</p>
+                <p>â€”Bueno, Â¿quÃ© querÃ­a?</p>
 
-                <p>—Simplemente decirle que su tío, el señor Eyre de Madeira, ha
+                <p>â€”Simplemente decirle que su tÃ­o, el seÃ±or Eyre de Madeira, ha
                 muerto; que le ha dejado toda su propiedad y que ahora es usted
-                rica. Simplemente eso, nada más.</p>
+                rica. Simplemente eso, nada mÃ¡s.</p>
 
-                <p>—¡Yo! ¿Rica?</p>
+                <p>â€”Â¡Yo! Â¿Rica?</p>
 
-                <p>—Sí, usted, rica. Toda una heredera.</p>
+                <p>â€”SÃ­, usted, rica. Toda una heredera.</p>
 
-                <p>Siguió un silencio.</p>
+                <p>SiguiÃ³ un silencio.</p>
 
-                <p>—Debe probar su identidad, por supuesto —reanudó St. John al
-                instante—. Un paso que no ofrecerá dificultades. Puede entonces
-                entrar en posesión inmediata. Su fortuna está invertida en los fondos
+                <p>â€”Debe probar su identidad, por supuesto â€”reanudÃ³ St. John al
+                instanteâ€”. Un paso que no ofrecerÃ¡ dificultades. Puede entonces
+                entrar en posesiÃ³n inmediata. Su fortuna estÃ¡ invertida en los fondos
                 ingleses; Briggs tiene el testamento y los documentos necesarios.</p>
 
-                <p>¡Aquí había salido una nueva carta! Es algo estupendo, lector, ser
+                <p>Â¡AquÃ­ habÃ­a salido una nueva carta! Es algo estupendo, lector, ser
                 elevado en un momento de la indigencia a la riqueza, algo muy
                 estupendo; pero no un asunto que uno pueda comprender o, en
-                consecuencia, disfrutar, de una vez. Y además hay otras
-                oportunidades en la vida mucho más emocionantes y extasiantes.
-                Esto es sólido, un asunto del mundo real, nada ideal en ello. Todas
-                sus asociaciones son sólidas y sobrias, y sus manifestaciones son las
-                mismas. Uno no salta, y brinca, y grita ¡hurra! al oír que ha
+                consecuencia, disfrutar, de una vez. Y ademÃ¡s hay otras
+                oportunidades en la vida mucho mÃ¡s emocionantes y extasiantes.
+                Esto es sÃ³lido, un asunto del mundo real, nada ideal en ello. Todas
+                sus asociaciones son sÃ³lidas y sobrias, y sus manifestaciones son las
+                mismas. Uno no salta, y brinca, y grita Â¡hurra! al oÃ­r que ha
                 heredado una fortuna; uno empieza a considerar responsabilidades y
-                a ponderar negocios. Sobre una base de satisfacción firme se alzan
+                a ponderar negocios. Sobre una base de satisfacciÃ³n firme se alzan
                 ciertas graves preocupaciones, y nos contenemos y meditamos
-                sobre nuestra dicha con un ceño solemne.</p>
+                sobre nuestra dicha con un ceÃ±o solemne.</p>
 
-                <p>Además, las palabras Legado, Herencia, van de la mano de las
-                palabras Muerte, Funeral. Mi tío, había oído, estaba muerto, mi único
-                pariente. Desde que supe de su existencia, había abrigado la
-                esperanza de verlo algún día; ahora, nunca lo haría. Y además, este
-                dinero venía solo a mí. No a mí y a una familia regocijada, sino a mi
-                yo aislado. Era una gran bendición, sin duda; y la independencia
-                sería gloriosa. Sí, sentí eso, ese pensamiento hinchó mi corazón.</p>
+                <p>AdemÃ¡s, las palabras Legado, Herencia, van de la mano de las
+                palabras Muerte, Funeral. Mi tÃ­o, habÃ­a oÃ­do, estaba muerto, mi Ãºnico
+                pariente. Desde que supe de su existencia, habÃ­a abrigado la
+                esperanza de verlo algÃºn dÃ­a; ahora, nunca lo harÃ­a. Y ademÃ¡s, este
+                dinero venÃ­a solo a mÃ­. No a mÃ­ y a una familia regocijada, sino a mi
+                yo aislado. Era una gran bendiciÃ³n, sin duda; y la independencia
+                serÃ­a gloriosa. SÃ­, sentÃ­ eso, ese pensamiento hinchÃ³ mi corazÃ³n.</p>
 
-                <p>—Por fin desfrunce usted la frente —dijo el señor Rivers—. Pensé
-                que Medusa la había mirado y que se estaba convirtiendo en piedra.
-                ¿Quizás ahora preguntará cuánto vale?</p>
+                <p>â€”Por fin desfrunce usted la frente â€”dijo el seÃ±or Riversâ€”. PensÃ©
+                que Medusa la habÃ­a mirado y que se estaba convirtiendo en piedra.
+                Â¿QuizÃ¡s ahora preguntarÃ¡ cuÃ¡nto vale?</p>
 
-                <p>—¿Cuánto valgo?</p>
+                <p>â€”Â¿CuÃ¡nto valgo?</p>
 
-                <p>—¡Oh, una nimiedad! Nada de qué hablar, por supuesto... veinte
-                mil libras, creo que dicen, ¿pero qué es eso?</p>
+                <p>â€”Â¡Oh, una nimiedad! Nada de quÃ© hablar, por supuesto... veinte
+                mil libras, creo que dicen, Â¿pero quÃ© es eso?</p>
 
-                <p>—¿Veinte mil libras?</p>
+                <p>â€”Â¿Veinte mil libras?</p>
 
-                <p>Aquí hubo un nuevo impacto. Había estado calculando cuatro o
-                cinco mil. Esta noticia realmente me dejó sin aliento por un
-                momento. El señor St. John, a quien nunca antes había oído reír, se
+                <p>AquÃ­ hubo un nuevo impacto. HabÃ­a estado calculando cuatro o
+                cinco mil. Esta noticia realmente me dejÃ³ sin aliento por un
+                momento. El seÃ±or St. John, a quien nunca antes habÃ­a oÃ­do reÃ­r, se
                 rio ahora.</p>
 
-                <p>—Bueno —dijo—, si hubiera cometido un asesinato y le hubiera
-                dicho que su crimen había sido descubierto, apenas podría parecer
-                más horrorizada.</p>
+                <p>â€”Bueno â€”dijoâ€”, si hubiera cometido un asesinato y le hubiera
+                dicho que su crimen habÃ­a sido descubierto, apenas podrÃ­a parecer
+                mÃ¡s horrorizada.</p>
 
-                <p>—Es una gran suma, ¿no cree que hay un error?</p>
+                <p>â€”Es una gran suma, Â¿no cree que hay un error?</p>
 
-                <p>—Ningún error en absoluto.</p>
+                <p>â€”NingÃºn error en absoluto.</p>
 
-                <p>—Quizás ha leído mal las cifras, ¡pueden ser dos mil!</p>
+                <p>â€”QuizÃ¡s ha leÃ­do mal las cifras, Â¡pueden ser dos mil!</p>
 
-                <p>—Está escrito en letras, no en cifras: veinte mil.</p>
+                <p>â€”EstÃ¡ escrito en letras, no en cifras: veinte mil.</p>
 
-                <p>De nuevo me sentí más bien como un individuo de poderes
-                gastronómicos medios sentándose a un festín solo en una mesa
-                dispuesta con provisiones para cien. El señor Rivers se levantó
+                <p>De nuevo me sentÃ­ mÃ¡s bien como un individuo de poderes
+                gastronÃ³micos medios sentÃ¡ndose a un festÃ­n solo en una mesa
+                dispuesta con provisiones para cien. El seÃ±or Rivers se levantÃ³
                 entonces y se puso la capa.</p>
 
-                <p>—Si no fuera una noche tan salvaje —dijo—, enviaría a Hannah a
-                hacerle compañía. Parece usted demasiado desesperadamente
-                miserable para que la dejen sola. Pero Hannah, ¡pobre mujer!, no
-                podría atravesar los ventisqueros tan bien como yo. Sus piernas no
-                son tan largas. Así que debo dejarla a sus penas. Buenas noches.
+                <p>â€”Si no fuera una noche tan salvaje â€”dijoâ€”, enviarÃ­a a Hannah a
+                hacerle compaÃ±Ã­a. Parece usted demasiado desesperadamente
+                miserable para que la dejen sola. Pero Hannah, Â¡pobre mujer!, no
+                podrÃ­a atravesar los ventisqueros tan bien como yo. Sus piernas no
+                son tan largas. AsÃ­ que debo dejarla a sus penas. Buenas noches.
                 Estaba levantando el pestillo. Un pensamiento repentino se me
-                ocurrió.</p>
+                ocurriÃ³.</p>
 
-                <p>—¡Deténgase un minuto! —grité.</p>
+                <p>â€”Â¡DetÃ©ngase un minuto! â€”gritÃ©.</p>
 
-                <p>—¿Y bien?</p>
+                <p>â€”Â¿Y bien?</p>
 
-                <p>—Me intriga saber por qué el señor Briggs le escribió a usted
-                sobre mí; o cómo lo conocía, o podía imaginarse que usted, viviendo
+                <p>â€”Me intriga saber por quÃ© el seÃ±or Briggs le escribiÃ³ a usted
+                sobre mÃ­; o cÃ³mo lo conocÃ­a, o podÃ­a imaginarse que usted, viviendo
                 en un lugar tan apartado, tuviera el poder de ayudar en mi
                 descubrimiento.</p>
 
-                <p>—¡Oh! Soy un clérigo —dijo—. Y a los clérigos a menudo se les
-                apela sobre asuntos extraños. —De nuevo el pestillo traqueteó.</p>
+                <p>â€”Â¡Oh! Soy un clÃ©rigo â€”dijoâ€”. Y a los clÃ©rigos a menudo se les
+                apela sobre asuntos extraÃ±os. â€”De nuevo el pestillo traqueteÃ³.</p>
 
-                <p>—¡No, eso no me satisface! —exclamé. Y de hecho había algo en
+                <p>â€”Â¡No, eso no me satisface! â€”exclamÃ©. Y de hecho habÃ­a algo en
                 la respuesta apresurada y poco explicativa que, en lugar de calmar,
-                picó mi curiosidad más que nunca.</p>
+                picÃ³ mi curiosidad mÃ¡s que nunca.</p>
 
-                <p>—Es un asunto muy extraño —añadí—. Debo saber más al respecto.</p>
+                <p>â€”Es un asunto muy extraÃ±o â€”aÃ±adÃ­â€”. Debo saber mÃ¡s al respecto.</p>
 
-                <p>—En otro momento.</p>
+                <p>â€”En otro momento.</p>
 
-                <p>—¡No, esta noche! ¡Esta noche! —Y mientras se apartaba de la
-                puerta, me interpuse entre ella y él. Parecía bastante avergonzado.</p>
+                <p>â€”Â¡No, esta noche! Â¡Esta noche! â€”Y mientras se apartaba de la
+                puerta, me interpuse entre ella y Ã©l. ParecÃ­a bastante avergonzado.</p>
 
-                <p>—Ciertamente no se irá hasta que me lo haya contado todo —dije.</p>
+                <p>â€”Ciertamente no se irÃ¡ hasta que me lo haya contado todo â€”dije.</p>
 
-                <p>—Preferiría no hacerlo ahora mismo.</p>
+                <p>â€”PreferirÃ­a no hacerlo ahora mismo.</p>
 
-                <p>—¡Lo hará! ¡Debe hacerlo!</p>
+                <p>â€”Â¡Lo harÃ¡! Â¡Debe hacerlo!</p>
 
-                <p>—Preferiría que Diana o Mary le informaran.</p>
+                <p>â€”PreferirÃ­a que Diana o Mary le informaran.</p>
 
-                <p>Por supuesto, estas objeciones llevaron mi avidez a un clímax.
-                Debía ser satisfecha, y sin demora; y así se lo dije.</p>
+                <p>Por supuesto, estas objeciones llevaron mi avidez a un clÃ­max.
+                DebÃ­a ser satisfecha, y sin demora; y asÃ­ se lo dije.</p>
 
-                <p>—Pero le advertí que era un hombre duro —dijo—, difícil de persuadir.</p>
+                <p>â€”Pero le advertÃ­ que era un hombre duro â€”dijoâ€”, difÃ­cil de persuadir.</p>
 
-                <p>—Y yo soy una mujer dura, imposible de disuadir.</p>
+                <p>â€”Y yo soy una mujer dura, imposible de disuadir.</p>
 
-                <p>—Y además —prosiguió—, soy frío; ningún fervor me contagia.</p>
+                <p>â€”Y ademÃ¡s â€”prosiguiÃ³â€”, soy frÃ­o; ningÃºn fervor me contagia.</p>
 
-                <p>—Mientras que yo soy ardiente, y el fuego disuelve el hielo. La
-                llamarada de ahí ha derretido toda la nieve de su capa; por la misma
-                razón, ha corrido por mi suelo y lo ha dejado como una calle
-                pisoteada. Así como espera ser perdonado, señor Rivers, por el alto
-                crimen y delito de estropear una cocina enarenada, dígame lo que
+                <p>â€”Mientras que yo soy ardiente, y el fuego disuelve el hielo. La
+                llamarada de ahÃ­ ha derretido toda la nieve de su capa; por la misma
+                razÃ³n, ha corrido por mi suelo y lo ha dejado como una calle
+                pisoteada. AsÃ­ como espera ser perdonado, seÃ±or Rivers, por el alto
+                crimen y delito de estropear una cocina enarenada, dÃ­game lo que
                 deseo saber.</p>
 
-                <p>—Bueno, entonces —dijo—, cedo; si no a su seriedad, a su
+                <p>â€”Bueno, entonces â€”dijoâ€”, cedo; si no a su seriedad, a su
                 perseverancia, como la piedra se desgasta por el goteo continuo.
-                Además, debe saberlo algún día, tanto ahora como más tarde. ¿Su
+                AdemÃ¡s, debe saberlo algÃºn dÃ­a, tanto ahora como mÃ¡s tarde. Â¿Su
                 nombre es Jane Eyre?</p>
 
-                <p>—Por supuesto; eso ya quedó todo resuelto antes.</p>
+                <p>â€”Por supuesto; eso ya quedÃ³ todo resuelto antes.</p>
 
-                <p>—No sabe usted, quizás, que soy su tocayo, que fui bautizado
+                <p>â€”No sabe usted, quizÃ¡s, que soy su tocayo, que fui bautizado
                 como St. John Eyre Rivers.</p>
 
-                <p>—¡No, en verdad! Recuerdo ahora haber visto la letra E incluida en
+                <p>â€”Â¡No, en verdad! Recuerdo ahora haber visto la letra E incluida en
                 sus iniciales escritas en libros que me ha prestado en diferentes
-                ocasiones, pero nunca pregunté a qué nombre correspondía. Pero,
-                ¿y entonces qué? Seguramente...</p>
+                ocasiones, pero nunca preguntÃ© a quÃ© nombre correspondÃ­a. Pero,
+                Â¿y entonces quÃ©? Seguramente...</p>
 
-                <p>Me detuve. No podía confiar en mí misma para albergar, y mucho
-                menos para expresar, el pensamiento que se abalanzó sobre mí, que
-                se encarnó, que, en un segundo, se destacó como una probabilidad
-                fuerte y sólida. Las circunstancias se entrelazaron, se ajustaron, se
-                pusieron en orden. La cadena que hasta ahora había yacido como un
-                amasijo informe de eslabones se extendió recta: cada anillo era
-                perfecto, la conexión, completa. Supe, por instinto, cómo estaba el
+                <p>Me detuve. No podÃ­a confiar en mÃ­ misma para albergar, y mucho
+                menos para expresar, el pensamiento que se abalanzÃ³ sobre mÃ­, que
+                se encarnÃ³, que, en un segundo, se destacÃ³ como una probabilidad
+                fuerte y sÃ³lida. Las circunstancias se entrelazaron, se ajustaron, se
+                pusieron en orden. La cadena que hasta ahora habÃ­a yacido como un
+                amasijo informe de eslabones se extendiÃ³ recta: cada anillo era
+                perfecto, la conexiÃ³n, completa. Supe, por instinto, cÃ³mo estaba el
                 asunto, antes de que St. John hubiera dicho otra palabra; pero no
-                puedo esperar que el lector tenga la misma percepción intuitiva, así
-                que debo repetir su explicación.</p>
+                puedo esperar que el lector tenga la misma percepciÃ³n intuitiva, asÃ­
+                que debo repetir su explicaciÃ³n.</p>
 
-                <p>—El nombre de mi madre era Eyre; tenía dos hermanos: uno, un
-                clérigo, que se casó con la señorita Jane Reed, de Gateshead; el
+                <p>â€”El nombre de mi madre era Eyre; tenÃ­a dos hermanos: uno, un
+                clÃ©rigo, que se casÃ³ con la seÃ±orita Jane Reed, de Gateshead; el
                 otro, John Eyre, Esquire, comerciante, anteriormente de Funchal,
-                Madeira. El señor Briggs, siendo el abogado del señor Eyre, nos
-                escribió el pasado agosto para informarnos de la muerte de nuestro
-                tío y para decir que había dejado su propiedad a la hija huérfana de
-                su hermano el clérigo, pasándonos por alto, a consecuencia de una
-                riña, nunca perdonada, entre él y mi padre. Escribió de nuevo hace
-                unas semanas para comunicar que la heredera se había perdido y
-                preguntar si sabíamos algo de ella. Un nombre escrito casualmente
+                Madeira. El seÃ±or Briggs, siendo el abogado del seÃ±or Eyre, nos
+                escribiÃ³ el pasado agosto para informarnos de la muerte de nuestro
+                tÃ­o y para decir que habÃ­a dejado su propiedad a la hija huÃ©rfana de
+                su hermano el clÃ©rigo, pasÃ¡ndonos por alto, a consecuencia de una
+                riÃ±a, nunca perdonada, entre Ã©l y mi padre. EscribiÃ³ de nuevo hace
+                unas semanas para comunicar que la heredera se habÃ­a perdido y
+                preguntar si sabÃ­amos algo de ella. Un nombre escrito casualmente
                 en un trozo de papel me ha permitido encontrarla. El resto ya lo
-                sabe. —De nuevo se disponía a marcharse, pero puse mi espalda
+                sabe. â€”De nuevo se disponÃ­a a marcharse, pero puse mi espalda
                 contra la puerta.</p>
 
-                <p>—Déjeme hablar —dije—. Déjeme un momento para respirar y
-                reflexionar. —Hice una pausa. Él estaba de pie ante mí, con el
-                sombrero en la mano, con un aspecto bastante sereno. Reanudé—:
-                ¿Su madre era la hermana de mi padre?</p>
+                <p>â€”DÃ©jeme hablar â€”dijeâ€”. DÃ©jeme un momento para respirar y
+                reflexionar. â€”Hice una pausa. Ã‰l estaba de pie ante mÃ­, con el
+                sombrero en la mano, con un aspecto bastante sereno. ReanudÃ©â€”:
+                Â¿Su madre era la hermana de mi padre?</p>
 
-                <p>—Sí.</p>
+                <p>â€”SÃ­.</p>
 
-                <p>—¿Mi tía, en consecuencia?</p>
+                <p>â€”Â¿Mi tÃ­a, en consecuencia?</p>
 
                 <p>Hizo una reverencia.</p>
 
-                <p>—¿Mi tío John era su tío John? ¿Usted, Diana y Mary son los hijos
+                <p>â€”Â¿Mi tÃ­o John era su tÃ­o John? Â¿Usted, Diana y Mary son los hijos
                 de su hermana, como yo soy la hija de su hermano?</p>
 
-                <p>—Innegablemente.</p>
+                <p>â€”Innegablemente.</p>
 
-                <p>—Ustedes tres, entonces, ¿son mis primos; la mitad de nuestra
+                <p>â€”Ustedes tres, entonces, Â¿son mis primos; la mitad de nuestra
                 sangre por cada lado fluye de la misma fuente?</p>
 
-                <p>—Somos primos; sí.</p>
+                <p>â€”Somos primos; sÃ­.</p>
 
-                <p>Lo examiné. Parecía que había encontrado un hermano, uno del
-                que podía estar orgullosa, uno al que podía amar; y dos hermanas,
-                cuyas cualidades eran tales que, cuando las conocí solo como meras
-                extrañas, me habían inspirado un afecto y una admiración genuinos.
+                <p>Lo examinÃ©. ParecÃ­a que habÃ­a encontrado un hermano, uno del
+                que podÃ­a estar orgullosa, uno al que podÃ­a amar; y dos hermanas,
+                cuyas cualidades eran tales que, cuando las conocÃ­ solo como meras
+                extraÃ±as, me habÃ­an inspirado un afecto y una admiraciÃ³n genuinos.
                 Las dos chicas a las que, arrodillada en el suelo mojado y mirando a
-                través de la ventana baja y de celosía de la cocina de Moor House,
-                había contemplado con una mezcla tan amarga de interés y
-                desesperación, eran mis parientes cercanas; y el joven y majestuoso
-                caballero que me había encontrado casi muriendo en su umbral era
-                mi pariente de sangre. ¡Glorioso descubrimiento para una
-                desgraciada solitaria! ¡Esto era riqueza, en verdad! ¡Riqueza para el
-                corazón! Una mina de afectos puros y cordiales. Esto era una
-                bendición, brillante, vívida y estimulante; no como el pesado regalo
+                travÃ©s de la ventana baja y de celosÃ­a de la cocina de Moor House,
+                habÃ­a contemplado con una mezcla tan amarga de interÃ©s y
+                desesperaciÃ³n, eran mis parientes cercanas; y el joven y majestuoso
+                caballero que me habÃ­a encontrado casi muriendo en su umbral era
+                mi pariente de sangre. Â¡Glorioso descubrimiento para una
+                desgraciada solitaria! Â¡Esto era riqueza, en verdad! Â¡Riqueza para el
+                corazÃ³n! Una mina de afectos puros y cordiales. Esto era una
+                bendiciÃ³n, brillante, vÃ­vida y estimulante; no como el pesado regalo
                 del oro, rico y bienvenido a su manera, pero que da que pensar por
-                su peso. Ahora aplaudí con súbita alegría, mi pulso se aceleró, mis
+                su peso. Ahora aplaudÃ­ con sÃºbita alegrÃ­a, mi pulso se acelerÃ³, mis
                 venas se estremecieron.</p>
 
-                <p>—¡Oh, estoy contenta! ¡Estoy contenta! —exclamé.</p>
+                <p>â€”Â¡Oh, estoy contenta! Â¡Estoy contenta! â€”exclamÃ©.</p>
 
-                <p>St. John sonrió.</p>
+                <p>St. John sonriÃ³.</p>
 
-                <p>—¿No dije que descuidaba los puntos esenciales por perseguir
-                nimiedades? —preguntó—. Se puso seria cuando le dije que había
-                heredado una fortuna; y ahora, por un asunto sin importancia, está
+                <p>â€”Â¿No dije que descuidaba los puntos esenciales por perseguir
+                nimiedades? â€”preguntÃ³â€”. Se puso seria cuando le dije que habÃ­a
+                heredado una fortuna; y ahora, por un asunto sin importancia, estÃ¡
                 excitada.</p>
 
-                <p>—¿Qué quiere decir? Puede que no tenga importancia para usted;
-                tiene hermanas y no le importa una prima. Pero yo no tenía a nadie;
-                y ahora tres parientes —o dos, si no quiere que lo cuenten— han
-                nacido en mi mundo ya crecidos. ¡Repito que estoy contenta!</p>
+                <p>â€”Â¿QuÃ© quiere decir? Puede que no tenga importancia para usted;
+                tiene hermanas y no le importa una prima. Pero yo no tenÃ­a a nadie;
+                y ahora tres parientes â€”o dos, si no quiere que lo cuentenâ€” han
+                nacido en mi mundo ya crecidos. Â¡Repito que estoy contenta!</p>
 
-                <p>Caminé rápido por la habitación. Me detuve, medio sofocada por
-                los pensamientos que surgían más rápido de lo que podía recibirlos,
-                comprenderlos, asentarlos: pensamientos de lo que podría, podría
-                ser, sería y debería ser, y eso en poco tiempo. Miré la pared en
-                blanco. Parecía un cielo espeso de estrellas ascendentes, cada una
-                me iluminaba hacia un propósito o un deleite. Aquellos que me
-                habían salvado la vida, a quienes, hasta esta hora, había amado
-                estérilmente, ahora podía beneficiarlos. Estaban bajo un yugo, podía
-                liberarlos. Estaban dispersos, podía reunirlos. La independencia, la
-                afluencia que era mía, podría ser suya también. ¿No éramos cuatro?
-                Veinte mil libras compartidas a partes iguales serían cinco mil para
-                cada uno, justo, suficiente y de sobra. Se haría justicia, se
-                aseguraría la felicidad mutua. Ahora la riqueza no pesaba sobre mí.
+                <p>CaminÃ© rÃ¡pido por la habitaciÃ³n. Me detuve, medio sofocada por
+                los pensamientos que surgÃ­an mÃ¡s rÃ¡pido de lo que podÃ­a recibirlos,
+                comprenderlos, asentarlos: pensamientos de lo que podrÃ­a, podrÃ­a
+                ser, serÃ­a y deberÃ­a ser, y eso en poco tiempo. MirÃ© la pared en
+                blanco. ParecÃ­a un cielo espeso de estrellas ascendentes, cada una
+                me iluminaba hacia un propÃ³sito o un deleite. Aquellos que me
+                habÃ­an salvado la vida, a quienes, hasta esta hora, habÃ­a amado
+                estÃ©rilmente, ahora podÃ­a beneficiarlos. Estaban bajo un yugo, podÃ­a
+                liberarlos. Estaban dispersos, podÃ­a reunirlos. La independencia, la
+                afluencia que era mÃ­a, podrÃ­a ser suya tambiÃ©n. Â¿No Ã©ramos cuatro?
+                Veinte mil libras compartidas a partes iguales serÃ­an cinco mil para
+                cada uno, justo, suficiente y de sobra. Se harÃ­a justicia, se
+                asegurarÃ­a la felicidad mutua. Ahora la riqueza no pesaba sobre mÃ­.
                 Ahora no era un mero legado de monedas, era un legado de vida,
                 esperanza, disfrute.</p>
 
-                <p>Cómo me veía mientras estas ideas tomaban mi espíritu por
-                asalto, no puedo decirlo; pero pronto me di cuenta de que el señor
-                Rivers había colocado una silla detrás de mí y trataba suavemente
-                de hacerme sentar en ella. También me aconsejó que me calmara.
-                Desprecié la insinuación de impotencia y distracción, me zafé de su
-                mano y comencé a caminar de nuevo.</p>
+                <p>CÃ³mo me veÃ­a mientras estas ideas tomaban mi espÃ­ritu por
+                asalto, no puedo decirlo; pero pronto me di cuenta de que el seÃ±or
+                Rivers habÃ­a colocado una silla detrÃ¡s de mÃ­ y trataba suavemente
+                de hacerme sentar en ella. TambiÃ©n me aconsejÃ³ que me calmara.
+                DespreciÃ© la insinuaciÃ³n de impotencia y distracciÃ³n, me zafÃ© de su
+                mano y comencÃ© a caminar de nuevo.</p>
 
-                <p>—Escriba a Diana y a Mary mañana —dije— y dígales que vuelvan
-                a casa directamente. Diana dijo que ambas se considerarían ricas
-                con mil libras, así que con cinco mil les irá muy bien.</p>
+                <p>â€”Escriba a Diana y a Mary maÃ±ana â€”dijeâ€” y dÃ­gales que vuelvan
+                a casa directamente. Diana dijo que ambas se considerarÃ­an ricas
+                con mil libras, asÃ­ que con cinco mil les irÃ¡ muy bien.</p>
 
-                <p>—Dígame dónde puedo conseguirle un vaso de agua —dijo St.
-                John—. Debe hacer realmente un esfuerzo por tranquilizar sus
+                <p>â€”DÃ­game dÃ³nde puedo conseguirle un vaso de agua â€”dijo St.
+                Johnâ€”. Debe hacer realmente un esfuerzo por tranquilizar sus
                 sentimientos.</p>
 
-                <p>—¡Tonterías! ¿Y qué clase de efecto tendrá el legado en usted?
-                ¿Lo mantendrá en Inglaterra, lo inducirá a casarse con la señorita
+                <p>â€”Â¡TonterÃ­as! Â¿Y quÃ© clase de efecto tendrÃ¡ el legado en usted?
+                Â¿Lo mantendrÃ¡ en Inglaterra, lo inducirÃ¡ a casarse con la seÃ±orita
                 Oliver y a establecerse como un mortal corriente?</p>
 
-                <p>—Usted divaga. Su cabeza se confunde. He sido demasiado brusco
-                al comunicar la noticia; la ha excitado más allá de sus fuerzas.</p>
+                <p>â€”Usted divaga. Su cabeza se confunde. He sido demasiado brusco
+                al comunicar la noticia; la ha excitado mÃ¡s allÃ¡ de sus fuerzas.</p>
 
-                <p>—¡Señor Rivers! Me saca usted de quicio. Soy lo suficientemente
-                racional; es usted quien malinterpreta, o más bien quien finge
+                <p>â€”Â¡SeÃ±or Rivers! Me saca usted de quicio. Soy lo suficientemente
+                racional; es usted quien malinterpreta, o mÃ¡s bien quien finge
                 malinterpretar.</p>
 
-                <p>—Quizás, si se explicara un poco más detalladamente, comprendería mejor.</p>
+                <p>â€”QuizÃ¡s, si se explicara un poco mÃ¡s detalladamente, comprenderÃ­a mejor.</p>
 
-                <p>—¡Explicar! ¿Qué hay que explicar? ¿No puede dejar de ver que
-                veinte mil libras, la suma en cuestión, dividida a partes iguales entre
-                el sobrino y las tres sobrinas de nuestro tío, dará cinco mil a cada
+                <p>â€”Â¡Explicar! Â¿QuÃ© hay que explicar? Â¿No puede dejar de ver que
+                veinte mil libras, la suma en cuestiÃ³n, dividida a partes iguales entre
+                el sobrino y las tres sobrinas de nuestro tÃ­o, darÃ¡ cinco mil a cada
                 uno? Lo que quiero es que escriba a sus hermanas y les hable de la
                 fortuna que les ha correspondido.</p>
 
-                <p>—A usted, querrá decir.</p>
+                <p>â€”A usted, querrÃ¡ decir.</p>
 
-                <p>—He insinuado mi punto de vista sobre el caso. Soy incapaz de
-                tomar ningún otro. No soy brutalmente egoísta, ciegamente injusta
-                ni diabólicamente ingrata. Además, estoy resuelta a tener un hogar y
-                conexiones. Me gusta Moor House y viviré en Moor House. Me
-                gustan Diana y Mary, y me uniré de por vida a Diana y a Mary. Me
-                complacería y beneficiaría tener cinco mil libras; me atormentaría y
-                oprimiría tener veinte mil; las cuales, además, nunca podrían ser
-                mías en justicia, aunque pudieran serlo en derecho. Le abandono,
-                pues, lo que me es absolutamente superfluo. Que no haya oposición
-                ni discusión al respecto; pongámonos de acuerdo entre nosotros y
+                <p>â€”He insinuado mi punto de vista sobre el caso. Soy incapaz de
+                tomar ningÃºn otro. No soy brutalmente egoÃ­sta, ciegamente injusta
+                ni diabÃ³licamente ingrata. AdemÃ¡s, estoy resuelta a tener un hogar y
+                conexiones. Me gusta Moor House y vivirÃ© en Moor House. Me
+                gustan Diana y Mary, y me unirÃ© de por vida a Diana y a Mary. Me
+                complacerÃ­a y beneficiarÃ­a tener cinco mil libras; me atormentarÃ­a y
+                oprimirÃ­a tener veinte mil; las cuales, ademÃ¡s, nunca podrÃ­an ser
+                mÃ­as en justicia, aunque pudieran serlo en derecho. Le abandono,
+                pues, lo que me es absolutamente superfluo. Que no haya oposiciÃ³n
+                ni discusiÃ³n al respecto; pongÃ¡monos de acuerdo entre nosotros y
                 decidamos el punto de una vez.</p>
 
-                <p>—Esto es actuar por primeros impulsos. Debe tomarse días para
+                <p>â€”Esto es actuar por primeros impulsos. Debe tomarse dÃ­as para
                 considerar tal asunto, antes de que su palabra pueda ser
-                considerada válida.</p>
+                considerada vÃ¡lida.</p>
 
-                <p>—¡Oh! Si todo lo que duda es mi sinceridad, estoy tranquila. ¿Ve
+                <p>â€”Â¡Oh! Si todo lo que duda es mi sinceridad, estoy tranquila. Â¿Ve
                 usted la justicia del caso?</p>
 
-                <p>—Sí veo una cierta justicia; pero es contraria a toda costumbre.
-                Además, la fortuna entera es su derecho. Mi tío la ganó con sus
-                propios esfuerzos; era libre de dejarla a quien quisiera. Se la dejó a
-                usted. Después de todo, la justicia le permite conservarla. Puede,
+                <p>â€”SÃ­ veo una cierta justicia; pero es contraria a toda costumbre.
+                AdemÃ¡s, la fortuna entera es su derecho. Mi tÃ­o la ganÃ³ con sus
+                propios esfuerzos; era libre de dejarla a quien quisiera. Se la dejÃ³ a
+                usted. DespuÃ©s de todo, la justicia le permite conservarla. Puede,
                 con la conciencia tranquila, considerarla absolutamente suya.</p>
 
-                <p>—Para mí —dije—, es tanto una cuestión de sentimiento como de
+                <p>â€”Para mÃ­ â€”dijeâ€”, es tanto una cuestiÃ³n de sentimiento como de
                 conciencia. Debo dar rienda suelta a mis sentimientos; tan rara vez
                 he tenido la oportunidad de hacerlo. Aunque argumentara, objetara
-                y me molestara durante un año, no podría renunciar al delicioso
+                y me molestara durante un aÃ±o, no podrÃ­a renunciar al delicioso
                 placer del que he vislumbrado un atisbo: el de pagar, en parte, una
-                enorme obligación y ganarme para mí amigos para toda la vida.</p>
+                enorme obligaciÃ³n y ganarme para mÃ­ amigos para toda la vida.</p>
 
-                <p>—Así piensa ahora —replicó St. John—, porque no sabe lo que es
+                <p>â€”AsÃ­ piensa ahora â€”replicÃ³ St. Johnâ€”, porque no sabe lo que es
                 poseer, ni en consecuencia disfrutar de la riqueza. No puede
-                formarse una idea de la importancia que le darían veinte mil libras;
-                del lugar que le permitirían ocupar en la sociedad; de las
-                perspectivas que le abrirían. No puede...</p>
+                formarse una idea de la importancia que le darÃ­an veinte mil libras;
+                del lugar que le permitirÃ­an ocupar en la sociedad; de las
+                perspectivas que le abrirÃ­an. No puede...</p>
 
-                <p>—Y usted —interrumpí—, no puede imaginar en absoluto el anhelo
+                <p>â€”Y usted â€”interrumpÃ­â€”, no puede imaginar en absoluto el anhelo
                 que tengo de amor fraterno y sororal. Nunca tuve un hogar, nunca
-                tuve hermanos o hermanas; debo y los tendré ahora. No es usted
-                reacio a admitirme y reconocerme, ¿verdad?</p>
+                tuve hermanos o hermanas; debo y los tendrÃ© ahora. No es usted
+                reacio a admitirme y reconocerme, Â¿verdad?</p>
 
-                <p>—Jane, seré tu hermano, mis hermanas serán tus hermanas, sin
+                <p>â€”Jane, serÃ© tu hermano, mis hermanas serÃ¡n tus hermanas, sin
                 estipular este sacrificio de tus justos derechos.</p>
 
-                <p>—¿Hermano? ¡Sí, a la distancia de mil leguas! ¿Hermanas? ¡Sí,
-                esclavizadas entre extraños! ¡Yo, rica, atiborrada de oro que nunca
-                gané y no merezco! ¡Ustedes, sin un céntimo! ¡Famosa igualdad y
-                fraternización! ¡Unión estrecha! ¡Apego íntimo!</p>
+                <p>â€”Â¿Hermano? Â¡SÃ­, a la distancia de mil leguas! Â¿Hermanas? Â¡SÃ­,
+                esclavizadas entre extraÃ±os! Â¡Yo, rica, atiborrada de oro que nunca
+                ganÃ© y no merezco! Â¡Ustedes, sin un cÃ©ntimo! Â¡Famosa igualdad y
+                fraternizaciÃ³n! Â¡UniÃ³n estrecha! Â¡Apego Ã­ntimo!</p>
 
-                <p>—Pero, Jane, sus aspiraciones a lazos familiares y a la felicidad
-                doméstica pueden realizarse de otra manera que por los medios que
+                <p>â€”Pero, Jane, sus aspiraciones a lazos familiares y a la felicidad
+                domÃ©stica pueden realizarse de otra manera que por los medios que
                 contempla. Puede casarse.</p>
 
-                <p>—¡Tonterías, de nuevo! ¡Casarme! No quiero casarme y nunca me casaré.</p>
+                <p>â€”Â¡TonterÃ­as, de nuevo! Â¡Casarme! No quiero casarme y nunca me casarÃ©.</p>
 
-                <p>—Eso es decir demasiado. Afirmaciones tan arriesgadas son una
-                prueba de la excitación bajo la que se encuentra.</p>
+                <p>â€”Eso es decir demasiado. Afirmaciones tan arriesgadas son una
+                prueba de la excitaciÃ³n bajo la que se encuentra.</p>
 
-                <p>—No es decir demasiado. Sé lo que siento y cuán adversas son
+                <p>â€”No es decir demasiado. SÃ© lo que siento y cuÃ¡n adversas son
                 mis inclinaciones al mero pensamiento del matrimonio. Nadie me
-                tomaría por amor; y no seré considerada a la luz de una mera
-                especulación monetaria. Y no quiero a un extraño, insensible, ajeno,
-                diferente a mí. Quiero a mis parientes, aquellos con los que tengo
-                plena afinidad. Diga de nuevo que será mi hermano. Cuando
-                pronunció las palabras me sentí satisfecha, feliz. Repítalas, si puede,
-                repítalas sinceramente.</p>
+                tomarÃ­a por amor; y no serÃ© considerada a la luz de una mera
+                especulaciÃ³n monetaria. Y no quiero a un extraÃ±o, insensible, ajeno,
+                diferente a mÃ­. Quiero a mis parientes, aquellos con los que tengo
+                plena afinidad. Diga de nuevo que serÃ¡ mi hermano. Cuando
+                pronunciÃ³ las palabras me sentÃ­ satisfecha, feliz. RepÃ­talas, si puede,
+                repÃ­talas sinceramente.</p>
 
-                <p>—Creo que puedo. Sé que siempre he amado a mis propias
-                hermanas; y sé en qué se basa mi afecto por ellas: el respeto por su
-                valía y la admiración por sus talentos. Usted también tiene principios
-                y mente. Sus gustos y hábitos se asemejan a los de Diana y Mary;
-                su presencia siempre me resulta agradable; en su conversación ya
-                he encontrado durante algún tiempo un solaz saludable. Siento que
-                puedo fácil y naturalmente hacerle un hueco en mi corazón, como
-                mi tercera y más joven hermana.</p>
+                <p>â€”Creo que puedo. SÃ© que siempre he amado a mis propias
+                hermanas; y sÃ© en quÃ© se basa mi afecto por ellas: el respeto por su
+                valÃ­a y la admiraciÃ³n por sus talentos. Usted tambiÃ©n tiene principios
+                y mente. Sus gustos y hÃ¡bitos se asemejan a los de Diana y Mary;
+                su presencia siempre me resulta agradable; en su conversaciÃ³n ya
+                he encontrado durante algÃºn tiempo un solaz saludable. Siento que
+                puedo fÃ¡cil y naturalmente hacerle un hueco en mi corazÃ³n, como
+                mi tercera y mÃ¡s joven hermana.</p>
 
-                <p>—Gracias. Eso me contenta por esta noche. Ahora será mejor que
-                se vaya; pues si se queda más tiempo, quizás me irrite de nuevo con
-                algún escrúpulo desconfiado.</p>
+                <p>â€”Gracias. Eso me contenta por esta noche. Ahora serÃ¡ mejor que
+                se vaya; pues si se queda mÃ¡s tiempo, quizÃ¡s me irrite de nuevo con
+                algÃºn escrÃºpulo desconfiado.</p>
 
-                <p>—¿Y la escuela, señorita Eyre? Supongo que ahora debe cerrarse.</p>
+                <p>â€”Â¿Y la escuela, seÃ±orita Eyre? Supongo que ahora debe cerrarse.</p>
 
-                <p>—No. Conservaré mi puesto de maestra hasta que consiga unasustituta.</p>
+                <p>â€”No. ConservarÃ© mi puesto de maestra hasta que consiga unasustituta.</p>
 
-                <p>Sonrió con aprobación. Nos dimos la mano y se despidió.</p>
+                <p>SonriÃ³ con aprobaciÃ³n. Nos dimos la mano y se despidiÃ³.</p>
 
                 <p>No necesito narrar en detalle las luchas posteriores que tuve y los
-                argumentos que usé para que los asuntos relativos al legado se
+                argumentos que usÃ© para que los asuntos relativos al legado se
                 resolvieran como yo deseaba. Mi tarea fue muy dura; pero, como
-                estaba absolutamente resuelta —como mis primos vieron al fin que
+                estaba absolutamente resuelta â€”como mis primos vieron al fin que
                 mi mente estaba real e inmutablemente fija en hacer una justa
-                división de la propiedad, como debieron de sentir en sus propios
-                corazones la equidad de la intención, y debieron, además, de ser
-                innatamente conscientes de que en mi lugar habrían hecho
-                precisamente lo que yo deseaba hacer—, cedieron al fin hasta
+                divisiÃ³n de la propiedad, como debieron de sentir en sus propios
+                corazones la equidad de la intenciÃ³n, y debieron, ademÃ¡s, de ser
+                innatamente conscientes de que en mi lugar habrÃ­an hecho
+                precisamente lo que yo deseaba hacerâ€”, cedieron al fin hasta
                 consentir en someter el asunto a arbitraje. Los jueces elegidos
-                fueron el señor Oliver y un hábil abogado. Ambos coincidieron en mi
-                opinión. Me salí con la mía. Se redactaron los instrumentos de
+                fueron el seÃ±or Oliver y un hÃ¡bil abogado. Ambos coincidieron en mi
+                opiniÃ³n. Me salÃ­ con la mÃ­a. Se redactaron los instrumentos de
                 transferencia. St. John, Diana, Mary y yo, cada uno, entramos en
-                posesión de una posición desahogada.</p>
+                posesiÃ³n de una posiciÃ³n desahogada.</p>
+
 
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap32.php" rel="prev">Anterior</a>
-                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menÃº de capÃ­tulos</a>
                     <a class="cambioSiguiente" href="cap34.php" rel="next">Siguiente</a>
                 </div>
             </section>

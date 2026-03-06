@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Cap�tulo 1</title>
+    <title>Capítulo 1</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el cap�tulo 1">
+    <meta name="description" content="Este es el capítulo 1">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -83,7 +83,7 @@
             
             <section class="contenido">
                 <h1>Capítulo I</h1>
-                
+    
                 <p>Aquel día no hubo posibilidad de salir de paseo. Por la mañana, es
                 cierto, habíamos estado vagando durante una hora entre los
                 arbustos deshojados; pero desde la comida (la señora Reed, cuando
@@ -92,8 +92,8 @@
                 cualquier otro ejercicio al aire libre quedaba ya descartado.</p>
 
                 <p>Me alegré de ello: nunca me gustaron los paseos largos,
-                especialmente en las tardes frías.. Me resultaba espantoso volver a
-                casa en el crudo crepúsculo,, con los dedos de pies y manos
+                especialmente en las tardes frías. Me resultaba espantoso volver a
+                casa en el crudo crepúsculo, con los dedos de pies y manos
                 amoratados por el frío, el corazón entristecido por las regañinas de
                 Bessie, la niñera, y humillada por la conciencia de mi inferioridad
                 física con respecto a Eliza, John y Georgiana Reed.</p>
@@ -120,7 +120,7 @@
                 puedas hablar con amabilidad, permanece en silencio.</p>
 
                 <p>Un comedor de diario colindaba con el salón; me deslicé hasta allí.
-                Contenía una librería;; pronto me hice con un volumen, cuidando que
+                Contenía una librería; pronto me hice con un volumen, cuidando que
                 fuera uno lleno de ilustraciones. Me subí al asiento del ventanal y,
                 recogiendo los pies, me senté con las piernas cruzadas, como un
                 turco; y, habiendo corrido la cortina de moer rojo hasta dejarla casi
@@ -128,9 +128,9 @@
 
                 <p>Pliegues de pañería escarlata me cerraban la vista a la derecha; a
                 la izquierda estaban los claros cristales de la ventana, que me
-                protegían,, pero no me separaban, del lúgubre día de noviembre. A
+                protegían, pero no me separaban, del lúgubre día de noviembre. A
                 ratos, mientras pasaba las hojas de mi libro, estudiaba el aspecto de
-                aquella tarde de invierno. A lo lejos, ofrecía una pálida extensiónn de
+                aquella tarde de invierno. A lo lejos, ofrecía una pálida extensión de
                 niebla y nubes; de cerca, una escena de césped mojado y arbustos
                 azotados por la tormenta, con una lluvia incesante que barría con
                 furia ante una prolongada y lastimera ráfaga de viento.</p>
@@ -139,192 +139,192 @@
                 texto, en general, me importaba poco; y sin embargo, había ciertas
                 páginas introductorias que, a pesar de mi corta edad, no podía pasar
                 por alto. Eran aquellas que trataban de los refugios de las aves
-                marinas; de �las solitarias rocas y promontorios� habitados
-                �nicamente por ellas; de la costa de Noruega, salpicada de islas
+                marinas; de «las solitarias rocas y promontorios» habitados
+                únicamente por ellas; de la costa de Noruega, salpicada de islas
                 desde su extremo sur, el Lindeness, o Naze, hasta el Cabo Norte:</p>
 
-                <p class="centradoP">�Donde el Oc�ano Boreal, en vastos remolinos,</p>
+                <cite>«Donde el Océano Boreal, en vastos remolinos,</cite>
 
-                <p class="centradoP">Hierve en torno a las desnudas y melanc�licas islas</p>
+                <cite>Hierve en torno a las desnudas y melancólicas islas</cite>
 
-                <p class="centradoP">De la lejana Thule; y el oleaje del Atl�ntico</p>
+                <cite>De la lejana Thule; y el oleaje del Atlántico</cite>
 
-                <p class="centradoP">Se vierte entre las tormentosas H�bridas�.</p>
+                <cite>Se vierte entre las tormentosas Hébridas».</cite>
 
-                <p>Tampoco podía pasar por alto la evocaci�n de las desoladas costas
+                <p>Tampoco podía pasar por alto la evocación de las desoladas costas
                 de Laponia, Siberia, Spitzbergen, Nueva Zembla, Islandia,
-                Groenlandia, con �la vasta extensi�n de la Zona �rtica, y esas
-                regiones desamparadas de espacio l�gubre �ese dep�sito de
-                escarcha y nieve, donde firmes campos de hielo, acumulaci�n de
+                Groenlandia, con «la vasta extensión de la Zona Ártica, y esas
+                regiones desamparadas de espacio lúgubre —ese depósito de
+                escarcha y nieve, donde firmes campos de hielo, acumulación de
                 siglos de inviernos, vidriados en alturas alpinas sobre alturas, rodean
-                el polo y concentran los m�ltiples rigores del fr�o extremo�. De estos
-                reinos de blancura mortal me form� una idea propia: sombr�a, como
+                el polo y concentran los múltiples rigores del frío extremo». De estos
+                reinos de blancura mortal me formé una idea propia: sombría, como
                 todas las nociones a medio comprender que flotan confusamente en
-                los cerebros infantiles, pero extra�amente impresionante. Las
-                palabras de estas p�ginas introductorias se conectaban con las
-                vi�etas siguientes y daban significado a la roca que se alzaba
+                los cerebros infantiles, pero extrañamente impresionante. Las
+                palabras de estas páginas introductorias se conectaban con las
+                viñetas siguientes y daban significado a la roca que se alzaba
                 solitaria en un mar de olas y espuma; al bote roto varado en una
-                costa desolada; a la luna fr�a y espectral que se asomaba entre
+                costa desolada; a la luna fría y espectral que se asomaba entre
                 barrotes de nubes sobre un naufragio a punto de hundirse.</p>
 
-                <p>No sabr�a decir qu� sentimiento rondaba el cementerio
-                completamente solitario, con su l�pida inscrita; su verja, sus dos
-                �rboles, su bajo horizonte, ce�ido por un muro derruido, y su luna
-                creciente reci�n aparecida, que atestiguaba la hora del atardecer.</p>
+                <p>No sabría decir qué sentimiento rondaba el cementerio
+                completamente solitario, con su lápida inscrita; su verja, sus dos
+                árboles, su bajo horizonte, ceñido por un muro derruido, y su luna
+                creciente recién aparecida, que atestiguaba la hora del atardecer.</p>
 
-                <p>Los dos barcos encalmados en un mar aletargado, cre� que eran
+                <p>Los dos barcos encalmados en un mar aletargado, creí que eran
                 fantasmas marinos.</p>
 
-                <p>Al demonio que sujetaba el fardo del ladr�n a su espalda, lo pas�
-                de largo r�pidamente: era un objeto de terror.</p>
+                <p>Al demonio que sujetaba el fardo del ladrón a su espalda, lo pasé
+                de largo rápidamente: era un objeto de terror.</p>
 
-                <p>Tambi�n lo era la cosa negra con cuernos sentada en lo alto de
+                <p>También lo era la cosa negra con cuernos sentada en lo alto de
                 una roca, que contemplaba a una multitud lejana que rodeaba un
-                pat�bulo.</p>
+                patíbulo.</p>
 
                 <p>Cada imagen contaba una historia; a menudo misteriosa para mi
                 entendimiento no desarrollado y mis sentimientos imperfectos, pero
                 siempre profundamente interesante: tan interesante como los
                 cuentos que Bessie narraba a veces en las tardes de invierno,
-                cuando le daba por estar de buen humor; y cuando, habiendo tra�do
-                su tabla de planchar al hogar del cuarto de los ni�os, nos permit�a
+                cuando le daba por estar de buen humor; y cuando, habiendo traído
+                su tabla de planchar al hogar del cuarto de los niños, nos permitía
                 sentarnos a su alrededor y, mientras almidonaba los volantes de
-                encaje de la se�ora Reed y ondulaba los bordes de sus gorros de
-                dormir, alimentaba nuestra �vida atenci�n con pasajes de amor y
+                encaje de la señora Reed y ondulaba los bordes de sus gorros de
+                dormir, alimentaba nuestra ávida atención con pasajes de amor y
                 aventura sacados de viejos cuentos de hadas y otras baladas; o
-                (como descubr� m�s tarde) de las p�ginas de Pamela y de Henry,
+                (como descubrí más tarde) de las páginas de Pamela y de Henry,
                 conde de Moreland.</p>
 
                 <p>Con Bewick en mi regazo, era feliz entonces; feliz, al menos, a mi
-                manera. No tem�a nada salvo la interrupci�n, y esta lleg� demasiado
-                pronto. La puerta del comedor de diario se abri�.</p>
+                manera. No temía nada salvo la interrupción, y esta llegó demasiado
+                pronto. La puerta del comedor de diario se abrió.</p>
 
-                <p>��Bu! �Se�ora Mustia! �grit� la voz de John Reed; luego hizo una
-                pausa: encontr� la habitaci�n aparentemente vac�a.</p>
+                <p>—¡Bu! ¡Señora Mustia! —gritó la voz de John Reed; luego hizo una
+                pausa: encontró la habitación aparentemente vacía.</p>
 
-                <p>��D�nde diablos se ha metido! �continu�. �Lizzy! �Georgy!
-                (llamando a sus hermanas). Joan no est� aqu�; decidle a mam� que
-                ha salido corriendo bajo la lluvia. �Mal bicho!</p>
+                <p>—¡Dónde diablos se ha metido! —continuó—. ¡Lizzy! ¡Georgy!
+                (llamando a sus hermanas). Joan no está aquí; decidle a mamá que
+                ha salido corriendo bajo la lluvia. ¡Mal bicho!</p>
 
-                <p>�Menos mal que corr� la cortina�, pens�; y dese� fervientemente
-                que no descubriera mi escondite. John Reed no lo habr�a encontrado
-                por s� mismo; no era r�pido ni de vista ni de ingenio; pero Eliza
-                asom� la cabeza por la puerta y dijo al instante:</p>
+                <p>«Menos mal que corrí la cortina», pensé; y deseé fervientemente
+                que no descubriera mi escondite. John Reed no lo habría encontrado
+                por sí mismo; no era rápido ni de vista ni de ingenio; pero Eliza
+                asomó la cabeza por la puerta y dijo al instante:</p>
 
-                <p>�Est� en el asiento del ventanal, por supuesto, Jack.</p>
+                <p>—Está en el asiento del ventanal, por supuesto, Jack.</p>
 
-                <p>Y sal� de inmediato, pues temblaba ante la idea de que el tal Jack
+                <p>Y salí de inmediato, pues temblaba ante la idea de que el tal Jack
                 me sacara a rastras.</p>
 
-                <p>��Qu� quieres? �pregunt�, con torpe timidez.</p>
+                <p>—¿Qué quieres? —pregunté, con torpe timidez.</p>
 
-                <p>�Di: ��Qu� desea, se�orito Reed?� �fue la respuesta�. Quiero
-                que vengas aqu� �y, sent�ndose en un sill�n, me indic� con un
-                gesto que deb�a acercarme y permanecer de pie ante �l.</p>
+                <p>—Di: «¿Qué desea, señorito Reed?» —fue la respuesta—. Quiero
+                que vengas aquí —y, sentándose en un sillón, me indicó con un
+                gesto que debía acercarme y permanecer de pie ante él.</p>
 
-                <p>John Reed era un escolar de catorce a�os; cuatro a�os mayor que
-                yo, pues yo solo ten�a diez. Era grande y corpulento para su edad,
+                <p>John Reed era un escolar de catorce años; cuatro años mayor que
+                yo, pues yo solo tenía diez. Era grande y corpulento para su edad,
                 con una piel de tono apagado y malsano; facciones toscas en un
                 rostro ancho, miembros pesados y extremidades grandes. Se
-                atiborraba habitualmente en la mesa, lo que lo volv�a bilioso y le
-                daba una mirada turbia y lega�osa y unas mejillas fl�cidas. Deber�a
-                haber estado en la escuela; pero su mam� lo hab�a tra�do a casa por
-                un mes o dos, �a causa de su delicada salud�. El se�or Miles, el
-                director, afirmaba que le ir�a muy bien si le enviaran menos pasteles
-                y dulces desde casa; pero el coraz�n de la madre rechaz� una
-                opini�n tan dura y se inclin� m�s bien por la idea m�s refinada de
-                que la palidez de John se deb�a al exceso de estudio y, quiz�s, a la
+                atiborraba habitualmente en la mesa, lo que lo volvía bilioso y le
+                daba una mirada turbia y legañosa y unas mejillas flácidas. Debería
+                haber estado en la escuela; pero su mamá lo había traído a casa por
+                un mes o dos, «a causa de su delicada salud». El señor Miles, el
+                director, afirmaba que le iría muy bien si le enviaran menos pasteles
+                y dulces desde casa; pero el corazón de la madre rechazó una
+                opinión tan dura y se inclinó más bien por la idea más refinada de
+                que la palidez de John se debía al exceso de estudio y, quizás, a la
                 nostalgia de su hogar.</p>
 
-                <p>John no sent�a mucho afecto por su madre y sus hermanas, y s�
-                una antipat�a hacia m�. Me acosaba y castigaba, no dos o tres veces
-                por semana, ni una o dos veces al d�a, sino continuamente; cada
-                nervio de mi cuerpo le tem�a, y cada part�cula de carne de mis
-                huesos se encog�a cuando se acercaba. Hab�a momentos en los que
-                me sent�a abrumada por el terror que inspiraba, porque no ten�a
+                <p>John no sentía mucho afecto por su madre y sus hermanas, y sí
+                una antipatía hacia mí. Me acosaba y castigaba, no dos o tres veces
+                por semana, ni una o dos veces al día, sino continuamente; cada
+                nervio de mi cuerpo le temía, y cada partícula de carne de mis
+                huesos se encogía cuando se acercaba. Había momentos en los que
+                me sentía abrumada por el terror que inspiraba, porque no tenía
                 recurso alguno contra sus amenazas o sus castigos; a los criados no
-                les gustaba ofender a su joven amo tomando partido por m� en su
-                contra, y la se�ora Reed era ciega y sorda al respecto: nunca lo vio
-                pegarme ni lo oy� insultarme, aunque hac�a ambas cosas de vez en
-                cuando en su propia presencia, pero con m�s frecuencia a sus
+                les gustaba ofender a su joven amo tomando partido por mí en su
+                contra, y la señora Reed era ciega y sorda al respecto: nunca lo vio
+                pegarme ni lo oyó insultarme, aunque hacía ambas cosas de vez en
+                cuando en su propia presencia, pero con más frecuencia a sus
                 espaldas.</p>
 
-                <p>Habitualmente obediente a John, me acerqu� a su silla. Pas� unos
-                tres minutos sac�ndome la lengua todo lo que pod�a sin da�arse las
-                ra�ces. Supe que pronto me pegar�a, y mientras tem�a el golpe,
+                <p>Habitualmente obediente a John, me acerqué a su silla. Pasó unos
+                tres minutos sacándome la lengua todo lo que podía sin dañarse las
+                raíces. Supe que pronto me pegaría, y mientras temía el golpe,
                 reflexionaba sobre el aspecto repugnante y feo de quien iba a
-                propin�rmelo. Me pregunto si ley� esa idea en mi rostro, pues, de
-                repente, sin hablar, me golpe� s�bita y fuertemente. Me tambale� y,
-                al recuperar el equilibrio, retroced� uno o dos pasos de su silla.</p>
+                propinármelo. Me pregunto si leyó esa idea en mi rostro, pues, de
+                repente, sin hablar, me golpeó súbita y fuertemente. Me tambaleé y,
+                al recuperar el equilibrio, retrocedí uno o dos pasos de su silla.</p>
 
-                <p>�Eso es por tu impertinencia al contestar a mam� hace un rato �
-                dijo�, y por tu forma rastrera de esconderte detr�s de las cortinas,
-                y por la mirada que ten�as en los ojos hace dos minutos, �rata!</p>
+                <p>—Eso es por tu impertinencia al contestar a mamá hace un rato —
+                dijo—, y por tu forma rastrera de esconderte detrás de las cortinas,
+                y por la mirada que tenías en los ojos hace dos minutos, ¡rata!</p>
 
-                <p>Acostumbrada a los insultos de John Reed, nunca se me ocurri�
-                responderle; mi preocupaci�n era c�mo soportar el golpe que sin
-                duda seguir�a al insulto.</p>
+                <p>Acostumbrada a los insultos de John Reed, nunca se me ocurrió
+                responderle; mi preocupación era cómo soportar el golpe que sin
+                duda seguiría al insulto.</p>
 
-                <p>��Qu� hac�as detr�s de la cortina? �pregunt�.</p>
+                <p>—¿Qué hacías detrás de la cortina? —preguntó.</p>
 
-                <p>�Estaba leyendo.</p>
+                <p>—Estaba leyendo.</p>
 
-                <p>�Ens��ame el libro.</p>
+                <p>—Enséñame el libro.</p>
 
-                <p>Regres� a la ventana y lo traje de all�.</p>
+                <p>Regresé a la ventana y lo traje de allí.</p>
 
-                <p>�No tienes derecho a coger nuestros libros; eres una mantenida,
-                dice mam�; no tienes dinero; tu padre no te dej� nada; deber�as
-                mendigar, y no vivir aqu� con hijos de caballeros como nosotros,
+                <p>—No tienes derecho a coger nuestros libros; eres una mantenida,
+                dice mamá; no tienes dinero; tu padre no te dejó nada; deberías
+                mendigar, y no vivir aquí con hijos de caballeros como nosotros,
                 comer lo mismo que comemos y vestir ropa a expensas de nuestra
-                mam�. Ahora te ense�ar� a no hurgar en mis estanter�as, porque
-                son m�as; toda la casa me pertenece, o lo har� en pocos a�os. Ve y
+                mamá. Ahora te enseñaré a no hurgar en mis estanterías, porque
+                son mías; toda la casa me pertenece, o lo hará en pocos años. Ve y
                 ponte junto a la puerta, fuera del alcance del espejo y las ventanas.</p>
 
-                <p>As� lo hice, sin darme cuenta al principio de cu�l era su intenci�n;
+                <p>Así lo hice, sin darme cuenta al principio de cuál era su intención;
                 pero cuando lo vi levantar y sopesar el libro, dispuesto a lanzarlo,
-                instintivamente me apart� con un grito de alarma. Sin embargo, no
-                fue lo bastante r�pido; el volumen fue arrojado, me golpe� y ca�,
-                d�ndome con la cabeza en la puerta y abri�ndome una brecha. La
-                herida sangraba, el dolor era agudo: mi terror hab�a pasado su
-                cl�max; le sucedieron otros sentimientos.</p>
+                instintivamente me aparté con un grito de alarma. Sin embargo, no
+                fue lo bastante rápido; el volumen fue arrojado, me golpeó y caí,
+                dándome con la cabeza en la puerta y abriéndome una brecha. La
+                herida sangraba, el dolor era agudo: mi terror había pasado su
+                clímax; le sucedieron otros sentimientos.</p>
 
-                <p>��Ni�o malvado y cruel! �dije�. �Eres como un asesino, eres
+                <p>—¡Niño malvado y cruel! —dije—. ¡Eres como un asesino, eres
                 como un negrero, eres como los emperadores romanos!</p>
 
-                <p>Hab�a le�do la Historia de Roma de Goldsmith y me hab�a formado
-                mi propia opini�n sobre Ner�n, Cal�gula, etc. Tambi�n hab�a
-                establecido paralelismos en silencio, que nunca pens� que llegar�a a
+                <p>Había leído la Historia de Roma de Goldsmith y me había formado
+                mi propia opinión sobre Nerón, Calígula, etc. También había
+                establecido paralelismos en silencio, que nunca pensé que llegaría a
                 declarar en voz alta.</p>
 
-                <p>��Qu�! �Qu�! �grit�. �Me ha dicho eso a m�? �La hab�is o�do,
-                Eliza y Georgiana? �A que se lo digo a mam�? Pero primero�</p>
+                <p>—¡Qué! ¡Qué! —gritó—. ¿Me ha dicho eso a mí? ¿La habéis oído,
+                Eliza y Georgiana? ¿A que se lo digo a mamá? Pero primero…</p>
 
-                <p>Se abalanz� sobre m�; sent� c�mo me agarraba del pelo y del
-                hombro. Se hab�a topado con algo desesperado. Realmente vi en �l
-                a un tirano, a un asesino. Sent� una o dos gotas de sangre de mi
+                <p>Se abalanzó sobre mí; sentí cómo me agarraba del pelo y del
+                hombro. Se había topado con algo desesperado. Realmente vi en él
+                a un tirano, a un asesino. Sentí una o dos gotas de sangre de mi
                 cabeza resbalar por mi cuello y fui consciente de un sufrimiento algo
                 punzante: estas sensaciones predominaron por un momento sobre el
-                miedo, y lo recib� de forma fren�tica. No s� muy bien qu� hice con
-                las manos, pero �l me llam� ��Rata! �Rata!� y se puso a bramar. La
-                ayuda estaba cerca: Eliza y Georgiana hab�an corrido a buscar a la
-                se�ora Reed, que hab�a subido a su cuarto; apareci� en escena,
-                seguida por Bessie y su doncella, Abbot. Nos separaron; o� las
+                miedo, y lo recibí de forma frenética. No sé muy bien qué hice con
+                las manos, pero él me llamó «¡Rata! ¡Rata!» y se puso a bramar. La
+                ayuda estaba cerca: Eliza y Georgiana habían corrido a buscar a la
+                señora Reed, que había subido a su cuarto; apareció en escena,
+                seguida por Bessie y su doncella, Abbot. Nos separaron; oí las
                 palabras:</p>
 
-                <p>��Cielos! �Qu� furia al atacar al se�orito John!</p>
+                <p>—¡Cielos! ¡Qué furia al atacar al señorito John!</p>
 
-                <p>��Jam�s se ha visto semejante arrebato de ira!</p>
+                <p>—¡Jamás se ha visto semejante arrebato de ira!</p>
 
-                <p>Entonces la se�ora Reed a�adi�:</p>
+                <p>Entonces la señora Reed añadió:</p>
 
-                <p>�Llev�osla al cuarto rojo y encerradla all�.</p>
+                <p>—Lleváosla al cuarto rojo y encerradla allí.</p>
 
-                <p>Cuatro manos se posaron inmediatamente sobre m� y fui
+                <p>Cuatro manos se posaron inmediatamente sobre mí y fui
                 conducida escaleras arriba.</p>
 
                 <div class="botonesFinales">
-                    <a class="boton" href="../../contenido_eyre.php">Regresa al men� de cap�tulos</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
                     <a class="cambioSiguiente" href="cap2.php" rel="next">Siguiente</a>
                 </div>
             </section>

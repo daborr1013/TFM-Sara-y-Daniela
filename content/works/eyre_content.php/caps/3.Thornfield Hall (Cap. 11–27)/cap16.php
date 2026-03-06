@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Capítulo 16</title>
+    <title>CapÃ­tulo 16</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el capítulo 16">
+    <meta name="description" content="Este es el capÃ­tulo 16">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -14,7 +14,7 @@
         <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png"></a>
     </header>
 
-   <nav class="navbar">
+    <nav class="navbar">
         <ul class="menu">
             <li><a href="../../../../../index.php">Inicio</a></li>
 
@@ -39,21 +39,21 @@
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
+                        <li><a href="../../intro_obra.php">IntroducciÃ³n a la obra</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contenido_eyre.php">Contenido</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
-                                <li><a href="../../capitulos.php">Capítulos</a></li>
+                                <li><a href="../../resumenes/resumenes.php">ResÃºmenes</a></li>
+                                <li><a href="../../capitulos.php">CapÃ­tulos</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
-                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
+                                <li><a href="charlotte.php">Charlotte BrontÃ«</a></li>
+                                <li><a href="contexto_historico.php">Contexto histÃ³rico</a></li>
                             </ul>
                         </li>
 
@@ -61,7 +61,7 @@
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">Símbolos</a></li>
+                                <li><a href="simbolos.php">SÃ­mbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
                                 <li><a href="mapa.php">Mapa</a></li>
@@ -82,462 +82,462 @@
             </div>
             
             <section class="contenido">
-            <h1>Capítulo XVI</h1>
-            
-            <p>Deseaba y temía a la vez ver al señor Rochester el día que siguió a
-            esta noche de insomnio. Quería oír su voz de nuevo, pero temía
-            encontrarme con su mirada. Durante la primera parte de la mañana,
-            esperé momentáneamente su llegada; no tenía la costumbre
-            frecuente de entrar en el aula, pero a veces pasaba por unos
-            minutos, y tuve la impresión de que estaba seguro de visitarla ese
-            día.</p>
-
-            <p>Pero la mañana transcurrió como de costumbre. Nada sucedió que
-            interrumpiera el tranquilo curso de los estudios de Adèle; solo que
-            poco después del desayuno, oí cierto ajetreo en las cercanías de la
-            cámara del señor Rochester, la voz de la señora Fairfax y la de Leah,
-            y la de la cocinera —es decir, la esposa de John— e incluso los tonos
-            roncos del propio John. Hubo exclamaciones de «¡Qué suerte que el
-            amo no se quemara en su cama!», «Siempre es peligroso dejar una
-            vela encendida por la noche», «¡Qué providencial que tuviera la
-            presencia de ánimo de pensar en la jarra de agua!», «¡Me pregunto
-            por qué no despertó a nadie!», «Es de esperar que no se resfríe
-            durmiendo en el sofá de la biblioteca», etc.</p>
-
-            <p>A mucha confabulación le siguió un sonido de fregar y poner en
-            orden; y cuando pasé por la habitación, al bajar a cenar, vi por la
-            puerta abierta que todo había sido restaurado de nuevo al completo
-            orden; solo la cama estaba despojada de sus cortinajes. Leah estaba
-            de pie en el asiento de la ventana, frotando los cristales empañados
-            por el humo. Estaba a punto de dirigirme a ella, pues deseaba saber
-            qué versión se había dado del asunto; pero, al avanzar, vi a una
-            segunda persona en la cámara: una mujer sentada en una silla junto
-            a la cama, cosiendo anillas a unas cortinas nuevas. Esa mujer no era
-            otra que Grace Poole.</p>
-
-            <p>Allí estaba sentada, de aspecto serio y taciturno, como de
-            costumbre, con su vestido de estameña marrón, su delantal de
-            cuadros, su pañuelo blanco y su cofia. Estaba absorta en su trabajo,
-            en el que todos sus pensamientos parecían concentrados. En su
-            frente dura y en sus rasgos comunes no había nada ni de la palidez
-            ni de la desesperación que uno esperaría ver marcando el semblante
-            de una mujer que había intentado un asesinato, y cuya víctima
-            intencionada la había seguido la noche anterior a su guarida y (como
-            yo creía), la había acusado del crimen que deseaba perpetrar. Estaba
-            asombrada, confundida. Ella levantó la vista mientras yo todavía la
-            miraba: ningún sobresalto, ningún aumento o pérdida de color
-            delataba emoción, conciencia de culpa o miedo a ser descubierta.
-            Dijo «Buenos días, señorita», a su manera flemática y breve de
-            siempre; y tomando otra anilla y más cinta, continuó con su costura.</p>
-
-            <p>«La someteré a alguna prueba», pensé. «Tal impenetrabilidad
-            absoluta es incomprensible».</p>
-
-            <p>—Buenos días, Grace —dije—. ¿Ha pasado algo aquí? Creí oír a
-            todos los criados hablando juntos hace un rato.</p>
-
-            <p>—Solo que el amo había estado leyendo en su cama anoche; se
-            quedó dormido con la vela encendida y las cortinas se incendiaron;
-            pero, afortunadamente, se despertó antes de que las sábanas o la
-            madera prendieran, y se las arregló para apagar las llamas con el
-            agua de la jarra.</p>
-
-            <p>—¡Un asunto extraño! —dije, en voz baja; luego, mirándola
-            fijamente—: ¿El señor Rochester no despertó a nadie? ¿Nadie lo oyó
-            moverse?</p>
-
-            <p>Ella volvió a levantar los ojos hacia mí, y esta vez había algo de
-            conciencia en su expresión. Pareció examinarme con cautela; luego
-            respondió:</p>
-
-            <p>—Los criados duermen tan lejos, ya sabe, señorita, que no sería
-            probable que oyeran. La habitación de la señora Fairfax y la suya
-            son las más cercanas a la del amo; pero la señora Fairfax dijo que
-            no oyó nada. Cuando la gente envejece, a menudo duerme
-            profundamente. —Hizo una pausa y luego añadió, con una especie
-            de indiferencia fingida, pero aún en un tono marcado y significativo
-            —: Pero usted es joven, señorita; y yo diría que de sueño ligero.
-            ¿Quizás oyó usted algún ruido?</p>
-
-            <p>—Sí, lo oí —dije, bajando la voz, para que Leah, que todavía
-            estaba puliendo los cristales, no pudiera oírme—, y al principio pensé
-            que era Pilot; pero Pilot no puede reír. Y estoy segura de que oí una
-            risa, y una risa extraña.</p>
-
-            <p>Tomó una nueva aguja llena de hilo, la enceró cuidadosamente,
-            enhebró su aguja con mano firme y luego observó, con perfecta
-            compostura:</p>
-
-            <p>—Es poco probable que el amo se riera, creo yo, señorita, cuando
-            estaba en tal peligro. Habrá estado soñando.</p>
-
-            <p>—No estaba soñando —dije, con cierto ardor, pues su descarada
-            frialdad me provocaba. De nuevo me miró; y con el mismo ojo
-            escrutador y consciente.</p>
-
-            <p>—¿Le ha dicho al amo que oyó una risa? —inquirió.</p>
-
-            <p>—No he tenido la oportunidad de hablar con él esta mañana.</p>
-
-            <p>—¿No se le ocurrió abrir la puerta y mirar a la galería? —preguntó además.</p>
-
-            <p>Parecía estar interrogándome, intentando sacarme información sin
-            que me diera cuenta. Se me ocurrió la idea de que si descubría que
-            yo sabía o sospechaba su culpabilidad, me haría alguna de sus
-            malignas jugarretas. Pensé que era aconsejable estar en guardia.</p>
-
-            <p>—Al contrario —dije—, eché el cerrojo de mi puerta.</p>
-
-            <p>—¿Entonces no tiene la costumbre de echar el cerrojo de su
-            puerta todas las noches antes de acostarse?</p>
-
-            <p>«¡Demonio! ¡Quiere conocer mis hábitos, para poder trazar sus
-            planes en consecuencia!». La indignación volvió a prevalecer sobre
-            la prudencia. Respondí bruscamente:</p>
-
-            <p>—Hasta ahora he omitido a menudo echar el cerrojo; no lo creía
-            necesario. No era consciente de que hubiera que temer ningún
-            peligro o molestia en Thornfield Hall; pero en el futuro (y puse un
-            marcado énfasis en las palabras) tendré mucho cuidado de
-            asegurarlo todo antes de aventurarme a acostarme.</p>
-
-            <p>—Será sabio hacerlo —fue su respuesta—. Esta vecindad es tan
-            tranquila como cualquiera que conozco, y nunca he oído que la
-            mansión haya sido asaltada por ladrones desde que es una casa;
-            aunque hay cientos de libras en plata en el armario de la platería,
-            como es bien sabido. Y ya ve, para una casa tan grande, hay muy
-            pocos criados, porque el amo nunca ha vivido mucho aquí; y cuando
-            viene, siendo soltero, necesita poco servicio. Pero siempre pienso
-            que es mejor pecar de precavida; una puerta se cierra pronto, y es
-            bueno tener un cerrojo echado entre una y cualquier mal que pueda
-            haber por ahí. Mucha gente, señorita, es de confiarlo todo a la
-            Providencia; pero yo digo que la Providencia no prescindirá de los
-            medios, aunque a menudo los bendice cuando se usan con
-            discreción. —Y aquí cerró su arenga, larga para ella, y pronunciada
-            con la modestia de una cuáquera.</p>
-
-            <p>Todavía estaba absolutamente estupefacta ante lo que me parecía
-            su milagrosa compostura y su hipocresía de lo más inescrutable,
-            cuando entró la cocinera.</p>
-
-            <p>—Señora Poole —dijo, dirigiéndose a Grace—, la cena de los
-            criados estará lista pronto. ¿Quiere bajar?</p>
-
-            <p>—No; ponga mi pinta de cerveza negra y mi trozo de pudin en una
-            bandeja, y lo subiré.</p>
-
-            <p>—¿Quiere un poco de carne?</p>
-
-            <p>—Solo un bocado, y una pizca de queso, eso es todo.</p>
-
-            <p>—¿Y el sagú?</p>
-
-            <p>—No se preocupe por ahora; bajaré antes de la hora del té, lo
-            haré yo misma.</p>
-
-            <p>La cocinera se volvió entonces hacia mí, diciendo que la señora
-            Fairfax me estaba esperando; así que me marché.</p>
-
-            <p>Apenas oí el relato de la señora Fairfax sobre el incendio de las
-            cortinas durante la cena, tan ocupada estaba rompiéndome la
-            cabeza con el enigmático carácter de Grace Poole, y más aún
-            reflexionando sobre el problema de su posición en Thornfield y
-            preguntándome por qué no había sido puesta bajo custodia esa
-            mañana, o, como mínimo, despedida del servicio de su amo. Él casi
-            había declarado su convicción de la criminalidad de ella la noche
-            anterior. ¿Qué causa misteriosa le impedía acusarla? ¿Por qué me
-            había impuesto a mí también el secreto? Era extraño: un caballero
-            audaz, vengativo y altivo parecía de alguna manera en poder de una
-            de las más humildes de sus dependientas; tanto en su poder que,
-            incluso cuando ella levantó la mano contra su vida, no se atrevió a
-            acusarla abiertamente del intento, y mucho menos a castigarla por
-            ello.</p>
-
-            <p>Si Grace hubiera sido joven y guapa, me habría sentido tentada a
-            pensar que sentimientos más tiernos que la prudencia o el miedo
-            influían en el señor Rochester en su favor; pero, poco agraciada y de
-            aspecto maternal como era, la idea no podía ser admitida. «Sin
-            embargo», reflexioné, «ha sido joven una vez; su juventud sería
-            contemporánea a la de su amo. La señora Fairfax me dijo una vez
-            que había vivido aquí muchos años. No creo que haya sido nunca
-            guapa; pero, por lo que sé, puede poseer originalidad y fuerza de
-            carácter para compensar la falta de ventajas personales. El señor
-            Rochester es un aficionado a lo decidido y excéntrico. Grace es
-            excéntrica, al menos. ¿Y si un capricho anterior (un antojo muy
-            posible en una naturaleza tan súbita y testaruda como la suya) lo ha
-            entregado a su poder, y ahora ella ejerce sobre sus acciones una
-            influencia secreta, resultado de su propia indiscreción, de la que no
-            puede deshacerse y no se atreve a ignorar?». Pero, habiendo llegado
-            a este punto de conjetura, la figura cuadrada y plana de la señora
-            Poole, y su rostro poco agraciado, seco, incluso tosco, volvieron tan
-            claramente a mi ojo mental que pensé: «No; ¡imposible! Mi
-            suposición no puede ser correcta». «Sin embargo», sugirió la voz
-            secreta que nos habla en nuestros propios corazones, «tú tampoco
-            eres hermosa, y quizás el señor Rochester te apruebe; en cualquier
-            caso, a menudo has sentido como si lo hiciera; y anoche... recuerda
-            sus palabras; recuerda su mirada; recuerda su voz».</p>
-
-            <p>Recordaba bien todo; lenguaje, mirada y tono parecían en ese
-            momento vívidamente renovados. Estaba ahora en el aula; Adèle
-            dibujaba. Me incliné sobre ella y dirigí su lápiz. Levantó la vista con
-            una especie de sobresalto.</p>
-
-            <p>—<i>Qu'avez-vous, mademoiselle?</i>—dijo—.<i>Vos doigts tremblent
-            comme la feuille, et vos joues sont rouges: mais, rouges comme des
-            cerises!</i></p>
-
-            <p>—¡Tengo calor, Adèle, de estar inclinada! —Ella siguió dibujando;
-            yo seguí pensando.</p>
-
-            <p>Me apresuré a expulsar de mi mente la odiosa noción que había
-            estado concibiendo respecto a Grace Poole; me repugnaba. Me
-            comparé con ella y descubrí que éramos diferentes. Bessie Leaven
-            había dicho que yo era toda una dama, y decía la verdad: era una
-            dama. Y ahora me veía mucho mejor que cuando Bessie me vio;
-            tenía más color y más carne, más vida, más vivacidad, porque tenía
-            esperanzas más brillantes y goces más agudos.</p>
-
-            <p>«Se acerca la tarde», dije, mientras miraba hacia la ventana. «No
-            he oído la voz ni los pasos del señor Rochester en la casa hoy; pero
-            seguramente lo veré antes de la noche. Temía el encuentro por la
-            mañana; ahora lo deseo, porque la expectativa se ha frustrado tanto
-            tiempo que se ha vuelto impaciente».</p>
-
-            <p>Cuando el crepúsculo realmente se cerró, y cuando Adèle me dejó
-            para ir a jugar al cuarto de los niños con Sophie, lo deseé con la
-            mayor intensidad. Escuché a que sonara la campanilla abajo;
-            escuché a que Leah subiera con un mensaje; a veces me parecía oír
-            los propios pasos del señor Rochester, y me volvía hacia la puerta,
-            esperando que se abriera y lo admitiera. La puerta permaneció
-            cerrada; solo la oscuridad entraba por la ventana. Aún no era tarde;
-            a menudo me mandaba llamar a las siete y a las ocho, y todavía no
-            eran más que las seis. ¡Seguramente no me sentiría completamente
-            decepcionada esta noche, cuando tenía tantas cosas que decirle!
-            Quería volver a introducir el tema de Grace Poole y oír lo que él
-            respondería; quería preguntarle claramente si realmente creía que
-            había sido ella quien había hecho el espantoso intento de la noche
-            anterior; y si era así, por qué mantenía en secreto su maldad. Poco
-            importaba si mi curiosidad lo irritaba; conocía el placer de
-            exasperarlo y calmarlo por turnos; era uno en el que me deleitaba
-            principalmente, y un instinto seguro siempre me impedía ir
-            demasiado lejos; más allá del límite de la provocación nunca me
-            aventuraba; en el borde extremo me gustaba probar mi habilidad.
-            Conservando toda forma de respeto, toda propiedad de mi posición,
-            aún podía enfrentarme a él en una discusión sin miedo ni incómoda
-            restricción; esto nos convenía a ambos.</p>
-
-            <p>Unos pasos crujieron en la escalera por fin. Leah hizo su aparición;
-            pero solo para comunicar que el té estaba listo en la habitación de la
-            señora Fairfax. Allí me dirigí, contenta al menos de bajar, pues eso
-            me acercaba, imaginaba, a la presencia del señor Rochester.</p>
-
-            <p>—Debe de querer su té —dijo la buena dama, mientras me unía a
-            ella—. Comió tan poco en la cena. Me temo —continuó— que no se
-            encuentra bien hoy; parece sonrojada y febril.</p>
-
-            <p>—¡Oh, completamente bien! Nunca me he sentido mejor.</p>
-
-            <p>—Entonces debe demostrarlo mostrando un buen apetito. ¿Quiere
-            llenar la tetera mientras termino esta aguja? —Habiendo completado
-            su tarea, se levantó para bajar la persiana, que hasta ahora había
-            mantenido subida, supongo, para aprovechar al máximo la luz del
-            día, aunque el crepúsculo se estaba convirtiendo rápidamente en
-            oscuridad total.</p>
-
-            <p>—Hace bueno esta noche —dijo, mientras miraba a través de los
-            cristales—, aunque no hay estrellas. El señor Rochester, en general,
-            ha tenido un día favorable para su viaje.</p>
-
-            <p>—¡Viaje! ¿Se ha ido el señor Rochester a alguna parte? No sabía
-            que estaba fuera.</p>
-
-            <p>—¡Oh, partió en el momento en que desayunó! Se ha ido a Leas,
-            la propiedad del señor Eshton, a diez millas al otro lado de Millcote.
-            Creo que hay una gran fiesta reunida allí; Lord Ingram, Sir George
-            Lynn, el Coronel Dent y otros.</p>
-
-            <p>—¿Lo espera de vuelta esta noche?</p>
-
-            <p>—No, ni mañana tampoco. Creo que es muy probable que se
-            quede una semana o más. Cuando esta gente distinguida y a la
-            moda se reúne, están tan rodeados de elegancia y alegría, tan bien
-            provistos de todo lo que puede complacer y entretener, que no
-            tienen prisa por separarse. Los caballeros, especialmente, suelen ser
-            muy solicitados en tales ocasiones; y el señor Rochester es tan
-            talentoso y tan animado en sociedad que creo que es un favorito
-            general. Las damas le tienen mucho aprecio, aunque no pensaría
-            usted que su apariencia está calculada para recomendarlo
-            particularmente a sus ojos; pero supongo que sus conocimientos y
-            habilidades, quizás su riqueza y su buena cuna, compensan
-            cualquier pequeño defecto de aspecto.</p>
-
-            <p>—¿Hay damas en Leas?</p>
-
-            <p>—Están la señora Eshton y sus tres hijas, unas jóvenes muy
-            elegantes, por cierto; y están las Honorables Blanche y Mary
-            Ingram, mujeres hermosísimas, supongo. De hecho, he visto a
-            Blanche, hace seis o siete años, cuando era una muchacha de
-            dieciocho. Vino aquí a un baile y fiesta de Navidad que dio el señor
-            Rochester. ¡Debería haber visto el comedor ese día, qué ricamente
-            estaba decorado, qué brillantemente iluminado! Creo que había
-            cincuenta damas y caballeros presentes, todos de las primeras
-            familias del condado; y la señorita Ingram fue considerada la belleza
-            de la noche.</p>
-
-            <p>—La vio, dice usted, señora Fairfax. ¿Cómo era?</p>
-
-            <p>—Sí, la vi. Las puertas del comedor se abrieron de par en par; y,
-            como era Navidad, se permitió a los criados reunirse en el vestíbulo
-            para oír a algunas de las damas cantar y tocar. El señor Rochester
-            me hizo entrar, y me senté en un rincón tranquilo y los observé.
-            Nunca vi una escena más espléndida. Las damas estaban
-            magníficamente vestidas; la mayoría de ellas, al menos la mayoría
-            de las más jóvenes, parecían guapas; pero la señorita Ingram era
-            ciertamente la reina.</p>
-
-            <p>—¿Y cómo era?</p>
-
-            <p>—Alta, de hermoso busto, hombros caídos; cuello largo y grácil;
-            tez aceitunada, oscura y clara; rasgos nobles; ojos bastante
-            parecidos a los del señor Rochester, grandes y negros, y tan
-            brillantes como sus joyas. Y además tenía una cabellera preciosa;
-            negro como el cuervo y tan bien arreglada: una corona de gruesas
-            trenzas detrás, y delante, los rizos más largos y lustrosos que he
-            visto jamás. Iba vestida de blanco puro; un pañuelo de color ámbar
-            le pasaba por el hombro y cruzaba su pecho, atado a un lado y
-            descendiendo en largos extremos con flecos por debajo de la rodilla.
-            Llevaba también una flor de color ámbar en el pelo; contrastaba bien
-            con la masa de azabache de sus rizos.</p>
-
-            <p>—Fue muy admirada, por supuesto.</p>
-
-            <p>—Sí, por supuesto; y no solo por su belleza, sino por sus
-            habilidades. Fue una de las damas que cantó; un caballero la
-            acompañó al piano. Ella y el señor Rochester cantaron un dúo.</p>
-
-            <p>—¿El señor Rochester? No sabía que supiera cantar.</p>
-
-            <p>—¡Oh! Tiene una hermosa voz de bajo y un excelente gusto para la música.</p>
-
-            <p>—¿Y la señorita Ingram, qué clase de voz tenía?</p>
-
-            <p>—Una muy rica y potente. Cantaba deliciosamente; era un placer
-            escucharla. Y después tocó. No soy juez de música, pero el señor
-            Rochester sí; y le oí decir que su ejecución era notablemente buena.</p>
-
-            <p>—¿Y esta dama hermosa y culta aún no está casada?</p>
-
-            <p>—Parece que no. Me imagino que ni ella ni su hermana tienen
-            grandes fortunas. Las propiedades del viejo Lord Ingram estaban
-            principalmente vinculadas, y el hijo mayor se quedó con casi todo.</p>
-
-            <p>—Pero me pregunto por qué ningún noble o caballero rico se ha
-            encaprichado de ella. El señor Rochester, por ejemplo. Él es rico, ¿no
-            es así?</p>
-
-            <p>—¡Oh, sí! Pero ya ve, hay una considerable diferencia de edad. El
-            señor Rochester tiene casi cuarenta años; ella solo veinticinco.</p>
-
-            <p>—¿Y qué? Todos los días se celebran matrimonios más desiguales.</p>
-
-            <p>—Cierto. Sin embargo, apenas me imagino que el señor Rochester
-            albergue una idea de ese tipo. Pero no come usted nada; apenas ha
-            probado desde que empezó a tomar el té.</p>
-
-            <p>—No; tengo demasiada sed para comer. ¿Me permite otra taza?</p>
-
-            <p>Estaba a punto de volver a la probabilidad de una unión entre el
-            señor Rochester y la hermosa Blanche; pero Adèle entró y la
-            conversación se desvió hacia otro canal.</p>
-
-            <p>Una vez más sola, repasé la información que había obtenido; miré
-            en mi corazón, examiné sus pensamientos y sentimientos, y me
-            esforcé por traer de vuelta con mano estricta a aquellos que habían
-            estado vagando por el yermo ilimitado e intransitable de la
-            imaginación, al redil seguro del sentido común.</p>
-
-            <p>Sometida a juicio en mi propio tribunal, habiendo dado la Memoria
-            su testimonio de las esperanzas, deseos y sentimientos que había
-            estado albergando desde la noche anterior —del estado de ánimo
-            general en el que me había complacido durante casi una quincena—;
-            habiendo comparecido la Razón y contado, a su manera tranquila,
-            una historia sencilla y sin adornos, mostrando cómo había rechazado
-            lo real y devorado rabiosamente lo ideal, pronuncié sentencia a este
-            efecto:</p>
-
-            <p>Que una tonta más grande que Jane Eyre nunca había respirado el
-            aliento de la vida; que una idiota más fantástica nunca se había
-            hartado de dulces mentiras y tragado veneno como si fuera néctar.</p>
-
-            <p>«¿Tú», me dije, «una favorita del señor Rochester? ¿Tú, dotada
-            del poder de complacerle? ¿Tú, de importancia para él de alguna
-            manera? ¡Vamos! Tu locura me enferma. Y has obtenido placer de
-            muestras ocasionales de preferencia, muestras equívocas mostradas
-            por un caballero de familia y un hombre de mundo a una
-            dependienta y una novicia. ¿Cómo te atreviste? ¡Pobre estúpida
-            incauta! ¿Ni siquiera el interés propio pudo hacerte más sabia? ¿Te
-            repetiste a ti misma esta mañana la breve escena de anoche?
-            ¡Cúbrete la cara y avergüénzate! Dijo algo en elogio de tus ojos,
-            ¿verdad? ¡Cachorra ciega! ¡Abre tus párpados legañosos y mira tu
-            propia y maldita insensatez! No le hace bien a ninguna mujer ser
-            halagada por su superior, que no puede tener la intención de casarse
-            con ella; y es una locura en todas las mujeres dejar que un amor
-            secreto se encienda en su interior, el cual, si no es correspondido y
-            es desconocido, debe devorar la vida que lo alimenta; y, si es
-            descubierto y correspondido, debe conducir, como un fuego fatuo, a
-            ciénagas de las que no hay escapatoria.</p>
-
-            <p>»Escucha, entonces, Jane Eyre, tu sentencia: mañana, coloca el
-            espejo ante ti y dibuja en tiza tu propio retrato, fielmente, sin
-            suavizar un solo defecto; no omitas ninguna línea dura, no alises
-            ninguna irregularidad desagradable; escribe debajo: “Retrato de una
-            Institutriz, sin lazos, pobre y sencilla”.</p>
-
-            <p>»Después, toma una pieza de marfil liso —tienes una preparada
-            en tu caja de dibujo—; toma tu paleta, mezcla tus tintes más
-            frescos, más finos, más claros; elige tus pinceles de pelo de camello
-            más delicados; delinea cuidadosamente el rostro más encantador
-            que puedas imaginar; píntalo con tus tonos más suaves y tus líneas
-            más dulces, según la descripción dada por la señora Fairfax de
-            Blanche Ingram; recuerda los rizos de cuervo, el ojo oriental. ¡Cómo!
-            ¿Vuelves al señor Rochester como modelo? ¡Orden! ¡Nada de
-            lloriqueos! ¡Nada de sentimentalismos! ¡Nada de lamentos! Solo
-            toleraré el sentido y la resolución. Recuerda los rasgos augustos
-            pero armoniosos, el cuello y el busto griegos; que el brazo redondo
-            y deslumbrante sea visible, y la mano delicada; no omitas ni el anillo
-            de diamantes ni el brazalete de oro; retrata fielmente el atuendo,
-            encaje etéreo y satén reluciente, pañuelo grácil y rosa dorada;
-            llámalo “Blanche, una dama de rango y culta”.</p>
-
-            <p>»Siempre que, en el futuro, te imagines que el señor Rochester
-            piensa bien de ti, saca estos dos cuadros y compáralos. Di: “El señor
-            Rochester podría probablemente ganar el amor de esa noble dama,
-            si decidiera esforzarse por ello; ¿es probable que desperdiciara un
-            pensamiento serio en esta plebeya indigente e insignificante?”.»</p>
-
-            <p>«Lo haré», resolví. Y habiendo formulado esta determinación, me
-            calmé y me quedé dormida.</p>
-
-            <p>Mantuve mi palabra. Una o dos horas fueron suficientes para
-            esbozar mi propio retrato a lápiz; y en menos de quince días había
-            completado una miniatura de marfil de una imaginaria Blanche
-            Ingram. Parecía un rostro bastante encantador, y cuando se
-            comparaba con la cabeza real en tiza, el contraste era tan grande
-            como el autocontrol podía desear. Obtuve beneficio de la tarea:
-            había mantenido mi cabeza y mis manos ocupadas, y había dado
-            fuerza y fijeza a las nuevas impresiones que deseaba estampar
-            indeleblemente en mi corazón.</p>
-
-            <p>En poco tiempo, tuve motivos para felicitarme por el curso de la
-            saludable disciplina a la que así había forzado a someterse a mis
-            sentimientos. Gracias a ella, pude afrontar los acontecimientos
-            posteriores con una calma decente que, de haberme encontrado
-            desprevenida, probablemente habría sido incapaz de mantener, ni
-            siquiera exteriormente.</p>
+                <h1>CapÃ­tulo XVI</h1>
+    
+                <p>Deseaba y temÃ­a a la vez ver al seÃ±or Rochester el dÃ­a que siguiÃ³ a
+                esta noche de insomnio. QuerÃ­a oÃ­r su voz de nuevo, pero temÃ­a
+                encontrarme con su mirada. Durante la primera parte de la maÃ±ana,
+                esperÃ© momentÃ¡neamente su llegada; no tenÃ­a la costumbre
+                frecuente de entrar en el aula, pero a veces pasaba por unos
+                minutos, y tuve la impresiÃ³n de que estaba seguro de visitarla ese
+                dÃ­a.</p>
+
+                <p>Pero la maÃ±ana transcurriÃ³ como de costumbre. Nada sucediÃ³ que
+                interrumpiera el tranquilo curso de los estudios de AdÃ¨le; solo que
+                poco despuÃ©s del desayuno, oÃ­ cierto ajetreo en las cercanÃ­as de la
+                cÃ¡mara del seÃ±or Rochester, la voz de la seÃ±ora Fairfax y la de Leah,
+                y la de la cocinera â€”es decir, la esposa de Johnâ€” e incluso los tonos
+                roncos del propio John. Hubo exclamaciones de Â«Â¡QuÃ© suerte que el
+                amo no se quemara en su cama!Â», Â«Siempre es peligroso dejar una
+                vela encendida por la nocheÂ», Â«Â¡QuÃ© providencial que tuviera la
+                presencia de Ã¡nimo de pensar en la jarra de agua!Â», Â«Â¡Me pregunto
+                por quÃ© no despertÃ³ a nadie!Â», Â«Es de esperar que no se resfrÃ­e
+                durmiendo en el sofÃ¡ de la bibliotecaÂ», etc.</p>
+
+                <p>A mucha confabulaciÃ³n le siguiÃ³ un sonido de fregar y poner en
+                orden; y cuando pasÃ© por la habitaciÃ³n, al bajar a cenar, vi por la
+                puerta abierta que todo habÃ­a sido restaurado de nuevo al completo
+                orden; solo la cama estaba despojada de sus cortinajes. Leah estaba
+                de pie en el asiento de la ventana, frotando los cristales empaÃ±ados
+                por el humo. Estaba a punto de dirigirme a ella, pues deseaba saber
+                quÃ© versiÃ³n se habÃ­a dado del asunto; pero, al avanzar, vi a una
+                segunda persona en la cÃ¡mara: una mujer sentada en una silla junto
+                a la cama, cosiendo anillas a unas cortinas nuevas. Esa mujer no era
+                otra que Grace Poole.</p>
+
+                <p>AllÃ­ estaba sentada, de aspecto serio y taciturno, como de
+                costumbre, con su vestido de estameÃ±a marrÃ³n, su delantal de
+                cuadros, su paÃ±uelo blanco y su cofia. Estaba absorta en su trabajo,
+                en el que todos sus pensamientos parecÃ­an concentrados. En su
+                frente dura y en sus rasgos comunes no habÃ­a nada ni de la palidez
+                ni de la desesperaciÃ³n que uno esperarÃ­a ver marcando el semblante
+                de una mujer que habÃ­a intentado un asesinato, y cuya vÃ­ctima
+                intencionada la habÃ­a seguido la noche anterior a su guarida y (como
+                yo creÃ­a), la habÃ­a acusado del crimen que deseaba perpetrar. Estaba
+                asombrada, confundida. Ella levantÃ³ la vista mientras yo todavÃ­a la
+                miraba: ningÃºn sobresalto, ningÃºn aumento o pÃ©rdida de color
+                delataba emociÃ³n, conciencia de culpa o miedo a ser descubierta.
+                Dijo Â«Buenos dÃ­as, seÃ±oritaÂ», a su manera flemÃ¡tica y breve de
+                siempre; y tomando otra anilla y mÃ¡s cinta, continuÃ³ con su costura.</p>
+
+                <p>Â«La someterÃ© a alguna pruebaÂ», pensÃ©. Â«Tal impenetrabilidad
+                absoluta es incomprensibleÂ».</p>
+
+                <p>â€”Buenos dÃ­as, Grace â€”dijeâ€”. Â¿Ha pasado algo aquÃ­? CreÃ­ oÃ­r a
+                todos los criados hablando juntos hace un rato.</p>
+
+                <p>â€”Solo que el amo habÃ­a estado leyendo en su cama anoche; se
+                quedÃ³ dormido con la vela encendida y las cortinas se incendiaron;
+                pero, afortunadamente, se despertÃ³ antes de que las sÃ¡banas o la
+                madera prendieran, y se las arreglÃ³ para apagar las llamas con el
+                agua de la jarra.</p>
+
+                <p>â€”Â¡Un asunto extraÃ±o! â€”dije, en voz baja; luego, mirÃ¡ndola
+                fijamenteâ€”: Â¿El seÃ±or Rochester no despertÃ³ a nadie? Â¿Nadie lo oyÃ³
+                moverse?</p>
+
+                <p>Ella volviÃ³ a levantar los ojos hacia mÃ­, y esta vez habÃ­a algo de
+                conciencia en su expresiÃ³n. PareciÃ³ examinarme con cautela; luego
+                respondiÃ³:</p>
+
+                <p>â€”Los criados duermen tan lejos, ya sabe, seÃ±orita, que no serÃ­a
+                probable que oyeran. La habitaciÃ³n de la seÃ±ora Fairfax y la suya
+                son las mÃ¡s cercanas a la del amo; pero la seÃ±ora Fairfax dijo que
+                no oyÃ³ nada. Cuando la gente envejece, a menudo duerme
+                profundamente. â€”Hizo una pausa y luego aÃ±adiÃ³, con una especie
+                de indiferencia fingida, pero aÃºn en un tono marcado y significativo
+                â€”: Pero usted es joven, seÃ±orita; y yo dirÃ­a que de sueÃ±o ligero.
+                Â¿QuizÃ¡s oyÃ³ usted algÃºn ruido?</p>
+
+                <p>â€”SÃ­, lo oÃ­ â€”dije, bajando la voz, para que Leah, que todavÃ­a
+                estaba puliendo los cristales, no pudiera oÃ­rmeâ€”, y al principio pensÃ©
+                que era Pilot; pero Pilot no puede reÃ­r. Y estoy segura de que oÃ­ una
+                risa, y una risa extraÃ±a.</p>
+
+                <p>TomÃ³ una nueva aguja llena de hilo, la encerÃ³ cuidadosamente,
+                enhebrÃ³ su aguja con mano firme y luego observÃ³, con perfecta
+                compostura:</p>
+
+                <p>â€”Es poco probable que el amo se riera, creo yo, seÃ±orita, cuando
+                estaba en tal peligro. HabrÃ¡ estado soÃ±ando.</p>
+
+                <p>â€”No estaba soÃ±ando â€”dije, con cierto ardor, pues su descarada
+                frialdad me provocaba. De nuevo me mirÃ³; y con el mismo ojo
+                escrutador y consciente.</p>
+
+                <p>â€”Â¿Le ha dicho al amo que oyÃ³ una risa? â€”inquiriÃ³.</p>
+
+                <p>â€”No he tenido la oportunidad de hablar con Ã©l esta maÃ±ana.</p>
+
+                <p>â€”Â¿No se le ocurriÃ³ abrir la puerta y mirar a la galerÃ­a? â€”preguntÃ³ ademÃ¡s.</p>
+
+                <p>ParecÃ­a estar interrogÃ¡ndome, intentando sacarme informaciÃ³n sin
+                que me diera cuenta. Se me ocurriÃ³ la idea de que si descubrÃ­a que
+                yo sabÃ­a o sospechaba su culpabilidad, me harÃ­a alguna de sus
+                malignas jugarretas. PensÃ© que era aconsejable estar en guardia.</p>
+
+                <p>â€”Al contrario â€”dijeâ€”, echÃ© el cerrojo de mi puerta.</p>
+
+                <p>â€”Â¿Entonces no tiene la costumbre de echar el cerrojo de su
+                puerta todas las noches antes de acostarse?</p>
+
+                <p>Â«Â¡Demonio! Â¡Quiere conocer mis hÃ¡bitos, para poder trazar sus
+                planes en consecuencia!Â». La indignaciÃ³n volviÃ³ a prevalecer sobre
+                la prudencia. RespondÃ­ bruscamente:</p>
+
+                <p>â€”Hasta ahora he omitido a menudo echar el cerrojo; no lo creÃ­a
+                necesario. No era consciente de que hubiera que temer ningÃºn
+                peligro o molestia en Thornfield Hall; pero en el futuro (y puse un
+                marcado Ã©nfasis en las palabras) tendrÃ© mucho cuidado de
+                asegurarlo todo antes de aventurarme a acostarme.</p>
+
+                <p>â€”SerÃ¡ sabio hacerlo â€”fue su respuestaâ€”. Esta vecindad es tan
+                tranquila como cualquiera que conozco, y nunca he oÃ­do que la
+                mansiÃ³n haya sido asaltada por ladrones desde que es una casa;
+                aunque hay cientos de libras en plata en el armario de la platerÃ­a,
+                como es bien sabido. Y ya ve, para una casa tan grande, hay muy
+                pocos criados, porque el amo nunca ha vivido mucho aquÃ­; y cuando
+                viene, siendo soltero, necesita poco servicio. Pero siempre pienso
+                que es mejor pecar de precavida; una puerta se cierra pronto, y es
+                bueno tener un cerrojo echado entre una y cualquier mal que pueda
+                haber por ahÃ­. Mucha gente, seÃ±orita, es de confiarlo todo a la
+                Providencia; pero yo digo que la Providencia no prescindirÃ¡ de los
+                medios, aunque a menudo los bendice cuando se usan con
+                discreciÃ³n. â€”Y aquÃ­ cerrÃ³ su arenga, larga para ella, y pronunciada
+                con la modestia de una cuÃ¡quera.</p>
+
+                <p>TodavÃ­a estaba absolutamente estupefacta ante lo que me parecÃ­a
+                su milagrosa compostura y su hipocresÃ­a de lo mÃ¡s inescrutable,
+                cuando entrÃ³ la cocinera.</p>
+
+                <p>â€”SeÃ±ora Poole â€”dijo, dirigiÃ©ndose a Graceâ€”, la cena de los
+                criados estarÃ¡ lista pronto. Â¿Quiere bajar?</p>
+
+                <p>â€”No; ponga mi pinta de cerveza negra y mi trozo de pudin en una
+                bandeja, y lo subirÃ©.</p>
+
+                <p>â€”Â¿Quiere un poco de carne?</p>
+
+                <p>â€”Solo un bocado, y una pizca de queso, eso es todo.</p>
+
+                <p>â€”Â¿Y el sagÃº?</p>
+
+                <p>â€”No se preocupe por ahora; bajarÃ© antes de la hora del tÃ©, lo
+                harÃ© yo misma.</p>
+
+                <p>La cocinera se volviÃ³ entonces hacia mÃ­, diciendo que la seÃ±ora
+                Fairfax me estaba esperando; asÃ­ que me marchÃ©.</p>
+
+                <p>Apenas oÃ­ el relato de la seÃ±ora Fairfax sobre el incendio de las
+                cortinas durante la cena, tan ocupada estaba rompiÃ©ndome la
+                cabeza con el enigmÃ¡tico carÃ¡cter de Grace Poole, y mÃ¡s aÃºn
+                reflexionando sobre el problema de su posiciÃ³n en Thornfield y
+                preguntÃ¡ndome por quÃ© no habÃ­a sido puesta bajo custodia esa
+                maÃ±ana, o, como mÃ­nimo, despedida del servicio de su amo. Ã‰l casi
+                habÃ­a declarado su convicciÃ³n de la criminalidad de ella la noche
+                anterior. Â¿QuÃ© causa misteriosa le impedÃ­a acusarla? Â¿Por quÃ© me
+                habÃ­a impuesto a mÃ­ tambiÃ©n el secreto? Era extraÃ±o: un caballero
+                audaz, vengativo y altivo parecÃ­a de alguna manera en poder de una
+                de las mÃ¡s humildes de sus dependientas; tanto en su poder que,
+                incluso cuando ella levantÃ³ la mano contra su vida, no se atreviÃ³ a
+                acusarla abiertamente del intento, y mucho menos a castigarla por
+                ello.</p>
+
+                <p>Si Grace hubiera sido joven y guapa, me habrÃ­a sentido tentada a
+                pensar que sentimientos mÃ¡s tiernos que la prudencia o el miedo
+                influÃ­an en el seÃ±or Rochester en su favor; pero, poco agraciada y de
+                aspecto maternal como era, la idea no podÃ­a ser admitida. Â«Sin
+                embargoÂ», reflexionÃ©, Â«ha sido joven una vez; su juventud serÃ­a
+                contemporÃ¡nea a la de su amo. La seÃ±ora Fairfax me dijo una vez
+                que habÃ­a vivido aquÃ­ muchos aÃ±os. No creo que haya sido nunca
+                guapa; pero, por lo que sÃ©, puede poseer originalidad y fuerza de
+                carÃ¡cter para compensar la falta de ventajas personales. El seÃ±or
+                Rochester es un aficionado a lo decidido y excÃ©ntrico. Grace es
+                excÃ©ntrica, al menos. Â¿Y si un capricho anterior (un antojo muy
+                posible en una naturaleza tan sÃºbita y testaruda como la suya) lo ha
+                entregado a su poder, y ahora ella ejerce sobre sus acciones una
+                influencia secreta, resultado de su propia indiscreciÃ³n, de la que no
+                puede deshacerse y no se atreve a ignorar?Â». Pero, habiendo llegado
+                a este punto de conjetura, la figura cuadrada y plana de la seÃ±ora
+                Poole, y su rostro poco agraciado, seco, incluso tosco, volvieron tan
+                claramente a mi ojo mental que pensÃ©: Â«No; Â¡imposible! Mi
+                suposiciÃ³n no puede ser correctaÂ». Â«Sin embargoÂ», sugiriÃ³ la voz
+                secreta que nos habla en nuestros propios corazones, Â«tÃº tampoco
+                eres hermosa, y quizÃ¡s el seÃ±or Rochester te apruebe; en cualquier
+                caso, a menudo has sentido como si lo hiciera; y anoche... recuerda
+                sus palabras; recuerda su mirada; recuerda su vozÂ».</p>
+
+                <p>Recordaba bien todo; lenguaje, mirada y tono parecÃ­an en ese
+                momento vÃ­vidamente renovados. Estaba ahora en el aula; AdÃ¨le
+                dibujaba. Me inclinÃ© sobre ella y dirigÃ­ su lÃ¡piz. LevantÃ³ la vista con
+                una especie de sobresalto.</p>
+
+                <p>â€”<i>Qu'avez-vous, mademoiselle?</i>â€”dijoâ€”.<i>Vos doigts tremblent
+                comme la feuille, et vos joues sont rouges: mais, rouges comme des
+                cerises!</i></p>
+
+                <p>â€”Â¡Tengo calor, AdÃ¨le, de estar inclinada! â€”Ella siguiÃ³ dibujando;
+                yo seguÃ­ pensando.</p>
+
+                <p>Me apresurÃ© a expulsar de mi mente la odiosa nociÃ³n que habÃ­a
+                estado concibiendo respecto a Grace Poole; me repugnaba. Me
+                comparÃ© con ella y descubrÃ­ que Ã©ramos diferentes. Bessie Leaven
+                habÃ­a dicho que yo era toda una dama, y decÃ­a la verdad: era una
+                dama. Y ahora me veÃ­a mucho mejor que cuando Bessie me vio;
+                tenÃ­a mÃ¡s color y mÃ¡s carne, mÃ¡s vida, mÃ¡s vivacidad, porque tenÃ­a
+                esperanzas mÃ¡s brillantes y goces mÃ¡s agudos.</p>
+
+                <p>Â«Se acerca la tardeÂ», dije, mientras miraba hacia la ventana. Â«No
+                he oÃ­do la voz ni los pasos del seÃ±or Rochester en la casa hoy; pero
+                seguramente lo verÃ© antes de la noche. TemÃ­a el encuentro por la
+                maÃ±ana; ahora lo deseo, porque la expectativa se ha frustrado tanto
+                tiempo que se ha vuelto impacienteÂ».</p>
+
+                <p>Cuando el crepÃºsculo realmente se cerrÃ³, y cuando AdÃ¨le me dejÃ³
+                para ir a jugar al cuarto de los niÃ±os con Sophie, lo deseÃ© con la
+                mayor intensidad. EscuchÃ© a que sonara la campanilla abajo;
+                escuchÃ© a que Leah subiera con un mensaje; a veces me parecÃ­a oÃ­r
+                los propios pasos del seÃ±or Rochester, y me volvÃ­a hacia la puerta,
+                esperando que se abriera y lo admitiera. La puerta permaneciÃ³
+                cerrada; solo la oscuridad entraba por la ventana. AÃºn no era tarde;
+                a menudo me mandaba llamar a las siete y a las ocho, y todavÃ­a no
+                eran mÃ¡s que las seis. Â¡Seguramente no me sentirÃ­a completamente
+                decepcionada esta noche, cuando tenÃ­a tantas cosas que decirle!
+                QuerÃ­a volver a introducir el tema de Grace Poole y oÃ­r lo que Ã©l
+                responderÃ­a; querÃ­a preguntarle claramente si realmente creÃ­a que
+                habÃ­a sido ella quien habÃ­a hecho el espantoso intento de la noche
+                anterior; y si era asÃ­, por quÃ© mantenÃ­a en secreto su maldad. Poco
+                importaba si mi curiosidad lo irritaba; conocÃ­a el placer de
+                exasperarlo y calmarlo por turnos; era uno en el que me deleitaba
+                principalmente, y un instinto seguro siempre me impedÃ­a ir
+                demasiado lejos; mÃ¡s allÃ¡ del lÃ­mite de la provocaciÃ³n nunca me
+                aventuraba; en el borde extremo me gustaba probar mi habilidad.
+                Conservando toda forma de respeto, toda propiedad de mi posiciÃ³n,
+                aÃºn podÃ­a enfrentarme a Ã©l en una discusiÃ³n sin miedo ni incÃ³moda
+                restricciÃ³n; esto nos convenÃ­a a ambos.</p>
+
+                <p>Unos pasos crujieron en la escalera por fin. Leah hizo su apariciÃ³n;
+                pero solo para comunicar que el tÃ© estaba listo en la habitaciÃ³n de la
+                seÃ±ora Fairfax. AllÃ­ me dirigÃ­, contenta al menos de bajar, pues eso
+                me acercaba, imaginaba, a la presencia del seÃ±or Rochester.</p>
+
+                <p>â€”Debe de querer su tÃ© â€”dijo la buena dama, mientras me unÃ­a a
+                ellaâ€”. ComiÃ³ tan poco en la cena. Me temo â€”continuÃ³â€” que no se
+                encuentra bien hoy; parece sonrojada y febril.</p>
+
+                <p>â€”Â¡Oh, completamente bien! Nunca me he sentido mejor.</p>
+
+                <p>â€”Entonces debe demostrarlo mostrando un buen apetito. Â¿Quiere
+                llenar la tetera mientras termino esta aguja? â€”Habiendo completado
+                su tarea, se levantÃ³ para bajar la persiana, que hasta ahora habÃ­a
+                mantenido subida, supongo, para aprovechar al mÃ¡ximo la luz del
+                dÃ­a, aunque el crepÃºsculo se estaba convirtiendo rÃ¡pidamente en
+                oscuridad total.</p>
+
+                <p>â€”Hace bueno esta noche â€”dijo, mientras miraba a travÃ©s de los
+                cristalesâ€”, aunque no hay estrellas. El seÃ±or Rochester, en general,
+                ha tenido un dÃ­a favorable para su viaje.</p>
+
+                <p>â€”Â¡Viaje! Â¿Se ha ido el seÃ±or Rochester a alguna parte? No sabÃ­a
+                que estaba fuera.</p>
+
+                <p>â€”Â¡Oh, partiÃ³ en el momento en que desayunÃ³! Se ha ido a Leas,
+                la propiedad del seÃ±or Eshton, a diez millas al otro lado de Millcote.
+                Creo que hay una gran fiesta reunida allÃ­; Lord Ingram, Sir George
+                Lynn, el Coronel Dent y otros.</p>
+
+                <p>â€”Â¿Lo espera de vuelta esta noche?</p>
+
+                <p>â€”No, ni maÃ±ana tampoco. Creo que es muy probable que se
+                quede una semana o mÃ¡s. Cuando esta gente distinguida y a la
+                moda se reÃºne, estÃ¡n tan rodeados de elegancia y alegrÃ­a, tan bien
+                provistos de todo lo que puede complacer y entretener, que no
+                tienen prisa por separarse. Los caballeros, especialmente, suelen ser
+                muy solicitados en tales ocasiones; y el seÃ±or Rochester es tan
+                talentoso y tan animado en sociedad que creo que es un favorito
+                general. Las damas le tienen mucho aprecio, aunque no pensarÃ­a
+                usted que su apariencia estÃ¡ calculada para recomendarlo
+                particularmente a sus ojos; pero supongo que sus conocimientos y
+                habilidades, quizÃ¡s su riqueza y su buena cuna, compensan
+                cualquier pequeÃ±o defecto de aspecto.</p>
+
+                <p>â€”Â¿Hay damas en Leas?</p>
+
+                <p>â€”EstÃ¡n la seÃ±ora Eshton y sus tres hijas, unas jÃ³venes muy
+                elegantes, por cierto; y estÃ¡n las Honorables Blanche y Mary
+                Ingram, mujeres hermosÃ­simas, supongo. De hecho, he visto a
+                Blanche, hace seis o siete aÃ±os, cuando era una muchacha de
+                dieciocho. Vino aquÃ­ a un baile y fiesta de Navidad que dio el seÃ±or
+                Rochester. Â¡DeberÃ­a haber visto el comedor ese dÃ­a, quÃ© ricamente
+                estaba decorado, quÃ© brillantemente iluminado! Creo que habÃ­a
+                cincuenta damas y caballeros presentes, todos de las primeras
+                familias del condado; y la seÃ±orita Ingram fue considerada la belleza
+                de la noche.</p>
+
+                <p>â€”La vio, dice usted, seÃ±ora Fairfax. Â¿CÃ³mo era?</p>
+
+                <p>â€”SÃ­, la vi. Las puertas del comedor se abrieron de par en par; y,
+                como era Navidad, se permitiÃ³ a los criados reunirse en el vestÃ­bulo
+                para oÃ­r a algunas de las damas cantar y tocar. El seÃ±or Rochester
+                me hizo entrar, y me sentÃ© en un rincÃ³n tranquilo y los observÃ©.
+                Nunca vi una escena mÃ¡s esplÃ©ndida. Las damas estaban
+                magnÃ­ficamente vestidas; la mayorÃ­a de ellas, al menos la mayorÃ­a
+                de las mÃ¡s jÃ³venes, parecÃ­an guapas; pero la seÃ±orita Ingram era
+                ciertamente la reina.</p>
+
+                <p>â€”Â¿Y cÃ³mo era?</p>
+
+                <p>â€”Alta, de hermoso busto, hombros caÃ­dos; cuello largo y grÃ¡cil;
+                tez aceitunada, oscura y clara; rasgos nobles; ojos bastante
+                parecidos a los del seÃ±or Rochester, grandes y negros, y tan
+                brillantes como sus joyas. Y ademÃ¡s tenÃ­a una cabellera preciosa;
+                negro como el cuervo y tan bien arreglada: una corona de gruesas
+                trenzas detrÃ¡s, y delante, los rizos mÃ¡s largos y lustrosos que he
+                visto jamÃ¡s. Iba vestida de blanco puro; un paÃ±uelo de color Ã¡mbar
+                le pasaba por el hombro y cruzaba su pecho, atado a un lado y
+                descendiendo en largos extremos con flecos por debajo de la rodilla.
+                Llevaba tambiÃ©n una flor de color Ã¡mbar en el pelo; contrastaba bien
+                con la masa de azabache de sus rizos.</p>
+
+                <p>â€”Fue muy admirada, por supuesto.</p>
+
+                <p>â€”SÃ­, por supuesto; y no solo por su belleza, sino por sus
+                habilidades. Fue una de las damas que cantÃ³; un caballero la
+                acompaÃ±Ã³ al piano. Ella y el seÃ±or Rochester cantaron un dÃºo.</p>
+
+                <p>â€”Â¿El seÃ±or Rochester? No sabÃ­a que supiera cantar.</p>
+
+                <p>â€”Â¡Oh! Tiene una hermosa voz de bajo y un excelente gusto para la mÃºsica.</p>
+
+                <p>â€”Â¿Y la seÃ±orita Ingram, quÃ© clase de voz tenÃ­a?</p>
+
+                <p>â€”Una muy rica y potente. Cantaba deliciosamente; era un placer
+                escucharla. Y despuÃ©s tocÃ³. No soy juez de mÃºsica, pero el seÃ±or
+                Rochester sÃ­; y le oÃ­ decir que su ejecuciÃ³n era notablemente buena.</p>
+
+                <p>â€”Â¿Y esta dama hermosa y culta aÃºn no estÃ¡ casada?</p>
+
+                <p>â€”Parece que no. Me imagino que ni ella ni su hermana tienen
+                grandes fortunas. Las propiedades del viejo Lord Ingram estaban
+                principalmente vinculadas, y el hijo mayor se quedÃ³ con casi todo.</p>
+
+                <p>â€”Pero me pregunto por quÃ© ningÃºn noble o caballero rico se ha
+                encaprichado de ella. El seÃ±or Rochester, por ejemplo. Ã‰l es rico, Â¿no
+                es asÃ­?</p>
+
+                <p>â€”Â¡Oh, sÃ­! Pero ya ve, hay una considerable diferencia de edad. El
+                seÃ±or Rochester tiene casi cuarenta aÃ±os; ella solo veinticinco.</p>
+
+                <p>â€”Â¿Y quÃ©? Todos los dÃ­as se celebran matrimonios mÃ¡s desiguales.</p>
+
+                <p>â€”Cierto. Sin embargo, apenas me imagino que el seÃ±or Rochester
+                albergue una idea de ese tipo. Pero no come usted nada; apenas ha
+                probado desde que empezÃ³ a tomar el tÃ©.</p>
+
+                <p>â€”No; tengo demasiada sed para comer. Â¿Me permite otra taza?</p>
+
+                <p>Estaba a punto de volver a la probabilidad de una uniÃ³n entre el
+                seÃ±or Rochester y la hermosa Blanche; pero AdÃ¨le entrÃ³ y la
+                conversaciÃ³n se desviÃ³ hacia otro canal.</p>
+
+                <p>Una vez mÃ¡s sola, repasÃ© la informaciÃ³n que habÃ­a obtenido; mirÃ©
+                en mi corazÃ³n, examinÃ© sus pensamientos y sentimientos, y me
+                esforcÃ© por traer de vuelta con mano estricta a aquellos que habÃ­an
+                estado vagando por el yermo ilimitado e intransitable de la
+                imaginaciÃ³n, al redil seguro del sentido comÃºn.</p>
+
+                <p>Sometida a juicio en mi propio tribunal, habiendo dado la Memoria
+                su testimonio de las esperanzas, deseos y sentimientos que habÃ­a
+                estado albergando desde la noche anterior â€”del estado de Ã¡nimo
+                general en el que me habÃ­a complacido durante casi una quincenaâ€”;
+                habiendo comparecido la RazÃ³n y contado, a su manera tranquila,
+                una historia sencilla y sin adornos, mostrando cÃ³mo habÃ­a rechazado
+                lo real y devorado rabiosamente lo ideal, pronunciÃ© sentencia a este
+                efecto:</p>
+
+                <p>Que una tonta mÃ¡s grande que Jane Eyre nunca habÃ­a respirado el
+                aliento de la vida; que una idiota mÃ¡s fantÃ¡stica nunca se habÃ­a
+                hartado de dulces mentiras y tragado veneno como si fuera nÃ©ctar.</p>
+
+                <p>Â«Â¿TÃºÂ», me dije, Â«una favorita del seÃ±or Rochester? Â¿TÃº, dotada
+                del poder de complacerle? Â¿TÃº, de importancia para Ã©l de alguna
+                manera? Â¡Vamos! Tu locura me enferma. Y has obtenido placer de
+                muestras ocasionales de preferencia, muestras equÃ­vocas mostradas
+                por un caballero de familia y un hombre de mundo a una
+                dependienta y una novicia. Â¿CÃ³mo te atreviste? Â¡Pobre estÃºpida
+                incauta! Â¿Ni siquiera el interÃ©s propio pudo hacerte mÃ¡s sabia? Â¿Te
+                repetiste a ti misma esta maÃ±ana la breve escena de anoche?
+                Â¡CÃºbrete la cara y avergÃ¼Ã©nzate! Dijo algo en elogio de tus ojos,
+                Â¿verdad? Â¡Cachorra ciega! Â¡Abre tus pÃ¡rpados legaÃ±osos y mira tu
+                propia y maldita insensatez! No le hace bien a ninguna mujer ser
+                halagada por su superior, que no puede tener la intenciÃ³n de casarse
+                con ella; y es una locura en todas las mujeres dejar que un amor
+                secreto se encienda en su interior, el cual, si no es correspondido y
+                es desconocido, debe devorar la vida que lo alimenta; y, si es
+                descubierto y correspondido, debe conducir, como un fuego fatuo, a
+                ciÃ©nagas de las que no hay escapatoria.</p>
+
+                <p>Â»Escucha, entonces, Jane Eyre, tu sentencia: maÃ±ana, coloca el
+                espejo ante ti y dibuja en tiza tu propio retrato, fielmente, sin
+                suavizar un solo defecto; no omitas ninguna lÃ­nea dura, no alises
+                ninguna irregularidad desagradable; escribe debajo: â€œRetrato de una
+                Institutriz, sin lazos, pobre y sencillaâ€.</p>
+
+                <p>Â»DespuÃ©s, toma una pieza de marfil liso â€”tienes una preparada
+                en tu caja de dibujoâ€”; toma tu paleta, mezcla tus tintes mÃ¡s
+                frescos, mÃ¡s finos, mÃ¡s claros; elige tus pinceles de pelo de camello
+                mÃ¡s delicados; delinea cuidadosamente el rostro mÃ¡s encantador
+                que puedas imaginar; pÃ­ntalo con tus tonos mÃ¡s suaves y tus lÃ­neas
+                mÃ¡s dulces, segÃºn la descripciÃ³n dada por la seÃ±ora Fairfax de
+                Blanche Ingram; recuerda los rizos de cuervo, el ojo oriental. Â¡CÃ³mo!
+                Â¿Vuelves al seÃ±or Rochester como modelo? Â¡Orden! Â¡Nada de
+                lloriqueos! Â¡Nada de sentimentalismos! Â¡Nada de lamentos! Solo
+                tolerarÃ© el sentido y la resoluciÃ³n. Recuerda los rasgos augustos
+                pero armoniosos, el cuello y el busto griegos; que el brazo redondo
+                y deslumbrante sea visible, y la mano delicada; no omitas ni el anillo
+                de diamantes ni el brazalete de oro; retrata fielmente el atuendo,
+                encaje etÃ©reo y satÃ©n reluciente, paÃ±uelo grÃ¡cil y rosa dorada;
+                llÃ¡malo â€œBlanche, una dama de rango y cultaâ€.</p>
+
+                <p>Â»Siempre que, en el futuro, te imagines que el seÃ±or Rochester
+                piensa bien de ti, saca estos dos cuadros y compÃ¡ralos. Di: â€œEl seÃ±or
+                Rochester podrÃ­a probablemente ganar el amor de esa noble dama,
+                si decidiera esforzarse por ello; Â¿es probable que desperdiciara un
+                pensamiento serio en esta plebeya indigente e insignificante?â€.Â»</p>
+
+                <p>Â«Lo harÃ©Â», resolvÃ­. Y habiendo formulado esta determinaciÃ³n, me
+                calmÃ© y me quedÃ© dormida.</p>
+
+                <p>Mantuve mi palabra. Una o dos horas fueron suficientes para
+                esbozar mi propio retrato a lÃ¡piz; y en menos de quince dÃ­as habÃ­a
+                completado una miniatura de marfil de una imaginaria Blanche
+                Ingram. ParecÃ­a un rostro bastante encantador, y cuando se
+                comparaba con la cabeza real en tiza, el contraste era tan grande
+                como el autocontrol podÃ­a desear. Obtuve beneficio de la tarea:
+                habÃ­a mantenido mi cabeza y mis manos ocupadas, y habÃ­a dado
+                fuerza y fijeza a las nuevas impresiones que deseaba estampar
+                indeleblemente en mi corazÃ³n.</p>
+
+                <p>En poco tiempo, tuve motivos para felicitarme por el curso de la
+                saludable disciplina a la que asÃ­ habÃ­a forzado a someterse a mis
+                sentimientos. Gracias a ella, pude afrontar los acontecimientos
+                posteriores con una calma decente que, de haberme encontrado
+                desprevenida, probablemente habrÃ­a sido incapaz de mantener, ni
+                siquiera exteriormente.</p>
 
             <div class="botonesFinales">
                 <a class="cambioAnterior" href="cap15.php" rel="prev">Anterior</a>
-                <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
+                <a class="boton" href="../../contenido_eyre.php">Regresa al menÃº de capÃ­tulos</a>
                 <a class="cambioSiguiente" href="cap17.php" rel="next">Siguiente</a>
                 </div>
             </section>

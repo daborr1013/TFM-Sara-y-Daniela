@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Capítulo 30</title>
+    <title>CapÃ­tulo 30</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el capítulo 30">
+    <meta name="description" content="Este es el capÃ­tulo 30">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
@@ -39,21 +39,21 @@
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
+                        <li><a href="../../intro_obra.php">IntroducciÃ³n a la obra</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contenido_eyre.php">Contenido</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
-                                <li><a href="../../capitulos.php">Capítulos</a></li>
+                                <li><a href="../../resumenes/resumenes.php">ResÃºmenes</a></li>
+                                <li><a href="../../capitulos.php">CapÃ­tulos</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
-                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
+                                <li><a href="charlotte.php">Charlotte BrontÃ«</a></li>
+                                <li><a href="contexto_historico.php">Contexto histÃ³rico</a></li>
                             </ul>
                         </li>
 
@@ -61,7 +61,7 @@
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">Símbolos</a></li>
+                                <li><a href="simbolos.php">SÃ­mbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
                                 <li><a href="mapa.php">Mapa</a></li>
@@ -82,447 +82,447 @@
             </div>
             
             <section class="contenido">
-                <h1>Capítulo XXX</h1>
-                
-                <p>Cuanto más conocía a los moradores de Moor House, más me
-                gustaban. En pocos días había recuperado tanto mi salud que podía
-                estar sentada todo el día y salir a pasear a veces. Podía unirme a
+                <h1>CapÃ­tulo XXX</h1>
+    
+                <p>Cuanto mÃ¡s conocÃ­a a los moradores de Moor House, mÃ¡s me
+                gustaban. En pocos dÃ­as habÃ­a recuperado tanto mi salud que podÃ­a
+                estar sentada todo el dÃ­a y salir a pasear a veces. PodÃ­a unirme a
                 Diana y a Mary en todas sus ocupaciones, conversar con ellas tanto
                 como desearan y ayudarlas cuando y donde me lo permitieran.
-                Había un placer revivificador en esta relación, de un tipo que ahora
+                HabÃ­a un placer revivificador en esta relaciÃ³n, de un tipo que ahora
                 probaba por primera vez: el placer que surge de una perfecta
                 congenialidad de gustos, sentimientos y principios.</p>
 
                 <p>Me gustaba leer lo que a ellas les gustaba leer; lo que ellas
                 disfrutaban, me deleitaba; lo que ellas aprobaban, yo lo
-                reverenciaba. Amaban su hogar apartado. Yo también, en la
-                estructura gris, pequeña y antigua, con su techo bajo, sus
-                ventanales de celosía, sus muros desmoronados, su avenida de
-                abetos añosos —todos crecidos de lado bajo la tensión de los
-                vientos de montaña—; su jardín, oscuro de tejos y acebos, y donde
-                no florecían sino las especies más resistentes, encontré un encanto a
-                la vez potente y permanente. Se aferraban a los páramos púrpuras
-                detrás y alrededor de su morada, al valle hueco en el que descendía
-                el sendero de herradura de guijarros que partía de su verja, y que
+                reverenciaba. Amaban su hogar apartado. Yo tambiÃ©n, en la
+                estructura gris, pequeÃ±a y antigua, con su techo bajo, sus
+                ventanales de celosÃ­a, sus muros desmoronados, su avenida de
+                abetos aÃ±osos â€”todos crecidos de lado bajo la tensiÃ³n de los
+                vientos de montaÃ±aâ€”; su jardÃ­n, oscuro de tejos y acebos, y donde
+                no florecÃ­an sino las especies mÃ¡s resistentes, encontrÃ© un encanto a
+                la vez potente y permanente. Se aferraban a los pÃ¡ramos pÃºrpuras
+                detrÃ¡s y alrededor de su morada, al valle hueco en el que descendÃ­a
+                el sendero de herradura de guijarros que partÃ­a de su verja, y que
                 serpenteaba primero entre bancales de helechos y luego entre
-                algunos de los más salvajes pequeños pastizales que jamás
-                bordearon un yermo de brezo o dieron sustento a un rebaño de
-                ovejas grises del páramo, con sus corderitos de cara musgosa. Se
+                algunos de los mÃ¡s salvajes pequeÃ±os pastizales que jamÃ¡s
+                bordearon un yermo de brezo o dieron sustento a un rebaÃ±o de
+                ovejas grises del pÃ¡ramo, con sus corderitos de cara musgosa. Se
                 aferraban a esta escena, digo, con un perfecto entusiasmo de
-                apego. Podía comprender el sentimiento y compartir tanto su fuerza
-                como su verdad. Vi la fascinación del lugar. Sentí la consagración de
-                su soledad. Mi ojo se deleitaba en el contorno de la ondulación y la
-                extensión, en el colorido salvaje comunicado a la cresta y al valle por
-                el musgo, por la campanilla de brezo, por el césped salpicado de
-                flores, por el helecho brillante y el peñasco de granito meloso. Estos
-                detalles eran para mí exactamente lo que eran para ellas: tantas
+                apego. PodÃ­a comprender el sentimiento y compartir tanto su fuerza
+                como su verdad. Vi la fascinaciÃ³n del lugar. SentÃ­ la consagraciÃ³n de
+                su soledad. Mi ojo se deleitaba en el contorno de la ondulaciÃ³n y la
+                extensiÃ³n, en el colorido salvaje comunicado a la cresta y al valle por
+                el musgo, por la campanilla de brezo, por el cÃ©sped salpicado de
+                flores, por el helecho brillante y el peÃ±asco de granito meloso. Estos
+                detalles eran para mÃ­ exactamente lo que eran para ellas: tantas
                 fuentes puras y dulces de placer. El fuerte vendaval y la suave brisa;
-                el día rudo y el apacible; las horas del amanecer y del atardecer; la
-                luz de la luna y la noche nublada, desarrollaron para mí, en estas
-                regiones, la misma atracción que para ellas, envolvieron mis
+                el dÃ­a rudo y el apacible; las horas del amanecer y del atardecer; la
+                luz de la luna y la noche nublada, desarrollaron para mÃ­, en estas
+                regiones, la misma atracciÃ³n que para ellas, envolvieron mis
                 facultades con el mismo hechizo que encantaba las suyas.</p>
 
-                <p>Dentro de casa nos entendíamos igual de bien. Ambas eran más
-                cultas y leídas que yo; pero con avidez seguí el camino del
-                conocimiento que ellas habían hollado antes que yo. Devoré los
-                libros que me prestaron; entonces era una satisfacción plena discutir
-                con ellas por la noche lo que había leído durante el día. Pensamiento
-                encajaba con pensamiento; opinión se encontraba con opinión.
-                Coincidíamos, en resumen, perfectamente.</p>
+                <p>Dentro de casa nos entendÃ­amos igual de bien. Ambas eran mÃ¡s
+                cultas y leÃ­das que yo; pero con avidez seguÃ­ el camino del
+                conocimiento que ellas habÃ­an hollado antes que yo. DevorÃ© los
+                libros que me prestaron; entonces era una satisfacciÃ³n plena discutir
+                con ellas por la noche lo que habÃ­a leÃ­do durante el dÃ­a. Pensamiento
+                encajaba con pensamiento; opiniÃ³n se encontraba con opiniÃ³n.
+                CoincidÃ­amos, en resumen, perfectamente.</p>
 
-                <p>Si en nuestro trío había una superior y una líder, era Diana.
-                Físicamente, me superaba con creces: era guapa; era vigorosa. En
-                su vitalidad había una afluencia de vida y una certeza de flujo tales
+                <p>Si en nuestro trÃ­o habÃ­a una superior y una lÃ­der, era Diana.
+                FÃ­sicamente, me superaba con creces: era guapa; era vigorosa. En
+                su vitalidad habÃ­a una afluencia de vida y una certeza de flujo tales
                 que excitaban mi asombro, mientras desconcertaban mi
-                comprensión. Yo podía hablar un rato cuando comenzaba la tarde,
-                pero una vez pasada la primera efusión de vivacidad y fluidez, me
-                complacía sentarme en un taburete a los pies de Diana, apoyar la
+                comprensiÃ³n. Yo podÃ­a hablar un rato cuando comenzaba la tarde,
+                pero una vez pasada la primera efusiÃ³n de vivacidad y fluidez, me
+                complacÃ­a sentarme en un taburete a los pies de Diana, apoyar la
                 cabeza en su rodilla y escuchar alternativamente a ella y a Mary,
-                mientras ellas exploraban a fondo el tema que yo solo había tocado.
-                Diana se ofreció a enseñarme alemán. Me gustaba aprender de ella;
-                vi que el papel de instructora le agradaba y le convenía; el de
-                alumna me agradaba y me convenía no menos. Nuestras naturalezas
-                encajaban perfectamente. El afecto mutuo, del tipo más fuerte, fue
-                el resultado. Descubrieron que sabía dibujar; sus lápices y cajas de
+                mientras ellas exploraban a fondo el tema que yo solo habÃ­a tocado.
+                Diana se ofreciÃ³ a enseÃ±arme alemÃ¡n. Me gustaba aprender de ella;
+                vi que el papel de instructora le agradaba y le convenÃ­a; el de
+                alumna me agradaba y me convenÃ­a no menos. Nuestras naturalezas
+                encajaban perfectamente. El afecto mutuo, del tipo mÃ¡s fuerte, fue
+                el resultado. Descubrieron que sabÃ­a dibujar; sus lÃ¡pices y cajas de
                 colores estuvieron inmediatamente a mi servicio. Mi habilidad, mayor
-                en este único punto que la de ellas, las sorprendió y encantó. Mary
+                en este Ãºnico punto que la de ellas, las sorprendiÃ³ y encantÃ³. Mary
                 se sentaba y me observaba durante horas; luego tomaba lecciones;
-                y resultó ser una alumna dócil, inteligente y asidua. Así ocupadas y
-                mutuamente entretenidas, los días pasaban como horas y las
-                semanas como días.</p>
+                y resultÃ³ ser una alumna dÃ³cil, inteligente y asidua. AsÃ­ ocupadas y
+                mutuamente entretenidas, los dÃ­as pasaban como horas y las
+                semanas como dÃ­as.</p>
 
-                <p>En cuanto al señor St. John, la intimidad que había surgido tan
-                natural y rápidamente entre sus hermanas y yo no se extendió a él.
-                Una razón de la distancia que aún se observaba entre nosotros era
-                que rara vez estaba en casa; una gran proporción de su tiempo
-                parecía dedicada a visitar a los enfermos y a los pobres entre la
-                dispersa población de su parroquia.</p>
+                <p>En cuanto al seÃ±or St. John, la intimidad que habÃ­a surgido tan
+                natural y rÃ¡pidamente entre sus hermanas y yo no se extendiÃ³ a Ã©l.
+                Una razÃ³n de la distancia que aÃºn se observaba entre nosotros era
+                que rara vez estaba en casa; una gran proporciÃ³n de su tiempo
+                parecÃ­a dedicada a visitar a los enfermos y a los pobres entre la
+                dispersa poblaciÃ³n de su parroquia.</p>
 
-                <p>Ningún tiempo parecía obstaculizarlo en estas excursiones
+                <p>NingÃºn tiempo parecÃ­a obstaculizarlo en estas excursiones
                 pastorales. Lloviera o hiciera buen tiempo, cuando terminaban sus
                 horas de estudio matutino, tomaba su sombrero y, seguido por el
-                viejo pointer de su padre, Carlo, salía en su misión de amor o de
-                deber; apenas sé bajo qué luz la consideraba. A veces, cuando el día
-                era muy desfavorable, sus hermanas protestaban. Él entonces decía,
-                con una sonrisa peculiar, más solemne que alegre:</p>
+                viejo pointer de su padre, Carlo, salÃ­a en su misiÃ³n de amor o de
+                deber; apenas sÃ© bajo quÃ© luz la consideraba. A veces, cuando el dÃ­a
+                era muy desfavorable, sus hermanas protestaban. Ã‰l entonces decÃ­a,
+                con una sonrisa peculiar, mÃ¡s solemne que alegre:</p>
 
-                <p>—Y si dejo que una ráfaga de viento o una llovizna me aparten de
-                estas tareas fáciles, ¿qué preparación sería tal pereza para el futuro
+                <p>â€”Y si dejo que una rÃ¡faga de viento o una llovizna me aparten de
+                estas tareas fÃ¡ciles, Â¿quÃ© preparaciÃ³n serÃ­a tal pereza para el futuro
                 que me propongo?</p>
 
                 <p>La respuesta general de Diana y Mary a esta pregunta era un
-                suspiro y algunos minutos de meditación aparentemente lúgubre.</p>
+                suspiro y algunos minutos de meditaciÃ³n aparentemente lÃºgubre.</p>
 
-                <p>Pero además de sus frecuentes ausencias, había otra barrera para
-                la amistad con él: parecía de naturaleza reservada, abstraída e
-                incluso melancólica. Celoso en sus labores ministeriales,
-                irreprochable en su vida y hábitos, no parecía, sin embargo, disfrutar
-                de esa serenidad mental, de ese contento interior que debería ser la
-                recompensa de todo cristiano sincero y filántropo práctico. A
+                <p>Pero ademÃ¡s de sus frecuentes ausencias, habÃ­a otra barrera para
+                la amistad con Ã©l: parecÃ­a de naturaleza reservada, abstraÃ­da e
+                incluso melancÃ³lica. Celoso en sus labores ministeriales,
+                irreprochable en su vida y hÃ¡bitos, no parecÃ­a, sin embargo, disfrutar
+                de esa serenidad mental, de ese contento interior que deberÃ­a ser la
+                recompensa de todo cristiano sincero y filÃ¡ntropo prÃ¡ctico. A
                 menudo, por la tarde, cuando se sentaba en la ventana, con su
-                escritorio y sus papeles ante él, dejaba de leer o escribir, apoyaba la
-                barbilla en la mano y se entregaba a no sé qué curso de
-                pensamiento; pero que era perturbado y excitante se podía ver en el
-                frecuente destello y la cambiante dilatación de su ojo.</p>
+                escritorio y sus papeles ante Ã©l, dejaba de leer o escribir, apoyaba la
+                barbilla en la mano y se entregaba a no sÃ© quÃ© curso de
+                pensamiento; pero que era perturbado y excitante se podÃ­a ver en el
+                frecuente destello y la cambiante dilataciÃ³n de su ojo.</p>
 
-                <p>Creo, además, that a naturaleza no era para él ese tesoro de
-                deleite que era para sus hermanas. Expresó una vez, y solo una vez
+                <p>Creo, ademÃ¡s, that a naturaleza no era para Ã©l ese tesoro de
+                deleite que era para sus hermanas. ExpresÃ³ una vez, y solo una vez
                 en mi presencia, un fuerte sentido del encanto rudo de las colinas y
                 un afecto innato por el techo oscuro y los muros canosos que
-                llamaba su hogar; pero había más de melancolía que de placer en el
+                llamaba su hogar; pero habÃ­a mÃ¡s de melancolÃ­a que de placer en el
                 tono y las palabras en que se manifestaba el sentimiento; y nunca
-                pareció vagar por los páramos por el bien de su silencio
-                tranquilizador, nunca buscar o deleitarse en los mil placeres pacíficos
-                que podían ofrecer.</p>
+                pareciÃ³ vagar por los pÃ¡ramos por el bien de su silencio
+                tranquilizador, nunca buscar o deleitarse en los mil placeres pacÃ­ficos
+                que podÃ­an ofrecer.</p>
 
-                <p>Tan poco comunicativo como era, pasó algún tiempo antes de que
+                <p>Tan poco comunicativo como era, pasÃ³ algÃºn tiempo antes de que
                 tuviera la oportunidad de medir su mente. La primera idea de su
-                calibre la obtuve cuando lo oí predicar en su propia iglesia de
-                Morton. Ojalá pudiera describir ese sermón, pero está más allá de mi
+                calibre la obtuve cuando lo oÃ­ predicar en su propia iglesia de
+                Morton. OjalÃ¡ pudiera describir ese sermÃ³n, pero estÃ¡ mÃ¡s allÃ¡ de mi
                 poder. Ni siquiera puedo reproducir fielmente el efecto que produjo
-                en mí.</p>
+                en mÃ­.</p>
 
-                <p>Comenzó con calma, y de hecho, en lo que respecta a la dicción y
+                <p>ComenzÃ³ con calma, y de hecho, en lo que respecta a la dicciÃ³n y
                 al tono de voz, fue tranquilo hasta el final. Un celo sinceramente
-                sentido, pero estrictamente contenido, se respiró pronto en los
-                acentos nítidos e impulsó el lenguaje nervioso. Esto creció en fuerza,
-                comprimido, condensado, controlado. El corazón se estremeció, la
-                mente se asombró por el poder del predicador; ninguno de los dos
-                se ablandó. A lo largo de todo él hubo una extraña amargura, una
+                sentido, pero estrictamente contenido, se respirÃ³ pronto en los
+                acentos nÃ­tidos e impulsÃ³ el lenguaje nervioso. Esto creciÃ³ en fuerza,
+                comprimido, condensado, controlado. El corazÃ³n se estremeciÃ³, la
+                mente se asombrÃ³ por el poder del predicador; ninguno de los dos
+                se ablandÃ³. A lo largo de todo Ã©l hubo una extraÃ±a amargura, una
                 ausencia de dulzura consoladora. Eran frecuentes las alusiones
-                severas a las doctrinas calvinistas: elección, predestinación,
-                reprobación; y cada referencia a estos puntos sonaba como una
-                sentencia pronunciada para la perdición. Cuando hubo terminado, en
-                lugar de sentirme mejor, más tranquila, más iluminada por su
-                discurso, experimenté una tristeza inexpresable; pues me pareció —
-                no sé si igualmente a otros— que la elocuencia que había estado
-                escuchando había surgido de una profundidad donde yacían turbios
-                posos de decepción, donde se movían impulsos perturbadores de
+                severas a las doctrinas calvinistas: elecciÃ³n, predestinaciÃ³n,
+                reprobaciÃ³n; y cada referencia a estos puntos sonaba como una
+                sentencia pronunciada para la perdiciÃ³n. Cuando hubo terminado, en
+                lugar de sentirme mejor, mÃ¡s tranquila, mÃ¡s iluminada por su
+                discurso, experimentÃ© una tristeza inexpresable; pues me pareciÃ³ â€”
+                no sÃ© si igualmente a otrosâ€” que la elocuencia que habÃ­a estado
+                escuchando habÃ­a surgido de una profundidad donde yacÃ­an turbios
+                posos de decepciÃ³n, donde se movÃ­an impulsos perturbadores de
                 anhelos insaciables y aspiraciones inquietantes. Estaba segura de
-                que St. John Rivers —de vida pura, concienzudo, celoso como era—
-                aún no había encontrado esa paz de Dios que sobrepasa todo
-                entendimiento. No la había encontrado más, pensé, que yo con mis
-                arrepentimientos ocultos y torturadores por mi ídolo roto y mi elíseo
-                perdido, arrepentimientos a los que últimamente he evitado
-                referirme, pero que me poseían y tiranizaban despiadadamente.</p>
+                que St. John Rivers â€”de vida pura, concienzudo, celoso como eraâ€”
+                aÃºn no habÃ­a encontrado esa paz de Dios que sobrepasa todo
+                entendimiento. No la habÃ­a encontrado mÃ¡s, pensÃ©, que yo con mis
+                arrepentimientos ocultos y torturadores por mi Ã­dolo roto y mi elÃ­seo
+                perdido, arrepentimientos a los que Ãºltimamente he evitado
+                referirme, pero que me poseÃ­an y tiranizaban despiadadamente.</p>
 
-                <p>Mientras tanto, había pasado un mes. Diana y Mary pronto
-                dejarían Moor House y regresarían a la vida y escena muy diferentes
+                <p>Mientras tanto, habÃ­a pasado un mes. Diana y Mary pronto
+                dejarÃ­an Moor House y regresarÃ­an a la vida y escena muy diferentes
                 que les esperaban, como institutrices en una gran ciudad de moda
                 del sur de Inglaterra, donde cada una ocupaba un puesto en familias
                 cuyos miembros ricos y altivos las consideraban solo humildes
-                dependientas, y que ni conocían ni buscaban sus excelencias
+                dependientas, y que ni conocÃ­an ni buscaban sus excelencias
                 innatas, y apreciaban solo sus habilidades adquiridas como
                 apreciaban la destreza de su cocinero o el gusto de su doncella. El
-                señor St. John aún no me había dicho nada sobre el empleo que me
-                había prometido conseguir; sin embargo, se volvía urgente que
-                tuviera una vocación de algún tipo. Una mañana, al quedarme sola
-                con él unos minutos en el salón, me aventuré a acercarme al hueco
-                de la ventana —que su mesa, silla y escritorio consagraban como
-                una especie de estudio—, e iba a hablar, aunque no sabía muy bien
-                en qué palabras enmarcar mi pregunta —pues siempre es difícil
+                seÃ±or St. John aÃºn no me habÃ­a dicho nada sobre el empleo que me
+                habÃ­a prometido conseguir; sin embargo, se volvÃ­a urgente que
+                tuviera una vocaciÃ³n de algÃºn tipo. Una maÃ±ana, al quedarme sola
+                con Ã©l unos minutos en el salÃ³n, me aventurÃ© a acercarme al hueco
+                de la ventana â€”que su mesa, silla y escritorio consagraban como
+                una especie de estudioâ€”, e iba a hablar, aunque no sabÃ­a muy bien
+                en quÃ© palabras enmarcar mi pregunta â€”pues siempre es difÃ­cil
                 romper el hielo de la reserva que recubre naturalezas como la suya
-                —, cuando me ahorró la molestia al ser el primero en iniciar un
-                diálogo.</p>
+                â€”, cuando me ahorrÃ³ la molestia al ser el primero en iniciar un
+                diÃ¡logo.</p>
 
                 <p>Levantando la vista al acercarme:</p>
 
-                <p>—¿Tiene una pregunta que hacerme? —dijo.</p>
+                <p>â€”Â¿Tiene una pregunta que hacerme? â€”dijo.</p>
 
-                <p>—Sí; deseo saber si ha oído hablar de algún servicio que pueda
+                <p>â€”SÃ­; deseo saber si ha oÃ­do hablar de algÃºn servicio que pueda
                 ofrecerme a emprender.</p>
 
-                <p>—Encontré o ideé algo para usted hace tres semanas; pero como
-                parecía a la vez útil y feliz aquí, como mis hermanas evidentemente
-                se habían encariñado con usted y su compañía les daba un placer
-                inusual, consideré inoportuno interrumpir su mutua comodidad hasta
-                que su próxima partida de Marsh End hiciera necesaria la suya.</p>
+                <p>â€”EncontrÃ© o ideÃ© algo para usted hace tres semanas; pero como
+                parecÃ­a a la vez Ãºtil y feliz aquÃ­, como mis hermanas evidentemente
+                se habÃ­an encariÃ±ado con usted y su compaÃ±Ã­a les daba un placer
+                inusual, considerÃ© inoportuno interrumpir su mutua comodidad hasta
+                que su prÃ³xima partida de Marsh End hiciera necesaria la suya.</p>
 
-                <p>—¿Y se irán en tres días ahora? —dije.</p>
+                <p>â€”Â¿Y se irÃ¡n en tres dÃ­as ahora? â€”dije.</p>
 
-                <p>—Sí; y cuando se vayan, volveré a la rectoría de Morton. Hannah
-                me acompañará; y esta vieja casa se cerrará.</p>
+                <p>â€”SÃ­; y cuando se vayan, volverÃ© a la rectorÃ­a de Morton. Hannah
+                me acompaÃ±arÃ¡; y esta vieja casa se cerrarÃ¡.</p>
 
-                <p>Esperé unos momentos, esperando que continuara con el tema
-                abordado al principio; pero parecía haber entrado en otro tren de
-                reflexión. Su mirada denotaba abstracción de mí y de mi asunto. Me
-                vi obligada a recordarle un tema que era, por necesidad, de interés
-                cercano y ansioso para mí.</p>
+                <p>EsperÃ© unos momentos, esperando que continuara con el tema
+                abordado al principio; pero parecÃ­a haber entrado en otro tren de
+                reflexiÃ³n. Su mirada denotaba abstracciÃ³n de mÃ­ y de mi asunto. Me
+                vi obligada a recordarle un tema que era, por necesidad, de interÃ©s
+                cercano y ansioso para mÃ­.</p>
 
-                <p>—¿Cuál es el empleo que tenía en mente, señor Rivers? Espero
+                <p>â€”Â¿CuÃ¡l es el empleo que tenÃ­a en mente, seÃ±or Rivers? Espero
                 que esta demora no haya aumentado la dificultad de asegurarlo.</p>
 
-                <p>—Oh, no; ya que es un empleo que depende solo de mí darlo y de
+                <p>â€”Oh, no; ya que es un empleo que depende solo de mÃ­ darlo y de
                 usted aceptarlo.</p>
 
-                <p>Volvió a hacer una pausa. Parecía haber una renuencia a
-                continuar. Me impacienté. Un movimiento inquieto o dos, y una
+                <p>VolviÃ³ a hacer una pausa. ParecÃ­a haber una renuencia a
+                continuar. Me impacientÃ©. Un movimiento inquieto o dos, y una
                 mirada ansiosa y exigente fijada en su rostro, le transmitieron el
-                sentimiento tan eficazmente como las palabras podrían haberlo
+                sentimiento tan eficazmente como las palabras podrÃ­an haberlo
                 hecho, y con menos problemas.</p>
 
-                <p>—No necesita tener prisa por oír —dijo—. Permítame decirle con
+                <p>â€”No necesita tener prisa por oÃ­r â€”dijoâ€”. PermÃ­tame decirle con
                 franqueza que no tengo nada elegible o rentable que sugerir. Antes
                 de explicar, recuerde, si le parece, mi aviso, claramente dado, de
-                que si la ayudaba, debía ser como el ciego ayudaría al cojo. Soy
+                que si la ayudaba, debÃ­a ser como el ciego ayudarÃ­a al cojo. Soy
                 pobre; pues descubro que, cuando haya pagado las deudas de mi
-                padre, todo el patrimonio que me quedará será esta granja en
-                ruinas, la hilera de abetos arrasados detrás y la parcela de suelo de
-                páramo, con los tejos y los acebos delante. Soy oscuro. Rivers es un
-                nombre antiguo; pero de los tres únicos descendientes de la estirpe,
-                dos se ganan la corteza del dependiente entre extraños, y el tercero
-                se considera un extranjero de su país natal, no solo en vida, sino en
-                la muerte. Sí, y se considera, y está obligado a considerarse,
-                honrado por la suerte, y solo aspira al día en que la cruz de la
-                separación de los lazos carnales sea puesta sobre sus hombros, y
-                cuando la Cabeza de esa iglesia militante de cuyos más humildes
-                miembros él es uno, dé la orden: “¡Levántate, sígueme!”.</p>
+                padre, todo el patrimonio que me quedarÃ¡ serÃ¡ esta granja en
+                ruinas, la hilera de abetos arrasados detrÃ¡s y la parcela de suelo de
+                pÃ¡ramo, con los tejos y los acebos delante. Soy oscuro. Rivers es un
+                nombre antiguo; pero de los tres Ãºnicos descendientes de la estirpe,
+                dos se ganan la corteza del dependiente entre extraÃ±os, y el tercero
+                se considera un extranjero de su paÃ­s natal, no solo en vida, sino en
+                la muerte. SÃ­, y se considera, y estÃ¡ obligado a considerarse,
+                honrado por la suerte, y solo aspira al dÃ­a en que la cruz de la
+                separaciÃ³n de los lazos carnales sea puesta sobre sus hombros, y
+                cuando la Cabeza de esa iglesia militante de cuyos mÃ¡s humildes
+                miembros Ã©l es uno, dÃ© la orden: â€œÂ¡LevÃ¡ntate, sÃ­gueme!â€.</p>
 
                 <p>St. John dijo estas palabras como pronunciaba sus sermones, con
                 una voz tranquila y profunda; con una mejilla sin rubor y un
-                resplandor centelleante en la mirada. Reanudó:</p>
+                resplandor centelleante en la mirada. ReanudÃ³:</p>
 
-                <p>—Y como yo mismo soy pobre y oscuro, solo puedo ofrecerle un
+                <p>â€”Y como yo mismo soy pobre y oscuro, solo puedo ofrecerle un
                 servicio de pobreza y oscuridad. Usted puede incluso pensar que es
-                degradante, pues veo ahora que sus hábitos han sido lo que el
+                degradante, pues veo ahora que sus hÃ¡bitos han sido lo que el
                 mundo llama refinados; sus gustos se inclinan a lo ideal y su
                 sociedad ha sido, al menos, entre los educados. Pero yo considero
-                que ningún servicio degrada que pueda mejorar nuestra raza.
-                Sostengo que cuanto más árido e inculto sea el suelo donde se le
-                asigna al labrador cristiano la tarea de labranza, cuanto más escasa
-                sea la recompensa que su trabajo traiga, mayor será el honor. El
+                que ningÃºn servicio degrada que pueda mejorar nuestra raza.
+                Sostengo que cuanto mÃ¡s Ã¡rido e inculto sea el suelo donde se le
+                asigna al labrador cristiano la tarea de labranza, cuanto mÃ¡s escasa
+                sea la recompensa que su trabajo traiga, mayor serÃ¡ el honor. El
                 suyo, en tales circunstancias, es el destino del pionero; y los
-                primeros pioneros del Evangelio fueron los Apóstoles, su capitán fue
-                Jesús, el Redentor mismo.</p>
+                primeros pioneros del Evangelio fueron los ApÃ³stoles, su capitÃ¡n fue
+                JesÃºs, el Redentor mismo.</p>
 
-                <p>—¿Y bien? —dije, mientras volvía a hacer una pausa—. Prosiga.</p>
+                <p>â€”Â¿Y bien? â€”dije, mientras volvÃ­a a hacer una pausaâ€”. Prosiga.</p>
 
-                <p>Me miró antes de proseguir; de hecho, pareció leer tranquilamente
-                mi rostro, como si sus rasgos y líneas fueran caracteres en una
-                página. Las conclusiones extraídas de este escrutinio las expresó
+                <p>Me mirÃ³ antes de proseguir; de hecho, pareciÃ³ leer tranquilamente
+                mi rostro, como si sus rasgos y lÃ­neas fueran caracteres en una
+                pÃ¡gina. Las conclusiones extraÃ­das de este escrutinio las expresÃ³
                 parcialmente en sus observaciones siguientes.</p>
 
-                <p>—Creo que aceptará el puesto que le ofrezco —dijo—, y lo
-                mantendrá por un tiempo. No permanentemente, sin embargo; no
-                más de lo que yo podría mantener permanentemente el estrecho y
-                cada vez más estrecho, el tranquilo y oculto oficio de párroco rural
-                inglés; pues en su naturaleza hay una aleación tan perjudicial para el
-                reposo como la que hay en la mía, aunque de un tipo diferente.</p>
+                <p>â€”Creo que aceptarÃ¡ el puesto que le ofrezco â€”dijoâ€”, y lo
+                mantendrÃ¡ por un tiempo. No permanentemente, sin embargo; no
+                mÃ¡s de lo que yo podrÃ­a mantener permanentemente el estrecho y
+                cada vez mÃ¡s estrecho, el tranquilo y oculto oficio de pÃ¡rroco rural
+                inglÃ©s; pues en su naturaleza hay una aleaciÃ³n tan perjudicial para el
+                reposo como la que hay en la mÃ­a, aunque de un tipo diferente.</p>
 
-                <p>—Explíquese, por favor —insistí, cuando se detuvo una vez más.</p>
+                <p>â€”ExplÃ­quese, por favor â€”insistÃ­, cuando se detuvo una vez mÃ¡s.</p>
 
-                <p>—Lo haré; y oirá cuán pobre es la propuesta, cuán trivial, cuán
-                limitante. No me quedaré mucho tiempo en Morton, ahora que mi
-                padre ha muerto y que soy mi propio amo. Dejaré el lugar
-                probablemente en el transcurso de un año; pero mientras me quede,
-                me esforzaré al máximo por su mejora. Morton, cuando llegué hace
-                dos años, no tenía escuela. Los hijos de los pobres estaban excluidos
-                de toda esperanza de progreso. Establecí una para niños; ahora
-                tengo la intención de abrir una segunda escuela para niñas. He
+                <p>â€”Lo harÃ©; y oirÃ¡ cuÃ¡n pobre es la propuesta, cuÃ¡n trivial, cuÃ¡n
+                limitante. No me quedarÃ© mucho tiempo en Morton, ahora que mi
+                padre ha muerto y que soy mi propio amo. DejarÃ© el lugar
+                probablemente en el transcurso de un aÃ±o; pero mientras me quede,
+                me esforzarÃ© al mÃ¡ximo por su mejora. Morton, cuando lleguÃ© hace
+                dos aÃ±os, no tenÃ­a escuela. Los hijos de los pobres estaban excluidos
+                de toda esperanza de progreso. EstablecÃ­ una para niÃ±os; ahora
+                tengo la intenciÃ³n de abrir una segunda escuela para niÃ±as. He
                 alquilado un edificio para tal fin, con una casita de dos habitaciones
-                adosada para la casa de la maestra. Su salario será de treinta libras
-                al año. Su casa ya está amueblada, muy sencillamente, pero
-                suficientemente, por la amabilidad de una dama, la señorita Oliver;
-                la única hija del único hombre rico de mi parroquia, el señor Oliver,
-                propietario de una fábrica de agujas y una fundición de hierro en el
-                valle. La misma dama paga la educación y la ropa de una huérfana
-                del hospicio, con la condición de que ayude a la maestra en las
-                tareas domésticas relacionadas con su propia casa y la escuela que
-                su ocupación de enseñar le impedirá tener tiempo de desempeñar
-                en persona. ¿Será usted esta maestra?</p>
+                adosada para la casa de la maestra. Su salario serÃ¡ de treinta libras
+                al aÃ±o. Su casa ya estÃ¡ amueblada, muy sencillamente, pero
+                suficientemente, por la amabilidad de una dama, la seÃ±orita Oliver;
+                la Ãºnica hija del Ãºnico hombre rico de mi parroquia, el seÃ±or Oliver,
+                propietario de una fÃ¡brica de agujas y una fundiciÃ³n de hierro en el
+                valle. La misma dama paga la educaciÃ³n y la ropa de una huÃ©rfana
+                del hospicio, con la condiciÃ³n de que ayude a la maestra en las
+                tareas domÃ©sticas relacionadas con su propia casa y la escuela que
+                su ocupaciÃ³n de enseÃ±ar le impedirÃ¡ tener tiempo de desempeÃ±ar
+                en persona. Â¿SerÃ¡ usted esta maestra?</p>
 
-                <p>Hizo la pregunta con bastante prisa; parecía esperar a medias un
-                rechazo indignado o, al menos, desdeñoso de la oferta. No
+                <p>Hizo la pregunta con bastante prisa; parecÃ­a esperar a medias un
+                rechazo indignado o, al menos, desdeÃ±oso de la oferta. No
                 conociendo todos mis pensamientos y sentimientos, aunque
-                adivinando algunos, no podía decir bajo qué luz me parecería la
+                adivinando algunos, no podÃ­a decir bajo quÃ© luz me parecerÃ­a la
                 suerte. En verdad era humilde, pero entonces estaba resguardada, y
-                yo quería un asilo seguro. Era laboriosa, pero entonces, comparada
+                yo querÃ­a un asilo seguro. Era laboriosa, pero entonces, comparada
                 con la de una institutriz en una casa rica, era independiente; y el
-                miedo a la servidumbre con extraños entraba en mi alma como
-                hierro. No era innoble, ni indigna, ni mentalmente degradante. Tomé
-                mi decisión.</p>
+                miedo a la servidumbre con extraÃ±os entraba en mi alma como
+                hierro. No era innoble, ni indigna, ni mentalmente degradante. TomÃ©
+                mi decisiÃ³n.</p>
 
-                <p>—Le agradezco la propuesta, señor Rivers, y la acepto con todo mi corazón.</p>
+                <p>â€”Le agradezco la propuesta, seÃ±or Rivers, y la acepto con todo mi corazÃ³n.</p>
 
-                <p>—¿Pero me comprende? —dijo—. Es una escuela de pueblo. Sus
-                alumnas serán solo niñas pobres, hijas de campesinos; en el mejor
+                <p>â€”Â¿Pero me comprende? â€”dijoâ€”. Es una escuela de pueblo. Sus
+                alumnas serÃ¡n solo niÃ±as pobres, hijas de campesinos; en el mejor
                 de los casos, hijas de granjeros. Tejer, coser, leer, escribir, contar,
-                será todo lo que tendrá que enseñar. ¿Qué hará con sus habilidades?
-                ¿Qué, con la mayor parte de su mente, sus sentimientos, sus
+                serÃ¡ todo lo que tendrÃ¡ que enseÃ±ar. Â¿QuÃ© harÃ¡ con sus habilidades?
+                Â¿QuÃ©, con la mayor parte de su mente, sus sentimientos, sus
                 gustos?</p>
 
-                <p>—Guardarlos hasta que se necesiten. Se conservarán.</p>
+                <p>â€”Guardarlos hasta que se necesiten. Se conservarÃ¡n.</p>
 
-                <p>—¿Sabe lo que emprende, entonces?</p>
+                <p>â€”Â¿Sabe lo que emprende, entonces?</p>
 
-                <p>—Sí.</p>
+                <p>â€”SÃ­.</p>
 
-                <p>Sonrió entonces; y no una sonrisa amarga o triste, sino una bien
+                <p>SonriÃ³ entonces; y no una sonrisa amarga o triste, sino una bien
                 complacida y profundamente gratificada.</p>
 
-                <p>—¿Y cuándo comenzará el ejercicio de su función?</p>
+                <p>â€”Â¿Y cuÃ¡ndo comenzarÃ¡ el ejercicio de su funciÃ³n?</p>
 
-                <p>—Iré a mi casa mañana y abriré la escuela, si le parece, la próxima semana.</p>
+                <p>â€”IrÃ© a mi casa maÃ±ana y abrirÃ© la escuela, si le parece, la prÃ³xima semana.</p>
 
-                <p>—Muy bien, que así sea.</p>
+                <p>â€”Muy bien, que asÃ­ sea.</p>
 
-                <p>Se levantó y caminó por la habitación. Deteniéndose, volvió a
-                mirarme. Sacudió la cabeza.</p>
+                <p>Se levantÃ³ y caminÃ³ por la habitaciÃ³n. DeteniÃ©ndose, volviÃ³ a
+                mirarme. SacudiÃ³ la cabeza.</p>
 
-                <p>—¿Qué desaprueba, señor Rivers? —pregunté.</p>
+                <p>â€”Â¿QuÃ© desaprueba, seÃ±or Rivers? â€”preguntÃ©.</p>
 
-                <p>—No se quedará mucho tiempo en Morton. ¡No, no!</p>
+                <p>â€”No se quedarÃ¡ mucho tiempo en Morton. Â¡No, no!</p>
 
-                <p>—¿Por qué? ¿Cuál es su razón para decir eso?</p>
+                <p>â€”Â¿Por quÃ©? Â¿CuÃ¡l es su razÃ³n para decir eso?</p>
 
-                <p>—Lo leo en su ojo; no es de esa descripción que promete el
+                <p>â€”Lo leo en su ojo; no es de esa descripciÃ³n que promete el
                 mantenimiento de un tenor de vida uniforme.</p>
 
-                <p>—No soy ambiciosa.</p>
+                <p>â€”No soy ambiciosa.</p>
 
-                <p>Se sobresaltó ante la palabra «ambiciosa». Repitió:</p>
+                <p>Se sobresaltÃ³ ante la palabra Â«ambiciosaÂ». RepitiÃ³:</p>
 
-                <p>—No. ¿Qué le hizo pensar en la ambición? ¿Quién es ambicioso?
-                Sé que yo lo soy, ¿pero cómo lo descubrió?</p>
+                <p>â€”No. Â¿QuÃ© le hizo pensar en la ambiciÃ³n? Â¿QuiÃ©n es ambicioso?
+                SÃ© que yo lo soy, Â¿pero cÃ³mo lo descubriÃ³?</p>
 
-                <p>—Hablaba de mí misma.</p>
+                <p>â€”Hablaba de mÃ­ misma.</p>
 
-                <p>—Bueno, si no es usted ambiciosa, es... —hizo una pausa.</p>
+                <p>â€”Bueno, si no es usted ambiciosa, es... â€”hizo una pausa.</p>
 
-                <p>—¿Qué?</p>
+                <p>â€”Â¿QuÃ©?</p>
 
-                <p>—Iba a decir, apasionada; pero quizás habría malinterpretado la
-                palabra y se habría disgustado. Quiero decir que los afectos y las
-                simpatías humanas tienen un dominio muy poderoso sobre usted.
+                <p>â€”Iba a decir, apasionada; pero quizÃ¡s habrÃ­a malinterpretado la
+                palabra y se habrÃ­a disgustado. Quiero decir que los afectos y las
+                simpatÃ­as humanas tienen un dominio muy poderoso sobre usted.
                 Estoy seguro de que no puede contentarse mucho tiempo con pasar
                 su ocio en soledad y dedicar sus horas de trabajo a una labor
-                monótona y totalmente carente de estímulo; no más de lo que yo
-                puedo contentarme —añadió, con énfasis— con vivir aquí enterrado
-                en un pantano, encerrado entre montañas; mi naturaleza, que Dios
+                monÃ³tona y totalmente carente de estÃ­mulo; no mÃ¡s de lo que yo
+                puedo contentarme â€”aÃ±adiÃ³, con Ã©nfasisâ€” con vivir aquÃ­ enterrado
+                en un pantano, encerrado entre montaÃ±as; mi naturaleza, que Dios
                 me dio, contrariada; mis facultades, otorgadas por el cielo,
-                paralizadas, inutilizadas. Oye ahora cómo me contradigo. Yo, que
-                prediqué el contentamiento con una suerte humilde y justifiqué la
-                vocación incluso de leñadores y aguadores al servicio de Dios, yo, Su
-                ministro ordenado, casi desvarío en mi inquietud. Bueno, las
+                paralizadas, inutilizadas. Oye ahora cÃ³mo me contradigo. Yo, que
+                prediquÃ© el contentamiento con una suerte humilde y justifiquÃ© la
+                vocaciÃ³n incluso de leÃ±adores y aguadores al servicio de Dios, yo, Su
+                ministro ordenado, casi desvarÃ­o en mi inquietud. Bueno, las
                 propensioniones y los principios deben reconciliarse de alguna
                 manera.</p>
 
-                <p>Salió de la habitación. En esta breve hora había aprendido más de
-                él que en todo el mes anterior; sin embargo, todavía me
+                <p>SaliÃ³ de la habitaciÃ³n. En esta breve hora habÃ­a aprendido mÃ¡s de
+                Ã©l que en todo el mes anterior; sin embargo, todavÃ­a me
                 desconcertaba.</p>
 
-                <p>Diana y Mary Rivers se volvieron más tristes y silenciosas a
-                medida que se acercaba el día de dejar a su hermano y su hogar.
+                <p>Diana y Mary Rivers se volvieron mÃ¡s tristes y silenciosas a
+                medida que se acercaba el dÃ­a de dejar a su hermano y su hogar.
                 Ambas intentaron parecer como de costumbre; pero la pena contra
-                la que tenían que luchar era una que no podía ser completamente
-                conquistada u ocultada. Diana insinuó que esta sería una despedida
+                la que tenÃ­an que luchar era una que no podÃ­a ser completamente
+                conquistada u ocultada. Diana insinuÃ³ que esta serÃ­a una despedida
                 diferente a cualquiera que hubieran conocido hasta ahora.
-                Probablemente, en lo que respecta a St. John, sería una despedida
-                por años; podría ser una despedida para toda la vida.</p>
+                Probablemente, en lo que respecta a St. John, serÃ­a una despedida
+                por aÃ±os; podrÃ­a ser una despedida para toda la vida.</p>
 
-                <p>—Lo sacrificará todo a sus resoluciones largamente meditadas —
-                dijo—; el afecto natural y sentimientos aún más potentes. St. John
-                parece tranquilo, Jane; pero esconde una fiebre en sus entrañas.
-                Pensarías que es apacible, pero en algunas cosas es inexorable como
+                <p>â€”Lo sacrificarÃ¡ todo a sus resoluciones largamente meditadas â€”
+                dijoâ€”; el afecto natural y sentimientos aÃºn mÃ¡s potentes. St. John
+                parece tranquilo, Jane; pero esconde una fiebre en sus entraÃ±as.
+                PensarÃ­as que es apacible, pero en algunas cosas es inexorable como
                 la muerte; y lo peor de todo es que mi conciencia apenas me
-                permite disuadirlo de su severa decisión. Ciertamente, no puedo
-                culparlo ni por un momento por ello. ¡Es correcto, noble, cristiano;
-                sin embargo, me rompe el corazón! —Y las lágrimas brotaron de sus
-                hermosos ojos. Mary inclinó la cabeza sobre su labor.</p>
+                permite disuadirlo de su severa decisiÃ³n. Ciertamente, no puedo
+                culparlo ni por un momento por ello. Â¡Es correcto, noble, cristiano;
+                sin embargo, me rompe el corazÃ³n! â€”Y las lÃ¡grimas brotaron de sus
+                hermosos ojos. Mary inclinÃ³ la cabeza sobre su labor.</p>
 
-                <p>—Ahora estamos sin padre; pronto estaremos sin hogar y sin
-                hermano —murmuró.</p>
+                <p>â€”Ahora estamos sin padre; pronto estaremos sin hogar y sin
+                hermano â€”murmurÃ³.</p>
 
-                <p>En ese momento sobrevino un pequeño accidente, que pareció
-                decretado por el destino a propósito para probar la verdad del
-                adagio de que «las desgracias nunca vienen solas», y para añadir a
-                sus aflicciones la vejación del resbalón entre la copa y el labio. St.
-                John pasó por la ventana leyendo una carta. Entró.</p>
+                <p>En ese momento sobrevino un pequeÃ±o accidente, que pareciÃ³
+                decretado por el destino a propÃ³sito para probar la verdad del
+                adagio de que Â«las desgracias nunca vienen solasÂ», y para aÃ±adir a
+                sus aflicciones la vejaciÃ³n del resbalÃ³n entre la copa y el labio. St.
+                John pasÃ³ por la ventana leyendo una carta. EntrÃ³.</p>
 
-                <p>—Nuestro tío John ha muerto —dijo.</p>
+                <p>â€”Nuestro tÃ­o John ha muerto â€”dijo.</p>
 
                 <p>Ambas hermanas parecieron impresionadas; no conmocionadas ni
-                consternadas. La noticia pareció en sus ojos más trascendental que
+                consternadas. La noticia pareciÃ³ en sus ojos mÃ¡s trascendental que
                 aflictiva.</p>
 
-                <p>—¿Muerto? —repitió Diana.</p>
+                <p>â€”Â¿Muerto? â€”repitiÃ³ Diana.</p>
 
-                <p>—Sí.</p>
+                <p>â€”SÃ­.</p>
 
-                <p>Fijó una mirada inquisitiva en el rostro de su hermano.</p>
+                <p>FijÃ³ una mirada inquisitiva en el rostro de su hermano.</p>
 
-                <p>—¿Y entonces qué? —demandó, en voz baja.</p>
+                <p>â€”Â¿Y entonces quÃ©? â€”demandÃ³, en voz baja.</p>
 
-                <p>—Entonces, ¿qué si ha muerto? —replicó él, manteniendo una inmovilidad
-                de mármol en sus rasgos—. ¿Qué entonces? Pues... nada. Lee.</p>
+                <p>â€”Entonces, Â¿quÃ© si ha muerto? â€”replicÃ³ Ã©l, manteniendo una inmovilidad
+                de mÃ¡rmol en sus rasgosâ€”. Â¿QuÃ© entonces? Pues... nada. Lee.</p>
 
-                <p>Le arrojó la carta al regazo. Ella la ojeó y se la pasó a Mary. Mary
-                la leyó en silencio y se la devolvió a su hermano. Los tres se miraron
-                y los tres sonrieron, una sonrisa bastante lúgubre y pensativa.</p>
+                <p>Le arrojÃ³ la carta al regazo. Ella la ojeÃ³ y se la pasÃ³ a Mary. Mary
+                la leyÃ³ en silencio y se la devolviÃ³ a su hermano. Los tres se miraron
+                y los tres sonrieron, una sonrisa bastante lÃºgubre y pensativa.</p>
 
-                <p>—¡Amén! Aún podemos vivir —dijo Diana al fin.</p>
+                <p>â€”Â¡AmÃ©n! AÃºn podemos vivir â€”dijo Diana al fin.</p>
 
-                <p>—En cualquier caso, no nos deja peor de lo que estábamos antes —observó Mary.</p>
+                <p>â€”En cualquier caso, no nos deja peor de lo que estÃ¡bamos antes â€”observÃ³ Mary.</p>
 
-                <p>—Solo que fuerza con bastante intensidad en la mente la imagen
-                de lo que podría haber sido —dijo el señor Rivers—, y la contrasta
-                de manera demasiado vívida con lo que es.</p>
+                <p>â€”Solo que fuerza con bastante intensidad en la mente la imagen
+                de lo que podrÃ­a haber sido â€”dijo el seÃ±or Riversâ€”, y la contrasta
+                de manera demasiado vÃ­vida con lo que es.</p>
 
-                <p>Dobló la carta, la guardó con llave en su escritorio y volvió a salir.</p>
+                <p>DoblÃ³ la carta, la guardÃ³ con llave en su escritorio y volviÃ³ a salir.</p>
 
-                <p>Durante algunos minutos nadie habló. Diana se volvió entonces hacia mí.</p>
+                <p>Durante algunos minutos nadie hablÃ³. Diana se volviÃ³ entonces hacia mÃ­.</p>
 
-                <p>—Jane, se maravillará de nosotros y de nuestros misterios —dijo
-                —, y nos considerará seres desalmados por no conmovernos más
-                ante la muerte de un pariente tan cercano como un tío; pero nunca
-                lo hemos visto ni conocido. Era hermano de mi madre. Mi padre y él
-                riñeron hace mucho tiempo. Fue por su consejo que mi padre
-                arriesgó la mayor parte de su propiedad en la especulación que lo
-                arruinó. Hubo recriminaciones mutuas entre ellos. Se separaron
-                enojados y nunca se reconciliaron. Mi tío se dedicó después a
-                empresas más prósperas. Parece que amasó una fortuna de veinte
-                mil libras. Nunca se casó y no tenía parientes cercanos más que
-                nosotros y otra persona, no más estrechamente emparentada que
-                nosotros. Mi padre siempre abrigó la idea de que expiaría su error
-                dejándonos sus posesiones. Esa carta nos informa de que ha legado
-                cada centavo al otro pariente, con la excepción de treinta guineas, a
+                <p>â€”Jane, se maravillarÃ¡ de nosotros y de nuestros misterios â€”dijo
+                â€”, y nos considerarÃ¡ seres desalmados por no conmovernos mÃ¡s
+                ante la muerte de un pariente tan cercano como un tÃ­o; pero nunca
+                lo hemos visto ni conocido. Era hermano de mi madre. Mi padre y Ã©l
+                riÃ±eron hace mucho tiempo. Fue por su consejo que mi padre
+                arriesgÃ³ la mayor parte de su propiedad en la especulaciÃ³n que lo
+                arruinÃ³. Hubo recriminaciones mutuas entre ellos. Se separaron
+                enojados y nunca se reconciliaron. Mi tÃ­o se dedicÃ³ despuÃ©s a
+                empresas mÃ¡s prÃ³speras. Parece que amasÃ³ una fortuna de veinte
+                mil libras. Nunca se casÃ³ y no tenÃ­a parientes cercanos mÃ¡s que
+                nosotros y otra persona, no mÃ¡s estrechamente emparentada que
+                nosotros. Mi padre siempre abrigÃ³ la idea de que expiarÃ­a su error
+                dejÃ¡ndonos sus posesiones. Esa carta nos informa de que ha legado
+                cada centavo al otro pariente, con la excepciÃ³n de treinta guineas, a
                 dividir entre St. John, Diana y Mary Rivers, para la compra de tres
-                anillos de luto. Tenía derecho, por supuesto, a hacer lo que le
-                placiera; y sin embargo, un abatimiento momentáneo se cierne
-                sobre los espíritus al recibir tales noticias. Mary y yo nos habríamos
+                anillos de luto. TenÃ­a derecho, por supuesto, a hacer lo que le
+                placiera; y sin embargo, un abatimiento momentÃ¡neo se cierne
+                sobre los espÃ­ritus al recibir tales noticias. Mary y yo nos habrÃ­amos
                 considerado ricas con mil libras cada una; y para St. John tal suma
-                habría sido valiosa, por el bien que le habría permitido hacer.</p>
+                habrÃ­a sido valiosa, por el bien que le habrÃ­a permitido hacer.</p>
 
-                <p>Dada esta explicación, se abandonó el tema y no se hizo más
-                referencia a él ni por parte del señor Rivers ni de sus hermanas. Al
-                día siguiente dejé Marsh End para ir a Morton. Al día siguiente,
+                <p>Dada esta explicaciÃ³n, se abandonÃ³ el tema y no se hizo mÃ¡s
+                referencia a Ã©l ni por parte del seÃ±or Rivers ni de sus hermanas. Al
+                dÃ­a siguiente dejÃ© Marsh End para ir a Morton. Al dÃ­a siguiente,
                 Diana y Mary lo abandonaron para ir a la lejana B... En una semana,
-                el señor Rivers y Hannah se trasladaron a la rectoría. Y así, la vieja
+                el seÃ±or Rivers y Hannah se trasladaron a la rectorÃ­a. Y asÃ­, la vieja
                 granja fue abandonada.</p>
 
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap29.php" rel="prev">Anterior</a>
-                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menÃº de capÃ­tulos</a>
                     <a class="cambioSiguiente" href="cap31.php" rel="next">Siguiente</a>
                 </div>
             </section>
