@@ -10,7 +10,7 @@
 <body>
 
 <header>
-    <img class="logo" src="../../media/images/litGrande.png">
+    <a href="../../index.php"><img class="logo" src="../../media/images/litGrande.png"></a>
 </header>
 
 <nav class="navbar">
