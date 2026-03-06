@@ -3,7 +3,7 @@ body {
     font-family: 'Inter', system-ui, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
+    background-color: #eceaea;
     text-align: center;
 }
 
@@ -20,14 +20,15 @@ footer {
 /*barra de navegación principal*/
 
 .navbar { 
-  padding: 10px;
-  overflow: visible;
+    background: linear-gradient(135deg, #6a4c93 0%, #a8dadc 100%); 
+    padding: 10px;
+    overflow: visible;
 }
 
 nav a {
     display: inline-block;
     margin: 0 15px;
-    color: #000000;
+    color: #white;
     text-decoration: none;
     font-weight: 500;
     transition: color 0.3s;
@@ -38,8 +39,7 @@ nav a:hover {
 }
 
 .menu {
-    background: white;
-    color: black;
+    color: white;
     list-style: none;
     display: flex;
     justify-content: center;
@@ -54,7 +54,7 @@ nav a:hover {
 
 .menu a {
   text-decoration: none;
-  color: black;
+  color: white;
   padding: 8px 12px;
   display: block;
 }
