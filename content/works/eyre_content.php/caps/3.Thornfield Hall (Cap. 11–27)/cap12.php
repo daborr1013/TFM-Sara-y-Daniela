@@ -452,9 +452,8 @@
                 encabritara y se irguiera, y luego se lanzara a galope; el perro se
                 precipitó tras sus huellas; los tres se desvanecieron,</p>
 
-                <cite>«Como el brezo que, en el páramo,</cite>
-
-                <cite>el viento salvaje se lleva».</cite>
+                <p class="centradoP">«Como el brezo que, en el páramo,<br>
+                el viento salvaje se lleva».</p>
 
                 <p>Recogí mi manguito y seguí caminando. El incidente había
                 ocurrido y se había ido para mí; era un incidente sin importancia, sin

@@ -143,13 +143,10 @@
                 únicamente por ellas; de la costa de Noruega, salpicada de islas
                 desde su extremo sur, el Lindeness, o Naze, hasta el Cabo Norte:</p>
 
-                <cite>«Donde el Océano Boreal, en vastos remolinos,</cite>
-
-                <cite>Hierve en torno a las desnudas y melancólicas islas</cite>
-
-                <cite>De la lejana Thule; y el oleaje del Atlántico</cite>
-
-                <cite>Se vierte entre las tormentosas Hébridas».</cite>
+                <p class="centradoP">«Donde el Océano Boreal, en vastos remolinos,<br>
+                Hierve en torno a las desnudas y melancólicas islas<br>
+                De la lejana Thule; y el oleaje del Atlántico<br>
+                Se vierte entre las tormentosas Hébridas».</p>
 
                 <p>Tampoco podía pasar por alto la evocación de las desoladas costas
                 de Laponia, Siberia, Spitzbergen, Nueva Zembla, Islandia,

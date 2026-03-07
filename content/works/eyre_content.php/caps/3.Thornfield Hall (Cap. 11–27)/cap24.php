@@ -829,65 +829,65 @@
                 melodía se cantó en tonos melodiosos la siguiente estrofa:</p>
 
             
-                <p><cite>«El amor más verdadero que jamás corazón<br>
+                <p class="centradoP">«El amor más verdadero que jamás corazón<br>
                 Sintió en su núcleo encendido,<br>
                 Hizo por cada vena, en rápido impulso,<br>
-                La marea del ser verter.</cite></p>
+                La marea del ser verter.<p>
 
-                <p><cite>Su llegada era mi esperanza cada día,<br>
+                <p class="centradoP">Su llegada era mi esperanza cada día,<br>
                 Su partida era mi dolor;<br>
                 La casualidad que sus pasos retrasaba<br>
-                Era hielo en cada vena.</cite></p>
+                Era hielo en cada vena.</p>
 
-                <p><cite>Soñé que sería una dicha sin nombre,<br>
+                <p class="centradoP">Soñé que sería una dicha sin nombre,<br>
                 Como amaba, ser amado;<br>
                 Y a este objeto me aferré<br>
-                Tan ciego como ansiosamente.</cite></p>
+                Tan ciego como ansiosamente.</p>
 
-                <p><cite>Pero ancho como sin sendero era el espacio<br>
+                <p class="centradoP">Pero ancho como sin sendero era el espacio<br>
                 Que yacía entre nuestras vidas,<br>
                 Y peligroso como la carrera espumosa<br>
-                De las olas verdes del océano.</cite></p>
+                De las olas verdes del océano.</p>
 
-                <p><cite>Y embrujado como un camino de ladrones<br>
+                <p class="centradoP">Y embrujado como un camino de ladrones<br>
                 A través del yermo o el bosque;<br>
                 Pues Poder y Derecho, y Angustia e Ira,<br>
-                Entre nuestros espíritus se interponían.</cite></p>
+                Entre nuestros espíritus se interponían.</p>
 
-                <p><cite>Peligros desafié; obstáculos desprecié;<br>
+                <p class="centradoP">Peligros desafié; obstáculos desprecié;<br>
                 Presagios desafié:<br>
                 Cualquier cosa que amenazara, acosara, advirtiera,<br>
-                La pasé impetuosamente.</cite></p>
+                La pasé impetuosamente.</p>
 
-                <p><cite>Avanzó mi arcoíris, rápido como la luz;<br>
+                <p class="centradoP">Avanzó mi arcoíris, rápido como la luz;<br>
                 Volé como en un sueño;<br>
                 Pues gloriosa se alzó ante mi vista<br>
-                Aquella hija de la Lluvia y el Resplandor.</cite></p>
+                Aquella hija de la Lluvia y el Resplandor.</p>
 
-                <p><cite>Aún brillante sobre nubes de sufrimiento oscuro<br>
+                <p class="centradoP">Aún brillante sobre nubes de sufrimiento oscuro<br>
                 Brilla esa suave y solemne alegría;<br>
                 Ni me importa ahora, cuán densos y sombríos<br>
-                Los desastres se acumulen cerca.</cite></p>
+                Los desastres se acumulen cerca.</p>
 
-                <p><cite>No me importa en este dulce momento,<br>
+                <p class="centradoP">No me importa en este dulce momento,<br>
                 Aunque todo lo que he arrollado<br>
                 Viniera sobre alas, fuertes y veloces,<br>
-                Proclamando venganza amarga:</cite></p>
+                Proclamando venganza amarga:</p>
 
-                <p><cite>Aunque el Odio altivo me derribara,<br>
+                <p class="centradoP">Aunque el Odio altivo me derribara,<br>
                 El Derecho, me cerrara el paso,<br>
                 Y el Poder opresor, con ceño furioso,<br>
-                Jurara enemistad eterna.</cite></p>
+                Jurara enemistad eterna.</p>
 
-                <p><cite>Mi amor ha puesto su pequeña mano<br>
+                <p class="centradoP">Mi amor ha puesto su pequeña mano<br>
                 Con noble fe en la mía,<br>
                 Y ha jurado que el sagrado lazo del matrimonio<br>
-                Nuestra naturaleza entrelazará.</cite></p>
+                Nuestra naturaleza entrelazará.</p>
 
-                <p><cite>Mi amor ha jurado, con beso sellador,<br>
+                <p class="centradoP">Mi amor ha jurado, con beso sellador,<br>
                 Conmigo vivir, morir;<br>
                 Tengo al fin mi dicha sin nombre.<br>
-                ¡Como amo, amado soy!».</cite></p>
+                ¡Como amo, amado soy!».</p>
 
                 <p>Se levantó y se acercó a mí, y vi su rostro todo encendido, y su
                 ojo de halcón lleno, destellante, y ternura y pasión en cada rasgo.

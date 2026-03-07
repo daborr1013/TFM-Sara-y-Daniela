@@ -91,12 +91,12 @@
                 puerta; temí que llamara; no, pero un trozo de papel fue pasado por
                 debajo de la puerta. Lo recogí. Llevaba estas palabras:</p>
 
-                <p><cite>«Me dejaste demasiado de repente anoche. Si te hubieras
+                <p class="centradoP">«Me dejaste demasiado de repente anoche. Si te hubieras
                 quedado un poco más, habrías puesto tu mano sobre la cruz del
                 cristiano y la corona del ángel. Esperaré tu clara decisión cuando
                 regrese dentro de quince días. Mientras tanto, vela y ora para que
                 no entres en tentación: el espíritu, confío, está dispuesto, pero la
-                carne, veo, es débil. Rezaré por ti cada hora. —Tuyo, ST. JOHN».</cite></p>
+                carne, veo, es débil. Rezaré por ti cada hora. —Tuyo, ST. JOHN».</p>
 
                 <p>«Mi espíritu», respondí mentalmente, «está dispuesto a hacer lo
                 correcto; y mi carne, espero, es lo suficientemente fuerte para

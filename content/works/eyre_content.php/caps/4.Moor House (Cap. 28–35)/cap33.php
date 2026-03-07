@@ -93,12 +93,12 @@
                 sentada casi una hora junto al hogar escuchando la furia ahogada de
                 la tempestad, encendí una vela, tomé «<i>Marmion</i>» y, comenzando:</p>
 
-                <p><cite>«El día se puso sobre la empinada fortaleza de Norham,<br>
+                <p class="centradoP">«El día se puso sobre la empinada fortaleza de Norham,<br>
                 Y el hermoso río Tweed, ancho y profundo,<br>
                 Y las solitarias montañas de Cheviot;<br>
                 Las macizas torres, el torreón del homenaje,<br>
                 Los muros flanqueantes que a su alrededor se extienden,<br>
-                En amarillo lustre brillaban»</cite></p>
+                En amarillo lustre brillaban».</p>
 
                 <p>Pronto olvidé la tormenta en la música.</p>
 

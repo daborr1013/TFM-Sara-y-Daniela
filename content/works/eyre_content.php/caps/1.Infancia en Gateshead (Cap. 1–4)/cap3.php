@@ -241,9 +241,8 @@
                 sombrero nuevo para la muñeca de Georgiana. Mientras tanto,
                 cantaba; su canción era:</p>
 
-                <cite>«En los días en que íbamos de zíngaros,</cite>
-
-                <cite>Hace mucho, mucho tiempo».</cite>
+                <p class="centradoP">«En los días en que íbamos de zíngaros,<br>
+                Hace mucho, mucho tiempo».</p>
 
                 <p>Había oído la canción a menudo antes, y siempre con vivo deleite;
                 pues Bessie tenía una voz dulce, o al menos eso me parecía. Pero
@@ -253,45 +252,28 @@
                 sonaba como la cadencia más triste de un himno fúnebre. Pasó a
                 otra balada, esta vez una verdaderamente lastimera.</p>
 
-                <cite>«Mis pies están llagados, mis miembros cansados;</cite>
+                <p class="centradoP">«Mis pies están llagados, mis miembros cansados;<br>
+                Largo es el camino, y las montañas salvajes;<br>
 
-                <cite>Largo es el camino, y las montañas salvajes;</cite>
+                Pronto el crepúsculo se cerrará sin luna y sombrío<br>
 
-                <cite>Pronto el crepúsculo se cerrará sin luna y sombrío</cite>
-
-                <cite>Sobre el sendero del pobre niño huérfano.</cite>
-
-                <cite>¿Por qué me enviaron tan lejos y tan sola,</cite>
-
-                <cite>Allá donde los páramos se extienden y las rocas grises se apilan?</cite>
-
-                <cite>Los hombres son duros de corazón, y solo los ángeles bondadosos</cite>
-
-                <cite>Vigilan los pasos de un pobre niño huérfano.</cite>
-
-                <cite>Sin embargo, distante y suave sopla la brisa nocturna,</cite>
-
-                <cite>No hay nubes, y las estrellas claras brillan apacibles,</cite>
-
-                <cite>Dios, en Su misericordia, muestra Su protección,</cite>
-
-                <cite>Consuelo y esperanza al pobre niño huérfano.</cite>
-                
-                <cite>Incluso si cayera al pasar por el puente roto,</cite>
-
-                <cite>O me extraviara en las marismas, por falsas luces engañada,</cite>
-
-                <cite>Aun así mi Padre, con promesa y bendición,</cite>
-
-                <cite>Acogerá en Su seno al pobre niño huérfano.</cite>
-
-                <cite>Hay un pensamiento que debe darme fuerza,</cite>
-
-                <cite>Aunque de cobijo y parientes despojada;</cite>
-
-                <cite>El Cielo es un hogar, y un descanso no me faltará;</cite>
-
-                <cite>Dios es un amigo para el pobre niño huérfano».</cite>
+                Sobre el sendero del pobre niño huérfano.<br>
+                ¿Por qué me enviaron tan lejos y tan sola,<br>
+                Allá donde los páramos se extienden y las rocas grises se apilan?<br>
+                Los hombres son duros de corazón, y solo los ángeles bondadosos<br>
+                Vigilan los pasos de un pobre niño huérfano.<br>
+                Sin embargo, distante y suave sopla la brisa nocturna,<br>
+                No hay nubes, y las estrellas claras brillan apacibles,<br>
+                Dios, en Su misericordia, muestra Su protección,<br>
+                Consuelo y esperanza al pobre niño huérfano.<br>
+                Incluso si cayera al pasar por el puente roto,<br>
+                O me extraviara en las marismas, por falsas luces engañada,<br>
+                Aun así mi Padre, con promesa y bendición,<br>
+                Acogerá en Su seno al pobre niño huérfano.<br>
+                Hay un pensamiento que debe darme fuerza,<br>
+                Aunque de cobijo y parientes despojada;<br>
+                El Cielo es un hogar, y un descanso no me faltará;<br>
+                Dios es un amigo para el pobre niño huérfano».</p>
 
                 <p>—Vamos, señorita Jane, no llore —dijo Bessie al terminar. Podría
                 haberle dicho al fuego: «¡no quemes!», pero ¿cómo podía adivinar

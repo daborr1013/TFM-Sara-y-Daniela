@@ -519,11 +519,11 @@
                 aspecto de iglesia; una lápida de piedra sobre la puerta llevaba esta
                 inscripción:</p>
 
-                <cite>INSTITUCIÓN LOWOOD. Esta parte fue reconstruida en el año de nuestro Señor..., por
-                Naomi Brocklehurst, de Brocklehurst Hall, en este condado. 
-                «Así alumbre vuestra luz delante de los hombres, para que vean
-                vuestras buenas obras, y glorifiquen a vuestro Padre que está en los
-                cielos.» —S. Mateo v. 16.</cite>
+                <p class="centradoP">INSTITUCIÓN LOWOOD. Esta parte fue reconstruida en el año de nuestro Señor..., por<br>
+                Naomi Brocklehurst, de Brocklehurst Hall, en este condado.<br> 
+                «Así alumbre vuestra luz delante de los hombres, para que vean<br>
+                vuestras buenas obras, y glorifiquen a vuestro Padre que está en los<br>
+                cielos.» —S. Mateo v. 16.</p>
 
                 <p>Leí estas palabras una y otra vez; sentí que les correspondía una
                 explicación y fui incapaz de penetrar plenamente su significado.
