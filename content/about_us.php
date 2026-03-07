@@ -40,7 +40,19 @@
             
             <section class="layout">
                 <section class="pjustificado">
-                    <p>Hello I'm Dani uwu</p>
+                    <p>Hello! Soy Daniela, fan de la literatura de romance y terror, la música y el cine.</p>
+
+                    <p>Graduada en Lenguas Modernas y sus Literaturas en la Universidad Complutense de Madrid, estudios enfocados en 
+                        la lengua francesa e inglesa y en sus respectivos ámbitos literarios y lingüísticos.</p>
+
+                    <p>Actualmente me encuentro estudiando un máster en Letras Digitales en la Universidad Complutense de Madrid, en el que me especializo
+                        en la rama del e-Learning. Además, hago prácticas en Asteria, Asociación Internacional de Mitocrítica, en el que estoy desarrollando un proyecto
+                        de desarrollo y programación de un mapa interactivo.
+                    </p>
+
+                    <p>Anteriormente, he trabajado como agente de call center en la empresa Nexia Solutions S.L., en el que he gestionado llamadas telefónicas a la vez que
+                        me he formado en el ámbito de la atención al cliente y a la gestión de reservas de cadenas hoteleras.
+                    </p>
                 </section>
                 <img class="nosotras" src="../media/images/pfp.jpg" alt="Daniela Borrego">
             </section>

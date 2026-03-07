@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Cap�tulo 33</title>
+    <title>Capítulo 33</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el cap�tulo 33">
+    <meta name="description" content="Este es el capítulo 33">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
+    <script src="../../../../../js/js_caps.js"></script>
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
 </head>
 
