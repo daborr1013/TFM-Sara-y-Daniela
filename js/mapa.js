@@ -63,13 +63,54 @@ const marker = L.marker(
 markers.addLayer(marker);
 map.addLayer(markers);
 
-// Gran Bretaña GeoJSON
+function normalizeGeoJSONCoordinates(geojson) {
+    if (!geojson || !Array.isArray(geojson.features)) return geojson;
+
+    const normalized = JSON.parse(JSON.stringify(geojson));
+
+    const normalizePair = (pair) => {
+        if (!Array.isArray(pair) || pair.length < 2) return pair;
+
+        const a = Number(pair[0]);
+        const b = Number(pair[1]);
+
+        // If coordinates appear as [lat, lng], swap to GeoJSON [lng, lat].
+        if (Math.abs(a) <= 90 && Math.abs(b) > 90) {
+            return [b, a];
+        }
+
+        return [a, b];
+    };
+
+    const walk = (coords) => {
+        if (!Array.isArray(coords)) return coords;
+        if (coords.length >= 2 && typeof coords[0] === 'number' && typeof coords[1] === 'number') {
+            return normalizePair(coords);
+        }
+        return coords.map(walk);
+    };
+
+    normalized.features = normalized.features.map((feature) => ({
+        ...feature,
+        geometry: feature.geometry
+            ? { ...feature.geometry, coordinates: walk(feature.geometry.coordinates) }
+            : feature.geometry
+    }));
+
+    return normalized;
+}
+
+// Great Britain GeoJSON
 Promise.all([
     fetch('/TFM-Sara-y-Daniela/data/paises/gb.geo.json').then(r => r.json())
 ])
 .then(([geojson]) => {
-    console.log('GeoJSON loaded:', geojson);
-    L.geoJSON(geojson, {
+    const normalizedGeoJSON = normalizeGeoJSONCoordinates(geojson);
+    console.log('GeoJSON loaded:', normalizedGeoJSON);
+
+    const ukLayer = L.geoJSON(normalizedGeoJSON, {
+        smoothFactor: 0,
+        interactive: false,
         style: {
             color: '#6a4c93',
             weight: 1,
@@ -78,5 +119,10 @@ Promise.all([
             fill: true
         }
     }).addTo(map);
+
+    map.fitBounds(ukLayer.getBounds(), {
+        padding: [20, 20],
+        maxZoom: 7
+    });
 })
 .catch(error => console.error('Error loading GeoJSON:', error));
