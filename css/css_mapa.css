@@ -1,0 +1,89 @@
+#map {
+    width: 100%;
+    height: 800px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    z-index: 1;
+    position: relative;
+}
+
+.pjustificado {
+    flex: 1;
+    min-height: 700px;
+    overflow: visible;
+}
+
+.leaflet-popup-content {
+    font-family: inherit;
+    color: #333;
+}
+
+.leaflet-popup-tip {
+    background-color: #fff;
+}
+
+.marker-cluster {
+    background-clip: padding-box;
+    border-radius: 40px;
+}
+
+.marker-cluster-small {
+    background-color: rgba(181, 226, 140, 0.6);
+}
+
+.marker-cluster-small div {
+    background-color: rgba(110, 204, 57, 0.6);
+}
+
+.marker-cluster-medium {
+    background-color: rgba(241, 211, 87, 0.6);
+}
+
+.marker-cluster-medium div {
+    background-color: rgba(240, 194, 12, 0.6);
+}
+
+.marker-cluster-large {
+    background-color: rgba(253, 156, 115, 0.6);
+}
+
+.marker-cluster-large div {
+    background-color: rgba(241, 128, 23, 0.6);
+}
+
+.marker-cluster span {
+    line-height: 40px;
+}
+
+.reset-button {
+    position: fixed !important;
+    top: calc(var(--navbar-height, 150px) + 55px) !important;
+    right: 15px !important;
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(135deg, #6a4c93 0%, #6a4c93 100%);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 999999 !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(25, 118, 210, 0.3);
+    pointer-events: auto !important;
+}
+
+.reset-button:hover {
+    background: linear-gradient(135deg, #845fb8 0%, #845fb8 100%);
+    transform: rotate(90deg) scale(1.08);
+    box-shadow: 0 6px 16px rgba(25, 118, 210, 0.4);
+}
+
+.reset-button:active {
+    transform: rotate(90deg) scale(0.95);
+}
