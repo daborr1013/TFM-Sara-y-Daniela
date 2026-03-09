@@ -24,7 +24,7 @@
         </li>
 
         <li><a href="content/about_us.php">Sobre nosotras</a></li>
-        <li><a href="#">Asistente virtual</a></li>
+        <li><a href="content/litto.php">Asistente virtual</a></li>
         <li><a href="content/pUsuario.php">Perfil de usuario</a></li>
     </ul>
 </nav>
