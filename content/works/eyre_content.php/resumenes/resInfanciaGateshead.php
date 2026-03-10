@@ -3,7 +3,7 @@
 <head>
     <title>Resumen Infancia en Gateshead</title>
     <meta charset="utf-8">
-    <meta name="description" content="Este es el cap�tulo 1">
+    <meta name="description" content="Este es el capítulo 1">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../css/css_eyre.css">
     <link rel="icon" href="../../../../media/images/iconoPestanaClara.png" type="image/png">
