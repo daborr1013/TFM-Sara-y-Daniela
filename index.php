@@ -60,7 +60,7 @@
     <p>TFM – Letras Digitales – UCM</p>
 </footer>
 
-<audio controls autoplay src="media/audio/musicota.mp3"></audio>
+<audio autoplay loop src="media/audio/musicota.mp3"></audio>
 
 </body>
 </html>
