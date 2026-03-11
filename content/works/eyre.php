@@ -92,7 +92,7 @@
                 naturaleza, o incluso el mismo nombre de la protagonista. En la sección de <a href="eyre_content.php/personajes.php">personajes</a>, la encontrarás 
                 a ella y a los demás. ¿Quién es el culpable de los ruidos de y eventos extraños en Thornfield?</p>
 
-            <p>Y no te olvides de <a href="#">Litto</a>, él puede ayudarte a resolver tus preguntas.</p>
+            <p>Y no te olvides de <a href="../litto.php">Litto</a>, él puede ayudarte a resolver tus preguntas.</p>
 
             <p>Te recomendamos comenzar conociendo más sobre el <a href="eyre_content/contexto_historico.php">contexto histórico</a> para así comprender
             las limitaciones a las que se enfrenta Jane a lo largo de la historia. Ten en cuenta que también contamos con

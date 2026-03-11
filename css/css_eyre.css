@@ -258,13 +258,31 @@ img {
 	text-align: center;
     justify-content: center;
 	line-height: 50px;
-	margin: 10px 10px;
-    padding: 10px 10px;
+	margin: 10px;
+    padding: 10px;
 	border-radius: 20px;
 }
 
 .boton:hover{
      background-color: #55dfe4;
+}
+
+
+table {
+    width: 90%;
+    max-width: 90px;       
+    border-collapse: collapse; 
+}
+
+th, td {
+    padding: 7px 12px; 
+    min-width: 170px;   
+    text-align: center; 
+    vertical-align: middle; 
+}
+
+th {
+    font-weight: bold;
 }
 /*fin otros elementos visuales*/
 
