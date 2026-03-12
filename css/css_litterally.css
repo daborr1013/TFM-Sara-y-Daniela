@@ -126,6 +126,8 @@ nav a:focus, nav a:focus-visible {
 .logo {
     width: 10%;
     text-align: center;
+    padding: 8px 12px;
+    border-radius: 14px;
 }
 
 .portada {
@@ -151,12 +153,13 @@ nav a:focus, nav a:focus-visible {
 
 /* ===== TIPOGRAFÍA ===== */
 h1 {
-    background: linear-gradient(135deg, #4f3578 0%, #7150a5 100%);
     color: white;
     padding: 20px;
     font-size: 30px;
     text-align: center;
-    margin: 0;
+    margin: 0 calc(-50vw + 50%);
+    width: 100vw;
+    background: linear-gradient(135deg, #4f3578 0%, #7150a5 100%);
 }
 
 h2 {
@@ -208,7 +211,7 @@ h3 {
 /* ===== DISEÑO PRINCIPAL ===== */
 main {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     padding: 48px 20px;
@@ -223,7 +226,6 @@ main {
 }
 
 .hero {
-    background: linear-gradient(135deg, #4f3578 0%, #7a59a8 100%);
     color: white;
     padding: 60px 20px;
     text-align: center;
@@ -453,6 +455,7 @@ main {
 @media (max-width: 768px) {
     .logo {
         width: 22%;
+        padding: 6px 10px;
     }
 
     .menu {
