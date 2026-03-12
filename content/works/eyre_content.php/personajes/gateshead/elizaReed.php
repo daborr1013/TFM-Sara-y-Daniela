@@ -84,9 +84,21 @@
             
             <section class="layout">
                 <section class="pjustificado">
+                    <h1></h1>
+
+                    <p>                    </p>
+
+                    <h3>Personalidad</h3>
+                    <p></p>
+
+                    <h3>Impacto en la vida de Jane</h3>
+                    <p></p>
+
+                    <h3>Importancia del personaje</h3>
+                    <p></p>
                 </section>
 
-                <section class="fotillo del personaje">
+                <section class="fpersonaje">
                 </section>
             </section>
         </section>
