@@ -61,35 +61,62 @@
                         <li class="dropdown-sidebar">
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">Símbolos</a></li>
-                                <li><a href="personajes.php">Personajes</a></li>
-                                <li><a href="glosario.php">Glosario</a></li>
-                                <li><a href="mapa.php">Mapa</a></li>
-                                <li><a href="citas.php">Citas</a></li>
+                                <li><a href="../../explicaciones.php">Explicaciones</a></li>
+                                <li><a href="../../simbolos.php">Símbolos</a></li>
+                                <li><a href="../../personajes.php">Personajes</a></li>
+                                <li><a href="../../glosario.php">Glosario</a></li>
+                                <li><a href="../../mapa.php">Mapa</a></li>
+                                <li><a href="../../citas.php">Citas</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../actividades_eyre.php">Actividades</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="test.php">Tests</a></li>
-                                <li><a href="rellenar.php">Rellenar</a></li>
-                                <li><a href="flashcard.php">Flashcards</a></li>
+                                <li><a href="../../test.php">Tests</a></li>
+                                <li><a href="../../rellenar.php">Rellenar</a></li>
+                                <li><a href="../../flashcard.php">Flashcards</a></li>
                             </ul>
                         </li>
                     </ul>
                 </nav>
             </div>
             
-            <section class="layout">
-                <section class="pjustificado">
-                </section>
+          <section class="pjustificado">
+                <h1>Señora Reed</h1>
 
-                <section class="fotillo del personaje">
-                </section>
-            </section>
-        </section>
+                <img class="fpersonaje" src="../../../../../media/images/senoraReed.png">
+
+                <p>Es la viuda del tío de Jane, le hicieron prometer que cuidaría de Jane, pero como no le gusta la niña, hace 
+                    todo lo posible para que su vida sea un calvario.</p>
+
+                <h3>Personalidad e impacto en la vida de Jane</h3>
+                <p>Es una mujer fría, inflexible y muy preocupada por las apariencias y el estatus social. Su mayor defecto es su 
+                    incapacidad para perdonar: odia a Jane porque representa el cariño que su difunto esposo sentía por una "extraña" en lugar de por sus propios hijos.</p>
+                    
+                <p>Es quien encierra a Jane en el Cuarto Rojo, el trauma que marca la psicología de la protagonista para siempre.</p>
+
+                <p>Intenta destruir el futuro de Jane incluso antes de que empiece diciéndole al Sr. Brocklehurst que la niña tiene una "tendencia a la mentira", 
+                    algo que Jane tarda años desmentir.</p>
+
+                <p>Años después, cuando está agonizando, manda llamar a Jane. Pero incluso en su lecho de muerte, no busca redención; confiesa que ocultó la carta del tío de Jane 
+                    (John Eyre) por puro odio, intentando privar a Jane de su herencia.</p>
+
+                <h3>Importancia del personaje</h3>
+                <p>Ella es quien provoca que Jane se rebele de pequeña, plantando la semilla de la mujer independiente y fuerte que veremos después. </p>
+
+                <p>Su favoritismo ciego hacia sus hijos biológicos (especialmente John) termina siendo la ruina de todos ellos. Al no poner límites a John y 
+                    alimentar la vanidad de sus hijas, crea una familia rota.</p>
+
+                <p>Como acto de justicia poética muere sola, rruinada por las deudas de su hijo y despreciada por sus propias hijas, mientras que la sobrina a la que despreció 
+                vuelve para perdonarla y ofrecerle paz.</p>
+             </section>
+        </div>
     </main>
+    
+    <footer>
+        <p>TFM - Letras Digitales - UCM</p>
+    </footer>
+
 </body>
 </html>

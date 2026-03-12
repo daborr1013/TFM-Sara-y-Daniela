@@ -22,7 +22,7 @@
             <li class="dropdown">
                 <a href="../../../../obras.php">Obras</a>
                 <ul class="dropdown-menu">
-                    <li><a href="../../../content/works/eyre.php">Jane Eyre</a></li>
+                    <li><a href="../../../eyre.php">Jane Eyre</a></li>
                 </ul>
             </li>
 
@@ -82,48 +82,40 @@
                 </nav>
             </div>
             
-            <section class="layout">
-                <section class="pjustificado">
-                    <h1>Bessie</h1>
+            <section class="pjustificado">
+                <h1>Bessie</h1>
 
-                    <section class="layout">
-                        <section class="pjustificado">
-                                <p>Bessie es la niñera de los niños de Gateshead. A pesar de ser la empleada de la señora Reed, ella no puede
-                                evitar ser la primera aliada de Jane manteniendo una relación cercana, hasta tal punto de ser la única figura
-                                materna que la niña conoce en sus primeros años de vida.</p>
-                        </section>
+                <img class="fpersonaje" src="../../../../../media/images/bessie.png">
 
-                        <section class="fpersonaje">
-                            <img src="../../../../../media/images/bessie.png">
-                        </section>
-                    </section>
+                <p>Bessie es la niñera de los niños de Gateshead. A pesar de ser la empleada de la señora Reed, ella no puede
+                    evitar ser la primera aliada de Jane manteniendo una relación cercana, hasta tal punto de ser la única figura
+                    materna que la niña conoce en sus primeros años de vida.</p>
 
-                    <h3>Personalidad e impacto en la vida de Jane</h3>
-                    <p>Nos da la impresión de ser una mujer con un caracter varibale, ya que puede ser regañona y brusca,
-                        pero como hemos mencionado ya posee una bondad que contrasta con la crueldad de los Reed.</p>
+                <h3>Personalidad e impacto en la vida de Jane</h3>
+                <p>Nos da la impresión de ser una mujer con un caracter varibale, ya que puede ser regañona y brusca,
+                    pero como hemos mencionado ya posee una bondad que contrasta con la crueldad de los Reed.</p>
                     
-                    <p>Para Jane es un consuelo tenerla, ya que su familia la trata como si fuera un monstruo, una carga, mientras que Bessie
-                        le canta canciones, le cuenta cuentos de hadas, le da tozos de pan tostado...</p>
+                <p>Para Jane es un consuelo tenerla, ya que su familia la trata como si fuera un monstruo, una carga, mientras que Bessie
+                    le canta canciones, le cuenta cuentos de hadas, le da tozos de pan tostado...</p>
 
-                    <p>Bessie es la que le da las primeras pistas a Jane a cerca de su familia. Le habla sobre su padre el clérigo.</p>
+                <p>Bessie es la que le da las primeras pistas a Jane a cerca de su familia. Le habla sobre su padre el clérigo.</p>
 
-                    <p>Además, antes de que la niña parta a Lowood, Bessie le confiesa que la prefiere a ella que a sus primos los Reed, reforzando
-                        así, su imagen positiva.</p>
+                <p>Además, antes de que la niña parta a Lowood, Bessie le confiesa que la prefiere a ella que a sus primos los Reed, reforzando
+                    así, su imagen positiva.</p>
 
-                    <h3>Importancia del personaje</h3>
-                    <p>La autora no la dibuja como si fuera un ángel, a veces muestra que es injusta con Jane porque tiene miedo de perder su trabajo,
-                        lo que le da un matiz muy realista a su personaje.</p>
-                    <p>Cuando Jane es más adulta, Bessie va a visitarla y se sorprende al ver el cambio que ha dado. Le da reconocimiento a Jane y 
-                        hace de cierre de la etapa de maltratos que la joven sufrió. La niñera fue la que plantó la semilla de la imaginación, con sus historias
-                        y canciones, ayudándola así también a sobrevivir a la soledad.</p>
-                    <p></p>
-                    <p></p>
-                    <p></p>
-                </section>
-
-                
+                <h3>Importancia del personaje</h3>
+                <p>La autora no la dibuja como si fuera un ángel, a veces muestra que es injusta con Jane porque tiene miedo de perder su trabajo,
+                    lo que le da un matiz muy realista a su personaje.</p>
+                <p>Cuando Jane es más adulta, Bessie va a visitarla y se sorprende al ver el cambio que ha dado. Le da reconocimiento a Jane y 
+                    hace de cierre de la etapa de maltratos que la joven sufrió. La niñera fue la que plantó la semilla de la imaginación, con sus historias
+                    y canciones, ayudándola así también a sobrevivir a la soledad.</p>
             </section>
-        </section>
+        </div>
     </main>
+    
+    <footer>
+        <p>TFM - Letras Digitales - UCM</p>
+    </footer>
+
 </body>
 </html>

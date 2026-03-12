@@ -61,35 +61,59 @@
                         <li class="dropdown-sidebar">
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">Símbolos</a></li>
-                                <li><a href="personajes.php">Personajes</a></li>
-                                <li><a href="glosario.php">Glosario</a></li>
-                                <li><a href="mapa.php">Mapa</a></li>
-                                <li><a href="citas.php">Citas</a></li>
+                                <li><a href="../../explicaciones.php">Explicaciones</a></li>
+                                <li><a href="../../simbolos.php">Símbolos</a></li>
+                                <li><a href="../../personajes.php">Personajes</a></li>
+                                <li><a href="../../glosario.php">Glosario</a></li>
+                                <li><a href="../../mapa.php">Mapa</a></li>
+                                <li><a href="../../citas.php">Citas</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../actividades_eyre.php">Actividades</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="test.php">Tests</a></li>
-                                <li><a href="rellenar.php">Rellenar</a></li>
-                                <li><a href="flashcard.php">Flashcards</a></li>
+                                <li><a href="../../test.php">Tests</a></li>
+                                <li><a href="../../rellenar.php">Rellenar</a></li>
+                                <li><a href="../../flashcard.php">Flashcards</a></li>
                             </ul>
                         </li>
                     </ul>
                 </nav>
             </div>
             
-            <section class="layout">
-                <section class="pjustificado">
-                </section>
+            <section class="pjustificado">
+                <h1>Jane Eyre</h1>
 
-                <section class="fotillo del personaje">
-                </section>
-            </section>
-        </section>
+                <img class="fpersonaje" src="../../../../../media/images/jane.png">
+
+                <p></p>
+
+                <h3>Personalidad</h3>
+                <p></p>
+                    
+                <p></p>
+
+                <p></p>
+
+                <p></p>
+
+                <h3>Importancia del personaje</h3>
+                <p></p>
+
+                <p></p>
+
+                <p></p>
+                <p></p>
+                <p></p>
+
+             </section>
+        </div>
     </main>
+    
+    <footer>
+        <p>TFM - Letras Digitales - UCM</p>
+    </footer>
+
 </body>
 </html>

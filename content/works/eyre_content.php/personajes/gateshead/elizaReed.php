@@ -22,7 +22,7 @@
             <li class="dropdown">
                 <a href="../../../../obras.php">Obras</a>
                 <ul class="dropdown-menu">
-                    <li><a href="works/eyre.php">Jane Eyre</a></li>
+                    <li><a href="../../../eyre.php">Jane Eyre</a></li>
                 </ul>
             </li>
 
@@ -61,47 +61,59 @@
                         <li class="dropdown-sidebar">
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">Símbolos</a></li>
-                                <li><a href="personajes.php">Personajes</a></li>
-                                <li><a href="glosario.php">Glosario</a></li>
-                                <li><a href="mapa.php">Mapa</a></li>
-                                <li><a href="citas.php">Citas</a></li>
+                                <li><a href="../../explicaciones.php">Explicaciones</a></li>
+                                <li><a href="../../simbolos.php">Símbolos</a></li>
+                                <li><a href="../../personajes.php">Personajes</a></li>
+                                <li><a href="../../glosario.php">Glosario</a></li>
+                                <li><a href="../../mapa.php">Mapa</a></li>
+                                <li><a href="../../citas.php">Citas</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../actividades_eyre.php">Actividades</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="test.php">Tests</a></li>
-                                <li><a href="rellenar.php">Rellenar</a></li>
-                                <li><a href="flashcard.php">Flashcards</a></li>
+                                <li><a href="../../test.php">Tests</a></li>
+                                <li><a href="../../rellenar.php">Rellenar</a></li>
+                                <li><a href="../../flashcard.php">Flashcards</a></li>
                             </ul>
                         </li>
                     </ul>
                 </nav>
             </div>
             
-            <section class="layout">
-                <section class="pjustificado">
-                    <h1></h1>
+            <section class="pjustificado">
+                <h1>Eliza Reed</h1>
 
-                    <p>                    </p>
+                <img class="fpersonaje" src="../../../../../media/images/eliza.png">
 
-                    <h3>Personalidad</h3>
-                    <p></p>
+                <p>Eliza es la prima mayor de Jane. A diferencia de su hermana Georgina, es una persona muy fría y pragmática.</p>
 
-                    <h3>Impacto en la vida de Jane</h3>
-                    <p></p>
+                <h3>Personalidad e impacto en la vida de Jane</h3>
+                <p>Eliza es extremadamente tacaña, calculadora y egocéntrica. Desde pequeña se hace notable que lo único que le importa y que los
+                    sentimientos no son una de sus prioridades.</p>
+                
+                <p>Cuando Jane vuelve años más tarde a Gateshead a ver a su tía, la cual está muriendo, Eliza ahora es cortés con ella 
+                    pero sigue siendo muy distante y fría. A pesar se ver cómo se avecina la uerte de su madre, no siente pena por ella, solo 
+                    quiere cerrar los asuntos pendientes y marcharse a casa.</p>
+                    
+                <p>A diferencia de su prima, Eliza no perdona a su madre en su lecho de muerte, se siente resentida por haber tenido que dedicar su vida a 
+                    cuidarla mientras los demás se iban a vivir su vida.</p>
 
-                    <h3>Importancia del personaje</h3>
-                    <p></p>
-                </section>
+                <h3>Importancia del personaje</h3>
+                <p>Eliza es importante porque representa el lado más frío y calculador de la familia Reed. La autora la usa para mostar un contraste entre ella 
+                    y su hermana Georgina, toda emocional. Jane al ver a las dos, decide que no puede regirse solo por sus sentimientos (como Georgina), ni ser tan 
+                    calculadora (como Eliza), tiene que buscar un equilibrio.</p>
 
-                <section class="fpersonaje">
-                </section>
+                <p>Al final de la historia, Eliza acaba en un convento de Francia como abadesa, siendo esto la máxima expresión de orden y rutina que tanto 
+                    la caracterizan.</p>
             </section>
-        </section>
+        </div>
     </main>
+    
+    <footer>
+        <p>TFM - Letras Digitales - UCM</p>
+    </footer>
+
 </body>
 </html>

@@ -7,7 +7,7 @@ body {
     text-align: center;
 }
 
-header{
+header {
     background-color: #6a4c93;
 }
 
@@ -17,10 +17,11 @@ footer {
     background-color: #2c2c54;
     color: white;
 }
+
 /*barra de navegación principal*/
 
-.navbar { 
-    background: linear-gradient(135deg, #6a4c93 0%, #a8dadc 100%); 
+.navbar {
+    background: linear-gradient(135deg, #6a4c93 0%, #a8dadc 100%);
     padding: 10px;
     overflow: visible;
 }
@@ -43,45 +44,45 @@ nav a:hover {
     display: flex;
     justify-content: center;
     gap: 20px;
-        padding: 10px 20px;
+    padding: 10px 20px;
     margin-top: 20px;
 }
 
 .menu li {
-  position: relative;
+    position: relative;
 }
 
 .menu a {
-  text-decoration: none;
-  color: white;
-  padding: 8px 12px;
-  display: block;
+    text-decoration: none;
+    color: white;
+    padding: 8px 12px;
+    display: block;
 }
 
 .dropdown-menu {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background: #c3b7d2;
-  list-style: none;
-  padding: 0;
-  min-width: 150px;
-  z-index: 1000;
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #c3b7d2;
+    list-style: none;
+    padding: 0;
+    min-width: 150px;
+    z-index: 1000;
 }
 
 .dropdown-menu li a {
-  padding: 10px 15px;
-  display: block;
-  color: white;
+    padding: 10px 15px;
+    display: block;
+    color: white;
 }
 
 .dropdown:hover .dropdown-menu {
-  display: block;
+    display: block;
 }
 
 .dropdown-menu li a:hover {
-  background: #694c93;
+    background: #694c93;
 }
 
 /* Estilos de foco para menú dropdown accesible con teclado */
@@ -109,23 +110,23 @@ nav a:hover {
 }
 
 .sidebar a {
-    display:block;
-    padding:10px;
-    margin:0;
-    text-decoration:none;
+    display: block;
+    padding: 10px;
+    margin: 0;
+    text-decoration: none;
     color: black;
-    background-color:white;
-    border-radius:5px;
+    background-color: white;
+    border-radius: 5px;
 }
 
-.menu-sidebar{
+.menu-sidebar {
     list-style: none;
     padding: 0;
     margin: 0;
     background-color: #f5f5f5;
 }
 
-.menu-sidebar li{
+.menu-sidebar li {
     margin: 0;
     padding: 0;
 }
@@ -205,12 +206,12 @@ h3 {
     font-weight: bold;
 }
 
-h4{
+h4 {
     text-align: center;
     justify-content: center;
 }
 
-.pjustificado{
+.pjustificado {
     font-size: 18px;
     text-align: justify;
     text-indent: 20px;
@@ -218,11 +219,11 @@ h4{
     margin-bottom: 20px;
 }
 
-.pjustificado h3{
+.pjustificado h3 {
     justify-content: center;
 }
 
-.bloqueTexto{
+.bloqueTexto {
     background-color: #ececec;
     text-align: justify;
     text-indent: 20px;
@@ -250,11 +251,12 @@ h4{
     margin-top: 10px;
     font-size: 1.1em;
 }
+
 /*fin texto*/
 
-/*imagenes*/ 
-.logo{
-    width: 10%; 
+/*imagenes*/
+.logo {
+    width: 10%;
     text-align: center;
 }
 
@@ -265,54 +267,59 @@ img {
     text-align: center;
 }
 
-.fpersonaje{
-    width: 70%; 
-    border-radius: 20px;
-    margin-top: 50px;
+.fpersonaje {
+    display: block;
+    width: 120px;
     margin-left: 10px;
+    margin-right: 70px;
+    margin-top: 25px;
+    object-fit: cover;
+    margin: 25px auto;
+    border-radius: 30%;
 }
+
 /*fin imagenes*/
 
-/*otros elementos visuales*/ 
-.boton{
+/*otros elementos visuales*/
+.boton {
     font-family: 'Inter', system-ui, sans-serif;
     font-size: 15px;
     background-color: #a8dadc;
-	text-align: center;
+    text-align: center;
     justify-content: center;
-	line-height: 50px;
-	margin: 10px;
+    line-height: 50px;
+    margin: 10px;
     padding: 10px;
-	border-radius: 20px;
+    border-radius: 20px;
 }
 
-.boton:hover{
-     background-color: #55dfe4;
+.boton:hover {
+    background-color: #55dfe4;
 }
 
 
 table {
     width: 90%;
-    max-width: 90px;       
-    border-collapse: collapse; 
+    max-width: 90px;
+    border-collapse: collapse;
 }
 
-th, td {
-    padding: 7px 12px; 
-    min-width: 170px;   
-    text-align: center; 
-    vertical-align: middle; 
+th,
+td {
+    padding: 7px 12px;
+    min-width: 170px;
+    text-align: center;
+    vertical-align: middle;
 }
 
 th {
     font-weight: bold;
 }
+
 /*fin otros elementos visuales*/
 
-.layout{
+.layout {
     font-family: 'Inter', system-ui, sans-serif;
     display: flex;
     align-items: flex-start;
 }
-
-

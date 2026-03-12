@@ -34,13 +34,51 @@
 
     <div class="layout">
         <div class="sidebar">
-            <a class="active" href="inicio_eyre.php">Inicio</a>
-            <a href="intro_obra.php">Introducción a la obra</a>
-            <a href="contenido_eyre.php">Contenido</a>
-            <a href="contexto_eyre.php">Contexto</a>
-            <a href="recursos_eyre.php">Recursos</a>
-            <a href="actividades_eyre.php">Actividades</a>
-        </div>
+            <nav class="navbar-sidebar">    
+                <ul class="menu-sidebar">
+                    <li><a class="active" href="../inicio_eyre.php">Inicio</a></li>
+
+                    <li><a href="../intro_obra.php">Introducción a la obra</a></li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../contenido_eyre.php">Contenido</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../resumenes/resumenes.php">Resúmenes</a></li>
+                                <li><a href="../capitulos.php">Capítulos</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../contexto_eyre.php">Contexto</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../charlotte.php">Charlotte Brontë</a></li>
+                                <li><a href="../contexto_historico.php">Contexto histórico</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../recursos_eyre.php">Recursos</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../explicaciones.php">Explicaciones</a></li>
+                                <li><a href="../simbolos.php">Símbolos</a></li>
+                                <li><a href="../personajes.php">Personajes</a></li>
+                                <li><a href="../glosario.php">Glosario</a></li>
+                                <li><a href="../mapa.php">Mapa</a></li>
+                                <li><a href="../citas.php">Citas</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../actividades_eyre.php">Actividades</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../test.php">Tests</a></li>
+                                <li><a href="../rellenar.php">Rellenar</a></li>
+                                <li><a href="../flascard.php">Flashcards</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
 
         <section class="contenido">
             <h1>Resumen bloque <i>Thornfield Hall</i></h1>

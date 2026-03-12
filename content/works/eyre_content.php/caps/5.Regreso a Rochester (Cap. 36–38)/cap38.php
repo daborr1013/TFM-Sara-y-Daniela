@@ -22,12 +22,13 @@
             <li class="dropdown">
                 <a href="../../../../obras.php">Obras</a>
                 <ul class="dropdown-menu">
-                    <li><a href="works/eyre.php">Jane Eyre</a></li>
+                    <li><a href="../../../eyre.php">Jane Eyre</a></li>
                 </ul>
             </li>
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
             <li><a href="../../../../litto.php">Asistente virtual</a></li>
+
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
     </nav>
@@ -52,20 +53,20 @@
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
-                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
+                                <li><a href="../../charlotte.php">Charlotte Brontë</a></li>
+                                <li><a href="../../contexto_historico.php">Contexto histórico</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown-sidebar">
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">Símbolos</a></li>
-                                <li><a href="personajes.php">Personajes</a></li>
-                                <li><a href="glosario.php">Glosario</a></li>
-                                <li><a href="mapa.php">Mapa</a></li>
-                                <li><a href="citas.php">Citas</a></li>
+                                <li><a href="../../explicaciones.php">Explicaciones</a></li>
+                                <li><a href="../../simbolos.php">Símbolos</a></li>
+                                <li><a href="../../personajes.php">Personajes</a></li>
+                                <li><a href="../../glosario.php">Glosario</a></li>
+                                <li><a href="../../mapa.php">Mapa</a></li>
+                                <li><a href="../../citas.php">Citas</a></li>
                             </ul>
                         </li>
 
