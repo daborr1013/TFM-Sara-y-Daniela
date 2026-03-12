@@ -2,6 +2,8 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
+    <!-- Meta viewport para accesibilidad en dispositivos móviles -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Litterally</title>
     <link rel="stylesheet" href="../../css/css_eyre.css">
     <link rel="icon" href="../../media/images/iconoPestanaClara.png">
@@ -10,7 +12,8 @@
 <body>
 
 <header>
-    <a href="../../index.php"><img class="logo" src="../../media/images/litGrande.png"></a>
+    <!-- Logo con texto alternativo para lectores de pantalla -->
+    <a href="../../index.php"><img class="logo" src="../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
 </header>
 
 <nav class="navbar">

@@ -2,13 +2,16 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
+    <!-- Meta viewport para accesibilidad en dispositivos móviles -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Litterally</title>
     <link rel="stylesheet" href="css/css_index.css">
     <link rel="icon" href="media/images/iconoPestanaClara.png">
 </head>
 <body>
     <header>
-        <a href="index.php"><img class="logo" src="media/images/litGrande.png"></a>
+        <!-- Logo con texto alternativo para lectores de pantalla -->
+        <a href="index.php"><img class="logo" src="media/images/litGrande.png" alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -30,7 +33,8 @@
 
     <main>
         <section class="hero">
-            <h2>Inicio</h2>
+            <!-- Encabezado principal (h1) para mejor jerarquía de contenido -->
+            <h1>Inicio</h1>
         </section>
         <section class="pjustificado">
             <p>Bienvenido a <i>Litterally</i>, una plataforma en la que puedes explorar y analizar obras literarias de forma interactiva.</p>
@@ -50,9 +54,8 @@
             <p>Para saber más sobre nosotras, ve a "<a href="content/about_us.php">Sobre nosotras</a>". ¡Disfruta, querido lector!</p>
         </section>
 
-        <button class="boton">
-            <a href="content/works/eyre.php">Accede a Jane Eyre</a>
-        </button>
+        <!-- Botón accesible con aria-label descriptivo -->
+        <a href="content/works/eyre.php" class="boton" role="button" aria-label="Acceder a la lectura interactiva de Jane Eyre">Accede a Jane Eyre</a>
     </main>
 
     <footer>
