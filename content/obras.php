@@ -34,7 +34,8 @@
 
 <main>
     <section class="hero">
-        <h2>Catálogo de obras disponibles</h2>
+        <!-- Encabezado principal h1 para mejor jerarquía semántica -->
+        <h1>Catálogo de obras disponibles</h1>
     </section>
 
     <hr>

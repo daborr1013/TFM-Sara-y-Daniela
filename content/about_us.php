@@ -34,7 +34,8 @@
 
 <main>
     <section class="hero">
-        <h2>Daniela Borrego & Sara Escribano</h2>
+        <!-- Encabezado principal h1 para mejor jerarquía semántica -->
+        <h1>Daniela Borrego & Sara Escribano</h1>
     </section>
 
     <section class="layout">

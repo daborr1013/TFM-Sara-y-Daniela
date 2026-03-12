@@ -35,7 +35,8 @@
 <main>
     <div class="chat-container">
     <div class="chat-header">
-        <h2>Litto</h2>
+        <!-- Encabezado principal h1 para mejor jerarquía semántica -->
+        <h1>Litto</h1>
     </div>
     <div class="chat-box" id="chatBox">
         <!-- Los mensajes aparecerán aquí -->

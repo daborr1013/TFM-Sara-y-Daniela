@@ -83,6 +83,13 @@ nav a:hover {
 .dropdown-menu li a:hover {
   background: #694c93;
 }
+
+/* Estilos de foco para menú dropdown accesible con teclado */
+.dropdown-menu li a:focus, .dropdown-menu li a:focus-visible {
+  outline: 2px solid white;
+  outline-offset: -2px;
+  background: #694c93;
+}
 /*sidebar*/
 .sidebar {
     width: 300px;
@@ -161,6 +168,14 @@ nav a:hover {
 }
 
 .dropdown-menu-sidebar li a:hover {
+    background-color: #e8e8e8;
+    border-left-color: #6a4c93;
+}
+
+/* Estilos de foco para menú sidebar accesible con teclado */
+.dropdown-menu-sidebar li a:focus, .dropdown-menu-sidebar li a:focus-visible {
+    outline: 2px solid #6a4c93;
+    outline-offset: -2px;
     background-color: #e8e8e8;
     border-left-color: #6a4c93;
 }

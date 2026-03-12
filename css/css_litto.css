@@ -89,6 +89,13 @@ nav a:hover {
   background: #694c93;
 }
 
+/* Estilos de foco para menú dropdown accesible con teclado */
+.dropdown-menu li a:focus, .dropdown-menu li a:focus-visible {
+  outline: 2px solid white;
+  outline-offset: -2px;
+  background: #694c93;
+}
+
 /* fin barra navegación */
 
 /*fin base*/

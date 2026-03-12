@@ -1,3 +1,4 @@
+/* ===== PROPIEDADES CSS PERSONALIZADAS ===== */
 :root {
     --violet-900: #2a1d3f;
     --violet-700: #5f3f8f;
@@ -10,6 +11,7 @@
     --mist: #e7deef;
 }
 
+/* ===== RESET Y ESTILOS BASE ===== */
 * {
     box-sizing: border-box;
 }
@@ -31,8 +33,34 @@ header {
     background: linear-gradient(135deg, #4f3578 0%, #6d4b9f 70%, #7b5baa 100%);
 }
 
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #2b1e41;
+    color: #f3ebff;
+}
+
+/* ===== NAVEGACIÓN ===== */
 nav {
     padding: 10px 20px;
+}
+
+nav a {
+    display: inline-block;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.25s ease, outline 0.25s ease;
+    outline: 2px solid transparent;
+}
+
+nav a:hover {
+    color: #f0d9a6;
+}
+
+nav a:focus, nav a:focus-visible {
+    outline: 2px solid #ffffff;
+    outline-offset: 4px;
 }
 
 .navbar {
@@ -88,49 +116,96 @@ nav {
     background: #5d3d88;
 }
 
-/* Estilos de foco para menú dropdown accesible --> */
-
 .dropdown-menu li a:focus, .dropdown-menu li a:focus-visible {
     outline: 2px solid #ffffff;
     outline-offset: -2px;
     background: #5d3d88;
 }
 
+/* ===== IMÁGENES ===== */
 .logo {
     width: 10%;
     text-align: center;
 }
 
-footer {
-    text-align: center;
-    padding: 1rem;
-    background: #2b1e41;
-    color: #f3ebff;
+.portada {
+    width: 10%;
+    border-radius: 10px;
+    justify-content: center;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 15px;
 }
 
-nav a {
-    display: inline-block;
-    margin: 0 15px;
+.portada2 {
+    width: 7%;
+    border-radius: 10px;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.nosotras {
+    width: 15%;
+    border-radius: 10px;
+}
+
+/* ===== TIPOGRAFÍA ===== */
+h1 {
+    background: linear-gradient(135deg, #4f3578 0%, #7150a5 100%);
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+}
+
+h2 {
+    font-style: italic;
+    color: var(--ink);
+    margin-top: 20px;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.pjustificado {
+    font-size: 18px;
+    text-align: justify;
+    text-indent: 20px;
+    margin: 50px;
+    margin-bottom: 20px;
+}
+
+/* ===== BOTONES Y ELEMENTOS INTERACTIVOS ===== */
+.boton {
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    background-color: #a8dadc;
+    text-align: center;
+    justify-content: center;
+    line-height: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 15px;
+    border-radius: 20px;
+    transition: background-color 0.3s, outline 0.3s;
     text-decoration: none;
-    font-weight: 500;
-    transition: color 0.25s ease, outline 0.25s ease;
-
-    /* Outline transparente para que no afecte el layout --> */
-
+    display: inline-block;
+    color: black;
     outline: 2px solid transparent;
 }
 
-nav a:hover {
-    color: #f0d9a6;
+.boton:hover {
+    background-color: #8ecfe8;
 }
 
-/* Estados de foco para navegación accesible con teclado */
-
-nav a:focus, nav a:focus-visible {
-    outline: 2px solid #ffffff;
-    outline-offset: 4px;
+.boton:focus, .boton:focus-visible {
+    outline: 3px solid #6a4c93;
+    outline-offset: 2px;
 }
 
+/* ===== DISEÑO PRINCIPAL ===== */
 main {
     display: flex;
     flex-direction: row;
@@ -140,6 +215,29 @@ main {
     gap: 60px;
 }
 
+.layout {
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.hero {
+    background: linear-gradient(135deg, #4f3578 0%, #7a59a8 100%);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.hero h2 {
+    color: white;
+    margin: 0;
+    font-size: 40px;
+}
+
+/* ===== SECCIÓN DE TARJETA DE PERFIL DE USUARIO ===== */
 .card-container {
     display: flex;
     flex-direction: row;
@@ -163,7 +261,7 @@ main {
         inset 0 0 0 2px rgba(210, 176, 108, 0.28);
 }
 
-/* Decorative frame for a light regency cue. */
+/* Marco decorativo para una pista de regencia clara. */
 .user-card::before,
 .user-card::after {
     content: "";
@@ -201,14 +299,15 @@ main {
     letter-spacing: 2.2px;
     text-transform: uppercase;
     font-family: "Times New Roman", Georgia, serif;
+    background: none;
+    color: #fbf7ff;
+    padding: 0;
 }
 
 .library-badge {
     font-size: 12px;
     margin-top: 7px;
     font-weight: 600;
-
-    /* Color blanco para mejor contraste WCAG AA sobre fondo púrpura --> */
     color: #ffffff;
     letter-spacing: 1.5px;
     text-transform: uppercase;
@@ -326,14 +425,13 @@ main {
     transform: translateY(0);
 }
 
-/* Estilos de foco para accesibilidad - usuarios que navegan con teclado --> */
-
 .edit-profile:focus, .edit-profile:focus-visible {
     outline: 3px solid #ffffff;
     outline-offset: 2px;
     box-shadow: 0 6px 20px rgba(42, 29, 63, 0.25), 0 0 0 4px rgba(210, 176, 108, 0.5);
 }
 
+/* ===== SECCIÓN DE PROGRESO ===== */
 #progreso {
     display: flex;
     align-items: center;
@@ -351,6 +449,7 @@ main {
     filter: drop-shadow(0 6px 18px rgba(95, 63, 143, 0.25));
 }
 
+/* ===== DISEÑO RESPONSIVO ===== */
 @media (max-width: 768px) {
     .logo {
         width: 22%;

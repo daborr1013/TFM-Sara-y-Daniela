@@ -35,7 +35,8 @@
 
 <main>
     <section class="hero">
-        <h2>Jane Eyre</h2>
+        <!-- Encabezado principal h1 para mejor jerarquía semántica -->
+        <h1>Jane Eyre</h1>
     </section>
 
     <div class="layout">
