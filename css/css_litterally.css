@@ -30,7 +30,12 @@ body {
 }
 
 header {
-    background: linear-gradient(135deg, #4f3578 0%, #6d4b9f 70%, #7b5baa 100%);
+    background: linear-gradient(135deg, #6A4C93 0%, #6d4b9f 70%, #7b5baa 100%);
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 footer {
@@ -43,6 +48,7 @@ footer {
 /* ===== NAVEGACIÓN ===== */
 nav {
     padding: 10px 20px;
+    background: linear-gradient(135deg, #6A4C93 0%, #6d4b9f 70%, #7b5baa 100%);
 }
 
 nav a {
@@ -64,7 +70,7 @@ nav a:focus, nav a:focus-visible {
 }
 
 .navbar {
-    background: linear-gradient(120deg, #5d3d88 0%, #7a59a8 55%, #6f6ea3 100%);
+    background: linear-gradient(135deg, #6A4C93 0%, #6d4b9f 70%, #7b5baa 100%);
     padding: 10px;
     overflow: visible;
     box-shadow: 0 10px 20px rgba(42, 29, 63, 0.2);
@@ -125,9 +131,15 @@ nav a:focus, nav a:focus-visible {
 /* ===== IMÁGENES ===== */
 .logo {
     width: 10%;
-    text-align: center;
-    padding: 8px 12px;
-    border-radius: 14px;
+    display: block;
+    margin: 0 auto;
+}
+
+header a {
+    display: block;
+    background: none;
+    margin: 0 auto;
+    padding: 10px;
 }
 
 .portada {
