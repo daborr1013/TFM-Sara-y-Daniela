@@ -40,8 +40,6 @@
         <h1>Catálogo de obras disponibles</h1>
     </section>
 
-    <hr>
-
     <section class="pjustificado">
         <p>Este espacio ha sido diseñado para que tecnología y literatura clásica puedan fusionarse y así
         proporcionar a los lectores una mayor comprensión sobre las obras que leen y darles una nueva visión 
