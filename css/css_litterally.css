@@ -176,8 +176,8 @@ h3 {
     font-size: 18px;
     text-align: justify;
     text-indent: 20px;
-    margin: 10px 50px;
-    margin-bottom: 20px;
+    margin: -10px 50px;
+    margin-bottom: 5px;
 }
 
 /* ===== BOTONES Y ELEMENTOS INTERACTIVOS ===== */
@@ -501,4 +501,35 @@ main {
     .progreso-img {
         width: 150px;
     }
+}
+
+/* Book Gallery Styling */
+.book-gallery {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin: 10px 0;
+    flex-wrap: nowrap;
+}
+
+.book-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.book-item a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.book-item.upcoming img {
+    width: 120px;
+}
+
+.book-item:not(.upcoming) img {
+    width: 200px;
 }

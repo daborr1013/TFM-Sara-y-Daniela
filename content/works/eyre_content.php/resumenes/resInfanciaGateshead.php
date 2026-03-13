@@ -10,8 +10,9 @@
 </head>
 
 <body>
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png"></a>
+        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -32,6 +33,7 @@
         </ul>
     </nav>
 
+    <main id="main">
     <div class="layout">
             <div class="sidebar">
                 <nav class="navbar-sidebar">    
@@ -83,7 +85,7 @@
         <section class="contenido">
             <h1>Resumen bloque <i>Infancia en Gateshead</i></h1>
             <h3>
-                <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1-4)/cap1.php">Capítulo I</a>
+                <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap1.php">Capítulo I</a>
             </h3>
             <p class="pjustificado">La historia comienza en una tarde gris de noviembre. Jane Eyre, una huérfana de 10 años, intenta pasar desapercibida leyendo La historia de los 
                 pájaros británicos de Bewick tras una cortina. Su tía, la Sra. Reed, la excluye del círculo familiar, mientras su primo John Reed la acosa físicamente y verbalmente, 
@@ -92,7 +94,7 @@
                 culpando exclusivamente a Jane y ordenando su castigo más temido: el encierro en el "Cuarto Rojo", el lugar donde murió su tío Reed.</p> 
 
             <h3>
-                <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1-4)/cap2.php">Capítulo II</a>   
+                <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap2.php">Capítulo II</a>   
             </h3>
             <p class="pjustificado">Jane es arrastrada por las criadas Abbott y Bessie al temido Cuarto Rojo. Al verse reflejada en el espejo, se siente como un espíritu extraño y comienza a meditar sobre
                 su injusta situación: recuerda que su tío Reed la acogió tras la muerte de sus padres y que, en su lecho de muerte, hizo jurar a su esposa que la criaría como a una hija,
@@ -101,7 +103,7 @@
                 dejen salir, pero la Sra. Reed ignora sus gritos tachándolos de artimaña dramática. Finalmente, el pánico y el agotamiento hacen que Jane se desmaye.</p>
 
             <h3>
-                <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1-4)/cap3.php">Capítulo III</a>   
+                <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap3.php">Capítulo III</a>   
             </h3>
             <p class="pjustificado">Jane despierta en su habitación bajo el cuidado del amable boticario, el Sr. Lloyd, y de Bessie, quien muestra cierta compasión por el trato recibido por la niña. 
                 Tras el trauma, el Sr. Lloyd conversa con Jane y, al notar su infelicidad, sugiere a la Sra. Reed que la envíen a una escuela, idea que despierta en Jane una cautelosa esperanza.</p>
@@ -109,7 +111,7 @@
                 Ambos murieron de tifus cuando Jane era un bebé, dejando a la niña en manos de una familia que nunca la quiso.</p>
 
             <h3>
-                <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1-4)/cap4.php">Capítulo IV</a>
+                <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap4.php">Capítulo IV</a>
             </h3>
             <p class="pjustificado">Tras dos meses de espera y mayor aislamiento, Jane conoce al Sr. Brocklehurst, el severo director de la escuela Lowood. Durante un interrogatorio humillante sobre religión, 
                 Jane admite con honestidad que los salmos no le interesan, lo que indigna al clérigo. Para colmo, la Sra. Reed la calumnia ante él tildándola de mentirosa, asegurando que esa 
@@ -121,7 +123,8 @@
             <section>
                 <a class="boton" href="../contenido_eyre.php">Regresar a contenido</a>
             </section> 
-    </div>           
+    </div>
+    </main>           
 </body>
 </html>
 

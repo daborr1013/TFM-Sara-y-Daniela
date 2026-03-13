@@ -10,8 +10,9 @@
 </head>
 
 <body>
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png"></a>
+        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -32,6 +33,7 @@
         </ul>
     </nav>
 
+    <main id="main">
     <div class="layout">
             <div class="sidebar">
                 <nav class="navbar-sidebar">    
@@ -84,7 +86,7 @@
 
             <h1>Resumen bloque <i>Moor House</i></h1>
             <h3>
-                <a class="boton" href="../caps/4.Moor House (Cap. 28-35)/cap28.php">Capítulo XXVIII</a>
+                <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap28.php">Capítulo XXVIII</a>
             </h3>
             <p class="pjustificado">Tras huir de Thornfield con apenas unas pocas monedas, Jane se ve obligada a gastar lo último que tiene en un carruaje 
                 que la deja en un lugar remoto llamado Whitcross. Sin dinero, sin comida y sin techo, Jane vive la degradación absoluta de la pobreza: 
@@ -96,7 +98,7 @@
                 proteger su pasado, les da un nombre falso: Jane Elliott.</p>
 
             <h3>
-                <a class="boton" href="../caps/4.Moor House (Cap. 28-35)/cap29.php">Capítulo XXIX</a>
+                <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap29.php">Capítulo XXIX</a>
             </h3>
             <p class="pjustificado">Jane baja a la cocina y tiene un pequeño enfrentamiento con Hannah, la sirvienta, quien la juzga por su apariencia de mendiga. 
                 Jane, con su característica dignidad, le da una lección de moral: le recuerda que la pobreza no es un crimen y que no debería juzgar a alguien solo por su 
@@ -106,7 +108,7 @@
                 ayudarla a encontrar un trabajo que le permita ser independiente.</p>
 
             <h3>
-                <a class="boton" href="../caps/4.Moor House (Cap. 28-35)/cap30.php">Capítulo XXX</a>
+                <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap30.php">Capítulo XXX</a>
             </h3>
             <p class="pjustificado">Jane entabla una amistad profunda con Diana y Mary. Las tres comparten el amor por la lectura y el estudio (especialmente de idiomas como el alemán). 
                 Jane admira su independencia y su intelecto, sintiéndose por primera vez tratada como una igual en un entorno familiar sano. 
@@ -118,7 +120,7 @@
                 El salario es bajo y el trabajo humilde, pero Jane acepta con gratitud porque le ofrece lo que más desea: independencia total.</p>
 
             <h3>
-                <a class="boton" href="../caps/4.Moor House (Cap. 28-35)/cap31.php">Capítulo XXXI</a>
+                <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap31.php">Capítulo XXXI</a>
             </h3>
             <p class="pjustificado">Jane inaugura su escuela con solo veinte alumnas, de las cuales solo tres saben leer. Al principio, se siente desanimada y lucha 
                 contra una sensación de degradación; después de haber sido la compañera intelectual de Rochester, verse enseñando el abecedario en una aldea rural le
@@ -130,7 +132,7 @@
                 religiosa, que le impide casarse con alguien que solo busca placeres mundanos.</p>
 
             <h3>
-                <a class="boton" href="../caps/4.Moor House (Cap. 28-35)/cap32.php">Capítulo XXXII</a>
+                <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap32.php">Capítulo XXXII</a>
             </h3>
             <p class="pjustificado">Jane gana el respeto y el cariño de sus alumnas en Morton, descubriendo que incluso las niñas más humildes tienen talentos ocultos. 
                 Su vida es tranquila, pero sus noches están llenas de sueños vívidos y dolorosos con Rochester.</p>
@@ -140,7 +142,7 @@
                 moriría de aburrimiento y calor en un año. Prefiere sacrificar su felicidad personal por lo que considera su deber sagrado.</p>
 
             <h3>
-                <a class="boton" href="../caps/4.Moor House (Cap. 28-35)/cap33.php">Capítulo XXXIII</a>
+                <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap33.php">Capítulo XXXIII</a>
             </h3>
             <p class="pjustificado">En una noche de tormenta de nieve, St. John Rivers llega a la cabaña de Jane. Tras un preámbulo lleno de tensión, le cuenta una 
                 historia que parece salida de un libro: habla de una tal Jane Eyre, una institutriz que desapareció de Thornfield Hall tras un intento de boda ilegal
@@ -153,7 +155,7 @@
                 también sean independientes y puedan dejar de trabajar como sirvientes o institutrices.</p>
 
             <h3>
-                <a class="boton" href="../caps/4.Moor House (Cap. 28-35)/cap34.php">Capítulo XXXIV</a>
+                <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap34.php">Capítulo XXXIV</a>
             </h3>
             <p class="pjustificado">Tras repartir la herencia, las hermanas Diana y Mary regresan a Moor House, y por primera vez en su vida, Jane disfruta de un hogar 
                 lleno de afecto y libertad económica. Sin embargo, St. John no se permite disfrutar. Se vuelve cada vez más exigente con Jane, pidiéndole que deje de 
@@ -166,7 +168,7 @@
                 de Dios, y comienza a tratarla con una cortesía gélida que hiere a Jane más que cualquier grito.</p>
 
             <h3>
-                <a class="boton" href="../caps/4.Moor House (Cap. 28-35)/cap35.php">Capítulo XXXV</a>
+                <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap35.php">Capítulo XXXV</a>
             </h3>
             <p class="pjustificado">Tras el rechazo de Jane, St. John utiliza su arma más poderosa: la culpa religiosa. Durante una semana, la trata con una frialdad gélida 
                 que hace que Jane se sienta como una pecadora ante Dios. Diana intenta advertirle que casarse con él sería una locura, pero St. John redobla su presión.</p>
@@ -180,7 +182,8 @@
             <section>
                 <a class="boton" href="../contenido_eyre.php">Regresar a contenido</a>
             </section>
-    </div>    
+    </div>
+    </main>    
 </body>
 </html>
 

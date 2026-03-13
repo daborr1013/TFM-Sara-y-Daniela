@@ -10,6 +10,8 @@
 </head>
 <body>
 
+<a href="#main" class="skip-link">Saltar a contenido principal</a>
+
 <header>
     <!-- Logo con texto alternativo para lectores de pantalla -->
     <a href="../index.php"><img class="logo" src="../media/images/litGrande.png" alt="Litterally - Inicio"></a>
@@ -32,7 +34,7 @@
     </ul>
 </nav>
 
-<main>
+<main id="main">
     <div class="card-container">
         <div class="user-card">
             <div class="card-header">

@@ -5,10 +5,12 @@
     <!-- Meta viewport para accesibilidad en dispositivos móviles -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Litterally</title>
-    <link rel="stylesheet" href="../css/css_index.css">
+    <link rel="stylesheet" href="../css/css_litterally.css">
     <link rel="icon" href="../media/images/iconoPestanaClara.png">
 </head>
 <body>
+
+<a href="#main" class="skip-link">Saltar a contenido principal</a>
 
 <header>
     <!-- Logo con texto alternativo para lectores de pantalla -->
@@ -32,7 +34,7 @@
     </ul>
 </nav>
 
-<main>
+<main id="main">
     <section class="hero">
         <!-- Encabezado principal h1 para mejor jerarquía semántica -->
         <h1>Catálogo de obras disponibles</h1>
@@ -53,15 +55,19 @@
         de ellas, ¡mantente atento a las novedades!</p> 
     </section>
 
-    <table>
-        <tr><img class="portada2" src="../media/images/prox.png" alt="Próximamente en Litterally"></tr>
-        <tr>
+    <div class="book-gallery">
+        <div class="book-item upcoming">
+            <img class="portada2" src="../media/images/prox.png" alt="Próximamente en Litterally">
+        </div>
+        <div class="book-item">
             <a id="j_eyre" href="works/eyre.php" target="_blank">
                 <img class="portada" src="../media/images/portadaJane.png" alt="Portada de Jane Eyre">
             </a>
-        </tr>
-        <tr><img class="portada2" src="../media/images/prox.png" alt="Próximamente en Litterally"></tr>
-    </table>
+        </div>
+        <div class="book-item upcoming">
+            <img class="portada2" src="../media/images/prox.png" alt="Próximamente en Litterally">
+        </div>
+    </div>
 </main>
 
 <footer>

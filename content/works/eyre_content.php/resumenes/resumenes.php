@@ -8,8 +8,9 @@
 </head>
 
 <body>
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png"></a>
+        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -30,7 +31,7 @@
         </ul>
     </nav>
 
-    <main>
+ <main id="main">
         <section class="hero">
             <h2>Resúmenes</h2>
         </section>
@@ -87,11 +88,11 @@
                 <section class="">
                     <p>aqui van los resumenes xoxo gossip girl</p>
                 </section>
-                <a class="boton" href="resumenes/resInfanciaGateshead.php">Resúmenes por capítulo</a>
-                <a class="boton" href="resumenes/resEtapaLowood.php">Resúmenes por capítulo</a>
-                <a class="boton" href="resumenes/resThornfieldHall.php">Resúmenes por capítulo</a>
-                <a class="boton" href="resumenes/resMoorHouse.php">Resúmenes por capítulo</a>
-                <a class="boton" href="resumenes/resRegresoRochester.php">Resúmenes por capítulo</a>
+                <a class="boton" href="resInfanciaGateshead.php">Resúmenes por capítulo</a>
+                <a class="boton" href="resEtapaLowood.php">Resúmenes por capítulo</a>
+                <a class="boton" href="resThornfieldHall.php">Resúmenes por capítulo</a>
+                <a class="boton" href="resMoorHouse.php">Resúmenes por capítulo</a>
+                <a class="boton" href="resRegresoRochester.php">Resúmenes por capítulo</a>
 
             </section>
         </div>

@@ -9,6 +9,7 @@
     <link rel="icon" href="media/images/iconoPestanaClara.png">
 </head>
 <body>
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
         <!-- Logo con texto alternativo para lectores de pantalla -->
         <a href="index.php"><img class="logo" src="media/images/litGrande.png" alt="Litterally - Inicio"></a>

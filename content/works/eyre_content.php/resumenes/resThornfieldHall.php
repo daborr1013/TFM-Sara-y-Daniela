@@ -10,8 +10,9 @@
 </head>
 
 <body>
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png"></a>
+        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -32,11 +33,12 @@
         </ul>
     </nav>
 
-    <div class="layout">
-        <div class="sidebar">
-            <nav class="navbar-sidebar">    
-                <ul class="menu-sidebar">
-                    <li><a class="active" href="../inicio_eyre.php">Inicio</a></li>
+    <main id="main">
+        <div class="layout">
+            <div class="sidebar">
+                <nav class="navbar-sidebar">    
+                    <ul class="menu-sidebar">
+                        <li><a class="active" href="../inicio_eyre.php">Inicio</a></li>
 
                     <li><a href="../intro_obra.php">Introducción a la obra</a></li>
 
@@ -83,7 +85,7 @@
         <section class="contenido">
             <h1>Resumen bloque <i>Thornfield Hall</i></h1>
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap11.php">Capítulo XI</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap11.php">Capítulo XI</a>
             </h3>
             <p class="pjustificado">Jane llega a Thornfield Hall de noche, encontrando un interior acogedor que contrasta con la oscuridad exterior. Allí la recibe la Sra. Fairfax, 
                 una anciana amable que Jane confunde con la dueña, aunque pronto aclara que es solo la ama de llaves. El verdadero dueño es el Sr. Rochester, un hombre excéntrico y viajero 
@@ -92,7 +94,7 @@
                 culpando a Grace Poole, una costurera de carácter difícil y errático que trabaja en la casa. Aunque Jane acepta la explicación, la inquietud queda sembrada en el ambiente.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap12.php">Capítulo XII</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap12.php">Capítulo XII</a>
             </h3>
             <p class="pjustificado">La vida en Thornfield resulta agradable para Jane; Adèle es una alumna vivaz aunque algo consentida, y Jane disfruta de la paz de la mansión, 
                 aunque a veces siente una inquietud errante que la lleva a recorrer los pasillos del piso superior. Una tarde de invierno, mientras pasea sola bajo la luna, escucha 
@@ -102,7 +104,7 @@
                 por los criados de que el hombre al que ayudó no es otro que el Sr. Rochester, quien acaba de regresar a su hogar con un tobillo torcido tras el accidente.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap13.php">Capítulo XIII</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap13.php">Capítulo XIII</a>
             </h3>
             <p class="pjustificado">Al día siguiente de su accidentado encuentro, Rochester invita a Jane y a Adèle a tomar el té. Su comportamiento es brusco, frío y errático, rompiendo
                 con todas las etiquetas sociales esperadas de un anfitrión. Sin embargo, se queda fascinado al examinar los dibujos de Jane, reconociendo en ellos una mente profunda y 
@@ -112,7 +114,7 @@
                 años, Edward se convirtió en el dueño de Thornfield, una posición que parece ocupar más por deber que por gusto.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap14.php">Capítulo XIV</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap14.php">Capítulo XIV</a>
             </h3>
             <p class="pjustificado">Una noche, en un estado de ánimo más relajado (y algo ebrio), Rochester manda llamar a Jane y a Adèle. Mientras la niña se entretiene con sus regalos, 
                 Rochester se muestra inusualmente parlanchín y desafiante. En un momento de sinceridad brutal, le pregunta a Jane si lo encuentra guapo; ella, sin pensarlo, responde con un 
@@ -122,7 +124,7 @@
                 a la madre de Adèle, dejando a Jane con la intriga de un secreto que Rochester promete revelarle pronto.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap15.php">Capítulo XV</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap15.php">Capítulo XV</a>
             </h3>
             <p class="pjustificado">Rochester cumple su promesa y revela a Jane su pasado: tuvo un romance con una bailarina francesa, Céline Varens, quien le fue infiel con otro hombre.
                 Aunque Rochester duda que Adèle sea su hija biológica (ya que no se le parece en nada), decidió traerla a Inglaterra para que no quedara abandonada cuando su madre la dejó. 
@@ -133,7 +135,7 @@
                 deja a Jane incapaz de dormir.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap16.php">Capítulo XVI</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap16.php">Capítulo XVI</a>
             </h3>
             <p class="pjustificado">Al día siguiente, Jane se asombra al ver que el intento de asesinato no ha causado ningún escándalo; los criados creen que fue un accidente con una
                 vela y la propia Grace Poole cose tranquilamente como si nada hubiera pasado. Jane no entiende por qué Rochester protege a una criminal, pero sus pensamientos pronto se
@@ -143,7 +145,7 @@
                 Al compararlos, se obliga a recordar su posición como una "pobre institutriz plana" para no hacerse falsas esperanzas con un hombre de la clase de Rochester.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap17.php">Capítulo XVII</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap17.php">Capítulo XVII</a>
             </h3>
             <p class="pjustificado">Tras una semana de angustia pensando que Rochester se irá a Europa por un año, la Sra. Fairfax recibe noticias de que él regresará con una gran comitiva de invitados. 
                 Mientras preparan la casa, Jane sigue desconcertada por Grace Poole: escucha a los criados murmurar sobre el sueldo inusualmente alto que recibe la costurera, lo que confirma sus sospechas
@@ -154,7 +156,7 @@
                 cortando la frase justo a tiempo.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap18.php">Capítulo XVIII</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap18.php">Capítulo XVIII</a>
             </h3>
             <p class="pjustificado">La estancia de los invitados continúa y Jane observa con dolor cómo Rochester y Blanche Ingram actúan como la pareja perfecta, compitiendo juntos en juegos de mímica
                 (charades). Jane llega a la amarga conclusión de que se casarán pronto, aunque nota que no hay amor: Blanche busca la fortuna de él, y él busca la belleza y el estatus de ella.</p>
@@ -164,7 +166,7 @@
                 futuro con Rochester.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap19.php">Capítulo XIX</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap19.php">Capítulo XIX</a>
             </h3>
             <p class="pjustificado">Jane entra en la biblioteca con escepticismo, pero pronto queda fascinada por las palabras de la supuesta gitana. La anciana demuestra conocer los sentimientos
                 más íntimos de Jane y le asegura que está muy cerca de alcanzar la felicidad. Además, le confiesa el truco que usó con Blanche Ingram: le dijo que la fortuna de Rochester no era tan
@@ -174,7 +176,7 @@
                 se apoya en Jane, visiblemente perturbado por la presencia de este hombre de su pasado.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap20.php">Capítulo XX</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap20.php">Capítulo XX</a>
             </h3>
             <p class="pjustificado">La paz de la noche se rompe con un grito desgarrador. Rochester calma a los invitados diciendo que ha sido la pesadilla de un criado, pero poco después busca
                 a Jane en secreto. Tras preguntarle si teme a la sangre, la lleva al tercer piso, donde encuentran al Sr. Mason apuñalado y mordido en el brazo. Rochester deja a Jane sola cuidando
@@ -185,7 +187,7 @@
                 Rochester termina la charla sugiriendo que casarse con Blanche es su única salida, dejándola sumida en la confusión.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap21.php">Capítulo XXI</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap21.php">Capítulo XXI</a>
             </h3>
             <p class="pjustificado">Tras una serie de sueños premonitorios con bebés (mal augurio en el folclore inglés), Jane recibe noticias devastadoras: su primo John Reed se ha suicidado
                 tras una vida de excesos, y su tía, la Sra. Reed, ha sufrido un derrame cerebral. Jane regresa a su antiguo hogar, donde se reencuentra con una Bessie fiel y con sus primas: 
@@ -196,7 +198,7 @@
                 que tanto maltrató.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap22.php">Capítulo XXII</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap22.php">Capítulo XXII</a>
             </h3>
             <p class="pjustificado">Jane prolonga su estancia en Gateshead un mes más para ayudar a sus primas a organizar sus vidas tras la muerte de su tía: Georgiana se marcha a Londres y Eliza
                 ingresa en un convento en Francia (donde acabará siendo Madre Superiora). Antes de irse, Jane recibe noticias de la Sra. Fairfax: los invitados se han ido y Rochester ha viajado 
@@ -207,7 +209,7 @@
                 de Adèle refuerza esa sensación de pertenencia que Jane nunca antes había sentido.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap23.php">Capítulo XXIII</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap23.php">Capítulo XXIII</a>
             </h3>
             <p class="pjustificado">Tras dos semanas de tensa calma, Rochester encuentra a Jane en el jardín y la invita a pasear. Con crueldad aparente, le confirma que se casará con Blanche y
                 que ha encontrado para ella un puesto de institutriz en Irlanda. La idea de cruzar el mar y alejarse de él rompe la compostura de Jane. Sentados bajo un gran castaño, Rochester
@@ -218,7 +220,7 @@
                 un símbolo clarísimo de que su unión está marcada por la tragedia.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap24.php">Capítulo XXIV</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap24.php">Capítulo XXIV</a>
             </h3>
             <p class="pjustificado">Los preparativos de la boda comienzan, pero no traen la paz que Jane esperaba. La Sra. Fairfax se muestra fría y desaprobadora; incluso tras saber que hay
                 un compromiso formal, advierte a Jane que sea cautelosa, sugiriendo que la diferencia de edad y clase social es un peligro. Jane misma se siente inquieta, casi asustada,
@@ -229,7 +231,7 @@
                 en una posición de mayor dignidad frente a la fortuna de Rochester.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap25.php">Capítulo XXV</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap25.php">Capítulo XXV</a>
             </h3>
             <p class="pjustificado">La víspera de la boda, Jane espera a Rochester con una ansiedad creciente. Cuando él llega, ella le confiesa una experiencia aterradora que ocurrió la noche anterior: 
                 mientras dormía, una mujer de aspecto "salvaje" y facciones gruesas entró en su habitación, se probó el velo de novia de Jane ante el espejo y, acto seguido, lo rasgó en dos antes de pisotearlo.</p>
@@ -239,7 +241,7 @@
                 de su vida conocida.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap26.php">Capítulo XXVI</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap26.php">Capítulo XXVI</a>
             </h3>
             <p class="pjustificado">El día de la boda comienza con una nota de presagio cuando Jane ve a dos extraños en el cementerio de la iglesia. En plena ceremonia, cuando el clérigo pregunta
                 si hay algún impedimento, uno de los extraños, el abogado Sr. Briggs, interviene: Rochester ya está casado. Revela que hace quince años, en Jamaica, Rochester contrajo matrimonio
@@ -252,7 +254,7 @@
                 a la traición del hombre que ama.</p>
 
             <h3>
-                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11-27)/cap27.php">Capítulo XXVII</a>
+                <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap27.php">Capítulo XXVII</a>
             </h3>
             <p class="pjustificado">Jane sale de su habitación y encuentra a Rochester esperándola. Aunque lo perdona internamente, se mantiene firme. Rochester la lleva a la biblioteca y
                 le hace una propuesta desesperada: huir juntos al sur de Francia para vivir como marido y mujer. Jane se niega rotundamente, pues sabe que, ante la ley y su propia conciencia, 
@@ -270,6 +272,7 @@
             </section>
         </section>
     </div>
+    </main>
 </body>
 </html>
 

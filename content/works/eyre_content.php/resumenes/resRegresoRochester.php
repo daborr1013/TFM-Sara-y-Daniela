@@ -10,8 +10,9 @@
 </head>
 
 <body>
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png"></a>
+        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -32,6 +33,7 @@
         </ul>
     </nav>
 
+    <main id="main">
     <div class="layout">
             <div class="sidebar">
                 <nav class="navbar-sidebar">    
@@ -83,7 +85,7 @@
         <section class="contenido">
             <h1>Resumen bloque <i>Regreso a Rochester</i></h1>
             <h3>
-                <a class="boton" href="../caps/5.Regreso a Rochester (Cap. 36-38)/cap36.php">Capítulo XXXVI</a>
+                <a class="boton" href="../caps/5.Regreso a Rochester (Cap. 36–38)/cap36.php">Capítulo XXXVI</a>
             </h3>
             <p class="pjustificado">Jane emprende un viaje de dos días en carruaje hacia el distrito de Millcote. Su impaciencia es tal que decide caminar 
                 la última parte del trayecto. Al acercarse a Thornfield Hall, espera ver la imponente mansión de siempre, pero lo que encuentra es una visión desoladora:
@@ -94,7 +96,7 @@
                 El resultado fue devastador: perdió la vista y le tuvieron que amputar una mano.</p>
 
             <h3>
-                <a class="boton" href="../caps/5.Regreso a Rochester (Cap. 36-38)/cap37.php">Capítulo XXXVII</a>
+                <a class="boton" href="../caps/5.Regreso a Rochester (Cap. 36–38)/cap37.php">Capítulo XXXVII</a>
             </h3>
             <p class="pjustificado">Jane se acerca a la casa y ve a Rochester salir a la puerta. Se queda impactada: su aspecto es descuidado, su mirada fija y sin brillo, y
                 se mueve con una tristeza errática. Parece un "león enjaulado". Jane entra en la casa, se encuentra con los antiguos criados (Mary y John) y toma una bandeja
@@ -106,7 +108,7 @@
                 a la misma hora y el mismo día (el evento místico del Capítulo 35).</p>
 
             <h3>
-                <a class="boton" href="../caps/5.Regreso a Rochester (Cap. 36-38)/cap38.php">Capítulo XXXVIII</a>
+                <a class="boton" href="../caps/5.Regreso a Rochester (Cap. 36–38)/cap38.php">Capítulo XXXVIII</a>
             </h3>
             <p class="pjustificado">Jane y Rochester celebran una boda tranquila y privada. No hay grandes lujos ni invitados pretenciosos; su unión se basa ahora en una igualdad total. 
                 Jane explica que ser su esposa es ser la parte más feliz de su propia existencia: ella es sus ojos (le describe el mundo) y él es su guía espiritual.</p>
@@ -123,6 +125,7 @@
                 <a class="boton" href="../contenido_eyre.php">Regresar a contenido</a>
             </section>
     </div>
+    </main>
 </body>
 </html>
 

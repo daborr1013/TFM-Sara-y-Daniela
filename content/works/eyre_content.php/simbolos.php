@@ -8,8 +8,10 @@
 </head>
 <body>
 
+<a href="#main" class="skip-link">Saltar a contenido principal</a>
+
 <header>
-    <a href="../../../index.php"><img class="logo" src="../../../media/images/litGrande.png"></a>
+    <a href="../../../index.php"><img class="logo" src="../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
 </header>
 
 <nav class="navbar">
@@ -29,9 +31,9 @@
     </ul>
 </nav>
 
-<main>
+<main id="main">
     <section class="hero">
-        <h2>Símbolos</h2>
+        <h1>Símbolos</h1>
         <p>Obra esencial de la literatura inglesa del siglo XIX.</p>
     </section>
 

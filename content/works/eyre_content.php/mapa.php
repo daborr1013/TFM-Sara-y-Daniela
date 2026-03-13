@@ -15,8 +15,10 @@
 </head>
 <body>
 
+<a href="#main" class="skip-link">Saltar a contenido principal</a>
+
 <header>
-    <a href="../../../index.php"><img class="logo" src="../../../media/images/litGrande.png"></a>
+    <a href="../../../index.php"><img class="logo" src="../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
 </header>
 
 <nav class="navbar">
@@ -36,9 +38,9 @@
     </ul>
 </nav>
 
-<main>
+<main id="main">
     <section class="hero">
-        <h2>Mapa</h2>
+        <h1>Mapa</h1>
         <p>Obra esencial de la literatura inglesa del siglo XIX.</p>
     </section>
 
@@ -91,7 +93,7 @@
             </div>
 
         <section class="pjustificado">
-            <button id="resetBtn" class="reset-button" title="Reset map to original view">↻</button>
+            <button id="resetBtn" class="reset-button" title="Reset map to original view" aria-label="Reiniciar vista del mapa"><span aria-hidden="true">↻</span></button>
             <div id="map"></div>
         </section>
     </div>

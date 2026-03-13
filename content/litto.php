@@ -10,6 +10,8 @@
 </head>
 <body>
 
+<a href="#main" class="skip-link">Saltar a contenido principal</a>
+
 <header>
     <!-- Logo con texto alternativo para lectores de pantalla -->
     <a href="../index.php"><img class="logo" src="../media/images/litGrande.png" alt="Litterally - Inicio"></a>
@@ -32,7 +34,7 @@
     </ul>
 </nav>
 
-<main>
+<main id="main">
     <div class="chat-container">
     <div class="chat-header">
         <!-- Encabezado principal h1 para mejor jerarquía semántica -->
@@ -45,7 +47,8 @@
         </div>
     </div>
     <form class="chat-input-area" id="chatForm">
-        <input type="text" id="messageInput" placeholder="Escribe tu mensaje..." required>
+        <label for="messageInput" class="sr-only">Mensaje de chat</label>
+        <input type="text" id="messageInput" placeholder="Escribe tu mensaje..." required aria-label="Mensaje de chat">
         <button type="submit">Enviar</button>
     </form>
 </div>

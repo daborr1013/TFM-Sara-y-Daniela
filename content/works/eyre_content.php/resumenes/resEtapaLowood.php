@@ -10,8 +10,9 @@
 </head>
 
 <body>
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png"></a>
+        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -32,6 +33,7 @@
         </ul>
     </nav>
 
+    <main id="main">
     <div class="layout">
             <div class="sidebar">
                 <nav class="navbar-sidebar">    
@@ -83,7 +85,7 @@
         <section class="contenido">
             <h1>Resumen bloque <i>Etapa en Lowood</i></h1>
             <h3>
-                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5-10)/cap5.php">Capítulo V</a>   
+                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap5.php">Capítulo V</a>   
             </h3>
             <p class="pjustificado">Jane emprende sola un largo viaje en carruaje hasta llegar a Lowood en un día gris y lluvioso. La atmósfera del edificio 
                 es sombría y austera, marcando un fuerte contraste con el lujo de Gateshead. Al día siguiente, Jane descubre la rígida disciplina del internado: 
@@ -94,7 +96,7 @@
                 el Señor Brocklehurst ejerce un control tiránico sobre cada detalle del lugar.</p>
 
             <h3>
-                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5-10)/cap6.php">Capítulo VI</a>   
+                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap6.php">Capítulo VI</a>   
             </h3>
             <p class="pjustificado">La vida en Lowood se revela en toda su dureza: las niñas despiertan con el agua de las palanganas congelada y sufren hambre constante
                 y sermones interminables. En este ambiente de privación, Jane observa con asombro a Helen Burns, quien soporta con una paciencia sobrehumana los castigos
@@ -104,7 +106,7 @@
                 Helen se critica a sí misma por ser "distraída" y soñar con su hogar, demostrando un nivel de autodisciplina que Jane aún no logra comprender.</p>
 
             <h3>
-                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5-10)/cap7.php">Capítulo VII</a>    
+                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap7.php">Capítulo VII</a>    
             </h3>
             <p class="pjustificado">Tras un mes de ausencia, el Señor Brocklehurst regresa a Lowood, aumentando la ansiedad de Jane. Durante su inspección, 
                 Jane deja caer accidentalmente su pizarra, lo que el director aprovecha para descargar su furia. Cumpliendo la promesa que le hizo a la Sra. Reed, 
@@ -113,7 +115,7 @@
                 cómplices y silenciosas cada vez que pasa a su lado, demostrando una lealtad que ayuda a Jane a soportar la humillación pública.</p>
 
             <h3>
-                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5-10)/cap8.php">Capítulo VIII</a>    
+                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap8.php">Capítulo VIII</a>    
             </h3>
             <p class="pjustificado">Tras la humillación, Jane se derrumba creyendo que su reputación está destruida para siempre, pero Helen la consuela asegurándole que sus compañeras
                 s sienten lástima por ella, no desprecio. Poco después, Miss Temple invita a ambas a su habitación y permite que Jane cuente su verdadera historia sobre Gateshead y la tía Reed.</p>
@@ -122,7 +124,7 @@
                 Miss Temple limpia el nombre de Jane ante toda la escuela. Liberada de la etiqueta de "mentirosa", Jane se entrega con pasin a sus estudios, destacando pronto en dibujo y francs.</p>
 
             <h3>
-                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5-10)/cap9.php">Capítulo IX</a>    
+                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap9.php">Capítulo IX</a>    
             </h3>
             <p class="pjustificado">Con la llegada de la primavera, la ubicación insalubre de Lowood provoca un brote masivo de tifus que afecta a más de la mitad de las niñas. 
                 Mientras Jane se mantiene sana y disfruta de una libertad inusual jugando al aire libre, descubre con horror que Helen Burns está agonizando, pero no de tifus, 
@@ -132,7 +134,7 @@
                 Helen ha muerto. Quince años después, se coloca sobre su tumba una placa con la palabra <i>Resurgam</i> ("Resurgir"), simbolizando la fe de Helen y el impacto eterno que dejó en Jane.</p>
 
             <h3>
-                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5-10)/cap10.php">Capítulo X</a>    
+                <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap10.php">Capítulo X</a>    
             </h3>
             <p class="pjustificado">Tras el escándalo del tifus, una nueva directiva asume el control de Lowood, mejorando drásticamente las condiciones de vida. Jane pasa allí ocho años: 
                 seis como alumna brillante y dos como maestra. Sin embargo, tras el matrimonio y la partida de su mentora, Miss Temple, Jane siente que su mundo se ha quedado pequeño y 
@@ -145,6 +147,7 @@
                     <a class="boton" href="../contenido_eyre.php">Regresar a contenido</a>
                 </section>
     </div>
+   </main>
 </body>
 </html>
 

@@ -7,9 +7,10 @@
     <link rel="icon" href="../../../media/images/iconoPestanaClara.png">
 </head>
 <body>
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
 
 <header>
-    <a href="../../../index.php"><img class="logo" src="../../../media/images/litGrande.png"></a>
+    <a href="../../../index.php"><img class="logo" src="../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
 </header>
 
 <nav class="navbar">
@@ -30,9 +31,9 @@
     </ul>
 </nav>
 
-<main>
+<main id="main">
     <section class="hero">
-        <h2>Capítulos</h2>
+        <h1>Capítulos</h1>
     </section>
 
     <div class="layout">

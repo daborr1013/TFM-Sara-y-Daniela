@@ -10,6 +10,8 @@
 </head>
 <body>
 
+<a href="#main" class="skip-link">Saltar a contenido principal</a>
+
 <header>
     <!-- Logo con texto alternativo para lectores de pantalla -->
     <a href="../index.php"><img class="logo" src="../media/images/litGrande.png" alt="Litterally - Inicio"></a>
@@ -32,7 +34,7 @@
     </ul>
 </nav>
 
-<main>
+<main id="main">
     <section class="hero">
         <!-- Encabezado principal h1 para mejor jerarquía semántica -->
         <h1>Daniela Borrego & Sara Escribano</h1>
