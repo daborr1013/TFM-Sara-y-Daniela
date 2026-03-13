@@ -5,7 +5,7 @@
     <!-- Meta viewport para accesibilidad en dispositivos móviles -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Litterally</title>
-    <link rel="stylesheet" href="../css/css_index.css">
+    <link rel="stylesheet" href="../css/css_litterally.css">
     <link rel="icon" href="../media/images/iconoPestanaClara.png">
 </head>
 <body>

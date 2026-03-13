@@ -226,11 +226,21 @@ main {
 }
 
 .hero {
+    background: linear-gradient(135deg, #5d3d88 0%, #7a59a8 100%);
     color: white;
-    padding: 20px 20px;
+    padding: 80px 20px;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 50px;
+    margin: 40px auto;
+    width: 85%;
+}
+
+.hero h1 {
+    color: white;
     margin: 0;
+    padding: 0;
+    width: auto;
+    background: none;
 }
 
 .hero h2 {
