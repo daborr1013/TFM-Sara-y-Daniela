@@ -84,6 +84,15 @@
             </div>
             
             <section class="contenido">
+                <section class="">
+                    <p>aqui van los resumenes xoxo gossip girl</p>
+                </section>
+                <a class="boton" href="resumenes/resInfanciaGateshead.php">Resúmenes por capítulo</a>
+                <a class="boton" href="resumenes/resEtapaLowood.php">Resúmenes por capítulo</a>
+                <a class="boton" href="resumenes/resThornfieldHall.php">Resúmenes por capítulo</a>
+                <a class="boton" href="resumenes/resMoorHouse.php">Resúmenes por capítulo</a>
+                <a class="boton" href="resumenes/resRegresoRochester.php">Resúmenes por capítulo</a>
+
             </section>
         </div>
     </main>
