@@ -1,5 +1,5 @@
 <?php
-include '../database.php';
+require_once '../database.php';
 
 if (!isset($conn) || $conn->connect_error) {
     die("Database connection error: " . ($conn ? $conn->connect_error : "Connection not established"));
