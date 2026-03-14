@@ -84,7 +84,7 @@
             </div>
             
           <section class="pjustificado">
-                <h1>Señor Lloyd</h1>
+                <h1 class="h1personajes">Señor Lloyd</h1>
 
                 <img class="fpersonaje" src="../../../../../media/images/lloyd.png">
 

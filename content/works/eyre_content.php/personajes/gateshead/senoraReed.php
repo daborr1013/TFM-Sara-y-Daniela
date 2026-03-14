@@ -89,7 +89,7 @@
                 <img class="fpersonaje" src="../../../../../media/images/senoraReed.png">
 
                 <p>Es la viuda del tío de Jane, le hicieron prometer que cuidaría de Jane, pero como no le gusta la niña, hace 
-                    todo lo posible para que su vida sea un calvario.</p>
+                    todo lo posible para que su vida sea un calvario. Es la antagonista principal en la infancia de Jane.</p>
 
                 <h3>Personalidad e impacto en la vida de Jane</h3>
                 <p>Es una mujer fría, inflexible y muy preocupada por las apariencias y el estatus social. Su mayor defecto es su 

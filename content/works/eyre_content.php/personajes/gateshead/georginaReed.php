@@ -84,7 +84,7 @@
             </div>
             
             <section class="pjustificado">
-                <h1>Georgina Reed</h1>
+                <h1 class="h1personajes">Georgina Reed</h1>
 
                 <img class="fpersonaje" src="../../../../../media/images/georgina.png">
 

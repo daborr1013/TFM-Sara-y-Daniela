@@ -17,7 +17,7 @@
 }
 
 body {
-    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Inter', system-ui, sans-serif;
     margin: 0;
     padding: 0;
     min-height: 100vh;
@@ -64,7 +64,8 @@ nav a:hover {
     color: #f0d9a6;
 }
 
-nav a:focus, nav a:focus-visible {
+nav a:focus,
+nav a:focus-visible {
     outline: 2px solid #ffffff;
     outline-offset: 4px;
 }
@@ -122,7 +123,8 @@ nav a:focus, nav a:focus-visible {
     background: #5d3d88;
 }
 
-.dropdown-menu li a:focus, .dropdown-menu li a:focus-visible {
+.dropdown-menu li a:focus,
+.dropdown-menu li a:focus-visible {
     outline: 2px solid #ffffff;
     outline-offset: -2px;
     background: #5d3d88;
@@ -194,7 +196,7 @@ h3 {
 
 /* ===== BOTONES Y ELEMENTOS INTERACTIVOS ===== */
 .boton {
-    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Inter', system-ui, sans-serif;
     font-size: 15px;
     background-color: #a8dadc;
     text-align: center;
@@ -215,7 +217,8 @@ h3 {
     background-color: #8ecfe8;
 }
 
-.boton:focus, .boton:focus-visible {
+.boton:focus,
+.boton:focus-visible {
     outline: 3px solid #6a4c93;
     outline-offset: 2px;
 }
@@ -231,7 +234,7 @@ main {
 }
 
 .layout {
-    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Inter', system-ui, sans-serif;
     display: flex;
     align-items: flex-start;
     justify-content: center;
@@ -322,7 +325,7 @@ main {
     font-weight: 700;
     letter-spacing: 2.2px;
     text-transform: uppercase;
-    font-family: "Times New Roman", Georgia, serif;
+    font-family: 'Inter', system-ui, sans-serif;
     background: none;
     color: #fbf7ff;
     padding: 0;
@@ -449,7 +452,8 @@ main {
     transform: translateY(0);
 }
 
-.edit-profile:focus, .edit-profile:focus-visible {
+.edit-profile:focus,
+.edit-profile:focus-visible {
     outline: 3px solid #ffffff;
     outline-offset: 2px;
     box-shadow: 0 6px 20px rgba(42, 29, 63, 0.25), 0 0 0 4px rgba(210, 176, 108, 0.5);

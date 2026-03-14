@@ -84,7 +84,7 @@
             </div>
             
             <section class="pjustificado">
-                <h1>Jane Eyre</h1>
+                <h1 class="h1personajes">Jane Eyre</h1>
 
                 <img class="fpersonaje" src="../../../../../media/images/jane.png">
 

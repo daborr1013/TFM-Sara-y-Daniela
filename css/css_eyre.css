@@ -103,11 +103,13 @@ nav a:hover {
 }
 
 /* Estilos de foco para menú dropdown accesible con teclado */
-.dropdown-menu li a:focus, .dropdown-menu li a:focus-visible {
-  outline: 2px solid white;
-  outline-offset: -2px;
-  background: #694c93;
+.dropdown-menu li a:focus,
+.dropdown-menu li a:focus-visible {
+    outline: 2px solid white;
+    outline-offset: -2px;
+    background: #694c93;
 }
+
 /*sidebar*/
 .sidebar {
     width: 300px;
@@ -151,7 +153,7 @@ nav a:hover {
 .menu-sidebar a {
     font-family: 'Inter', system-ui, sans-serif;
     display: block;
-    padding: 10px 10px;
+    padding: 20px;
     margin: 17px 0;
     text-decoration: none;
     color: black;
@@ -191,18 +193,29 @@ nav a:hover {
 }
 
 /* Estilos de foco para menú sidebar accesible con teclado */
-.dropdown-menu-sidebar li a:focus, .dropdown-menu-sidebar li a:focus-visible {
+.dropdown-menu-sidebar li a:focus,
+.dropdown-menu-sidebar li a:focus-visible {
     outline: 2px solid #6a4c93;
     outline-offset: -2px;
     background-color: #e8e8e8;
     border-left-color: #6a4c93;
 }
+
 /*fin sidebar*/
 /* fin barra navegación */
 /*fin base*/
 
 /*texto*/
 h1 {
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 20px
+}
+
+.h1personajes {
+    background-color: #6a4c93;
     color: white;
     padding: 20px;
     font-size: 30px;

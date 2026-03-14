@@ -84,9 +84,9 @@
             </div>
             
            <section class="pjustificado">
-                <h1>Gaeorgina Reed</h1>
+                <h1 class="h1personajes">Adèle Varens</h1>
 
-                <img class="fpersonaje" src="../../../../../media/images/georgina.png">
+                <img class="fpersonaje" src="../../../../../media/images/adele.png">
 
                 <p></p>
 

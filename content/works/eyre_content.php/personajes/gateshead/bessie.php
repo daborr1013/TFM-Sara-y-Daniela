@@ -84,7 +84,7 @@
             </div>
             
             <section class="pjustificado">
-                <h1>Bessie</h1>
+                <h1 class="h1personajes">Bessie</h1>
 
                 <img class="fpersonaje" src="../../../../../media/images/bessie.png">
 

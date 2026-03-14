@@ -84,9 +84,9 @@
             </div>
             
             <section class="pjustificado">
-                <h1>Gaeorgina Reed</h1>
+                <h1 class="h1personajes">John Eyre</h1>
 
-                <img class="fpersonaje" src="../../../../../media/images/georgina.png">
+                <img class="fpersonaje" src="../../../../../media/images/johnEyre.png">
 
                 <p></p>
 
