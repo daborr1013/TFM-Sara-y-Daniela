@@ -86,28 +86,30 @@
             <section class="pjustificado">
                 <h1 class="h1personajes">Blanche Ingram</h1>
 
-                <img class="fpersonaje" src="../../../../../media/images/blanche.png">
+                <img class="fpersonaje" src="../../../../../media/images/ingram.png">
 
-                <p></p>
+                <p>La señorita Ingram es una joven de la alta sociedad que visita Thornfield junto a un grupo de aristócratas que van a pasar allí unos días. 
+                    Es descrita como una mujer de una belleza deslumbrante.</p>
 
                 <h3>Personalidad e impacto en la vida de Jane</h3>
-                <p></p>
+                <p>Es orgullosa, sarcástica y profundamente clasista. Blanche ve el mundo como un escenario para su propio lucimiento. No tiene interés real en Rochester como persona, 
+                    sino en su fortuna y en su estatus.</p>
                     
-                <p></p>
+                <p>Desprecia abiertamente a las institutrices delante de Jane y trata a Adèle con frialdad</p>
 
-                <p></p>
+                <p>Ver a Blanche junto a Rochester hace que Jane se sienta más "pequeña, plana y oscura" que nunca. Jane llega a dibujar un autorretrato de sí misma y un retrato idealizado 
+                    de Blanche para compararlos y castigarse por haber creído que Rochester podría amarla a ella.</p>
 
-                <p></p>
+                <p>Gracias a el comportamiento de la señorita Ingram, Jane se da cuenta de que la riqueza y la belleza no significan nada si el espíritu es pobre. A pesar de ser hermosa, no consigue 
+                    conectar con Rochester, lo que nos da una verdadera visión de la conexión real que Jane tiene con él
+                </p>
 
                 <h3>Importancia del personaje</h3>
-                <p></p>
+                <p>Brontë utiliza también a este personaje para criticar los matrimonios por conveniencia de la época victoriana. Ella representa el "ideal" social de esposa para un hombre como Rochester, 
+                    pero la autora demuestra que ese ideal es una cáscara vacía.</p>
 
-                <p></p>
-
-                <p></p>
-                <p></p>
-                <p></p>
-
+                <p>Es la anti-Jane. Representa todo lo que la sociedad valora (estatus, dinero, belleza física) frente a lo que Brontë valora (intelecto, moralidad, pasión verdadera). Su fracaso al intentar 
+                    conquistar a Rochester demuestra que la señorita Ingram solo ama el dinero.</p>
              </section>
         </div>
     </main>

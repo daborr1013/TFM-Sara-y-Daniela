@@ -88,26 +88,26 @@
 
                 <img class="fpersonaje" src="../../../../../media/images/gracePoole.png">
 
-                <p></p>
+                <p>Es una sirvienta de mediana edad contratada por Rochester para una tarea muy específica y peligrosa: vigilar a Bertha Mason en el ático.</p>
+
+                <p>A lo largo de la novela, Grace es una figura misteriosa y ambigua. Jane la describe como una mujer de aspecto común, algo ruda, de cara plana y sin mucha expresión.</p>
 
                 <h3>Personalidad e impacto en la vida de Jane</h3>
-                <p></p>
+                <p>Es completamente discreta respecto al tema de Bertha. No habla de ella, no da detalles y parece estar más interesada en su paga que en la salud mental de la mujer a la que cuida.</p>
                     
-                <p></p>
+                <p>Es solitaria, taciturna y parece no tener amigos en la casa. Su rasgo más humano y problemático es su debilidad por la ginebra. Cuando bebe más de la cuenta, se queda dormida, momento que 
+                    Bertha aprovecha para escapar de su celda y sembrar el caos.</p>
 
-                <p></p>
+                <p>Jane está convencida durante casi toda su estancia en Thornfield de que Grace es la responsable de las risas fantasmales, del incendio en la habitación de Rochester y del ataque a Richard Mason. 
+                    Jane la mira con una mezcla de miedo y fascinación, preguntándose cómo una mujer tan "normal" y "vulgar" puede ser tan malvada.</p>
 
-                <p></p>
+                <p>Al creer que Grace es la culpable, la mente de Jane no sospecha la existencia de otra mujer. Esto permite que el romance entre Jane y Rochester crezca en una falsa sensación de seguridad.</p>
 
                 <h3>Importancia del personaje</h3>
-                <p></p>
+                <p>Grace Poole es fundamental para la trama porque su presencia oculta la verdad sobre Bertha Mason. Si Jane hubiera sabido desde el principio que había otra mujer en la casa, su relación con Rochester 
+                    habría sido muy diferente. Él deja que Jane crea que Grace es simplemente una empleada excéntrica o peligrosa que él mantiene por "misericordia" o razones inexplicables.</p>
 
-                <p></p>
-
-                <p></p>
-                <p></p>
-                <p></p>
-
+                <p>Brontë la utiliza para jugar con el lector. Es la encarnación de la sospecha. Representa la clase trabajadora que guarda los secretos de la aristocracia.</p>
              </section>
         </div>
     </main>

@@ -114,62 +114,34 @@
                     <td><a class="boton" href="personajes/gateshead/senoraReed.php">Señora Reed</a></td>
                     <td><a class="boton" href="personajes/lowood/brocklehurst.php">Brocklehurst</a></td>
                     <td><a class="boton" href="personajes/thornfield/bertha.php">Bertha Mason</a></td>
-                    <td><a class="boton" href="personajes/moorhouse/rosamond.php">Rosamond Oliver</a></td>
+                    <td><a class="boton" href="personajes/moorhouse/johnRivers.php">John Rivers</a></td>
                 </tr>
 
                 <tr>
                     <td><a class="boton" href="personajes/gateshead/elizaReed.php">Eliza Reed</a></td>
                     <td></td>                    
                     <td><a class="boton" href="personajes/thornfield/fairfaix.php">Señora Fairfaix</a></td>
-                    <td><a class="boton" href="personajes/moorhouse/johnRivers.php">John Rivers</a></td>
+                    <td></td>
                 </tr>
 
                 <tr>
                     <td><a class="boton" href="personajes/gateshead/johnReed.php">John Reed</a></td>
                     <td></td>
-                    <td><a class="boton" href="personajes/thornfield/sophie.php">Sophie</a></td>
+                    <td><a class="boton" href="personajes/thornfield/gracePoole.php">Grace Poole</a></td>
                     <td></td>
                 </tr>
                 
                 <tr>
                     <td><a class="boton" href="personajes/gateshead/georginaReed.php">Georgina Reed</a></td>
                     <td></td>
-                    <td><a class="boton" href="personajes/thornfield/gracePoole.php">Grace Poole</a></td>                    
+                    <td><a class="boton" href="personajes/thornfield/ingram.php">Blanche Ingram</a></td>                    
                     <td></td>
                 </tr>
                 
                 <tr>
                     <td><a class="boton" href="personajes/gateshead/lloyd.php">Señor Lloyd</a></td>                    
                     <td></td>
-                    <td><a class="boton" href="personajes/thornfield/celineVarens.php">Celine Varens</a></td>
                     <td></td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td><a class="boton" href="personajes/thornfield/ingram.php">Blanche Ingram</a></td>               
-                    <td></td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td><a class="boton" href="personajes/thornfield/johnEyre.php">John Eyre</a></td>
-                    <td></td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td><a class="boton" href="personajes/thornfield/mason.php">Richard Mason</a></td>
-                    <td></td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td><a class="boton" href="personajes/thornfield/briggs.php">Señor Briggs</a></td>
                     <td></td>
                 </tr>
             </table>
