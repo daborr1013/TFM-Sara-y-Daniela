@@ -22,6 +22,8 @@ body {
     padding: 0;
     background-color: #eceaea;
     text-align: center;
+    /* Mejora de legibilidad: line-height consistente */
+    line-height: 1.6;
 }
 
 header{
@@ -50,20 +52,26 @@ nav{
 nav a {
     display: inline-block;
     margin: 0 15px;
+    padding: 8px 12px;
+    /* Agregar padding para mejor área clickeable */
     color: #f7f1ff;
     text-decoration: none;
     font-weight: 500;
-    transition: color 0.25s ease, outline 0.25s ease;
+    border-radius: 4px;
+    transition: color 0.25s ease, outline 0.25s ease, background-color 0.25s ease;
     outline: 2px solid transparent;
 }
 
 nav a:hover {
     color: #f0d9a6;
+    background-color: rgba(240, 217, 166, 0.15);
 }
 
+/* Focus state para accesibilidad de teclado */
 nav a:focus, nav a:focus-visible {
-    outline: 2px solid #ffffff;
+    outline: 3px solid #ffffff;
     outline-offset: 4px;
+    background-color: rgba(240, 217, 166, 0.2);
 }
 
 .menu {
@@ -100,9 +108,12 @@ nav a:focus, nav a:focus-visible {
 }
 
 .dropdown-menu li a {
-  padding: 10px 15px;
+  padding: 12px 15px;
+  /* Aumentar padding */
   display: block;
   color: #fefbff;
+  text-decoration: none;
+  transition: background-color 0.25s ease;
 }
 
 .dropdown:hover .dropdown-menu {
@@ -185,34 +196,51 @@ nav a:focus, nav a:focus-visible {
 /*fin de otros elementos visuales*/
 
 /*textos*/
+/* Encabezado principal h1 */
 h1 {
     background-color: #6a4c93;
     color: white;
     padding: 20px;
-    font-size: 30px;
+    font-size: 2rem;
+    /* Aumentado para mejor jerarquía */
+    font-weight: 700;
     text-align: center;
+    line-height: 1.3;
+    border-radius: 20px;
 }
 
+/* Encabezado secundario h2 */
 h2 {
     font-style: italic;
     color: black;
+    font-size: 1.5rem;
+    font-weight: 600;
     margin-top: 20px;
+    margin-bottom: 15px;
+    line-height: 1.4;
 }
 
+/* Encabezado terciario h3 */
 h3 {
-    font-weight: bold;
+    font-weight: 600;
+    font-size: 1.2rem;
+    color: #6a4c93;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    line-height: 1.4;
 }
 
 .pjustificado{
-    font-size: 18px;
+    font-size: 1.05rem;
     text-align: justify;
     text-indent: 20px;
-    margin: 50px auto;
-    margin-bottom: 20px;
+    margin: 20px auto;
+    margin-bottom: 15px;
+    line-height: 1.8;
     background: linear-gradient(135deg, #6a4c93 0%, #a8dadc 100%);
     color: white;
     padding: 30px;
-    border-radius: 50px;
+    border-radius: 20px;
     width: 85%;
 }
 
@@ -232,12 +260,16 @@ h3 {
     padding: 0;
     width: auto;
     background: none;
+    font-size: 2.2rem;
+    line-height: 1.3;
 }
 
 .hero h2 {
     color: white;
     margin: 0;
-    font-size: 40px;
+    font-size: 1.8rem;
+    font-weight: 600;
+    line-height: 1.4;
 }
 /*fin de textos*/
 

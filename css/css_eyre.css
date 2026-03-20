@@ -22,6 +22,8 @@ body {
     padding: 0;
     background-color: #eceaea;
     text-align: center;
+    /* Mejora de legibilidad: line-height consistente */
+    line-height: 1.6;
 }
 
 header {
@@ -46,13 +48,28 @@ footer {
 nav a {
     display: inline-block;
     margin: 0 15px;
+    padding: 8px 12px;
+    /* Agregar padding para mejor área clickeable */
     text-decoration: none;
     font-weight: 500;
-    transition: color 0.3s;
+    border-radius: 4px;
+    /* Sutiles bordes redondeados */
+    transition: color 0.3s, background-color 0.3s, outline 0.3s;
+    /* Agregar transición suave */
 }
 
 nav a:hover {
     color: #6a4c93;
+    background-color: rgba(106, 76, 147, 0.1);
+    /* Feedback visual en hover */
+}
+
+/* Focus state para accesibilidad de teclado */
+nav a:focus,
+nav a:focus-visible {
+    outline: 3px solid #6a4c93;
+    outline-offset: 2px;
+    background-color: rgba(106, 76, 147, 0.15);
 }
 
 .menu {
@@ -86,12 +103,19 @@ nav a:hover {
     padding: 0;
     min-width: 150px;
     z-index: 1000;
+    border-radius: 4px;
+    /* Mejora visual */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    /* Sombra para separación */
 }
 
 .dropdown-menu li a {
-    padding: 10px 15px;
+    padding: 12px 15px;
+    /* Aumentar padding */
     display: block;
     color: white;
+    text-decoration: none;
+    transition: background-color 0.25s ease;
 }
 
 .dropdown:hover .dropdown-menu {
@@ -102,7 +126,7 @@ nav a:hover {
     background: #694c93;
 }
 
-/* Estilos de foco para menú dropdown accesible con teclado */
+/* Mejora focus states en dropdown para accesibilidad */
 .dropdown-menu li a:focus,
 .dropdown-menu li a:focus-visible {
     outline: 2px solid white;
@@ -120,22 +144,39 @@ nav a:hover {
     margin-right: 20px;
     margin-left: 20px;
     border-left: 4px solid #6a4c93;
-
     position: sticky;
     top: 20px;
-
     max-height: calc(100vh - 40px);
     overflow-y: auto;
 }
 
 .sidebar a {
     display: block;
-    padding: 10px;
-    margin: 0;
+    padding: 12px;
+    /* Aumentar padding para mejor clickeabilidad */
+    margin: 5px 0;
     text-decoration: none;
     color: black;
     background-color: white;
     border-radius: 5px;
+    font-weight: 500;
+    transition: background-color 0.3s, outline 0.3s;
+    /* Smooth transitions */
+    outline: 2px solid transparent;
+}
+
+/* Hover state para sidebar */
+.sidebar a:hover {
+    background-color: #f0d9a6;
+    color: #6a4c93;
+}
+
+/* Focus state para navegación por teclado */
+.sidebar a:focus,
+.sidebar a:focus-visible {
+    outline: 2px solid #6a4c93;
+    outline-offset: 2px;
+    background-color: #f0d9a6;
 }
 
 .menu-sidebar {
@@ -153,20 +194,32 @@ nav a:hover {
 .menu-sidebar a {
     font-family: 'Inter', system-ui, sans-serif;
     display: block;
-    padding: 20px;
-    margin: 17px 0;
+    padding: 15px 20px;
+    /* Mejor padding vertical */
+    margin: 10px 0;
     text-decoration: none;
     color: black;
     background-color: white;
     border-radius: 5px;
-    transition: all 0.3s;
+    transition: all 0.3s ease;
+    /* Smooth all transitions */
     border-left: 3px solid transparent;
+    font-weight: 500;
 }
 
 .menu-sidebar a:hover {
     background-color: #e8e8e8;
     border-left-color: #6a4c93;
     padding-left: 20px;
+}
+
+/* Focus state para accesibilidad */
+.menu-sidebar a:focus,
+.menu-sidebar a:focus-visible {
+    outline: 2px solid #6a4c93;
+    outline-offset: 2px;
+    background-color: #e8e8e8;
+    border-left-color: #6a4c93;
 }
 
 .dropdown-sidebar .dropdown-menu-sidebar {
@@ -183,8 +236,11 @@ nav a:hover {
 .dropdown-menu-sidebar li a {
     background-color: #ffffff;
     margin: 5px 0;
-    padding: 10px 10px;
+    padding: 12px 15px;
+    /* Mejor padding */
     border-left: 3px solid transparent;
+    font-weight: 500;
+    transition: all 0.25s ease;
 }
 
 .dropdown-menu-sidebar li a:hover {
@@ -206,46 +262,75 @@ nav a:hover {
 /*fin base*/
 
 /*texto*/
+/* Encabezado principal h1 - mejor jerarquía visual */
 h1 {
     color: white;
     padding: 20px;
-    font-size: 30px;
+    font-size: 2rem;
+    /* Aumentado para mejorar jerarquía */
+    font-weight: 700;
     text-align: center;
-    border-radius: 20px
+    border-radius: 20px;
+    line-height: 1.3;
+    /* Mejor espaciado de líneas */
 }
 
 .h1personajes {
     background-color: #6a4c93;
     color: white;
     padding: 20px;
-    font-size: 30px;
+    font-size: 2rem;
+    font-weight: 700;
     text-align: center;
-    border-radius: 20px
+    border-radius: 20px;
+    line-height: 1.3;
 }
 
-
-
+/* Encabezado secundario - mejor contraste de tamaño */
 h2 {
     font-style: italic;
     color: black;
+    font-size: 1.5rem;
+    /* Aumentado para separación visual clara */
+    font-weight: 600;
     margin-top: 20px;
+    margin-bottom: 15px;
+    line-height: 1.4;
 }
 
+/* Encabezado terciario */
 h3 {
-    font-weight: bold;
+    font-weight: 600;
+    font-size: 1.2rem;
+    color: #6a4c93;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    line-height: 1.4;
 }
 
 h4 {
     text-align: center;
     justify-content: center;
+    font-size: 1.1rem;
+    font-weight: 600;
+    line-height: 1.4;
 }
 
+/* Párrafos justificados - mejor legibilidad */
 .pjustificado {
-    font-size: 18px;
+    font-size: 1.05rem;
+    /* Aumentado ligeramente */
     text-align: justify;
     text-indent: 20px;
-    margin: 30px;
-    margin-bottom: 20px;
+    /* Sangría de primer párrafo */
+    margin: 20px auto;
+    /* Márgenes consistentes */
+    margin-bottom: 15px;
+    line-height: 1.8;
+    /* Aumentado para mejor legibilidad */
+    max-width: 900px;
+    /* Limitar ancho para legibilidad */
+    padding: 0 20px;
 }
 
 .pjustificado h3 {
@@ -287,6 +372,7 @@ h4 {
 .logo {
     width: 10%;
     text-align: center;
+    /* Lazy-loading en HTML para optimizar */
 }
 
 img {
@@ -294,17 +380,22 @@ img {
     height: auto;
     margin-top: 20px;
     text-align: center;
+    display: block;
+    /* Mejor comportamiento de bloque */
 }
 
 .fpersonaje {
     display: block;
     width: 120px;
-    margin-left: 10px;
-    margin-right: 70px;
-    margin-top: 25px;
-    object-fit: cover;
     margin: 25px auto;
-    border-radius: 30%;
+    /* Mejor centrado */
+    object-fit: cover;
+    border-radius: 50%;
+    /* Cambiar a círculo perfecto */
+    border: 3px solid #6a4c93;
+    /* Borde visual */
+    box-shadow: 0 4px 12px rgba(106, 76, 147, 0.2);
+    /* Sombra sutil */
 }
 
 /*fin imagenes*/
@@ -329,20 +420,32 @@ img {
 
 table {
     width: 90%;
-    max-width: 90px;
+    max-width: 100%;
     border-collapse: collapse;
+    margin: 20px auto;
+    /* Centrar y dar espacio */
 }
 
 th,
 td {
-    padding: 7px 12px;
+    padding: 12px 15px;
+    /* Mejor padding para legibilidad */
     min-width: 170px;
     text-align: center;
     vertical-align: middle;
+    line-height: 1.5;
 }
 
 th {
-    font-weight: bold;
+    font-weight: 700;
+    background-color: #6a4c93;
+    color: white;
+    /* Mejor contraste */
+}
+
+td {
+    border-bottom: 1px solid #e0e0e0;
+    /* Separación visual */
 }
 
 /*fin otros elementos visuales*/

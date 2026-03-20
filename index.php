@@ -12,7 +12,8 @@
     <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
         <!-- Logo con texto alternativo para lectores de pantalla -->
-        <a href="index.php"><img class="logo" src="media/images/litGrande.png" alt="Litterally - Inicio"></a>
+        <!-- Lazy-loading agregado para mejorar rendimiento de carga inicial -->
+        <a href="index.php"><img class="logo" src="media/images/litGrande.png" alt="Litterally - Inicio" loading="lazy"></a>
     </header>
 
     <nav class="navbar">

@@ -2,6 +2,8 @@
 body {
   font-family: 'Charter', 'Bitstream Charter', 'Sitka Text', Georgia, serif;
   background-color: #f8e9d8;
+  /* Mejora de legibilidad: line-height consistente */
+  line-height: 1.6;
 }
 
 header{
@@ -39,18 +41,46 @@ nav {
 .menu a {
   text-decoration: none;
   color: white;
-  padding: 8px 12px;
+  padding: 10px 15px;
+  /* Aumentar padding */
+  display: block;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+  border-radius: 4px;
+}
+
+.menu a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Focus state para accesibilidad */
+.menu a:focus {
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.dropdown-menu li a {
+  padding: 12px 15px;
+  /* Mejor padding */
+  display: block;
+  color: white;
+  text-decoration: none;
+  transition: background-color 0.25s ease;
+}
+
+.dropdown:hover .dropdown-menu {
   display: block;
 }
 
-.dropdown-menu {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background: #c3b7d2;
-  list-style: none;
-  padding: 0;
+.dropdown-menu li a:hover {
+  background: #694c93;
+}
+
+/* Focus state para accesibilidad */
+.dropdown-menu li a:focus,
+.dropdown-menu li a:focus-visible {
+  outline: 2px solid white;
+  outline-offset: -2px;
   min-width: 150px;
   z-index: 1000;
 }
@@ -87,13 +117,30 @@ nav {
 }
 
 .sidebar a {
-    display:block;
-    padding:10px;
-    margin:0;
-    text-decoration:none;
-    color:#333;
-    background-color:white;
-    border-radius:5px;
+    display: block;
+    padding: 12px;
+    /* Aumentar padding */
+    margin: 5px 0;
+    text-decoration: none;
+    color: #333;
+    background-color: white;
+    border-radius: 5px;
+    font-weight: 500;
+    transition: background-color 0.3s ease, outline 0.3s ease;
+    outline: 2px solid transparent;
+}
+
+.sidebar a:hover {
+    background-color: #f0d9a6;
+    color: #6a4c93;
+}
+
+/* Focus state para accesibilidad */
+.sidebar a:focus,
+.sidebar a:focus-visible {
+    outline: 2px solid #6a4c93;
+    outline-offset: 2px;
+    background-color: #f0d9a6;
 }
 
 .menu-sidebar{
