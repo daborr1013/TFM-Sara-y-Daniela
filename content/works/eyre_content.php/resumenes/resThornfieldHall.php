@@ -83,7 +83,9 @@
             </div>
 
         <section class="contenido">
-            <h1>Resumen bloque <i>Thornfield Hall</i></h1>
+            <section class="hero">
+                <h1>Resumen bloque <i>Thornfield Hall</i></h1>
+            </section>
             <h3>
                 <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap11.php">Capítulo XI</a>
             </h3>

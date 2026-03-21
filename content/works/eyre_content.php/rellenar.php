@@ -33,7 +33,6 @@
 <main id="main">
     <section class="hero">
         <h1>Rellenar</h1>
-        <p>Obra esencial de la literatura inglesa del siglo XIX.</p>
     </section>
 
     <div class="layout">

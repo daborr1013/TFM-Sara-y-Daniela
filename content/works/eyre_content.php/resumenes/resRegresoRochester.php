@@ -83,7 +83,9 @@
             </div>
 
         <section class="contenido">
-            <h1>Resumen bloque <i>Regreso a Rochester</i></h1>
+            <section class="hero">
+                <h1>Resumen bloque <i>Regreso a Rochester</i></h1>
+            </section>
             <h3>
                 <a class="boton" href="../caps/5.Regreso a Rochester (Cap. 36–38)/cap36.php">Capítulo XXXVI</a>
             </h3>

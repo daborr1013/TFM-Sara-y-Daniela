@@ -83,8 +83,9 @@
             </div>
 
         <section class="contenido"> 
-
-            <h1>Resumen bloque <i>Moor House</i></h1>
+            <section class="hero">
+                <h1>Resumen bloque <i>Moor House</i></h1>
+            </section>
             <h3>
                 <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap28.php">Capítulo XXVIII</a>
             </h3>

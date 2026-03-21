@@ -83,7 +83,9 @@
             </div>
 
         <section class="contenido">
-            <h1>Resumen bloque <i>Etapa en Lowood</i></h1>
+             <section class="hero">
+                <h1>Resumen bloque <i>Etapa en Lowood</i></h1>
+            </section>
             <h3>
                 <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap5.php">Capítulo V</a>   
             </h3>

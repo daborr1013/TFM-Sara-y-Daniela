@@ -83,7 +83,9 @@
             </div>
 
         <section class="contenido">
-            <h1>Resumen bloque <i>Infancia en Gateshead</i></h1>
+            <section class="hero">
+                <h1>Resumen bloque <i>Infancia en Gateshead</i></h1>
+            </section>
             <h3>
                 <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap1.php">Capítulo I</a>
             </h3>

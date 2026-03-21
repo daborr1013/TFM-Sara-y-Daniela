@@ -34,7 +34,6 @@
 <main id="main">
     <section class="hero">
         <h1>Símbolos</h1>
-        <p>Obra esencial de la literatura inglesa del siglo XIX.</p>
     </section>
 
     <div class="layout">
