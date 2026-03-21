@@ -88,25 +88,48 @@
 
                 <img class="fpersonaje" src="../../../../../media/images/rochester.png">
 
-                <p></p>
+                <p>Edward Rochester es uno de los personajes más importantes de la obra. No es el típico héroe romántico de su era, se acerca más al estilo 
+                    de Lord Byron: un hombre torturado, oscuro, arrogante y con un pasado pecaminoso que busca desesperadamente la redención. Su relación 
+                    con Jane es el corazón de la obra.</p>
+
+                <p>Es el dueño de Thornfield. Jane lo describe como un hombre de facciones duras, una mirada oscura y penetrante. No es guapo según los 
+                    estándares clásicos; es tosco, de constitución fuerte y tiene un aire de melancolía agresiva.</p>
 
                 <h3>Personalidad e impacto en la vida de Jane</h3>
-                <p></p>
+                <p>Rochester es un hombre de extremos. Tras haber sido engañado por su padre y su hermano para casarse con Bertha Mason en Jamaica, pasó 
+                    años vagando por Europa intentando olvidar su desgracia a través de una vida disoluta y cínica.</p>
                     
-                <p></p>
+                <p>Este cinismo del que hablamos es la forma que tiene de protegerse frente al mundo. Al principio de la novela, Rochester es brusco, 
+                    sarcástico y pone a prueba a Jane constantemente con acertijos y cambios de humor.</p>
 
-                <p></p>
+                <p>A pesar de su oscuridad, tiene un intelecto brillante y desprecia la superficialidad (motivo por el que detesta a Blanche Ingram). Busca un alma gemela, 
+                    alguien que no lo juzgue por su dinero o su pasado, sino que pueda leer su mente (motivo por el que escoge a Jane).</p>
 
-                <p></p>
+                <p>A diferencia de la protagonista, Rochester está dispuesto a romper las leyes (intentando cometer bigamia) para alcanzar la felicidad. Cree que su sufrimiento le 
+                    da derecho a buscar un nuevo comienzo, aunque sea ilegal.</p>
 
+                <p>Rochester es la primera persona que reconoce a Jane como su igual. En sus largas conversaciones nocturnas frente a la chimenea, Rochester trata a Jane no como a 
+                    una empleada, sino como a una compañera intelectual. Esto le da a Jane la validación que nunca recibió en su infancia. despierta en Jane un amor tan profundo 
+                    que parece que lo idolatra. Su impacto en ella es total.</p>
+
+                <p>Sin embargo, la gran traición viene de su parte. Al ocultar la existencia de Bertha, Rochester traiciona la confianza de Jane. En perspectiva, este evento no es 
+                    del todo negativo, ya que obliga a Jane a huir y a encontrar su propia fuerza e independencia. Al final, es la vulnerabilidad de Rochester (tras quedar ciego y lisiado)
+                     lo que permite que Jane regrese y lo ame en una posición de igualdad total. Con el momento sobrenatural de la llamada, se subraya que la conexión que tienen los dos 
+                     trasciende lo físico y social.</p>
+            
                 <h3>Importancia del personaje</h3>
-                <p></p>
+                <p>Rochester representa la idea de que el hombre debe ser purificado por el fuego (literal y figuradamente)</p>
 
-                <p></p>
+                <p>Su historia es una crítica y muestra las consecuencias catastróficas de los matrimonios concertados por dinero.</p>
 
-                <p></p>
-                <p></p>
-                <p></p>
+                <p>Es uno de los pocos protagonistas masculinos de la época que termina la novela necesitando físicamente de la mujer. Brontë rompe el esquema del hombre todopoderoso; 
+                    Rochester tiene que perder su vista y su mano (sus herramientas de poder) para ganar su alma y a Jane.</p>
+                
+                <p>A pesar de su egoísmo inicial, su amor por Jane es genuino y su arrepentimiento final es profundo. Rochester es un personaje complejo que representa la lucha entre 
+                    la pasión y la moralidad, el pecado y la redención, el poder y la vulnerabilidad.</p>
+                
+                <p>Rochester simboliza el fuego. Es calor, es luz y pasión, pero también es destrucción si no se controla. Su casa, Thornfield, termina consumida por el fuego que él mismo no 
+                    supo apagar a tiempo (Bertha). Solo cuando el fuego lo deja "en cenizas" (ciego y solo), puede renacer como un hombre nuevo, digno del amor puro de Jane.</p>
 
              </section>
         </div>
