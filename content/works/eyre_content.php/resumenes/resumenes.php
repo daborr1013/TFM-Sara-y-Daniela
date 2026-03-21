@@ -86,14 +86,16 @@
             
             <section class="contenido">
                 <section class="">
-                    <p>aqui van los resumenes xoxo gossip girl</p>
+                    <p>Desde aquí puedes acceder a los resúmenes por capítulo de cada etapa de la novela.</p>
                 </section>
-                <a class="boton" href="resInfanciaGateshead.php">Resúmenes por capítulo</a>
-                <a class="boton" href="resEtapaLowood.php">Resúmenes por capítulo</a>
-                <a class="boton" href="resThornfieldHall.php">Resúmenes por capítulo</a>
-                <a class="boton" href="resMoorHouse.php">Resúmenes por capítulo</a>
-                <a class="boton" href="resRegresoRochester.php">Resúmenes por capítulo</a>
 
+                <section class="layout">
+                    <a href="resInfanciaGateshead.php"><img class="imgresumenes" src="../../../../media/images/gateshead.jpg" alt="Infancia en Gateshead"></a>
+                    <a href="resEtapaLowood.php"><img class="imgresumenes" src="../../../../media/images/lowood.jpg" alt="Etapa en Lowood"></a>
+                    <a href="resThornfieldHall.php"><img class="imgresumenes" src="../../../../media/images/thornfield.jpg" alt="Thornfield Hall"></a>
+                    <a href="resMoorHouse.php"><img class="imgresumenes" src="../../../../media/images/moorhouse.jpg" alt="Moor House"></a>
+                    <a href="resRegresoRochester.php"><img class="imgresumenes" src="../../../../media/images/regrochester.jpg" alt="Regreso de Rochester"></a>
+</section>
             </section>
         </div>
     </main>

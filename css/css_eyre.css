@@ -424,6 +424,14 @@ img {
     border-radius: 10px;
 }
 
+.imgresumenes {
+    width: 70%;
+    height: auto;
+    margin: 20px auto;
+    display: block;
+    border-radius: 10px;
+}
+
 .bronte {
     width: 20%;
     height: auto;
