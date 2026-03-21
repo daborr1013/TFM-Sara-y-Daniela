@@ -33,7 +33,7 @@
 <main id="main">
     <section class="hero">
         <h1>Jane Eyre</h1>
-        <p>Obra esencial de la literatura inglesa del siglo XIX.</p>
+        <h3 class="subtitulo">Obra esencial de la literatura inglesa del siglo XIX.</h3>
     </section>
 
     <div class="layout">

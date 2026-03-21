@@ -37,8 +37,8 @@
 
 <main id="main">
     <section class="hero">
-        <!-- Encabezado principal h1 para mejor jerarquía semántica -->
         <h1>Jane Eyre</h1>
+        <h3 class="subtitulo">Obra esencial de la literatura inglesa del siglo XIX.</h3>
     </section>
 
     <div class="layout">

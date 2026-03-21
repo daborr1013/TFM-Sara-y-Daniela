@@ -90,9 +90,9 @@
                 <li><b>Regencia (1811-1820)</b>: La infancia de las Brontë ocurre bajo la influencia de este periodo pre-victoriano, marcado por las 
                     Guerras Napoleónicas y la tensión entre la razón y la pasión.</li>
                 <li><b>Era Victoriana (1837-1901)</b>:El contexto real de la novela. Una época de responsabilidad moral, expansión del Imperio y una fe 
-                que empieza a tambalearse por descubrimientos científicos (como la geología de Lyell o la evolución de Darwin).</li>
+                    que empieza a tambalearse por descubrimientos científicos (como la geología de Lyell o la evolución de Darwin).</li>
                 <li><b>La Gran Exposición (1851)</b>:El clímax del orgullo británico, mostrando la riqueza y los inventos (telégrafo, fotografía) que cambiaron 
-                el mundo mientras Charlotte escribía.</li>
+                    el mundo mientras Charlotte escribía.</li>
             </ul>
 
             <h3>Romanticismo vs. Ilustración</h3>

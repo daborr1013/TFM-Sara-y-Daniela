@@ -311,6 +311,15 @@ h3 {
     line-height: 1.4;
 }
 
+.subtitulo {
+    font-style: italic;
+    color: white;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    line-height: 1.4;
+}
+
 h4 {
     text-align: center;
     justify-content: center;
@@ -407,6 +416,31 @@ img {
     /* Sombra sutil */
 }
 
+.mapahistorico {
+    width: 30%;
+    height: auto;
+    margin: 20px auto;
+    display: block;
+    border-radius: 10px;
+}
+
+.bronte {
+    width: 20%;
+    height: auto;
+    margin: 20px auto;
+    display: block;
+    border-radius: 10px;
+}
+
+.bell {
+    width: 20%;
+    height: auto;
+    margin: 20px auto;
+    margin-top: 80px;
+    display: block;
+    border-radius: 10px;
+}
+
 /*fin imagenes*/
 
 /*otros elementos visuales*/
@@ -463,4 +497,5 @@ td {
     font-family: 'Inter', system-ui, sans-serif;
     display: flex;
     align-items: flex-start;
+    justify-content: center;
 }

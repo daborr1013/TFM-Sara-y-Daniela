@@ -84,7 +84,24 @@
             </div>
 
         <section class="pjustificado">
-            <img class="mapahistorico" src="../../../media/images/mapaInglaterra.jpg" alt="Mapa de Inglaterra de la época victoriana">
+            <section class="layout">
+                <section class="pjustificado">
+                    <p>Para comprender por qué la historia de una pequeña institutriz huérfana sacudió los cimientos de la Inglaterra del siglo XIX, 
+                        debemos mirar más allá de las páginas del libro y explorar el mundo que vio nacer a su autora.</p>
+                    <p>En la sección <a href="contexto_historico.php">contexto histórico</a> podrás encontrar un recorrido por el marco histórico en el que 
+                        se escribió la historia, un siglo lleno de cambios sociales, políticos y científicos. Además, verás las ideas principales de las corrientes 
+                        literarias que influyeron en la obra, como el Romanticismo y la Ilustración.</p>
+                    <p>Por otro lado, en la sección <a href="charlotte.php">Charlotte Brontë</a> podrás encontrar información sobre la autora, su vida y su obra.
+                        ¿Qué mejor manera de entender la historia que conocer a su creadora? Verás mucho de ella reflejado en la obra.</p>
+                </section>
+
+                <img class="mapahistorico" src="../../../media/images/mapaInglaterra.jpg" alt="Mapa de Inglaterra de la época victoriana">
+            </section>
+
+            <section class="layout">
+                <a class="boton" href="contexto_historico.php">Contexto histórico</a>
+                <a class="boton" href="charlotte.php">Charlotte Brontë</a>
+            </section>
         </section>
     </div>
 </main>
