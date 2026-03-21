@@ -28,7 +28,13 @@ body {
 }
 
 header {
-    background: linear-gradient(135deg, #4f3578 0%, #6d4b9f 70%, #7b5baa 100%);
+    background: #6a4c93;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    ;
 }
 
 nav {
@@ -36,7 +42,7 @@ nav {
 }
 
 .navbar {
-    background: linear-gradient(120deg, #5d3d88 0%, #7a59a8 55%, #6f6ea3 100%);
+    background: linear-gradient(135deg, #6A4C93 0%, #6d4b9f 70%, #7b5baa 100%);
     padding: 10px;
     overflow: visible;
     box-shadow: 0 10px 20px rgba(42, 29, 63, 0.2);
@@ -90,7 +96,8 @@ nav {
 
 /* Estilos de foco para menú dropdown accesible --> */
 
-.dropdown-menu li a:focus, .dropdown-menu li a:focus-visible {
+.dropdown-menu li a:focus,
+.dropdown-menu li a:focus-visible {
     outline: 2px solid #ffffff;
     outline-offset: -2px;
     background: #5d3d88;
@@ -126,7 +133,8 @@ nav a:hover {
 
 /* Estados de foco para navegación accesible con teclado */
 
-nav a:focus, nav a:focus-visible {
+nav a:focus,
+nav a:focus-visible {
     outline: 2px solid #ffffff;
     outline-offset: 4px;
 }
@@ -328,7 +336,8 @@ main {
 
 /* Estilos de foco para accesibilidad - usuarios que navegan con teclado --> */
 
-.edit-profile:focus, .edit-profile:focus-visible {
+.edit-profile:focus,
+.edit-profile:focus-visible {
     outline: 3px solid #ffffff;
     outline-offset: 2px;
     box-shadow: 0 6px 20px rgba(42, 29, 63, 0.25), 0 0 0 4px rgba(210, 176, 108, 0.5);

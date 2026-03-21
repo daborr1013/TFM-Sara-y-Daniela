@@ -28,6 +28,9 @@ body {
 
 header {
     background-color: #6a4c93;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 footer {
@@ -371,8 +374,14 @@ h4 {
 /*imagenes*/
 .logo {
     width: 10%;
-    text-align: center;
-    /* Lazy-loading en HTML para optimizar */
+    display: block;
+    margin: 0 auto;
+}
+
+header a {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
 }
 
 img {

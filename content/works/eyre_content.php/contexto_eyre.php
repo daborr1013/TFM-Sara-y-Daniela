@@ -84,6 +84,7 @@
             </div>
 
         <section class="pjustificado">
+            <img class="mapahistorico" src="../../../media/images/mapaInglaterra.jpg" alt="Mapa de Inglaterra de la época victoriana">
         </section>
     </div>
 </main>

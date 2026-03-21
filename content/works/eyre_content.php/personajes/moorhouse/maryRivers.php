@@ -54,8 +54,8 @@
                         <li class="dropdown-sidebar">
                             <a href="../../contexto_eyre.php">Contexto</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
-                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
+                                <li><a href="../../charlotte.php">Charlotte Brontë</a></li>
+                                <li><a href="../../contexto_historico.php">Contexto histórico</a></li>
                             </ul>
                         </li>
 

@@ -26,8 +26,13 @@ body {
     line-height: 1.6;
 }
 
-header{
-    background: linear-gradient(135deg, #4f3578 0%, #6d4b9f 70%, #7b5baa 100%);
+header {
+    background: #6a4c93;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 footer {
@@ -38,15 +43,15 @@ footer {
 }
 
 /*barra de navegación principal*/
-nav{
+nav {
     padding: 10px 20px;
 }
 
 .navbar {
-  background: linear-gradient(120deg, #5d3d88 0%, #7a59a8 55%, #6f6ea3 100%);
-  padding: 10px;
-  overflow: visible;
-  box-shadow: 0 10px 20px rgba(42, 29, 63, 0.2);
+    background: linear-gradient(135deg, #6A4C93 0%, #6d4b9f 70%, #7b5baa 100%);
+    padding: 10px;
+    overflow: visible;
+    box-shadow: 0 10px 20px rgba(42, 29, 63, 0.2);
 }
 
 nav a {
@@ -68,7 +73,8 @@ nav a:hover {
 }
 
 /* Focus state para accesibilidad de teclado */
-nav a:focus, nav a:focus-visible {
+nav a:focus,
+nav a:focus-visible {
     outline: 3px solid #ffffff;
     outline-offset: 4px;
     background-color: rgba(240, 217, 166, 0.2);
@@ -84,51 +90,52 @@ nav a:focus, nav a:focus-visible {
 }
 
 .menu li {
-  position: relative;
-  font-size: 18px;
+    position: relative;
+    font-size: 18px;
 }
 
 .menu a {
-  text-decoration: none;
-  color: white;
-  padding: 8px 12px;
-  display: block;
+    text-decoration: none;
+    color: white;
+    padding: 8px 12px;
+    display: block;
 }
 
 .dropdown-menu {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background: #a085c6;
-  list-style: none;
-  padding: 0;
-  min-width: 150px;
-  z-index: 1000;
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #a085c6;
+    list-style: none;
+    padding: 0;
+    min-width: 150px;
+    z-index: 1000;
 }
 
 .dropdown-menu li a {
-  padding: 12px 15px;
-  /* Aumentar padding */
-  display: block;
-  color: #fefbff;
-  text-decoration: none;
-  transition: background-color 0.25s ease;
+    padding: 12px 15px;
+    /* Aumentar padding */
+    display: block;
+    color: #fefbff;
+    text-decoration: none;
+    transition: background-color 0.25s ease;
 }
 
 .dropdown:hover .dropdown-menu {
-  display: block;
+    display: block;
 }
 
 .dropdown-menu li a:hover {
-  background: #5d3d88;
+    background: #5d3d88;
 }
 
 /* Estilos de foco para menú dropdown accesible con teclado */
-.dropdown-menu li a:focus, .dropdown-menu li a:focus-visible {
-  outline: 2px solid white;
-  outline-offset: -2px;
-  background: #5d3d88;
+.dropdown-menu li a:focus,
+.dropdown-menu li a:focus-visible {
+    outline: 2px solid white;
+    outline-offset: -2px;
+    background: #5d3d88;
 }
 
 /* fin barra navegación */
@@ -143,19 +150,19 @@ nav a:focus, nav a:focus-visible {
     padding: 0;
     margin: -1px;
     overflow: hidden;
-    clip: rect(0,0,0,0);
+    clip: rect(0, 0, 0, 0);
     white-space: nowrap;
     border-width: 0;
 }
 
 /*imagenes*/
-.logo{
-    width: 10%; 
+.logo {
+    width: 10%;
     text-align: center;
 }
 
-.portada{
-    width: 10%; 
+.portada {
+    width: 10%;
     border-radius: 10px;
     justify-content: center;
     margin-right: 10px;
@@ -163,15 +170,15 @@ nav a:focus, nav a:focus-visible {
     margin-bottom: 15px;
 }
 
-.portada2{
-    width: 7%; 
+.portada2 {
+    width: 7%;
     border-radius: 10px;
     justify-content: center;
     margin-bottom: 15px;
 }
 
-.nosotras{
-    width: 15%; 
+.nosotras {
+    width: 15%;
     border-radius: 10px;
 }
 
@@ -179,18 +186,18 @@ nav a:focus, nav a:focus-visible {
 
 /*otros elementos visuales*/
 
-.boton{
+.boton {
     font-family: 'Inter', system-ui, sans-serif;
     font-size: 15px;
     background: linear-gradient(135deg, #6a4c93 0%, #a8dadc 100%);
     color: white;
-	text-align: center;
+    text-align: center;
     justify-content: center;
-	line-height: 50px;
-	margin-top: 40px;
+    line-height: 50px;
+    margin-top: 40px;
     margin-bottom: 40px;
     padding: 15px;
-	border-radius: 50px;
+    border-radius: 50px;
 }
 
 /*fin de otros elementos visuales*/
@@ -230,7 +237,7 @@ h3 {
     line-height: 1.4;
 }
 
-.pjustificado{
+.pjustificado {
     font-size: 1.05rem;
     text-align: justify;
     text-indent: 20px;
@@ -271,9 +278,10 @@ h3 {
     font-weight: 600;
     line-height: 1.4;
 }
+
 /*fin de textos*/
 
-.layout{
+.layout {
     font-family: 'Inter', system-ui, sans-serif;
     display: flex;
     align-items: flex-start;
@@ -285,7 +293,7 @@ h3 {
     height: 500px;
     background-color: white;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     display: flex;
     flex-direction: column;
     overflow: hidden;

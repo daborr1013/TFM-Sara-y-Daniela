@@ -32,7 +32,7 @@ body {
 }
 
 header {
-    background: linear-gradient(135deg, #6A4C93 0%, #6d4b9f 70%, #7b5baa 100%);
+    background: #6a4c93;
     padding: 0;
     margin: 0;
     display: flex;
