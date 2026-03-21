@@ -100,10 +100,10 @@
 
             <p>Y no te olvides de <a href="../litto.php">Litto</a>, él puede ayudarte a resolver tus preguntas.</p>
 
-            <p>Te recomendamos comenzar conociendo más sobre el <a href="eyre_content/contexto_historico.php">contexto histórico</a> para así comprender
+            <p>Te recomendamos comenzar conociendo más sobre el <a href="eyre_content.php/contexto_historico.php">contexto histórico</a> para así comprender
             las limitaciones a las que se enfrenta Jane a lo largo de la historia. Ten en cuenta que también contamos con
             un <a href="eyre_content.php/glosario.php">glosario</a> que te puede ayudar con términos que puedan llegar a dificultar tu comprensión. ¿Qué mejor 
-            para terminar que unas cuantas frases célebres? En <a href="eyre_content/citas.php">citas</a> podrás encontrarlas todas.</p>
+            para terminar que unas cuantas frases célebres? En <a href="eyre_content.php/citas.php">citas</a> podrás encontrarlas todas.</p>
         </section>
     </div>    
 </main>
