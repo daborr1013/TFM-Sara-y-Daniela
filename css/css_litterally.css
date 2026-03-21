@@ -1,3 +1,13 @@
+
+html, body {
+    overflow-x: hidden;
+    max-width: 100vw;
+}
+
+* {
+    box-sizing: border-box;
+}
+
 /* ===== PROPIEDADES CSS PERSONALIZADAS ===== */
 :root {
     --violet-900: #2a1d3f;

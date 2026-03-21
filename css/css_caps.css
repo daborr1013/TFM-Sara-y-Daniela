@@ -1,3 +1,13 @@
+
+html, body {
+    overflow-x: hidden;
+    max-width: 100vw;
+}
+
+* {
+    box-sizing: border-box;
+}
+
 /*base*/
 body {
   font-family: 'Charter', 'Bitstream Charter', 'Sitka Text', Georgia, serif;
