@@ -73,9 +73,10 @@
                         <li class="dropdown-sidebar">
                             <a href="../../actividades_eyre.php">Actividades</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="test.php">Tests</a></li>
-                                <li><a href="rellenar.php">Rellenar</a></li>
-                                <li><a href="flashcard.php">Flashcards</a></li>
+                                <li><a href="../../test.php">Tests</a></li>
+                                <li><a href="../../rellenar.php">Rellenar</a></li>
+                                <li><a href="../../flashcard.php">Flashcards</a></li>
+                                <li><a href="../../juegos.php">Juegos</a></li>
                             </ul>
                         </li>
                     </ul>

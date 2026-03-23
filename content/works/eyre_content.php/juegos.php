@@ -2,12 +2,13 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Litterally-Eyre-Explicaciones</title>
+    <title>Litterally-Eyre-Juegos</title>
     <link rel="stylesheet" href="../../../css/css_eyre.css">
     <link rel="icon" href="../../../media/images/iconoPestanaClara.png">
 </head>
 <body>
-    <a href="#main" class="skip-link">Saltar a contenido principal</a>
+
+<a href="#main" class="skip-link">Saltar a contenido principal</a>
 
 <header>
     <a href="../../../index.php"><img class="logo" src="../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
@@ -32,7 +33,7 @@
 
 <main id="main">
     <section class="hero">
-        <h1>Explicaciones</h1>
+        <h1>Tests</h1>
     </section>
 
     <div class="layout">
@@ -95,12 +96,3 @@
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
