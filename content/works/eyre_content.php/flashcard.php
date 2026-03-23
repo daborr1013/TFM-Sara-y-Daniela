@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Litterally-Eyre-Flascards</title>
+    <title>Litterally-Eyre-Flashcards</title>
     <link rel="stylesheet" href="../../../css/css_eyre.css">
     <link rel="icon" href="../../../media/images/iconoPestanaClara.png">
 </head>
@@ -86,6 +86,12 @@
             </div>
 
         <section class="pjustificado">
+            <p>Las <b>flashcards</b> son una herramienta práctica para memorizar conceptos clave de Jane Eyre. A través de tarjetas interactivas, podrás repasar personajes, 
+                citas importantes, temas y vocabulario esencial.</p>
+
+            <p>Son perfectas para estudiar a tu ritmo y reforzar el aprendizaje de forma rápida y eficaz.</p>
+
+            <p>Esta sección está en desarrollo. Próximamente encontrarás las flashcards.</p>
         </section>
     </div>
 </main>

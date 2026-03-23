@@ -85,9 +85,9 @@
                 </nav>
             </div>
             
-            <section class="contenido">
+            <section class="pjustificado">
                 <section class="">
-                    <p>Desde aquí puedes acceder a los resúmenes por capítulo de cada etapa de la novela.</p>
+                    <p>Desde aquí puedes acceder a los resúmenes por capítulo de cada etapa de la novela, haciendo click en las imagenes representativas.</p>
                 </section>
 
                 <section class="layout">
@@ -96,7 +96,7 @@
                     <a href="resThornfieldHall.php"><img class="imgresumenes" src="../../../../media/images/thornfield.jpg" alt="Thornfield Hall"></a>
                     <a href="resMoorHouse.php"><img class="imgresumenes" src="../../../../media/images/moorhouse.jpg" alt="Moor House"></a>
                     <a href="resRegresoRochester.php"><img class="imgresumenes" src="../../../../media/images/regrochester.jpg" alt="Regreso de Rochester"></a>
-</section>
+                </section>
             </section>
         </div>
     </main>

@@ -97,7 +97,7 @@
                         <section class="layout">
                             <a class="boton" href="caps/1.Infancia en Gateshead (Cap. 1–4)/cap1.php">Capítulo I</a>
                             <a class="boton" href="caps/1.Infancia en Gateshead (Cap. 1–4)/cap2.php">Capítulo II</a>
-                            <a class="boton" href="caps/1.Infancia en Gateshead (Cap. 1–4)/cap2.php">Capítulo III</a>
+                            <a class="boton" href="caps/1.Infancia en Gateshead (Cap. 1–4)/cap3.php">Capítulo III</a>
                             <a class="boton" href="caps/1.Infancia en Gateshead (Cap. 1–4)/cap4.php">Capítulo IV</a>
                         </section>
                 </details> 

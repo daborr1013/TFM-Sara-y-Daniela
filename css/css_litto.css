@@ -362,7 +362,46 @@ button {
     background-color: #6a4c93;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 20px;
     margin-left: 5px;
     cursor: pointer;
+    transition: transform 0.1s ease;
+}
+
+button:active {
+    transform: scale(0.95);
+}
+
+/* "ESCRIBIENDO..." ANIMACIÓN */
+
+#typing {
+    font-style: italic;
+    opacity: 0.7;
+}
+
+/* ANIMACIÓN DE MENSAJES */
+
+.message {
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 70%;
+    opacity: 0;
+    animation: fadeIn 0.3s forwards;
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}
+
+/* INPUT MODERNO */
+
+#messageInput {
+    flex: 1;
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    outline: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
 }

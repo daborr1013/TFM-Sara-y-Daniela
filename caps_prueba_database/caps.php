@@ -2,14 +2,23 @@
 require_once '../database.php';
 
 if (!isset($conn) || $conn->connect_error) {
-    die("Database connection error: " . ($conn ? $conn->connect_error : "Connection not established"));
+    error_log("Database connection error: " . ($conn ? $conn->connect_error : "Connection not established"));
+    die("Error de conexión a la base de datos. Por favor, intenta más tarde.");
 }
 
-$query = "SELECT id, titulo FROM blocks";
-$result = $conn->query($query);
+// Use prepared statement for database query
+$stmt = $conn->prepare("SELECT id, titulo FROM blocks");
+if (!$stmt) {
+    error_log("Prepare statement failed: " . $conn->error);
+    die("Error al preparar la consulta. Por favor, intenta más tarde.");
+}
+
+$stmt->execute();
+$result = $stmt->get_result();
 
 if (!$result) {
-    die("Query error: " . $conn->error);
+    error_log("Query error: " . $conn->error);
+    die("Error al ejecutar la consulta. Por favor, intenta más tarde.");
 }
 ?>
 
@@ -92,7 +101,7 @@ if (!$result) {
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="../content/works/eyre_content.php/test.php">Tests</a></li>
                                 <li><a href="../content/works/eyre_content.php/rellenar.php">Rellenar</a></li>
-                                <li><a href="../content/works/eyre_content.php/flascard.php">Flashcards</a></li>
+                                <li><a href="../content/works/eyre_content.php/flashcard.php">Flashcards</a></li>
                             </ul>
                         </li>
                     </ul>

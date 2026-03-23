@@ -41,7 +41,7 @@
         <section class="pjustificado">
             <p>Bienvenido a <i>Litterally</i>, una plataforma en la que puedes explorar y analizar obras literarias de forma interactiva.</p>
 
-            <p>Esta página nace para tranformar las lecturas pasivas en una experiencia inmersiva que te ayude a comprender las obras 
+            <p>Esta página nace para transformar las lecturas pasivas en una experiencia inmersiva que te ayude a comprender las obras 
             propuestas profundamente.</p>
 
             <p>Frente a lecturas superficiales ayudadas con IA o resúmenes genéricos que te cuenten solo lo que pasa, pero no "<i>lo que sucede</i>", 

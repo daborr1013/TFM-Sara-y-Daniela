@@ -85,6 +85,23 @@
             </div>
 
         <section class="pjustificado">
+            <p>Esta sección está diseñada para ayudarte a comprender y disfrutar la novela de una manera dinámica, combinando aprendizaje y entretenimiento. 
+                A través de diferentes tipos de actividades, podrás profundizar en la historia, los personajes y los temas clave de la obra mientras refuerzas 
+                tus conocimientos de forma práctica.</p>
+
+            <p>Aquí encontrarás ejercicios de <a href="rellenar.php">rellenar espacios en blanco</a> que te permitirán trabajar directamente con fragmentos del texto original, ayudándote 
+                a mejorar tu memoria y a familiarizarte con el estilo de la novela. También podrás poner a prueba tu comprensión con <a href="test.php">tests</a> que incluyen preguntas 
+                sobre los aspectos más importantes de la historia, desde la trama hasta los detalles más significativos.</p>
+
+            <p>Para amenizar un poco el estudio, puedes acceder a los <a href="juegos.php">juegos</a>, como crucigramas, sopas de letras y otros desafíos educativos que convierten el aprendizaje 
+            en una experiencia más ligera y motivadora. Estas actividades están pensadas para ayudarte a reforzar conceptos clave de forma entretenida y diferente.</p>
+
+            <p>También contamos con <a href="flashcard.php">flashcards</a> para repasar de manera rápida y eficaz personajes, citas, temas y vocabulario esencial. 
+            Esta herramienta es ideal para estudiar a tu propio ritmo y consolidar lo aprendido.</p>
+
+            <p>Refuerza tu comprensión, mejora tu memoria y disfruta aprendiendo literatura de una forma diferente.</p>
+
+            <img class="logo" src="../../../media/images/actividades.png" alt="Actividades">
         </section>
     </div>
 </main>

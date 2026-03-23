@@ -103,7 +103,7 @@
 
                         <h4>Capítulos completos</h4>
 
-                        <section class="layout">
+                        <section class="layoutbotones">
                             <a class="boton" href="caps/1.Infancia en Gateshead (Cap. 1–4)/cap1.php">Capítulo I</a>
                             <a class="boton" href="caps/1.Infancia en Gateshead (Cap. 1–4)/cap2.php">Capítulo II</a>
                             <a class="boton" href="caps/1.Infancia en Gateshead (Cap. 1–4)/cap2.php">Capítulo III</a>
@@ -124,7 +124,7 @@
 
                         <h4>Capítulos completos</h4>
 
-                        <section class="layout">
+                        <section class="layoutbotones">
                             <section>
                                 <a class="boton" href="caps/2.Etapa en Lowood (Cap. 5–10)/cap5.php">Capítulo V</a>
                                 <a class="boton" href="caps/2.Etapa en Lowood (Cap. 5–10)/cap6.php">Capítulo VI</a>       
@@ -153,7 +153,7 @@
 
                         <h4>Capítulos completos</h4>
 
-                        <section class="layout">
+                        <section class="layoutbotones">
                             <section>
                                 <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap11.php">Capítulo XI</a>
                                 <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap12.php">Capítulo XII</a>
@@ -197,7 +197,7 @@
 
                         <h4>Capítulos completos</h4>
 
-                        <section class="layout">
+                        <section class="layoutbotones">
                             <section>
                                 <a class="boton" href="caps/4.Moor House (Cap. 28–35)/cap28.php">Capítulo XXVIII</a>
                                 <a class="boton" href="caps/4.Moor House (Cap. 28–35)/cap29.php">Capítulo XXIX</a>
@@ -230,7 +230,7 @@
 
                         <h4>Capítulos completos</h4>
 
-                        <section class="layout">
+                        <section class="layoutbotones">
                             <a class="boton" href="caps/5.Regreso a Rochester (Cap. 36–38)/cap36.php">Capítulo XXXVI</a>
                             <a class="boton" href="caps/5.Regreso a Rochester (Cap. 36–38)/cap37.php">Capítulo XXXVII</a>
                             <a class="boton" href="caps/5.Regreso a Rochester (Cap. 36–38)/cap38.php">Capítulo XXXVIII</a>

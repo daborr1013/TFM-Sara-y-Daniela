@@ -1,6 +1,5 @@
 html,
 body {
-    overflow-x: hidden;
     max-width: 100vw;
 }
 
@@ -10,19 +9,18 @@ body {
 
 /* Skip Link para accesibilidad - Salta a contenido principal */
 .skip-link {
-    position: absolute;
-    top: -40px;
-    left: 0;
-    background: #6a4c93;
-    color: white;
-    padding: 8px 12px;
-    z-index: 100;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.skip-link:focus {
-    top: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #6a4c93;
+  color: white;
+  padding: 8px 12px;
+  z-index: 100;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+  display: block;
 }
 
 /*base*/
@@ -30,6 +28,7 @@ body {
     font-family: 'Inter', system-ui, sans-serif;
     margin: 0;
     padding: 0;
+    padding-top: 40px;
     background-color: #eceaea;
     text-align: center;
     /* Mejora de legibilidad: line-height consistente */
@@ -48,6 +47,13 @@ footer {
     padding: 1rem;
     background-color: #2c2c54;
     color: white;
+}
+
+main {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 /*barra de navegación principal*/
@@ -151,6 +157,7 @@ nav a:focus-visible {
 .sidebar {
     width: 300px;
     flex-shrink: 0;
+    align-self: flex-start;
     background-color: #f5f5f5;
     padding: 10px;
     border-radius: 8px;
@@ -158,9 +165,8 @@ nav a:focus-visible {
     margin-left: 20px;
     border-left: 4px solid #6a4c93;
     position: sticky;
-    top: 20px;
-    max-height: calc(100vh - 40px);
-    overflow-y: auto;
+    top: 80px;
+    z-index: 10;
 }
 
 .sidebar a {
@@ -488,7 +494,7 @@ img {
 
 
 table {
-    width: 90%;
+    width: 100%;
     max-width: 100%;
     border-collapse: collapse;
     margin: 20px auto;
@@ -523,5 +529,14 @@ td {
     font-family: 'Inter', system-ui, sans-serif;
     display: flex;
     align-items: flex-start;
-    justify-content: center;
+    justify-content: flex-start;
+}
+
+.contenido {
+    margin-left: 340px;
+}
+
+.layoutbotones {
+    font-family: 'Inter', system-ui, sans-serif;
+    justify-content: center
 }

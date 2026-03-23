@@ -40,7 +40,7 @@
         <!-- Encabezado principal h1 para mejor jerarquía semántica -->
         <h1>Litto</h1>
     </div>
-    <div class="chat-box" id="chatBox">
+    <div class="chat-box" id="chatBox" aria-live="polite" aria-atomic="false">
         <!-- Los mensajes aparecerán aquí -->
         <div class="message bot">
             <p>¡Hola, soy Litto! Escribe un mensaje.</p>
@@ -53,7 +53,7 @@
     </form>
 </div>
 
-<script src="litto.js"></script>
+<script src="../js/js_litto.js"></script>
 </main>
 
 <footer>

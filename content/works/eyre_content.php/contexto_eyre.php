@@ -99,7 +99,7 @@
                 <img class="mapahistorico" src="../../../media/images/mapaInglaterra.jpg" alt="Mapa de Inglaterra de la época victoriana">
             </section>
 
-            <section class="layout">
+            <section class="pjustificado">
                 <a class="boton" href="contexto_historico.php">Contexto histórico</a>
                 <a class="boton" href="charlotte.php">Charlotte Brontë</a>
             </section>

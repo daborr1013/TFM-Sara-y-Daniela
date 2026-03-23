@@ -46,7 +46,9 @@ document.addEventListener('DOMContentLoaded', () => {
         newMessage.className = 'message user';
         newMessage.setAttribute('role', 'article');
         // role="article" para better accessibility
-        newMessage.innerHTML = `<p>${escapeHtml(messageText)}</p>`;
+        const p = document.createElement('p');
+            p.textContent = messageText;
+            newMessage.appendChild(p);
         
         // 2. Añadir el mensaje a la caja de chat
         chatBox.appendChild(newMessage);
@@ -79,3 +81,50 @@ document.addEventListener('DOMContentLoaded', () => {
         return div.innerHTML;
     }
 });
+
+/* RESPUESTA SIMULADA DEL BOT: */
+function getBotResponse(message) {
+    const msg = message.toLowerCase();
+
+    if (msg.includes("hola")) {
+        return "¡Hola! 😊 Soy Litto, tu asistente literario.";
+    }
+
+    if (msg.includes("jane eyre")) {
+        return "Jane Eyre es una novela de Charlotte Brontë.";
+    }
+
+    if (msg.includes("recomienda")) {
+        return "Te recomiendo 'Jane Eyre' 📚";
+    }
+
+    return "Aún estoy aprendiendo 🤔";
+}
+
+/* "ESCRIBIENDO..." INDICADOR: */
+const typing = document.createElement('div');
+typing.className = 'message bot';
+typing.id = 'typing';
+typing.innerHTML = `<p>Escribiendo...</p>`;
+chatBox.appendChild(typing);
+chatBox.scrollTop = chatBox.scrollHeight;
+
+/* MODIFICAR RESPUESTA DEL BOT: */
+
+setTimeout(() => {
+    document.getElementById('typing')?.remove();
+
+    const response = getBotResponse(messageText);
+
+    const botMessage = document.createElement('div');
+    botMessage.className = 'message bot';
+    botMessage.setAttribute('role', 'article');
+
+    const p = document.createElement('p');
+    p.textContent = response;
+
+    botMessage.appendChild(p);
+
+    chatBox.appendChild(botMessage);
+    chatBox.scrollTop = chatBox.scrollHeight;
+}, 1000);

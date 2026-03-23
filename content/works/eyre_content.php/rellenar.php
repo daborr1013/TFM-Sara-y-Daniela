@@ -85,6 +85,12 @@
             </div>
 
         <section class="pjustificado">
+            <p>En esta actividad de <strong>rellenar espacios en blanco</strong>, se te mostrarán fragmentos importantes de la novela con palabras faltantes. 
+            Tu tarea será completar estos espacios con las palabras correctas del texto original.</p>
+
+            <p>Esta actividad te ayudará a reforzar tu memoria, identificar detalles importantes y familiarizarte con el lenguaje y estilo de la obra.</p>
+            
+            <p>Esta sección está en desarrollo. Próximamente encontrarás ejercicios interactivos de rellenar espacios en blanco.</p>
         </section>
     </div>
 </main>
