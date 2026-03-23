@@ -145,6 +145,8 @@
                     <td></td>
                 </tr>
             </table>
+
+            <img class="relaciones" src="../../../media/images/relaciones.png" alt="Relaciones de personajes">
         </section>
     </div>
 </main>
