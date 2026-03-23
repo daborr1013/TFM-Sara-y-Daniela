@@ -34,7 +34,6 @@
 <main id="main">
     <section class="hero">
         <h1>Personajes</h1>
-        <p>Obra esencial de la literatura inglesa del siglo XIX.</p>
     </section>
 
     <div class="layout">
@@ -78,7 +77,7 @@
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="test.php">Tests</a></li>
                                 <li><a href="rellenar.php">Rellenar</a></li>
-                                <li><a href="flascard.php">Flashcards</a></li>
+                                <li><a href="flashcard.php">Flashcards</a></li>
                             </ul>
                         </li>
                     </ul>
