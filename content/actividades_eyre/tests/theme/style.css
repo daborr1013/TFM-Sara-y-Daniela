@@ -9,11 +9,11 @@ body.exe-web-site {
 }
 
 .exe-content a {
-    color: #d76b4a;
+    color: #6a4c93;
 }
 .exe-content a:hover,
 .exe-content a:focus {
-    color: #993d28;
+    color: #5a3c73;
 }
 
 #node-content-container.exe-content #node-content {
@@ -43,7 +43,7 @@ body.exe-web-site {
 }
 
 .exe-content .page-title {
-    color: #078e8e;
+    color: #6a4c93;
     font-size: 1.7rem;
     text-align: left;
 }
@@ -94,7 +94,7 @@ body.exe-web-site {
 }
 
 .exe-content .box-title {
-    color: #054d4d;
+    color: #6a4c93;
     font-size: 1.5rem;
 }
 
@@ -194,11 +194,11 @@ body.siteNav-off #siteFooter {
 
 #siteNav a.active {
     background: #fff;
-    color: #d76b4a;
+    color: #6a4c93;
 }
 
 #siteNav a.highlighted-link {
-    color: #d76b4a;
+    color: #6a4c93;
     background: #ededed;
 }
 
@@ -234,7 +234,7 @@ button.toggler {
     display: block;
     width: 40px;
     height: 40px;
-    background: #078e8e url(img/icons.png) no-repeat 0 0;
+    background: #6a4c93 url(img/icons.png) no-repeat 0 0;
     background-size: auto 40px;
     border-radius: 50%;
     z-index: 999;
@@ -276,8 +276,8 @@ body.siteNav-off button#searchBarTogger {
 .nav-buttons a:focus,
 button.toggler:hover,
 button.toggler:focus {
-    background-color: #066d6d;
-    border-color: #066d6d;
+    background-color: #5a3c73;
+    border-color: #5a3c73;
 }
 .nav-buttons .nav-button span,
 .box-toggle span,

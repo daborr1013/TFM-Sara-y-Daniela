@@ -94,6 +94,8 @@
             de respuesta abierta sobre los personajes, trama, temas y detalles clave de <i>Jane Eyre</i>.</p>
 
             <iframe src="../../../content/actividades_eyre/tests/index.html" width="100%" height="700" style="border:none;"></iframe>
+
+            <iframe src="../../../content/test_juego_eyre/index.html" width="100%" height="700" style="border:none;"></iframe>
         </section>
     </div>
 </main>
