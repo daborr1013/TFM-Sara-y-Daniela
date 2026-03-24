@@ -90,7 +90,8 @@
             </div>
 
         <section class="pjustificado">
-            <p>Los <strong>tests</strong> o ejercicios de evaluación te permitirán comprobar tu comprensión de la novela. Encontrarás preguntas de opción múltiple y preguntas de respuesta abierta sobre los personajes, trama, temas y detalles clave de <i>Jane Eyre</i>.</p>
+            <p>Los <strong>tests</strong> o ejercicios de evaluación te permitirán comprobar tu comprensión de la novela. Encontrarás preguntas de opción múltiple y preguntas 
+            de respuesta abierta sobre los personajes, trama, temas y detalles clave de <i>Jane Eyre</i>.</p>
 
             <iframe src="../../../content/actividades_eyre/tests/index.html" width="100%" height="700" style="border:none;"></iframe>
         </section>
