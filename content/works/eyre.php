@@ -82,6 +82,7 @@
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="eyre_content.php/test.php">Tests</a></li>
                                 <li><a href="eyre_content.php/rellenar.php">Rellenar</a></li>
+                                <li><a href="eyre_content.php/desarrollar.php">Desarrollar</a></li>
                                 <li><a href="eyre_content.php/flashcard.php">Flashcards</a></li>
                                 <li><a href="eyre_content.php/juegos.php">Juegos</a></li>
                             </ul>

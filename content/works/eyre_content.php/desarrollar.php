@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Litterally-Eyre-Citas</title>
+    <title>Litterally-Eyre-Desarrolla</title>
     <link rel="stylesheet" href="../../../css/css_eyre.css">
     <link rel="icon" href="../../../media/images/iconoPestanaClara.png">
 </head>
@@ -33,7 +33,7 @@
 
 <main id="main">
     <section class="hero">
-        <h1>Citas</h1>
+        <h1>Flashcards</h1>
     </section>
 
     <div class="layout">
@@ -87,6 +87,12 @@
             </div>
 
         <section class="pjustificado">
+            <p>Las <b>preguntas de desarrollo</b> te permiten profundizar en los aspectos clave de <i>Jane Eyre</i>, fomentando el análisis y la reflexión crítica. 
+            A través de ellas, podrás explorar personajes, temas, citas importantes y el contexto de la obra con mayor detalle.</p>
+
+            <p>Son ideales para desarrollar tus ideas, mejorar la expresión escrita y consolidar una comprensión más completa y argumentada del contenido.</p>
+            
+            <p>Esta sección está en desarrollo. Próximamente encontrarás las preguntas de desarrollo.</p>
         </section>
     </div>
 </main>
