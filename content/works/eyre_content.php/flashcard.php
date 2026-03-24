@@ -92,7 +92,7 @@
 
             <p>Son perfectas para estudiar a tu ritmo y reforzar el aprendizaje de forma rápida y eficaz.</p>
 
-            <p>Esta sección está en desarrollo. Próximamente encontrarás las flashcards.</p>
+            <iframe src="../../../content/actividades_eyre/flashcards/index.html" width="100%" height="700" style="border:none;"></iframe>
         </section>
     </div>
 </main>

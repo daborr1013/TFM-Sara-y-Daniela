@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+    <head>
     <meta charset="UTF-8">
     <title>Litterally-Eyre-Tests</title>
     <link rel="stylesheet" href="../../../css/css_eyre.css">
     <link rel="icon" href="../../../media/images/iconoPestanaClara.png">
+</head>
 </head>
 
 <body>
@@ -89,7 +91,10 @@
 
         <section class="pjustificado">
             <p>Los <strong>tests</strong> o ejercicios de evaluación te permitirán comprobar tu comprensión de la novela. Encontrarás preguntas de opción múltiple y preguntas de respuesta abierta sobre los personajes, trama, temas y detalles clave de <i>Jane Eyre</i>.</p>
+
             <p>Esta sección está en desarrollo. Próximamente encontrarás tests interactivos para evaluar tu conocimiento.</p>
+
+            <iframe src="../../../content/actividades_eyre/tests/index.html" width="100%" height="700" style="border:none;"></iframe>
         </section>
     </div>
 </main>

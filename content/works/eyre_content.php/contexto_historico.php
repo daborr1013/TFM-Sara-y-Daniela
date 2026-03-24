@@ -138,7 +138,7 @@
             <h3>El Legado: ¿Por qué seguimos leyendo Jane Eyre?</h3>
             <p>El enfoque de Charlotte en la consciencia interior y los sentimientos de Jane fue precursor de la "corriente de conciencia" del siglo XX. Jane no solo narra lo que pasa, sino cómo 
                 se siente su mente.</p>
-            <p>Hoy entendemos <i>Jane Eyre</i> a través de la intertextualidad. Un ejemplo es <i>Wide Sargasso Sea</i> de Jean Rhys, que reescribe la historia desde el punto de vista de Bertha Mason (la mujer en el ático), 
+            <p>Hoy entendemos <i>Jane Eyre</i> a través de la intertextualidad. Un ejemplo es <i>Wide Sargasso Sea</i> o <i>El ancho mar de los Sargazos</i> de Jean Rhys, que reescribe la historia desde el punto de vista de Bertha Mason (la mujer en el ático), 
                 cuestionando el canon original.</p>
             <p>La novela ha sido adaptada innumerables veces al cine, la televisión y el teatro, demostrando su vigencia y capacidad para conectar con nuevas generaciones.</p>
 

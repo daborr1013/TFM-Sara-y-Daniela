@@ -91,7 +91,7 @@
 
             <p>Esta actividad te ayudará a reforzar tu memoria, identificar detalles importantes y familiarizarte con el lenguaje y estilo de la obra.</p>
             
-            <p>Esta sección está en desarrollo. Próximamente encontrarás ejercicios interactivos de rellenar espacios en blanco.</p>
+            <iframe src="../../../content/actividades_eyre/rellenar/index.html" width="100%" height="700" style="border:none;"></iframe>
         </section>
     </div>
 </main>

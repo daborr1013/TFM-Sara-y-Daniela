@@ -92,7 +92,7 @@
 
             <p>Son ideales para desarrollar tus ideas, mejorar la expresión escrita y consolidar una comprensión más completa y argumentada del contenido.</p>
             
-            <p>Esta sección está en desarrollo. Próximamente encontrarás las preguntas de desarrollo.</p>
+            <iframe src="../../../content/actividades_eyre/desarrollar/index.html" width="100%" height="700" style="border:none;"></iframe>
         </section>
     </div>
 </main>
