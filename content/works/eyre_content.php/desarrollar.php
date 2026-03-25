@@ -92,7 +92,11 @@
 
             <p>Son ideales para desarrollar tus ideas, mejorar la expresión escrita y consolidar una comprensión más completa y argumentada del contenido.</p>
             
-            <iframe src="../../../content/actividades_eyre/desarrollar/index.html" width="100%" height="700" style="border:none;"></iframe>
+            <ol>
+                <li>
+                    
+                </li>
+            </ol>
         </section>
     </div>
 </main>

@@ -1,52 +1,49 @@
-.exe-content {
-    background: #fff;
+.exe-content{
+  background: #fff;
 }
 
-.exe-content .page-title {
-    font-size: 1.45em;
+.exe-content .page-title{
+  font-size: 1.45em;
 }
 
-.exe-content .box {
-    margin-top: 20px;
-    border: 1px solid #dbdbdb;
+.exe-content .box{
+  margin-top: 20px;
+  border: 1px solid #dbdbdb;
 }
 
 .exe-content .box-head {
-    border-bottom: 1px solid #dbdbdb;
+  border-bottom: 1px solid #dbdbdb;
 }
 
 .exe-export .no-header .box-head {
-    border-bottom: 0;
+  border-bottom: 0;
 }
 
 .exe-content .box-head .box-title {
-    margin: 0;
-    font-size: 1.2em;
+  margin: 0;
+  font-size: 1.2em;
 }
 
-.exe-content a {
-    color: #5a7f0c;
+.exe-content a{
+  color: #5a7f0c;
 }
 
 .exe-content a:hover,
-.exe-content a:focus {
-    color: #71a300;
+.exe-content a:focus{
+  color: #71a300;
 }
 
-.exe-content h2 {
-    font-size: 1.45em;
+.exe-content h2{
+  font-size: 1.45em;
 }
-
-.exe-content h3 {
-    font-size: 1.35em;
+.exe-content h3{
+  font-size: 1.35em;
 }
-
-.exe-content h4 {
-    font-size: 1.25em;
+.exe-content h4{
+  font-size: 1.25em;
 }
-
-.exe-content h5 {
-    font-size: 1.15em;
+.exe-content h5{
+  font-size: 1.15em;
 }
 
 .exe-content a {
@@ -233,7 +230,7 @@
     width: 100%
 }
 
-.exe-col {
+.exe-col{
     box-sizing: content-box;
 }
 
@@ -691,24 +688,23 @@ video {
 #exe-client-search-reset {
     display: none;
 }
-
 #exe-client-search-reset.visible {
     display: inline;
 }
 
 /* Box toggler */
-.exe-export article.minimized .box-content {
+.exe-export article.minimized .box-content{
     display: none;
 }
 
 /* BOX no visible */
-.exe-export article.novisible.box {
-    display: none !important;
+.exe-export article.novisible.box{
+    display: none  !important;
 }
 
 /* iDevice no visible */
-.exe-export article.box .idevice_node.novisible {
-    display: none !important;
+.exe-export article.box .idevice_node.novisible{
+    display: none  !important;
 }
 
 /* Teacher mode */

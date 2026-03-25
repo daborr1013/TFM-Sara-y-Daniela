@@ -86,12 +86,7 @@
                 </nav>
             </div>
 
-        <section class="pjustificado">
-            <p>Las <b>flashcards</b> son una herramienta práctica para memorizar conceptos clave de Jane Eyre. A través de tarjetas interactivas, podrás repasar personajes, 
-                citas importantes, temas y vocabulario esencial.</p>
-
-            <p>Son perfectas para estudiar a tu ritmo y reforzar el aprendizaje de forma rápida y eficaz.</p>
-
+        <section class="exel">
             <iframe src="../../../content/actividades_eyre/flashcards/index.html" width="100%" height="700" style="border:none;"></iframe>
         </section>
     </div>

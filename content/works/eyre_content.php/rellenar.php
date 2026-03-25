@@ -93,6 +93,9 @@
             
             <iframe src="../../../content/actividades_eyre/rellenar/index.html" width="100%" height="700" style="border:none;"></iframe>
         </section>
+        <section class="exel">
+            <iframe src="../../../content/actividades_eyre/rellenar/index.html" width="100%" height="700" style="border:none;"></iframe>
+        </section>
     </div>
 </main>
 
