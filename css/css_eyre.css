@@ -481,16 +481,23 @@ img {
 /*fin imagenes*/
 
 /*otros elementos visuales*/
-.boton {
+.boton, button {
+    display: block !important;
+    width: fit-content !important;
+    margin: 25px auto !important;
     font-family: 'Inter', system-ui, sans-serif;
     font-size: 15px;
     background-color: #a8dadc;
     text-align: center;
-    justify-content: center;
-    line-height: 50px;
-    margin: 10px;
-    padding: 10px;
+    line-height: normal !important;
+    padding: 12px 25px !important;
     border-radius: 20px;
+    text-decoration: none;
+    color: #333;
+    transition: background-color 0.3s, transform 0.2s;
+    border: none;
+    cursor: pointer;
+    text-indent: 0 !important;
 }
 
 .boton:hover {
@@ -549,5 +556,9 @@ td {
 
 .layoutbotones {
     font-family: 'Inter', system-ui, sans-serif;
-    justify-content: center
+    display: flex !important;
+    justify-content: center !important;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 20px 0;
 }

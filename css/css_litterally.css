@@ -260,21 +260,21 @@ p {
 
 /* ===== BOTONES Y ELEMENTOS INTERACTIVOS ===== */
 .boton {
+    display: block !important;
+    width: fit-content !important;
+    margin: 40px auto !important;
     font-family: 'Inter', system-ui, sans-serif;
     font-size: 15px;
     background-color: #a8dadc;
     text-align: center;
-    justify-content: center;
-    line-height: 50px;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    padding: 15px;
+    line-height: normal !important;
+    padding: 15px 30px !important;
     border-radius: 20px;
     transition: background-color 0.3s, outline 0.3s;
     text-decoration: none;
-    display: inline-block;
     color: black;
     outline: 2px solid transparent;
+    text-indent: 0 !important;
 }
 
 .boton:hover {
