@@ -113,14 +113,14 @@
                 <p>Como hemos dicho, él está enamorado de Rosamond, pero como el amor no encaja con su misión religiosa y su sentido del deber, prefiere proponerle matrimonio a Jane, y no por amor 
                     sino por conveniencia. La ve una "herramienta" útil para su misión. Su propuesta es el momento más peligroso para la autonomía de Jane.</p>
 
-                <p>La presión que jerce sobre su prima es lo que hace que Jane, en medio d euna crisis espiritual, escuche la voz de Rochester llamándola.</p>
+                <p>La presión que ejerce sobre su prima es lo que hace que Jane, en medio de una crisis espiritual, escuche la voz de Rochester llamándola.</p>
                 
                 <h3>Importancia del personaje</h3>
                 <p>Si Brocklehurst representaba la religión hipócrita, St. John representa la religión dogmática y sin corazón. Brontë lo presenta con respeto (no es un villano barato, es 
                     un hombre realmente entregado a su fe), pero también con horror. A través de él, la autora defiende que una vida sin amor y sin libertad individual no es verdadera virtud. 
                     Es el tipo de hombre que "puede morir por una causa, pero no puede vivir para una persona".</p>
 
-                <p>Este personaje es una prueba moral ara Jane, ya que debe decidir entre una vida segura pero in amor, o ser fiel a sí misma. John Rivers representa la alternativa vital que Jane rechaza.</p>
+                <p>Este personaje es una prueba moral para Jane, ya que debe decidir entre una vida segura pero sin amor, o ser fiel a sí misma. John Rivers representa la alternativa vital que Jane rechaza.</p>
                 
                 <p>También representa el intelecto y la voluntad llevados al extremo donde se vuelven inhumanos. Su final en la novela (muriendo solo en la India, feliz por su sacrificio) cierra el libro.</p>
              </section>

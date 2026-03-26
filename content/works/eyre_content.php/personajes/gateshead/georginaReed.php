@@ -91,10 +91,10 @@
                 <img class="fpersonaje" src="../../../../../media/images/georgina.png">
 
                 <p>Georgina es la prima pequeña de Jane. Desde que nació se convirtió en la consentida de la casa debido 
-                    a que es muy guapa y delicada, lo que la convierte en una persona muy egoista y mimada.</p>
+                    a que es muy guapa y delicada, lo que la convierte en una persona muy egoísta y mimada.</p>
 
                 <h3>Personalidad e impacto en la vida de Jane</h3>
-                <p>Es una persona superficial, caprichosa y vive de la atención que le den los demás. Gran parte de su felicidad se la 
+                <p>Es una persona superficial, caprichosa y vive de la atención que le dan los demás. Gran parte de su felicidad se la 
                     proporcionan los bailes, los vestidos y los pretendientes. En definitiva, necesita ser el centro de atención continuamente.</p>
                     
                 <p>Georgina sirve para dar visibilidad a las injusticias a las que se enfrenta Jane. Mientras que la pequeña podía portarse fatal 
@@ -105,10 +105,10 @@
                     superficial. </p>
 
                 <p>Cuando Jane vuelve a Gateshead para ver a la señora Reed, su prima no para de llorar y quejarse, pero no por su madre, sino porque su 
-                    hermana mayor había arruinado sus planes de escaparse con un un chico.</p>
+                    hermana mayor había arruinado sus planes de escaparse con un chico.</p>
 
                 <h3>Importancia del personaje</h3>
-                <p>Las  hermanas Reed son los dos lados de una modena: una es lógica pura sin corazón (Eliza), la otra es sentimiento 
+                <p>Las  hermanas Reed son los dos lados de una moneda: una es lógica pura sin corazón (Eliza), la otra es sentimiento 
                     puro sin cerebro (Georgina). Jane es el equilibro perfecto entre las dos.
                 </p>
 
@@ -116,7 +116,7 @@
                     de que se aburre esperando a que suceda el funeral. Por otro lado, su hermana se pasa el día rezando para que su madre 
                     muera rápido y así poder heredar.</p>
 
-                <p>Georgina acaba cumliendo su sueño: se casa con un hombre rico de la alta sociedad. Este personaje muestra perfectamente la necesidad de su clase 
+                <p>Georgina acaba cumpliendo su sueño: se casa con un hombre rico de la alta sociedad. Este personaje muestra perfectamente la necesidad de su clase 
                     social de mantener el estatus ante todo.</p>
 
 

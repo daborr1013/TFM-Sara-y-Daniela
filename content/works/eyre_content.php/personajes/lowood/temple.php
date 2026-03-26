@@ -90,14 +90,14 @@
 
                 <img class="fpersonaje" src="../../../../../media/images/temple.png">
 
-                <p>Es posiblemente el personaje más luminoso y bondadoso de la infancia y adolescencia de Jane. Es la superteniente de Lowood. Jane la describe como una mujer de belleza serena, inteliente y 
+                <p>Es posiblemente el personaje más luminoso y bondadoso de la infancia y adolescencia de Jane. Es la superteniente de Lowood. Jane la describe como una mujer de belleza serena, inteligente y 
                     con una voz autoritaria pero bondadosa.</p>
 
                 <h3>Personalidad e impacto en la vida de Jane</h3>
                 <p>Representa el equilibrio perfecto entre la mente y el corazón, a lo que aspira Jane. A diferencia del director, ella cree que la educación debe nutrir el alma, no mortificarla.</p>
                     
                 <p>Es muy culta, elegante y posee una dignidad que impone respeto hasta a sus superiores. Su modo de actuar no se basa en castigar a las niñas, sino en tener compasión por ellas, siguiendo así su 
-                    propia brujula moral.</p>
+                    propia brújula moral.</p>
 
                 <p>La señorita Temple es la primera figura adulta que reconoce el valor de Jane, no solo como estudiante, sino como persona. Además le da la oportunidad de defenderse de las acusaciones de "mentirosa".
                     Habla con el señor Lloyd y limpia el nombre de la niña públicamente, enseñándole que la verdad siempre sale a la luz y la justicia existe.</p>
@@ -112,8 +112,8 @@
                 <p>Su influencia es tan profunda que, años después, cuando Jane es institutriz en Thornfield Hall, recuerda a la Srta. Temple con cariño y admiración, y busca en su propia experiencia para guiar a Adele, la 
                     niña a la que cuida.</p>
 
-                <p>Este personaje también simboliza el camino hacia la madurez de Jane. Cuando se marcha de la isntitución para casarse, impulsa a la muchacha a buscar nuevos horizontes. Sin su influencia, Jane nunca habría 
-                    tenido al confianza necesaria para poner su anuncio en el periódico y buscar un trabajo como institutriz.</p>
+                <p>Este personaje también simboliza el camino hacia la madurez de Jane. Cuando se marcha de la institución para casarse, impulsa a la muchacha a buscar nuevos horizontes. Sin su influencia, Jane nunca habría 
+                    tenido la confianza necesaria para poner su anuncio en el periódico y buscar un trabajo como institutriz.</p>
              </section>
         </div>
     </main>

@@ -100,7 +100,7 @@
                 <p>Es quien encierra a Jane en el Cuarto Rojo, el trauma que marca la psicología de la protagonista para siempre.</p>
 
                 <p>Intenta destruir el futuro de Jane incluso antes de que empiece diciéndole al Sr. Brocklehurst que la niña tiene una "tendencia a la mentira", 
-                    algo que Jane tarda años desmentir.</p>
+                    algo que Jane tarda años en desmentir.</p>
 
                 <p>Años después, cuando está agonizando, manda llamar a Jane. Pero incluso en su lecho de muerte, no busca redención; confiesa que ocultó la carta del tío de Jane 
                     (John Eyre) por puro odio, intentando privar a Jane de su herencia.</p>
@@ -111,7 +111,7 @@
                 <p>Su favoritismo ciego hacia sus hijos biológicos (especialmente John) termina siendo la ruina de todos ellos. Al no poner límites a John y 
                     alimentar la vanidad de sus hijas, crea una familia rota.</p>
 
-                <p>Como acto de justicia poética muere sola, rruinada por las deudas de su hijo y despreciada por sus propias hijas, mientras que la sobrina a la que despreció 
+                <p>Como acto de justicia poética muere sola, arruinada por las deudas de su hijo y despreciada por sus propias hijas, mientras que la sobrina a la que despreció 
                 vuelve para perdonarla y ofrecerle paz.</p>
              </section>
         </div>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Señora Fairfaix</title>
+    <title>Señora Fairfax</title>
     <meta charset="utf-8">
     <meta name="description" content="Análisis de personajes">
     <meta name="keywords" content="HTML, CSS">
@@ -86,7 +86,7 @@
             </div>
             
             <section class="pjustificado">
-                <h1 class="h1personajes">Señora Fairfaix</h1>
+                <h1 class="h1personajes">Señora Fairfax</h1>
 
                 <img class="fpersonaje" src="../../../../../media/images/fairfaix.png">
 
@@ -105,11 +105,11 @@
                 <p>Es el personaje que expresa la preocupación más lógica sobre la relación entre Jane y Rochester. Advierte a Jane que los hombres de la clase de Rochester no suelen 
                     casarse con sus institutrices y le pide que sea cautelosa. Aunque a Jane le molesta este consejo, el tiempo demuestra que la señora tenía razón en que la situación era peligrosa.</p>
 
-                <p>Su ignorancia sobre lo que ocurre en el ático resalta que el secreto de Rochester está oculto incluso para los más cercanos. A pesar de oir 
+                <p>Su ignorancia sobre lo que ocurre en el ático resalta que el secreto de Rochester está oculto incluso para los más cercanos. A pesar de oír 
                     los ruidos extraños en la noche, decide creer que es "solo Grace Poole con sus excentricidades".</p>
 
                 <h3>Importancia del personaje</h3>
-                <p>Con la señora Fairfaix se muestra el lado amable de la servidumbre y la estructura social inglesa.</p>
+                <p>Con la señora Fairfax se muestra el lado amable de la servidumbre y la estructura social inglesa.</p>
 
                 <p>Sin ella, Thornfield sería un lugar puramente de pesadilla; ella lo mantiene funcionando como una casa real.</p>
              </section>

@@ -102,7 +102,7 @@
                 <p>Ver a Blanche junto a Rochester hace que Jane se sienta más "pequeña, plana y oscura" que nunca. Jane llega a dibujar un autorretrato de sí misma y un retrato idealizado 
                     de Blanche para compararlos y castigarse por haber creído que Rochester podría amarla a ella.</p>
 
-                <p>Gracias a el comportamiento de la señorita Ingram, Jane se da cuenta de que la riqueza y la belleza no significan nada si el espíritu es pobre. A pesar de ser hermosa, no consigue 
+                <p>Gracias al comportamiento de la señorita Ingram, Jane se da cuenta de que la riqueza y la belleza no significan nada si el espíritu es pobre. A pesar de ser hermosa, no consigue 
                     conectar con Rochester, lo que nos da una verdadera visión de la conexión real que Jane tiene con él
                 </p>
 

@@ -101,7 +101,7 @@
                 <p>Adèle es la primera alumna de Jane. A través de ella, Jane demuestra su capacidad como maestra y su paciencia. Jane no intenta "romper" el espíritu de Adèle, sino encauzar su energía 
                     hacia algo más sólido y disciplinado.</p>
 
-                <p>La niña es es el tema de conversación constante entre Jane y Rochester. Es a través de la historia de Adèle que Rochester comienza a abrir su corazón a Jane, confesándole sus errores pasados.</p>
+                <p>La niña es el tema de conversación constante entre Jane y Rochester. Es a través de la historia de Adèle que Rochester comienza a abrir su corazón a Jane, confesándole sus errores pasados.</p>
 
                 <p>Jane llega a quererla profundamente, no como una empleada, sino casi como una hermana mayor. Al final de la novela, se asegura de que Adèle reciba una buena educación en una escuela adecuada, 
                     eliminando los rasgos de vanidad heredados de su madre.

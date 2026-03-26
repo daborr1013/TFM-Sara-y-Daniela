@@ -99,7 +99,7 @@
                     pero sus ojos revelan una inteligencia y una pasión que desafían a cualquiera que la mire de cerca.</p>
 
                 <h3>Personalidad</h3>
-                <p>El personaje tiene una personalidad muy moderna y adelantada para su època. Jane cree firmemente que su alma es igual a la de un hombre rico o poderoso.</p>
+                <p>El personaje tiene una personalidad muy moderna y adelantada para su época. Jane cree firmemente que su alma es igual a la de un hombre rico o poderoso.</p>
 
                 <p>Su religión no es la de los dogmas de Brocklehurst ni la del sacrificio frío de John Rivers. Es una fe basada en la conciencia individual. Para Jane, Dios 
                     es el guía que le da fuerzas para hacer lo correcto cuando es difícil.</p>

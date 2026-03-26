@@ -97,14 +97,14 @@
                     sentimientos no son una de sus prioridades.</p>
                 
                 <p>Cuando Jane vuelve años más tarde a Gateshead a ver a su tía, la cual está muriendo, Eliza ahora es cortés con ella 
-                    pero sigue siendo muy distante y fría. A pesar se ver cómo se avecina la uerte de su madre, no siente pena por ella, solo 
+                    pero sigue siendo muy distante y fría. A pesar de ver cómo se avecina la muerte de su madre, no siente pena por ella, solo 
                     quiere cerrar los asuntos pendientes y marcharse a casa.</p>
                     
                 <p>A diferencia de su prima, Eliza no perdona a su madre en su lecho de muerte, se siente resentida por haber tenido que dedicar su vida a 
                     cuidarla mientras los demás se iban a vivir su vida.</p>
 
                 <h3>Importancia del personaje</h3>
-                <p>Eliza es importante porque representa el lado más frío y calculador de la familia Reed. La autora la usa para mostar un contraste entre ella 
+                <p>Eliza es importante porque representa el lado más frío y calculador de la familia Reed. La autora la usa para mostrar un contraste entre ella 
                     y su hermana Georgina, toda emocional. Jane al ver a las dos, decide que no puede regirse solo por sus sentimientos (como Georgina), ni ser tan 
                     calculadora (como Eliza), tiene que buscar un equilibrio.</p>
 

@@ -95,13 +95,13 @@
                     materna que la niña conoce en sus primeros años de vida.</p>
 
                 <h3>Personalidad e impacto en la vida de Jane</h3>
-                <p>Nos da la impresión de ser una mujer con un caracter varibale, ya que puede ser regañona y brusca,
+                <p>Nos da la impresión de ser una mujer con un carácter variable, ya que puede ser regañona y brusca,
                     pero como hemos mencionado ya posee una bondad que contrasta con la crueldad de los Reed.</p>
                     
                 <p>Para Jane es un consuelo tenerla, ya que su familia la trata como si fuera un monstruo, una carga, mientras que Bessie
-                    le canta canciones, le cuenta cuentos de hadas, le da tozos de pan tostado...</p>
+                    le canta canciones, le cuenta cuentos de hadas, le da trozos de pan tostado...</p>
 
-                <p>Bessie es la que le da las primeras pistas a Jane a cerca de su familia. Le habla sobre su padre el clérigo.</p>
+                <p>Bessie es la que le da las primeras pistas a Jane acerca de su familia. Le habla sobre su padre el clérigo.</p>
 
                 <p>Además, antes de que la niña parta a Lowood, Bessie le confiesa que la prefiere a ella que a sus primos los Reed, reforzando
                     así, su imagen positiva.</p>
