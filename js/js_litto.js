@@ -1,22 +1,18 @@
 /**
  * ====================================
- * JAVASCRIPT - CHAT BOT LITTO
+ * JAVASCRIPT - CHATBOT LITTO
  * ====================================
  * 
  * Funcionalidad:
  * - Gestiona la interacción del chat del asistente virtual "Litto"
  * - Maneja el envío de mensajes desde el formulario
  * - Auto-scroll del chat hacia nuevos mensajes
+ * - Conecta con la API chatbot-api.php para obtener respuestas de la base de datos
  * 
  * Accesibilidad:
  * - El formulario es completamente navegable por teclado
  * - Los mensajes se añaden al DOM preservando semántica
  * - Para lectores de pantalla, los mensajes se anuncian dinámicamente
- * 
- * Mejoras futuras:
- * - Integrar con API de IA (ChatGPT, etc.)
- * - Agregar ARIA live region para anuncios automáticos
- * - Agregar indicador de "escribiendo..." visual
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -45,7 +41,6 @@ document.addEventListener('DOMContentLoaded', () => {
         const newMessage = document.createElement('div');
         newMessage.className = 'message user';
         newMessage.setAttribute('role', 'article');
-        // role="article" para better accessibility
         const p = document.createElement('p');
             p.textContent = messageText;
             newMessage.appendChild(p);
@@ -60,71 +55,65 @@ document.addEventListener('DOMContentLoaded', () => {
         // 4. Scroll automático hacia abajo
         chatBox.scrollTop = chatBox.scrollHeight;
 
-        // Opcional: Simular respuesta del bot
-        setTimeout(() => {
+        // Mostrar indicador de "Escribiendo..."
+        const typing = document.createElement('div');
+        typing.className = 'message bot';
+        typing.id = 'typing';
+        typing.innerHTML = `<p>Escribiendo...</p>`;
+        chatBox.appendChild(typing);
+        chatBox.scrollTop = chatBox.scrollHeight;
+
+        // Enviar mensaje a la API y obtener respuesta de la base de datos
+        fetch('../chatbot-api.php', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ message: messageText })
+        })
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`Error HTTP: ${response.status}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            // Remover indicador de escritura
+            document.getElementById('typing')?.remove();
+
+            // Verificar que la respuesta sea válida
+            if (!data || !data.response) {
+                throw new Error('Respuesta inválida del servidor');
+            }
+
+            // Crear mensaje del bot con respuesta de la base de datos
             const botMessage = document.createElement('div');
             botMessage.className = 'message bot';
             botMessage.setAttribute('role', 'article');
-            botMessage.innerHTML = `<p>Recibí: ${escapeHtml(messageText)}</p>`;
+
+            const p = document.createElement('p');
+            p.textContent = data.response;
+
+            botMessage.appendChild(p);
+
             chatBox.appendChild(botMessage);
             chatBox.scrollTop = chatBox.scrollHeight;
-        }, 1000);
+        })
+        .catch(error => {
+            console.error('Error en el chatbot:', error);
+            document.getElementById('typing')?.remove();
+
+            // Mostrar mensaje de error si la API falla
+            const botMessage = document.createElement('div');
+            botMessage.className = 'message bot';
+            const p = document.createElement('p');
+            p.textContent = 'Disculpa, hubo un error. Intenta de nuevo.';
+            botMessage.appendChild(p);
+            chatBox.appendChild(botMessage);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        });
     });
 
-    /**
-     * Función de seguridad: escapar HTML para prevenir inyecciones
-     * Previene que código malicioso en mensajes se ejecute
-     */
-    function escapeHtml(text) {
-        const div = document.createElement('div');
-        div.textContent = text;
-        return div.innerHTML;
-    }
+    // Toda la lógica del chat es manejada por chatbot-api.php
+    // El archivo API consulta la base de datos y devuelve respuestas
 });
-
-/* RESPUESTA SIMULADA DEL BOT: */
-function getBotResponse(message) {
-    const msg = message.toLowerCase();
-
-    if (msg.includes("hola")) {
-        return "¡Hola! 😊 Soy Litto, tu asistente literario.";
-    }
-
-    if (msg.includes("jane eyre")) {
-        return "Jane Eyre es una novela de Charlotte Brontë.";
-    }
-
-    if (msg.includes("recomienda")) {
-        return "Te recomiendo 'Jane Eyre' 📚";
-    }
-
-    return "Aún estoy aprendiendo 🤔";
-}
-
-/* "ESCRIBIENDO..." INDICADOR: */
-const typing = document.createElement('div');
-typing.className = 'message bot';
-typing.id = 'typing';
-typing.innerHTML = `<p>Escribiendo...</p>`;
-chatBox.appendChild(typing);
-chatBox.scrollTop = chatBox.scrollHeight;
-
-/* MODIFICAR RESPUESTA DEL BOT: */
-
-setTimeout(() => {
-    document.getElementById('typing')?.remove();
-
-    const response = getBotResponse(messageText);
-
-    const botMessage = document.createElement('div');
-    botMessage.className = 'message bot';
-    botMessage.setAttribute('role', 'article');
-
-    const p = document.createElement('p');
-    p.textContent = response;
-
-    botMessage.appendChild(p);
-
-    chatBox.appendChild(botMessage);
-    chatBox.scrollTop = chatBox.scrollHeight;
-}, 1000);
