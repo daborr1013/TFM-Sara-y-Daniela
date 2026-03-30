@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Litterally-Eyre-Símbolos</title>
+    <title>Litterally-Eyre-Temas y Símbolos</title>
     <link rel="stylesheet" href="../../../css/css_eyre.css">
     <link rel="icon" href="../../../media/images/iconoPestanaClara.png">
 </head>
@@ -33,7 +33,7 @@
 
 <main id="main">
     <section class="hero">
-        <h1>Símbolos</h1>
+        <h1>Temas y Símbolos</h1>
     </section>
 
     <div class="layout">
@@ -64,7 +64,7 @@
                             <a href="recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="explicaciones.php">Explicaciones</a></li>
-                                <li><a href="simbolos.php">Símbolos</a></li>
+                                <li><a href="simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
                                 <li><a href="mapa.php">Mapa</a></li>
@@ -87,6 +87,42 @@
             </div>
 
         <section class="pjustificado">
+            <h2>Temas</h2>
+            <h3>Amor y moralidad</h3>
+            <p></p>
+            <h3>Independencia y autonomía</h3>
+            <p></p>
+            <h3>Clase social y desigualdad</h3>
+            <p></p>
+            <h3>Pasión vs. razón</h3>
+            <p></p>
+            <h3>Religión y espiritualidad</h3>
+            <p></p>
+            <h3>Identidad y crecimiento personal</h3>
+            <p></p>
+            <h3>Justicia y redención</h3>
+            <p></p>
+            <h3>Aislamiento y pertenencia</h3>
+            <p></p>
+
+            <h2>Símbolos</h2>
+            <h3>El fuego y el hielo</h3>
+            <p></p>
+            <h3>La casa</h3>
+            <p></p>
+            <h3>La naturaleza y el castaño partido</h3>
+            <p></p>
+            <h3>Las madres sustitutas</h3>
+            <p></p>
+            <h3>La luz y la oscuridad. Bertha Manson</h3>
+            <p></p>
+            <h3>El pájaro</h3>
+            <p></p>
+            <h3>El cuarto rojo (The Red Room)</h3>
+            <p></p>
+            <h3>Los dibujos de Jane</h3>
+            <p></p>
+
         </section>
     </div>
 </main>

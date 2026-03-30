@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es">
 <head>
     <title>Grace Poole</title>
@@ -63,7 +63,7 @@
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="../../explicaciones.php">Explicaciones</a></li>
-                                <li><a href="../../simbolos.php">Símbolos</a></li>
+                                <li><a href="../../simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="../../personajes.php">Personajes</a></li>
                                 <li><a href="../../glosario.php">Glosario</a></li>
                                 <li><a href="../../mapa.php">Mapa</a></li>
@@ -120,3 +120,4 @@
 
 </body>
 </html>
+
