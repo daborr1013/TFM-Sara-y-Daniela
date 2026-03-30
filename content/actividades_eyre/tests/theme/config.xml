@@ -1,14 +1,16 @@
 <?xml version="1.0"?>
 <theme>
-    <name>neo</name>
-    <title>Neo</title>
+    <name>nova</name>
+    <title>Nova</title>
     <version>2025</version>
     <compatibility>3.0</compatibility>
-    <author>3ipunt for eXeLearning.net</author>
+    <author>3ipunt Consejería de Educación Canarias</author>
     <license>Creative Commons by-sa</license>
     <license-url>http://creativecommons.org/licenses/by-sa/3.0/</license-url>
-    <description>Innovación con propósito.
+    <description>Aprender, crecer, avanzar.
 
-Nunito Font, by Vernon Adams (vern@newtypography.co.uk), under the SIL Open Font License, Version 1.1. Copyright (c) 2014, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Name "Nunito".</description>
+iDevice icons by Google (https://fonts.google.com/icons), under the 2.0 version of the Apache License (https://www.apache.org/licenses/LICENSE-2.0.html).
+
+Open Sans Font, by The Open Sans Project Authors, under the SIL Open Font License, Version 1.1. Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans).</description>
     <downloadable>1</downloadable>
 </theme>
