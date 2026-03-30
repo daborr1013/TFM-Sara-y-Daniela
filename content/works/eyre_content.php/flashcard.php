@@ -87,7 +87,7 @@
             </div>
 
         <section class="exel">
-            <iframe src="../../../content/actividades_eyre/flashcards/index.html" width="100%" height="700" style="border:none;"></iframe>
+            <iframe src="../../../content/actividades_eyre/flashcard/index.html" width="100%" height="700" style="border:none;"></iframe>
         </section>
     </div>
 </main>
