@@ -425,10 +425,6 @@
                         <td>Le dan el sentido de pertenencia y familia real</td>
                     </tr>
                 </table>
-
-                <h3>Los dibujos de Jane</h3>
-                <p></p>
-
             </section>
         </div>
     </main>
