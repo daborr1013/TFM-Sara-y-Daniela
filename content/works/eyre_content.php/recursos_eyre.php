@@ -1,43 +1,46 @@
 ﻿<!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <title>Litterally-Eyre-Recursos</title>
     <link rel="stylesheet" href="../../../css/css_eyre.css">
     <link rel="icon" href="../../../media/images/iconoPestanaClara.png">
 </head>
+
 <body>
     <a href="#main" class="skip-link">Saltar a contenido principal</a>
 
-<header>
-    <a href="../../../index.php"><img class="logo" src="../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
-</header>
+    <header>
+        <a href="../../../index.php"><img class="logo" src="../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
+    </header>
 
-<nav class="navbar">
-    <ul class="menu">
-        <li><a href="../../../index.php">Inicio</a></li>
+    <nav class="navbar">
+        <ul class="menu">
+            <li><a href="../../../index.php">Inicio</a></li>
 
-        <li class="dropdown">
-            <a href="../../obras.php">Obras</a>
-            <ul class="dropdown-menu">
-                <li><a href="../eyre.php">Jane Eyre</a></li>
-            </ul>
-        </li>
+            <li class="dropdown">
+                <a href="../../obras.php">Obras</a>
+                <ul class="dropdown-menu">
+                    <li><a href="../eyre.php">Jane Eyre</a></li>
+                </ul>
+            </li>
 
-        <li><a href="../../about_us.php">Sobre nosotras</a></li>
-        <li><a href="../../litto.php">Asistente virtual</a></li>
-        <li><a href="../../pUsuario.php">Perfil de usuario</a></li>
-    </ul>
-</nav>
+            <li><a href="../../about_us.php">Sobre nosotras</a></li>
+            <li><a href="../../litto.php">Asistente virtual</a></li>
+            <li><a href="../../pUsuario.php">Perfil de usuario</a></li>
+        </ul>
+    </nav>
 
-<main id="main">
-    <section class="hero">
-        <h1>Recursos</h1>
-    </section>
+    <main id="main">
+        <section class="hero">
+            <h1>Recursos</h1>
+        </section>
 
-    <div class="layout">
-        <div class="sidebar">
-                <nav class="navbar-sidebar">    
+        <div class="layout">
+            <div class="sidebar">
+                <nav class="navbar-sidebar">
                     <ul class="menu-sidebar">
                         <li><a class="active" href="inicio_eyre.php">Inicio</a></li>
 
@@ -85,24 +88,30 @@
                 </nav>
             </div>
 
-        <section class="pjustificado">
-        </section>
-    </div>
-</main>
+            <section class="pjustificado">
+                <p>Aquí podrás acceder a distintos recursos que te <a href="explicaciones.php">explican</a> partes
+                    importantes de la obra. En la sección <a href="simbolosTemas.php">temas y símbolos</a> dispondrás de
+                    análisis de elementos clave, como el fuego y el hielo, cuya interpretación resulta fundamental para
+                    entender profundamente <i>Jane Eyre</i>.
+                </p>
+                <p>En el apartado de <a href="personajes.php">personajes</a> podrás consultar una descripción detallada
+                    de cada uno de ellos, así como su influencia en la vida de Jane. Además, se incluye un <a
+                        href="mapa.php">mapa</a>
+                    que muestra de forma clara las relaciones entre los distintos personajes.</p>
+                <p>En el <a href="glosario.php">glosario</a> podrás encontrar definiciones de términos que pueden
+                    resultar complejos por su escaso uso en la actualidad, así como traducciones de fragmentos
+                    relevantes que aparecen en francés o italiano.</p>
+                <p>Por último, la sección de <a href="citas.php">citas</a> recoge algunos de los fragmentos más
+                    significativos de la obra, acompañados de breves comentarios que ayudan a contextualizarlos y a
+                    profundizar en su significado</p>
+            </section>
+        </div>
+    </main>
 
-<footer>
-    <p>TFM - Letras Digitales - UCM</p>
-</footer>
+    <footer>
+        <p>TFM - Letras Digitales - UCM</p>
+    </footer>
 
 </body>
+
 </html>
-
-
-
-
-
-
-
-
-
-
