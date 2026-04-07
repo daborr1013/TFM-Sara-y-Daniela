@@ -36,7 +36,7 @@
 
     <main id="main">
         <section class="hero">
-            <h1>Flashcards</h1>
+            <h1>Desarrollar</h1>
         </section>
 
         <div class="layout">
@@ -89,20 +89,9 @@
                 </nav>
             </div>
 
-            <section class="pjustificado">
-                <p>Las <b>preguntas de desarrollo</b> te permiten profundizar en los aspectos clave de <i>Jane Eyre</i>,
-                    fomentando el análisis y la reflexión crítica.
-                    A través de ellas, podrás explorar personajes, temas, citas importantes y el contexto de la obra con
-                    mayor detalle.</p>
-
-                <p>Son ideales para desarrollar tus ideas, mejorar la expresión escrita y consolidar una comprensión más
-                    completa y argumentada del contenido.</p>
-
-                <ol>
-                    <li>
-
-                    </li>
-                </ol>
+            <section class="exel">
+                <iframe src="../../../content/actividades_eyre/desarrollar/index.html" width="100%" height="700"
+                    style="border:none;"></iframe>
             </section>
         </div>
     </main>
