@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="es">
+
 <head>
     <title>Capítulo 18</title>
     <meta charset="utf-8">
@@ -13,7 +14,8 @@
 <body>
     <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
+        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -28,7 +30,7 @@
             </li>
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
-            <li><a href="../../../../litto.php">Asistente virtual</a></li>
+            <li><a href="../../../../litto.php">Litto</a></li>
 
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
@@ -37,14 +39,14 @@
     <main id="main">
         <div class="layout">
             <div class="sidebar">
-                <nav class="navbar-sidebar">    
+                <nav class="navbar-sidebar">
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
                         <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
-                            <a href="../../contenido_eyre.php">Contenido</a>
+                            <a href="../../contenido_eyre.php">Obra</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
                                 <li><a href="../../capitulos.php">Capítulos</a></li>
@@ -84,11 +86,11 @@
                     </ul>
                 </nav>
             </div>
-            
+
             <section class="contenido">
-                    <h1>Capítulo XVIII</h1>
-    
-                    <p>Fueron días alegres aquellos en Thornfield Hall; y días ajetreados
+                <h1>Capítulo XVIII</h1>
+
+                <p>Fueron días alegres aquellos en Thornfield Hall; y días ajetreados
                     también. ¡Qué diferentes de los tres primeros meses de quietud,
                     monotonía y soledad que había pasado bajo su techo! Todos los
                     sentimientos tristes parecían ahora expulsados de la casa, todas las
@@ -98,7 +100,7 @@
                     desocupadas, sin encontrarse con una elegante doncella o un dandi
                     ayuda de cámara.</p>
 
-                    <p>La cocina, la despensa del mayordomo, el salón de los criados, el
+                <p>La cocina, la despensa del mayordomo, el salón de los criados, el
                     vestíbulo de entrada, estaban igualmente vivos; y los salones solo
                     quedaban vacíos y quietos cuando el cielo azul y el sol apacible del
                     benigno tiempo primaveral llamaban a sus ocupantes a los terrenos.
@@ -107,7 +109,7 @@
                     el disfrute; las diversiones de interior solo se volvían más animadas y
                     variadas, a consecuencia del cese de la alegría al aire libre.</p>
 
-                    <p>Me pregunté qué iban a hacer la primera noche en que se propuso
+                <p>Me pregunté qué iban a hacer la primera noche en que se propuso
                     un cambio de entretenimiento. Hablaron de «jugar a las charadas»,
                     pero en mi ignorancia no entendí el término. Se llamó a los criados,
                     se apartaron las mesas del comedor, se dispusieron las luces de otra
@@ -122,29 +124,29 @@
                     brazadas por las doncellas. Luego se hizo una selección, y las cosas
                     elegidas se llevaron al tocador dentro del salón.</p>
 
-                    <p>Mientras tanto, el señor Rochester había vuelto a convocar a las
+                <p>Mientras tanto, el señor Rochester había vuelto a convocar a las
                     damas a su alrededor y estaba seleccionando a algunas de ellas para
                     que formaran parte de su grupo.</p>
 
-                    <p>—La señorita Ingram es mía, por supuesto —dijo. Después
+                <p>—La señorita Ingram es mía, por supuesto —dijo. Después
                     nombró a las dos señoritas Eshton y a la señora Dent. Me miró;
                     casualmente yo estaba cerca de él, pues había estado abrochando el
                     cierre del brazalete de la señora Dent, que se había soltado.</p>
 
-                    <p>—¿Quiere jugar? —preguntó. Negué con la cabeza. No insistió,
+                <p>—¿Quiere jugar? —preguntó. Negué con la cabeza. No insistió,
                     cosa que más bien temía que hubiera hecho; me permitió volver
                     tranquilamente a mi asiento habitual.</p>
 
-                    <p>Él y sus ayudantes se retiraron ahora detrás de la cortina; el otro
+                <p>Él y sus ayudantes se retiraron ahora detrás de la cortina; el otro
                     grupo, que estaba encabezado por el Coronel Dent, se sentó en el
                     creciente de sillas. Uno de los caballeros, el señor Eshton,
                     observándome, pareció proponer que se me pidiera que me uniera a
                     ellos; pero Lady Ingram negó instantáneamente la idea.</p>
 
-                    <p>—No —la oí decir—. Parece demasiado estúpida para cualquier
+                <p>—No —la oí decir—. Parece demasiado estúpida para cualquier
                     juego de ese tipo.</p>
 
-                    <p>Al poco rato sonó una campanilla y la cortina se levantó. Dentro
+                <p>Al poco rato sonó una campanilla y la cortina se levantó. Dentro
                     del arco, la voluminosa figura de Sir George Lynn, a quien el señor
                     Rochester también había elegido, se vio envuelta en una sábana
                     blanca. Ante él, sobre una mesa, yacía abierto un gran libro; y a su
@@ -163,9 +165,9 @@
                     término, el Coronel Dent y su grupo consultaron en susurros durante
                     dos minutos, luego el Coronel exclamó:</p>
 
-                    <p>—¡Novia! —El señor Rochester hizo una reverencia y la cortina cayó.</p>
+                <p>—¡Novia! —El señor Rochester hizo una reverencia y la cortina cayó.</p>
 
-                    <p>Transcurrió un intervalo considerable antes de que volviera a
+                <p>Transcurrió un intervalo considerable antes de que volviera a
                     levantarse. Su segunda subida mostró una escena más
                     elaboradamente preparada que la última. El salón, como he
                     observado antes, estaba elevado dos escalones por encima del
@@ -176,7 +178,7 @@
                     colores— y desde donde debió de haber sido transportada con
                     alguna dificultad, debido a su tamaño y peso.</p>
 
-                    <p>Sentado en la alfombra, al lado de esta pila, se veía al señor
+                <p>Sentado en la alfombra, al lado de esta pila, se veía al señor
                     Rochester, ataviado con chales, con un turbante en la cabeza. Sus
                     ojos oscuros, su piel morena y sus rasgos sarracenos se adaptaban
                     exactamente al atuendo. Parecía el modelo mismo de un emir
@@ -191,7 +193,7 @@
                     patriarcales; y tal era, sin duda, el personaje que pretendía
                     representar.</p>
 
-                    <p>Se acercó a la pila y se inclinó sobre ella como para llenar su
+                <p>Se acercó a la pila y se inclinó sobre ella como para llenar su
                     cántaro; de nuevo lo levantó a su cabeza. El personaje junto al
                     brocal pareció entonces abordarla, hacerle alguna petición: «Ella se
                     apresuró, bajó su cántaro a la mano y le dio de beber». Del seno de
@@ -202,19 +204,19 @@
                     los brazaletes en los brazos y los anillos en las orejas. Eran Eliezer y
                     Rebeca; solo faltaban los camellos.</p>
 
-                    <p>El grupo adivinador volvió a juntar sus cabezas; aparentemente no
+                <p>El grupo adivinador volvió a juntar sus cabezas; aparentemente no
                     podían ponerse de acuerdo sobre la palabra o sílaba que la escena
                     ilustraba. El Coronel Dent, su portavoz, pidió «el cuadro completo»;
                     con lo cual la cortina volvió a descender.</p>
 
-                    <p>En su tercera subida solo se reveló una parte del salón; el resto
+                <p>En su tercera subida solo se reveló una parte del salón; el resto
                     estaba oculto por un biombo, cubierto con algún tipo de pañería
                     oscura y tosca. La pila de mármol había sido retirada; en su lugar, se
                     encontraba una mesa de pino y una silla de cocina. Estos objetos
                     eran visibles a una luz muy tenue que procedía de un farol de
                     cuerno, estando todas las velas de cera apagadas.</p>
 
-                    <p>En medio de esta sórdida escena, se sentaba un hombre con las
+                <p>En medio de esta sórdida escena, se sentaba un hombre con las
                     manos apretadas apoyadas en las rodillas y los ojos fijos en el suelo.
                     Reconocí al señor Rochester; aunque el rostro tiznado, el vestido
                     desordenado (su abrigo colgando suelto de un brazo, como si casi se
@@ -223,34 +225,34 @@
                     disfrazado. Al moverse, una cadena tintineó; a sus muñecas estaban
                     sujetos unos grilletes.</p>
 
-                    <p>—¡Bridewell! —exclamó el Coronel Dent, y la charada fue resuelta.</p>
+                <p>—¡Bridewell! —exclamó el Coronel Dent, y la charada fue resuelta.</p>
 
-                    <p>Habiendo transcurrido un intervalo suficiente para que los actores
+                <p>Habiendo transcurrido un intervalo suficiente para que los actores
                     reanudaran su vestimenta ordinaria, volvieron a entrar en el
                     comedor. El señor Rochester condujo a la señorita Ingram; ella lo
                     felicitaba por su actuación.</p>
 
-                    <p>—¿Sabe usted —dijo ella— que, de los tres personajes, me gustó
+                <p>—¿Sabe usted —dijo ella— que, de los tres personajes, me gustó
                     más en el último? ¡Oh, si hubiera vivido unos años antes, qué
                     galante caballero bandolero habría sido!</p>
 
-                    <p>—¿Se ha lavado todo el hollín de mi cara? —preguntó él,
+                <p>—¿Se ha lavado todo el hollín de mi cara? —preguntó él,
                     volviéndola hacia ella.</p>
 
-                    <p>—¡Ay, sí! ¡Lástima! Nada podría ser más favorecedor para su tez
+                <p>—¡Ay, sí! ¡Lástima! Nada podría ser más favorecedor para su tez
                     que ese colorete de rufián.</p>
 
-                    <p>—¿Le gustaría un héroe de los caminos, entonces?</p>
+                <p>—¿Le gustaría un héroe de los caminos, entonces?</p>
 
-                    <p>—Un héroe inglés de los caminos sería lo segundo mejor después
+                <p>—Un héroe inglés de los caminos sería lo segundo mejor después
                     de un bandido italiano; y eso solo podría ser superado por un pirata
                     levantino.</p>
 
-                    <p>—Bueno, sea lo que sea, recuerde que es usted mi esposa; nos
+                <p>—Bueno, sea lo que sea, recuerde que es usted mi esposa; nos
                     casamos hace una hora, en presencia de todos estos testigos. —Ella
                     rio tontamente y su color subió.</p>
 
-                    <p>—Ahora, Dent —continuó el señor Rochester—, es su turno. —Y
+                <p>—Ahora, Dent —continuó el señor Rochester—, es su turno. —Y
                     mientras el otro grupo se retiraba, él y su banda tomaron los
                     asientos desocupados. La señorita Ingram se colocó a la derecha de
                     su líder; los otros adivinadores llenaron las sillas a cada lado de él y
@@ -268,7 +270,7 @@
                     despertado por el espectáculo regresa a la memoria en este
                     momento.</p>
 
-                    <p>Les he dicho, lectores, que había aprendido a amar al señor
+                <p>Les he dicho, lectores, que había aprendido a amar al señor
                     Rochester. No podía dejar de amarlo ahora, simplemente porque
                     descubrí que había dejado de fijarse en mí, porque podía pasar
                     horas en su presencia y él nunca volvería sus ojos en mi dirección,
@@ -284,7 +286,7 @@
                     era, sin embargo, en su misma negligencia, cautivador, y en su
                     mismo orgullo, irresistible.</p>
 
-                    <p>No había nada que enfriara o desterrara el amor en estas
+                <p>No había nada que enfriara o desterrara el amor en estas
                     circunstancias, aunque mucho para crear desesperación. Mucho
                     también, pensarán ustedes, lectores, para engendrar celos, si una
                     mujer en mi posición pudiera presumir de estar celosa de una mujer
@@ -314,14 +316,14 @@
                     de pasión en sus sentimientos hacia ella, de donde surgía mi dolor
                     siempre torturador.</p>
 
-                    <p>Vi que iba a casarse con ella, por razones familiares, quizás
+                <p>Vi que iba a casarse con ella, por razones familiares, quizás
                     políticas, porque su rango y sus conexiones le convenían. Sentí que
                     no le había dado su amor y que las cualidades de ella estaban mal
                     adaptadas para ganarle ese tesoro. Este era el punto, aquí era
                     donde se tocaba y se atormentaba el nervio, aquí era donde se
                     sostenía y alimentaba la fiebre: ella no podía encantarle.</p>
 
-                    <p>Si hubiera logrado la victoria de una vez, y él hubiera cedido y
+                <p>Si hubiera logrado la victoria de una vez, y él hubiera cedido y
                     sinceramente puesto su corazón a sus pies, me habría cubierto la
                     cara, me habría vuelto hacia la pared y (figurativamente) habría
                     muerto para ellos. Si la señorita Ingram hubiera sido una mujer
@@ -340,7 +342,7 @@
                     atraer—, presenciar esto, era estar a la vez bajo una excitación
                     incesante y una restricción despiadada.</p>
 
-                    <p>Porque, cuando ella fracasaba, yo veía cómo podría haber tenido
+                <p>Porque, cuando ella fracasaba, yo veía cómo podría haber tenido
                     éxito. Flechas que continuamente rebotaban en el pecho del señor
                     Rochester y caían inofensivas a sus pies, podrían, lo sabía, si
                     hubieran sido disparadas por una mano más segura, haber temblado
@@ -348,7 +350,7 @@
                     severo ojo y a la suavidad a su rostro sardónico; o, mejor aún, sin
                     armas se podría haber ganado una conquista silenciosa.</p>
 
-                    <p>«¿Por qué no puede influirle más, cuando tiene el privilegio de
+                <p>«¿Por qué no puede influirle más, cuando tiene el privilegio de
                     acercarse tanto a él?», me pregunté. «¡Seguramente no puede
                     quererle de verdad, o no con verdadero afecto! Si lo hiciera, no
                     necesitaría acuñar sus sonrisas tan profusamente, lanzar sus
@@ -367,7 +369,7 @@
                     conseguirse. Y su esposa podría, creo firmemente, ser la mujer más
                     feliz que el sol ilumina».</p>
 
-                    <p>Todavía no he dicho nada condenatorio del proyecto del señor
+                <p>Todavía no he dicho nada condenatorio del proyecto del señor
                     Rochester de casarse por interés y conexiones. Me sorprendió
                     cuando descubrí por primera vez que tal era su intención. Lo había
                     considerado un hombre poco propenso a ser influenciado por
@@ -385,7 +387,7 @@
                     completamente ignorante. De lo contrario, sentía la certeza de que
                     todo el mundo actuaría como yo deseaba actuar.</p>
 
-                    <p>Pero en otros puntos, además de este, me estaba volviendo muy
+                <p>Pero en otros puntos, además de este, me estaba volviendo muy
                     indulgente con mi amo. Estaba olvidando todas sus faltas, para las
                     que una vez había mantenido una aguda vigilancia. Antiguamente
                     había sido mi empeño estudiar todos los lados de su carácter, tomar
@@ -407,7 +409,7 @@
                     señorita Ingram era feliz, porque un día podría mirar al abismo a su
                     antojo, explorar sus secretos y analizar su naturaleza.</p>
 
-                    <p>Mientras tanto, mientras yo pensaba solo en mi amo y su futura
+                <p>Mientras tanto, mientras yo pensaba solo en mi amo y su futura
                     novia, los veía solo a ellos, oía solo su discurso y consideraba solo
                     sus movimientos de importancia, el resto de la comitiva estaba
                     ocupado con sus propios intereses y placeres. Las damas Lynn e
@@ -431,7 +433,7 @@
                     era seguro que daría un nuevo impulso a la vivacidad de la
                     conversación.</p>
 
-                    <p>La falta de su influencia animadora pareció sentirse
+                <p>La falta de su influencia animadora pareció sentirse
                     particularmente un día en que había sido convocado a Millcote por
                     negocios y no era probable que regresara hasta tarde. La tarde
                     estaba húmeda; un paseo que la comitiva había propuesto dar para
@@ -450,25 +452,25 @@
                     la casa estaban en silencio; solo de vez en cuando se oía la alegría
                     de los jugadores de billar desde arriba.</p>
 
-                    <p>Estaba anocheciendo y el reloj ya había avisado de la hora de
+                <p>Estaba anocheciendo y el reloj ya había avisado de la hora de
                     vestirse para la cena, cuando la pequeña Adèle, que estaba
                     arrodillada a mi lado en el asiento de la ventana del salón, exclamó
                     de repente:</p>
 
-                    <p>—<i>Voilà Monsieur Rochester, qui revient!</i></p>
+                <p>—<i>Voilà Monsieur Rochester, qui revient!</i></p>
 
-                    <p>Me volví, y la señorita Ingram se lanzó hacia adelante desde su
+                <p>Me volví, y la señorita Ingram se lanzó hacia adelante desde su
                     sofá. Los demás también levantaron la vista de sus diversas
                     ocupaciones; pues al mismo tiempo se hizo audible un crujido de
                     ruedas y un chapoteo de cascos de caballo sobre la grava mojada.
                     Se acercaba una silla de postas.</p>
 
-                    <p>—¿Qué le puede haber poseído para volver a casa de esa manera?
+                <p>—¿Qué le puede haber poseído para volver a casa de esa manera?
                     —dijo la señorita Ingram—. Montaba a <i>Mesrour</i> (el caballo negro),
                     ¿no es así, cuando salió? Y Pilot estaba con él. ¿Qué ha hecho con
                     los animales?</p>
 
-                    <p>Mientras decía esto, acercó su alta persona y sus amplias
+                <p>Mientras decía esto, acercó su alta persona y sus amplias
                     vestiduras tan cerca de la ventana que me vi obligada a inclinarme
                     hacia atrás casi hasta romperme la espalda. En su avidez no me
                     observó al principio, pero cuando lo hizo, curvó el labio y se trasladó
@@ -477,21 +479,21 @@
                     viaje; pero no era el señor Rochester; era un hombre alto, de
                     aspecto elegante, un extraño.</p>
 
-                    <p>—¡Qué fastidio! —exclamó la señorita Ingram—. ¡Mona pesada!
+                <p>—¡Qué fastidio! —exclamó la señorita Ingram—. ¡Mona pesada!
                     (apostrofando a Adèle), ¿quién te encaramó en la ventana para dar
                     falsas noticias? —y me lanzó una mirada airada, como si yo tuviera
                     la culpa.</p>
 
-                    <p>Se oyeron algunas conversaciones en el vestíbulo y pronto entró el
+                <p>Se oyeron algunas conversaciones en el vestíbulo y pronto entró el
                     recién llegado. Hizo una reverencia a Lady Ingram, considerándola la
                     dama de más edad presente.</p>
 
-                    <p>—Parece que llego en un momento inoportuno, señora —dijo—,
+                <p>—Parece que llego en un momento inoportuno, señora —dijo—,
                     cuando mi amigo, el señor Rochester, está fuera de casa; pero llego
                     de un viaje muy largo y creo que puedo presumir de una vieja e
                     íntima amistad como para instalarme aquí hasta que regrese.</p>
 
-                    <p>Sus modales eran corteses; su acento, al hablar, me pareció algo
+                <p>Sus modales eran corteses; su acento, al hablar, me pareció algo
                     inusual, no precisamente extranjero, pero tampoco del todo inglés.
                     Su edad podría ser la del señor Rochester, entre treinta y cuarenta
                     años; su tez era singularmente amarillenta. Por lo demás, era un
@@ -502,7 +504,7 @@
                     que se asomaba de él era una vida mansa, vacía, al menos así lo
                     pensé.</p>
 
-                    <p>El sonido de la campana para vestirse dispersó a la comitiva. No
+                <p>El sonido de la campana para vestirse dispersó a la comitiva. No
                     fue hasta después de la cena que lo volví a ver. Entonces parecía
                     bastante a gusto. Pero su fisonomía me gustó incluso menos que
                     antes; me pareció a la vez inestable e inanimada. Su ojo vagaba y
@@ -514,7 +516,7 @@
                     pensamiento en la frente baja y uniforme; ningún mando en ese ojo
                     castaño y vacío.</p>
 
-                    <p>Mientras estaba sentada en mi rincón habitual y lo miraba con la
+                <p>Mientras estaba sentada en mi rincón habitual y lo miraba con la
                     luz de los candelabros de la repisa de la chimenea iluminándolo por
                     completo —pues ocupaba un sillón acercado al fuego y seguía
                     encogiéndose aún más cerca, como si tuviera frío—, lo comparé con
@@ -523,12 +525,12 @@
                     fiero, entre una oveja mansa y el perro de pelo áspero y ojos
                     penetrantes, su guardián.</p>
 
-                    <p>Había hablado del señor Rochester como de un viejo amigo.
+                <p>Había hablado del señor Rochester como de un viejo amigo.
                     Curiosa amistad la suya debía de haber sido; una ilustración
                     palpable, en verdad, del viejo adagio de que «los extremos se
                     tocan».</p>
 
-                    <p>Dos o tres de los caballeros se sentaron cerca de él, y de vez en
+                <p>Dos o tres de los caballeros se sentaron cerca de él, y de vez en
                     cuando capté fragmentos de su conversación a través de la
                     habitación. Al principio no pude encontrar mucho sentido a lo que
                     oía, pues el discurso de Louisa Eshton y Mary Ingram, que estaban
@@ -538,15 +540,15 @@
                     amor de criatura» y que lo «adoraba»; y Mary citó su «boquita
                     bonita y su nariz agradable» como su ideal de lo encantador.</p>
 
-                    <p>—¡Y qué frente tan dulce tiene! —exclamó Louisa—. Tan lisa,
+                <p>—¡Y qué frente tan dulce tiene! —exclamó Louisa—. Tan lisa,
                     ninguna de esas irregularidades ceñudas que tanto me disgustan; ¡y
                     un ojo y una sonrisa tan plácidos!</p>
 
-                    <p>Y entonces, para mi gran alivio, el señor Henry Lynn las convocó al
+                <p>Y entonces, para mi gran alivio, el señor Henry Lynn las convocó al
                     otro lado de la habitación para resolver algún punto sobre la
                     excursión aplazada a Hay Common.</p>
 
-                    <p>Ahora pude concentrar mi atención en el grupo junto al fuego, y
+                <p>Ahora pude concentrar mi atención en el grupo junto al fuego, y
                     pronto deduje que el recién llegado se llamaba señor Mason; luego
                     supe que acababa de llegar a Inglaterra y que venía de algún país
                     cálido, razón por la cual, sin duda, su rostro era tan amarillento y se
@@ -561,7 +563,7 @@
                     europeo había limitado sus andanzas; hasta ahora nunca había oído
                     una insinuación de visitas a costas más lejanas.</p>
 
-                    <p>Estaba reflexionando sobre estas cosas cuando un incidente, y
+                <p>Estaba reflexionando sobre estas cosas cuando un incidente, y
                     uno bastante inesperado, rompió el hilo de mis cavilaciones. El señor
                     Mason, tiritando mientras alguien abría la puerta por casualidad,
                     pidió que se echara más carbón al fuego, que había consumido su
@@ -570,9 +572,9 @@
                     señor Eshton y le dijo algo en voz baja, de lo cual solo oí las
                     palabras «anciana», «bastante molesta».</p>
 
-                    <p>—Dile que la pondrán en el cepo si no se larga —respondió el magistrado.</p>
+                <p>—Dile que la pondrán en el cepo si no se larga —respondió el magistrado.</p>
 
-                    <p>—¡No, detente! —interrumpió el Coronel Dent—. No la eches,
+                <p>—¡No, detente! —interrumpió el Coronel Dent—. No la eches,
                     Eshton; podríamos sacar provecho de la situación; mejor consultar a
                     las damas. —Y hablando en voz alta, continuó—: Damas, hablaban
                     de ir a Hay Common a visitar el campamento gitano; Sam aquí dice
@@ -580,128 +582,128 @@
                     momento e insiste en ser traída ante “la nobleza” para leerles la
                     fortuna. ¿Les gustaría verla?</p>
 
-                    <p>—¡Seguramente, coronel —exclamó Lady Ingram—, no alentaría
+                <p>—¡Seguramente, coronel —exclamó Lady Ingram—, no alentaría
                     usted a una impostora tan baja! ¡Despídala, por todos los medios, de
                     inmediato!</p>
 
-                    <p>—Pero no puedo persuadirla de que se vaya, mi señora —dijo el
+                <p>—Pero no puedo persuadirla de que se vaya, mi señora —dijo el
                     lacayo—; ni ninguno de los criados. La señora Fairfax está con ella
                     ahora mismo, suplicándole que se marche; pero ha tomado una silla
                     en el rincón de la chimenea y dice que nada la moverá de allí hasta
                     que obtenga permiso para entrar aquí.</p>
 
-                    <p>—¿Qué quiere? —preguntó la señora Eshton.</p>
+                <p>—¿Qué quiere? —preguntó la señora Eshton.</p>
 
-                    <p>—«Leerle la fortuna a la nobleza», dice, señora; y jura que debe lo hará.</p>
+                <p>—«Leerle la fortuna a la nobleza», dice, señora; y jura que debe lo hará.</p>
 
-                    <p>—¿Qué aspecto tiene? —inquirieron las señoritas Eshton, al unísono.</p>
+                <p>—¿Qué aspecto tiene? —inquirieron las señoritas Eshton, al unísono.</p>
 
-                    <p>—Una vieja criatura espantosamente fea, señorita; casi tan negra como una olla.</p>
+                <p>—Una vieja criatura espantosamente fea, señorita; casi tan negra como una olla.</p>
 
-                    <p>—¡Vaya, es una verdadera hechicera! —exclamó Frederick Lynn—.
+                <p>—¡Vaya, es una verdadera hechicera! —exclamó Frederick Lynn—.
                     ¡Hagámosla entrar, por supuesto!</p>
 
-                    <p>—Por supuesto —replicó su hermano—; sería una lástima
+                <p>—Por supuesto —replicó su hermano—; sería una lástima
                     desperdiciar tal oportunidad de diversión.</p>
 
-                    <p>—Mis queridos muchachos, ¿en qué estáis pensando? —exclamó la señora Lynn.</p>
+                <p>—Mis queridos muchachos, ¿en qué estáis pensando? —exclamó la señora Lynn.</p>
 
-                    <p>—No puedo de ninguna manera consentir un proceder tan
+                <p>—No puedo de ninguna manera consentir un proceder tan
                     inconsistente —intervino la viuda Ingram.</p>
 
-                    <p>—De hecho, mamá, pero puedes, y lo harás —pronunció la altiva
+                <p>—De hecho, mamá, pero puedes, y lo harás —pronunció la altiva
                     voz de Blanche, mientras se giraba en el taburete del piano, donde
                     hasta ahora había permanecido en silencio, aparentemente
                     examinando diversas partituras—. Tengo curiosidad por oír mi
                     fortuna. Por lo tanto, Sam, ordena que avance la arpía.</p>
 
-                    <p>—¡Mi querida Blanche! ¡Recuerda...!</p>
+                <p>—¡Mi querida Blanche! ¡Recuerda...!</p>
 
-                    <p>—Lo hago, recuerdo todo lo que puedas sugerir; y debo salirme
+                <p>—Lo hago, recuerdo todo lo que puedas sugerir; y debo salirme
                     con la mía. ¡Rápido, Sam!</p>
 
-                    <p>—¡Sí, sí, sí! —gritaron todos los jóvenes, tanto damas como
+                <p>—¡Sí, sí, sí! —gritaron todos los jóvenes, tanto damas como
                     caballeros—. ¡Que venga, será un deporte excelente!</p>
 
-                    <p>El lacayo aún dudaba.</p>
+                <p>El lacayo aún dudaba.</p>
 
-                    <p>—Parece tan ruda —dijo.</p>
+                <p>—Parece tan ruda —dijo.</p>
 
-                    <p>—¡Ve! —exclamó la señorita Ingram, y el hombre fue.</p>
+                <p>—¡Ve! —exclamó la señorita Ingram, y el hombre fue.</p>
 
-                    <p>La excitación se apoderó al instante de toda la comitiva. Un fuego
+                <p>La excitación se apoderó al instante de toda la comitiva. Un fuego
                     cruzado de burlas y bromas procedía cuando Sam regresó.</p>
 
-                    <p>—No quiere venir ahora —dijo—. Dice que no es su misión
+                <p>—No quiere venir ahora —dijo—. Dice que no es su misión
                     aparecer ante la «chusma» (esas son sus palabras). Debo mostrarle
                     una habitación para ella sola, y luego aquellos que deseen
                     consultarla deben ir a ella de uno en uno.</p>
 
-                    <p>—Ya ves ahora, mi regia Blanche —comenzó Lady Ingram—, se
+                <p>—Ya ves ahora, mi regia Blanche —comenzó Lady Ingram—, se
                     extralimita. Déjate aconsejar, mi niña ángel, y...</p>
 
-                    <p>—Muéstrale la biblioteca, por supuesto —interrumpió la «niña
+                <p>—Muéstrale la biblioteca, por supuesto —interrumpió la «niña
                     ángel»—. Tampoco es mi misión escucharla ante la chusma. Pienso
                     tenerla toda para mí. ¿Hay fuego en la biblioteca?</p>
 
-                    <p>—Sí, señora, pero parece una vagabunda.</p>
+                <p>—Sí, señora, pero parece una vagabunda.</p>
 
-                    <p>—¡Cesa esa cháchara, zoquete! Y haz lo que te ordeno.</p>
+                <p>—¡Cesa esa cháchara, zoquete! Y haz lo que te ordeno.</p>
 
-                    <p>De nuevo Sam se desvaneció; y el misterio, la animación, la
+                <p>De nuevo Sam se desvaneció; y el misterio, la animación, la
                     expectación subieron a su máximo apogeo una vez más.</p>
 
-                    <p>—Ya está lista —dijo el lacayo, al reaparecer—. Desea saber quién
+                <p>—Ya está lista —dijo el lacayo, al reaparecer—. Desea saber quién
                     será su primer visitante.</p>
 
-                    <p>—Creo que sería mejor que yo le echara un vistazo antes de que
+                <p>—Creo que sería mejor que yo le echara un vistazo antes de que
                     vaya ninguna de las damas —dijo el Coronel Dent.</p>
 
-                    <p>—Dile, Sam, que va un caballero.</p>
+                <p>—Dile, Sam, que va un caballero.</p>
 
-                    <p>Sam fue y volvió.</p>
+                <p>Sam fue y volvió.</p>
 
-                    <p>—Dice, señor, que no recibirá a ningún caballero; que no
+                <p>—Dice, señor, que no recibirá a ningún caballero; que no
                     necesitan molestarse en acercarse a ella. Ni —añadió, reprimiendo
                     con dificultad una risita— a ninguna dama tampoco, excepto a las
                     jóvenes y solteras.</p>
 
-                    <p>—¡Por Júpiter, tiene gusto! —exclamó Henry Lynn.</p>
+                <p>—¡Por Júpiter, tiene gusto! —exclamó Henry Lynn.</p>
 
-                    <p>La señorita Ingram se levantó solemnemente.</p>
+                <p>La señorita Ingram se levantó solemnemente.</p>
 
-                    <p>—Yo voy primero —dijo, en un tono que podría haber convenido al
+                <p>—Yo voy primero —dijo, en un tono que podría haber convenido al
                     líder de una avanzadilla suicida, montando una brecha al frente de
                     sus hombres.</p>
 
-                    <p>—¡Oh, mi bien! ¡Oh, mi querida! ¡Detente, reflexiona! —fue el
+                <p>—¡Oh, mi bien! ¡Oh, mi querida! ¡Detente, reflexiona! —fue el
                     grito de su mamá; pero ella pasó a su lado en majestuoso silencio,
                     atravesó la puerta que el Coronel Dent mantenía abierta, y la oímos
                     entrar en la biblioteca.</p>
 
-                    <p>Siguió un silencio comparativo. Lady Ingram pensó que era «<i>le
-                    cas</i>» de retorcerse las manos, lo cual hizo en consecuencia. La
+                <p>Siguió un silencio comparativo. Lady Ingram pensó que era «<i>le
+                        cas</i>» de retorcerse las manos, lo cual hizo en consecuencia. La
                     señorita Mary declaró que sentía, por su parte, que nunca se
                     atrevería a aventurarse. Amy y Louisa Eshton rieron tontamente por
                     lo bajo y parecieron un poco asustadas.</p>
 
-                    <p>Los minutos pasaron muy lentamente; se contaron quince antes
+                <p>Los minutos pasaron muy lentamente; se contaron quince antes
                     de que la puerta de la biblioteca se abriera de nuevo. La señorita
                     Ingram regresó a nosotros a través del arco.</p>
 
-                    <p>¿Reiría? ¿Se lo tomaría como una broma? Todos los ojos la
+                <p>¿Reiría? ¿Se lo tomaría como una broma? Todos los ojos la
                     encontraron con una mirada de ávida curiosidad, y ella encontró
                     todos los ojos con una de rechazo y frialdad. No parecía ni alterada
                     ni alegre; caminó rígidamente hasta su asiento y lo tomó en silencio.</p>
 
-                    <p>—¿Y bien, Blanche? —dijo Lord Ingram.</p>
+                <p>—¿Y bien, Blanche? —dijo Lord Ingram.</p>
 
-                    <p>—¿Qué te dijo, hermana? —preguntó Mary.</p>
+                <p>—¿Qué te dijo, hermana? —preguntó Mary.</p>
 
-                    <p>—¿Qué te pareció? ¿Cómo te sientes? ¿Es una verdadera adivina?
+                <p>—¿Qué te pareció? ¿Cómo te sientes? ¿Es una verdadera adivina?
                     —demandaron las señoritas Eshton.</p>
 
-                    <p>—Ahora, ahora, buena gente —respondió la señorita Ingram—, no
+                <p>—Ahora, ahora, buena gente —respondió la señorita Ingram—, no
                     me presionen. Realmente sus órganos de asombro y credulidad se
                     excitan fácilmente. Parecen, por la importancia que todos ustedes —
                     incluida mi buena mamá— atribuyen a este asunto, creer
@@ -712,7 +714,7 @@
                     satisfecho; y ahora creo que el señor Eshton hará bien en poner a la
                     arpía en el cepo mañana por la mañana, como amenazó.</p>
 
-                    <p>La señorita Ingram tomó un libro, se reclinó en su silla y así
+                <p>La señorita Ingram tomó un libro, se reclinó en su silla y así
                     declinó toda conversación posterior. La observé durante casi media
                     hora. Durante todo ese tiempo nunca pasó una página, y su rostro
                     se ensombrecía momentáneamente, más insatisfecho y más
@@ -722,7 +724,7 @@
                     atribuía una importancia indebida a cualquier revelación que se le
                     hubiera hecho.</p>
 
-                    <p>Mientras tanto, Mary Ingram, Amy y Louisa Eshton declararon que
+                <p>Mientras tanto, Mary Ingram, Amy y Louisa Eshton declararon que
                     no se atrevían a ir solas; y sin embargo, todas deseaban ir. Se abrió
                     una negociación por mediación del embajador, Sam; y después de
                     mucho ir y venir, hasta que, creo, las pantorrillas de dicho Sam
@@ -730,18 +732,18 @@
                     dificultad, el permiso de la rigurosa Sibila para que las tres la
                     visitaran en grupo.</p>
 
-                    <p>Su visita no fue tan silenciosa como la de la señorita Ingram.
+                <p>Su visita no fue tan silenciosa como la de la señorita Ingram.
                     Oímos risitas histéricas y grititos procedentes de la biblioteca; y al
                     cabo de unos veinte minutos abrieron la puerta de golpe y salieron
                     corriendo por el vestíbulo, como si estuvieran medio muertas de
                     miedo.</p>
 
-                    <p>—¡Estoy segura de que no es trigo limpio! —gritaron, todas a una
+                <p>—¡Estoy segura de que no es trigo limpio! —gritaron, todas a una
                     —. ¡Nos ha dicho tales cosas! ¡Lo sabe todo sobre nosotras! —y se
                     dejaron caer sin aliento en los diversos asientos que los caballeros
                     se apresuraron a traerles.</p>
 
-                    <p>Presionadas para que dieran más explicaciones, declararon que les
+                <p>Presionadas para que dieran más explicaciones, declararon que les
                     había contado cosas que habían dicho y hecho cuando eran simples
                     niñas; les describió libros y adornos que tenían en sus tocadores en
                     casa, recuerdos que diferentes parientes les habían regalado.
@@ -750,7 +752,7 @@
                     gustaba en el mundo, y les había informado de lo que más
                     deseaban.</p>
 
-                    <p>Aquí intervinieron los caballeros con serias peticiones de que se
+                <p>Aquí intervinieron los caballeros con serias peticiones de que se
                     les ilustrara más sobre estos dos últimos puntos; pero solo
                     obtuvieron sonrojos, exclamaciones, temblores y risitas tontas a
                     cambio de su importunidad. Las matronas, mientras tanto, ofrecían
@@ -759,39 +761,35 @@
                     sido tomada a tiempo; y los caballeros mayores reían, y los más
                     jóvenes ofrecían sus servicios a las agitadas beldades.</p>
 
-                    <p>En medio del tumulto, y mientras mis ojos y oídos estaban
+                <p>En medio del tumulto, y mientras mis ojos y oídos estaban
                     completamente ocupados en la escena que tenía ante mí, oí un
                     carraspeo junto a mi codo. Me volví y vi a Sam.</p>
 
-                    <p>—Si me hace el favor, señorita, la gitana declara que hay otra
+                <p>—Si me hace el favor, señorita, la gitana declara que hay otra
                     señorita soltera en la habitación que aún no ha ido a verla, y jura
                     que no se irá hasta que las haya visto a todas. Pensé que debía de
                     ser usted; no hay nadie más. ¿Qué le digo?</p>
 
-                    <p>—Oh, iré sin falta —respondí; y me alegré de la inesperada
+                <p>—Oh, iré sin falta —respondí; y me alegré de la inesperada
                     oportunidad de satisfacer mi muy excitada curiosidad. Me deslicé
                     fuera de la habitación, sin que ningún ojo me observara —pues la
                     compañía estaba reunida en masa alrededor del trío tembloroso que
                     acababa de regresar— y cerré la puerta silenciosamente tras de mí.</p>
 
-                    <p>—Si quiere, señorita —dijo Sam—, la esperaré en el vestíbulo; y si
+                <p>—Si quiere, señorita —dijo Sam—, la esperaré en el vestíbulo; y si
                     la asusta, no tiene más que llamar y entraré.</p>
 
-                    <p>—No, Sam, vuelve a la cocina. No tengo el menor miedo. —Y no lo
+                <p>—No, Sam, vuelve a la cocina. No tengo el menor miedo. —Y no lo
                     tenía; pero estaba muy interesada y excitada.</p>
-                
+
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap17.php" rel="prev">Anterior</a>
                     <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
                     <a class="cambioSiguiente" href="cap19.php" rel="next">Siguiente</a>
                 </div>
             </section>
-        <div>
+            <div>
     </main>
 </body>
+
 </html>
-
-
-
-
-

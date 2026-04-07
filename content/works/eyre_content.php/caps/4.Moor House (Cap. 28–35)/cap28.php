@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="es">
+
 <head>
     <title>Capítulo 28</title>
     <meta charset="utf-8">
@@ -13,7 +14,8 @@
 <body>
     <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
+        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -28,7 +30,7 @@
             </li>
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
-            <li><a href="../../../../litto.php">Asistente virtual</a></li>
+            <li><a href="../../../../litto.php">Litto</a></li>
 
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
@@ -37,14 +39,14 @@
     <main id="main">
         <div class="layout">
             <div class="sidebar">
-                <nav class="navbar-sidebar">    
+                <nav class="navbar-sidebar">
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
                         <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
-                            <a href="../../contenido_eyre.php">Contenido</a>
+                            <a href="../../contenido_eyre.php">Obra</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
                                 <li><a href="../../capitulos.php">Capítulos</a></li>
@@ -84,214 +86,214 @@
                     </ul>
                 </nav>
             </div>
-            
+
             <section class="contenido">
                 <h1>Capítulo XXVIII</h1>
-    
+
                 <p>Han pasado dos días. Es una tarde de verano; el cochero me ha
-                dejado en un lugar llamado Whitcross; no podía llevarme más lejos
-                por la suma que le había dado, y yo no poseía ni un chelín más en el
-                mundo. La diligencia está a una milla de distancia para este
-                momento; estoy sola. En este instante descubro que he olvidado
-                sacar mi paquete del bolsillo de la diligencia, donde lo había
-                colocado por seguridad; allí permanece, allí debe permanecer; y
-                ahora, estoy absolutamente desamparada.</p>
+                    dejado en un lugar llamado Whitcross; no podía llevarme más lejos
+                    por la suma que le había dado, y yo no poseía ni un chelín más en el
+                    mundo. La diligencia está a una milla de distancia para este
+                    momento; estoy sola. En este instante descubro que he olvidado
+                    sacar mi paquete del bolsillo de la diligencia, donde lo había
+                    colocado por seguridad; allí permanece, allí debe permanecer; y
+                    ahora, estoy absolutamente desamparada.</p>
 
                 <p>Whitcross no es una ciudad, ni siquiera una aldea; no es más que
-                un pilar de piedra erigido donde se encuentran cuatro caminos:
-                encalado, supongo, para ser más visible a distancia y en la
-                oscuridad. De su cima brotan cuatro brazos: la ciudad más cercana a
-                la que estos señalan está, según la inscripción, a diez millas de
-                distancia; la más lejana, a más de veinte. Por los conocidos nombres
-                de estas ciudades, sé en qué condado he aterrizado; un condado del
-                centro-norte de Inglaterra, oscuro de páramos, surcado de
-                montañas: esto es lo que veo. Hay grandes páramos detrás y a cada
-                lado de mí; hay olas de montañas mucho más allá de ese profundo
-                valle a mis pies. La población aquí debe de ser escasa, y no veo
-                pasajeros en estos caminos. Se extienden al este, oeste, norte y sur:
-                blancos, anchos, solitarios; todos están cortados en el páramo, y el
-                brezo crece denso y salvaje hasta sus mismos bordes. Sin embargo,
-                podría pasar un viajero casual; y no deseo que ningún ojo me vea
-                ahora. Los extraños se preguntarían qué estoy haciendo,
-                demorándome aquí junto al poste indicador, evidentemente sin
-                objeto y perdida. Podrían interrogarme; no podría dar otra respuesta
-                que la que sonaría increíble y excitaría sospechas. Ningún lazo me
-                une a la sociedad humana en este momento, ningún encanto o
-                esperanza me llama a donde están mis semejantes; ninguno de los
-                que me vieran tendría un pensamiento amable o un buen deseo
-                para mí. No tengo más pariente que la madre universal, la
-                Naturaleza. Buscaré su seno y pediré reposo.</p>
+                    un pilar de piedra erigido donde se encuentran cuatro caminos:
+                    encalado, supongo, para ser más visible a distancia y en la
+                    oscuridad. De su cima brotan cuatro brazos: la ciudad más cercana a
+                    la que estos señalan está, según la inscripción, a diez millas de
+                    distancia; la más lejana, a más de veinte. Por los conocidos nombres
+                    de estas ciudades, sé en qué condado he aterrizado; un condado del
+                    centro-norte de Inglaterra, oscuro de páramos, surcado de
+                    montañas: esto es lo que veo. Hay grandes páramos detrás y a cada
+                    lado de mí; hay olas de montañas mucho más allá de ese profundo
+                    valle a mis pies. La población aquí debe de ser escasa, y no veo
+                    pasajeros en estos caminos. Se extienden al este, oeste, norte y sur:
+                    blancos, anchos, solitarios; todos están cortados en el páramo, y el
+                    brezo crece denso y salvaje hasta sus mismos bordes. Sin embargo,
+                    podría pasar un viajero casual; y no deseo que ningún ojo me vea
+                    ahora. Los extraños se preguntarían qué estoy haciendo,
+                    demorándome aquí junto al poste indicador, evidentemente sin
+                    objeto y perdida. Podrían interrogarme; no podría dar otra respuesta
+                    que la que sonaría increíble y excitaría sospechas. Ningún lazo me
+                    une a la sociedad humana en este momento, ningún encanto o
+                    esperanza me llama a donde están mis semejantes; ninguno de los
+                    que me vieran tendría un pensamiento amable o un buen deseo
+                    para mí. No tengo más pariente que la madre universal, la
+                    Naturaleza. Buscaré su seno y pediré reposo.</p>
 
                 <p>Me adentré directamente en el brezal; me aferré a una hondonada
-                que vi surcando profundamente la ladera parda del páramo; vadeé
-                hasta la rodilla en su oscura vegetación; giré con sus giros y,
-                encontrando un peñasco de granito ennegrecido por el musgo en un
-                ángulo oculto, me senté debajo de él. Altos bancos de páramo me
-                rodeaban; el peñasco protegía mi cabeza; el cielo estaba sobre
-                aquello.</p>
+                    que vi surcando profundamente la ladera parda del páramo; vadeé
+                    hasta la rodilla en su oscura vegetación; giré con sus giros y,
+                    encontrando un peñasco de granito ennegrecido por el musgo en un
+                    ángulo oculto, me senté debajo de él. Altos bancos de páramo me
+                    rodeaban; el peñasco protegía mi cabeza; el cielo estaba sobre
+                    aquello.</p>
 
                 <p>Pasó un tiempo antes de que me sintiera tranquila incluso aquí.
-                Tenía un vago temor de que pudiera haber ganado salvaje cerca, o
-                de que algún cazador o furtivo pudiera descubrirme. Si una ráfaga
-                de viento barría el yermo, levantaba la vista, temiendo que fuera la
-                embestida de un toro; si un chorlito silbaba, imaginaba que era un
-                hombre. Al encontrar infundados mis temores, sin embargo, y
-                calmada por el profundo silencio que reinaba mientras la tarde
-                declinaba al anochecer, tomé confianza. Hasta ahora no había
-                pensado; solo había escuchado, observado, temido. Ahora recuperé
-                la facultad de la reflexión.</p>
+                    Tenía un vago temor de que pudiera haber ganado salvaje cerca, o
+                    de que algún cazador o furtivo pudiera descubrirme. Si una ráfaga
+                    de viento barría el yermo, levantaba la vista, temiendo que fuera la
+                    embestida de un toro; si un chorlito silbaba, imaginaba que era un
+                    hombre. Al encontrar infundados mis temores, sin embargo, y
+                    calmada por el profundo silencio que reinaba mientras la tarde
+                    declinaba al anochecer, tomé confianza. Hasta ahora no había
+                    pensado; solo había escuchado, observado, temido. Ahora recuperé
+                    la facultad de la reflexión.</p>
 
                 <p>¿Qué debía hacer? ¿Adónde ir? ¡Oh, preguntas intolerables,
-                cuando no podía hacer nada ni ir a ninguna parte! ¡Cuando aún un
-                largo camino debía ser medido por mis miembros cansados y
-                temblorosos antes de que pudiera alcanzar una habitación humana;
-                cuando debía suplicarse la fría caridad antes de poder conseguir un
-                alojamiento; importunarse la simpatía renuente, incurrirse en un
-                rechazo casi seguro, antes de que mi historia pudiera ser escuchada
-                o una de mis necesidades aliviada!</p>
+                    cuando no podía hacer nada ni ir a ninguna parte! ¡Cuando aún un
+                    largo camino debía ser medido por mis miembros cansados y
+                    temblorosos antes de que pudiera alcanzar una habitación humana;
+                    cuando debía suplicarse la fría caridad antes de poder conseguir un
+                    alojamiento; importunarse la simpatía renuente, incurrirse en un
+                    rechazo casi seguro, antes de que mi historia pudiera ser escuchada
+                    o una de mis necesidades aliviada!</p>
 
                 <p>Toqué el brezal: estaba seco y, sin embargo, cálido con el calor del
-                día de verano. Miré al cielo; era puro. Una estrella bondadosa
-                parpadeaba justo encima de la cresta del abismo. El rocío caía, pero
-                con una suavidad propicia; ninguna brisa susurraba. La Naturaleza
-                me pareció benigna y buena; pensé que me amaba, desterrada
-                como estaba; y yo, que del hombre solo podía anticipar
-                desconfianza, rechazo, insulto, me aferré a ella con cariño filial. Esta
-                noche, al menos, sería su huésped, como era su hija. Mi madre me
-                alojaría sin dinero y sin precio. Aún me quedaba un bocado de pan:
-                el resto de un panecillo que había comprado en un pueblo por el que
-                pasamos a mediodía con un penique suelto, mi última moneda. Vi
-                arándanos maduros brillar aquí y allá, como cuentas de azabache en
-                el brezal. Recogí un puñado y los comí con el pan. Mi hambre, antes
-                aguda, fue, si no satisfecha, apaciguada por esta comida de eremita.
-                Recé mis oraciones vespertinas a su conclusión y luego elegí mi
-                lecho.</p>
+                    día de verano. Miré al cielo; era puro. Una estrella bondadosa
+                    parpadeaba justo encima de la cresta del abismo. El rocío caía, pero
+                    con una suavidad propicia; ninguna brisa susurraba. La Naturaleza
+                    me pareció benigna y buena; pensé que me amaba, desterrada
+                    como estaba; y yo, que del hombre solo podía anticipar
+                    desconfianza, rechazo, insulto, me aferré a ella con cariño filial. Esta
+                    noche, al menos, sería su huésped, como era su hija. Mi madre me
+                    alojaría sin dinero y sin precio. Aún me quedaba un bocado de pan:
+                    el resto de un panecillo que había comprado en un pueblo por el que
+                    pasamos a mediodía con un penique suelto, mi última moneda. Vi
+                    arándanos maduros brillar aquí y allá, como cuentas de azabache en
+                    el brezal. Recogí un puñado y los comí con el pan. Mi hambre, antes
+                    aguda, fue, si no satisfecha, apaciguada por esta comida de eremita.
+                    Recé mis oraciones vespertinas a su conclusión y luego elegí mi
+                    lecho.</p>
 
                 <p>Junto al peñasco, el brezal era muy profundo. Cuando me acosté,
-                mis pies quedaron enterrados en él; alzándose alto a cada lado,
-                dejaba solo un estrecho espacio para que el aire nocturno invadiera.
-                Doblé mi chal y lo extendí sobre mí a modo de cobertor; un bajo y
-                musgoso promontorio fue mi almohada. Así alojada, no tuve frío, al
-                menos al comienzo de la noche.</p>
+                    mis pies quedaron enterrados en él; alzándose alto a cada lado,
+                    dejaba solo un estrecho espacio para que el aire nocturno invadiera.
+                    Doblé mi chal y lo extendí sobre mí a modo de cobertor; un bajo y
+                    musgoso promontorio fue mi almohada. Así alojada, no tuve frío, al
+                    menos al comienzo de la noche.</p>
 
                 <p>Mi descanso podría haber sido bastante dichoso, de no ser porque
-                un corazón triste lo rompía. Se lamentaba de sus heridas abiertas,
-                su sangrado interno, sus cuerdas desgarradas. Temblaba por el
-                señor Rochester y su perdición; lo plañía con amarga piedad; lo
-                reclamaba con anhelo incesante; e, impotente como un pájaro con
-                ambas alas rotas, aún agitaba sus alas destrozadas en vanos
-                intentos de buscarlo.</p>
+                    un corazón triste lo rompía. Se lamentaba de sus heridas abiertas,
+                    su sangrado interno, sus cuerdas desgarradas. Temblaba por el
+                    señor Rochester y su perdición; lo plañía con amarga piedad; lo
+                    reclamaba con anhelo incesante; e, impotente como un pájaro con
+                    ambas alas rotas, aún agitaba sus alas destrozadas en vanos
+                    intentos de buscarlo.</p>
 
                 <p>Agotada por esta tortura de pensamiento, me puse de rodillas.
-                Había llegado la noche y sus planetas se habían alzado. Una noche
-                segura y tranquila, demasiado serena para la compañía del miedo.
-                Sabemos que Dios está en todas partes; pero ciertamente sentimos
-                Su presencia más cuando Sus obras se extienden ante nosotros en
-                la escala más grandiosa; y es en el cielo nocturno despejado, donde
-                Sus mundos giran en su curso silencioso, que leemos con mayor
-                claridad Su infinitud, Su omnipotencia, Su omnipresencia. Me había
-                puesto de rodillas para rezar por el señor Rochester. Al levantar la
-                vista, con los ojos empañados por las lágrimas, vi la majestuosa Vía
-                Láctea. Recordando lo que era —cuántos sistemas incontables
-                barrían allí el espacio como un suave rastro de luz—, sentí el poder y
-                la fuerza de Dios. Segura estaba de Su eficacia para salvar lo que Él
-                había creado. Crecí convencida de que ni la tierra perecería, ni una
-                de las almas que atesoraba. Convertí mi oración en acción de
-                gracias. La Fuente de la Vida era también el Salvador de los
-                espíritus. El señor Rochester estaba a salvo; era de Dios, y por Dios
-                sería guardado. Me acurruqué de nuevo en el seno de la colina; y al
-                poco tiempo, en el sueño, olvidé la pena.</p>
+                    Había llegado la noche y sus planetas se habían alzado. Una noche
+                    segura y tranquila, demasiado serena para la compañía del miedo.
+                    Sabemos que Dios está en todas partes; pero ciertamente sentimos
+                    Su presencia más cuando Sus obras se extienden ante nosotros en
+                    la escala más grandiosa; y es en el cielo nocturno despejado, donde
+                    Sus mundos giran en su curso silencioso, que leemos con mayor
+                    claridad Su infinitud, Su omnipotencia, Su omnipresencia. Me había
+                    puesto de rodillas para rezar por el señor Rochester. Al levantar la
+                    vista, con los ojos empañados por las lágrimas, vi la majestuosa Vía
+                    Láctea. Recordando lo que era —cuántos sistemas incontables
+                    barrían allí el espacio como un suave rastro de luz—, sentí el poder y
+                    la fuerza de Dios. Segura estaba de Su eficacia para salvar lo que Él
+                    había creado. Crecí convencida de que ni la tierra perecería, ni una
+                    de las almas que atesoraba. Convertí mi oración en acción de
+                    gracias. La Fuente de la Vida era también el Salvador de los
+                    espíritus. El señor Rochester estaba a salvo; era de Dios, y por Dios
+                    sería guardado. Me acurruqué de nuevo en el seno de la colina; y al
+                    poco tiempo, en el sueño, olvidé la pena.</p>
 
                 <p>Pero al día siguiente, la Necesidad vino a mí pálida y desnuda.
-                Mucho después de que los pajarillos hubieran dejado sus nidos;
-                mucho después de que las abejas hubieran venido en la dulce
-                plenitud del día a recoger la miel del brezo antes de que el rocío se
-                secara; cuando las largas sombras matutinas se habían acortado y el
-                sol llenaba la tierra y el cielo, me levanté y miré a mi alrededor.</p>
+                    Mucho después de que los pajarillos hubieran dejado sus nidos;
+                    mucho después de que las abejas hubieran venido en la dulce
+                    plenitud del día a recoger la miel del brezo antes de que el rocío se
+                    secara; cuando las largas sombras matutinas se habían acortado y el
+                    sol llenaba la tierra y el cielo, me levanté y miré a mi alrededor.</p>
 
                 <p>¡Qué día tan quieto, caluroso y perfecto! ¡Qué desierto dorado
-                este páramo extendido! Sol por todas partes. Deseé poder vivir en él
-                y de él. Vi una lagartija correr sobre el peñasco; vi una abeja
-                afanada entre los dulces arándanos. De buena gana, en ese
-                momento, me habría convertido en abeja o lagartija, para haber
-                encontrado aquí alimento adecuado y refugio permanente. Pero yo
-                era un ser humano y tenía las necesidades de un ser humano. No
-                debía demorarme donde no había nada para satisfacerlas. Me
-                levanté; miré el lecho que había dejado. Sin esperanza en el futuro,
-                solo deseaba esto: que mi Hacedor hubiera considerado bueno
-                reclamar mi alma esa noche mientras dormía; y que este cuerpo
-                cansado, absuelto por la muerte de más conflictos con el destino,
-                solo tuviera ahora que decaer silenciosamente y mezclarse en paz
-                con la tierra de este yermo. La vida, sin embargo, todavía estaba en
-                mi posesión, con todas sus exigencias, dolores y responsabilidades.
-                La carga debía ser llevada; la necesidad, provista; el sufrimiento,
-                soportado; la responsabilidad, cumplida. Me puse en camino.</p>
+                    este páramo extendido! Sol por todas partes. Deseé poder vivir en él
+                    y de él. Vi una lagartija correr sobre el peñasco; vi una abeja
+                    afanada entre los dulces arándanos. De buena gana, en ese
+                    momento, me habría convertido en abeja o lagartija, para haber
+                    encontrado aquí alimento adecuado y refugio permanente. Pero yo
+                    era un ser humano y tenía las necesidades de un ser humano. No
+                    debía demorarme donde no había nada para satisfacerlas. Me
+                    levanté; miré el lecho que había dejado. Sin esperanza en el futuro,
+                    solo deseaba esto: que mi Hacedor hubiera considerado bueno
+                    reclamar mi alma esa noche mientras dormía; y que este cuerpo
+                    cansado, absuelto por la muerte de más conflictos con el destino,
+                    solo tuviera ahora que decaer silenciosamente y mezclarse en paz
+                    con la tierra de este yermo. La vida, sin embargo, todavía estaba en
+                    mi posesión, con todas sus exigencias, dolores y responsabilidades.
+                    La carga debía ser llevada; la necesidad, provista; el sufrimiento,
+                    soportado; la responsabilidad, cumplida. Me puse en camino.</p>
 
                 <p>Recuperado Whitcross, seguí un camino que se alejaba del sol,
-                ahora ferviente y alto. Ninguna otra circunstancia tuvo peso para
-                decidir mi elección. Caminé mucho tiempo, y cuando pensé que ya
-                había hecho casi lo suficiente y podía ceder concienzudamente a la
-                fatiga que casi me abrumaba —podía relajar esta acción forzada y,
-                sentándome en una piedra que vi cerca, someterme sin resistencia a
-                la apatía que obstruía corazón y miembros—, oí el tañido de una
-                campana, la campana de una iglesia.</p>
+                    ahora ferviente y alto. Ninguna otra circunstancia tuvo peso para
+                    decidir mi elección. Caminé mucho tiempo, y cuando pensé que ya
+                    había hecho casi lo suficiente y podía ceder concienzudamente a la
+                    fatiga que casi me abrumaba —podía relajar esta acción forzada y,
+                    sentándome en una piedra que vi cerca, someterme sin resistencia a
+                    la apatía que obstruía corazón y miembros—, oí el tañido de una
+                    campana, la campana de una iglesia.</p>
 
                 <p>Me volví en la dirección del sonido y allí, entre las colinas
-                románticas, cuyos cambios y aspecto había dejado de notar hacía
-                una hora, vi una aldea y un campanario. Todo el valle a mi derecha
-                estaba lleno de pastizales, y trigales, y bosques; y un arroyo
-                resplandeciente corría en zigzag a través de las variadas tonalidades
-                de verde, el grano que maduraba, el sombrío bosque, la pradera
-                clara y soleada. Devuelta por el retumbar de las ruedas al camino
-                que tenía ante mí, vi un carro pesadamente cargado que subía con
-                dificultad la colina, y no muy lejos había dos vacas y su vaquero. La
-                vida humana y el trabajo humano estaban cerca. Debía seguir
-                luchando, esforzarme por vivir y doblegarme al trabajo como los
-                demás.</p>
+                    románticas, cuyos cambios y aspecto había dejado de notar hacía
+                    una hora, vi una aldea y un campanario. Todo el valle a mi derecha
+                    estaba lleno de pastizales, y trigales, y bosques; y un arroyo
+                    resplandeciente corría en zigzag a través de las variadas tonalidades
+                    de verde, el grano que maduraba, el sombrío bosque, la pradera
+                    clara y soleada. Devuelta por el retumbar de las ruedas al camino
+                    que tenía ante mí, vi un carro pesadamente cargado que subía con
+                    dificultad la colina, y no muy lejos había dos vacas y su vaquero. La
+                    vida humana y el trabajo humano estaban cerca. Debía seguir
+                    luchando, esforzarme por vivir y doblegarme al trabajo como los
+                    demás.</p>
 
                 <p>Sobre las dos de la tarde entré en el pueblo. Al final de su única
-                calle había una pequeña tienda con algunos panes en el escaparate.
-                Codicié un pan. Con ese refrigerio podría quizás recuperar un grado
-                de energía; sin él, sería difícil continuar. El deseo de tener algo de
-                fuerza y algo de vigor volvió a mí tan pronto como estuve entre mis
-                semejantes. Sentí que sería degradante desmayarme de hambre en
-                la calzada de una aldea. ¿No tenía nada encima que pudiera ofrecer
-                a cambio de uno de esos panecillos? Reflexioné. Tenía un pequeño
-                pañuelo de seda atado al cuello; tenía mis guantes. Apenas podía
-                imaginar cómo procedían los hombres y las mujeres en extremos de
-                indigencia. No sabía si alguno de estos artículos sería aceptado;
-                probablemente no, pero debía intentarlo.</p>
+                    calle había una pequeña tienda con algunos panes en el escaparate.
+                    Codicié un pan. Con ese refrigerio podría quizás recuperar un grado
+                    de energía; sin él, sería difícil continuar. El deseo de tener algo de
+                    fuerza y algo de vigor volvió a mí tan pronto como estuve entre mis
+                    semejantes. Sentí que sería degradante desmayarme de hambre en
+                    la calzada de una aldea. ¿No tenía nada encima que pudiera ofrecer
+                    a cambio de uno de esos panecillos? Reflexioné. Tenía un pequeño
+                    pañuelo de seda atado al cuello; tenía mis guantes. Apenas podía
+                    imaginar cómo procedían los hombres y las mujeres en extremos de
+                    indigencia. No sabía si alguno de estos artículos sería aceptado;
+                    probablemente no, pero debía intentarlo.</p>
 
                 <p>Entré en la tienda. Había una mujer allí. Al ver a una persona
-                respetablemente vestida, una dama según supuso, se adelantó con
-                cortesía. ¿En qué podía servirme? Me invadió la vergüenza; mi
-                lengua no pronunció la petición que había preparado. No me atreví a
-                ofrecerle los guantes medio usados, el pañuelo arrugado; además,
-                sentí que sería absurdo. Solo pedí permiso para sentarme un
-                momento, pues estaba cansada. Decepcionada en la expectativa de
-                un cliente, accedió fríamente a mi petición. Señaló un asiento; me
-                hundí en él. Sentí una fuerte necesidad de llorar; pero consciente de
-                lo inoportuna que sería tal manifestación, la contuve. Pronto le
-                pregunté «si había alguna modista o costurera de labor sencilla en el
-                pueblo».</p>
+                    respetablemente vestida, una dama según supuso, se adelantó con
+                    cortesía. ¿En qué podía servirme? Me invadió la vergüenza; mi
+                    lengua no pronunció la petición que había preparado. No me atreví a
+                    ofrecerle los guantes medio usados, el pañuelo arrugado; además,
+                    sentí que sería absurdo. Solo pedí permiso para sentarme un
+                    momento, pues estaba cansada. Decepcionada en la expectativa de
+                    un cliente, accedió fríamente a mi petición. Señaló un asiento; me
+                    hundí en él. Sentí una fuerte necesidad de llorar; pero consciente de
+                    lo inoportuna que sería tal manifestación, la contuve. Pronto le
+                    pregunté «si había alguna modista o costurera de labor sencilla en el
+                    pueblo».</p>
 
                 <p>—Sí, dos o tres. Tantas como había trabajo para ellas.</p>
 
                 <p>Reflexioné. Me veía abocada al extremo ahora. Me encontraba
-                cara a cara con la Necesidad. Estaba en la posición de alguien sin un
-                recurso, sin un amigo, sin una moneda. Debía hacer algo. ¿Qué?
-                Debía solicitar en alguna parte. ¿Dónde?</p>
+                    cara a cara con la Necesidad. Estaba en la posición de alguien sin un
+                    recurso, sin un amigo, sin una moneda. Debía hacer algo. ¿Qué?
+                    Debía solicitar en alguna parte. ¿Dónde?</p>
 
                 <p>—¿Sabía ella de algún lugar en los alrededores donde se
-                necesitara una criada?</p>
+                    necesitara una criada?</p>
 
                 <p>—No, no sabría decir.</p>
 
                 <p>—¿Cuál era el principal oficio en este lugar? ¿A qué se dedicaba la
-                mayoría de la gente?</p>
+                    mayoría de la gente?</p>
 
                 <p>—Algunos eran jornaleros; muchos trabajaban en la fábrica de
-                agujas del señor Oliver y en la fundición.</p>
+                    agujas del señor Oliver y en la fundición.</p>
 
                 <p>—¿El señor Oliver empleaba a mujeres?</p>
 
@@ -300,70 +302,70 @@
                 <p>—¿Y qué hacen las mujeres?</p>
 
                 <p>—No sé yo —fue la respuesta—. Unas hacen una cosa y otras
-                otra. Los pobres tienen que apañárselas como pueden.</p>
+                    otra. Los pobres tienen que apañárselas como pueden.</p>
 
                 <p>Parecía estar cansada de mis preguntas. Y, en verdad, ¿qué
-                derecho tenía yo a importunarla? Entraron un par de vecinos; mi silla
-                era evidentemente necesaria. Me despedí.</p>
+                    derecho tenía yo a importunarla? Entraron un par de vecinos; mi silla
+                    era evidentemente necesaria. Me despedí.</p>
 
                 <p>Subí por la calle, mirando mientras iba todas las casas a derecha e
-                izquierda; pero no pude descubrir ningún pretexto ni ver un
-                incentivo para entrar en ninguna. Deambulé por la aldea,
-                alejándome a veces un poco y volviendo de nuevo, durante una hora
-                o más. Muy agotada y sufriendo mucho ahora por falta de comida,
-                me desvié a un sendero y me senté bajo el seto. Antes de que
-                pasaran muchos minutos, estaba de nuevo en pie, sin embargo, y de
-                nuevo buscando algo: un recurso, o al menos un informante. Una
-                bonita casita se alzaba al final del sendero, con un jardín delante,
-                exquisitamente cuidado y brillantemente florido. Me detuve en ella.
-                ¿Qué derecho tenía yo a acercarme a la puerta blanca o a tocar el
-                reluciente llamador? ¿De qué manera podría ser de interés para los
-                habitantes de esa morada servirme? Sin embargo, me acerqué y
-                llamé. Una joven de aspecto dulce y vestida con limpieza abrió la
-                puerta. Con una voz como la que se podría esperar de un corazón
-                sin esperanza y un cuerpo desfallecido —una voz miserablemente
-                baja y vacilante—, pregunté si se necesitaba una criada aquí.</p>
+                    izquierda; pero no pude descubrir ningún pretexto ni ver un
+                    incentivo para entrar en ninguna. Deambulé por la aldea,
+                    alejándome a veces un poco y volviendo de nuevo, durante una hora
+                    o más. Muy agotada y sufriendo mucho ahora por falta de comida,
+                    me desvié a un sendero y me senté bajo el seto. Antes de que
+                    pasaran muchos minutos, estaba de nuevo en pie, sin embargo, y de
+                    nuevo buscando algo: un recurso, o al menos un informante. Una
+                    bonita casita se alzaba al final del sendero, con un jardín delante,
+                    exquisitamente cuidado y brillantemente florido. Me detuve en ella.
+                    ¿Qué derecho tenía yo a acercarme a la puerta blanca o a tocar el
+                    reluciente llamador? ¿De qué manera podría ser de interés para los
+                    habitantes de esa morada servirme? Sin embargo, me acerqué y
+                    llamé. Una joven de aspecto dulce y vestida con limpieza abrió la
+                    puerta. Con una voz como la que se podría esperar de un corazón
+                    sin esperanza y un cuerpo desfallecido —una voz miserablemente
+                    baja y vacilante—, pregunté si se necesitaba una criada aquí.</p>
 
                 <p>—No —dijo—. No tenemos criada.</p>
 
                 <p>¿Puede decirme dónde podría conseguir empleo de cualquier
-                tipo? —continué—. Soy una extraña, sin conocidos en este lugar.
-                Necesito algún trabajo, no importa cuál.</p>
+                    tipo? —continué—. Soy una extraña, sin conocidos en este lugar.
+                    Necesito algún trabajo, no importa cuál.</p>
 
                 <p>Pero no era asunto suyo pensar por mí o buscarme un lugar.
-                Además, a sus ojos, ¡qué dudoso debía de parecer mi carácter, mi
-                posición, mi historia! Sacudió la cabeza, «lamentaba no poder darme
-                ninguna información», y la puerta blanca se cerró, con bastante
-                suavidad y cortesía, pero me dejó fuera. Si la hubiera mantenido
-                abierta un poco más, creo que habría suplicado un trozo de pan,
-                pues ahora estaba hundida en la miseria.</p>
+                    Además, a sus ojos, ¡qué dudoso debía de parecer mi carácter, mi
+                    posición, mi historia! Sacudió la cabeza, «lamentaba no poder darme
+                    ninguna información», y la puerta blanca se cerró, con bastante
+                    suavidad y cortesía, pero me dejó fuera. Si la hubiera mantenido
+                    abierta un poco más, creo que habría suplicado un trozo de pan,
+                    pues ahora estaba hundida en la miseria.</p>
 
                 <p>No podía soportar volver al sórdido pueblo, donde, además, no se
-                vislumbraba ninguna perspectiva de ayuda. Habría anhelado más
-                bien desviarme a un bosque que vi no muy lejos, que parecía ofrecer
-                en su espesa sombra un refugio acogedor; pero estaba tan enferma,
-                tan débil, tan roída por las ansias de la naturaleza, que el instinto
-                me mantuvo vagando alrededor de las moradas donde había una
-                posibilidad de comida. La soledad no sería soledad, el descanso no
-                sería descanso, mientras el buitre del hambre hundiera así el pico y
-                las garras en mi costado.</p>
+                    vislumbraba ninguna perspectiva de ayuda. Habría anhelado más
+                    bien desviarme a un bosque que vi no muy lejos, que parecía ofrecer
+                    en su espesa sombra un refugio acogedor; pero estaba tan enferma,
+                    tan débil, tan roída por las ansias de la naturaleza, que el instinto
+                    me mantuvo vagando alrededor de las moradas donde había una
+                    posibilidad de comida. La soledad no sería soledad, el descanso no
+                    sería descanso, mientras el buitre del hambre hundiera así el pico y
+                    las garras en mi costado.</p>
 
                 <p>Me acerqué a las casas; las dejé y volví de nuevo, y de nuevo me
-                alejé vagando. Siempre repelida por la conciencia de no tener
-                ningún derecho a pedir, ningún derecho a esperar interés en mi
-                suerte aislada. Mientras tanto, la tarde avanzaba, mientras yo
-                vagaba así como un perro perdido y hambriento. Al cruzar un
-                campo, vi el campanario de la iglesia ante mí; me apresuré hacia él.
-                Cerca del cementerio y en medio de un jardín, se alzaba una casa
-                bien construida aunque pequeña, que no dudé que era la rectoría.
-                Recordé que los extraños que llegan a un lugar donde no tienen
-                amigos y que buscan empleo, a veces acuden al clérigo en busca de
-                presentación y ayuda. Es la función del clérigo ayudar —al menos
-                con consejos— a aquellos que desean ayudarse a sí mismos. Me
-                pareció tener algo así como un derecho a buscar consejo aquí.
-                Renovando entonces mi valor y reuniendo mis débiles restos de
-                fuerza, seguí adelante. Llegué a la casa y llamé a la puerta de la
-                cocina. Abrió una anciana. Le pregunté si esta era la rectoría.</p>
+                    alejé vagando. Siempre repelida por la conciencia de no tener
+                    ningún derecho a pedir, ningún derecho a esperar interés en mi
+                    suerte aislada. Mientras tanto, la tarde avanzaba, mientras yo
+                    vagaba así como un perro perdido y hambriento. Al cruzar un
+                    campo, vi el campanario de la iglesia ante mí; me apresuré hacia él.
+                    Cerca del cementerio y en medio de un jardín, se alzaba una casa
+                    bien construida aunque pequeña, que no dudé que era la rectoría.
+                    Recordé que los extraños que llegan a un lugar donde no tienen
+                    amigos y que buscan empleo, a veces acuden al clérigo en busca de
+                    presentación y ayuda. Es la función del clérigo ayudar —al menos
+                    con consejos— a aquellos que desean ayudarse a sí mismos. Me
+                    pareció tener algo así como un derecho a buscar consejo aquí.
+                    Renovando entonces mi valor y reuniendo mis débiles restos de
+                    fuerza, seguí adelante. Llegué a la casa y llamé a la puerta de la
+                    cocina. Abrió una anciana. Le pregunté si esta era la rectoría.</p>
 
                 <p>—Sí.</p>
 
@@ -378,22 +380,22 @@
                 <p>—¿A un lugar lejano?</p>
 
                 <p>—No tanto, unas tres millas. Lo habían llamado por la muerte
-                repentina de su padre. Estaba ahora en Marsh End y muy
-                probablemente se quedaría allí quince días más.</p>
+                    repentina de su padre. Estaba ahora en Marsh End y muy
+                    probablemente se quedaría allí quince días más.</p>
 
                 <p>—¿Había alguna señora de la casa?</p>
 
                 <p>—No, no había más que ella, y era el ama de llaves. —Y a ella,
-                lector, no pude soportar pedirle el alivio por cuya falta me estaba
-                hundiendo. Todavía no podía mendigar; y de nuevo me arrastré
-                lejos.</p>
+                    lector, no pude soportar pedirle el alivio por cuya falta me estaba
+                    hundiendo. Todavía no podía mendigar; y de nuevo me arrastré
+                    lejos.</p>
 
                 <p>Una vez más me quité el pañuelo, una vez más pensé en los
-                panes de la pequeña tienda. ¡Oh, por solo una corteza! ¡Por solo un
-                bocado para aplacar la punzada del hambre! Instintivamente volví mi
-                rostro de nuevo hacia el pueblo; encontré la tienda de nuevo y
-                entré. Y aunque había otros además de la mujer, me aventuré a
-                hacer la petición:</p>
+                    panes de la pequeña tienda. ¡Oh, por solo una corteza! ¡Por solo un
+                    bocado para aplacar la punzada del hambre! Instintivamente volví mi
+                    rostro de nuevo hacia el pueblo; encontré la tienda de nuevo y
+                    entré. Y aunque había otros además de la mujer, me aventuré a
+                    hacer la petición:</p>
 
                 <p>—¿Me daría un panecillo por este pañuelo?</p>
 
@@ -404,314 +406,314 @@
                 <p>Casi desesperada, pedí medio pan. De nuevo se negó.</p>
 
                 <p>—¿Cómo podía saber ella de dónde había sacado yo el pañuelo? —dijo.</p>
-            
+
                 <p>—¿Aceptaría mis guantes?</p>
 
                 <p>—¡No! ¿Qué podría hacer con ellos?</p>
 
                 <p>Lector, no es agradable detenerse en estos detalles. Algunos dicen
-                que hay disfrute en mirar hacia atrás a la experiencia dolorosa
-                pasada; pero a día de hoy apenas puedo soportar revisar los
-                tiempos a los que aludo. La degradación moral, mezclada con el
-                sufrimiento físico, forman un recuerdo demasiado angustioso como
-                para detenerse en él voluntariamente. No culpé a ninguno de los
-                que me rechazaron. Sentí que era lo que se debía esperar y lo que
-                no se podía evitar. Un mendigo corriente es frecuentemente objeto
-                de sospecha; un mendigo bien vestido, inevitablemente lo es. Por
-                supuesto, lo que yo pedía era empleo; pero, ¿de quién era el asunto
-                de proporcionarme empleo? No, ciertamente, de personas que me
-                veían entonces por primera vez y que no sabían nada de mi carácter.
-                Y en cuanto a la mujer que no quiso tomar mi pañuelo a cambio de
-                su pan, bueno, tenía razón, si la oferta le pareció siniestra o el
-                intercambio poco provechoso. Déjame condensar ahora. Estoy harta
-                del tema.</p>
+                    que hay disfrute en mirar hacia atrás a la experiencia dolorosa
+                    pasada; pero a día de hoy apenas puedo soportar revisar los
+                    tiempos a los que aludo. La degradación moral, mezclada con el
+                    sufrimiento físico, forman un recuerdo demasiado angustioso como
+                    para detenerse en él voluntariamente. No culpé a ninguno de los
+                    que me rechazaron. Sentí que era lo que se debía esperar y lo que
+                    no se podía evitar. Un mendigo corriente es frecuentemente objeto
+                    de sospecha; un mendigo bien vestido, inevitablemente lo es. Por
+                    supuesto, lo que yo pedía era empleo; pero, ¿de quién era el asunto
+                    de proporcionarme empleo? No, ciertamente, de personas que me
+                    veían entonces por primera vez y que no sabían nada de mi carácter.
+                    Y en cuanto a la mujer que no quiso tomar mi pañuelo a cambio de
+                    su pan, bueno, tenía razón, si la oferta le pareció siniestra o el
+                    intercambio poco provechoso. Déjame condensar ahora. Estoy harta
+                    del tema.</p>
 
                 <p>Un poco antes del anochecer pasé por una granja, a cuya puerta
-                abierta estaba sentado el granjero, comiendo su cena de pan y
-                queso. Me detuve y dije:</p>
+                    abierta estaba sentado el granjero, comiendo su cena de pan y
+                    queso. Me detuve y dije:</p>
 
                 <p>—¿Me daría un trozo de pan? Porque tengo mucha hambre. —Me
-                lanzó una mirada de sorpresa; pero sin responder, cortó una gruesa
-                rebanada de su hogaza y me la dio. Imagino que no pensó que yo
-                era una mendiga, sino solo una especie de dama excéntrica que se
-                había encaprichado de su pan moreno. Tan pronto como estuve
-                fuera de la vista de su casa, me senté y lo comí.</p>
+                    lanzó una mirada de sorpresa; pero sin responder, cortó una gruesa
+                    rebanada de su hogaza y me la dio. Imagino que no pensó que yo
+                    era una mendiga, sino solo una especie de dama excéntrica que se
+                    había encaprichado de su pan moreno. Tan pronto como estuve
+                    fuera de la vista de su casa, me senté y lo comí.</p>
 
                 <p>No podía esperar conseguir alojamiento bajo un techo y lo busqué
-                en el bosque al que he aludido antes. Pero mi noche fue miserable,
-                mi descanso interrumpido. El suelo estaba húmedo, el aire frío.
-                Además, intrusos pasaron cerca de mí más de una vez, y tuve que
-                cambiar de lugar una y otra vez. Ninguna sensación de seguridad o
-                tranquilidad me acompañó. Hacia la mañana llovió; todo el día
-                siguiente estuvo húmedo. No me pidas, lector, que dé un relato
-                minucioso de ese día; como antes, busqué trabajo; como antes, fui
-                rechazada; como antes, pasé hambre. Pero una vez sí pasó comida
-                por mis labios. A la puerta de una cabaña vi a una niña a punto de
-                echar un plato de gachas frías en un comedero de cerdos.</p>
+                    en el bosque al que he aludido antes. Pero mi noche fue miserable,
+                    mi descanso interrumpido. El suelo estaba húmedo, el aire frío.
+                    Además, intrusos pasaron cerca de mí más de una vez, y tuve que
+                    cambiar de lugar una y otra vez. Ninguna sensación de seguridad o
+                    tranquilidad me acompañó. Hacia la mañana llovió; todo el día
+                    siguiente estuvo húmedo. No me pidas, lector, que dé un relato
+                    minucioso de ese día; como antes, busqué trabajo; como antes, fui
+                    rechazada; como antes, pasé hambre. Pero una vez sí pasó comida
+                    por mis labios. A la puerta de una cabaña vi a una niña a punto de
+                    echar un plato de gachas frías en un comedero de cerdos.</p>
 
                 <p>—¿Me darías eso? —pregunté.</p>
 
                 <p>Ella me miró fijamente.</p>
 
                 <p>—¡Madre! —exclamó—. Hay una mujer que quiere que le dé estas gachas.</p>
-            
-                <p>—Bueno, muchacha —respondió una voz desde dentro—, dáselas
-                si es una mendiga. El cerdo no las quiere.</p>
 
-                <p>La niña vació el molde endurecido en mi mano y yo lo devoré con avidez.</p> 
+                <p>—Bueno, muchacha —respondió una voz desde dentro—, dáselas
+                    si es una mendiga. El cerdo no las quiere.</p>
+
+                <p>La niña vació el molde endurecido en mi mano y yo lo devoré con avidez.</p>
 
                 <p>A medida que el húmedo crepúsculo se profundizaba, me detuve
-                en un solitario sendero de herradura, que había estado siguiendo
-                durante una hora o más.</p>
+                    en un solitario sendero de herradura, que había estado siguiendo
+                    durante una hora o más.</p>
 
                 <p>—Mis fuerzas me están fallando por completo —dije en un
-                soliloquio—. Siento que no puedo avanzar mucho más. ¿Seré una
-                paria de nuevo esta noche? Mientras la lluvia desciende así, ¿debo
-                apoyar la cabeza en el suelo frío y empapado? Me temo que no
-                puedo hacer otra cosa, pues, ¿quién me recibirá? Pero será muy
-                espantoso, con esta sensación de hambre, debilidad, frío y este
-                sentimiento de desolación, esta total postración de la esperanza.
-                Con toda probabilidad, sin embargo, moriré antes de la mañana. ¿Y
-                por qué no puedo reconciliarme con la perspectiva de la muerte?
-                ¿Por qué lucho por retener una vida sin valor? Porque sé, o creo,
-                que el señor Rochester está vivo; y entonces, morir de necesidad y
-                de frío es un destino al que la naturaleza no puede someterse
-                pasivamente. ¡Oh, Providencia! ¡Sostenme un poco más! ¡Ayuda!
-                ¡Dirígeme!</p>
+                    soliloquio—. Siento que no puedo avanzar mucho más. ¿Seré una
+                    paria de nuevo esta noche? Mientras la lluvia desciende así, ¿debo
+                    apoyar la cabeza en el suelo frío y empapado? Me temo que no
+                    puedo hacer otra cosa, pues, ¿quién me recibirá? Pero será muy
+                    espantoso, con esta sensación de hambre, debilidad, frío y este
+                    sentimiento de desolación, esta total postración de la esperanza.
+                    Con toda probabilidad, sin embargo, moriré antes de la mañana. ¿Y
+                    por qué no puedo reconciliarme con la perspectiva de la muerte?
+                    ¿Por qué lucho por retener una vida sin valor? Porque sé, o creo,
+                    que el señor Rochester está vivo; y entonces, morir de necesidad y
+                    de frío es un destino al que la naturaleza no puede someterse
+                    pasivamente. ¡Oh, Providencia! ¡Sostenme un poco más! ¡Ayuda!
+                    ¡Dirígeme!</p>
 
                 <p>Mi ojo vidrioso vagó por el paisaje oscuro y neblinoso. Vi que me
-                había alejado mucho del pueblo; estaba completamente fuera de la
-                vista. La misma zona de cultivo que lo rodeaba había desaparecido.
-                Por atajos y veredas, me había acercado una vez más a la extensión
-                de páramo; y ahora, solo unos pocos campos, casi tan salvajes e
-                improductivos como el brezal del que apenas habían sido
-                reclamados, se interponían entre mí y la colina oscura.</p>
+                    había alejado mucho del pueblo; estaba completamente fuera de la
+                    vista. La misma zona de cultivo que lo rodeaba había desaparecido.
+                    Por atajos y veredas, me había acercado una vez más a la extensión
+                    de páramo; y ahora, solo unos pocos campos, casi tan salvajes e
+                    improductivos como el brezal del que apenas habían sido
+                    reclamados, se interponían entre mí y la colina oscura.</p>
 
                 <p>«Bueno, preferiría morir allá que en una calle o en un camino
-                frecuentado», reflexioné. «Y mucho mejor que los cuervos y las
-                cornejas —si es que hay cornejas en estas regiones— piquen mi
-                carne de mis huesos, a que estos sean aprisionados en un ataúd de
-                hospicio y se pudran en la tumba de un pobre».</p>
+                    frecuentado», reflexioné. «Y mucho mejor que los cuervos y las
+                    cornejas —si es que hay cornejas en estas regiones— piquen mi
+                    carne de mis huesos, a que estos sean aprisionados en un ataúd de
+                    hospicio y se pudran en la tumba de un pobre».</p>
 
                 <p>Hacia la colina, pues, me volví. La alcancé. Ahora solo quedaba
-                encontrar una hondonada donde pudiera acostarme y sentirme al
-                menos oculta, si no segura. Pero toda la superficie del yermo parecía
-                nivelada. No mostraba más variación que la del tinte: verde, donde
-                los juncos y el musgo cubrían las marismas; negro, donde el suelo
-                seco solo albergaba brezo. Por muy oscuro que se estuviera
-                poniendo, todavía podía ver estos cambios, aunque solo como meras
-                alternancias de luz y sombra, pues el color se había desvanecido con
-                la luz del día.</p>
+                    encontrar una hondonada donde pudiera acostarme y sentirme al
+                    menos oculta, si no segura. Pero toda la superficie del yermo parecía
+                    nivelada. No mostraba más variación que la del tinte: verde, donde
+                    los juncos y el musgo cubrían las marismas; negro, donde el suelo
+                    seco solo albergaba brezo. Por muy oscuro que se estuviera
+                    poniendo, todavía podía ver estos cambios, aunque solo como meras
+                    alternancias de luz y sombra, pues el color se había desvanecido con
+                    la luz del día.</p>
 
                 <p>Mi ojo todavía recorría la hosca elevación y a lo largo del borde del
-                páramo, que se desvanecía en medio del paisaje más salvaje,
-                cuando en un punto oscuro, muy adentro entre las marismas y las
-                crestas, brotó una luz. «Eso es un fuego fatuo», fue mi primer
-                pensamiento; y esperaba que pronto se desvaneciera. Sin embargo,
-                siguió ardiendo, con bastante constancia, sin retroceder ni avanzar.
-                «¿Es, entonces, una hoguera recién encendida?», me pregunté.
-                Observé para ver si se extendía, pero no; como no disminuía,
-                tampoco aumentaba. «Puede ser una vela en una casa», conjeturé
-                entonces; «pero si es así, nunca podré alcanzarla. Está demasiado
-                lejos. Y aunque estuviera a una yarda de mí, ¿de qué me serviría?
-                Solo llamaría a la puerta para que me la cerraran en la cara».</p>
+                    páramo, que se desvanecía en medio del paisaje más salvaje,
+                    cuando en un punto oscuro, muy adentro entre las marismas y las
+                    crestas, brotó una luz. «Eso es un fuego fatuo», fue mi primer
+                    pensamiento; y esperaba que pronto se desvaneciera. Sin embargo,
+                    siguió ardiendo, con bastante constancia, sin retroceder ni avanzar.
+                    «¿Es, entonces, una hoguera recién encendida?», me pregunté.
+                    Observé para ver si se extendía, pero no; como no disminuía,
+                    tampoco aumentaba. «Puede ser una vela en una casa», conjeturé
+                    entonces; «pero si es así, nunca podré alcanzarla. Está demasiado
+                    lejos. Y aunque estuviera a una yarda de mí, ¿de qué me serviría?
+                    Solo llamaría a la puerta para que me la cerraran en la cara».</p>
 
                 <p>Y me derrumbé donde estaba, y escondí mi rostro contra el suelo.
-                Yací quieta un rato. El viento nocturno barrió la colina y sobre mí, y
-                murió gimiendo en la distancia; la lluvia caía rápidamente,
-                mojándome de nuevo hasta la piel. Si tan solo hubiera podido
-                endurecerme hasta la helada inmóvil —el amistoso entumecimiento
-                de la muerte—, podría haber seguido cayendo; no lo habría sentido.
-                Pero mi carne aún viva se estremeció ante su gélida influencia. Me
-                levanté al poco rato.</p>
+                    Yací quieta un rato. El viento nocturno barrió la colina y sobre mí, y
+                    murió gimiendo en la distancia; la lluvia caía rápidamente,
+                    mojándome de nuevo hasta la piel. Si tan solo hubiera podido
+                    endurecerme hasta la helada inmóvil —el amistoso entumecimiento
+                    de la muerte—, podría haber seguido cayendo; no lo habría sentido.
+                    Pero mi carne aún viva se estremeció ante su gélida influencia. Me
+                    levanté al poco rato.</p>
 
                 <p>La luz seguía allí, brillando tenue pero constante a través de la
-                lluvia. Intenté caminar de nuevo; arrastré mis miembros exhaustos
-                lentamente hacia ella. Me guio en diagonal por la colina, a través de
-                una ancha ciénaga, que habría sido intransitable en invierno, y
-                estaba fangosa y temblorosa incluso ahora, en pleno verano. Aquí
-                caí dos veces; pero otras tantas me levanté y recuperé mis
-                facultades. Esta luz era mi esperanza desvalida; debía alcanzarla.</p>
+                    lluvia. Intenté caminar de nuevo; arrastré mis miembros exhaustos
+                    lentamente hacia ella. Me guio en diagonal por la colina, a través de
+                    una ancha ciénaga, que habría sido intransitable en invierno, y
+                    estaba fangosa y temblorosa incluso ahora, en pleno verano. Aquí
+                    caí dos veces; pero otras tantas me levanté y recuperé mis
+                    facultades. Esta luz era mi esperanza desvalida; debía alcanzarla.</p>
 
                 <p>Habiendo cruzado la marisma, vi un rastro de blanco sobre el
-                páramo. Me acerqué; era un camino o una senda. Llevaba
-                directamente hacia la luz, que ahora brillaba desde una especie de
-                montículo, en medio de un grupo de árboles —abetos, al parecer,
-                por lo que pude distinguir del carácter de sus formas y follaje a
-                través de la penumbra—. Mi estrella se desvaneció al acercarme;
-                algún obstáculo se había interpuesto entre ella y yo. Extendí la mano
-                para palpar la masa oscura ante mí. Discriminé las piedras ásperas
-                de un muro bajo; sobre él, algo parecido a una empalizada, y
-                dentro, un seto alto y espinoso. Seguí a tientas. De nuevo un objeto
-                blanquecino brilló ante mí: era una puerta, un postigo; se movió
-                sobre sus goznes al tocarlo. A cada lado había un arbusto oscuro:
-                acebo o tejo.</p>
+                    páramo. Me acerqué; era un camino o una senda. Llevaba
+                    directamente hacia la luz, que ahora brillaba desde una especie de
+                    montículo, en medio de un grupo de árboles —abetos, al parecer,
+                    por lo que pude distinguir del carácter de sus formas y follaje a
+                    través de la penumbra—. Mi estrella se desvaneció al acercarme;
+                    algún obstáculo se había interpuesto entre ella y yo. Extendí la mano
+                    para palpar la masa oscura ante mí. Discriminé las piedras ásperas
+                    de un muro bajo; sobre él, algo parecido a una empalizada, y
+                    dentro, un seto alto y espinoso. Seguí a tientas. De nuevo un objeto
+                    blanquecino brilló ante mí: era una puerta, un postigo; se movió
+                    sobre sus goznes al tocarlo. A cada lado había un arbusto oscuro:
+                    acebo o tejo.</p>
 
                 <p>Al entrar por la puerta y pasar los arbustos, la silueta de una casa
-                se alzó a la vista, negra, baja y bastante larga; pero la luz guía no
-                brillaba en ninguna parte. Todo era oscuridad. ¿Se habían retirado
-                los moradores a descansar? Temí que así fuera. Buscando la puerta,
-                doblé una esquina. Allí brotó de nuevo el amistoso resplandor, desde
-                los cristales romboidales de una ventana de celosía muy pequeña, a
-                un pie del suelo, hecha aún más pequeña por el crecimiento de la
-                hiedra o alguna otra planta trepadora, cuyas hojas se agrupaban
-                densamente sobre la porción de la pared de la casa en la que estaba
-                engastada. La abertura estaba tan protegida y era tan estrecha que
-                se había considerado innecesaria una cortina o contraventana; y
-                cuando me agaché y aparté el ramaje que se extendía sobre ella,
-                pude ver todo el interior. Pude ver claramente una habitación con el
-                suelo enarenado, limpiamente fregado; un aparador de nogal, con
-                platos de peltre dispuestos en filas, que reflejaban el rojo y el
-                resplandor de un fuego de turba encendido. Pude ver un reloj, una
-                mesa de pino blanco, algunas sillas. La vela, cuyo rayo había sido mi
-                faro, ardía sobre la mesa; y a su luz una anciana, de aspecto algo
-                rudo, pero escrupulosamente limpia, como todo a su alrededor, tejía
-                una media.</p>
+                    se alzó a la vista, negra, baja y bastante larga; pero la luz guía no
+                    brillaba en ninguna parte. Todo era oscuridad. ¿Se habían retirado
+                    los moradores a descansar? Temí que así fuera. Buscando la puerta,
+                    doblé una esquina. Allí brotó de nuevo el amistoso resplandor, desde
+                    los cristales romboidales de una ventana de celosía muy pequeña, a
+                    un pie del suelo, hecha aún más pequeña por el crecimiento de la
+                    hiedra o alguna otra planta trepadora, cuyas hojas se agrupaban
+                    densamente sobre la porción de la pared de la casa en la que estaba
+                    engastada. La abertura estaba tan protegida y era tan estrecha que
+                    se había considerado innecesaria una cortina o contraventana; y
+                    cuando me agaché y aparté el ramaje que se extendía sobre ella,
+                    pude ver todo el interior. Pude ver claramente una habitación con el
+                    suelo enarenado, limpiamente fregado; un aparador de nogal, con
+                    platos de peltre dispuestos en filas, que reflejaban el rojo y el
+                    resplandor de un fuego de turba encendido. Pude ver un reloj, una
+                    mesa de pino blanco, algunas sillas. La vela, cuyo rayo había sido mi
+                    faro, ardía sobre la mesa; y a su luz una anciana, de aspecto algo
+                    rudo, pero escrupulosamente limpia, como todo a su alrededor, tejía
+                    una media.</p>
 
                 <p>Observé estos objetos someramente; en ellos no había nada
-                extraordinario. Un grupo de mayor interés apareció cerca del hogar,
-                sentado quieto en medio de la paz y el calor rosados que lo
-                impregnaban. Dos mujeres jóvenes y gráciles —damas en todos los
-                sentidos— estaban sentadas, una en una mecedora baja, la otra en
-                un taburete más bajo. Ambas vestían un luto riguroso de crespón y
-                bombasí, cuyo sombrío atuendo realzaba singularmente cuellos y
-                rostros muy claros. Un gran perro pointer viejo apoyaba su maciza
-                cabeza en la rodilla de una de las chicas; en el regazo de la otra
-                estaba acurrucado un gato negro.</p>
+                    extraordinario. Un grupo de mayor interés apareció cerca del hogar,
+                    sentado quieto en medio de la paz y el calor rosados que lo
+                    impregnaban. Dos mujeres jóvenes y gráciles —damas en todos los
+                    sentidos— estaban sentadas, una en una mecedora baja, la otra en
+                    un taburete más bajo. Ambas vestían un luto riguroso de crespón y
+                    bombasí, cuyo sombrío atuendo realzaba singularmente cuellos y
+                    rostros muy claros. Un gran perro pointer viejo apoyaba su maciza
+                    cabeza en la rodilla de una de las chicas; en el regazo de la otra
+                    estaba acurrucado un gato negro.</p>
 
                 <p>¡Extraño lugar era esta humilde cocina para tales ocupantes!
-                ¿Quiénes eran? No podían ser las hijas de la anciana de la mesa,
-                pues ella parecía una rústica, y ellas eran todo delicadeza y cultura.
-                No había visto en ninguna parte rostros como los suyos; y sin
-                embargo, al contemplarlos, me pareció íntima con cada rasgo. No
-                puedo llamarlas guapas, eran demasiado pálidas y graves para la
-                palabra. Mientras cada una se inclinaba sobre un libro, parecían
-                pensativas casi hasta la severidad. Un atril entre ellas sostenía una
-                segunda vela y dos grandes volúmenes, a los que se referían con
-                frecuencia, comparándolos, al parecer, con los libros más pequeños
-                que sostenían en sus manos, como personas que consultan un
-                diccionario para ayudarse en la tarea de la traducción. Esta escena
-                era tan silenciosa como si todas las figuras hubieran sido sombras y
-                el apartamento iluminado por el fuego un cuadro. Tan silencioso
-                estaba que podía oír las cenizas caer de la rejilla, el tictac del reloj
-                en su oscuro rincón; e incluso me pareció distinguir el clic-clic de las
-                agujas de tejer de la mujer. Por lo tanto, cuando una voz rompió por
-                fin la extraña quietud, fue lo suficientemente audible para mí.</p>
+                    ¿Quiénes eran? No podían ser las hijas de la anciana de la mesa,
+                    pues ella parecía una rústica, y ellas eran todo delicadeza y cultura.
+                    No había visto en ninguna parte rostros como los suyos; y sin
+                    embargo, al contemplarlos, me pareció íntima con cada rasgo. No
+                    puedo llamarlas guapas, eran demasiado pálidas y graves para la
+                    palabra. Mientras cada una se inclinaba sobre un libro, parecían
+                    pensativas casi hasta la severidad. Un atril entre ellas sostenía una
+                    segunda vela y dos grandes volúmenes, a los que se referían con
+                    frecuencia, comparándolos, al parecer, con los libros más pequeños
+                    que sostenían en sus manos, como personas que consultan un
+                    diccionario para ayudarse en la tarea de la traducción. Esta escena
+                    era tan silenciosa como si todas las figuras hubieran sido sombras y
+                    el apartamento iluminado por el fuego un cuadro. Tan silencioso
+                    estaba que podía oír las cenizas caer de la rejilla, el tictac del reloj
+                    en su oscuro rincón; e incluso me pareció distinguir el clic-clic de las
+                    agujas de tejer de la mujer. Por lo tanto, cuando una voz rompió por
+                    fin la extraña quietud, fue lo suficientemente audible para mí.</p>
 
                 <p>—Escucha, Diana —dijo una de las absortas estudiantes—. Franz y
-                el viejo Daniel están juntos en la noche, y Franz está contando un
-                sueño del que ha despertado aterrorizado. ¡Escucha! —Y en voz baja
-                leyó algo, de lo cual ni una sola palabra me fue inteligible, pues era
-                en una lengua desconocida, ni francés ni latín. Si era griego o
-                alemán, no sabría decirlo.</p>
+                    el viejo Daniel están juntos en la noche, y Franz está contando un
+                    sueño del que ha despertado aterrorizado. ¡Escucha! —Y en voz baja
+                    leyó algo, de lo cual ni una sola palabra me fue inteligible, pues era
+                    en una lengua desconocida, ni francés ni latín. Si era griego o
+                    alemán, no sabría decirlo.</p>
 
                 <p>—Eso es fuerte —dijo, cuando hubo terminado—. Me gusta. —La
-                otra chica, que había levantado la cabeza para escuchar a su
-                hermana, repitió, mientras miraba el fuego, una línea de lo que se
-                había leído. Más tarde conocí el idioma y el libro; por lo tanto, citaré
-                aquí la línea, aunque, cuando la oí por primera vez, fue solo como
-                un golpe en bronce sonoro para mí, sin transmitir ningún significado:</p>
+                    otra chica, que había levantado la cabeza para escuchar a su
+                    hermana, repitió, mientras miraba el fuego, una línea de lo que se
+                    había leído. Más tarde conocí el idioma y el libro; por lo tanto, citaré
+                    aquí la línea, aunque, cuando la oí por primera vez, fue solo como
+                    un golpe en bronce sonoro para mí, sin transmitir ningún significado:</p>
 
                 <p>»—“<i>Da trat hervor Einer, anzusehen wie die Sternen Nacht</i>.” ¡Bien!
-                ¡Bien! —exclamó, mientras su ojo oscuro y profundo brillaba—. ¡Ahí
-                tienes un arcángel oscuro y poderoso apropiadamente presentado!
-                La línea vale cien páginas de retórica barata. “<i>Ich wäge die
-                Gedanken in der Schale meines Zornes und die Werke mit dem
-                Gewichte meines Grimms</i>.” ¡Me gusta!</p>
+                    ¡Bien! —exclamó, mientras su ojo oscuro y profundo brillaba—. ¡Ahí
+                    tienes un arcángel oscuro y poderoso apropiadamente presentado!
+                    La línea vale cien páginas de retórica barata. “<i>Ich wäge die
+                        Gedanken in der Schale meines Zornes und die Werke mit dem
+                        Gewichte meines Grimms</i>.” ¡Me gusta!</p>
 
                 <p>Ambas guardaron silencio de nuevo.</p>
 
                 <p>—¿Hay algún país donde hablen de esa manera? —preguntó la
-                anciana, levantando la vista de su labor.</p>
+                    anciana, levantando la vista de su labor.</p>
 
                 <p>—Sí, Hannah, un país mucho más grande que Inglaterra, donde
-                no hablan de otra manera.</p>
+                    no hablan de otra manera.</p>
 
                 <p>—Bueno, por seguro que no sé yo cómo se pueden entender el
-                uno al otro. Y si alguna de vosotras fuera allí, ¿podríais decir lo que
-                dijeron, supongo?</p>
+                    uno al otro. Y si alguna de vosotras fuera allí, ¿podríais decir lo que
+                    dijeron, supongo?</p>
 
                 <p>—Probablemente podríamos decir algo de lo que dijeron, pero no
-                todo, pues no somos tan listas como crees, Hannah. No hablamos
-                alemán y no podemos leerlo sin la ayuda de un diccionario.</p>
+                    todo, pues no somos tan listas como crees, Hannah. No hablamos
+                    alemán y no podemos leerlo sin la ayuda de un diccionario.</p>
 
                 <p>—¿Y de qué os sirve?</p>
 
                 <p>—Tenemos la intención de enseñarlo algún día, o al menos los
-                elementos, como dicen; y entonces ganaremos más dinero del que
-                ganamos ahora.</p>
+                    elementos, como dicen; y entonces ganaremos más dinero del que
+                    ganamos ahora.</p>
 
                 <p>—Muy probable. Pero dejad de estudiar; ya habéis hecho bastante
-                por esta noche.</p>
+                    por esta noche.</p>
 
                 <p>—Creo que sí; al menos yo estoy cansada. Mary, ¿y tú?</p>
 
                 <p>—Mortalmente. Después de todo, es un trabajo duro afanarse en
-                un idioma sin más maestro que un diccionario.</p>
+                    un idioma sin más maestro que un diccionario.</p>
 
                 <p>—Lo es, especialmente un idioma como este intrincado pero
-                glorioso <i>Deutsch</i>. Me pregunto cuándo volverá a casa St. John.</p>
+                    glorioso <i>Deutsch</i>. Me pregunto cuándo volverá a casa St. John.</p>
 
                 <p>—Seguramente no tardará mucho ahora; son las diez en punto
-                (mirando un pequeño reloj de oro que sacó de su cinturón). Llueve
-                rápido, Hannah. ¿Tendrás la bondad de mirar el fuego del salón?</p>
+                    (mirando un pequeño reloj de oro que sacó de su cinturón). Llueve
+                    rápido, Hannah. ¿Tendrás la bondad de mirar el fuego del salón?</p>
 
                 <p>La mujer se levantó. Abrió una puerta a través de la cual vi
-                vagamente un pasillo; pronto la oí atizar un fuego en una habitación
-                interior; al instante regresó.</p>
+                    vagamente un pasillo; pronto la oí atizar un fuego en una habitación
+                    interior; al instante regresó.</p>
 
                 <p>—¡Ay, niñas! —dijo—. Me aflige de veras entrar en esa habitación
-                ahora. Se ve tan solitaria con la silla vacía y apartada en un rincón.</p>
+                    ahora. Se ve tan solitaria con la silla vacía y apartada en un rincón.</p>
 
                 <p>Se secó los ojos con el delantal. Las dos chicas, antes graves,
-                parecían tristes ahora.</p>
+                    parecían tristes ahora.</p>
 
                 <p>—Pero está en un lugar mejor —continuó Hannah—. No
-                deberíamos desearlo aquí de nuevo. Y además, nadie necesita tener
-                una muerte más tranquila que la que él tuvo.</p>
+                    deberíamos desearlo aquí de nuevo. Y además, nadie necesita tener
+                    una muerte más tranquila que la que él tuvo.</p>
 
                 <p>—¿Dices que nunca nos mencionó? —inquirió una de las damas.</p>
 
                 <p>—No tuvo tiempo, criatura. Se fue en un minuto, vuestro padre.
-                Había estado un poco indispuesto el día anterior, pero nada de
-                importancia; y cuando el señor St. John le preguntó si le gustaría
-                que mandaran a buscar a alguna de vosotras, se rio de él. Empezó
-                de nuevo con un poco de pesadez en la cabeza al día siguiente, es
-                decir, hace quince días, y se durmió y nunca despertó. Estaba casi
-                rígido cuando vuestro hermano entró en la cámara y lo encontró.
-                ¡Ay, niñas! Ese es el último del viejo linaje, pues vosotras y el señor
-                St. John sois como de otra clase que los que se han ido; por mucho
-                que vuestra madre se pareciera a vosotras, y fuera casi tan
-                instruida. Era el vivo retrato de ti, Mary; Diana se parece más a
-                vuestro padre.</p>
+                    Había estado un poco indispuesto el día anterior, pero nada de
+                    importancia; y cuando el señor St. John le preguntó si le gustaría
+                    que mandaran a buscar a alguna de vosotras, se rio de él. Empezó
+                    de nuevo con un poco de pesadez en la cabeza al día siguiente, es
+                    decir, hace quince días, y se durmió y nunca despertó. Estaba casi
+                    rígido cuando vuestro hermano entró en la cámara y lo encontró.
+                    ¡Ay, niñas! Ese es el último del viejo linaje, pues vosotras y el señor
+                    St. John sois como de otra clase que los que se han ido; por mucho
+                    que vuestra madre se pareciera a vosotras, y fuera casi tan
+                    instruida. Era el vivo retrato de ti, Mary; Diana se parece más a
+                    vuestro padre.</p>
 
                 <p>Me parecieron tan similares que no sabría decir dónde veía la
-                diferencia la vieja sirvienta (pues tal concluí ahora que era). Ambas
-                eran de tez clara y constitución esbelta; ambas poseían rostros
-                llenos de distinción e inteligencia. Una, por supuesto, tenía el pelo
-                un tono más oscuro que la otra, y había una diferencia en su estilo
-                de llevarlo. Los mechones castaño pálido de Mary estaban partidos y
-                trenzados lisos; las trenzas más oscuras de Diana cubrían su cuello
-                con gruesos rizos. El reloj dio las diez.</p>
+                    diferencia la vieja sirvienta (pues tal concluí ahora que era). Ambas
+                    eran de tez clara y constitución esbelta; ambas poseían rostros
+                    llenos de distinción e inteligencia. Una, por supuesto, tenía el pelo
+                    un tono más oscuro que la otra, y había una diferencia en su estilo
+                    de llevarlo. Los mechones castaño pálido de Mary estaban partidos y
+                    trenzados lisos; las trenzas más oscuras de Diana cubrían su cuello
+                    con gruesos rizos. El reloj dio las diez.</p>
 
                 <p>—Querréis vuestra cena, estoy segura —observó Hannah—. Y
-                también el señor St. John cuando entre.</p>
+                    también el señor St. John cuando entre.</p>
 
                 <p>Y procedió a preparar la comida. Las damas se levantaron;
-                parecían a punto de retirarse al salón. Hasta este momento, había
-                estado tan absorta en observarlas, su apariencia y conversación
-                habían excitado en mí un interés tan agudo, que casi había olvidado
-                mi propia y miserable posición. Ahora volvió a mi mente. Más
-                desolada, más desesperada que nunca me pareció por contraste. ¡Y
-                cuán imposible parecía conmover a los moradores de esta casa con
-                preocupación por mi causa; hacerles creer en la verdad de mis
-                necesidades y aflicciones; inducirlos a conceder un descanso a mis
-                vagabundeos! Mientras buscaba a tientas la puerta y llamaba con
-                vacilación, sentí que esa última idea era una mera quimera. Hannah
-                abrió.</p>
+                    parecían a punto de retirarse al salón. Hasta este momento, había
+                    estado tan absorta en observarlas, su apariencia y conversación
+                    habían excitado en mí un interés tan agudo, que casi había olvidado
+                    mi propia y miserable posición. Ahora volvió a mi mente. Más
+                    desolada, más desesperada que nunca me pareció por contraste. ¡Y
+                    cuán imposible parecía conmover a los moradores de esta casa con
+                    preocupación por mi causa; hacerles creer en la verdad de mis
+                    necesidades y aflicciones; inducirlos a conceder un descanso a mis
+                    vagabundeos! Mientras buscaba a tientas la puerta y llamaba con
+                    vacilación, sentí que esa última idea era una mera quimera. Hannah
+                    abrió.</p>
 
                 <p>—¿Qué quiere? —inquirió, con voz de sorpresa, mientras me
-                examinaba a la luz de la vela que sostenía.</p>
+                    examinaba a la luz de la vela que sostenía.</p>
 
                 <p>—¿Puedo hablar con sus señoras? —dije.</p>
 
@@ -722,94 +724,94 @@
                 <p>—¿Cuál es su asunto aquí a esta hora?</p>
 
                 <p>—Necesito un refugio para una noche en una dependencia o en
-                cualquier lugar, y un bocado de pan para comer.</p>
+                    cualquier lugar, y un bocado de pan para comer.</p>
 
                 <p>La desconfianza, el mismo sentimiento que temía, apareció en el rostro de Hannah.</p>
 
                 <p>—Le daré un trozo de pan —dijo, después de una pausa—. Pero
-                no podemos acoger a una vagabunda para que se aloje. No es
-                probable.</p>
+                    no podemos acoger a una vagabunda para que se aloje. No es
+                    probable.</p>
 
                 <p>—Déjeme hablar con sus señoras.</p>
 
                 <p>—No, yo no. ¿Qué pueden hacer ellas por usted? No debería estar
-                vagando por ahí ahora; parece muy mal.</p>
+                    vagando por ahí ahora; parece muy mal.</p>
 
                 <p>—Pero, ¿adónde iré si me echa? ¿Qué haré?</p>
 
                 <p>—Oh, le garantizo que sabe adónde ir y qué hacer. Tenga cuidado
-                de no hacer nada malo, eso es todo. Aquí tiene un penique; ahora
-                váyase...</p>
+                    de no hacer nada malo, eso es todo. Aquí tiene un penique; ahora
+                    váyase...</p>
 
                 <p>—Un penique no puede alimentarme y no tengo fuerzas para ir
-                más lejos. No cierre la puerta... ¡oh, no lo haga, por el amor de
-                Dios!</p>
+                    más lejos. No cierre la puerta... ¡oh, no lo haga, por el amor de
+                    Dios!</p>
 
                 <p>—Debo hacerlo; la lluvia está entrando...</p>
 
                 <p>—Dígaselo a las jóvenes damas. Déjeme verlas...</p>
 
                 <p>—De hecho, no lo haré. Usted no es lo que debería ser, o no haría
-                tanto ruido. ¡Márchese!</p>
+                    tanto ruido. ¡Márchese!</p>
 
                 <p>—Pero moriré si me echa.</p>
 
                 <p>—Usted no. Me temo que tiene algún mal plan en marcha, que la
-                trae por las casas de la gente a estas horas de la noche. Si tiene
-                algún seguidor —ladrones o gente así— cerca, puede decirles que no
-                estamos solas en la casa; tenemos un caballero, y perros, y armas.
-                —Aquí la honesta pero inflexible sirvienta cerró la puerta de golpe y
-                la atrancó por dentro.</p>
+                    trae por las casas de la gente a estas horas de la noche. Si tiene
+                    algún seguidor —ladrones o gente así— cerca, puede decirles que no
+                    estamos solas en la casa; tenemos un caballero, y perros, y armas.
+                    —Aquí la honesta pero inflexible sirvienta cerró la puerta de golpe y
+                    la atrancó por dentro.</p>
 
                 <p>Este fue el clímax. Una punzada de sufrimiento exquisito, una
-                convulsión de verdadera desesperación, rasgó y agitó mi corazón.
-                Agotada, en verdad, lo estaba; no podía dar un paso más. Me hundí
-                en el umbral mojado. Gemí, me retorcí las manos, lloré con angustia
-                total. ¡Oh, este espectro de la muerte! ¡Oh, esta última hora, que se
-                acerca con tanto horror! ¡Ay, este aislamiento, este destierro de mi
-                especie! No solo el ancla de la esperanza, sino el pie de la fortaleza
-                se había ido, al menos por un momento; pero esto último pronto me
-                esforcé por recuperar.</p>
+                    convulsión de verdadera desesperación, rasgó y agitó mi corazón.
+                    Agotada, en verdad, lo estaba; no podía dar un paso más. Me hundí
+                    en el umbral mojado. Gemí, me retorcí las manos, lloré con angustia
+                    total. ¡Oh, este espectro de la muerte! ¡Oh, esta última hora, que se
+                    acerca con tanto horror! ¡Ay, este aislamiento, este destierro de mi
+                    especie! No solo el ancla de la esperanza, sino el pie de la fortaleza
+                    se había ido, al menos por un momento; pero esto último pronto me
+                    esforcé por recuperar.</p>
 
                 <p>«Solo puedo morir», dije, «y creo en Dios. Déjame tratar de
-                esperar Su voluntad en silencio».</p>
+                    esperar Su voluntad en silencio».</p>
 
                 <p>Estas palabras no solo las pensé, sino que las pronuncié; y,
-                empujando toda mi miseria a mi corazón, hice un esfuerzo por
-                obligarla a permanecer allí, muda y quieta.</p>
+                    empujando toda mi miseria a mi corazón, hice un esfuerzo por
+                    obligarla a permanecer allí, muda y quieta.</p>
 
                 <p>—Todos los hombres deben morir —dijo una voz muy cercana—.
-                Pero no todos están condenados a encontrar un destino lento y
-                prematuro, como sería el tuyo si perecieras aquí de necesidad.</p>
+                    Pero no todos están condenados a encontrar un destino lento y
+                    prematuro, como sería el tuyo si perecieras aquí de necesidad.</p>
 
                 <p>—¿Quién o qué habla? —pregunté, aterrorizada por el sonido
-                inesperado e incapaz ahora de derivar de ningún suceso una
-                esperanza de ayuda. Una forma estaba cerca; qué forma, la noche
-                oscura como boca de lobo y mi visión debilitada me impidieron
-                distinguirla. Con un golpe fuerte y prolongado, el recién llegado
-                llamó a la puerta.</p>
+                    inesperado e incapaz ahora de derivar de ningún suceso una
+                    esperanza de ayuda. Una forma estaba cerca; qué forma, la noche
+                    oscura como boca de lobo y mi visión debilitada me impidieron
+                    distinguirla. Con un golpe fuerte y prolongado, el recién llegado
+                    llamó a la puerta.</p>
 
                 <p>—¿Es usted, señor St. John? —gritó Hannah.</p>
 
                 <p>—Sí, sí; abre rápido.</p>
 
                 <p>—¡Bueno, qué mojado y frío debe de estar, con una noche tan
-                salvaje como esta! Entre, sus hermanas están bastante inquietas por
-                usted, y creo que hay gente mala por ahí. Ha habido una mendiga,
-                ¡declaro que aún no se ha ido!, acostada ahí. ¡Levántese! ¡Por
-                vergüenza! ¡Márchese, digo!</p>
+                    salvaje como esta! Entre, sus hermanas están bastante inquietas por
+                    usted, y creo que hay gente mala por ahí. Ha habido una mendiga,
+                    ¡declaro que aún no se ha ido!, acostada ahí. ¡Levántese! ¡Por
+                    vergüenza! ¡Márchese, digo!</p>
 
                 <p>—¡Silencio, Hannah! Tengo una palabra que decir a la mujer. Has
-                cumplido con tu deber al excluirla, ahora déjame a mí cumplir con el
-                mío al admitirla. Estaba cerca y os escuché a ambas. Creo que este
-                es un caso peculiar, debo al menos examinarlo. Joven, levántese y
-                pase ante mí a la casa.</p>
+                    cumplido con tu deber al excluirla, ahora déjame a mí cumplir con el
+                    mío al admitirla. Estaba cerca y os escuché a ambas. Creo que este
+                    es un caso peculiar, debo al menos examinarlo. Joven, levántese y
+                    pase ante mí a la casa.</p>
 
                 <p>Con dificultad le obedecí. Al instante me encontré dentro de
-                aquella cocina limpia y luminosa —en el mismo hogar— temblando,
-                mareada; consciente de un aspecto en último grado macabro,
-                salvaje y curtido por la intemperie. Las dos damas, su hermano, el
-                señor St. John, la vieja sirvienta, todos me miraban fijamente.</p>
+                    aquella cocina limpia y luminosa —en el mismo hogar— temblando,
+                    mareada; consciente de un aspecto en último grado macabro,
+                    salvaje y curtido por la intemperie. Las dos damas, su hermano, el
+                    señor St. John, la vieja sirvienta, todos me miraban fijamente.</p>
 
                 <p>—St. John, ¿quién es? —oí preguntar a una.</p>
 
@@ -818,14 +820,14 @@
                 <p>—Sí que parece pálida —dijo Hannah.</p>
 
                 <p>—Tan pálida como la arcilla o la muerte —se respondió—. Se va a
-                caer; que se siente.</p>
+                    caer; que se siente.</p>
 
                 <p>Y, en efecto, mi cabeza daba vueltas. Caí, pero una silla me
-                recibió. Aún poseía mis sentidos, aunque en ese momento no podía
-                hablar.</p>
+                    recibió. Aún poseía mis sentidos, aunque en ese momento no podía
+                    hablar.</p>
 
                 <p>—Quizás un poco de agua la reanime. Hannah, trae un poco. Pero
-                está consumida. ¡Qué delgada y qué exangüe!</p>
+                    está consumida. ¡Qué delgada y qué exangüe!</p>
 
                 <p>—¡Un mero espectro!</p>
 
@@ -834,28 +836,28 @@
                 <p>—Hambrienta, creo. Hannah, ¿eso es leche? Dámela, y un trozo de pan.</p>
 
                 <p>Diana (la reconocí por los largos rizos que vi caer entre el fuego y
-                yo mientras se inclinaba sobre mí) partió un poco de pan, lo mojó en
-                leche y me lo puso en los labios. Su rostro estaba cerca del mío. Vi
-                que había piedad en él, y sentí simpatía en su respiración
-                apresurada. En sus simples palabras, también, hablaba la misma
-                emoción balsámica: «Intenta comer».</p>
+                    yo mientras se inclinaba sobre mí) partió un poco de pan, lo mojó en
+                    leche y me lo puso en los labios. Su rostro estaba cerca del mío. Vi
+                    que había piedad en él, y sentí simpatía en su respiración
+                    apresurada. En sus simples palabras, también, hablaba la misma
+                    emoción balsámica: «Intenta comer».</p>
 
                 <p>—Sí, intenta —repitió Mary con dulzura; y la mano de Mary me
-                quitó el sombrero empapado y me levantó la cabeza. Probé lo que
-                me ofrecían: débilmente al principio, ávidamente al poco.</p>
+                    quitó el sombrero empapado y me levantó la cabeza. Probé lo que
+                    me ofrecían: débilmente al principio, ávidamente al poco.</p>
 
                 <p>—No demasiado al principio, contrólala —dijo el hermano—. Ya ha
-                tenido suficiente. —Y retiró la taza de leche y el plato de pan.</p>
+                    tenido suficiente. —Y retiró la taza de leche y el plato de pan.</p>
 
                 <p>—Un poco más, St. John, mira la avidez en sus ojos.</p>
 
                 <p>—No más por ahora, hermana. Prueba si puede hablar ahora,
-                pregúntale su nombre.</p>
+                    pregúntale su nombre.</p>
 
                 <p>Sentí que podía hablar y respondí:</p>
 
                 <p>—Mi nombre es Jane Elliott. —Ansiosa como siempre por evitar ser
-                descubierta, había resuelto antes adoptar un alias.</p>
+                    descubierta, había resuelto antes adoptar un alias.</p>
 
                 <p>—¿Y dónde vive? ¿Dónde están sus amigos?</p>
 
@@ -868,61 +870,57 @@
                 <p>—¿Qué puede contar de sí misma?</p>
 
                 <p>De alguna manera, ahora que había cruzado el umbral de esta
-                casa y me había encontrado cara a cara con sus dueños, ya no me
-                sentía una paria, una vagabunda y una repudiada por el vasto
-                mundo. Me atreví a despojarme de la mendiga, a reanudar mi
-                manera y mi carácter naturales. Empecé una vez más a conocerme a
-                mí misma; y cuando el señor St. John pidió un relato —que en el
-                momento presente estaba demasiado débil para rendir—, dije tras
-                una breve pausa:</p>
+                    casa y me había encontrado cara a cara con sus dueños, ya no me
+                    sentía una paria, una vagabunda y una repudiada por el vasto
+                    mundo. Me atreví a despojarme de la mendiga, a reanudar mi
+                    manera y mi carácter naturales. Empecé una vez más a conocerme a
+                    mí misma; y cuando el señor St. John pidió un relato —que en el
+                    momento presente estaba demasiado débil para rendir—, dije tras
+                    una breve pausa:</p>
 
                 <p>—Señor, no puedo darle detalles esta noche.</p>
 
                 <p>—Pero, entonces —dijo él—, ¿qué espera que haga por usted?</p>
 
                 <p>—Nada —respondí. Mis fuerzas solo alcanzaban para respuestas
-                cortas. Diana tomó la palabra:</p>
+                    cortas. Diana tomó la palabra:</p>
 
                 <p>—¿Quiere decir —preguntó— que ya le hemos dado la ayuda que
-                necesita y que podemos despedirla al páramo y a la noche lluviosa?</p>
+                    necesita y que podemos despedirla al páramo y a la noche lluviosa?</p>
 
                 <p>La miré. Tenía, pensé, un semblante notable, instintivamente
-                dotado tanto de poder como de bondad. Cobré un valor repentino.
-                Respondiendo a su mirada compasiva con una sonrisa, dije:</p>
+                    dotado tanto de poder como de bondad. Cobré un valor repentino.
+                    Respondiendo a su mirada compasiva con una sonrisa, dije:</p>
 
                 <p>—Confiaré en ustedes. Si fuera un perro sin dueño y extraviado,
-                sé que no me echarían de su hogar esta noche. Tal como están las
-                cosas, realmente no tengo miedo. Hagan conmigo y por mí como
-                gusten; pero excúsenme de mucho discurso, me falta el aliento,
-                siento un espasmo cuando hablo. —Los tres me examinaron y los
-                tres guardaron silencio.</p>
+                    sé que no me echarían de su hogar esta noche. Tal como están las
+                    cosas, realmente no tengo miedo. Hagan conmigo y por mí como
+                    gusten; pero excúsenme de mucho discurso, me falta el aliento,
+                    siento un espasmo cuando hablo. —Los tres me examinaron y los
+                    tres guardaron silencio.</p>
 
                 <p>—Hannah —dijo por fin el señor St. John—, déjala sentarse ahí
-                por el momento y no le hagas preguntas; en diez minutos más, dale
-                el resto de esa leche y ese pan. Mary y Diana, vayamos al salón y
-                hablemos del asunto.</p>
+                    por el momento y no le hagas preguntas; en diez minutos más, dale
+                    el resto de esa leche y ese pan. Mary y Diana, vayamos al salón y
+                    hablemos del asunto.</p>
 
                 <p>Se retiraron. Muy pronto regresó una de las damas, no sabría
-                decir cuál. Una especie de agradable estupor se apoderaba de mí
-                mientras estaba sentada junto al fuego acogedor. En voz baja, le dio
-                algunas instrucciones a Hannah. Al poco rato, con la ayuda de la
-                sirvienta, me las arreglé para subir una escalera; me quitaron la ropa
-                empapada; pronto una cama cálida y seca me recibió. Di gracias a
-                Dios, experimenté, en medio de un agotamiento inefable, un
-                resplandor de alegría agradecida, y dormí.</p>
+                    decir cuál. Una especie de agradable estupor se apoderaba de mí
+                    mientras estaba sentada junto al fuego acogedor. En voz baja, le dio
+                    algunas instrucciones a Hannah. Al poco rato, con la ayuda de la
+                    sirvienta, me las arreglé para subir una escalera; me quitaron la ropa
+                    empapada; pronto una cama cálida y seca me recibió. Di gracias a
+                    Dios, experimenté, en medio de un agotamiento inefable, un
+                    resplandor de alegría agradecida, y dormí.</p>
 
-        <div class="botonesFinales">
-            <a class="cambioAnterior" href="cap27.php" rel="prev">Anterior</a>
-            <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
-            <a class="cambioSiguiente" href="cap29.php" rel="next">Siguiente</a>
+                <div class="botonesFinales">
+                    <a class="cambioAnterior" href="cap27.php" rel="prev">Anterior</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
+                    <a class="cambioSiguiente" href="cap29.php" rel="next">Siguiente</a>
                 </div>
             </section>
-        <div>
+            <div>
     </main>
 </body>
+
 </html>
-
-
-
-
-

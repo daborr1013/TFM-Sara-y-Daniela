@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <title>Litterally-Eyre-Resúmenes</title>
@@ -10,7 +11,8 @@
 <body>
     <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
+        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -25,27 +27,27 @@
             </li>
 
             <li><a href="../../../about_us.php">Sobre nosotras</a></li>
-            <li><a href="../../../litto.php">Asistente virtual</a></li>
+            <li><a href="../../../litto.php">Litto</a></li>
 
             <li><a href="../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
     </nav>
 
- <main id="main">
+    <main id="main">
         <section class="hero">
             <h2>Resúmenes</h2>
         </section>
 
         <div class="layout">
             <div class="sidebar">
-                <nav class="navbar-sidebar">    
+                <nav class="navbar-sidebar">
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../inicio_eyre.php">Inicio</a></li>
 
                         <li><a href="../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
-                            <a href="../contenido_eyre.php">Contenido</a>
+                            <a href="../contenido_eyre.php">Obra</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="../resumenes/resumenes.php">Resúmenes</a></li>
                                 <li><a href="../capitulos.php">Capítulos</a></li>
@@ -85,18 +87,24 @@
                     </ul>
                 </nav>
             </div>
-            
+
             <section class="pjustificado">
                 <section class="">
-                    <p>Desde aquí puedes acceder a los resúmenes por capítulo de cada etapa de la novela, haciendo click en las imagenes representativas.</p>
+                    <p>Desde aquí puedes acceder a los resúmenes por capítulo de cada etapa de la novela, haciendo click
+                        en las imagenes representativas.</p>
                 </section>
 
                 <section class="layout">
-                    <a href="resInfanciaGateshead.php"><img class="imgresumenes" src="../../../../media/images/gateshead.jpg" alt="Infancia en Gateshead"></a>
-                    <a href="resEtapaLowood.php"><img class="imgresumenes" src="../../../../media/images/lowood.jpg" alt="Etapa en Lowood"></a>
-                    <a href="resThornfieldHall.php"><img class="imgresumenes" src="../../../../media/images/thornfield.jpg" alt="Thornfield Hall"></a>
-                    <a href="resMoorHouse.php"><img class="imgresumenes" src="../../../../media/images/moorhouse.jpg" alt="Moor House"></a>
-                    <a href="resRegresoRochester.php"><img class="imgresumenes" src="../../../../media/images/regrochester.jpg" alt="Regreso de Rochester"></a>
+                    <a href="resInfanciaGateshead.php"><img class="imgresumenes"
+                            src="../../../../media/images/gateshead.jpg" alt="Infancia en Gateshead"></a>
+                    <a href="resEtapaLowood.php"><img class="imgresumenes" src="../../../../media/images/lowood.jpg"
+                            alt="Etapa en Lowood"></a>
+                    <a href="resThornfieldHall.php"><img class="imgresumenes"
+                            src="../../../../media/images/thornfield.jpg" alt="Thornfield Hall"></a>
+                    <a href="resMoorHouse.php"><img class="imgresumenes" src="../../../../media/images/moorhouse.jpg"
+                            alt="Moor House"></a>
+                    <a href="resRegresoRochester.php"><img class="imgresumenes"
+                            src="../../../../media/images/regrochester.jpg" alt="Regreso de Rochester"></a>
                 </section>
             </section>
         </div>
@@ -107,15 +115,5 @@
     </footer>
 
 </body>
+
 </html>
-
-
-
-
-
-
-
-
-
-
-

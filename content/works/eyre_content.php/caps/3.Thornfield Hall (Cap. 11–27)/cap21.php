@@ -28,7 +28,7 @@
             </li>
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
-            <li><a href="../../../../litto.php">Asistente virtual</a></li>
+            <li><a href="../../../../litto.php">Litto</a></li>
 
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
@@ -44,7 +44,7 @@
                         <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
-                            <a href="../../contenido_eyre.php">Contenido</a>
+                            <a href="../../contenido_eyre.php">Obra</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
                                 <li><a href="../../capitulos.php">Capítulos</a></li>

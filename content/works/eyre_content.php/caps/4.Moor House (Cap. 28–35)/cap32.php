@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="es">
+
 <head>
     <title>Capítulo 32</title>
     <meta charset="utf-8">
@@ -13,7 +14,8 @@
 <body>
     <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
+        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -28,7 +30,7 @@
             </li>
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
-            <li><a href="../../../../litto.php">Asistente virtual</a></li>
+            <li><a href="../../../../litto.php">Litto</a></li>
 
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
@@ -37,14 +39,14 @@
     <main id="main">
         <div class="layout">
             <div class="sidebar">
-                <nav class="navbar-sidebar">    
+                <nav class="navbar-sidebar">
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
                         <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
-                            <a href="../../contenido_eyre.php">Contenido</a>
+                            <a href="../../contenido_eyre.php">Obra</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
                                 <li><a href="../../capitulos.php">Capítulos</a></li>
@@ -84,11 +86,11 @@
                     </ul>
                 </nav>
             </div>
-            
+
             <section class="contenido">
-                    <h1>Capítulo XXXII</h1>
-    
-                    <p>Continué las labores de la escuela del pueblo tan activamente y
+                <h1>Capítulo XXXII</h1>
+
+                <p>Continué las labores de la escuela del pueblo tan activamente y
                     fielmente como pude. Al principio fue un trabajo verdaderamente
                     duro. Pasó algún tiempo antes de que, con todos mis esfuerzos,
                     pudiera comprender a mis alumnas y su naturaleza. Completamente
@@ -123,7 +125,7 @@
                     a la vez; porque, mientras los elevaba a sus propios ojos, los hacía
                     emular para merecer el trato deferente que recibían.</p>
 
-                    <p>Sentí que me convertía en una favorita en la vecindad. Cada vez
+                <p>Sentí que me convertía en una favorita en la vecindad. Cada vez
                     que salía, oía por todas partes saludos cordiales y era recibida con
                     sonrisas amistosas. Vivir en medio del aprecio general, aunque solo
                     sea el aprecio de la gente trabajadora, es como «sentarse al sol,
@@ -150,7 +152,7 @@
                     abriendo la escuela; tranquila, serena, preparada para los firmes
                     deberes del día.</p>
 
-                    <p>Rosamond Oliver cumplió su palabra de venir a visitarme. Su visita
+                <p>Rosamond Oliver cumplió su palabra de venir a visitarme. Su visita
                     a la escuela generalmente se realizaba en el transcurso de su paseo
                     matutino. Subía al galope hasta la puerta en su poni, seguida de un
                     sirviente de librea montado. Apenas se puede imaginar algo más
@@ -170,7 +172,7 @@
                     un fervor reprimido, más fuerte de lo que un músculo en tensión o
                     una mirada fulgurante podrían indicar.</p>
 
-                    <p>Por supuesto, ella conocía su poder. De hecho, él no lo ocultaba,
+                <p>Por supuesto, ella conocía su poder. De hecho, él no lo ocultaba,
                     porque no podía, de ella. A pesar de su estoicismo cristiano, cuando
                     ella se acercaba, se dirigía a él y le sonreía alegre, alentadora,
                     incluso afectuosamente en la cara, su mano temblaba y su ojo ardía.
@@ -181,7 +183,7 @@
                     el fuego está dispuesto a su alrededor. Pronto no será más que un
                     sacrificio consumido».</p>
 
-                    <p>Y entonces ella hacía un mohín como una niña decepcionada; una
+                <p>Y entonces ella hacía un mohín como una niña decepcionada; una
                     nube pensativa suavizaba su radiante vivacidad; retiraba su mano
                     apresuradamente de la de él y se apartaba con petulancia pasajera
                     de su aspecto, a la vez tan heroico y tan martirial. St. John, sin
@@ -195,7 +197,7 @@
                     Hall. Aprendí tanto de él mismo en una incursión que una vez, a
                     pesar de su reserva, tuve la osadía de hacer en su confianza.</p>
 
-                    <p>La señorita Oliver ya me honraba con frecuentes visitas a mi
+                <p>La señorita Oliver ya me honraba con frecuentes visitas a mi
                     cabaña. Había aprendido todo su carácter, que era sin misterio ni
                     disfraz: era coqueta pero no desalmada; exigente, pero no egoísta
                     sin valor. Había sido consentida desde su nacimiento, pero no estaba
@@ -213,7 +215,7 @@
                     estrecho del que podemos dar a un conocido adulto igualmente
                     atractivo.</p>
 
-                    <p>Me había tomado un capricho amable. Dijo que era como el señor
+                <p>Me había tomado un capricho amable. Dijo que era como el señor
                     Rivers, solo que, ciertamente, admitió, «ni una décima parte de
                     guapo, aunque yo era un alma pequeña, agradable y pulcra, pero él
                     era un ángel». Yo era, sin embargo, buena, inteligente, serena y
@@ -221,7 +223,7 @@
                     pueblo. Estaba segura de que mi historia anterior, si se conociera,
                     sería una novela deliciosa.</p>
 
-                    <p>Una tarde, mientras, con su habitual actividad infantil y su
+                <p>Una tarde, mientras, con su habitual actividad infantil y su
                     curiosidad irreflexiva pero no ofensiva, rebuscaba en el armario y en
                     el cajón de la mesa de mi pequeña cocina, descubrió primero dos
                     libros en francés, un volumen de Schiller, una gramática y un
@@ -231,12 +233,12 @@
                     el Valle de Morton y en los páramos circundantes. Primero quedó
                     paralizada de sorpresa y luego electrizada de deleite.</p>
 
-                    <p>¿Había hecho yo esos cuadros? ¿Sabía francés y alemán? ¡Qué
+                <p>¿Había hecho yo esos cuadros? ¿Sabía francés y alemán? ¡Qué
                     amor, qué milagro era yo! Dibujaba mejor que su maestro en la
                     primera escuela de S... ¿Le haría un retrato para enseñárselo a
                     papá?</p>
 
-                    <p>—Con mucho gusto —repliqué; y sentí un escalofrío de deleite
+                <p>—Con mucho gusto —repliqué; y sentí un escalofrío de deleite
                     artístico ante la idea de copiar de un modelo tan perfecto y radiante.
                     Llevaba entonces un vestido de seda azul oscuro; sus brazos y su
                     cuello estaban desnudos; su único adorno eran sus trenzas castañas,
@@ -245,7 +247,7 @@
                     cuidadoso. Me prometí el placer de colorearlo; y, como se estaba
                     haciendo tarde, le dije que debía venir a posar otro día.</p>
 
-                    <p>Hizo tal informe de mí a su padre que el propio señor Oliver la
+                <p>Hizo tal informe de mí a su padre que el propio señor Oliver la
                     acompañó la tarde siguiente: un hombre alto, de rasgos macizos, de
                     mediana edad y de pelo cano, a cuyo lado su encantadora hija
                     parecía una flor brillante junto a una torre canosa. Parecía un
@@ -254,7 +256,7 @@
                     que debía hacer un cuadro acabado de él. Insistió, también, en que
                     fuera al día siguiente a pasar la tarde en Vale Hall.</p>
 
-                    <p>Fui. Descubrí que era una residencia grande y hermosa, que
+                <p>Fui. Descubrí que era una residencia grande y hermosa, que
                     mostraba abundantes evidencias de riqueza en el propietario.
                     Rosamond estuvo llena de alegría y placer todo el tiempo que me
                     quedé. Su padre fue afable; y cuando entabló conversación conmigo
@@ -263,10 +265,10 @@
                     lo que veía y oía, que yo era demasiado buena para el lugar y que
                     pronto lo dejaría por uno más adecuado.</p>
 
-                    <p>—¡De hecho —exclamó Rosamond—, es lo suficientemente
+                <p>—¡De hecho —exclamó Rosamond—, es lo suficientemente
                     inteligente como para ser institutriz en una familia distinguida, papá!</p>
 
-                    <p>Pensé que preferiría con mucho estar donde estoy que en
+                <p>Pensé que preferiría con mucho estar donde estoy que en
                     cualquier familia distinguida del país. El señor Oliver habló del señor
                     Rivers —de la familia Rivers— con gran respeto. Dijo que era un
                     nombre muy antiguo en esa vecindad; que los antepasados de la
@@ -281,14 +283,14 @@
                     antiguo nombre y su sagrada profesión como compensación
                     suficiente por la falta de fortuna.</p>
 
-                    <p>Era el 5 de noviembre y día festivo. Mi pequeña criada, después
+                <p>Era el 5 de noviembre y día festivo. Mi pequeña criada, después
                     de ayudarme a limpiar mi casa, se había ido, bien satisfecha con el
                     pago de un penique por su ayuda. Todo a mi alrededor estaba
                     impecable y brillante: suelo fregado, rejilla pulida y sillas bien
                     frotadas. También me había arreglado y ahora tenía la tarde por
                     delante para pasarla como quisiera.</p>
 
-                    <p>La traducción de unas pocas páginas de alemán ocupó una hora;
+                <p>La traducción de unas pocas páginas de alemán ocupó una hora;
                     luego saqué mi paleta y mis lápices y me dediqué a la ocupación
                     más relajante, por ser más fácil, de completar la miniatura de
                     Rosamond Oliver. La cabeza ya estaba terminada; solo quedaba teñir
@@ -299,7 +301,7 @@
                     cuando, tras un rápido golpe, mi puerta se abrió, admitiendo a St.
                     John Rivers.</p>
 
-                    <p>—He venido a ver cómo pasa usted su día festivo —dijo—. ¿No,
+                <p>—He venido a ver cómo pasa usted su día festivo —dijo—. ¿No,
                     espero, pensando? No, eso está bien. Mientras dibuja no se sentirá
                     sola. Ya ve, todavía desconfío de usted, aunque se ha mantenido
                     maravillosamente hasta ahora. Le he traído un libro para el solaz de
@@ -319,7 +321,7 @@
                     divina extendida por todas partes, estarías en el infierno, el infierno
                     de tu propia mezquindad.</p>
 
-                    <p>Mientras yo ojeaba con avidez las brillantes páginas de «<i>Marmion</i>»
+                <p>Mientras yo ojeaba con avidez las brillantes páginas de «<i>Marmion</i>»
                     (pues «<i>Marmion</i>» era), St. John se inclinó para examinar mi dibujo.
                     Su alta figura se irguió de nuevo con un sobresalto. No dijo nada. Lo
                     miré; él rehuía mi mirada. Conocía bien sus pensamientos y podía
@@ -327,15 +329,15 @@
                     tranquila y serena que él. Tenía entonces temporalmente la ventaja
                     sobre él, y concebí la inclinación de hacerle algún bien, si podía.</p>
 
-                    <p>Con toda su firmeza y autocontrol», pensé, «se exige demasiado.
+                <p>Con toda su firmeza y autocontrol», pensé, «se exige demasiado.
                     Encierra cada sentimiento y cada dolor, no expresa, no confiesa, no
                     comunica nada. Estoy segura de que le beneficiaría hablar un poco
                     sobre esta dulce Rosamond, con quien cree que no debería casarse.
                     Le haré hablar».</p>
 
-                    <p>Dije primero:</p>
+                <p>Dije primero:</p>
 
-                    <p>—Tome asiento, señor Rivers. —Pero respondió, como siempre,
+                <p>—Tome asiento, señor Rivers. —Pero respondió, como siempre,
                     que no podía quedarse—. Muy bien —respondí mentalmente—,
                     quédese de pie si quiere; pero no se irá todavía, estoy decidida. La
                     soledad es al menos tan mala para usted como para mí. Intentaré
@@ -343,54 +345,54 @@
                     en ese pecho de mármol a través de la cual pueda verter una gota
                     del bálsamo de la simpatía.</p>
 
-                    <p>—¿Se parece este retrato? —pregunté sin rodeos.</p>
+                <p>—¿Se parece este retrato? —pregunté sin rodeos.</p>
 
-                    <p>—¿Se parece? ¿A quién? No lo observé de cerca.</p>
+                <p>—¿Se parece? ¿A quién? No lo observé de cerca.</p>
 
-                    <p>—Sí lo hizo, señor Rivers.</p>
+                <p>—Sí lo hizo, señor Rivers.</p>
 
-                    <p>Casi se sobresaltó ante mi súbita y extraña brusquedad. Me miró asombrado.</p>
+                <p>Casi se sobresaltó ante mi súbita y extraña brusquedad. Me miró asombrado.</p>
 
-                    <p>«Oh, eso no es nada todavía», murmuré para mis adentros. «No
+                <p>«Oh, eso no es nada todavía», murmuré para mis adentros. «No
                     pienso dejarme desconcertar por un poco de rigidez de su parte;
                     estoy preparada para llegar a extremos considerables». Continué:</p>
 
-                    <p>—Lo observó de cerca y distintamente; pero no tengo objeción a
+                <p>—Lo observó de cerca y distintamente; pero no tengo objeción a
                     que lo mire de nuevo. —Y me levanté y se lo puse en la mano.</p>
 
-                    <p>—Un cuadro bien ejecutado —dijo—. Un colorido muy suave y
+                <p>—Un cuadro bien ejecutado —dijo—. Un colorido muy suave y
                     claro; un dibujo muy grácil y correcto.</p>
 
-                    <p>—Sí, sí; ya sé todo eso. ¿Pero qué hay del parecido? ¿A quién se parece?</p>
+                <p>—Sí, sí; ya sé todo eso. ¿Pero qué hay del parecido? ¿A quién se parece?</p>
 
-                    <p>Dominando cierta vacilación, respondió:</p>
+                <p>Dominando cierta vacilación, respondió:</p>
 
-                    <p>—A la señorita Oliver, supongo.</p>
+                <p>—A la señorita Oliver, supongo.</p>
 
-                    <p>—Por supuesto. Y ahora, señor, para recompensarle por la
+                <p>—Por supuesto. Y ahora, señor, para recompensarle por la
                     acertada suposición, le prometeré pintarle un duplicado cuidadoso y
                     fiel de este mismo cuadro, siempre que admita que el regalo le sería
                     aceptable. No deseo desperdiciar mi tiempo y mi esfuerzo en una
                     ofrenda que consideraría sin valor.</p>
 
-                    <p>Continuó mirando el cuadro. Cuanto más lo miraba, más
+                <p>Continuó mirando el cuadro. Cuanto más lo miraba, más
                     firmemente lo sostenía, más parecía codiciarlo.</p>
 
-                    <p>—¡Se parece! —murmuró—. El ojo está bien logrado. El color, la
+                <p>—¡Se parece! —murmuró—. El ojo está bien logrado. El color, la
                     luz, la expresión, son perfectos. ¡Sonríe!</p>
 
-                    <p>—¿Le consolaría o le heriría tener una pintura similar? Dígame
+                <p>—¿Le consolaría o le heriría tener una pintura similar? Dígame
                     eso. Cuando esté en Madagascar, o en el Cabo, o en la India, ¿sería
                     un consuelo tener ese recuerdo en su poder? ¿O su vista le traería
                     recuerdos calculados para enervar y angustiar?</p>
 
-                    <p>Ahora levantó furtivamente los ojos. Me miró, irresoluto,
+                <p>Ahora levantó furtivamente los ojos. Me miró, irresoluto,
                     perturbado. Volvió a examinar el cuadro.</p>
 
-                    <p>—Que me gustaría tenerlo es cierto. Si sería juicioso o sabio es
+                <p>—Que me gustaría tenerlo es cierto. Si sería juicioso o sabio es
                     otra cuestión.</p>
 
-                    <p>Desde que había comprobado que Rosamond realmente lo
+                <p>Desde que había comprobado que Rosamond realmente lo
                     prefería y que su padre no era probable que se opusiera al
                     matrimonio, yo —menos exaltada en mis puntos de vista que St.
                     John— me había sentido fuertemente dispuesta en mi propio
@@ -400,10 +402,10 @@
                     marchitara y su fuerza se consumiera bajo un sol tropical. Con esta
                     persuasión respondí ahora:</p>
 
-                    <p>—Por lo que puedo ver, sería más sabio y más juicioso si se llevara
+                <p>—Por lo que puedo ver, sería más sabio y más juicioso si se llevara
                     el original de una vez.</p>
 
-                    <p>Para entonces se había sentado. Había dejado el cuadro sobre la
+                <p>Para entonces se había sentado. Había dejado el cuadro sobre la
                     mesa ante él y, con la frente apoyada en ambas manos, se inclinaba
                     con cariño sobre él. Me di cuenta de que ahora no estaba ni
                     enfadado ni escandalizado por mi audacia. Vi incluso que ser
@@ -416,26 +418,26 @@
                     «irrumpir» con audacia y buena voluntad en «el mar silencioso» de
                     sus almas es a menudo conferirles la primera de las obligaciones.</p>
 
-                    <p>—Le gusta a ella, estoy segura —dije, de pie detrás de su silla—, y
+                <p>—Le gusta a ella, estoy segura —dije, de pie detrás de su silla—, y
                     su padre lo respeta. Además, es una chica dulce, algo irreflexiva;
                     pero usted tendría suficiente pensamiento para ambos. Debería
                     casarse con ella.</p>
 
-                    <p>—¿Le gusto a ella? —preguntó.</p>
+                <p>—¿Le gusto a ella? —preguntó.</p>
 
-                    <p>—Ciertamente; más que nadie. Habla de usted continuamente. No
+                <p>—Ciertamente; más que nadie. Habla de usted continuamente. No
                     hay tema que disfrute tanto o que toque con tanta frecuencia.</p>
 
-                    <p>—Es muy agradable oír esto —dijo—, mucho. Continúe durante
+                <p>—Es muy agradable oír esto —dijo—, mucho. Continúe durante
                     otro cuarto de hora. —Y de hecho sacó su reloj y lo puso sobre la
                     mesa para medir el tiempo.</p>
 
-                    <p>—Pero, ¿de qué sirve continuar —pregunté—, cuando
+                <p>—Pero, ¿de qué sirve continuar —pregunté—, cuando
                     probablemente está preparando algún golpe de hierro de
                     contradicción o forjando una nueva cadena para encadenar su
                     corazón?</p>
 
-                    <p>—No imagine cosas tan duras. Imagíneme cediendo y
+                <p>—No imagine cosas tan duras. Imagíneme cediendo y
                     derritiéndome, como estoy haciendo. El amor humano alzándose
                     como una fuente recién abierta en mi mente e inundando con dulce
                     inundación todo el campo que he preparado con tanto cuidado y
@@ -451,21 +453,21 @@
                     sentidos están extasiados. Deje que el tiempo que marqué pase en
                     paz.</p>
 
-                    <p>Le seguí la corriente. El reloj siguió marcando. Él respiraba rápido
+                <p>Le seguí la corriente. El reloj siguió marcando. Él respiraba rápido
                     y bajo. Yo permanecí en silencio. En medio de este silencio, el cuarto
                     de hora pasó velozmente. Guardó el reloj, dejó el cuadro, se levantó
                     y se paró en el hogar.</p>
 
-                    <p>—Ahora —dijo—, ese pequeño espacio se le dio al delirio y a la
+                <p>—Ahora —dijo—, ese pequeño espacio se le dio al delirio y a la
                     ilusión. Apoyé mis sienes en el pecho de la tentación y puse mi
                     cuello voluntariamente bajo su yugo de flores. Probé su copa. La
                     almohada ardía. Hay un áspid en la guirnalda. El vino tiene un sabor
                     amargo. Sus promesas son huecas, sus ofertas falsas. Veo y sé todo
                     esto.</p>
 
-                    <p>Lo miré con asombro.</p>
+                <p>Lo miré con asombro.</p>
 
-                    <p>—Es extraño —prosiguió— que mientras amo a Rosamond Oliver
+                <p>—Es extraño —prosiguió— que mientras amo a Rosamond Oliver
                     tan salvajemente —con toda la intensidad, en verdad, de una
                     primera pasión, cuyo objeto es exquisitamente hermoso, grácil,
                     fascinante—, experimento al mismo tiempo una conciencia tranquila
@@ -474,18 +476,18 @@
                     año después del matrimonio; y que a doce meses de éxtasis
                     sucedería toda una vida de arrepentimiento. Esto lo sé.</p>
 
-                    <p>—¡Extraño, en verdad! —no pude evitar exclamar.</p>
+                <p>—¡Extraño, en verdad! —no pude evitar exclamar.</p>
 
-                    <p>—Mientras algo en mí —continuó— es agudamente sensible a sus
+                <p>—Mientras algo en mí —continuó— es agudamente sensible a sus
                     encantos, algo más está tan profundamente impresionado con sus
                     defectos. Son tales que no podría simpatizar en nada a lo que yo
                     aspirara, ni cooperar en nada que yo emprendiera. ¿Rosamond una
                     sufridora, una trabajadora, una apóstol femenina? ¿Rosamond la
                     esposa de un misionero? ¡No!</p>
 
-                    <p>—Pero no necesita ser misionero. Podría renunciar a ese plan.</p>
+                <p>—Pero no necesita ser misionero. Podría renunciar a ese plan.</p>
 
-                    <p>—¡Renunciar! ¡Cómo! ¿A mi vocación? ¿A mi gran obra? ¿A mi
+                <p>—¡Renunciar! ¡Cómo! ¿A mi vocación? ¿A mi gran obra? ¿A mi
                     fundamento puesto en la tierra para una mansión en el cielo? ¿A mis
                     esperanzas de ser contado en la banda de los que han fusionado
                     todas las ambiciones en la gloriosa de mejorar su raza, de llevar el
@@ -495,27 +497,27 @@
                     Es más querido que la sangre en mis venas. Es lo que tengo que
                     esperar y para lo que vivir.</p>
 
-                    <p>Después de una pausa considerable, dije:</p>
+                <p>Después de una pausa considerable, dije:</p>
 
-                    <p>—¿Y la señorita Oliver? ¿No le interesan su decepción y su dolor?</p>
+                <p>—¿Y la señorita Oliver? ¿No le interesan su decepción y su dolor?</p>
 
-                    <p>—La señorita Oliver está siempre rodeada de pretendientes y
+                <p>—La señorita Oliver está siempre rodeada de pretendientes y
                     aduladores. En menos de un mes, mi imagen se borrará de su
                     corazón. Me olvidará; y se casará, probablemente, con alguien que
                     la hará mucho más feliz de lo que yo lo haría.</p>
 
-                    <p>—Habla usted con bastante frialdad; pero sufre en el conflicto. Se está consumiendo.</p>
+                <p>—Habla usted con bastante frialdad; pero sufre en el conflicto. Se está consumiendo.</p>
 
-                    <p>—No. Si adelgazo un poco, es por la ansiedad sobre mis
+                <p>—No. Si adelgazo un poco, es por la ansiedad sobre mis
                     perspectivas, aún inciertas, mi partida, continuamente pospuesta.
                     Esta misma mañana recibí la noticia de que el sucesor, cuya llegada
                     he estado esperando tanto tiempo, no puede estar listo para
                     reemplazarme hasta dentro de tres meses; y quizás los tres meses
                     se extiendan a seis.</p>
 
-                    <p>—Usted tiembla y se sonroja cada vez que la señorita Oliver entra en el aula.</p>
+                <p>—Usted tiembla y se sonroja cada vez que la señorita Oliver entra en el aula.</p>
 
-                    <p>De nuevo la expresión de sorpresa cruzó su rostro. No había
+                <p>De nuevo la expresión de sorpresa cruzó su rostro. No había
                     imaginado que una mujer se atreviera a hablar así a un hombre.
                     Para mí, me sentía como en casa en este tipo de discurso. Nunca
                     podía descansar en la comunicación con mentes fuertes, discretas y
@@ -524,7 +526,7 @@
                     el umbral de la confianza y ganado un lugar junto al mismo hogar de
                     su corazón.</p>
 
-                    <p>—Es usted original —dijo—, y no tímida. Hay algo valiente en su
+                <p>—Es usted original —dijo—, y no tímida. Hay algo valiente en su
                     espíritu, así como penetrante en su ojo; pero permítame asegurarle
                     que malinterpreta parcialmente mis emociones. Las cree más
                     profundas y potentes de lo que son. Me concede una mayor
@@ -536,9 +538,9 @@
                     profundidades de un mar inquieto. Conózcame como lo que soy: un
                     hombre frío y duro.</p>
 
-                    <p>Sonreí con incredulidad.</p>
+                <p>Sonreí con incredulidad.</p>
 
-                    <p>—Ha tomado mi confianza por asalto —continuó—, y ahora está
+                <p>—Ha tomado mi confianza por asalto —continuó—, y ahora está
                     muy a su servicio. Soy simplemente, en mi estado original —
                     despojado de esa túnica blanqueada por la sangre con la que el
                     cristianismo cubre la deformidad humana—, un hombre frío, duro y
@@ -553,9 +555,9 @@
                     porque compadezca profundamente lo que ha pasado o lo que aún
                     sufre.</p>
 
-                    <p>—Se describiría usted como un mero filósofo pagano —dije.</p>
+                <p>—Se describiría usted como un mero filósofo pagano —dije.</p>
 
-                    <p>—No. Hay esta diferencia entre yo y los filósofos deístas: yo creo;
+                <p>—No. Hay esta diferencia entre yo y los filósofos deístas: yo creo;
                     y creo en el Evangelio. Se equivocó de epíteto. No soy un pagano,
                     sino un filósofo cristiano, un seguidor de la secta de Jesús. Como Su
                     discípulo adopto Sus doctrinas puras, misericordiosas y benignas.
@@ -571,17 +573,17 @@
                     entrenando la naturaleza. Pero no pudo erradicar la naturaleza; ni
                     será erradicada «hasta que esto mortal se vista de inmortalidad».</p>
 
-                    <p>Dicho esto, tomó su sombrero, que yacía sobre la mesa junto a mi
+                <p>Dicho esto, tomó su sombrero, que yacía sobre la mesa junto a mi
                     paleta. Una vez más miró el retrato.</p>
 
-                    <p>—Es encantadora —murmuró—. ¡Está bien llamada la Rosa del
+                <p>—Es encantadora —murmuró—. ¡Está bien llamada la Rosa del
                     Mundo, en verdad!</p>
 
-                    <p>—¿Y no puedo pintar uno igual para usted?</p>
+                <p>—¿Y no puedo pintar uno igual para usted?</p>
 
-                    <p>—<i>Cui bono?</i> No.</p>
+                <p>—<i>Cui bono?</i> No.</p>
 
-                    <p>Corrió sobre el cuadro la hoja de papel fino sobre la que
+                <p>Corrió sobre el cuadro la hoja de papel fino sobre la que
                     acostumbraba a apoyar la mano al pintar, para evitar que la cartulina
                     se manchara. Lo que vio de repente en este papel en blanco, me fue
                     imposible decirlo; pero algo había llamado su atención. Lo tomó de
@@ -592,16 +594,16 @@
                     relámpago. Sus labios se separaron, como para hablar; pero contuvo
                     la frase que venía, fuera la que fuese.</p>
 
-                    <p>—¿Qué pasa? —pregunté.</p>
+                <p>—¿Qué pasa? —pregunté.</p>
 
-                    <p>—Nada en el mundo —fue la respuesta; y, volviendo a colocar el
+                <p>—Nada en el mundo —fue la respuesta; y, volviendo a colocar el
                     papel, lo vi arrancar diestramente una estrecha tira del margen.
                     Desapareció en su guante; y, con una rápida inclinación de cabeza y
                     un «buenas tardes», se desvaneció</p>
 
-                    <p>—¡Bueno! —exclamé, usando una expresión del distrito—. ¡Esto sí que es el colmo!</p>
+                <p>—¡Bueno! —exclamé, usando una expresión del distrito—. ¡Esto sí que es el colmo!</p>
 
-                    <p>A mi vez, escudriñé el papel; pero no vi nada en él salvo unas
+                <p>A mi vez, escudriñé el papel; pero no vi nada en él salvo unas
                     pocas manchas oscuras de pintura donde había probado el tinte en
                     mi pincel. Reflexioné sobre el misterio uno o dos minutos; pero al
                     encontrarlo irresoluble y estando segura de que no podía ser de
@@ -609,17 +611,13 @@
 
 
                 <div class="botonesFinales">
-                    <a class="cambioAnterior"href="cap31.php" rel="prev">Anterior</a>
+                    <a class="cambioAnterior" href="cap31.php" rel="prev">Anterior</a>
                     <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
                     <a class="cambioSiguiente" href="cap33.php" rel="next">Siguiente</a>
                 </div>
             </section>
-        <div>
+            <div>
     </main>
 </body>
+
 </html>
-
-
-
-
-

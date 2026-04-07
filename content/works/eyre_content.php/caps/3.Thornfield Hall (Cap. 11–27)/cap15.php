@@ -1,21 +1,23 @@
 ﻿<!DOCTYPE html>
 <html lang="es">
+
 <head>
     <title>Capítulo 2</title>
     <meta charset="utf-8">
     <meta name="description" content="Este es el capítulo 2">
     <meta name="keywords" content="HTML, CSS">
     <link rel="stylesheet" href="../../../../../css/css_caps.css">
-    
+
     <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
 </head>
 
 <body>
     <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
+        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
     </header>
-<nav class="navbar">
+    <nav class="navbar">
         <ul class="menu">
             <li><a href="../../../../../index.php">Inicio</a></li>
 
@@ -27,7 +29,7 @@
             </li>
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
-            <li><a href="../../../../litto.php">Asistente virtual</a></li>
+            <li><a href="../../../../litto.php">Litto</a></li>
 
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
@@ -36,14 +38,14 @@
     <main id="main">
         <div class="layout">
             <div class="sidebar">
-                <nav class="navbar-sidebar">    
+                <nav class="navbar-sidebar">
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
                         <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
-                            <a href="../../contenido_eyre.php">Contenido</a>
+                            <a href="../../contenido_eyre.php">Obra</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
                                 <li><a href="../../capitulos.php">Capítulos</a></li>
@@ -85,21 +87,21 @@
             </div>
 
             <section class="contenido">
-                    <h1>Capítulo XV</h1>
-                    
-                    <p>El señor Rochester, en una ocasión futura, lo explicó. Fue una tarde
+                <h1>Capítulo XV</h1>
+
+                <p>El señor Rochester, en una ocasión futura, lo explicó. Fue una tarde
                     en que casualmente nos encontró a Adèle y a mí en los terrenos; y
                     mientras ella jugaba con Pilot y su volante, me pidió que paseara de
                     un lado a otro por una larga avenida de hayas, a la vista de ella.</p>
 
-                    <p>Dijo entonces que era hija de una bailarina de ópera francesa,
+                <p>Dijo entonces que era hija de una bailarina de ópera francesa,
                     Céline Varens, hacia quien él había albergado en otro tiempo lo que
                     llamaba una «<i>grande passion</i>». Esta pasión, Céline había profesado
                     corresponderla con un ardor incluso superior. Él se creía su ídolo, feo
                     como era; creía, según dijo, que ella prefería su «<i>taille d'athlète</i>» a
                     la elegancia del Apolo de Belvedere.</p>
 
-                    <p>—Y, señorita Eyre, tan halagado me sentí por esta preferencia de
+                <p>—Y, señorita Eyre, tan halagado me sentí por esta preferencia de
                     la sílfide gala por su gnomo británico, que la instalé en un hotel; le
                     di un completo servicio de criados, un carruaje, cachemiras,
                     diamantes, dentelles, etc. En resumen, comencé el proceso de
@@ -122,11 +124,11 @@
                     amueblado con una o dos sillas; me senté y saqué un cigarro...
                     Sacaré uno ahora, si me disculpa.</p>
 
-                    <p>Siguió una pausa, ocupada en sacar y encender un cigarro;
+                <p>Siguió una pausa, ocupada en sacar y encender un cigarro;
                     habiéndoselo colocado en los labios y exhalado una estela de
                     incienso de La Habana en el aire helado y sin sol, continuó:</p>
 
-                    <p>—También me gustaban los bombones en aquellos días, señorita
+                <p>—También me gustaban los bombones en aquellos días, señorita
                     Eyre, y estaba croquant —(pase por alto el barbarismo)—, croquant
                     confites de chocolate, y fumando alternativamente, mientras
                     observaba los carruajes que rodaban por las calles de moda hacia la
@@ -148,7 +150,7 @@
                     y era una cabeza con sombrero la que ahora pasaba bajo la
                     arqueada porte cochère del hotel.</p>
 
-                    <p>»Usted nunca ha sentido celos, ¿verdad, señorita Eyre? Por
+                <p>»Usted nunca ha sentido celos, ¿verdad, señorita Eyre? Por
                     supuesto que no. No necesito preguntárselo, porque nunca ha
                     sentido amor. Aún tiene que experimentar ambos sentimientos. Su
                     alma duerme; aún está por darse la sacudida que la despertará.
@@ -163,7 +165,7 @@
                     los peñascos, o será levantada y llevada por alguna ola maestra a
                     una corriente más tranquila, como yo ahora.</p>
 
-                    <p>»Me gusta este día; me gusta ese cielo de acero; me gusta la
+                <p>»Me gusta este día; me gusta ese cielo de acero; me gusta la
                     severidad y la quietud del mundo bajo esta helada. Me gusta
                     Thornfield, su antigüedad, su retiro, sus viejos árboles de grajas y
                     sus espinos, su fachada gris y sus líneas de ventanas oscuras que
@@ -171,11 +173,11 @@
                     aborrecido la sola idea de él, lo he rehuido como a una gran casa
                     apestada? ¡Cómo lo aborrezco todavía...!</p>
 
-                    <p>Apretó los dientes y guardó silencio. Detuvo su paso y golpeó con
+                <p>Apretó los dientes y guardó silencio. Detuvo su paso y golpeó con
                     la bota el suelo duro. Algún pensamiento odiado parecía tenerlo en
                     sus garras y sujetarlo con tanta fuerza que no podía avanzar.</p>
 
-                    <p>Estábamos ascendiendo por la avenida cuando se detuvo así; la
+                <p>Estábamos ascendiendo por la avenida cuando se detuvo así; la
                     mansión estaba ante nosotros. Levantando la vista hacia sus
                     almenas, lanzó sobre ellas una mirada como nunca vi antes ni desde
                     entonces. Dolor, vergüenza, ira, impaciencia, asco, detestación,
@@ -185,7 +187,7 @@
                     triunfó: algo duro y cínico, obstinado y resuelto. Sosegó su pasión y
                     petrificó su semblante. Continuó:</p>
 
-                    <p>—Durante el momento en que estuve en silencio, señorita Eyre,
+                <p>—Durante el momento en que estuve en silencio, señorita Eyre,
                     estaba arreglando un punto con mi destino. Ella estaba allí, junto a
                     ese tronco de haya, una arpía como una de las que se le aparecieron
                     a Macbeth en el páramo de Forres. «¿Te gusta Thornfield?», dijo,
@@ -194,28 +196,28 @@
                     casa, entre la fila superior e inferior de ventanas: «¡Que te guste si
                     puedes! ¡Que te guste si te atreves!».</p>
 
-                    <p>»«Me gustará», dije; «me atrevo a que me guste»; y (añadió con
+                <p>»«Me gustará», dije; «me atrevo a que me guste»; y (añadió con
                     aire sombrío) «mantendré mi palabra; romperé los obstáculos a la
                     felicidad, a la bondad, sí, a la bondad. Deseo ser un hombre mejor
                     de lo que he sido, de lo que soy. Como el leviatán de Job rompía la
                     lanza, el dardo y la loriga, los impedimentos que otros cuentan como
                     hierro y bronce, yo los estimaré como paja y madera podrida».</p>
 
-                    <p>Adèle corrió entonces delante de él con su volante.</p>
+                <p>Adèle corrió entonces delante de él con su volante.</p>
 
-                    <p>—¡Fuera! —gritó con dureza—. Mantente a distancia, niña; ¡o
+                <p>—¡Fuera! —gritó con dureza—. Mantente a distancia, niña; ¡o
                     entra con Sophie! —Continuando luego su paseo en silencio, me
                     aventuré a recordarle el punto del que se había desviado
                     bruscamente.</p>
 
-                    <p>—¿Dejó usted el balcón, señor —pregunté—, cuando entró Mdlle. Varens?</p>
+                <p>—¿Dejó usted el balcón, señor —pregunté—, cuando entró Mdlle. Varens?</p>
 
-                    <p>Casi esperaba una reprimenda por esta pregunta apenas
+                <p>Casi esperaba una reprimenda por esta pregunta apenas
                     oportuna, pero, por el contrario, despertando de su ceñuda
                     abstracción, volvió sus ojos hacia mí, y la sombra pareció despejarse
                     de su frente.</p>
 
-                    <p>—¡Oh, había olvidado a Céline! Bueno, para reanudar. Cuando vi a
+                <p>—¡Oh, había olvidado a Céline! Bueno, para reanudar. Cuando vi a
                     mi encantadora entrar así, acompañada de un caballero, me pareció
                     oír un siseo, y la serpiente verde de los celos, alzándose en
                     ondulantes espirales desde el balcón iluminado por la luna, se
@@ -236,7 +238,7 @@
                     yo no puedo marchitarla, usted puede refrescarme. —Tras esta
                     digresión, prosiguió:</p>
 
-                    <p>»Permanecí en el balcón. «Vendrán a su tocador, sin duda»,
+                <p>»Permanecí en el balcón. «Vendrán a su tocador, sin duda»,
                     pensé. «Permítaseme preparar una emboscada». Así que, metiendo
                     la mano por la ventana abierta, corrí la cortina sobre ella, dejando
                     solo una abertura a través de la cual pudiera observar. Luego cerré
@@ -258,7 +260,7 @@
                     ella; solo merecía desprecio; menos, sin embargo, que yo, que había
                     sido su incauto.</p>
 
-                    <p>»Comenzaron a hablar; su conversación me tranquilizó por
+                <p>»Comenzaron a hablar; su conversación me tranquilizó por
                     completo. Frívola, mercenaria, desalmada y sin sentido, estaba más
                     calculada para cansar que para enfurecer a un oyente. Una tarjeta
                     mía yacía sobre la mesa; al ser percibida, mi nombre fue objeto de
@@ -272,12 +274,12 @@
                     entrevista, que no me consideraba guapo. El contraste me llamó la
                     atención en ese momento y...</p>
 
-                    <p>Adèle volvió corriendo de nuevo.</p>
+                <p>Adèle volvió corriendo de nuevo.</p>
 
-                    <p>—<i>Monsieur</i>, John acaba de venir a decir que su agente ha llamado
+                <p>—<i>Monsieur</i>, John acaba de venir a decir que su agente ha llamado
                     y desea verlo.</p>
 
-                    <p>—¡Ah! En ese caso debo abreviar. Abriendo la ventana, entré y los
+                <p>—¡Ah! En ese caso debo abreviar. Abriendo la ventana, entré y los
                     sorprendí. Liberé a Céline de mi protección; le di aviso de que
                     desalojara su hotel; le ofrecí una bolsa para las exigencias
                     inmediatas; hice caso omiso de gritos, histerias, plegarias, protestas,
@@ -302,7 +304,7 @@
                     Vendrá a verme algún día con la noticia de que ha encontrado otro
                     lugar, de que me ruega que busque una nueva institutriz, etc. ¿Eh?</p>
 
-                    <p>—No. Adèle no es responsable ni de las faltas de su madre ni de
+                <p>—No. Adèle no es responsable ni de las faltas de su madre ni de
                     las suyas. Siento aprecio por ella; y ahora que sé que está, en cierto
                     sentido, sin padres —abandonada por su madre y repudiada por
                     usted, señor—, me aferraré más a ella que antes. ¿Cómo podría
@@ -310,10 +312,10 @@
                     institutriz como a una molestia, a una pequeña huérfana solitaria,
                     que se apoya en ella como en una amiga?</p>
 
-                    <p>—¡Oh, esa es la luz con la que lo ve! Bueno, debo entrar ahora; y
+                <p>—¡Oh, esa es la luz con la que lo ve! Bueno, debo entrar ahora; y
                     usted también. Oscurece.</p>
 
-                    <p>Pero me quedé fuera unos minutos más con Adèle y Pilot; eché
+                <p>Pero me quedé fuera unos minutos más con Adèle y Pilot; eché
                     una carrera con ella y jugué un partido de bádminton. Cuando
                     entramos y le hube quitado el gorro y el abrigo, la tomé en mi
                     regazo; la mantuve allí una hora, permitiéndole parlotear a su
@@ -328,7 +330,7 @@
                     anunciaba parentesco. Era una lástima; si tan solo se hubiera podido
                     demostrar que se parecía a él, habría pensado más en ella.</p>
 
-                    <p>No fue hasta después de haberme retirado a mi propia cámara por
+                <p>No fue hasta después de haberme retirado a mi propia cámara por
                     la noche que repasé detenidamente el relato que el señor Rochester
                     me había contado. Como él había dicho, probablemente no había
                     nada extraordinario en la sustancia de la narración en sí: la pasión
@@ -352,7 +354,7 @@
                     entretenerlo, y que estas conferencias vespertinas eran buscadas
                     tanto para su placer como para mi beneficio.</p>
 
-                    <p>Yo, en verdad, hablaba comparativamente poco, pero lo oía hablar
+                <p>Yo, en verdad, hablaba comparativamente poco, pero lo oía hablar
                     a él con deleite. Era su naturaleza ser comunicativo; le gustaba abrir
                     a una mente desconocedora del mundo atisbos de sus escenas y
                     costumbres (no me refiero a sus escenas corruptas y costumbres
@@ -363,7 +365,7 @@
                     pensamiento a través de las nuevas regiones que revelaba, nunca
                     sobresaltada o turbada por una sola alusión nociva.</p>
 
-                    <p>La soltura de sus modales me liberaba de una dolorosa restricción.
+                <p>La soltura de sus modales me liberaba de una dolorosa restricción.
                     La franqueza amistosa, tan correcta como cordial, con la que me
                     trataba, me atraía hacia él. Sentía a veces como si fuera mi pariente
                     más que mi amo. Sin embargo, a veces todavía era imperioso; pero
@@ -373,7 +375,7 @@
                     agrandarse; los vacíos de la existencia se llenaron; mi salud corporal
                     mejoró; gané carne y fuerza.</p>
 
-                    <p>¿Y era ahora el señor Rochester feo a mis ojos? No, lector. La
+                <p>¿Y era ahora el señor Rochester feo a mis ojos? No, lector. La
                     gratitud y muchas asociaciones, todas placenteras y cordiales,
                     hicieron de su rostro el objeto que más me gustaba ver; su
                     presencia en una habitación era más reconfortante que el fuego más
@@ -396,26 +398,26 @@
                     estropeados y enredados. No puedo negar que me apenaba su
                     pena, fuera cual fuera, y habría dado mucho por mitigarla.</p>
 
-                    <p>Aunque ya había apagado mi vela y estaba acostada en la cama,
+                <p>Aunque ya había apagado mi vela y estaba acostada en la cama,
                     no podía dormir pensando en su mirada cuando se detuvo en la
                     avenida y contó cómo su destino se había alzado ante él y lo había
                     desafiado a ser feliz en Thornfield.</p>
 
-                    <p>«¿Por qué no?», me pregunté. «¿Qué lo aleja de la casa? ¿La
+                <p>«¿Por qué no?», me pregunté. «¿Qué lo aleja de la casa? ¿La
                     dejará de nuevo pronto? La señora Fairfax dijo que rara vez se
                     quedaba aquí más de quince días seguidos; y ahora lleva ocho
                     semanas de residencia. Si se va, el cambio será desolador.
                     Supongamos que estuviera ausente en primavera, verano y otoño.
                     ¡Qué desprovistos de alegría parecerán el sol y los días buenos!».</p>
 
-                    <p>Apenas sé si me había dormido o no después de esta meditación;
+                <p>Apenas sé si me había dormido o no después de esta meditación;
                     en cualquier caso, me desperté de golpe al oír un vago murmullo,
                     peculiar y lúgubre, que sonó, me pareció, justo encima de mí. Deseé
                     haber mantenido mi vela encendida; la noche era tristemente
                     oscura; mi ánimo estaba deprimido. Me levanté y me senté en la
                     cama, escuchando. El sonido se había acallado.</p>
 
-                    <p>Intenté de nuevo dormir; pero mi corazón latía con ansiedad; mi
+                <p>Intenté de nuevo dormir; pero mi corazón latía con ansiedad; mi
                     tranquilidad interior se había roto. El reloj, muy abajo en el
                     vestíbulo, dio las dos. Justo entonces me pareció que tocaban la
                     puerta de mi cámara, como si unos dedos hubieran barrido los
@@ -423,7 +425,7 @@
                     Dije: «¿Quién está ahí?». Nada respondió. Me quedé helada de
                     miedo.</p>
 
-                    <p>De repente recordé que podría ser Pilot, quien, cuando la puerta
+                <p>De repente recordé que podría ser Pilot, quien, cuando la puerta
                     de la cocina quedaba abierta por casualidad, no con poca frecuencia
                     encontraba el camino hasta el umbral de la cámara del señor
                     Rochester. Yo misma lo había visto yacer allí por las mañanas. La
@@ -434,7 +436,7 @@
                     sueño a mi oído, cuando huyó despavorido, asustado por un
                     incidente que helaba la médula.</p>
 
-                    <p>Fue una risa demoníaca —baja, reprimida y profunda—, proferida,
+                <p>Fue una risa demoníaca —baja, reprimida y profunda—, proferida,
                     al parecer, en el mismo ojo de la cerradura de la puerta de mi
                     cámara. La cabecera de mi cama estaba cerca de la puerta, y al
                     principio pensé que el reidor duende estaba junto a mi lecho, o más
@@ -444,12 +446,12 @@
                     paneles. Mi primer impulso fue levantarme y echar el cerrojo; el
                     siguiente, volver a gritar: «¿Quién está ahí?».</p>
 
-                    <p>Algo gorgoteó y gimió. Al poco rato, unos pasos se retiraron por la
+                <p>Algo gorgoteó y gimió. Al poco rato, unos pasos se retiraron por la
                     galería hacia la escalera del tercer piso. Recientemente se había
                     hecho una puerta para cerrar esa escalera; la oí abrirse y cerrarse, y
                     todo quedó en silencio.</p>
 
-                    <p>«¿Era esa Grace Poole? ¿Y está poseída por un demonio?», pensé.
+                <p>«¿Era esa Grace Poole? ¿Y está poseída por un demonio?», pensé.
                     Imposible ahora permanecer más tiempo sola. Debo ir con la señora
                     Fairfax. Me puse apresuradamente mi vestido y un chal; quité el
                     cerrojo y abrí la puerta con mano temblorosa. Había una vela
@@ -459,7 +461,7 @@
                     e izquierda para encontrar de dónde provenían estas volutas azules,
                     me di cuenta además de un fuerte olor a quemado.</p>
 
-                    <p>Algo crujió. Era una puerta entornada; y esa puerta era la del
+                <p>Algo crujió. Era una puerta entornada; y esa puerta era la del
                     señor Rochester, y el humo salía en una nube de allí. No pensé más
                     en la señora Fairfax; no pensé más en Grace Poole, ni en la risa. En
                     un instante, estaba dentro de la cámara. Lenguas de fuego
@@ -467,7 +469,7 @@
                     medio del resplandor y el vapor, el señor Rochester yacía inmóvil, en
                     un sueño profundo.</p>
 
-                    <p>—¡Despierte! ¡Despierte! —grité. Lo sacudí, pero solo murmuró y
+                <p>—¡Despierte! ¡Despierte! —grité. Lo sacudí, pero solo murmuró y
                     se giró; el humo lo había aturdido. No se podía perder ni un
                     momento. Las propias sábanas estaban empezando a arder. Corrí a
                     su palangana y su jarra; afortunadamente, una era ancha y la otra
@@ -476,55 +478,55 @@
                     mi propia jarra de agua, bauticé el lecho de nuevo y, con la ayuda
                     de Dios, logré extinguir las llamas que lo estaban devorando.</p>
 
-                    <p>El siseo del elemento sofocado, la rotura de una jarra que arrojé
+                <p>El siseo del elemento sofocado, la rotura de una jarra que arrojé
                     de mi mano cuando la hube vaciado y, sobre todo, el chapoteo de la
                     ducha que le había prodigado generosamente, despertaron por fin al
                     señor Rochester. Aunque ahora estaba oscuro, supe que estaba
                     despierto, porque lo oí fulminando extraños anatemas al encontrarse
                     yaciendo en un charco de agua.</p>
 
-                    <p>—¿Hay una inundación? —gritó.</p>
+                <p>—¿Hay una inundación? —gritó.</p>
 
-                    <p>—No, señor —respondí—; pero ha habido un incendio. Levántese,
+                <p>—No, señor —respondí—; pero ha habido un incendio. Levántese,
                     por favor; ya está usted apagado. Le traeré una vela.</p>
 
-                    <p>—En nombre de todos los duendes de la cristiandad, ¿es esa Jane
+                <p>—En nombre de todos los duendes de la cristiandad, ¿es esa Jane
                     Eyre? —demandó—. ¿Qué has hecho conmigo, bruja, hechicera?
                     ¿Quién hay en la habitación además de ti? ¿Has conspirado para
                     ahogarme?</p>
 
-                    <p>—Le traeré una vela, señor; y, en el nombre del Cielo, levántese.
+                <p>—Le traeré una vela, señor; y, en el nombre del Cielo, levántese.
                     Alguien ha conspirado algo; no puede descubrir demasiado pronto
                     quién y qué es.</p>
 
-                    <p>—¡Ea! Ya estoy levantado; pero a tu propio riesgo traigas una vela
+                <p>—¡Ea! Ya estoy levantado; pero a tu propio riesgo traigas una vela
                     todavía. Espera dos minutos a que me ponga alguna ropa seca, si es
                     que hay alguna seca. Sí, aquí está mi bata. ¡Ahora corre!</p>
 
-                    <p>Corrí; traje la vela que aún quedaba en la galería. La tomó de mi
+                <p>Corrí; traje la vela que aún quedaba en la galería. La tomó de mi
                     mano, la alzó y examinó la cama, toda ennegrecida y chamuscada,
                     las sábanas empapadas, la alfombra alrededor nadando en agua.</p>
 
-                    <p>—¿Qué es? ¿Y quién lo hizo? —preguntó.</p>
+                <p>—¿Qué es? ¿Y quién lo hizo? —preguntó.</p>
 
-                    <p>Le relaté brevemente lo que había ocurrido: la extraña risa que
+                <p>Le relaté brevemente lo que había ocurrido: la extraña risa que
                     había oído en la galería; los pasos que subían al tercer piso; el
                     humo, el olor a fuego que me había conducido a su habitación; en
                     qué estado había encontrado las cosas allí, y cómo lo había anegado
                     con toda el agua de la que pude echar mano.</p>
 
-                    <p>Él escuchó muy gravemente; su rostro, a medida que yo
+                <p>Él escuchó muy gravemente; su rostro, a medida que yo
                     avanzaba, expresaba más preocupación que asombro. No habló de
                     inmediato cuando hube concluido.</p>
 
-                    <p>—¿Llamo a la señora Fairfax? —pregunté.</p>
+                <p>—¿Llamo a la señora Fairfax? —pregunté.</p>
 
-                    <p>—¿La señora Fairfax? No. ¿Para qué diablos la llamaría? ¿Qué
+                <p>—¿La señora Fairfax? No. ¿Para qué diablos la llamaría? ¿Qué
                     puede hacer ella? Déjela dormir sin ser molestada.</p>
 
-                    <p>—Entonces traeré a Leah y despertaré a John y a su esposa.</p>
+                <p>—Entonces traeré a Leah y despertaré a John y a su esposa.</p>
 
-                    <p>—En absoluto. Quédese quieta. Lleva un chal. Si no tiene
+                <p>—En absoluto. Quédese quieta. Lleva un chal. Si no tiene
                     suficiente calor, puede coger mi capa de allí; envuélvase en ella y
                     siéntese en el sillón. Ea, se la pondré. Ahora coloque los pies en el
                     taburete, para mantenerlos fuera de lo mojado. Voy a dejarla unos
@@ -532,7 +534,7 @@
                     vuelva; quieta como un ratón. Debo hacer una visita al segundo
                     piso. No se mueva, recuerde, ni llame a nadie.</p>
 
-                    <p>Se fue. Observé cómo se retiraba la luz. Subió por la galería muy
+                <p>Se fue. Observé cómo se retiraba la luz. Subió por la galería muy
                     suavemente, abrió la puerta de la escalera con el menor ruido
                     posible, la cerró tras de sí y el último rayo se desvaneció. Me quedé
                     en total oscuridad. Escuché en busca de algún ruido, pero no oí
@@ -543,29 +545,29 @@
                     brillar débilmente en la pared de la galería y oí sus pies descalzos
                     pisar la estera. «Espero que sea él», pensé, «y no algo peor».</p>
 
-                    <p>Volvió a entrar, pálido y muy sombrío.</p>
+                <p>Volvió a entrar, pálido y muy sombrío.</p>
 
-                    <p>—Lo he descubierto todo —dijo, dejando la vela en el lavabo—. Es
+                <p>—Lo he descubierto todo —dijo, dejando la vela en el lavabo—. Es
                     como pensaba.</p>
 
-                    <p>—¿Cómo, señor?</p>
+                <p>—¿Cómo, señor?</p>
 
-                    <p>No respondió, sino que permaneció con los brazos cruzados,
+                <p>No respondió, sino que permaneció con los brazos cruzados,
                     mirando al suelo. Al cabo de unos minutos, inquirió con un tono
                     bastante peculiar:</p>
 
-                    <p>—He olvidado si dijo usted que vio algo cuando abrió la puerta de
+                <p>—He olvidado si dijo usted que vio algo cuando abrió la puerta de
                     su cámara.</p>
 
-                    <p>—No, señor, solo el candelero en el suelo.</p>
+                <p>—No, señor, solo el candelero en el suelo.</p>
 
-                    <p>—¿Pero oyó una risa extraña? Habrá oído esa risa antes, creo, o
+                <p>—¿Pero oyó una risa extraña? Habrá oído esa risa antes, creo, o
                     algo parecido.</p>
 
-                    <p>—Sí, señor. Hay una mujer que cose aquí, llamada Grace Poole;
+                <p>—Sí, señor. Hay una mujer que cose aquí, llamada Grace Poole;
                     ella ríe de esa manera. Es una persona singular.</p>
 
-                    <p>—Exacto. Grace Poole, lo ha adivinado. Es, como usted dice,
+                <p>—Exacto. Grace Poole, lo ha adivinado. Es, como usted dice,
                     singular, muy singular. Bueno, reflexionaré sobre el asunto. Mientras
                     tanto, me alegro de que sea usted la única persona, además de mí,
                     que conoce los detalles precisos del incidente de esta noche. No es
@@ -575,37 +577,37 @@
                     biblioteca por el resto de la noche. Son casi las cuatro; en dos horas
                     los criados estarán levantados.</p>
 
-                    <p>—Buenas noches, entonces, señor —dije, marchándome.</p>
+                <p>—Buenas noches, entonces, señor —dije, marchándome.</p>
 
-                    <p>Pareció sorprendido, de manera muy inconsistente, ya que
+                <p>Pareció sorprendido, de manera muy inconsistente, ya que
                     acababa de decirme que me fuera.</p>
 
-                    <p>—¡Cómo! —exclamó—. ¿Ya me abandona, y de esa manera?</p>
+                <p>—¡Cómo! —exclamó—. ¿Ya me abandona, y de esa manera?</p>
 
-                    <p>—Usted dijo que podía irme, señor.</p>
+                <p>—Usted dijo que podía irme, señor.</p>
 
-                    <p>—Pero no sin despedirse; no sin una o dos palabras de
+                <p>—Pero no sin despedirse; no sin una o dos palabras de
                     reconocimiento y buena voluntad. No, en resumen, de esa manera
                     breve y seca. ¡Vamos, me ha salvado la vida! ¡Me ha arrancado de
                     una muerte horrible y atroz! ¡Y pasa a mi lado como si fuéramos dos
                     extraños! Al menos, déme la mano.</p>
 
-                    <p>Extendió la mano; yo le di la mía. La tomó primero en una, luego
+                <p>Extendió la mano; yo le di la mía. La tomó primero en una, luego
                     en las dos suyas.</p>
 
-                    <p>—Me ha salvado la vida. Siento un placer en deberle una deuda
+                <p>—Me ha salvado la vida. Siento un placer en deberle una deuda
                     tan inmensa. No puedo decir más. Ningún otro ser que exista me
                     habría sido tolerable en el carácter de acreedor por tal obligación.
                     Pero usted... es diferente. No siento sus beneficios como una carga,
                     Jane.</p>
 
-                    <p>Hizo una pausa; me miró fijamente. Unas palabras casi visibles
+                <p>Hizo una pausa; me miró fijamente. Unas palabras casi visibles
                     temblaron en sus labios, pero su voz fue contenida.</p>
 
-                    <p>—Buenas noches de nuevo, señor. No hay deuda, ni beneficio, ni
+                <p>—Buenas noches de nuevo, señor. No hay deuda, ni beneficio, ni
                     carga, ni obligación en este caso.</p>
 
-                    <p>—Sabía —continuó— que me haría bien de alguna manera, en
+                <p>—Sabía —continuó— que me haría bien de alguna manera, en
                     algún momento. Lo vi en sus ojos cuando la vi por primera vez. Su
                     expresión y su sonrisa no... (de nuevo se detuvo)... no (prosiguió
                     apresuradamente) golpearon mi corazón más íntimo con deleite por
@@ -613,24 +615,24 @@
                     genios buenos. Hay granos de verdad en la fábula más descabellada.
                     ¡Mi querida salvadora, buenas noches!</p>
 
-                    <p>Había una extraña energía en su voz, un extraño fuego en su mirada.</p>
+                <p>Había una extraña energía en su voz, un extraño fuego en su mirada.</p>
 
-                    <p>—Me alegro de haber estado despierta por casualidad —dije; y
+                <p>—Me alegro de haber estado despierta por casualidad —dije; y
                     luego me disponía a irme.</p>
 
-                    <p>—¡Cómo! ¿Se va a ir?</p>
+                <p>—¡Cómo! ¿Se va a ir?</p>
 
-                    <p>—Tengo frío, señor.</p>
+                <p>—Tengo frío, señor.</p>
 
-                    <p>—¿Frío? Sí, ¡y de pie en un charco! Váyase, entonces, Jane;
+                <p>—¿Frío? Sí, ¡y de pie en un charco! Váyase, entonces, Jane;
                     ¡váyase! —Pero aún retenía mi mano, y no pude liberarla. Se me
                     ocurrió un expediente.</p>
 
-                    <p>—Creo que oigo a la señora Fairfax moverse, señor —dije.</p>
+                <p>—Creo que oigo a la señora Fairfax moverse, señor —dije.</p>
 
-                    <p>—Bueno, déjeme. —Relajó los dedos y me fui.</p>
+                <p>—Bueno, déjeme. —Relajó los dedos y me fui.</p>
 
-                    <p>Volví a mi lecho, pero ni pensé en dormir. Hasta que amaneció, fui
+                <p>Volví a mi lecho, pero ni pensé en dormir. Hasta que amaneció, fui
                     zarandeada en un mar boyante pero inquieto, donde olas de zozobra
                     rodaban bajo oleadas de alegría. A veces creía ver más allá de sus
                     aguas salvajes una orilla, dulce como las colinas de Beulah; y de vez
@@ -647,12 +649,8 @@
                     <a class="cambioSiguiente" href="cap16.php" rel="next">Siguiente</a>
                 </div>
             </section>
-        <div>
+            <div>
     </main>
 </body>
+
 </html>
-
-
-
-
-

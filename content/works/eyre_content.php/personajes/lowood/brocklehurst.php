@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="es">
+
 <head>
     <title>Señor Brocklehurst</title>
     <meta charset="utf-8">
@@ -13,7 +14,8 @@
 <body>
     <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
+        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -28,7 +30,7 @@
             </li>
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
-            <li><a href="../../../../litto.php">Asistente virtual</a></li>
+            <li><a href="../../../../litto.php">Litto</a></li>
 
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
@@ -37,14 +39,14 @@
     <main>
         <div class="layout">
             <div class="sidebar">
-                <nav class="navbar-sidebar">    
+                <nav class="navbar-sidebar">
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
                         <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
-                            <a href="../../contenido_eyre.php">Contenido</a>
+                            <a href="../../contenido_eyre.php">Obra</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
                                 <li><a href="../../capitulos.php">Capítulos</a></li>
@@ -84,45 +86,59 @@
                     </ul>
                 </nav>
             </div>
-            
+
             <section class="pjustificado">
                 <h1 class="h1personajes">Señor Brocklehurst</h1>
 
                 <img class="fpersonaje" src="../../../../../media/images/brocklehurst.png">
 
-                <p>Uno de los personajes más detestables pero más importantes para entender el contexto social de la novela. Brocklehurst es el dueño de la escuela Lowood es 
-                    el antagonista de la etapa Lowood, representando la hipocresía religiosa que había en la época victoriana.</p>
+                <p>Uno de los personajes más detestables pero más importantes para entender el contexto social de la
+                    novela. Brocklehurst es el dueño de la escuela Lowood es
+                    el antagonista de la etapa Lowood, representando la hipocresía religiosa que había en la época
+                    victoriana.</p>
 
-                <p>Es el tesorero y director de la escuela Lowood, pero en realidad es un hombre cruel y egoísta que se aprovecha de los niños huérfanos para su propio beneficio.</p>
+                <p>Es el tesorero y director de la escuela Lowood, pero en realidad es un hombre cruel y egoísta que se
+                    aprovecha de los niños huérfanos para su propio beneficio.</p>
 
                 <h3>Personalidad e impacto en la vida de Jane</h3>
-                <p>Como ya hemos adelantado, personifica la hipocresía. Les dice a las niñas huérfanas que deben ser humildes, privarse de caprichos y mortificarse, manteniéndolas hambrientas y obligándolas a cortarse 
+                <p>Como ya hemos adelantado, personifica la hipocresía. Les dice a las niñas huérfanas que deben ser
+                    humildes, privarse de caprichos y mortificarse, manteniéndolas hambrientas y obligándolas a cortarse
                     el pelo si lo tienen demasiado bonito. Mientras, su propia familia vive rodeada de lujos.</p>
-                    
-                <p>Es una persona cruel y utiliza la religión como herramienta de control y humillación, en vez de dar consuelo.</p>
 
-                <p>Es el responsable de que Jane pase frío y hambre, y de que sea castigada injustamente por su carácter fuerte. Hace que la niña viva uno de los episodios más traumáticos 
-                    en la novela: el castigo público en el que la obliga a estar de pie sobre una silla en medio del comedor por no querer admitir que es una mentirosa (tal y como había dicho la Señora Reed). 
-                    Este episodio marca a Jane profundamente y la convierte en una persona más desconfiada y solitaria.</p>
+                <p>Es una persona cruel y utiliza la religión como herramienta de control y humillación, en vez de dar
+                    consuelo.</p>
 
-                <p>A través de este personaje, Jane aprende que la autoridad no siempre tiene la razón y que debe confiar en su propio juicio. La niña empieza a buscar consuelo en sus 
+                <p>Es el responsable de que Jane pase frío y hambre, y de que sea castigada injustamente por su carácter
+                    fuerte. Hace que la niña viva uno de los episodios más traumáticos
+                    en la novela: el castigo público en el que la obliga a estar de pie sobre una silla en medio del
+                    comedor por no querer admitir que es una mentirosa (tal y como había dicho la Señora Reed).
+                    Este episodio marca a Jane profundamente y la convierte en una persona más desconfiada y solitaria.
+                </p>
+
+                <p>A través de este personaje, Jane aprende que la autoridad no siempre tiene la razón y que debe
+                    confiar en su propio juicio. La niña empieza a buscar consuelo en sus
                     compañeras y en la señorita Temple.</p>
 
-                <p>Su mujer y sus hijas aparecen brevemente en la escuela, vestidas con ropa cara y comiendo pasteles, mientras las niñas pasan frío y hambre. Su aparición no tiene más relevancia que ser un elemento visual 
-                    que deja constancia de la hipocresía de Brocklehurst. Muestra el contraste de hambre y uniformes toscos de las huérfanas con la buena vida de los Brocklehurst del que hablábamos.</p>
+                <p>Su mujer y sus hijas aparecen brevemente en la escuela, vestidas con ropa cara y comiendo pasteles,
+                    mientras las niñas pasan frío y hambre. Su aparición no tiene más relevancia que ser un elemento
+                    visual
+                    que deja constancia de la hipocresía de Brocklehurst. Muestra el contraste de hambre y uniformes
+                    toscos de las huérfanas con la buena vida de los Brocklehurst del que hablábamos.</p>
 
                 <h3>Importancia del personaje</h3>
-                <p>Mediante Brocklehurst, la autora denuncia la corrupción que se veía dentro de ciertas instituciones benéficas de la época, la hipocresía de una religión que se preocupaba más por 
-                    las apariencias y cumplir unas normas que por caridad real. Mediante la "caída" de la escuela (la epidemia de tifus), la autora hace justicia: Brocklehurst deja de ser director 
-                directamente y es acusado de negligencia. </p>
-             </section>
+                <p>Mediante Brocklehurst, la autora denuncia la corrupción que se veía dentro de ciertas instituciones
+                    benéficas de la época, la hipocresía de una religión que se preocupaba más por
+                    las apariencias y cumplir unas normas que por caridad real. Mediante la "caída" de la escuela (la
+                    epidemia de tifus), la autora hace justicia: Brocklehurst deja de ser director
+                    directamente y es acusado de negligencia. </p>
+            </section>
         </div>
     </main>
-    
+
     <footer>
         <p>TFM - Letras Digitales - UCM</p>
     </footer>
 
 </body>
-</html>
 
+</html>

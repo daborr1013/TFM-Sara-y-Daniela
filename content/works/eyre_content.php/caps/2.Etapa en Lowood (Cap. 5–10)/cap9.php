@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="es">
+
 <head>
     <title>Capítulo 9</title>
     <meta charset="utf-8">
@@ -13,7 +14,8 @@
 <body>
     <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
+        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -28,7 +30,7 @@
             </li>
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
-            <li><a href="../../../../litto.php">Asistente virtual</a></li>
+            <li><a href="../../../../litto.php">Litto</a></li>
 
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
@@ -37,14 +39,14 @@
     <main id="main">
         <div class="layout">
             <div class="sidebar">
-                <nav class="navbar-sidebar">    
+                <nav class="navbar-sidebar">
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
                         <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
-                            <a href="../../contenido_eyre.php">Contenido</a>
+                            <a href="../../contenido_eyre.php">Obra</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
                                 <li><a href="../../capitulos.php">Capítulos</a></li>
@@ -84,11 +86,11 @@
                     </ul>
                 </nav>
             </div>
-            
+
             <section class="contenido">
-                    <h1>Capítulo VIII</h1>
-   
-                    <p>Pero las privaciones, o más bien las penalidades, de Lowood
+                <h1>Capítulo VIII</h1>
+
+                <p>Pero las privaciones, o más bien las penalidades, de Lowood
                     disminuyeron. La primavera se acercaba; de hecho, ya había llegado.
                     Las heladas del invierno habían cesado; sus nieves se habían
                     derretido, sus vientos cortantes se habían suavizado. Mis
@@ -107,7 +109,7 @@
                     festivas) ahora dábamos paseos y encontrábamos flores aún más
                     dulces abriéndose a la vera del camino, bajo los setos.</p>
 
-                    <p>Descubrí, también, que un gran placer, un goce que solo el
+                <p>Descubrí, también, que un gran placer, un goce que solo el
                     horizonte limitaba, yacía fuera de los altos muros con púas de
                     nuestro jardín. Este placer consistía en la vista de nobles cumbres
                     que ceñían una gran hondonada de colinas, rica en verdor y sombra;
@@ -123,7 +125,7 @@
                     aguanieve arremolinado; y en cuanto al bosque en sus orillas, aquel
                     solo mostraba filas de esqueletos.</p>
 
-                    <p>Abril avanzó hacia mayo. Fue un mayo brillante y sereno; días de
+                <p>Abril avanzó hacia mayo. Fue un mayo brillante y sereno; días de
                     cielo azul, sol plácido y suaves vientos del oeste o del sur llenaron su
                     duración. Y ahora la vegetación maduraba con vigor; Lowood soltó
                     sus cabellos; se volvió todo verde, todo florido; sus grandes
@@ -137,18 +139,18 @@
                     esta insólita libertad y placer había una causa, a la que ahora me
                     corresponde referirme.</p>
 
-                    <p>¿No he descrito un lugar agradable para una vivienda, al hablar de
+                <p>¿No he descrito un lugar agradable para una vivienda, al hablar de
                     ella como enclavada entre colinas y bosques, y naciendo al borde de
                     un arroyo? Ciertamente, bastante agradable; pero si es saludable o
                     no, es otra cuestión.</p>
 
-                    <p>Aquella cañada boscosa donde se encontraba Lowood era la cuna
+                <p>Aquella cañada boscosa donde se encontraba Lowood era la cuna
                     de la niebla y de la pestilencia nacida de la niebla; la cual,
                     avivándose con la primavera que se avivaba, se deslizó en el
                     Orfanato, exhaló tifus por su concurrida aula y dormitorio, y, antes
                     de que llegara mayo, transformó el seminario en un hospital.</p>
 
-                    <p>La semiinanición y los resfriados descuidados habían predispuesto
+                <p>La semiinanición y los resfriados descuidados habían predispuesto
                     a la mayoría de las alumnas a recibir la infección: cuarenta y cinco
                     de las ochenta niñas yacían enfermas al mismo tiempo. Se
                     disolvieron las clases, se relajaron las reglas. A las pocas que
@@ -167,7 +169,7 @@
                     rápidamente, pues la naturaleza de la enfermedad prohibía la
                     demora.</p>
 
-                    <p>Mientras la enfermedad se había convertido así en un habitante de
+                <p>Mientras la enfermedad se había convertido así en un habitante de
                     Lowood y la muerte en su visitante frecuente; mientras había
                     penumbra y miedo dentro de sus muros; mientras sus habitaciones y
                     pasillos humeaban con olores de hospital, y la droga y la pastilla
@@ -183,7 +185,7 @@
                     proporcionar de vez en cuando un puñado de hierbas y flores para
                     poner en un ataúd.</p>
 
-                    <p>Pero yo, y las demás que continuamos bien, disfrutamos
+                <p>Pero yo, y las demás que continuamos bien, disfrutamos
                     plenamente de las bellezas de la escena y la estación. Nos dejaban
                     vagar por el bosque, como gitanas, desde la mañana hasta la noche;
                     hacíamos lo que queríamos, íbamos a donde queríamos. También
@@ -200,7 +202,7 @@
                     esto nos lo llevábamos al bosque, donde cada una elegía el lugar
                     que más le gustaba y cenábamos suntuosamente.</p>
 
-                    <p>Mi asiento favorito era una piedra lisa y ancha, que se alzaba
+                <p>Mi asiento favorito era una piedra lisa y ancha, que se alzaba
                     blanca y seca justo en medio del arroyo, y a la que solo se podía
                     llegar vadeando el agua, hazaña que lograba descalza. La piedra era
                     lo suficientemente ancha para acomodar, cómodamente, a otra niña
@@ -217,7 +219,7 @@
                     maravilla, obteniendo mucho entretenimiento, si no mucha mejora,
                     de nuestra mutua relación.</p>
 
-                    <p>¿Y dónde, mientras tanto, estaba Helen Burns? ¿Por qué no
+                <p>¿Y dónde, mientras tanto, estaba Helen Burns? ¿Por qué no
                     pasaba estos dulces días de libertad con ella? ¿La había olvidado? ¿O
                     era yo tan indigna como para haberme cansado de su pura
                     compañía? Ciertamente, la Mary Ann Wilson que he mencionado era
@@ -228,7 +230,7 @@
                     del privilegio de su conversación una muestra de cosas mucho más
                     elevadas.</p>
 
-                    <p>Cierto, lector; y yo lo sabía y lo sentía. Y aunque soy un ser
+                <p>Cierto, lector; y yo lo sabía y lo sentía. Y aunque soy un ser
                     defectuoso, con muchas faltas y pocos puntos redentores, nunca me
                     cansé de Helen Burns; ni dejé de albergar por ella un sentimiento de
                     apego, tan fuerte, tierno y respetuoso como cualquiera que haya
@@ -242,14 +244,14 @@
                     dolencia era tisis, no tifus; y por tisis yo, en mi ignorancia, entendía
                     algo leve, que el tiempo y los cuidados seguramente aliviarían.</p>
 
-                    <p>Me confirmé en esta idea por el hecho de que una o dos veces
+                <p>Me confirmé en esta idea por el hecho de que una o dos veces
                     bajó en tardes muy cálidas y soleadas, y la señorita Temple la llevó
                     al jardín; pero, en estas ocasiones, no se me permitía ir a hablar con
                     ella. Solo la veía desde la ventana del aula, y aun así no con
                     claridad, pues iba muy abrigada y se sentaba a distancia bajo la
                     galería.</p>
 
-                    <p>Una tarde, a principios de junio, me había quedado hasta muy
+                <p>Una tarde, a principios de junio, me había quedado hasta muy
                     tarde con Mary Ann en el bosque. Como de costumbre, nos
                     habíamos separado de las demás y habíamos vagado lejos; tan lejos
                     que nos perdimos y tuvimos que preguntar el camino en una cabaña
@@ -270,11 +272,11 @@
                     disfrutándolas como podría hacerlo un niño, cuando me vino a la
                     mente como nunca antes:</p>
 
-                    <p>«¡Qué triste estar ahora postrada en una cama de enfermo y en
+                <p>«¡Qué triste estar ahora postrada en una cama de enfermo y en
                     peligro de morir! Este mundo es agradable, sería lúgubre ser
                     llamada de él y tener que irse quién sabe dónde».</p>
 
-                    <p>Y entonces mi mente hizo su primer esfuerzo serio por
+                <p>Y entonces mi mente hizo su primer esfuerzo serio por
                     comprender lo que se le había infundido sobre el cielo y el infierno;
                     y por primera vez retrocedió, desconcertada; y por primera vez,
                     mirando atrás, a cada lado y delante de sí, vio a su alrededor un
@@ -286,19 +288,19 @@
                     Después de que ella lo viera montar en su caballo y partir, estaba a
                     punto de cerrar la puerta, pero corrí hacia ella.</p>
 
-                    <p>—¿Cómo está Helen Burns?</p>
+                <p>—¿Cómo está Helen Burns?</p>
 
-                    <p>—Muy mal —fue la respuesta.</p>
+                <p>—Muy mal —fue la respuesta.</p>
 
-                    <p>—¿Es a ella a quien ha venido a ver el señor Bates?</p>
+                <p>—¿Es a ella a quien ha venido a ver el señor Bates?</p>
 
-                    <p>—Sí.</p>
+                <p>—Sí.</p>
 
-                    <p>—¿Y qué dice de ella?</p>
+                <p>—¿Y qué dice de ella?</p>
 
-                    <p>—Dice que no estará aquí mucho tiempo.</p>
+                <p>—Dice que no estará aquí mucho tiempo.</p>
 
-                    <p>Esta frase, pronunciada ayer en mi presencia, solo me habría
+                <p>Esta frase, pronunciada ayer en mi presencia, solo me habría
                     transmitido la idea de que estaba a punto de ser trasladada a
                     Northumberland, a su propia casa. No habría sospechado que
                     significaba que se estaba muriendo; ¡pero ahora lo supe al instante!
@@ -309,19 +311,19 @@
                     luego un deseo —una necesidad— de verla; y pregunté en qué
                     habitación yacía.</p>
 
-                    <p>—Está en la habitación de la señorita Temple —dijo la enfermera.</p>
+                <p>—Está en la habitación de la señorita Temple —dijo la enfermera.</p>
 
-                    <p>—¿Puedo subir a hablar con ella?</p>
+                <p>—¿Puedo subir a hablar con ella?</p>
 
-                    <p>—¡Oh, no, niña! No es probable. Y ahora es hora de que entres;
+                <p>—¡Oh, no, niña! No es probable. Y ahora es hora de que entres;
                     cogerás la fiebre si te quedas fuera cuando cae el rocío.</p>
 
-                    <p>La enfermera cerró la puerta principal; yo entré por la entrada
+                <p>La enfermera cerró la puerta principal; yo entré por la entrada
                     lateral que conducía al aula. Llegué justo a tiempo; eran las nueve, y
                     la señorita Miller estaba llamando a las alumnas para que se fueran
                     a la cama.</p>
 
-                    <p>Podrían ser dos horas más tarde, probablemente cerca de las
+                <p>Podrían ser dos horas más tarde, probablemente cerca de las
                     once, cuando yo —incapaz de conciliar el sueño, y suponiendo, por
                     el perfecto silencio del dormitorio, que mis compañeras estaban
                     todas envueltas en un profundo reposo— me levanté suavemente,
@@ -337,7 +339,7 @@
                     debía abrazarla antes de que muriera, debía darle un último beso,
                     intercambiar con ella una última palabra.</p>
 
-                    <p>Habiendo bajado una escalera, atravesado una parte de la casa de
+                <p>Habiendo bajado una escalera, atravesado una parte de la casa de
                     abajo, y logrado abrir y cerrar, sin ruido, dos puertas, llegué a otro
                     tramo de escaleras; las subí, y entonces, justo enfrente de mí,
                     estaba la habitación de la señorita Temple. Una luz brillaba a través
@@ -349,7 +351,7 @@
                     con agudas punzadas—, la empujé y miré dentro. Mi ojo buscó a
                     Helen y temió encontrar la muerte.</p>
 
-                    <p>Junto a la cama de la señorita Temple, y medio cubierta por sus
+                <p>Junto a la cama de la señorita Temple, y medio cubierta por sus
                     blancas cortinas, había una pequeña cuna. Vi el contorno de una
                     forma bajo las sábanas, pero el rostro estaba oculto por los
                     cortinajes. La enfermera con la que había hablado en el jardín
@@ -360,45 +362,45 @@
                     mano estaba en la cortina, pero preferí hablar antes de retirarla.
                     Todavía retrocedía ante el pavor de ver un cadáver.</p>
 
-                    <p>—¡Helen! —susurré suavemente—, ¿estás despierta?</p>
+                <p>—¡Helen! —susurré suavemente—, ¿estás despierta?</p>
 
-                    <p>Se removió, apartó la cortina y vi su rostro, pálido, consumido,
+                <p>Se removió, apartó la cortina y vi su rostro, pálido, consumido,
                     pero completamente sereno. Parecía tan poco cambiada que mi
                     miedo se disipó al instante.</p>
 
-                    <p>—¿Puedes ser tú, Jane? —preguntó, con su propia voz suave.</p>
+                <p>—¿Puedes ser tú, Jane? —preguntó, con su propia voz suave.</p>
 
-                    <p>«¡Oh!», pensé, «no se va a morir; están equivocados. No podría
+                <p>«¡Oh!», pensé, «no se va a morir; están equivocados. No podría
                     hablar y parecer tan tranquila si lo estuviera».</p>
 
-                    <p>Me subí a su cuna y la besé. Su frente estaba fría, y su mejilla fría
+                <p>Me subí a su cuna y la besé. Su frente estaba fría, y su mejilla fría
                     y delgada, al igual que su mano y su muñeca; pero sonrió como
                     antaño.</p>
 
-                    <p>—¿Por qué has venido aquí, Jane? Pasan de las once. Oí dar la
+                <p>—¿Por qué has venido aquí, Jane? Pasan de las once. Oí dar la
                     hora hace unos minutos.</p>
 
-                    <p>—Vine a verte, Helen. Oí que estabas muy enferma y no podía
+                <p>—Vine a verte, Helen. Oí que estabas muy enferma y no podía
                     dormir hasta haber hablado contigo.</p>
 
-                    <p>—Viniste a despedirte, entonces. Llegas justo a tiempo,
+                <p>—Viniste a despedirte, entonces. Llegas justo a tiempo,
                     probablemente.</p>
 
-                    <p>—¿Te vas a alguna parte, Helen? ¿Te vas a casa?</p>
+                <p>—¿Te vas a alguna parte, Helen? ¿Te vas a casa?</p>
 
-                    <p>—Sí; a mi largo hogar, mi último hogar.</p>
+                <p>—Sí; a mi largo hogar, mi último hogar.</p>
 
-                    <p>—¡No, no, Helen! —me detuve, angustiada. Mientras intentaba
+                <p>—¡No, no, Helen! —me detuve, angustiada. Mientras intentaba
                     devorar mis lágrimas, un ataque de tos se apoderó de Helen; sin
                     embargo, no despertó a la enfermera. Cuando pasó, yació unos
                     minutos agotada; luego susurró:</p>
 
-                    <p>—Jane, tus piececitos están descalzos; acuéstate y cúbrete con mi colcha.</p>
+                <p>—Jane, tus piececitos están descalzos; acuéstate y cúbrete con mi colcha.</p>
 
-                    <p>Así lo hice. Ella me pasó el brazo por encima y me acurruqué junto
+                <p>Así lo hice. Ella me pasó el brazo por encima y me acurruqué junto
                     a ella. Tras un largo silencio, reanudó, todavía susurrando:</p>
 
-                    <p>—Soy muy feliz, Jane; y cuando oigas que he muerto, asegúrate
+                <p>—Soy muy feliz, Jane; y cuando oigas que he muerto, asegúrate
                     de no afligirte. No hay nada por lo que afligirse. Todos debemos
                     morir un día, y la enfermedad que me está llevando no es dolorosa;
                     es suave y gradual. Mi mente está en paz. No dejo a nadie que me
@@ -407,52 +409,52 @@
                     sufrimientos. No tenía cualidades ni talentos para abrirme camino
                     muy bien en el mundo; habría estado continuamente en falta.</p>
 
-                    <p>—Pero, ¿a dónde vas, Helen? ¿Puedes ver? ¿Lo sabes?</p>
+                <p>—Pero, ¿a dónde vas, Helen? ¿Puedes ver? ¿Lo sabes?</p>
 
-                    <p>—Creo; tengo fe. Voy a Dios.</p>
+                <p>—Creo; tengo fe. Voy a Dios.</p>
 
-                    <p>—¿Dónde está Dios? ¿Qué es Dios?</p>
+                <p>—¿Dónde está Dios? ¿Qué es Dios?</p>
 
-                    <p>—Mi Creador y el tuyo, que nunca destruirá lo que Él creó. Confío
+                <p>—Mi Creador y el tuyo, que nunca destruirá lo que Él creó. Confío
                     implícitamente en su poder y me entrego por completo a su bondad.
                     Cuento las horas hasta que llegue esa hora trascendental que me
                     devolverá a Él, me lo revelará a mí.</p>
 
-                    <p>—¿Estás segura, entonces, Helen, de que existe un lugar como el
+                <p>—¿Estás segura, entonces, Helen, de que existe un lugar como el
                     cielo, y de que nuestras almas pueden llegar a él cuando morimos?</p>
 
-                    <p>—Estoy segura de que hay un estado futuro; creo que Dios es
+                <p>—Estoy segura de que hay un estado futuro; creo que Dios es
                     bueno; puedo entregarle mi parte inmortal sin ningún recelo. Dios es
                     mi padre; Dios es mi amigo. Lo amo; creo que Él me ama.</p>
 
-                    <p>—¿Y te volveré a ver, Helen, cuando yo muera?</p>
+                <p>—¿Y te volveré a ver, Helen, cuando yo muera?</p>
 
-                    <p>—Vendrás a la misma región de felicidad; serás recibida por el
+                <p>—Vendrás a la misma región de felicidad; serás recibida por el
                     mismo poderoso y universal Padre, sin duda, querida Jane.</p>
 
-                    <p>De nuevo pregunté, pero esta vez solo en pensamiento. «¿Dónde
+                <p>De nuevo pregunté, pero esta vez solo en pensamiento. «¿Dónde
                     está esa región? ¿Existe?». Y estreché mis brazos más fuerte
                     alrededor de Helen; me parecía más querida que nunca; sentí como
                     si no pudiera dejarla ir. Yací con el rostro oculto en su cuello. Al
                     instante dijo, en el tono más dulce:</p>
 
-                    <p>—¡Qué a gusto estoy! Ese último ataque de tos me ha cansado un
+                <p>—¡Qué a gusto estoy! Ese último ataque de tos me ha cansado un
                     poco; siento como si pudiera dormir. Pero no me dejes, Jane; me
                     gusta tenerte cerca.</p>
 
-                    <p>—Me quedaré contigo, querida Helen. Nadie me apartará.</p>
+                <p>—Me quedaré contigo, querida Helen. Nadie me apartará.</p>
 
-                    <p>—¿Tienes calor, cariño?</p>
+                <p>—¿Tienes calor, cariño?</p>
 
-                    <p>—Sí.</p>
+                <p>—Sí.</p>
 
-                    <p>—Buenas noches, Jane.</p>
+                <p>—Buenas noches, Jane.</p>
 
-                    <p>—Buenas noches, Helen.</p>
+                <p>—Buenas noches, Helen.</p>
 
-                    <p>Ella me besó, y yo a ella, y ambas nos dormimos pronto.</p>
+                <p>Ella me besó, y yo a ella, y ambas nos dormimos pronto.</p>
 
-                    <p>Cuando desperté era de día. Un movimiento inusual me despertó;
+                <p>Cuando desperté era de día. Un movimiento inusual me despertó;
                     miré hacia arriba. Estaba en los brazos de alguien; la enfermera me
                     sostenía. Me llevaba por el pasillo de vuelta al dormitorio. No me
                     reprendieron por haber dejado mi cama; la gente tenía otras cosas
@@ -463,7 +465,7 @@
                     hombro de Helen Burns, mis brazos alrededor de su cuello. Yo
                     estaba dormida, y Helen estaba... muerta.</p>
 
-                    <p>Su tumba está en el cementerio de Brocklebridge. Durante quince
+                <p>Su tumba está en el cementerio de Brocklebridge. Durante quince
                     años después de su muerte solo estuvo cubierta por un montículo de
                     hierba; pero ahora una lápida de mármol gris marca el lugar, inscrita
                     con su nombre y la palabra «Resurgam».</p>
@@ -474,13 +476,8 @@
                     <a class="cambioSiguiente" href="cap10.php" rel="next">Siguiente</a>
                 </div>
             </section>
-        <div>
+            <div>
     </main>
 </body>
+
 </html>
-
-
-
-
-
-

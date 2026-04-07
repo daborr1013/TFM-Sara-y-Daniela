@@ -1,51 +1,54 @@
 ﻿<!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <title>Litterally-Eyre-Capítulos</title>
     <link rel="stylesheet" href="../../../css/css_eyre.css">
     <link rel="icon" href="../../../media/images/iconoPestanaClara.png">
 </head>
+
 <body>
     <a href="#main" class="skip-link">Saltar a contenido principal</a>
 
-<header>
-    <a href="../../../index.php"><img class="logo" src="../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
-</header>
+    <header>
+        <a href="../../../index.php"><img class="logo" src="../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
+    </header>
 
-<nav class="navbar">
-    <ul class="menu">
-        <li><a href="../../../index.php">Inicio</a></li>
+    <nav class="navbar">
+        <ul class="menu">
+            <li><a href="../../../index.php">Inicio</a></li>
 
-        <li class="dropdown">
-            <a href="../../obras.php">Obras</a>
-            <ul class="dropdown-menu">
-                <li><a href="../eyre.php">Jane Eyre</a></li>
-            </ul>
-        </li>
+            <li class="dropdown">
+                <a href="../../obras.php">Obras</a>
+                <ul class="dropdown-menu">
+                    <li><a href="../eyre.php">Jane Eyre</a></li>
+                </ul>
+            </li>
 
-        <li><a href="../../about_us.php">Sobre nosotras</a></li>
-        <li><a href="../../litto.php">Asistente virtual</a></li>
+            <li><a href="../../about_us.php">Sobre nosotras</a></li>
+            <li><a href="../../litto.php">Litto</a></li>
 
-        <li><a href="../../pUsuario.php">Perfil de usuario</a></li>
-    </ul>
-</nav>
+            <li><a href="../../pUsuario.php">Perfil de usuario</a></li>
+        </ul>
+    </nav>
 
-<main id="main">
-    <section class="hero">
-        <h1>Capítulos</h1>
-    </section>
+    <main id="main">
+        <section class="hero">
+            <h1>Capítulos</h1>
+        </section>
 
-    <div class="layout">
-        <div class="sidebar">
-                <nav class="navbar-sidebar">    
+        <div class="layout">
+            <div class="sidebar">
+                <nav class="navbar-sidebar">
                     <ul class="menu-sidebar">
                         <li><a class="active" href="inicio_eyre.php">Inicio</a></li>
 
                         <li><a href="intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
-                            <a href="contenido_eyre.php">Contenido</a>
+                            <a href="contenido_eyre.php">Obra</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="resumenes/resumenes.php">Resúmenes</a></li>
                                 <li><a href="capitulos.php">Capítulos</a></li>
@@ -86,13 +89,14 @@
                 </nav>
             </div>
 
-        <section class="pjustificado">
-            <section>
-                <p>En esta sección se encuentran todos los capítulos de <i>Jane Eyre</i>, navega por las etapas de su vida para escoger uno.</p>
-            </section>
-            <section class="menu">
-                <details>
-                    <summary><b>Infancia en Gateshead</b></summary>
+            <section class="pjustificado">
+                <section>
+                    <p>En esta sección se encuentran todos los capítulos de <i>Jane Eyre</i>, navega por las etapas de
+                        su vida para escoger uno.</p>
+                </section>
+                <section class="menu">
+                    <details>
+                        <summary><b>Infancia en Gateshead</b></summary>
                         <h4>Capítulos completos</h4>
 
                         <section class="layout">
@@ -101,32 +105,32 @@
                             <a class="boton" href="caps/1.Infancia en Gateshead (Cap. 1–4)/cap3.php">Capítulo III</a>
                             <a class="boton" href="caps/1.Infancia en Gateshead (Cap. 1–4)/cap4.php">Capítulo IV</a>
                         </section>
-                </details> 
-            </section>
-            <section class="menu">
-                <details>
-                    <summary><b>Etapa en Lowood</b></summary>
+                    </details>
+                </section>
+                <section class="menu">
+                    <details>
+                        <summary><b>Etapa en Lowood</b></summary>
                         <h4>Capítulos completos</h4>
 
                         <section class="layout">
                             <section>
                                 <a class="boton" href="caps/2.Etapa en Lowood (Cap. 5–10)/cap5.php">Capítulo V</a>
-                                <a class="boton" href="caps/2.Etapa en Lowood (Cap. 5–10)/cap6.php">Capítulo VI</a>       
+                                <a class="boton" href="caps/2.Etapa en Lowood (Cap. 5–10)/cap6.php">Capítulo VI</a>
                             </section>
                             <section>
                                 <a class="boton" href="caps/2.Etapa en Lowood (Cap. 5–10)/cap7.php">Capítulo VII</a>
-                                <a class="boton" href="caps/2.Etapa en Lowood (Cap. 5–10)/cap8.php">Capítulo VIII</a>                                
+                                <a class="boton" href="caps/2.Etapa en Lowood (Cap. 5–10)/cap8.php">Capítulo VIII</a>
                             </section>
-                            <section> 
+                            <section>
                                 <a class="boton" href="caps/2.Etapa en Lowood (Cap. 5–10)/cap9.php">Capítulo IX</a>
                                 <a class="boton" href="caps/2.Etapa en Lowood (Cap. 5–10)/cap10.php">Capítulo X</a>
                             </section>
                         </section>
-                </details>
-            </section>
-            <section class="menu">
-                <details>
-                    <summary><b>Thornfield Hall</b></summary>
+                    </details>
+                </section>
+                <section class="menu">
+                    <details>
+                        <summary><b>Thornfield Hall</b></summary>
                         <h4>Capítulos completos</h4>
 
                         <section class="layout">
@@ -137,7 +141,7 @@
                                 <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap14.php">Capítulo XIV</a>
                             </section>
                             <section>
-                                <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap15.php">Capítulo XV</a>                            
+                                <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap15.php">Capítulo XV</a>
                                 <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap16.php">Capítulo XVI</a>
                                 <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap17.php">Capítulo XVII</a>
                                 <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap18.php">Capítulo XVIII</a>
@@ -154,13 +158,13 @@
                                 <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap25.php">Capítulo XXV</a>
                                 <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap26.php">Capítulo XXVI</a>
                                 <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap27.php">Capítulo XXVII</a>
-                            </section>    
+                            </section>
                         </section>
-                </details>            
-            </section>
-            <section class="menu">
-                <details>
-                    <summary><b>Moor House</b></summary>
+                    </details>
+                </section>
+                <section class="menu">
+                    <details>
+                        <summary><b>Moor House</b></summary>
                         <h4>Capítulos completos</h4>
 
                         <section class="layout">
@@ -181,38 +185,30 @@
                                 <a class="boton" href="caps/4.Moor House (Cap. 28–35)/cap35.php">Capítulo XXXV</a>
                             </section>
                         </section>
-                </details>
-            </section>
-            <section class="menu">
-                <details>
-                    <summary><b>Regreso a Rochester</b></summary>
+                    </details>
+                </section>
+                <section class="menu">
+                    <details>
+                        <summary><b>Regreso a Rochester</b></summary>
                         <h4>Capítulos completos</h4>
 
                         <section class="layout">
                             <a class="boton" href="caps/5.Regreso a Rochester (Cap. 36–38)/cap36.php">Capítulo XXXVI</a>
-                            <a class="boton" href="caps/5.Regreso a Rochester (Cap. 36–38)/cap37.php">Capítulo XXXVII</a>
-                            <a class="boton" href="caps/5.Regreso a Rochester (Cap. 36–38)/cap38.php">Capítulo XXXVIII</a>
+                            <a class="boton" href="caps/5.Regreso a Rochester (Cap. 36–38)/cap37.php">Capítulo
+                                XXXVII</a>
+                            <a class="boton" href="caps/5.Regreso a Rochester (Cap. 36–38)/cap38.php">Capítulo
+                                XXXVIII</a>
                         </section>
-                </details>
+                    </details>
+                </section>
             </section>
-        </section>
-    </div>
-</main>
+        </div>
+    </main>
 
-<footer>
-    <p>TFM - Letras Digitales - UCM</p>
-</footer>
+    <footer>
+        <p>TFM - Letras Digitales - UCM</p>
+    </footer>
 
 </body>
+
 </html>
-
-
-
-
-
-
-
-
-
-
-

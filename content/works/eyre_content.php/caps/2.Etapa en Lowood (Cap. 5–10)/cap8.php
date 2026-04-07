@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="es">
+
 <head>
     <title>Capítulo 8</title>
     <meta charset="utf-8">
@@ -13,7 +14,8 @@
 <body>
     <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
+        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -28,7 +30,7 @@
             </li>
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
-            <li><a href="../../../../litto.php">Asistente virtual</a></li>
+            <li><a href="../../../../litto.php">Litto</a></li>
 
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
@@ -37,14 +39,14 @@
     <main id="main">
         <div class="layout">
             <div class="sidebar">
-                <nav class="navbar-sidebar">    
+                <nav class="navbar-sidebar">
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
                         <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
-                            <a href="../../contenido_eyre.php">Contenido</a>
+                            <a href="../../contenido_eyre.php">Obra</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
                                 <li><a href="../../capitulos.php">Capítulos</a></li>
@@ -84,11 +86,11 @@
                     </ul>
                 </nav>
             </div>
-            
+
             <section class="contenido">
-                    <h1>Capítulo VIII</h1>
-    
-                    <p>Antes de que terminara la media hora, dieron las cinco; la escuela
+                <h1>Capítulo VIII</h1>
+
+                <p>Antes de que terminara la media hora, dieron las cinco; la escuela
                     terminó y todas se fueron al refectorio a tomar el té. Me aventuré
                     entonces a bajar; era el crepúsculo profundo. Me retiré a un rincón y
                     me senté en el suelo. El hechizo que me había sostenido hasta
@@ -108,13 +110,13 @@
                     ninguna. Ahora, aquí yacía de nuevo, aplastada y pisoteada; ¿y
                     podría levantarme alguna vez?</p>
 
-                    <p>«Nunca», pensé; y ardientemente deseé morir. Mientras sollozaba
+                <p>«Nunca», pensé; y ardientemente deseé morir. Mientras sollozaba
                     este deseo en acentos entrecortados, alguien se acercó. Me
                     sobresalté: de nuevo Helen Burns estaba cerca de mí; los fuegos
                     moribundos apenas la mostraban acercándose por la larga y vacía
                     sala; me trajo mi café y mi pan.</p>
 
-                    <p>—Vamos, come algo —dijo; pero aparté ambas cosas de mí,
+                <p>—Vamos, come algo —dijo; pero aparté ambas cosas de mí,
                     sintiendo como si una gota o una miga me hubieran ahogado en mi
                     estado actual. Helen me miró, probablemente con sorpresa. No
                     podía ahora calmar mi agitación, aunque lo intenté con todas mis
@@ -123,23 +125,23 @@
                     en esa actitud permaneció en silencio como una india. Fui la primera
                     en hablar:</p>
 
-                    <p>—Helen, ¿por qué te quedas con una chica a la que todo el mundo
+                <p>—Helen, ¿por qué te quedas con una chica a la que todo el mundo
                     cree una embustera?</p>
 
-                    <p>—¿Todo el mundo, Jane? Vamos, solo hay ochenta personas que
+                <p>—¿Todo el mundo, Jane? Vamos, solo hay ochenta personas que
                     te han oído llamar así, y el mundo contiene cientos de millones.</p>
 
-                    <p>—¿Pero qué tengo yo que ver con millones? Las ochenta que
+                <p>—¿Pero qué tengo yo que ver con millones? Las ochenta que
                     conozco me desprecian.</p>
 
-                    <p>—Jane, te equivocas. Probablemente ni una sola persona en la
+                <p>—Jane, te equivocas. Probablemente ni una sola persona en la
                     escuela te desprecia o te tiene antipatía. Muchas, estoy segura, te
                     compadecen mucho.</p>
 
-                    <p>—¿Cómo pueden compadecerme después de lo que ha dicho el
+                <p>—¿Cómo pueden compadecerme después de lo que ha dicho el
                     señor Brocklehurst?</p>
 
-                    <p>—El señor Brocklehurst no es un dios, ni es siquiera un hombre
+                <p>—El señor Brocklehurst no es un dios, ni es siquiera un hombre
                     grande y admirado. Aquí se le quiere poco; nunca ha hecho nada
                     para hacerse querer. Si te hubiera tratado como a una favorita
                     especial, habrías encontrado enemigos, declarados o encubiertos,
@@ -150,14 +152,14 @@
                     sentimientos aparecerán pronto con tanta más evidencia por su
                     supresión temporal. Además, Jane... —hizo una pausa.</p>
 
-                    <p>—¿Y bien, Helen? —dije, poniendo mi mano en la suya. Ella me
+                <p>—¿Y bien, Helen? —dije, poniendo mi mano en la suya. Ella me
                     frotó los dedos suavemente para calentarlos y continuó:</p>
 
-                    <p>—Si todo el mundo te odiara y te creyera malvada, mientras tu
+                <p>—Si todo el mundo te odiara y te creyera malvada, mientras tu
                     propia conciencia te aprobara y te absolviera de culpa, no estarías
                     sin amigos.</p>
 
-                    <p>—No; sé que pensaría bien de mí misma; pero eso no es
+                <p>—No; sé que pensaría bien de mí misma; pero eso no es
                     suficiente. Si los demás no me quieren, preferiría morir a vivir. No
                     puedo soportar estar sola y ser odiada, Helen. Mira; para ganar un
                     afecto real de ti, o de la señorita Temple, o de cualquier otra a quien
@@ -166,7 +168,7 @@
                     detrás de un caballo que cocea y dejar que me lance su casco al
                     pecho...</p>
 
-                    <p>—¡Calla, Jane! Piensas demasiado en el amor de los seres
+                <p>—¡Calla, Jane! Piensas demasiado en el amor de los seres
                     humanos; eres demasiado impulsiva, demasiado vehemente. La
                     mano soberana que creó tu cuerpo y le infundió vida te ha provisto
                     de otros recursos además de tu débil yo, o de criaturas tan débiles
@@ -186,14 +188,14 @@
                     tan breve y la muerte es una entrada tan segura a la felicidad, a la
                     gloria?</p>
 
-                    <p>Guardé silencio; Helen me había calmado; pero en la tranquilidad
+                <p>Guardé silencio; Helen me había calmado; pero en la tranquilidad
                     que impartía había una aleación de tristeza inexpresable. Sentí la
                     impresión de la aflicción mientras hablaba, pero no sabría decir de
                     dónde venía; y cuando, habiendo terminado de hablar, respiró un
                     poco rápido y tosió una tos corta, olvidé momentáneamente mis
                     propias penas para ceder a una vaga preocupación por ella.</p>
 
-                    <p>Apoyando mi cabeza en el hombro de Helen, le pasé los brazos
+                <p>Apoyando mi cabeza en el hombro de Helen, le pasé los brazos
                     por la cintura; ella me atrajo hacia sí y reposamos en silencio. No
                     habíamos estado sentadas así mucho tiempo cuando entró otra
                     persona. Unas nubes pesadas, barridas del cielo por un viento
@@ -202,52 +204,52 @@
                     a la figura que se acercaba, a la que reconocimos de inmediato
                     como la señorita Temple.</p>
 
-                    <p>—He venido a propósito para encontrarte, Jane Eyre —dijo—; te
+                <p>—He venido a propósito para encontrarte, Jane Eyre —dijo—; te
                     quiero en mi habitación; y como Helen Burns está contigo, ella
                     también puede venir.</p>
 
-                    <p>Fuimos. Siguiendo la guía de la superintendente, tuvimos que
+                <p>Fuimos. Siguiendo la guía de la superintendente, tuvimos que
                     atravesar algunos pasillos intrincados y subir una escalera antes de
                     llegar a su apartamento; contenía un buen fuego y parecía alegre.
                     La señorita Temple le dijo a Helen Burns que se sentara en un sillón
                     bajo a un lado del hogar, y tomando ella misma otro, me llamó a su
                     lado.</p>
 
-                    <p>—¿Ya ha pasado todo? —preguntó, mirándome el rostro—. ¿Has
+                <p>—¿Ya ha pasado todo? —preguntó, mirándome el rostro—. ¿Has
                     llorado toda tu pena?</p>
 
-                    <p>—Me temo que nunca lo haré.</p>
+                <p>—Me temo que nunca lo haré.</p>
 
-                    <p>—¿Por qué?</p>
+                <p>—¿Por qué?</p>
 
-                    <p>—Porque he sido acusada injustamente; y usted, señora, y todos
+                <p>—Porque he sido acusada injustamente; y usted, señora, y todos
                     los demás, ahora me creerán malvada.</p>
 
-                    <p>—Te creeremos lo que demuestres ser, hija mía. Continúa
+                <p>—Te creeremos lo que demuestres ser, hija mía. Continúa
                     actuando como una buena chica, y nos satisfarás.</p>
 
-                    <p>—¿Lo haré, señorita Temple?</p>
+                <p>—¿Lo haré, señorita Temple?</p>
 
-                    <p>—Lo harás —dijo, pasándome el brazo por los hombros—. Y ahora
+                <p>—Lo harás —dijo, pasándome el brazo por los hombros—. Y ahora
                     dime quién es la dama a la que el señor Brocklehurst llamó tu
                     benefactora.</p>
 
-                    <p>—La señora Reed, la esposa de mi tío. Mi tío ha muerto y me dejó
+                <p>—La señora Reed, la esposa de mi tío. Mi tío ha muerto y me dejó
                     a su cuidado.</p>
 
-                    <p>—¿No te adoptó, entonces, por voluntad propia?</p>
+                <p>—¿No te adoptó, entonces, por voluntad propia?</p>
 
-                    <p>—No, señora; lamentó tener que hacerlo, pero mi tío, como he
+                <p>—No, señora; lamentó tener que hacerlo, pero mi tío, como he
                     oído decir a menudo a los criados, le hizo prometer antes de morir
                     que siempre me cuidaría.</p>
 
-                    <p>—Bueno, ahora, Jane, sabes, o al menos yo te lo diré, que cuando
+                <p>—Bueno, ahora, Jane, sabes, o al menos yo te lo diré, que cuando
                     se acusa a un criminal, siempre se le permite hablar en su propia
                     defensa. Has sido acusada de falsedad; defiéndete ante mí lo mejor
                     que puedas. Di lo que tu memoria te sugiera que es verdad; pero no
                     añadas nada ni exageres nada.</p>
 
-                    <p>Resolví, en lo más profundo de mi corazón, que sería de lo más
+                <p>Resolví, en lo más profundo de mi corazón, que sería de lo más
                     moderada, de lo más correcta; y, habiendo reflexionado unos
                     minutos para ordenar coherentemente lo que tenía que decir, le
                     conté toda la historia de mi triste infancia. Agotada por la emoción,
@@ -258,7 +260,7 @@
                     simplificada, sonó más creíble. Sentí, a medida que avanzaba, que la
                     señorita Temple me creía plenamente.</p>
 
-                    <p>En el transcurso del relato había mencionado al señor Lloyd como
+                <p>En el transcurso del relato había mencionado al señor Lloyd como
                     alguien que había venido a verme después del ataque; pues nunca
                     olvidé el, para mí, espantoso episodio del cuarto rojo, al detallar el
                     cual mi excitación seguramente, en algún grado, se desbordaba;
@@ -267,91 +269,91 @@
                     súplica de perdón y me encerró por segunda vez en la cámara
                     oscura y encantada.</p>
 
-                    <p>Había terminado. La señorita Temple me miró unos minutos en
+                <p>Había terminado. La señorita Temple me miró unos minutos en
                     silencio; luego dijo:</p>
 
-                    <p>—Conozco algo del señor Lloyd; le escribiré. Si su respuesta
+                <p>—Conozco algo del señor Lloyd; le escribiré. Si su respuesta
                     concuerda con tu declaración, serás públicamente absuelta de toda
                     imputación. Para mí, Jane, ya estás absuelta.</p>
 
-                    <p>Me besó y, manteniéndome aún a su lado (donde estaba muy
+                <p>Me besó y, manteniéndome aún a su lado (donde estaba muy
                     contenta de permanecer, pues obtenía un placer infantil de la
                     contemplación de su rostro, su vestido, sus uno o dos adornos, su
                     frente blanca, sus rizos agrupados y brillantes, y sus radiantes ojos
                     oscuros), procedió a dirigirse a Helen Burns.</p>
 
-                    <p>—¿Cómo estás esta noche, Helen? ¿Has tosido mucho hoy?</p>
+                <p>—¿Cómo estás esta noche, Helen? ¿Has tosido mucho hoy?</p>
 
-                    <p>—No tanto, creo, señora.</p>
+                <p>—No tanto, creo, señora.</p>
 
-                    <p>—¿Y el dolor en el pecho?</p>
+                <p>—¿Y el dolor en el pecho?</p>
 
-                    <p>—Está un poco mejor.</p>
+                <p>—Está un poco mejor.</p>
 
-                    <p>La señorita Temple se levantó, le tomó la mano y le examinó el
+                <p>La señorita Temple se levantó, le tomó la mano y le examinó el
                     pulso; luego regresó a su propio asiento. Al reanudarlo, la oí suspirar
                     bajo. Estuvo pensativa unos minutos, luego, reanimándose, dijo
                     alegremente:</p>
 
-                    <p>—Pero vosotras dos sois mis invitadas esta noche; debo trataros
+                <p>—Pero vosotras dos sois mis invitadas esta noche; debo trataros
                     como tales. —Tocó su campanilla.</p>
 
-                    <p>—Bárbara —dijo a la sirvienta que respondió—, todavía no he
+                <p>—Bárbara —dijo a la sirvienta que respondió—, todavía no he
                     tomado el té; trae la bandeja y pon tazas para estas dos señoritas.</p>
 
-                    <p>Y pronto trajeron una bandeja. ¡Qué bonitas, a mis ojos, parecían
+                <p>Y pronto trajeron una bandeja. ¡Qué bonitas, a mis ojos, parecían
                     las tazas de porcelana y la tetera brillante, colocadas sobre la mesita
                     redonda cerca del fuego! ¡Qué fragante era el vapor de la bebida y
                     el aroma de la tostada! De la cual, sin embargo, para mi
                     consternación (pues empezaba a tener hambre), distinguí solo una
                     porción muy pequeña. La señorita Temple también lo distinguió.</p>
 
-                    <p>—Bárbara —dijo—, ¿no puedes traer un poco más de pan y
+                <p>—Bárbara —dijo—, ¿no puedes traer un poco más de pan y
                     mantequilla? No hay suficiente para tres.</p>
 
-                    <p>Bárbara salió. Regresó pronto.</p>
+                <p>Bárbara salió. Regresó pronto.</p>
 
-                    <p>—Señora, la señora Harden dice que ha enviado la cantidad
+                <p>—Señora, la señora Harden dice que ha enviado la cantidad
                     habitual.</p>
 
-                    <p>La señora Harden, cabe señalar, era el ama de llaves: una mujer
+                <p>La señora Harden, cabe señalar, era el ama de llaves: una mujer
                     según el propio corazón del señor Brocklehurst, hecha de partes
                     iguales de ballena y hierro.</p>
 
-                    <p>—¡Oh, muy bien! —respondió la señorita Temple—. Tendremos
+                <p>—¡Oh, muy bien! —respondió la señorita Temple—. Tendremos
                     que apañarnos, Bárbara, supongo. —Y mientras la chica se retiraba,
                     añadió, sonriendo—: Afortunadamente, está en mi poder suplir las
                     deficiencias por esta vez.</p>
 
-                    <p>Habiéndonos invitado a Helen y a mí a acercarnos a la mesa, y
+                <p>Habiéndonos invitado a Helen y a mí a acercarnos a la mesa, y
                     colocado ante cada una de nosotras una taza de té con un delicioso
                     pero fino trozo de tostada, se levantó, abrió un cajón con llave y,
                     sacando de él un paquete envuelto en papel, reveló al instante a
                     nuestros ojos un bizcocho de semillas de buen tamaño.</p>
 
-                    <p>—Tenía la intención de daros a cada una un poco de esto para que
+                <p>—Tenía la intención de daros a cada una un poco de esto para que
                     os lo llevarais —dijo—, pero como hay tan poca tostada, debéis
                     tomarlo ahora. —Y procedió a cortar rebanadas con mano generosa.</p>
 
-                    <p>Aquella noche nos dimos un festín como de néctar y ambrosía; y
+                <p>Aquella noche nos dimos un festín como de néctar y ambrosía; y
                     no el menor deleite del agasajo fue la sonrisa de gratificación con la
                     que nuestra anfitriona nos miraba, mientras satisfacíamos nuestros
                     apetitos famélicos con la delicada comida que nos suministraba
                     generosamente.</p>
 
-                    <p>Terminado el té y retirada la bandeja, nos convocó de nuevo junto
+                <p>Terminado el té y retirada la bandeja, nos convocó de nuevo junto
                     al fuego. Nos sentamos una a cada lado de ella, y siguió entonces
                     una conversación entre ella y Helen, que fue ciertamente un
                     privilegio ser admitida a escuchar.</p>
 
-                    <p>La señorita Temple siempre tenía algo de serenidad en su aire, de
+                <p>La señorita Temple siempre tenía algo de serenidad en su aire, de
                     majestuosidad en su porte, de refinada propiedad en su lenguaje,
                     que impedía desviarse hacia lo ardiente, lo excitado, lo ansioso; algo
                     que castigaba el placer de quienes la miraban y la escuchaban, con
                     un sentido controlador de asombro; y tal era mi sentimiento ahora.
                     Pero en cuanto a Helen Burns, quedé maravillada.</p>
 
-                    <p>La reconfortante comida, el brillante fuego, la presencia y la
+                <p>La reconfortante comida, el brillante fuego, la presencia y la
                     amabilidad de su amada instructora o, quizás, más que todo esto,
                     algo en su propia mente única, habían despertado sus poderes en su
                     interior. Despertaron, se encendieron: primero, brillaron en el vivo
@@ -369,7 +371,7 @@
                     velada; su espíritu parecía apresurarse a vivir en un lapso muy breve
                     tanto como muchos viven durante una existencia prolongada.</p>
 
-                    <p>Conversaban de cosas de las que nunca había oído hablar; de
+                <p>Conversaban de cosas de las que nunca había oído hablar; de
                     naciones y tiempos pasados; de países lejanos; de secretos de la
                     naturaleza descubiertos o adivinados. Hablaban de libros: ¡cuántos
                     habían leído! ¡Qué acervo de conocimientos poseían! Luego parecían
@@ -383,24 +385,24 @@
                     dormir! No se admitía demora. La señorita Temple nos abrazó a
                     ambas, diciendo, mientras nos atraía a su corazón:</p>
 
-                    <p>—¡Que Dios os bendiga, hijas mías!</p>
+                <p>—¡Que Dios os bendiga, hijas mías!</p>
 
-                    <p>A Helen la retuvo un poco más que a mí; la dejó ir con más
+                <p>A Helen la retuvo un poco más que a mí; la dejó ir con más
                     renuencia; fue a Helen a quien su ojo siguió hasta la puerta; fue por
                     ella por quien suspiró tristemente una segunda vez; por ella se secó
                     una lágrima de la mejilla.</p>
 
-                    <p>Al llegar al dormitorio, oímos la voz de la señorita Scatcherd:
+                <p>Al llegar al dormitorio, oímos la voz de la señorita Scatcherd:
                     estaba examinando los cajones; acababa de sacar el de Helen Burns,
                     y cuando entramos, Helen fue recibida con una aguda reprimenda y
                     se le dijo que al día siguiente llevaría media docena de artículos
                     desordenadamente doblados prendidos a su hombro.</p>
 
-                    <p>—Mis cosas estaban ciertamente en un desorden vergonzoso —me
+                <p>—Mis cosas estaban ciertamente en un desorden vergonzoso —me
                     murmuró Helen, en voz baja—. Tenía la intención de arreglarlas,
                     pero lo olvidé.</p>
 
-                    <p>A la mañana siguiente, la señorita Scatcherd escribió con
+                <p>A la mañana siguiente, la señorita Scatcherd escribió con
                     caracteres llamativos en un trozo de cartón la palabra
                     «DESALIÑADA», y la ató como una filacteria alrededor de la frente
                     ancha, dulce, inteligente y de aspecto benigno de Helen. La llevó
@@ -413,7 +415,7 @@
                     el espectáculo de su triste resignación me causaba un dolor
                     intolerable en el corazón.</p>
 
-                    <p>Aproximadamente una semana después de los incidentes narrados
+                <p>Aproximadamente una semana después de los incidentes narrados
                     anteriormente, la señorita Temple, que había escrito al señor Lloyd,
                     recibió su respuesta: parecía que lo que él decía corroboraba mi
                     relato. La señorita Temple, habiendo reunido a toda la escuela,
@@ -423,7 +425,7 @@
                     me dieron la mano y me besaron, y un murmullo de placer recorrió
                     las filas de mis compañeras.</p>
 
-                    <p>Así, aliviada de una pesada carga, desde esa hora me puse a
+                <p>Así, aliviada de una pesada carga, desde esa hora me puse a
                     trabajar de nuevo, resuelta a abrirme camino a través de toda
                     dificultad. Trabajé duro, y mi éxito fue proporcional a mis esfuerzos;
                     mi memoria, no naturalmente tenaz, mejoró con la práctica; el
@@ -447,10 +449,10 @@
                     problema a mi satisfacción antes de que cayera dulcemente
                     dormida.</p>
 
-                    <p>Bien ha dicho Salomón: «Mejor es la comida de legumbres donde
+                <p>Bien ha dicho Salomón: «Mejor es la comida de legumbres donde
                     hay amor, que de buey engordado donde hay odio».</p>
 
-                    <p>No habría cambiado ahora Lowood con todas sus privaciones por
+                <p>No habría cambiado ahora Lowood con todas sus privaciones por
                     Gateshead y sus lujos diarios.</p>
 
                 <div class="botonesFinales">
@@ -459,11 +461,8 @@
                     <a class="cambioSiguiente" href="cap9.php" rel="next">Siguiente</a>
                 </div>
             </section>
-        <div>
+            <div>
     </main>
 </body>
+
 </html>
-
-
-
-

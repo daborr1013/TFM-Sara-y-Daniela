@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="es">
+
 <head>
     <title>Grace Poole</title>
     <meta charset="utf-8">
@@ -13,7 +14,8 @@
 <body>
     <a href="#main" class="skip-link">Saltar a contenido principal</a>
     <header>
-        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png" alt="Litterally - Inicio"></a>
+        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
     </header>
 
     <nav class="navbar">
@@ -28,7 +30,7 @@
             </li>
 
             <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
-            <li><a href="../../../../litto.php">Asistente virtual</a></li>
+            <li><a href="../../../../litto.php">Litto</a></li>
 
             <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
         </ul>
@@ -37,14 +39,14 @@
     <main>
         <div class="layout">
             <div class="sidebar">
-                <nav class="navbar-sidebar">    
+                <nav class="navbar-sidebar">
                     <ul class="menu-sidebar">
                         <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
 
                         <li><a href="../../intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
-                            <a href="../../contenido_eyre.php">Contenido</a>
+                            <a href="../../contenido_eyre.php">Obra</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
                                 <li><a href="../../capitulos.php">Capítulos</a></li>
@@ -84,40 +86,50 @@
                     </ul>
                 </nav>
             </div>
-            
-           <section class="pjustificado">
+
+            <section class="pjustificado">
                 <h1 class="h1personajes">Grace Poole</h1>
 
                 <img class="fpersonaje" src="../../../../../media/images/gracePoole.png">
 
-                <p>Es una sirvienta de mediana edad contratada por Rochester para una tarea muy específica y peligrosa: vigilar a Bertha Mason en el ático.</p>
+                <p>Es una sirvienta de mediana edad contratada por Rochester para una tarea muy específica y peligrosa:
+                    vigilar a Bertha Mason en el ático.</p>
 
-                <p>A lo largo de la novela, Grace es una figura misteriosa y ambigua. Jane la describe como una mujer de aspecto común, algo ruda, de cara plana y sin mucha expresión.</p>
+                <p>A lo largo de la novela, Grace es una figura misteriosa y ambigua. Jane la describe como una mujer de
+                    aspecto común, algo ruda, de cara plana y sin mucha expresión.</p>
 
                 <h3>Personalidad e impacto en la vida de Jane</h3>
-                <p>Es completamente discreta respecto al tema de Bertha. No habla de ella, no da detalles y parece estar más interesada en su paga que en la salud mental de la mujer a la que cuida.</p>
-                    
-                <p>Es solitaria, taciturna y parece no tener amigos en la casa. Su rasgo más humano y problemático es su debilidad por la ginebra. Cuando bebe más de la cuenta, se queda dormida, momento que 
+                <p>Es completamente discreta respecto al tema de Bertha. No habla de ella, no da detalles y parece estar
+                    más interesada en su paga que en la salud mental de la mujer a la que cuida.</p>
+
+                <p>Es solitaria, taciturna y parece no tener amigos en la casa. Su rasgo más humano y problemático es su
+                    debilidad por la ginebra. Cuando bebe más de la cuenta, se queda dormida, momento que
                     Bertha aprovecha para escapar de su celda y sembrar el caos.</p>
 
-                <p>Jane está convencida durante casi toda su estancia en Thornfield de que Grace es la responsable de las risas fantasmales, del incendio en la habitación de Rochester y del ataque a Richard Mason. 
-                    Jane la mira con una mezcla de miedo y fascinación, preguntándose cómo una mujer tan "normal" y "vulgar" puede ser tan malvada.</p>
+                <p>Jane está convencida durante casi toda su estancia en Thornfield de que Grace es la responsable de
+                    las risas fantasmales, del incendio en la habitación de Rochester y del ataque a Richard Mason.
+                    Jane la mira con una mezcla de miedo y fascinación, preguntándose cómo una mujer tan "normal" y
+                    "vulgar" puede ser tan malvada.</p>
 
-                <p>Al creer que Grace es la culpable, la mente de Jane no sospecha la existencia de otra mujer. Esto permite que el romance entre Jane y Rochester crezca en una falsa sensación de seguridad.</p>
+                <p>Al creer que Grace es la culpable, la mente de Jane no sospecha la existencia de otra mujer. Esto
+                    permite que el romance entre Jane y Rochester crezca en una falsa sensación de seguridad.</p>
 
                 <h3>Importancia del personaje</h3>
-                <p>Grace Poole es fundamental para la trama porque su presencia oculta la verdad sobre Bertha Mason. Si Jane hubiera sabido desde el principio que había otra mujer en la casa, su relación con Rochester 
-                    habría sido muy diferente. Él deja que Jane crea que Grace es simplemente una empleada excéntrica o peligrosa que él mantiene por "misericordia" o razones inexplicables.</p>
+                <p>Grace Poole es fundamental para la trama porque su presencia oculta la verdad sobre Bertha Mason. Si
+                    Jane hubiera sabido desde el principio que había otra mujer en la casa, su relación con Rochester
+                    habría sido muy diferente. Él deja que Jane crea que Grace es simplemente una empleada excéntrica o
+                    peligrosa que él mantiene por "misericordia" o razones inexplicables.</p>
 
-                <p>Brontë la utiliza para jugar con el lector. Es la encarnación de la sospecha. Representa la clase trabajadora que guarda los secretos de la aristocracia.</p>
-             </section>
+                <p>Brontë la utiliza para jugar con el lector. Es la encarnación de la sospecha. Representa la clase
+                    trabajadora que guarda los secretos de la aristocracia.</p>
+            </section>
         </div>
     </main>
-    
+
     <footer>
         <p>TFM - Letras Digitales - UCM</p>
     </footer>
 
 </body>
-</html>
 
+</html>
