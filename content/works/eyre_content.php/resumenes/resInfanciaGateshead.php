@@ -94,39 +94,62 @@
                 <section class="pjustificado">
                     <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap1.php">Capítulo I</a>
 
-                    <p>La historia comienza en una tarde gris de noviembre. Jane Eyre, una huérfana de 10 años, intenta
+                    <p>La historia comienza en una tarde gris de noviembre. <a
+                            href="../personajes/gateshead/jane.php">Jane Eyre</a> una huérfana de 10 años, intenta
                         pasar desapercibida leyendo La historia de los
-                        pájaros británicos de Bewick tras una cortina. Su tía, la Sra. Reed, la excluye del círculo
-                        familiar, mientras su primo John Reed la acosa físicamente y verbalmente,
+                        pájaros británicos de Bewick tras una cortina. Su tía, la <a
+                            href="../personajes/gateshead/senoraReed.php">señora Reed</a>, la excluye del círculo
+                        familiar, mientras su primo <a href="../personajes/gateshead/john.php">John Reed</a> la acosa
+                        físicamente y verbalmente,
                         recordándole que vive allí solo por caridad.</p>
-                    <p>Tras recibir un golpe con un libro lanzado por John, Jane finalmente explota y se defiende,
-                        tachándolo de "asesino" y "esclavo". La Sra. Reed interviene de inmediato,
-                        culpando exclusivamente a Jane y ordenando su castigo más temido: el encierro en el "Cuarto
-                        Rojo", el lugar donde murió su tío Reed.</p>
+                    <p>Tras recibir un golpe con un libro lanzado por <a
+                            href="../personajes/gateshead/john.php">John</a>,
+                        <a href="../personajes/gateshead/jane.php">Jane</a> finalmente explota y se defiende,
+                        tachándolo de "asesino" y "esclavo". La <a href="../personajes/gateshead/senoraReed.php">señora
+                            Reed</a> interviene de inmediato,
+                        culpando exclusivamente a <a href="../personajes/gateshead/jane.php">Jane</a> y ordenando su
+                        castigo más temido: el encierro en el "Cuarto
+                        Rojo", el lugar donde murió su tío Reed.
+                    </p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap2.php">Capítulo II</a>
 
-                    <p>Jane es arrastrada por las criadas Abbott y Bessie al temido Cuarto Rojo. Al verse reflejada en
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a> es arrastrada por las criadas Abbott y <a
+                            href="../personajes/gateshead/bessie.php">Bessie</a> al temido Cuarto Rojo. Al verse
+                        reflejada en
                         el espejo, se siente como un espíritu extraño y comienza a meditar sobre
                         su injusta situación: recuerda que su tío Reed la acogió tras la muerte de sus padres y que, en
-                        su lecho de muerte, hizo jurar a su esposa que la criaría como a una hija,
-                        promesa que la tía ha roto sistemáticamente.</p>
+                        su lecho de muerte, hizo jurar a su <a href="../personajes/gateshead/senoraReed.php">su
+                            esposa</a> que la criaría como a una hija,
+                        promesa que la <a href="../personajes/gateshead/senoraReed.php">tía</a> ha roto
+                        sistemáticamente.</p>
                     <p>El aislamiento y la oscuridad alimentan su imaginación hasta que cree ver la aparición del
-                        fantasma de su tío, quien vendría a vengarla. Aterrorizada, Jane suplica que la
-                        dejen salir, pero la Sra. Reed ignora sus gritos tachándolos de artimaña dramática. Finalmente,
-                        el pánico y el agotamiento hacen que Jane se desmaye.</p>
+                        fantasma de su tío, quien vendría a vengarla. Aterrorizada, <a
+                            href="../personajes/gateshead/jane.php">Jane</a> suplica que la
+                        dejen salir, pero la <a href="../personajes/gateshead/senoraReed.php">señora Reed</a> ignora sus
+                        gritos tachándolos de artimaña dramática. Finalmente,
+                        el pánico y el agotamiento hacen que <a href="../personajes/gateshead/jane.php">Jane</a> se
+                        desmaye.</p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap3.php">Capítulo III</a>
 
-                    <p>Jane despierta en su habitación bajo el cuidado del amable boticario, el Sr. Lloyd, y de Bessie,
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a> despierta en su habitación bajo el cuidado
+                        del amable boticario, el <a href="../personajes/gateshead/lloyd.php">señor Lloyd</a>, y de <a
+                            href="../personajes/gateshead/bessie.php">Bessie</a>,
                         quien muestra cierta compasión por el trato recibido por la niña.
-                        Tras el trauma, el Sr. Lloyd conversa con Jane y, al notar su infelicidad, sugiere a la Sra.
-                        Reed que la envíen a una escuela, idea que despierta en Jane una cautelosa esperanza.</p>
-                    <p>Mientras se recupera, Jane escucha una charla entre las criadas donde descubre su origen: su
+                        Tras el trauma, el <a href="../personajes/gateshead/lloyd.php">señor Lloyd</a> conversa con <a
+                            href="../personajes/gateshead/jane.php">Jane</a> y, al notar su infelicidad, sugiere a la
+                        <a href="../personajes/gateshead/senoraReed.php">señora Reed</a> que la envíen a una escuela,
+                        idea que despierta en <a href="../personajes/gateshead/jane.php">Jane</a> una cautelosa
+                        esperanza.
+                    </p>
+                    <p>Mientras se recupera, <a href="../personajes/gateshead/jane.php">Jane</a> escucha una charla
+                        entre
+                        las criadas donde descubre su origen: su
                         madre, de la familia Reed, fue desheredada por casarse con un clérigo pobre.
                         Ambos murieron de tifus cuando Jane era un bebé, dejando a la niña en manos de una familia que
                         nunca la quiso.</p>
@@ -135,18 +158,28 @@
                 <section class="pjustificado">
                     <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap4.php">Capítulo IV</a>
 
-                    <p>Tras dos meses de espera y mayor aislamiento, Jane conoce al Sr. Brocklehurst, el severo director
-                        de la escuela Lowood. Durante un interrogatorio humillante sobre religión,
-                        Jane admite con honestidad que los salmos no le interesan, lo que indigna al clérigo. Para
-                        colmo, la Sra. Reed la calumnia ante él tildándola de mentirosa, asegurando que esa
-                        será su carta de presentación en el colegio.</p>
-                    <p>Una vez que Brocklehurst se marcha, Jane, herida profundamente, explota contra su tía en una
+                    <p>Tras dos meses de espera y mayor aislamiento, <a href="../personajes/gateshead/jane.php">Jane</a>
+                        conoce al <a href="../personajes/lowood/brocklehurst.php">señor Brocklehurst</a>, el severo
+                        director de la escuela Lowood. Durante un interrogatorio humillante sobre religión,
+                        <a href="../personajes/gateshead/jane.php">Jane</a> admite con honestidad que los salmos no le
+                        interesan, lo que indigna al clérigo. Para
+                        colmo, la <a href="../personajes/gateshead/senoraReed.php">señora Reed</a> la calumnia ante él
+                        tildándola de mentirosa, asegurando que esa
+                        será su carta de presentación en el colegio.
+                    </p>
+                    <p>Una vez que <a href="../personajes/lowood/brocklehurst.php">Brocklehurst</a> se marcha, <a
+                            href="../personajes/gateshead/jane.php">Jane</a>, herida profundamente, explota contra su
+                        <a href="../personajes/gateshead/senoraReed.php">tía</a> en una
                         famosa declaración de independencia: le comunica que no es su pariente,
-                        que nunca la volverá a llamar "tía" y que su recuerdo le produce asco. Ante esta furia, la Sra.
-                        Reed se queda sin palabras, derrotada por primera vez.
-                        Antes de partir hacia su nueva vida, Jane recibe un inusual gesto de cariño de Bessie, quien le
-                        confiesa que la prefiere a ella antes que a los niños Reed.</p>
-
+                        que nunca la volverá a llamar "tía" y que su recuerdo le produce asco. Ante esta furia, la <a
+                            href="../personajes/gateshead/senoraReed.php">señora Reed</a> se queda sin palabras,
+                        derrotada
+                        por primera vez.
+                        Antes de partir hacia su nueva vida, <a href="../personajes/gateshead/jane.php">Jane</a> recibe
+                        un
+                        inusual gesto de cariño de <a href="../personajes/gateshead/bessie.php">Bessie</a>, quien le
+                        confiesa que la prefiere a ella antes que a los niños Reed.
+                    </p>
                     <section>
                         <a class="boton" href="../contenido_eyre.php">Regresar a contenido</a>
                     </section>

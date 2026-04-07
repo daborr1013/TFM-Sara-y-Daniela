@@ -94,114 +94,192 @@
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap11.php">Capítulo XI</a>
 
-                    <p>Jane llega a Thornfield Hall de noche, encontrando un interior acogedor que contrasta con la
-                        oscuridad exterior. Allí la recibe la Sra. Fairfax,
-                        una anciana amable que Jane confunde con la dueña, aunque pronto aclara que es solo la ama de
-                        llaves. El verdadero dueño es el Sr. Rochester, un hombre excéntrico y viajero
-                        que rara vez está en casa. Jane conoce su misión: ser la institutriz de Adèle, una niña francesa
-                        de ocho años protegida de Rochester.</p>
-                    <p>Sin embargo, la calma se rompe cuando Jane escucha una risa tétrica y antinatural que resuena por
-                        los pasillos. La Sra. Fairfax resta importancia al incidente
-                        culpando a Grace Poole, una costurera de carácter difícil y errático que trabaja en la casa.
-                        Aunque Jane acepta la explicación, la inquietud queda sembrada en el ambiente.</p>
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a> llega a Thornfield Hall de noche, encontrando
+                        un interior acogedor que contrasta con la
+                        oscuridad exterior. Allí la recibe la <a href="../personajes/thornfield/fairfaix.php">señora
+                            Fairfaix</a>,
+                        una anciana amable que <a href="../personajes/gateshead/jane.php">Jane</a> confunde con la
+                        dueña,
+                        aunque pronto aclara que es solo la ama de
+                        llaves. El verdadero dueño es el <a href="../personajes/thornfield/edwardRochester.php">señor
+                            Rochester</a>, un hombre excéntrico y viajero
+                        que rara vez está en casa. <a href="../personajes/gateshead/jane.php">Jane</a> conoce su misión:
+                        ser la institutriz de <a href="../personajes/thornfield/adele.php">Adèle</a>, una niña francesa
+                        de ocho años protegida de <a href="../personajes/thornfield/edwardRochester.php">Rochester</a>.
+                    </p>
+                    <p>Sin embargo, la calma se rompe cuando <a href="../personajes/gateshead/jane.php">Jane</a> escucha
+                        una
+                        risa tétrica y antinatural que resuena por
+                        los pasillos. La <a href="../personajes/thornfield/fairfaix.php">señora Fairfaix</a> resta
+                        importancia al incidente
+                        culpando a <a href="../personajes/thornfield/grace.php">Grace Poole</a>, una costurera de
+                        carácter difícil y errático que trabaja en la casa.
+                        Aunque <a href="../personajes/gateshead/jane.php">Jane</a> acepta la explicación, la inquietud
+                        queda sembrada en el ambiente.</p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap12.php">Capítulo XII</a>
 
-                    <p>La vida en Thornfield resulta agradable para Jane; Adèle es una alumna vivaz aunque algo
-                        consentida, y Jane disfruta de la paz de la mansión,
+                    <p>La vida en Thornfield resulta agradable para <a href="../personajes/gateshead/jane.php">Jane</a>;
+                        <a href="../personajes/thornfield/adele.php">Adèle</a> es una alumna vivaz aunque algo
+                        consentida, y <a href="../personajes/gateshead/jane.php">Jane</a> disfruta de la paz de la
+                        mansión,
                         aunque a veces siente una inquietud errante que la lleva a recorrer los pasillos del piso
                         superior. Una tarde de invierno, mientras pasea sola bajo la luna, escucha
                         la llegada de un caballo y un perro, lo que le recuerda a los "Gytrash" (espíritus en forma de
-                        animales) de los cuentos de Bessie.</p>
-                    <p>El hechizo se rompe cuando el caballo resbala en el hielo y su jinete cae al suelo. Jane, lejos
+                        animales) de los cuentos de <a href="../personajes/lowood/bessie.php">Bessie</a>.
+                    </p>
+                    <p>El hechizo se rompe cuando el caballo resbala en el hielo y su jinete cae al suelo. <a
+                            href="../personajes/gateshead/jane.php">Jane</a>, lejos
                         de asustarse, ayuda al hombre a levantarse.
                         Nota que es un hombre de unos 35 años, de rasgos severos, tez oscura y ceño fruncido. Al
-                        regresar a la casa, Jane descubre al perro (Pilot) en la alfombra y se entera
-                        por los criados de que el hombre al que ayudó no es otro que el Sr. Rochester, quien acaba de
+                        regresar a la casa, <a href="../personajes/gateshead/jane.php">Jane</a> descubre al perro
+                        (Pilot)
+                        en la alfombra y se entera
+                        por los criados de que el hombre al que ayudó no es otro que el <a
+                            href="../personajes/thornfield/edwardRochester.php">señor Rochester</a>, quien acaba de
                         regresar a su hogar con un tobillo torcido tras el accidente.</p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap13.php">Capítulo XIII</a>
 
-                    <p>Al día siguiente de su accidentado encuentro, Rochester invita a Jane y a Adèle a tomar el té. Su
+                    <p>Al día siguiente de su accidentado encuentro, el <a
+                            href="../personajes/thornfield/edwardRochester.php">señor Rochester</a> invita a <a
+                            href="../personajes/gateshead/jane.php">Jane</a> y a <a
+                            href="../personajes/thornfield/adele.php">Adèle</a> a tomar el té. Su
                         comportamiento es brusco, frío y errático, rompiendo
                         con todas las etiquetas sociales esperadas de un anfitrión. Sin embargo, se queda fascinado al
-                        examinar los dibujos de Jane, reconociendo en ellos una mente profunda y
+                        examinar los dibujos de <a href="../personajes/gateshead/jane.php">Jane</a>, reconociendo en
+                        ellos
+                        una mente profunda y
                         original que no encaja con la de una simple institutriz.</p>
-                    <p>Tras el encuentro, Jane confiesa a la Sra. Fairfax que encuentra a su amo "cambiante y abrupto".
-                        El ama de llaves justifica su carácter explicando su
-                        complicado pasado familiar: Rochester era el "paria" de la familia, mientras que su hermano
+                    <p>Tras el encuentro, <a href="../personajes/gateshead/jane.php">Jane</a> confiesa a la <a
+                            href="../personajes/thornfield/fairfaix.php">señora Fairfaix</a> que encuentra a su amo
+                        "cambiante y abrupto".
+                        <a href="../personajes/thornfield/fairfaix.php">El ama de llaves</a> justifica su carácter
+                        explicando su
+                        complicado pasado familiar: el <a href="../personajes/thornfield/edwardRochester.php">señor
+                            Rochester</a> era el "paria" de la familia, mientras que su hermano
                         mayor heredó todo. Solo tras la muerte de su padre y de su hermano, hace nueve
-                        años, Edward se convirtió en el dueño de Thornfield, una posición que parece ocupar más por
-                        deber que por gusto.</p>
+                        años, el <a href="../personajes/thornfield/edwardRochester.php">señor Rochester</a> se convirtió
+                        en el dueño de Thornfield, una posición que parece ocupar más por
+                        deber que por gusto.
+                    </p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap14.php">Capítulo XIV</a>
 
-                    <p>Una noche, en un estado de ánimo más relajado (y algo ebrio), Rochester manda llamar a Jane y a
-                        Adèle. Mientras la niña se entretiene con sus regalos,
-                        Rochester se muestra inusualmente parlanchín y desafiante. En un momento de sinceridad brutal,
-                        le pregunta a Jane si lo encuentra guapo; ella, sin pensarlo, responde con un
+                    <p>Una noche, en un estado de ánimo más relajado (y algo ebrio), el <a
+                            href="../personajes/thornfield/edwardRochester.php">señor Rochester</a> manda llamar a <a
+                            href="../personajes/gateshead/jane.php">Jane</a> y a <a
+                            href="../personajes/thornfield/adele.php">Adèle</a>. Mientras la niña se entretiene con sus
+                        regalos,
+                        el <a href="../personajes/thornfield/edwardRochester.php">señor Rochester</a> se muestra
+                        inusualmente parlanchín y desafiante. En un momento de sinceridad brutal,
+                        le pregunta a <a href="../personajes/gateshead/jane.php">Jane</a> si lo encuentra guapo; ella,
+                        sin
+                        pensarlo, responde con un
                         rotundo "no", lo que divierte al amo de la casa por su falta de hipocresía.</p>
-                    <p>La conversación se vuelve profunda y extraña: Rochester insiste en que no la ve como una
+                    <p>La conversación se vuelve profunda y extraña: el <a
+                            href="../personajes/thornfield/edwardRochester.php">señor Rochester</a> insiste en que no la
+                        ve como una
                         sirvienta y discuten sobre temas densos como el pecado,
                         el remordimiento y la redención. Él insinúa que ha cometido errores en el pasado y que busca un
                         camino para ser "limpio" de nuevo. El capítulo termina con una mención
-                        a la madre de Adèle, dejando a Jane con la intriga de un secreto que Rochester promete revelarle
+                        a la madre de Adèle, dejando a <a href="../personajes/gateshead/jane.php">Jane</a> con la
+                        intriga de un secreto que el <a href="../personajes/thornfield/edwardRochester.php">señor
+                            Rochester</a> promete revelarle
                         pronto.</p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap15.php">Capítulo XV</a>
 
-                    <p>Rochester cumple su promesa y revela a Jane su pasado: tuvo un romance con una bailarina
+                    <p>El <a href="../personajes/thornfield/edwardRochester.php">señor Rochester</a> cumple su promesa y
+                        revela a <a href="../personajes/gateshead/jane.php">Jane</a> su pasado: tuvo un romance con una
+                        bailarina
                         francesa, Céline Varens, quien le fue infiel con otro hombre.
-                        Aunque Rochester duda que Adèle sea su hija biológica (ya que no se le parece en nada), decidió
+                        Aunque el <a href="../personajes/thornfield/edwardRochester.php">señor Rochester</a> duda que <a
+                            href="../personajes/thornfield/adele.php">Adèle</a> sea su hija biológica (ya que no se le
+                        parece en nada), decidió
                         traerla a Inglaterra para que no quedara abandonada cuando su madre la dejó.
-                        Esta confesión humaniza a Rochester ante los ojos de Jane.</p>
-                    <p>Esa misma noche, el misterio gótico estalla: Jane oye pasos en el pasillo y una risa demoníaca.
-                        Al salir, descubre que la habitación de Rochester está en llamas.
-                        Jane actúa con rapidez y le salva la vida arrojando agua sobre su cama. Tras el incidente,
-                        Rochester sube misteriosamente al tercer piso y, al volver, confirma la sospecha de Jane
-                        de que la culpable es Grace Poole, pero le ordena guardar silencio absoluto sobre lo ocurrido.
+                        Esta confesión humaniza al <a href="../personajes/thornfield/edwardRochester.php">señor
+                            Rochester</a> ante los ojos de <a href="../personajes/gateshead/jane.php">Jane</a>.</p>
+                    <p>Esa misma noche, el misterio gótico estalla: <a href="../personajes/gateshead/jane.php">Jane</a>
+                        oye pasos en el pasillo y una risa demoníaca.
+                        Al salir, descubre que la habitación del <a
+                            href="../personajes/thornfield/edwardRochester.php">señor
+                            Rochester</a> está en llamas.
+                        <a href="../personajes/gateshead/jane.php">Jane</a> actúa con rapidez y le salva la vida
+                        arrojando agua sobre su cama. Tras el incidente,
+                        el <a href="../personajes/thornfield/edwardRochester.php">señor Rochester</a> sube
+                        misteriosamente
+                        al tercer piso y, al volver, confirma la sospecha de <a
+                            href="../personajes/gateshead/jane.php">Jane</a>
+                        de que la culpable es <a href="../personajes/thornfield/gracePoole.php">Grace Poole</a>, pero le
+                        ordena guardar silencio absoluto sobre lo ocurrido.
                         El capítulo termina con una nota de intensa gratitud y una conexión emocional que
-                        deja a Jane incapaz de dormir.</p>
+                        deja a <a href="../personajes/gateshead/jane.php">Jane</a> incapaz de dormir.
+                    </p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap16.php">Capítulo XVI</a>
 
-                    <p>Al día siguiente, Jane se asombra al ver que el intento de asesinato no ha causado ningún
+                    <p>Al día siguiente, <a href="../personajes/gateshead/jane.php">Jane</a> se asombra al ver que el
+                        intento de asesinato no ha causado ningún
                         escándalo; los criados creen que fue un accidente con una
-                        vela y la propia Grace Poole cose tranquilamente como si nada hubiera pasado. Jane no entiende
-                        por qué Rochester protege a una criminal, pero sus pensamientos pronto se
+                        vela y la propia <a href="../personajes/thornfield/gracePoole.php">Grace Poole</a> cose
+                        tranquilamente como si nada hubiera pasado. <a href="../personajes/gateshead/jane.php">Jane</a>
+                        no
+                        entiende
+                        por qué el <a href="../personajes/thornfield/edwardRochester.php">señor Rochester</a> protege a
+                        una criminal, pero sus pensamientos pronto se
                         desvían hacia sus propios sentimientos: se da cuenta de que está enamorándose de su amo.</p>
-                    <p>La decepción llega cuando se entera de que Rochester se ha marchado por varios días para asistir
-                        a una fiesta donde estará la bella Blanche Ingram.
-                        Para "curarse" de sus ilusiones, Jane se impone un castigo psicológico: dibuja un autorretrato
-                        tosco de sí misma y un retrato idealizado de la hermosa Blanche.
+                    <p>La decepción llega cuando se entera de que el <a
+                            href="../personajes/thornfield/edwardRochester.php">señor Rochester</a> se ha marchado por
+                        varios días para asistir
+                        a una fiesta donde estará la bella <a href="../personajes/thornfield/ingram.php">Blanche
+                            Ingram</a>.
+                        Para "curarse" de sus ilusiones, <a href="../personajes/gateshead/jane.php">Jane</a> se impone
+                        un
+                        castigo psicológico: dibuja un autorretrato
+                        tosco de sí misma y un retrato idealizado de la hermosa <a
+                            href="../personajes/thornfield/ingram.php">Blanche</a>.
                         Al compararlos, se obliga a recordar su posición como una "pobre institutriz plana" para no
-                        hacerse falsas esperanzas con un hombre de la clase de Rochester.</p>
+                        hacerse falsas esperanzas con un hombre de la clase del <a
+                            href="../personajes/thornfield/edwardRochester.php">señor Rochester</a>.</p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap17.php">Capítulo XVII</a>
 
-                    <p>Tras una semana de angustia pensando que Rochester se irá a Europa por un año, la Sra. Fairfax
+                    <p>Tras una semana de angustia pensando que Rochester se irá a Europa por un año, la <a
+                            href="../personajes/thornfield/fairfaix.php">señora Fairfaix</a>
                         recibe noticias de que él regresará con una gran comitiva de invitados.
-                        Mientras preparan la casa, Jane sigue desconcertada por Grace Poole: escucha a los criados
+                        Mientras preparan la casa, <a href="../personajes/gateshead/jane.php">Jane</a> sigue
+                        desconcertada
+                        por <a href="../personajes/thornfield/gracePoole.php">Grace Poole</a>: escucha a los criados
                         murmurar sobre el sueldo inusualmente alto que recibe la costurera, lo que confirma sus
                         sospechas
-                        de que Grace guarda un secreto que le da poder sobre Rochester.</p>
-                    <p>Finalmente, llega la caravana de nobles, incluida la altiva Blanche Ingram. Jane es obligada a
+                        de que <a href="../personajes/thornfield/gracePoole.php">Grace</a> guarda un secreto que le da
+                        poder sobre el <a href="../personajes/thornfield/edwardRochester.php">señor Rochester</a>.</p>
+                    <p>Finalmente, llega la caravana de nobles, incluida la altiva <a
+                            href="../personajes/thornfield/ingram.php">Blanche Ingram</a>. <a
+                            href="../personajes/gateshead/jane.php">Jane</a> es obligada a
                         bajar al salón, pero se refugia en el hueco de una ventana, observando
-                        desde las sombras. Blanche y su madre no ocultan su desprecio por las institutrices, tratándola
-                        como un objeto insignificante. Cuando Jane intenta escapar de la reunión
-                        abrumada por la humillación, Rochester la intercepta. Al ver que ella está a punto de llorar, la
+                        desde las sombras. <a href="../personajes/thornfield/ingram.php">Blanche</a> y su madre no
+                        ocultan
+                        su desprecio por las institutrices, tratándola
+                        como un objeto insignificante. Cuando <a href="../personajes/gateshead/jane.php">Jane</a>
+                        intenta
+                        escapar de la reunión
+                        abrumada por la humillación, <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a>
+                        la intercepta. Al ver que ella está a punto de llorar, la
                         deja ir, pero no sin antes casi traicionarse con un "Buenas noches, mi...",
                         cortando la frase justo a tiempo.</p>
                 </section>
@@ -209,104 +287,171 @@
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap18.php">Capítulo XVIII</a>
 
-                    <p>La estancia de los invitados continúa y Jane observa con dolor cómo Rochester y Blanche Ingram
+                    <p>La estancia de los invitados continúa y <a href="../personajes/gateshead/jane.php">Jane</a>
+                        observa con dolor cómo <a href="../personajes/thornfield/edwardRochester.php">Rochester</a> ey
+                        <a href="../personajes/thornfield/ingram.php">Ingram</a>
                         actúan como la pareja perfecta, compitiendo juntos en juegos de mímica
-                        (charades). Jane llega a la amarga conclusión de que se casarán pronto, aunque nota que no hay
-                        amor: Blanche busca la fortuna de él, y él busca la belleza y el estatus de ella.</p>
-                    <p>En medio de estas fiestas, llega un invitado inesperado: el Sr. Mason, un hombre que a Jane le
+                        (charades). <a href="../personajes/gateshead/jane.php">Jane</a> llega a la amarga conclusión de
+                        que se casarán pronto, aunque nota que no hay
+                        amor: <a href="../personajes/thornfield/ingram.php">Blanche</a> busca la fortuna de él, y él
+                        busca la belleza y el estatus de ella.
+                    </p>
+                    <p>En medio de estas fiestas, llega un invitado inesperado: el Sr. Mason, un hombre que a <a
+                            href="../personajes/gateshead/jane.php">Jane</a> le
                         produce una instintiva repulsión por su mirada vacía. De él descubre
-                        un dato nuevo: Rochester vivió un tiempo en las Indias Occidentales (el Caribe). La noche se
+                        un dato nuevo: <a href="../personajes/thornfield/edwardRochester.php">Rochester</a> vivió un
+                        tiempo en las Indias Occidentales (el Caribe). La noche se
                         vuelve aún más extraña con la llegada de una vieja gitana que se ofrece a leer la fortuna
-                        de los invitados. Blanche entra primero, pero sale de la consulta visiblemente decepcionada y de
+                        de los invitados. <a href="../personajes/thornfield/ingram.php">Blanche</a> entra primero, pero
+                        sale de la consulta visiblemente decepcionada y de
                         mal humor, lo que sugiere que la gitana le ha dicho algo que no quería oír sobre su
-                        futuro con Rochester.</p>
+                        futuro con el <a href="../personajes/thornfield/edwardRochester.php">señor Rochester</a>.</p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap19.php">Capítulo XIX</a>
 
-                    <p>Jane entra en la biblioteca con escepticismo, pero pronto queda fascinada por las palabras de la
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a> entra en la biblioteca con escepticismo, pero
+                        pronto queda fascinada por las palabras de la
                         supuesta gitana. La anciana demuestra conocer los sentimientos
-                        más íntimos de Jane y le asegura que está muy cerca de alcanzar la felicidad. Además, le
-                        confiesa el truco que usó con Blanche Ingram: le dijo que la fortuna de Rochester no era tan
+                        más íntimos de <a href="../personajes/gateshead/jane.php">Jane</a> y le asegura que está muy
+                        cerca de alcanzar la felicidad. Además, le
+                        confiesa el truco que usó con <a href="../personajes/thornfield/ingram.php">Blanche Ingram</a>:
+                        le
+                        dijo que la fortuna de <a href="../personajes/thornfield/edwardRochester.php">Rochester</a> no
+                        era tan
                         grande como ella pensaba, lo que explica el mal humor de la aristócrata (quien solo busca el
                         dinero).</p>
-                    <p>A medida que la "anciana" habla, su voz se vuelve más profunda y familiar. Jane descubre con
-                        asombro que la gitana es, en realidad, el propio Rochester disfrazado.
-                        Aunque Jane lo reprende por el engaño, la atmósfera juguetona desaparece cuando ella le menciona
-                        la llegada del Sr. Mason. Al oír el nombre, Rochester se transmuta: se pone pálido y
-                        se apoya en Jane, visiblemente perturbado por la presencia de este hombre de su pasado.</p>
+                    <p>A medida que la "anciana" habla, su voz se vuelve más profunda y familiar. <a
+                            href="../personajes/gateshead/jane.php">Jane</a> descubre con
+                        asombro que la gitana es, en realidad, el propio <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a> disfrazado.
+                        Aunque <a href="../personajes/gateshead/jane.php">Jane</a> lo reprende por el engaño, la
+                        atmósfera
+                        juguetona desaparece cuando ella le menciona
+                        la llegada del Sr. Mason. Al oír el nombre, <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a> se transmuta: se pone
+                        pálido
+                        y
+                        se apoya en <a href="../personajes/gateshead/jane.php">Jane</a>, visiblemente perturbado por la
+                        presencia de este hombre de su pasado.</p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap20.php">Capítulo XX</a>
 
-                    <p>La paz de la noche se rompe con un grito desgarrador. Rochester calma a los invitados diciendo
+                    <p>La paz de la noche se rompe con un grito desgarrador. <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a> calma a los invitados
+                        diciendo
                         que ha sido la pesadilla de un criado, pero poco después busca
-                        a Jane en secreto. Tras preguntarle si teme a la sangre, la lleva al tercer piso, donde
-                        encuentran al Sr. Mason apuñalado y mordido en el brazo. Rochester deja a Jane sola cuidando
-                        al herido con la orden estricta de que no hablen entre ellos. En ese silencio tenso, Jane
-                        observa un tapiz de la crucifixión, sintiendo la pesadez del misterio que rodea a Grace Poole.
+                        a <a href="../personajes/gateshead/jane.php">Jane</a> en secreto. Tras preguntarle si teme a la
+                        sangre, la lleva al tercer piso, donde
+                        encuentran al Sr. Mason apuñalado y mordido en el brazo. <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a> deja a <a
+                            href="../personajes/gateshead/jane.php">Jane</a> sola cuidando
+                        al herido con la orden estricta de que no hablen entre ellos. En ese silencio tenso, <a
+                            href="../personajes/gateshead/jane.php">Jane</a> observa un tapiz de la crucifixión,
+                        sintiendo
+                        la pesadez del misterio que rodea a <a href="../personajes/thornfield/gracePoole.php">Grace
+                            Poole</a>.
                     </p>
-                    <p>Tras ayudar a Mason a marchar de la casa en secreto antes del amanecer, Rochester lleva a Jane al
+                    <p>Tras ayudar a Mason a marchar de la casa en secreto antes del amanecer, <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a> lleva a <a
+                            href="../personajes/gateshead/jane.php">Jane</a> al
                         huerto. Allí, le cuenta una historia "hipotética": un joven
                         comete un "error capital" en un país extranjero y, tras años de disipación, intenta redimirse
-                        con una mujer pura, pero las convenciones sociales se lo impiden. Le pregunta a Jane
-                        si ese hombre tendría derecho a "saltarse los obstáculos de la costumbre". Jane, firme en su
+                        con una mujer pura, pero las convenciones sociales se lo impiden. Le pregunta a <a
+                            href="../personajes/gateshead/jane.php">Jane</a>
+                        si ese hombre tendría derecho a "saltarse los obstáculos de la costumbre". <a
+                            href="../personajes/gateshead/jane.php">Jane</a>, firme en su
                         moral, le responde que debe buscar la redención en Dios, no en otra persona.
-                        Rochester termina la charla sugiriendo que casarse con Blanche es su única salida, dejándola
-                        sumida en la confusión.</p>
+                        <a href="../personajes/thornfield/edwardRochester.php">Rochester</a> termina la charla
+                        sugiriendo
+                        que casarse con <a href="../personajes/thornfield/ingram.php">Blanche</a> es su única salida,
+                        dejándola sumida en la confusión.
+                    </p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap21.php">Capítulo XXI</a>
 
-                    <p>Tras una serie de sueños premonitorios con bebés (mal augurio en el folclore inglés), Jane recibe
-                        noticias devastadoras: su primo John Reed se ha suicidado
-                        tras una vida de excesos, y su tía, la Sra. Reed, ha sufrido un derrame cerebral. Jane regresa a
-                        su antiguo hogar, donde se reencuentra con una Bessie fiel y con sus primas:
-                        Eliza, ahora fría y volcada en la religión, y Georgiana, tan bella como superficial. Ambas
-                        hermanas se detestan profundamente.</p>
-                    <p>A pesar del odio que recibió de niña, Jane intenta reconciliarse con su tía moribunda. En un
-                        último acto de confesión, la Sra. Reed le entrega una carta de
+                    <p>Tras una serie de sueños premonitorios con bebés (mal augurio en el folclore inglés), <a
+                            href="../personajes/gateshead/jane.php">Jane</a> recibe
+                        noticias devastadoras: su primo <a href="../personajes/gateshead/johnReed.php">John Reed</a> se
+                        ha
+                        suicidado
+                        tras una vida de excesos, y su tía, la <a href="../personajes/gateshead/sraReed.php">señora
+                            Reed</a>,
+                        ha sufrido un derrame cerebral. <a href="../personajes/gateshead/jane.php">Jane</a> regresa a
+                        su antiguo hogar, donde se reencuentra con una <a
+                            href="../personajes/gateshead/bessie.php">Bessie</a> fiel y con sus primas:
+                        <a href="../personajes/gateshead/elizaReed.php">Eliza</a>, ahora fría y volcada en la religión,
+                        y
+                        <a href="../personajes/gateshead/georgianaReed.php">Georgiana</a>, tan bella como superficial.
+                        Ambas hermanas se detestan profundamente.
+                    </p>
+                    <p>A pesar del odio que recibió de niña, <a href="../personajes/gateshead/jane.php">Jane</a> intenta
+                        reconciliarse con su tía moribunda. En un
+                        último acto de confesión, la <a href="../personajes/gateshead/sraReed.php">señora Reed</a> le
+                        entrega una carta de
                         hace tres años de su tío, John Eyre, quien quería adoptarla y dejarle su fortuna. La tía
-                        confiesa que, por puro rencor, ocultó la carta para evitar que Jane prosperara.
-                        Aun sabiendo esto, Jane le ofrece su perdón, pero la Sra. Reed muere a medianoche manteniendo su
+                        confiesa que, por puro rencor, ocultó la carta para evitar que <a
+                            href="../personajes/gateshead/jane.php">Jane</a> prosperara.
+                        Aun sabiendo esto, <a href="../personajes/gateshead/jane.php">Jane</a> le ofrece su perdón, pero
+                        la
+                        <a href="../personajes/gateshead/sraReed.php">señora Reed</a> muere a medianoche manteniendo su
                         hostilidad hasta el último aliento, incapaz de aceptar la bondad de la sobrina
-                        que tanto maltrató.</p>
+                        que tanto maltrató.
+                    </p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap22.php">Capítulo XXII</a>
 
-                    <p>Jane prolonga su estancia en Gateshead un mes más para ayudar a sus primas a organizar sus vidas
-                        tras la muerte de su tía: Georgiana se marcha a Londres y Eliza
-                        ingresa en un convento en Francia (donde acabará siendo Madre Superiora). Antes de irse, Jane
-                        recibe noticias de la Sra. Fairfax: los invitados se han ido y Rochester ha viajado
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a> prolonga su estancia en Gateshead un mes más
+                        para ayudar a sus primas a organizar sus vidas
+                        tras la muerte de su tía: <a href="../personajes/gateshead/georgianaReed.php">Georgiana</a> se
+                        marcha a Londres y <a href="../personajes/gateshead/elizaReed.php">Eliza</a>
+                        ingresa en un convento en Francia (donde acabará siendo Madre Superiora). Antes de irse, <a
+                            href="../personajes/gateshead/jane.php">Jane</a>
+                        recibe noticias de la <a href="../personajes/thornfield/fairfaix.php">señora Fairfaix</a>: los
+                        invitados se han ido y <a href="../personajes/thornfield/edwardRochester.php">Rochester</a> ha
+                        viajado
                         a Londres para comprar un nuevo carruaje, lo que todos interpretan como el paso definitivo para
-                        su boda con Blanche Ingram.</p>
-                    <p>El reencuentro se produce de forma inesperada en el camino hacia la mansión. Al ver a Rochester,
-                        Jane no puede ocultar su alegría. Él la provoca hablando del
+                        su boda con <a href="../personajes/thornfield/ingram.php">Blanche Ingram</a>.</p>
+                    <p>El reencuentro se produce de forma inesperada en el camino hacia la mansión. Al ver a <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a>,
+                        <a href="../personajes/gateshead/jane.php">Jane</a> no puede ocultar su alegría. Él la provoca
+                        hablando del
                         nuevo carruaje y de lo bien que le sentará a la futura "Sra. Rochester", manteniendo la farsa de
-                        su compromiso. En un arrebato de sinceridad que nace del alivio de volver a verlo,
-                        Jane pronuncia una de las frases más famosas del libro: "Dondequiera que usted esté, es mi
-                        hogar; mi único hogar". Al llegar a Thornfield, el cálido recibimiento de los criados y
-                        de Adèle refuerza esa sensación de pertenencia que Jane nunca antes había sentido.</p>
+                        su compromiso. Al llegar a Thornfield, el cálido recibimiento de los criados y
+                        de <a href="../personajes/thornfield/adele.php">Adèle</a> refuerza esa sensación de pertenencia
+                        que <a href="../personajes/gateshead/jane.php">Jane</a> nunca antes había sentido.
+                    </p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap23.php">Capítulo XXIII</a>
 
-                    <p>Tras dos semanas de tensa calma, Rochester encuentra a Jane en el jardín y la invita a pasear.
-                        Con crueldad aparente, le confirma que se casará con Blanche y
+                    <p>Tras dos semanas de tensa calma, <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a> encuentra a <a
+                            href="../personajes/gateshead/jane.php">Jane</a> en el jardín y la invita a pasear.
+                        Con crueldad aparente, le confirma que se casará con <a
+                            href="../personajes/thornfield/ingram.php">Blanche</a> y
                         que ha encontrado para ella un puesto de institutriz en Irlanda. La idea de cruzar el mar y
-                        alejarse de él rompe la compostura de Jane. Sentados bajo un gran castaño, Rochester
+                        alejarse de él rompe la compostura de <a href="../personajes/gateshead/jane.php">Jane</a>.
+                        Sentados bajo un gran castaño, <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a>
                         habla de un "vínculo de comunicación" que los une, como si un hilo invisible conectara sus
                         corazones.</p>
-                    <p>Jane, incapaz de contenerse más, explota en un llanto amargo y le confiesa que lo ama, gritando
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a>, incapaz de contenerse más, explota en un
+                        llanto amargo y le confiesa que lo ama, gritando
                         que no es una "máquina sin sentimientos" y que sus almas son
-                        iguales. Para su absoluta sorpresa, Rochester le pide que sea su esposa. Tras una inicial
-                        desconfianza (él admite que usó a Blanche solo para despertar sus celos), Jane acepta
+                        iguales. Para su absoluta sorpresa, <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a> le pide que sea su esposa.
+                        Tras una inicial
+                        desconfianza (él admite que usó a <a href="../personajes/thornfield/ingram.php">Blanche</a> solo
+                        para despertar sus celos), <a href="../personajes/gateshead/jane.php">Jane</a> acepta
                         emocionada.
                         Sin embargo, la naturaleza parece protestar: una tormenta estalla de inmediato y, esa misma
                         noche, un rayo parte en dos el castaño donde minutos antes se habían jurado amor,
@@ -316,56 +461,90 @@
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap24.php">Capítulo XXIV</a>
 
-                    <p>Los preparativos de la boda comienzan, pero no traen la paz que Jane esperaba. La Sra. Fairfax se
+                    <p>Los preparativos de la boda comienzan, pero no traen la paz que <a
+                            href="../personajes/gateshead/jane.php">Jane</a> esperaba. La <a
+                            href="../personajes/thornfield/fairfaix.php">señora Fairfaix</a> se
                         muestra fría y desaprobadora; incluso tras saber que hay
-                        un compromiso formal, advierte a Jane que sea cautelosa, sugiriendo que la diferencia de edad y
-                        clase social es un peligro. Jane misma se siente inquieta, casi asustada,
-                        cuando Rochester la llama "Jane Rochester", como si ese nombre borrara su verdadera identidad.
+                        un compromiso formal, advierte a <a href="../personajes/gateshead/jane.php">Jane</a> que sea
+                        cautelosa, sugiriendo que la diferencia de edad y
+                        clase social es un peligro. <a href="../personajes/gateshead/jane.php">Jane</a> misma se siente
+                        inquieta, casi asustada,
+                        cuando <a href="../personajes/thornfield/edwardRochester.php">Rochester</a> la llama "Jane
+                        Rochester", como si ese nombre borrara su verdadera identidad.
                     </p>
-                    <p>Rochester intenta colmarla de joyas, vestidos caros y lujos, tratando de convertirla en una
-                        figura de cuento de hadas. Sin embargo, Jane reacciona con pánico
+                    <p><a href="../personajes/thornfield/edwardRochester.php">Rochester</a> intenta colmarla de joyas,
+                        vestidos caros y lujos, tratando de convertirla en una
+                        figura de cuento de hadas. Sin embargo, <a href="../personajes/gateshead/jane.php">Jane</a>
+                        reacciona con pánico
                         y autoprotección: ella no quiere ser una "esclava" comprada con seda, sino seguir siendo ella
                         misma. Siente el presentimiento de que esta felicidad es demasiado irreal para durar.
                         Para ganar algo de independencia económica y sentirse más igual a su prometido, decide escribir
                         a su tío John Eyre en Madeira, con la esperanza de que una futura herencia la ponga
-                        en una posición de mayor dignidad frente a la fortuna de Rochester.</p>
+                        en una posición de mayor dignidad frente a la fortuna de <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a>.
+                    </p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap25.php">Capítulo XXV</a>
 
-                    <p>La víspera de la boda, Jane espera a Rochester con una ansiedad creciente. Cuando él llega, ella
+                    <p>La víspera de la boda, <a href="../personajes/gateshead/jane.php">Jane</a> espera a <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a> con una ansiedad
+                        creciente.
+                        Cuando él llega, ella
                         le confiesa una experiencia aterradora que ocurrió la noche anterior:
                         mientras dormía, una mujer de aspecto "salvaje" y facciones gruesas entró en su habitación, se
-                        probó el velo de novia de Jane ante el espejo y, acto seguido, lo rasgó en dos antes de
+                        probó el velo de novia de <a href="../personajes/gateshead/jane.php">Jane</a> ante el espejo y,
+                        acto
+                        seguido, lo rasgó en dos antes de
                         pisotearlo.</p>
-                    <p>Jane también le cuenta dos sueños inquietantes en los que aparece un niño llorando (el mal
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a> también le cuenta dos sueños inquietantes en
+                        los que aparece un niño llorando (el mal
                         augurio que ya conocíamos), simbolizando su propia vulnerabilidad.
-                        Rochester, visiblemente nervioso pero tratando de mantener la calma, insiste en que todo fue una
-                        alucinación o que la responsable fue Grace Poole en un episodio de locura.
+                        <a href="../personajes/thornfield/edwardRochester.php">Rochester</a>, visiblemente nervioso pero
+                        tratando de mantener la calma, insiste en que todo fue una
+                        alucinación o que la responsable fue <a href="../personajes/thornfield/gracePoole.php">Grace
+                            Poole</a> en un episodio de locura.
                         Le hace una promesa extraña: le explicará todo el misterio cuando lleven casados un año y un
-                        día. Esa noche, Jane busca consuelo durmiendo con Adèle, llorando ante la inminente pérdida
-                        de su vida conocida.</p>
+                        día. Esa noche, <a href="../personajes/gateshead/jane.php">Jane</a> busca consuelo durmiendo con
+                        <a href="../personajes/thornfield/adele.php">Adèle</a>, llorando ante la inminente pérdida
+                        de su vida conocida.
+                    </p>
                 </section>
 
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap26.php">Capítulo XXVI</a>
 
-                    <p>El día de la boda comienza con una nota de presagio cuando Jane ve a dos extraños en el
+                    <p>El día de la boda comienza con una nota de presagio cuando <a
+                            href="../personajes/gateshead/jane.php">Jane</a> ve a dos extraños en el
                         cementerio de la iglesia. En plena ceremonia, cuando el clérigo pregunta
-                        si hay algún impedimento, uno de los extraños, el abogado Sr. Briggs, interviene: Rochester ya
-                        está casado. Revela que hace quince años, en Jamaica, Rochester contrajo matrimonio
-                        con Bertha Mason, quien aún vive. El propio Richard Mason aparece para confirmar la historia.
+                        si hay algún impedimento, uno de los extraños, el abogado Sr. Briggs, interviene: <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a> ya
+                        está casado. Revela que hace quince años, en Jamaica, <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a> contrajo matrimonio
+                        con <a href="../personajes/thornfield/berthaMason.php">Bertha Mason</a>, quien aún vive. El
+                        propio Richard Mason aparece para confirmar la historia.
                     </p>
-                    <p>Tras un estallido de furia, Rochester confiesa la verdad y lleva a todos a Thornfield para que
+                    <p>Tras un estallido de furia, <a href="../personajes/thornfield/edwardRochester.php">Rochester</a>
+                        confiesa la verdad y lleva
+                        a todos a Thornfield para que
                         vean por qué ocultó su secreto. En una habitación escondida tras
-                        un tapiz en el tercer piso, encuentran a Bertha: una figura que Jane describe casi como un
+                        un tapiz en el tercer piso, encuentran a <a
+                            href="../personajes/thornfield/berthaMason.php">Bertha</a>: una figura que <a
+                            href="../personajes/gateshead/jane.php">Jane</a> describe casi como un
                         animal salvaje, con el cabello enmarañado, que gruñe y camina a cuatro patas. Es ella
-                        quien intentó quemar a Rochester y quien atacó a Mason. Rochester explica que su locura lo
-                        obligó a esconderla bajo la vigilancia de Grace Poole.</p>
-                    <p>Finalmente, Jane descubre que su tío, John Eyre, fue quien envió a Mason a detener la boda tras
-                        recibir la carta de Jane (la que escribió en el Capítulo 24).
-                        Al quedarse sola, Jane se encierra en su habitación, despojándose de su traje de novia y
+                        quien intentó quemar a <a href="../personajes/thornfield/edwardRochester.php">Rochester</a> y
+                        quien atacó a Mason.
+                        <a href="../personajes/thornfield/edwardRochester.php">Rochester</a> explica que su locura lo
+                        obligó a esconderla bajo la vigilancia de <a
+                            href="../personajes/thornfield/gracePoole.php">Grace Poole</a>.
+                    </p>
+                    <p>Finalmente, <a href="../personajes/gateshead/jane.php">Jane</a> descubre que su tío, John Eyre,
+                        fue quien envió a Mason a detener la boda tras
+                        recibir la carta de <a href="../personajes/gateshead/jane.php">Jane</a> (la que escribió en el
+                        Capítulo 24).
+                        Al quedarse sola, <a href="../personajes/gateshead/jane.php">Jane</a> se encierra en su
+                        habitación, despojándose de su traje de novia y
                         sumergiéndose en una pena indescriptible, buscando en la oración la fuerza para sobrevivir
                         a la traición del hombre que ama.</p>
                 </section>
@@ -373,21 +552,35 @@
                 <section class="pjustificado">
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap27.php">Capítulo XXVII</a>
 
-                    <p>Jane sale de su habitación y encuentra a Rochester esperándola. Aunque lo perdona internamente,
-                        se mantiene firme. Rochester la lleva a la biblioteca y
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a> sale de su habitación y encuentra a <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a> esperándola. Aunque lo
+                        perdona internamente,
+                        se mantiene firme. <a href="../personajes/thornfield/edwardRochester.php">Rochester</a> la lleva
+                        a la biblioteca y
                         le hace una propuesta desesperada: huir juntos al sur de Francia para vivir como marido y mujer.
-                        Jane se niega rotundamente, pues sabe que, ante la ley y su propia conciencia,
-                        nunca sería su esposa, sino su amante.</p>
-                    <p>Para justificar su engaño, Rochester revela que su padre y su hermano lo enviaron a Jamaica para
-                        casarse con Bertha por su fortuna ($30,000$ libras),
-                        ocultándole que la madre de ella estaba en un manicomio. Descubrió demasiado tarde que Bertha
+                        <a href="../personajes/gateshead/jane.php">Jane</a> se niega rotundamente, pues sabe que, ante
+                        la
+                        ley y su propia conciencia,
+                        nunca sería su esposa, sino su amante.
+                    </p>
+                    <p>Para justificar su engaño, <a href="../personajes/thornfield/edwardRochester.php">Rochester</a>
+                        revela que su padre y su
+                        hermano lo enviaron a Jamaica para
+                        casarse con <a href="../personajes/thornfield/berthaMason.php">Bertha</a> por su fortuna
+                        ($30,000$
+                        libras),
+                        ocultándole que la madre de ella estaba en un manicomio. Descubrió demasiado tarde que <a
+                            href="../personajes/thornfield/berthaMason.php">Bertha</a>
                         era violenta y grosera, rasgos que precedieron a su locura total.
-                        Tras la muerte de su padre y hermano, regresó a Inglaterra y ocultó a Bertha en Thornfield para
+                        Tras la muerte de su padre y hermano, regresó a Inglaterra y ocultó a <a
+                            href="../personajes/thornfield/berthaMason.php">Bertha</a> en Thornfield para
                         proteger su dignidad y la de ella, buscando consuelo en diversas amantes en Europa,
                         lo cual solo le trajo más vacío.</p>
-                    <p>Jane siente una pena inmensa. Se siente tentada a quedarse con el único hombre que la ha amado.
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a> siente una pena inmensa. Se siente tentada a
+                        quedarse con el único hombre que la ha amado.
                         Sin embargo, su respeto propio y su moral vencen.
-                        Tras un sueño profético donde su madre le ordena huir de la tentación, Jane toma su pequeña
+                        Tras un sueño profético donde su madre le ordena huir de la tentación, <a
+                            href="../personajes/gateshead/jane.php">Jane</a> toma su pequeña
                         bolsa de dinero, sale sigilosamente de la casa y abandona Thornfield,
                         dejando atrás su corazón por salvar su alma.</p>
                 </section>

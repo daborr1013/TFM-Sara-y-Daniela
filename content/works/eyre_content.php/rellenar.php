@@ -88,21 +88,9 @@
                 </nav>
             </div>
 
-            <section class="pjustificado">
-                <p>En esta actividad de <strong>rellenar espacios en blanco</strong>, se te mostrarán fragmentos
-                    importantes de la novela con palabras faltantes.
-                    Tu tarea será completar estos espacios con las palabras correctas del texto original.</p>
-
-                <p>Esta actividad te ayudará a reforzar tu memoria, identificar detalles importantes y familiarizarte
-                    con el lenguaje y estilo de la obra.</p>
-
-                <iframe src="../../../content/actividades_eyre/rellenar/index.html" width="100%" height="700"
-                    style="border:none;"></iframe>
-            </section>
             <section class="exel">
                 <iframe src="../../../content/actividades_eyre/rellenar/index.html" width="100%" height="700"
                     style="border:none;"></iframe>
-            </section>
         </div>
     </main>
 
