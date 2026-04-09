@@ -37,9 +37,10 @@ function getCharacterInfo($message, $conn) {
         'adele' => 'Adèle Varens',
         'bessie' => 'Bessie',
         'señora reed' => 'Señora Reed',
+        'señora temple' => 'Señora Temple',
         'brocklehurst' => 'Señor Brocklehurst',
         'temple' => 'Señora Temple',
-        'fairfax' => 'Señora Fairfaix',
+        'fairfax' => 'Señora Fairfax',
     ];
     
     // Encontrar qué personaje busca el usuario
@@ -51,21 +52,31 @@ function getCharacterInfo($message, $conn) {
         }
     }
     
-    // Si se menciona "personaje" sin especificar, devolver lista de disponibles
+    // Si se menciona "personaje" sin especificar, obtener lista de la BD
     if (!$characterName && preg_match('/personaje|protagonista/', $msg)) {
-        return "👤 Tengo información sobre varios personajes de Jane Eyre. Puedo hablarte sobre:\n\n" .
-               "**Principales**: Jane Eyre, Edward Rochester, Bertha Mason, John Rivers, Diana Rivers, Helen Burns\n\n" .
-               "**Otros**: Adèle Varens, Bessie, Señora Reed, Señor Brocklehurst, Señora Temple y más.\n\n" .
-               "¿Sobre cuál quieres saber más?";
+        $query = "SELECT nombre FROM characters WHERE work_id = 1 ORDER BY nombre LIMIT 15";
+        $result = @$conn->query($query);
+        $characters = [];
+        if ($result) {
+            while($row = $result->fetch_assoc()) {
+                $characters[] = $row['nombre'];
+            }
+        }
+        if (!empty($characters)) {
+            return "👤 Tengo información sobre estos personajes de Jane Eyre:\n\n**" . 
+                   implode("**, **", $characters) . "**\n\n¿Sobre cuál quieres saber más?";
+        }
+        return "👤 Puedo contarte sobre los personajes de Jane Eyre. ¿Cuál te interesa?";
     }
     
     // Si encontró un personaje, buscar en la BD
     if ($characterName) {
-        $query = "SELECT nombre, rol, descripcion FROM characters WHERE nombre = ? AND work_id = 1 LIMIT 1";
+        $query = "SELECT nombre, rol, descripcion FROM characters WHERE nombre LIKE ? AND work_id = 1 LIMIT 1";
         $stmt = $conn->prepare($query);
         
         if ($stmt) {
-            $stmt->bind_param('s', $characterName);
+            $searchName = "%$characterName%";
+            $stmt->bind_param('s', $searchName);
             $stmt->execute();
             $result = $stmt->get_result();
             
@@ -79,10 +90,9 @@ function getCharacterInfo($message, $conn) {
                 $descripcion = preg_replace('/^' . preg_quote($row['nombre'], '/') . '\s+/i', '', $descripcion);
                 // Clean up extra whitespace
                 $descripcion = trim(preg_replace('/\s+/', ' ', $descripcion));
-                // Limitar a 500 caracteres para no saturar el chat
-                $descripcion = substr($descripcion, 0, 500);
-                if (strlen($row['descripcion']) > 500) {
-                    $descripcion .= "...";
+                // Limitar a 600 caracteres para no saturar el chat
+                if (strlen($descripcion) > 600) {
+                    $descripcion = substr($descripcion, 0, 600) . "...";
                 }
                 
                 // Build response with role only if it exists
@@ -102,17 +112,176 @@ function getCharacterInfo($message, $conn) {
     return "👤 Jane Eyre es la protagonista. Es una mujer independiente, inteligente y moralmente firme. Lucha por su dignidad en la Inglaterra victoriana. ¿Quieres saber más sobre ella o sobre otros personajes?";
 }
 
+// Función para obtener información sobre temas de la tabla themes
+function getThemeInfo($message, $conn) {
+    $msg = strtolower($message);
+    
+    // Palabras clave para identificar temas específicos
+    $themeKeywords = [
+        '#amorMoralidad' => ['amor', 'moralidad', 'ética', 'principios', 'rochester', 'bertha', 'moral'],
+        '#csocialesIndependenciaDesigualdad' => ['clase', 'social', 'independencia', 'igualdad', 'desigualdad', 'institutriz', 'pobreza', 'riqueza'],
+        '#religionEspiritualidad' => ['religión', 'espiritualidad', 'fe', 'cristian', 'brocklehurst', 'helen', 'john rivers', 'st. john'],
+        '#justicia' => ['justicia', 'castigo', 'recompensa', 'consequences', 'consecuencias'],
+    ];
+    
+    $foundTheme = null;
+    foreach ($themeKeywords as $themeId => $keywords) {
+        foreach ($keywords as $keyword) {
+            if (strpos($msg, $keyword) !== false) {
+                $foundTheme = $themeId;
+                break 2;
+            }
+        }
+    }
+    
+    // Si encontró un tema específico, buscar en la BD
+    if ($foundTheme) {
+        $query = "SELECT tema_id, contenido FROM themes WHERE work_id = 1 AND tema_id = ? LIMIT 1";
+        $stmt = $conn->prepare($query);
+        if ($stmt) {
+            $stmt->bind_param('s', $foundTheme);
+            $stmt->execute();
+            $result = $stmt->get_result();
+            
+            if ($result && $result->num_rows > 0) {
+                $row = $result->fetch_assoc();
+                $contenido = strip_tags($row['contenido']);
+                $contenido = preg_replace('/\s+/', ' ', trim($contenido));
+                $contenido = substr($contenido, 0, 800);
+                
+                $temaLabel = str_replace('#', '', $foundTheme);
+                return "📚 **Tema: " . $temaLabel . "**\n\n" . $contenido . "\n\n¿Te gustaría explorar otro tema?";
+            }
+            $stmt->close();
+        }
+    }
+    
+    // Si no encontró tema específico, mostrar lista general
+    $query = "SELECT tema_id FROM themes WHERE work_id = 1 LIMIT 10";
+    $result = @$conn->query($query);
+    
+    if ($result && $result->num_rows > 0) {
+        $response = "📚 **Temas Principales en Jane Eyre:**\n\n";
+        while($row = $result->fetch_assoc()) {
+            $temaLabel = str_replace('#', '', $row['tema_id']);
+            $response .= "🔹 " . $temaLabel . "\n";
+        }
+        $response .= "\n¿Cuál te interesa explorar? Pregunta por ejemplo: 'Habla de amor y moralidad' o 'justicia en Jane Eyre'";
+        return $response;
+    }
+    
+    return "📚 Jane Eyre explora temas profundos. ¿Quieres conocer sobre amor y moralidad, clases sociales, religión, o justicia?";
+}
+
+// NUEVA FUNCIÓN: Extrae símbolos específicos de la tabla symbols
+function getSymbols($message, $conn) {
+    $msg = strtolower($message);
+    
+    // Palabras clave para identificar símbolos específicos
+    $symbolKeywords = [
+        '#fuegoHielo' => ['fuego', 'hielo', 'frío', 'calor', 'fuego y hielo', 'fire', 'ice', 'cold'],
+        '#casa' => ['casa', 'thornfield', 'gateshead', 'lowood', 'moor house', 'ferndean', 'hogar'],
+        '#luzOscuridadBertha' => ['luz', 'oscuridad', 'sombra', 'bertha', 'ciego', 'blind', 'light', 'darkness'],
+        '#cuartoRojo' => ['cuarto rojo', 'red room', 'castigo', 'punishment', 'encierro'],
+        '#naturaleza' => ['naturaleza', 'nature', 'árbol', 'castaño', 'rayo', 'weather', 'tiempo'],
+        '#pajaroEyre' => ['pájaro', 'bird', 'libertad', 'freedom', 'aire', 'air', 'jaula'],
+        '#madres' => ['madres', 'women', 'mujeres', 'reed', 'temple', 'diana', 'mary', 'bessie', 'fairfax'],
+    ];
+    
+    $foundSymbol = null;
+    foreach ($symbolKeywords as $symbolId => $keywords) {
+        foreach ($keywords as $keyword) {
+            if (strpos($msg, $keyword) !== false) {
+                $foundSymbol = $symbolId;
+                break 2;
+            }
+        }
+    }
+    
+    // Si encontró un símbolo específico, buscar en la BD
+    if ($foundSymbol) {
+        $query = "SELECT simbolo_id, contenido FROM symbols WHERE work_id = 1 AND simbolo_id = ? LIMIT 1";
+        $stmt = $conn->prepare($query);
+        if ($stmt) {
+            $stmt->bind_param('s', $foundSymbol);
+            $stmt->execute();
+            $result = $stmt->get_result();
+            
+            if ($result && $result->num_rows > 0) {
+                $row = $result->fetch_assoc();
+                $contenido = strip_tags($row['contenido']);
+                $contenido = preg_replace('/\s+/', ' ', trim($contenido));
+                $contenido = substr($contenido, 0, 900);
+                
+                $simboloLabel = str_replace('#', '', $row['simbolo_id']);
+                return "🎭 **Símbolo: " . $simboloLabel . "**\n\n" . $contenido . "\n\n¿Te gustaría explorar otro símbolo?";
+            }
+            $stmt->close();
+        }
+    }
+    
+    // Si no encontró símbolo específico, mostrar lista general
+    $query = "SELECT simbolo_id FROM symbols WHERE work_id = 1 LIMIT 10";
+    $result = @$conn->query($query);
+    
+    if ($result && $result->num_rows > 0) {
+        $response = "🎭 **Símbolos en Jane Eyre:**\n\n";
+        while($row = $result->fetch_assoc()) {
+            $simboloLabel = str_replace('#', '', $row['simbolo_id']);
+            $response .= "✨ " . $simboloLabel . "\n";
+        }
+        $response .= "\n¿Cuál te interesa explorar? Por ejemplo: 'fuego y hielo', 'la casa Thornfield', 'el cuarto rojo', 'la naturaleza', 'el pájaro Eyre', 'las madres de Jane'";
+        return $response;
+    }
+    
+    return "🎭 Jane Eyre está llena de símbolos poderosos. ¿Te gustaría conocer sobre el fuego, la luz, las casas, o la naturaleza?";
+}
+
+// Función para procesar preguntas y búsquedas más complejas
+function searchDatabase($keyword, $conn) {
+    // Buscar en concepto_clave de blocks
+    $query = "SELECT DISTINCT concepto_clave, nota_chatbot 
+              FROM blocks 
+              WHERE work_id = 1 
+              AND (concepto_clave LIKE ? OR nota_chatbot LIKE ?)
+              LIMIT 5";
+    
+    $stmt = $conn->prepare($query);
+    if ($stmt) {
+        $search = "%$keyword%";
+        $stmt->bind_param('ss', $search, $search);
+        $stmt->execute();
+        $result = $stmt->get_result();
+        
+        if ($result && $result->num_rows > 0) {
+            $response = "📖 Encontré información relacionada:\n\n";
+            while($row = $result->fetch_assoc()) {
+                if (!empty($row['nota_chatbot'])) {
+                    $nota = strip_tags($row['nota_chatbot']);
+                    $nota = preg_replace('/\s+/', ' ', trim($nota));
+                    $nota = substr($nota, 0, 200);
+                    $response .= "🔹 " . $row['concepto_clave'] . "\n" . $nota . "\n\n";
+                }
+            }
+            return $response;
+        }
+        $stmt->close();
+    }
+    
+    return null;
+}
+
 // Función para buscar y obtener respuesta de la base de datos
 function getBotResponse($message, $conn) {
     $msg = strtolower($message); // Convertir a minúsculas para comparación
     
     // RESPUESTAS DE SALUDO
     if (preg_match('/hola|hi|hey|buenos|buenas|qué tal/', $msg)) {
-        return "¡Hola! 👋 Soy Litto, tu asistente especialista en Jane Eyre. ¿En qué puedo ayudarte?";
+        return "¡Hola! 👋 Soy Litto, tu asistente especialista en Jane Eyre. Puedo contarte sobre personajes, resúmenes de capítulos, temas principales y mucho más. ¿En qué puedo ayudarte?";
     }
     
     // OBTENER INFORMACIÓN DE LA OBRA DE LA BASE DE DATOS
-    if (preg_match('/autor|escrit|quién.*escribió|quién.*escribio/', $msg)) {
+    if (preg_match('/autor|escrit|quién.*escribió|quién.*escribio|charlotte.*brontë/', $msg)) {
         $query = "SELECT autor FROM works WHERE id = 1";
         $result = @$conn->query($query);
         if ($result && $result->num_rows > 0) {
@@ -128,7 +297,12 @@ function getBotResponse($message, $conn) {
         // Extraer número de capítulo si el usuario lo mencionó
         preg_match('/\b(capítulo|cap|chapter)\s*(\d+)/i', $msg, $matches);
         
-        $chapter = isset($matches[2]) ? intval($matches[2]) : 1;
+        $chapter = isset($matches[2]) ? intval($matches[2]) : null;
+        
+        // Si no especificó capítulo, mostrar opciones
+        if ($chapter === null) {
+            return "📖 ¿De cuál capítulo necesitas el resumen? Puedo darte información de los capítulos del 1 al 38. Pregunta por ejemplo: 'Resumen capítulo 3' o 'Argumento del capítulo 10'.";
+        }
         
         // Seguridad: asegurar que chapter sea un número válido
         if ($chapter < 1) $chapter = 1;
@@ -139,37 +313,77 @@ function getBotResponse($message, $conn) {
         
         if ($result && $result->num_rows > 0) {
             $row = $result->fetch_assoc();
-            if (isset($row['contenido'])) {
+            if (isset($row['contenido']) && !empty($row['contenido'])) {
                 // Remover etiquetas HTML para mostrar texto limpio
                 $content = strip_tags($row['contenido']);
                 // Limpiar espacios en blanco extra
                 $content = preg_replace('/\s+/', ' ', trim($content));
-                // Asegurar que no esté vacío
-                if (strlen($content) > 0) {
-                    return "📖 " . $content;
+                // Limitar a 800 caracteres
+                if (strlen($content) > 800) {
+                    $content = substr($content, 0, 800) . "...";
                 }
+                return "📖 **Capítulo " . intval($chapter) . ":**\n\n" . $content;
             }
         }
-        return "📖 Aquí va el resumen del capítulo. La base de datos contiene información detallada sobre Jane Eyre.";
+        return "📖 Lo siento, no encontré el resumen de ese capítulo. ¿Puedes especificar otro capítulo?";
     }
     
     // PREGUNTAS SOBRE PERSONAJES
-    if (preg_match('/personaje|protagonista|heroin|quién.*jane|jane.*es|cómo.*jane|rochester|bertha|st\.\s*john|diana|helen|adele|bessie|señora reed|brocklehurst/i', $msg)) {
+    if (preg_match('/personaje|protagonista|hero|heroin|quién.*jane|jane.*es|cómo.*jane|rochester|bertha|st\.\s*john|diana|helen|adele|bessie|señora reed|brocklehurst|temple|fairfax/i', $msg)) {
         return getCharacterInfo($msg, $conn);
     }
     
+    // PREGUNTAS SOBRE TEMAS Y CONCEPTOS
+    if (preg_match('/tema|concepto|moral|ética|justicia|igualdad|mujer|indepen|valores/', $msg)) {
+        // Primero intentar búsqueda específica
+        preg_match('/tema.*?(\w+)|concepto.*?(\w+)|ética.*?(\w+)|justicia.*?(\w+)/i', $msg, $matches);
+        if (!empty($matches) && !empty($matches[1])) {
+            $result = searchDatabase($matches[1], $conn);
+            if ($result) return $result;
+        }
+        return getThemeInfo($msg, $conn);
+    }
+    
+    // PREGUNTAS SOBRE SÍMBOLOS
+    if (preg_match('/símbolo|simbolog|significado|representa|metáfora|metafor|fuego|luz|oscuridad|sombra|aislamiento|cadena|casa|fantasma|miedo/', $msg)) {
+        return getSymbols($msg, $conn);
+    }
+    
     // PREGUNTAS SOBRE CONTEXTO/PERÍODO
-    if (preg_match('/contexto|época|período|periodo|cuándo|cuando|siglo|victorian|histór/', $msg)) {
-        return "🏛️ Jane Eyre está ambientada en la Inglaterra del siglo XIX, en la época victoriana. Une ficción y realismo social, tocando temas como la clase social, la moral y la independencia femenina.";
+    if (preg_match('/contexto|época|período|periodo|cuándo|cuando|siglo|victorian|histór|inglaterra|inglaterra|escena|lugar|setting/', $msg)) {
+        return "🏛️ Jane Eyre está ambientada en la Inglaterra del siglo XIX, específicamente en la época victoriana (1837-1901). La novela combina ficción con realismo social, tocando temas profundos como:\n\n" .
+               "• La clase social y la movilidad social\n" .
+               "• La moral y la responsabilidad personal\n" .
+               "• La independencia y derechos de la mujer\n" .
+               "• El amor y la igualdad en las relaciones\n\n" .
+               "¿Quieres saber más sobre alguno de estos temas?";
     }
     
     // PREGUNTAS SOBRE ROMANCE/ROCHESTER
-    if (preg_match('/rochester|amor|romantic|relación|pareja|jane.*rochester/', $msg)) {
-        return "💔 La relación entre Jane y el Sr. Rochester es central en la novela. Es una historia de amor compleja que cuestiona los roles sociales y la igualdad en la época victoriana.";
+    if (preg_match('/rochester|amor|romantic|relación|pareja|jane.*rochester|matrimonio/', $msg)) {
+        return "💔 La relación entre Jane y el Sr. Rochester es el eje central de la novela. Es una historia de amor compleja que:\n\n" .
+               "• Cuestiona los roles sociales de la época\n" .
+               "• Explora la igualdad en las relaciones humanas\n" .
+               "• Desafía las convenciones victorianas sobre el matrimonio\n" .
+               "• Muestra la importancia de la honestidad y la confianza\n\n" .
+               "¿Quieres conocer más detalles sobre cómo evoluciona su relación?";
+    }
+    
+    // BÚSQUEDA GENERAL EN EL CONTENIDO
+    $searchResult = searchDatabase($msg, $conn);
+    if ($searchResult) {
+        return $searchResult;
     }
     
     // RESPUESTA POR DEFECTO SI NO COINCIDEN PALABRAS CLAVE
-    return "No estoy seguro sobre eso. Prueba preguntándome sobre: resumen, autor, personajes, contexto, o la relación de Jane y Rochester.";
+    return "No estoy completamente seguro sobre eso. Puedo ayudarte con:\n\n" .
+           "📖 **Resúmenes**: Cuéntame el número del capítulo\n" .
+           "👤 **Personajes**: Pregunta por Jane, Rochester, Helen, etc.\n" .
+           "📚 **Temas**: Justicia, independencia, amor, clase social\n" .
+           "� **Símbolos**: Fuego, luz, aislamiento, casas, fantasmas\n" .
+           "�🏛️ **Contexto**: Época victoriana, Inglaterra, historia\n" .
+           "✍️ **Autora**: Charlotte Brontë\n\n" .
+           "¿Sobre qué te gustaría saber más?";
 }
 
 // Inicializar variables
