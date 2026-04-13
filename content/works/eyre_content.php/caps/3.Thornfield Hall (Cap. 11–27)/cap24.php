@@ -64,7 +64,6 @@
                         <li class="dropdown-sidebar">
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../explicaciones.php">Explicaciones</a></li>
                                 <li><a href="../../simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="../../personajes.php">Personajes</a></li>
                                 <li><a href="../../glosario.php">Glosario</a></li>
@@ -805,7 +804,7 @@
 
                 <p>Me convocó debidamente a su presencia por la tarde. Le había
                     preparado una ocupación; pues estaba decidida a no pasar todo el
-                    tiempo en una conversación tête-à-tête. Recordaba su hermosa voz;
+                    tiempo en una conversación <i>tête-à-tête</i>. Recordaba su hermosa voz;
                     sabía que le gustaba cantar, los buenos cantantes generalmente lo
                     hacen. Yo no era una vocalista, y, a su juicio exigente, tampoco una
                     música; pero me deleitaba escuchar cuando la interpretación era

@@ -64,7 +64,6 @@
                         <li class="dropdown-sidebar">
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../explicaciones.php">Explicaciones</a></li>
                                 <li><a href="../../simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="../../personajes.php">Personajes</a></li>
                                 <li><a href="../../glosario.php">Glosario</a></li>
@@ -486,7 +485,7 @@
                     hablar con la dama que le va a enseñar y a hacer de usted una
                     mujer inteligente algún día. —Se acercó.</p>
 
-                <p>—<i>¡C'est là ma gouvernante!</i> —dijo, señalándome y dirigiéndose a
+                <p>—<i>C'est là ma gouvernante?</i> —dijo, señalándome y dirigiéndose a
                     su nodriza; quien respondió:</p>
 
                 <p>—<i>Mais oui, certainement</i>.</p>

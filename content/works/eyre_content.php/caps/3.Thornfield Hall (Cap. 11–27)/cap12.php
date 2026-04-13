@@ -64,7 +64,6 @@
                         <li class="dropdown-sidebar">
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../explicaciones.php">Explicaciones</a></li>
                                 <li><a href="../../simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="../../personajes.php">Personajes</a></li>
                                 <li><a href="../../glosario.php">Glosario</a></li>
@@ -110,7 +109,7 @@
                     inspiró, a cambio, un grado de apego suficiente para que ambas
                     estuviéramos contentas en la compañía de la otra.</p>
 
-                <p>Esto, par parenthèse, será considerado un lenguaje frío por
+                <p>Esto, <i>par parenthèse</i>, será considerado un lenguaje frío por
                     personas que sostienen doctrinas solemnes sobre la naturaleza
                     angelical de los niños y el deber de quienes están a cargo de su
                     educación de concebir por ellos una devoción idólatra. Pero no estoy

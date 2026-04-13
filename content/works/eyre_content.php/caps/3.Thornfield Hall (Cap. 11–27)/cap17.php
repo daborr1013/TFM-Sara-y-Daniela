@@ -64,7 +64,6 @@
                         <li class="dropdown-sidebar">
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../explicaciones.php">Explicaciones</a></li>
                                 <li><a href="../../simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="../../personajes.php">Personajes</a></li>
                                 <li><a href="../../glosario.php">Glosario</a></li>
@@ -542,7 +541,7 @@
                     infantil de rostro y modales, y picante de formas; su vestido de
                     muselina blanca y su lazo azul le sentaban bien. La segunda, Louisa,
                     era más alta y de figura más elegante, con un rostro muy bonito, de
-                    ese orden que los franceses llaman minois chiffoné. Ambas
+                    ese orden que los franceses llaman <i>minois chiffoné</i>. Ambas
                     hermanas eran blancas como lirios.</p>
 
                 <p>Lady Lynn era un personaje grande y corpulento de unos cuarenta
@@ -846,7 +845,7 @@
                     charivari con la regla y el pupitre, el guardafuegos y los hierros de la
                     chimenea. Theodore, ¿recuerdas esos días alegres?</p>
 
-                <p>—Yaas, por supuesto que sí —arrastró Lord Ingram—. Y la pobre
+                <p>Sssí, por supuesto que sí —arrastró Lord Ingram—. Y la pobre
                     vieja solía gritar: «¡Oh, bribones!». Y luego la sermoneábamos sobre
                     la presunción de intentar enseñar a unos espabilados como
                     nosotros, cuando ella misma era tan ignorante.</p>
@@ -907,9 +906,9 @@
                     prepare sus pulmones y otros órganos vocales, ya que serán
                     necesarios para mi real servicio.</p>
 
-                <p>—¿Quién no sería el <i>Rizzio</i> de tan divina María?</p>
+                <p>—¿Quién no sería el Rizzio de tan divina María?</p>
 
-                <p>—¡Un higo para <i>Rizzio</i>! —exclamó ella, echando hacia atrás la
+                <p>—¡Un higo para Rizzio! —exclamó ella, echando hacia atrás la
                     cabeza con todos sus rizos, mientras se dirigía al piano—. En mi
                     opinión, el violinista David debió de ser un tipo insípido. Prefiero al
                     negro Bothwell. A mi parecer, un hombre no es nada sin una pizca

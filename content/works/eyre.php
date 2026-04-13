@@ -70,7 +70,6 @@
                         <li class="dropdown-sidebar">
                             <a href="eyre_content.php/recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="eyre_content.php/explicaciones.php">Explicaciones</a></li>
                                 <li><a href="eyre_content.php/simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="eyre_content.php/personajes.php">Personajes</a></li>
                                 <li><a href="eyre_content.php/glosario.php">Glosario</a></li>

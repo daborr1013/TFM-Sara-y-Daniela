@@ -339,6 +339,16 @@ h3 {
 h4 {
     text-align: center;
     justify-content: center;
+    color: #4e366c;
+    font-size: 1.25rem;
+    font-weight: 600;
+    line-height: 1.4;
+}
+
+h5 {
+    text-align: center;
+    justify-content: center;
+    color: black;
     font-size: 1.1rem;
     font-weight: 600;
     line-height: 1.4;
@@ -394,8 +404,14 @@ h4 {
     font-size: 1.1em;
 }
 
-cite {
-    font-weight: 700;
+.cita {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 1.25rem;
+    font-weight: 600;
+    font-style: italic;
+    text-align: center;
+    justify-content: center;
+    text-indent: 0%;
 }
 
 /*fin texto*/
@@ -498,7 +514,7 @@ button {
     padding: 12px 25px !important;
     border-radius: 20px;
     text-decoration: none;
-    color: #333;
+    color: white;
     transition: background-color 0.3s, transform 0.2s;
     border: none;
     cursor: pointer;
@@ -507,6 +523,25 @@ button {
 
 .boton:hover {
     background-color: #55dfe4;
+}
+
+button {
+    display: block !important;
+    width: fit-content !important;
+    margin: 25px auto !important;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 15px;
+    background-color: #a8dadc;
+    text-align: center;
+    line-height: normal !important;
+    padding: 12px 25px !important;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    transition: background-color 0.3s, transform 0.2s;
+    border: none;
+    cursor: pointer;
+    text-indent: 0 !important;
 }
 
 

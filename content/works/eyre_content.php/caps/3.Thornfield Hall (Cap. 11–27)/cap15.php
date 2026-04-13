@@ -63,7 +63,6 @@
                         <li class="dropdown-sidebar">
                             <a href="../../recursos_eyre.php">Recursos</a>
                             <ul class="dropdown-menu-sidebar">
-                                <li><a href="../../explicaciones.php">Explicaciones</a></li>
                                 <li><a href="../../simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="../../personajes.php">Personajes</a></li>
                                 <li><a href="../../glosario.php">Glosario</a></li>
@@ -129,12 +128,12 @@
                     incienso de La Habana en el aire helado y sin sol, continuó:</p>
 
                 <p>—También me gustaban los bombones en aquellos días, señorita
-                    Eyre, y estaba croquant —(pase por alto el barbarismo)—, croquant
+                    Eyre, y estaba croquant —(pase por alto el barbarismo)—, <i>croquant</i>
                     confites de chocolate, y fumando alternativamente, mientras
                     observaba los carruajes que rodaban por las calles de moda hacia la
                     ópera cercana, cuando en un elegante coche cerrado tirado por un
                     hermoso par de caballos ingleses, y visto claramente en la brillante
-                    noche de la ciudad, reconocí la «voiture» que le había regalado a
+                    noche de la ciudad, reconocí la <i>voiture</i> que le había regalado a
                     Céline. Regresaba. Por supuesto, mi corazón latió con impaciencia
                     contra las barandillas de hierro sobre las que me apoyaba. El
                     carruaje se detuvo, como esperaba, en la puerta del hotel; mi llama
@@ -143,12 +142,12 @@
                     por cierto, en una noche de junio tan cálida—, la reconocí al instante
                     por su pequeño pie, que se asomaba por el borde de su vestido
                     mientras saltaba del estribo del carruaje. Inclinándome sobre el
-                    balcón, estaba a punto de murmurar «Mon ange» —en un tono, por
+                    balcón, estaba a punto de murmurar <i>Mon ange</i> —en un tono, por
                     supuesto, que solo debería ser audible para el oído del amor—,
                     cuando una figura saltó del carruaje tras ella; también con capa,
                     pero era un tacón espoleado el que había resonado en el pavimento,
                     y era una cabeza con sombrero la que ahora pasaba bajo la
-                    arqueada porte cochère del hotel.</p>
+                    arqueada <i>porte cochère</i> del hotel.</p>
 
                 <p>»Usted nunca ha sentido celos, ¿verdad, señorita Eyre? Por
                     supuesto que no. No necesito preguntárselo, porque nunca ha
@@ -269,7 +268,7 @@
                     pudieron a su manera. Especialmente Céline, que incluso se volvió
                     bastante brillante sobre mis defectos personales, deformidades los
                     llamó. Ahora bien, había sido su costumbre lanzarse a una ferviente
-                    admiración de lo que llamaba mi «beauté mâle», en lo que difería
+                    admiración de lo que llamaba mi <i>beauté mâle</i>, en lo que difería
                     diametralmente de usted, que me dijo sin rodeos, en la segunda
                     entrevista, que no me consideraba guapo. El contraste me llamó la
                     atención en ese momento y...</p>
@@ -288,7 +287,7 @@
                     encontrarlo; le dejé una bala en uno de sus pobres y enclenques
                     brazos, débil como el ala de un pollo con pepita, y luego pensé que
                     había terminado con toda la pandilla. Pero, por desgracia, la Varens,
-                    seis meses antes, me había dado esta filette, Adèle, quien, afirmó
+                    seis meses antes, me había dado esta <i>filette</i>, Adèle, quien, afirmó
                     ella, era mi hija; y quizás lo sea, aunque no veo pruebas de tan
                     sombría paternidad escritas en su semblante. Pilot se parece más a
                     mí que ella. Unos años después de que yo rompiera con la madre,
