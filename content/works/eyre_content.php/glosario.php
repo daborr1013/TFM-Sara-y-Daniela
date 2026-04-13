@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -91,10 +91,49 @@
             <section class="pjustificado">
                 <h4>Glosario</h4>
                 <p>Alguna de las expresiones que se usan en <i>Jane Eyre</i> pueden llegar a resultarte un poco
-                    complejas, por el poco uso que hoy en día les damos. Por ello, hemos creado este glosario para
-                    ayudarte a entender mejor la obra.</p>
+                    complejas, por el poco uso que hoy en día les damos. Por ello, hemos creado este glosario con
+                    algunas
+                    definiciones sacadas de la <a href="https://dle.rae.es/">Diccionario de la lengua española de la
+                        RAE</a> para ayudarte a entender mejor la obra.</p>
                 <ul>
-                    <li></li>
+                    <li><a href="https://dle.rae.es/alf%C3%A9izar" target="_blank">Alféizar</a>: Vuelta o derrame que
+                        hace la pared en el corte de una puerta o ventana, tanto por la parte de adentro como por la de
+                        afuera, dejando al descubierto el grueso del muro.</li>
+                    <li><a href="https://dle.rae.es/ant%C3%ADtesis" target="_blank">Antítesis</a>: Persona o cosa
+                        enteramente opuesta en sus condiciones a otra.</li>
+                    <li><a href="https://dle.rae.es/byroniano" target="_blank">Byroniano</a>: Que tiene rasgos
+                        característicos de la obra de Byron.</li>
+                    <li><a href="https://dle.rae.es/displicencia" target="_blank">Displicencia</a>: Desagrado o
+                        indiferencia en el trato.</li>
+                    <li><a href="https://dle.rae.es/doble" target="_blank">Doppelgänger (doble)</a>: Dicho de una cosa:
+                        Que va acompañada de otra semejante y sirve junto con ella para un fin.</li>
+                    <li><a href="https://dle.rae.es/estoicismo" target="_blank">Estoicismo</a>: Fortaleza o dominio
+                        sobre la propia sensibilidad.</li>
+                    <li><a href="https://dle.rae.es/fanal" target="_blank">Fanal</a>: Farol grande que se coloca en las
+                        torres de los puertos para que su luz sirva de señal nocturna.</li>
+                    <li><a href="https://dle.rae.es/fideicomiso" target="_blank">Fideicomiso</a>: Disposición por la
+                        cual el testador deja su hacienda o parte de ella encomendada a la buena fe de alguien para que,
+                        en caso y tiempo determinados, la transmita a otra persona o la invierta del modo que se le
+                        señala.</li>
+                    <li><a href="https://dle.rae.es/frenolog%C3%ADa" target="_blank">Frenología</a>: Antigua doctrina
+                        psicológica según la cual las facultades psíquicas están localizadas en zonas precisas del
+                        cerebro y en correspondencia con relieves del cráneo.</li>
+                    <li><a href="https://dle.rae.es/frugal" target="_blank">Frugal</a>: <a
+                            href="https://dle.rae.es/parco" target="_blank"> Parco</a> (Corto, escaso o moderado en el
+                        uso o concesión de las cosas) en comer y beber.</li>
+                    <li><a href="https://dle.rae.es/gobernanta" target="_blank">Gobernanta</a>: Mujer que en los hoteles
+                        tiene a su cargo el servicio de un piso en lo tocante a limpieza de habitaciones, conservación
+                        del mobiliario, alfombras y demás enseres.</li>
+                    <li><a href="https://dle.rae.es/ignominia" target="_blank">Ignominia</a>: Afrenta pública.</li>
+                    <li><a href="https://dle.rae.es/ind%C3%B3mito" target="_blank">Indómito/a</a>: Que no se puede o no
+                        se deja domar.</li>
+                    <li><a href="https://dle.rae.es/oprobio" target="_blank">Oprobio</a>: Ignominia, afrenta, deshonra.
+                    </li>
+                    <li><a href="https://dle.rae.es/preceptor" target="_blank">Preceptor/a</a>: Persona que enseña.</li>
+                    <li><a href="https://dle.rae.es/providencia" target="_blank">Providencia</a>: Disposición anticipada
+                        o prevención que mira o conduce al logro de un fin.</li>
+                    <li><a href="https://dle.rae.es/vicisitud" target="_blank">Vicisitud</a>: Orden sucesivo o
+                        alternativo de algo.</li>
                 </ul>
 
                 <h4>Traducciones</h4>
