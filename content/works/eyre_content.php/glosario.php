@@ -211,7 +211,7 @@
                     <li><i>Porte cochère</i>: Portón de entrada.</li>
                     <li><i>Beauté mâle</i>: Belleza masculina.</li>
                     <li><i>Monsieur</i>: Señor.</li>
-                    <li><i>Filette</i>:.</li>
+                    <li><i>Filette</i>: Niña.</li>
                 </ul>
 
                 <ul>
