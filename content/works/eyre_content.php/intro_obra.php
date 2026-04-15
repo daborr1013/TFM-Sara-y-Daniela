@@ -47,7 +47,7 @@
                         <li><a href="intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
-                            <a href="obra.php">Obra</a>
+                            <a href="contenido_eyre.php">Obra</a>
                             <ul class="dropdown-menu-sidebar">
                                 <li><a href="resumenes/resumenes.php">Resúmenes</a></li>
                                 <li><a href="capitulos.php">Capítulos</a></li>
@@ -115,13 +115,15 @@
                     analizada bajo tres prismas fundamentales:</p>
 
                 <ul>
-                    <li><b>Novela gtica-victoriana:</b> vemos el libro lleno de atmsferas opresivas, mansiones
+                    <li><b>Novela gótica-victoriana:</b> vemos el libro lleno de atmósferas opresivas, mansiones
                         misteriosas y secretos familiares.</li>
-                    <li><b>Cnon feminista:</b> el personaje de Jane es una de las primeras representaciones de una mujer
-                        exigiendo respeto, igualdad y autonoma econmica.</li>
-                    <li><b>Rebelin en contra del cristianismo:</b> algunos crticos de la poca denunciaron la obra por la
+                    <li><b>Cánon feminista:</b> el personaje de Jane es una de las primeras representaciones de una
+                        mujer
+                        exigiendo respeto, igualdad y autonoma económica.</li>
+                    <li><b>Rebelión en contra del cristianismo:</b> algunos críticos de la poca denunciaron la obra por
+                        la
                         actitud desafiante de Jane hacia su estatus social, algo que hoy vemos como
-                        una valiente bsqueda de justicia.</li>
+                        una valiente búsqueda de justicia.</li>
                 </ul>
             </section>
         </div>

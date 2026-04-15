@@ -88,17 +88,8 @@
                 </nav>
             </div>
 
-            <section class="pjustificado">
-                <p>Los <strong>juegos</strong> son una forma divertida e interactiva de aprender sobre <i>Jane Eyre</i>.
-                    Encontrarás diferentes tipos de actividades lúdicas como tableros de juego, crucigramas, sopa de
-                    letras y otros juegos educativos.</p>
-                <p>El aprendizaje a través del juego te ayudará a reforzar tu comprensión de los personajes, eventos y
-                    temas de la novela de una manera más amena.</p>
-
-
-            </section>
             <section class="exel">
-                <iframe src="../../../content/actividades_eyre/juegos/crucigrama/index.html" width="100%" height="700"
+                <iframe src="../../../content/actividades_eyre/juegos/juegos/index.html" width="100%" height="700"
                     style="border:none;"></iframe>
             </section>
         </div>

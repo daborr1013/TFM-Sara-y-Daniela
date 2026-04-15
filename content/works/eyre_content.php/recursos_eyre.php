@@ -88,7 +88,7 @@
             </div>
 
             <section class="pjustificado">
-                <p>Aquí podrás acceder a distintos recursos que te <a href="explicaciones.php">explican</a> partes
+                <p>Aquí podrás acceder a distintos recursos que te explican partes
                     importantes de la obra. En la sección <a href="simbolosTemas.php">temas y símbolos</a> dispondrás de
                     análisis de elementos clave, como el fuego y el hielo, cuya interpretación resulta fundamental para
                     entender profundamente <i>Jane Eyre</i>.
@@ -99,7 +99,7 @@
                     que muestra de forma clara las relaciones entre los distintos personajes.</p>
                 <p>En el <a href="glosario.php">glosario</a> podrás encontrar definiciones de términos que pueden
                     resultar complejos por su escaso uso en la actualidad, así como traducciones de fragmentos
-                    relevantes que aparecen en francés o italiano.</p>
+                    relevantes que aparecen en francés.</p>
                 <p>Por último, la sección de <a href="citas.php">citas</a> recoge algunos de los fragmentos más
                     significativos de la obra, acompañados de breves comentarios que ayudan a contextualizarlos y a
                     profundizar en su significado</p>
