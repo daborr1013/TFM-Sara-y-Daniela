@@ -103,34 +103,141 @@
                         el mundo mientras Charlotte escribía.</li>
                 </ul>
 
-                <h3>Romanticismo vs. Ilustración</h3>
-                <p>La novela es un campo de batalla entre dos formas de ver el mundo:</p>
-
-                <table>
-                    <tr>
-                        <th>Romanticismo<br><i>El corazón</i></th>
-                        <th>Ilustración<br><i>La razón</i></th>
-                    </tr>
-
-                    <tr>
-                        <td>El corazón controla la cabeza.</td>
-                        <td>La cabeza controla el corazón.</td>
-                    </tr>
-
-                    <tr>
-                        <td>La razón y el intelecto pueden ser peligrosos.</td>
-                        <td>La imaginación y los sentimientos son peligrosos.</td>
-                    </tr>
-
-                    <tr>
-                        <td>Jane Eyre se deja llevar por su pasión y sus visiones.</td>
-                        <td>John Rivers representa el control y el deber frío.</td>
-                    </tr>
-                </table>
                 <br>
 
-                <p><b>Concepto clave:</b> Jane es una anti-heroína romántica. No es la clásica heroína perfecta y bella;
-                    es "pobre, oscura, fea y pequeña", pero con una voluntad de hierro.</p>
+                <details>
+                    <summary>
+                        <h3>Época Victoriana</h3>
+                    </summary>
+                    <p>La época victoriana, llamada así por la reina Victoria I, fue un periodo de grandes cambios
+                        sociales, económicos e industriales. La población creció rápidamente y la industrialización
+                        transformó la vida cotidiana, aunque también trajo problemas como pobreza, desempleo,
+                        explotación laboral, accidentes en fábricas y trabajo infantil.</p>
+                    <p>Uno de sus rasgos principales fue la importancia de la moral y el deber social. Se valoraban la
+                        disciplina, el comportamiento correcto y el orden, especialmente en temas como la sexualidad.
+                        Sin embargo, también existía una gran hipocresía entre lo que se mostraba en público y lo que
+                        ocurría en privado.</p>
+                    <ul>
+                        <li><b>Early Victorian (1830-1848):</b> periodo de reformas como la ampliación del voto (Reform
+                            Bill de 1832) y el desarrollo del ferrocarril. Aun así, persistían la pobreza y el
+                            desempleo. Surgen movimientos como el cartismo. En literatura destacan las novelas sociales
+                            y el <i>Bildungsroman</i> (novela de formación).</li>
+                        <li><b>Mid Victorian (1848-1870):</b> se consolidan los avances industriales y científicos. El
+                            Imperio británico alcanza su máximo esplendor. Sin embargo, aparecen dudas religiosas debido
+                            al progreso científico. Predominan las novelas de costumbres.</li>
+                        <li><b>Late Victorian (1870-1901):</b> etapa marcada por el escepticismo. Surgen avances como la
+                            educación obligatoria y el movimiento sufragista, pero también críticas al sistema social.
+                            El Imperio empieza a debilitarse.</li>
+                    </ul>
+                    <p>En el ámbito literario, el siglo XIX fue la era de la novela, especialmente popular entre la
+                        clase media. Muchas obras se publicaban por entregas, lo que facilitaba su difusión. También
+                        destacaron la poesía romántica, el teatro y la prosa centrada en problemas sociales, así como el
+                        naturalismo, que retrataba la vida de las clases más desfavorecidas.</p>
+                </details>
+
+                <details>
+                    <summary>
+                        <h3>Romanticismo</h3>
+                    </summary>
+                    <p>El Romanticismo surge en un contexto de grandes cambios sociales, políticos y económicos.
+                        Inglaterra se convierte en una sociedad industrial, lo que acentúa las diferencias entre el
+                        mundo rural y el urbano y aumenta las desigualdades.</p>
+                    <p>Eventos como la Revolución Francesa impulsaron ideas de libertad, igualdad y cambio, aunque
+                        también generaron miedo, lo que llevó a una sociedad más controladora y moralista.</p>
+                    <p>La industrialización favoreció una nueva cultura de consumo y amplió el acceso a la lectura. En
+                        este contexto, crecieron las oportunidades para escritoras, que empezaron a destacar en un mundo
+                        dominado por hombres.</p>
+                    <p>Aunque la poesía es el género principal del Romanticismo, también se desarrollan ensayos, teatro
+                        y novela, que adquiere cada vez más importancia.</p>
+                    <p><b>Ideas clave del Romanticismo</b></p>
+                    <ul>
+                        <li>Naturaleza: se opone al mundo artificial y puede ser tanto protectora como destructiva.
+                            Aparece la “falacia patética”, que consiste en atribuir emociones humanas a la naturaleza.
+                        </li>
+                        <li>Imaginación: permite ir más allá de la realidad y es un elemento esencial del movimiento.
+                        </li>
+                        <li>El “buen salvaje”: idea de que el ser humano es bueno por naturaleza, pero la sociedad lo
+                            corrompe.</li>
+                    </ul>
+
+                    <h3>Romanticismo vs. Ilustración</h3>
+                    <p>La novela es un campo de batalla entre dos formas de ver el mundo:</p>
+
+                    <table>
+                        <tr>
+                            <th>Romanticismo<br><i>El corazón</i></th>
+                            <th>Ilustración<br><i>La razón</i></th>
+                        </tr>
+
+                        <tr>
+                            <td>El corazón controla la cabeza.</td>
+                            <td>La cabeza controla el corazón.</td>
+                        </tr>
+
+                        <tr>
+                            <td>La razón y el intelecto pueden ser peligrosos.</td>
+                            <td>La imaginación y los sentimientos son peligrosos.</td>
+                        </tr>
+
+                        <tr>
+                            <td>Jane Eyre se deja llevar por su pasión y sus visiones.</td>
+                            <td>John Rivers representa el control y el deber frío.</td>
+                        </tr>
+                    </table>
+                    <p><b>Concepto clave:</b> Jane es una anti-heroína romántica. No es la clásica heroína perfecta y
+                        bella;
+                        es "pobre, oscura, fea y pequeña", pero con una voluntad de hierro.</p>
+                </details>
+
+                <details>
+                    <summary>
+                        <h3>Gótico</h3>
+                    </summary>
+                    <p>La literatura gótica surge en el siglo XVIII como reacción contra el exceso de racionalidad de la
+                        Ilustración. En lugar de la razón, explora lo emocional, lo irracional y lo desconocido.</p>
+                    <p>Se distingue entre entre <b>terror</b>, que está más enfocado en lo psicológico, y el
+                        <b>horror</b>, que está más enfocado en lo físico.
+                    </p>
+                    <p>Este género está influido por acontecimientos como la Revolución Francesa y la Revolución
+                        Industrial, así como por autores como Shakespeare o los poetas de cementerio.</p>
+
+                    <p><b>Características del gótico:</b></p>
+                    <ul>
+                        <li>Ambientes: castillos, abadías o escenarios medievales</li>
+                        <li>Temas: herencias, secretos, relaciones prohibidas</li>
+                        <li>Personajes: villano, joven en peligro y héroe</li>
+                        <li>Elementos: ruinas, laberintos, pasado que persigue</li>
+                        <li>Narración: subjetiva, a veces en primera persona</li>
+                    </ul>
+
+                    <p>Conceptos clave:</p>
+                    <ul>
+                        <li>Lo sublime: mezcla de placer y terror</li>
+                        <li>Lo siniestro: algo familiar que se vuelve extraño</li>
+                        <li>Lo grotesco: lo deformado o inquietante</li>
+                    </ul>
+
+                    <p>Con el tiempo, el gótico evoluciona: los escenarios pasan a ser más cotidianos (casas, ciudades)
+                        y el miedo se vuelve más psicológico, centrado en la mente humana.</p>
+
+                    <p>Tipos de gótico:</p>
+                    <ul>
+                        <li>Gótico puro: no hay explicación racional para los sucesos sobrenaturales</li>
+                        <li>Gótico explicado: los sucesos sobrenaturales tienen explicación racional</li>
+                        <li>Gótico satánico: se centra en la figura del diablo</li>
+                        <li>Gótico fantástico: se centra en la figura de los fantasmas</li>
+                        <li>Gótico filosófico: se centra en la figura de los demonios</li>
+                        <li>Gótico paródico: se centra en la figura de los vampiros</li>
+                    </ul>
+
+                    <p>Interpretaciones críticas:</p>
+                    <ul>
+                        <li>Psicoanálisis: se centra en los miedos internos</li>
+                        <li>Feminismo: lo interpreta como expresión de la ansiedad femenina</li>
+                        <li>Marxismo: analiza las jerarquías sociales</li>
+                    </ul>
+                </details>
+
                 <br>
 
                 <h3>Las Hermanas Brontë: Realidad tras la Ficción</h3>

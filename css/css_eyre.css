@@ -602,3 +602,34 @@ td {
     gap: 15px;
     margin: 20px 0;
 }
+
+/* Acordeones (details/summary) */
+summary {
+    cursor: pointer;
+    padding: 10px 0;
+    transition: color 0.3s ease;
+}
+
+summary:hover {
+    color: #6a4c93;
+}
+
+
+summary h3 {
+    display: inline;
+    margin: 0;
+    margin-left: 8px;
+    /* Espacio uniforme entre la viñeta y el título */
+    vertical-align: middle;
+}
+
+details {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e0e0e0;
+    /* Separación sutil entre secciones */
+    padding-bottom: 10px;
+}
+
+details[open] summary {
+    margin-bottom: 10px;
+}

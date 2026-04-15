@@ -90,10 +90,10 @@
 
             <section class="pjustificado">
                 <h4>Glosario</h4>
-                <p>Alguna de las expresiones que se usan en <i>Jane Eyre</i> pueden llegar a resultarte un poco
+                <p>Algunas de las expresiones que se usan en <i>Jane Eyre</i> pueden llegar a resultarte un poco
                     complejas, por el poco uso que hoy en día les damos. Por ello, hemos creado este glosario con
                     algunas
-                    definiciones sacadas de la <a href="https://dle.rae.es/">Diccionario de la lengua española de la
+                    definiciones sacadas del <a href="https://dle.rae.es/">Diccionario de la lengua española de la
                         RAE</a> para ayudarte a entender mejor la obra.</p>
                 <ul>
                     <li><a href="https://dle.rae.es/alf%C3%A9izar" target="_blank">Alféizar</a>: Vuelta o derrame que
