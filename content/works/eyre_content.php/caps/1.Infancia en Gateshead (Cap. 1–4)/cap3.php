@@ -103,17 +103,27 @@
                 <p>En cinco minutos más, la nube de desconcierto se disipó: supe
                     perfectamente que estaba en mi propia cama y que el resplandor
                     rojo era el fuego del cuarto de los niños. Era de noche: una vela
-                    ardía sobre la mesa; Bessie estaba a los pies de la cama con una
+                    ardía sobre la mesa; <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ estaba a los pies de la cama con una
                     jofaina en la mano, y un caballero estaba sentado en una silla cerca
                     de mi almohada, inclinado sobre mí.</p>
 
                 <p>Sentí un alivio inexpresable, una tranquilizadora convicción de
                     protección y seguridad, cuando supe que había un extraño en la
                     habitación, un individuo que no pertenecía a Gateshead y no era
-                    pariente de la señora Reed. Apartando la vista de Bessie (aunque su
+                    pariente de la <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
+. Apartando la vista de <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ (aunque su
                     presencia me resultaba mucho menos odiosa de lo que habría sido,
                     por ejemplo, la de Abbot), escruté el rostro del caballero: lo conocía;
-                    era el señor Lloyd, un boticario, al que la señora Reed llamaba a
+                    era el <span class="anotacion"
+                        data-nota="El boticario que trata a Jane tras su desmayo; es el primer adulto que la escucha con empatía y el puente que le permite escapar hacia una nueva vida en Lowood.">señor Lloyd</span>
+, un boticario, al que la <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
+ llamaba a
                     veces cuando los criados estaban enfermos; para ella y los niños
                     empleaba a un médico.</p>
 
@@ -124,7 +134,9 @@
 
                 <p>—Pronto estaremos muy bien.</p>
 
-                <p>Luego me acostó y, dirigiéndose a Bessie, le encargó que tuviera
+                <p>Luego me acostó y, dirigiéndose a <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+, le encargó que tuviera
                     mucho cuidado de que no me molestaran durante la noche. Tras dar
                     algunas indicaciones más e insinuar que volvería al día siguiente, se
                     marchó, para mi pesar. Me sentía tan protegida y amparada mientras
@@ -132,7 +144,9 @@
                     la puerta tras de sí, toda la habitación se oscureció y mi corazón
                     volvió a encogerse: una tristeza inexpresable lo abrumaba.</p>
 
-                <p>—¿Siente que podría dormir, señorita? —preguntó Bessie, con
+                <p>—¿Siente que podría dormir, señorita? —preguntó <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+, con
                     bastante suavidad.</p>
 
                 <p>Apenas me atreví a responderle, pues temía que la siguiente frase
@@ -142,19 +156,27 @@
 
                 <p>—¿Le gustaría beber algo, o podría comer alguna cosa?</p>
 
-                <p>—No, gracias, Bessie.</p>
+                <p>—No, gracias, <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+.</p>
 
                 <p>—Entonces creo que me iré a la cama, porque pasan de las doce;
                     pero puede llamarme si necesita algo durante la noche.</p>
 
                 <p>¡Maravillosa amabilidad! Me animó a hacer una pregunta.</p>
 
-                <p>—Bessie, ¿qué me pasa? ¿Estoy enferma?</p>
+                <p>—<span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+, ¿qué me pasa? ¿Estoy enferma?</p>
 
-                <p>—Supongo que se puso enferma en el cuarto rojo de tanto llorar;
+                <p>—Supongo que se puso enferma en el <span class="anotacion"
+                        data-nota="El lugar del encierro y el miedo a la muerte. Jane entra como una víctima y sale con una furia interior que no sabía que tenía. Nace su resistencia.">cuarto
+                        rojo</span> de tanto llorar;
                     pronto estará mejor, sin duda.</p>
 
-                <p>Bessie fue al cuarto de la doncella, que estaba cerca. La oí decir:</p>
+                <p><span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ fue al cuarto de la doncella, que estaba cerca. La oí decir:</p>
 
                 <p>—Sarah, ven a dormir conmigo al cuarto de los niños; por nada
                     del mundo me atrevo a estar sola con esa pobre niña esta noche.
@@ -177,9 +199,12 @@
                     el pavor: un pavor como solo los niños pueden sentir.</p>
 
                 <p>Ninguna enfermedad corporal grave o prolongada siguió a este
-                    incidente del cuarto rojo; solo supuso para mis nervios una
-                    conmoción cuya reverberación siento hasta el día de hoy. Sí, señora
-                    Reed, a usted le debo algunas terribles punzadas de sufrimiento
+                    incidente del <span class="anotacion"
+                        data-nota="El lugar del encierro y el miedo a la muerte. Jane entra como una víctima y sale con una furia interior que no sabía que tenía. Nace su resistencia.">cuarto
+                        rojo</span>; solo supuso para mis nervios una
+                    conmoción cuya reverberación siento hasta el día de hoy. Sí, <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
+, a usted le debo algunas terribles punzadas de sufrimiento
                     mental, pero debo perdonarla, porque no sabía lo que hacía:
                     mientras desgarraba las fibras de mi corazón, pensaba que solo
                     estaba arrancando de raíz mis malas inclinaciones.</p>
@@ -191,7 +216,9 @@
                     silenciosas; apenas me secaba una gota salada de la mejilla, seguía
                     otra. Sin embargo, pensé, debería haber estado feliz, porque
                     ninguno de los Reed estaba allí; todos habían salido en el carruaje
-                    con su mamá. Abbot también cosía en otra habitación, y Bessie,
+                    con su mamá. Abbot también cosía en otra habitación, y <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+,
                     mientras se movía de un lado a otro, guardando juguetes y
                     ordenando cajones, me dirigía de vez en cuando una palabra de
                     inusitada amabilidad. Este estado de cosas debería haber sido para
@@ -200,7 +227,9 @@
                     nervios torturados estaban ahora en tal estado que ninguna calma
                     podía sosegarlos, y ningún placer excitarlos agradablemente.</p>
 
-                <p>Bessie había bajado a la cocina y trajo consigo una tartaleta en un
+                <p><span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ había bajado a la cocina y trajo consigo una tartaleta en un
                     plato de porcelana vistosamente pintado, cuyo pájaro del paraíso,
                     anidado en una guirnalda de convólvulos y capullos de rosa, solía
                     despertar en mí un entusiasta sentimiento de admiración; y cuyo
@@ -213,7 +242,9 @@
                     menudo deseados, demasiado tarde! No pude comerme la tartaleta;
                     y el plumaje del pájaro, los tintes de las flores, parecían
                     extrañamente desvaídos. Aparté tanto el plato como la tartaleta.
-                    Bessie preguntó si quería un libro: la palabra libro actuó como un
+                    <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ preguntó si quería un libro: la palabra libro actuó como un
                     estímulo transitorio, y le rogué que trajera Los viajes de Gulliver de
                     la biblioteca. Este libro lo había releído una y otra vez con deleite. Lo
                     consideraba una narración de hechos, y descubría en él una veta de
@@ -240,17 +271,23 @@
                     me atrevía a leer, y lo puse sobre la mesa, junto a la tartaleta
                     intacta.</p>
 
-                <p>Bessie ya había terminado de quitar el polvo y ordenar la
+                <p><span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ ya había terminado de quitar el polvo y ordenar la
                     habitación y, tras lavarse las manos, abrió un pequeño cajón, lleno
                     de espléndidos retales de seda y raso, y empezó a hacer un
-                    sombrero nuevo para la muñeca de Georgiana. Mientras tanto,
+                    sombrero nuevo para la muñeca de <span class="anotacion"
+                        data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana</span>
+. Mientras tanto,
                     cantaba; su canción era:</p>
 
                 <p class="centradoP">«En los días en que íbamos de zíngaros,<br>
                     Hace mucho, mucho tiempo».</p>
 
                 <p>Había oído la canción a menudo antes, y siempre con vivo deleite;
-                    pues Bessie tenía una voz dulce, o al menos eso me parecía. Pero
+                    pues <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ tenía una voz dulce, o al menos eso me parecía. Pero
                     ahora, aunque su voz seguía siendo dulce, encontré en su melodía
                     una tristeza indescriptible. A veces, absorta en su trabajo, cantaba el
                     estribillo muy bajo, muy lentamente; «Hace mucho, mucho tiempo»
@@ -280,28 +317,48 @@
                     El Cielo es un hogar, y un descanso no me faltará;<br>
                     Dios es un amigo para el pobre niño huérfano».</p>
 
-                <p>—Vamos, señorita Jane, no llore —dijo Bessie al terminar. Podría
+                <p>—Vamos, señorita <span class="anotacion"
+                        data-nota="Es una niña apasionada, sensible y de espíritu indómito que, bajo el maltrato, despierta una conciencia aguda sobre la injusticia y una furia interna contra la opresión">Jane</span>
+                    , no llore —dijo <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ al terminar. Podría
                     haberle dicho al fuego: «¡no quemes!», pero ¿cómo podía adivinar
                     ella el mórbido sufrimiento del que yo era presa? En el transcurso de
-                    la mañana, el señor Lloyd vino de nuevo.</p>
+                    la mañana, el <span class="anotacion"
+                        data-nota="El boticario que trata a Jane tras su desmayo; es el primer adulto que la escucha con empatía y el puente que le permite escapar hacia una nueva vida en Lowood.">señor Lloyd</span>
+ vino de nuevo.</p>
 
                 <p>—¡Vaya, ya levantada! —dijo al entrar en el cuarto de los niños—.
                     Bueno, niñera, ¿cómo está?</p>
 
-                <p>Bessie respondió que yo estaba muy bien.</p>
+                <p><span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ respondió que yo estaba muy bien.</p>
 
-                <p>—Entonces debería parecer más alegre. Venga aquí, señorita Jane.
-                    Se llama Jane, ¿no es así?</p>
+                <p>—Entonces debería parecer más alegre. Venga aquí, señorita <span class="anotacion"
+                        data-nota="Es una niña apasionada, sensible y de espíritu indómito que, bajo el maltrato, despierta una conciencia aguda sobre la injusticia y una furia interna contra la opresión">Jane</span>
+                    .
+                    Se llama <span class="anotacion"
+                        data-nota="Es una niña apasionada, sensible y de espíritu indómito que, bajo el maltrato, despierta una conciencia aguda sobre la injusticia y una furia interna contra la opresión">Jane</span>
+                    , ¿no es así?</p>
 
-                <p>—Sí, señor, Jane Eyre.</p>
+                <p>—Sí, señor, <span class="anotacion"
+                        data-nota="Es una niña apasionada, sensible y de espíritu indómito que, bajo el maltrato, despierta una conciencia aguda sobre la injusticia y una furia interna contra la opresión">Jane
+                        Eyre</span>
+                    Eyre.</p>
 
-                <p>—Bueno, ha estado llorando, señorita Jane Eyre; ¿puede decirme
+                <p>—Bueno, ha estado llorando, señorita <span class="anotacion"
+                        data-nota="Es una niña apasionada, sensible y de espíritu indómito que, bajo el maltrato, despierta una conciencia aguda sobre la injusticia y una furia interna contra la opresión">Jane
+                        Eyre</span>
+                    ; ¿puede decirme
                     por qué? ¿Tiene algún dolor?</p>
 
                 <p>—No, señor.</p>
 
                 <p>—¡Oh! Seguramente llora porque no ha podido salir con la señora
-                    en el carruaje —intervino Bessie.</p>
+                    en el carruaje —intervino <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+.</p>
 
                 <p>—¡Seguro que no! Vamos, ya es demasiado mayor para esas
                     niñerías.</p>
@@ -312,7 +369,9 @@
                 <p>—Jamás he llorado por algo así en mi vida. Odio salir en el
                     carruaje. Lloro porque soy desdichada.</p>
 
-                <p>—¡Oh, qué cosas, señorita! —dijo Bessie.</p>
+                <p>—¡Oh, qué cosas, señorita! —dijo <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+.</p>
 
                 <p>El buen boticario pareció un poco perplejo. Yo estaba de pie ante
                     él; clavó sus ojos en mí con gran fijeza; sus ojos eran pequeños y
@@ -322,7 +381,9 @@
 
                 <p>—¿Qué la puso enferma ayer?</p>
 
-                <p>—Tuvo una caída —dijo Bessie, interponiendo de nuevo su
+                <p>—Tuvo una caída —dijo <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+, interponiendo de nuevo su
                     palabra.</p>
 
                 <p>—¡Una caída! ¡Vaya, eso es de bebés otra vez! ¿No sabe andar a
@@ -330,32 +391,46 @@
 
                 <p>—Me derribaron —fue la brusca explicación, que me salió a
                     borbotones por otra punzada de orgullo mortificado—; pero eso no
-                    me puso enferma —añadí, mientras el señor Lloyd se servía una
+                    me puso enferma —añadí, mientras el <span class="anotacion"
+                        data-nota="El boticario que trata a Jane tras su desmayo; es el primer adulto que la escucha con empatía y el puente que le permite escapar hacia una nueva vida en Lowood.">señor Lloyd</span>
+ se servía una
                     pizca de rapé.</p>
 
                 <p>Mientras devolvía la caja al bolsillo de su chaleco, sonó una fuerte
                     campana para la cena de los criados; él sabía lo que era.</p>
 
                 <p>—Eso es para usted, niñera —dijo—; puede bajar. Le daré a la
-                    señorita Jane un sermón hasta que vuelva.</p>
+                    señorita <span class="anotacion"
+                        data-nota="Es una niña apasionada, sensible y de espíritu indómito que, bajo el maltrato, despierta una conciencia aguda sobre la injusticia y una furia interna contra la opresión">Jane</span>
+                    un sermón hasta que vuelva.</p>
 
-                <p>Bessie habría preferido quedarse, pero se vio obligada a irse,
+                <p><span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ habría preferido quedarse, pero se vio obligada a irse,
                     porque la puntualidad en las comidas se hacía cumplir rígidamente
                     en Gateshead Hall.</p>
 
                 <p>—La caída no la puso enferma; ¿qué fue, entonces? —prosiguió el
-                    señor Lloyd cuando Bessie se hubo marchado.</p>
+                    <span class="anotacion"
+                        data-nota="El boticario que trata a Jane tras su desmayo; es el primer adulto que la escucha con empatía y el puente que le permite escapar hacia una nueva vida en Lowood.">señor Lloyd</span>
+ cuando <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ se hubo marchado.</p>
 
                 <p>—Me encerraron en una habitación donde hay un fantasma hasta
                     después del anochecer.</p>
 
-                <p>Vi al señor Lloyd sonreír y fruncir el ceño al mismo tiempo.</p>
+                <p>Vi al <span class="anotacion"
+                        data-nota="El boticario que trata a Jane tras su desmayo; es el primer adulto que la escucha con empatía y el puente que le permite escapar hacia una nueva vida en Lowood.">señor Lloyd</span>
+ sonreír y fruncir el ceño al mismo tiempo.</p>
 
                 <p>—¡Un fantasma! ¡Vaya, después de todo es usted una cría! ¿Le
                     dan miedo los fantasmas?</p>
 
                 <p>—El fantasma del señor Reed, sí. Él murió en esa habitación, y allí
-                    lo velaron. Ni Bessie ni nadie más entra en ella de noche, si pueden
+                    lo velaron. Ni <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ ni nadie más entra en ella de noche, si pueden
                     evitarlo; y fue cruel encerrarme sola sin una vela, tan cruel que creo
                     que nunca lo olvidaré.</p>
 
@@ -384,10 +459,15 @@
 
                 <p>De nuevo hice una pausa; luego, torpemente, enuncié:</p>
 
-                <p>—Pero John Reed me derribó, y mi tía me encerró en el cuarto
-                    rojo.</p>
+                <p>—Pero <span class="anotacion"
+                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John Reed</span>
+ me derribó, y mi tía me encerró en el <span class="anotacion"
+                        data-nota="El lugar del encierro y el miedo a la muerte. Jane entra como una víctima y sale con una furia interior que no sabía que tenía. Nace su resistencia.">cuarto
+                        rojo</span>.</p>
 
-                <p>El señor Lloyd sacó por segunda vez su caja de rapé.</p>
+                <p>El <span class="anotacion"
+                        data-nota="El boticario que trata a Jane tras su desmayo; es el primer adulto que la escucha con empatía y el puente que le permite escapar hacia una nueva vida en Lowood.">señor Lloyd</span>
+ sacó por segunda vez su caja de rapé.</p>
 
                 <p>—¿No le parece Gateshead Hall una casa muy hermosa? —
                     preguntó—. ¿No está muy agradecida de tener un lugar tan
@@ -404,13 +484,17 @@
                     una mujer.</p>
 
                 <p>—Quizás pueda, ¿quién sabe? ¿Tiene algún pariente además de la
-                    señora Reed?</p>
+                    <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
+?</p>
 
                 <p>—Creo que no, señor.</p>
 
                 <p>—¿Ninguno por parte de su padre?</p>
 
-                <p>—No lo sé. Le pregunté a tía Reed una vez, y dijo que
+                <p>—No lo sé. Le pregunté a <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">tía Reed</span>
+ una vez, y dijo que
                     posiblemente tuviera algunos parientes pobres y de baja condición
                     apellidados Eyre, pero que no sabía nada de ellos.</p>
 
@@ -438,17 +522,27 @@
 
                 <p>—¿Pero son sus parientes tan pobres? ¿Son gente trabajadora?</p>
 
-                <p>—No puedo decirlo; tía Reed dice que si tengo alguno, deben de
+                <p>—No puedo decirlo; <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">tía Reed</span>
+ dice que si tengo alguno, deben de
                     ser una panda de pordioseros. No me gustaría ir a mendigar.</p>
 
                 <p>—¿Le gustaría ir a la escuela?</p>
 
-                <p>De nuevo reflexioné. Apenas sabía lo que era la escuela. Bessie a
+                <p>De nuevo reflexioné. Apenas sabía lo que era la escuela. <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ a
                     veces hablaba de ella como un lugar donde las señoritas se
                     sentaban en el cepo, llevaban tablas en la espalda y se esperaba que
-                    fueran extremadamente finas y precisas. John Reed odiaba su
-                    escuela e insultaba a su maestro; pero los gustos de John Reed no
-                    eran una regla para los míos, y si los relatos de Bessie sobre la
+                    fueran extremadamente finas y precisas. <span class="anotacion"
+                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John Reed</span>
+ odiaba su
+                    escuela e insultaba a su maestro; pero los gustos de <span class="anotacion"
+                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John Reed</span>
+ no
+                    eran una regla para los míos, y si los relatos de <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ sobre la
                     disciplina escolar (recogidos de las señoritas de una familia donde
                     había vivido antes de venir a Gateshead) eran algo espeluznantes,
                     sus detalles sobre ciertos logros alcanzados por estas mismas
@@ -464,23 +558,34 @@
                 <p>—La verdad es que me gustaría mucho ir a la escuela —fue la
                     conclusión audible de mis cavilaciones.</p>
 
-                <p>—¡Bueno, bueno! ¿Quién sabe lo que puede pasar? —dijo el señor
-                    Lloyd, mientras se levantaba—. La niña necesita un cambio de aires
+                <p>—¡Bueno, bueno! ¿Quién sabe lo que puede pasar? —dijo el <span class="anotacion"
+                        data-nota="El boticario que trata a Jane tras su desmayo; es el primer adulto que la escucha con empatía y el puente que le permite escapar hacia una nueva vida en Lowood.">señor Lloyd</span>
+, mientras se levantaba—. La niña necesita un cambio de aires
                     y de escenario —añadió, hablando para sí mismo—. Los nervios no
                     están en buen estado.</p>
 
-                <p>Bessie regresó en ese momento; al mismo instante se oyó el
+                <p><span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ regresó en ese momento; al mismo instante se oyó el
                     carruaje rodar por el camino de grava.</p>
 
-                <p>—¿Es su señora, niñera? —preguntó el señor Lloyd—. Me gustaría
+                <p>—¿Es su señora, niñera? —preguntó el <span class="anotacion"
+                        data-nota="El boticario que trata a Jane tras su desmayo; es el primer adulto que la escucha con empatía y el puente que le permite escapar hacia una nueva vida en Lowood.">señor Lloyd</span>
+—. Me gustaría
                     hablar con ella antes de irme.</p>
 
-                <p>Bessie lo invitó a pasar al comedor de diario y le abrió camino. En
-                    la entrevista que siguió entre él y la señora Reed, presumo, por los
+                <p><span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ lo invitó a pasar al comedor de diario y le abrió camino. En
+                    la entrevista que siguió entre él y la <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
+, presumo, por los
                     acontecimientos posteriores, que el boticario se aventuró a
                     recomendar que me enviaran a la escuela; y la recomendación fue
                     sin duda adoptada con bastante facilidad; pues como dijo Abbot, al
-                    discutir el asunto con Bessie mientras ambas cosían en el cuarto de
+                    discutir el asunto con <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ mientras ambas cosían en el cuarto de
                     los niños una noche, después de que yo estuviera en la cama y,
                     como ellas pensaban, dormida: «La señora, se atrevía a decir, se
                     alegró bastante de deshacerse de una niña tan fastidiosa y mal
@@ -489,7 +594,9 @@
                     el mérito de ser una especie de Guy Fawkes infantil.</p>
 
                 <p>En esa misma ocasión me enteré, por primera vez, por las
-                    comunicaciones de la señorita Abbot a Bessie, de que mi padre
+                    comunicaciones de la señorita Abbot a <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+, de que mi padre
                     había sido un clérigo pobre; que mi madre se había casado con él
                     contra los deseos de sus amigos, que consideraban el matrimonio
                     por debajo de su condición; que mi abuelo Reed se irritó tanto por
@@ -500,21 +607,33 @@
                     era entonces prevalente; que mi madre se contagió de él, y ambos
                     murieron con un mes de diferencia.</p>
 
-                <p>Bessie, al oír esta narración, suspiró y dijo:</p>
+                <p><span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+, al oír esta narración, suspiró y dijo:</p>
 
-                <p>—Pobre señorita Jane, también es digna de lástima, Abbot.</p>
+                <p>—Pobre señorita <span class="anotacion"
+                        data-nota="Es una niña apasionada, sensible y de espíritu indómito que, bajo el maltrato, despierta una conciencia aguda sobre la injusticia y una furia interna contra la opresión">Jane</span>
+                    , también es digna de lástima, Abbot.</p>
 
                 <p>—Sí —respondió Abbot—; si fuera una niña agradable y bonita,
                     uno podría compadecerse de su desamparo; pero uno realmente no
                     puede preocuparse por un renacuajo como ese.</p>
 
-                <p>—No mucho, desde luego —convino Bessie—; en cualquier caso,
-                    una belleza como la señorita Georgiana sería más conmovedora en
+                <p>—No mucho, desde luego —convino <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+—; en cualquier caso,
+                    una belleza como la señorita <span class="anotacion"
+                        data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana</span>
+ sería más conmovedora en
                     la misma condición.</p>
 
-                <p>—¡Sí, adoro a la señorita Georgiana! —exclamó la fervorosa Abbot
+                <p>—¡Sí, adoro a la señorita <span class="anotacion"
+                        data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana</span>
+! —exclamó la fervorosa Abbot
                     —. ¡Pequeño tesoro! ¡Con sus largos rizos y sus ojos azules, y un
-                    color tan dulce como el que tiene; como si estuviera pintada! Bessie,
+                    color tan dulce como el que tiene; como si estuviera pintada! <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+,
                     me apetecería una tostada de queso para cenar.</p>
 
                 <p>—A mí también, con una cebolla asada. Venga, bajemos.</p>

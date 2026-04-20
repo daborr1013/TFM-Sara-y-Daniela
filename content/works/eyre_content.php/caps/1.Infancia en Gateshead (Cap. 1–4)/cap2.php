@@ -90,7 +90,9 @@
                 <h1>Capítulo II</h1>
 
                 <p>Me resistí durante todo el camino: algo nuevo para mí, y una
-                    circunstancia que fortaleció enormemente la mala opinión que Bessie
+                    circunstancia que fortaleció enormemente la mala opinión que <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+
                     y la señorita Abbot estaban dispuestas a tener de mí. Lo cierto es
                     que estaba un poco fuera de mis cabales; o más bien fuera de mí,
                     como dirían los franceses. Era consciente de que un momento de
@@ -110,11 +112,16 @@
                     cambio de su sustento. Ea, siéntese y reflexione sobre su maldad.</p>
 
                 <p>Para entonces ya me habían metido en la habitación indicada por
-                    la señora Reed y me habían empujado sobre un taburete. Mi impulso
+                    la <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    y me habían empujado sobre un taburete. Mi impulso
                     fue levantarme de un salto; sus dos pares de manos me detuvieron
                     al instante.</p>
 
-                <p>—Si no se está quieta, habrá que atarla —dijo Bessie—. Señorita
+                <p>—Si no se está quieta, habrá que atarla —dijo <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+—. Señorita
                     Abbot, présteme sus ligas; las mías las rompería de inmediato.</p>
 
                 <p>La señorita Abbot se dispuso a despojar una robusta pierna de la
@@ -125,12 +132,16 @@
 
                 <p>Como garantía, me aferré a mi asiento con las manos.</p>
 
-                <p>—A ver si es verdad —dijo Bessie; y cuando se hubo cerciorado de
+                <p>—A ver si es verdad —dijo <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+; y cuando se hubo cerciorado de
                     que realmente me estaba calmando, me soltó. Entonces ella y la
                     señorita Abbot se quedaron de brazos cruzados, mirándome el rostro
                     con aire sombrío y dubitativo, como incrédulas de mi cordura.</p>
 
-                <p>—Nunca había hecho algo así —dijo finalmente Bessie,
+                <p>—Nunca había hecho algo así —dijo finalmente <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+,
                     volviéndose hacia la doncella.</p>
 
                 <p>—Pero siempre lo ha llevado dentro —fue la respuesta—. Le he
@@ -138,10 +149,15 @@
                     estaba de acuerdo conmigo. Es una pequeña hipócrita; nunca he
                     visto a una niña de su edad con tanta doblez.</p>
 
-                <p>Bessie no respondió; pero al poco rato, dirigiéndose a mí, dijo:</p>
+                <p><span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ no respondió; pero al poco rato, dirigiéndose a mí, dijo:</p>
 
                 <p>—Debería ser consciente, señorita, de que tiene obligaciones con
-                    la señora Reed: ella la mantiene. Si la echara, tendría que ir al
+                    la <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    : ella la mantiene. Si la echara, tendría que ir al
                     hospicio.</p>
 
                 <p>No tuve nada que decir a estas palabras: no eran nuevas para mí.
@@ -155,21 +171,27 @@
                     Ellos tendrán mucho dinero, y usted no tendrá nada; su lugar es ser
                     humilde y tratar de resultarles agradable.</p>
 
-                <p>—Lo que le decimos es por su bien —añadió Bessie, con voz nada
+                <p>—Lo que le decimos es por su bien —añadió <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+, con voz nada
                     áspera—, debería tratar de ser útil y agradable, entonces, quizás,
                     tendría un hogar aquí; pero si se vuelve apasionada y grosera, la
                     señora la echará, estoy segura.</p>
 
                 <p>—Además —dijo la señorita Abbot—, Dios la castigará. Podría
                     fulminarla en medio de sus rabietas, y entonces, ¿adónde iría?
-                    Venga, Bessie, dejémosla. No querría tener su corazón por nada del
+                    Venga, <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+, dejémosla. No querría tener su corazón por nada del
                     mundo. Rece sus oraciones, señorita Eyre, cuando esté a solas;
                     porque si no se arrepiente, podría permitirse que algo malo bajara
                     por la chimenea y se la llevara.</p>
 
                 <p>Se fueron, cerrando la puerta y echando la llave tras de sí.</p>
 
-                <p>El cuarto rojo era una estancia cuadrada en la que muy rara vez
+                <p>El <span class="anotacion"
+                        data-nota="El lugar del encierro y el miedo a la muerte. Jane entra como una víctima y sale con una furia interior que no sabía que tenía. Nace su resistencia.">cuarto
+                        rojo</span> era una estancia cuadrada en la que muy rara vez
                     se dormía; diría que nunca, en realidad, a menos que una afluencia
                     casual de visitantes a Gateshead Hall hiciera necesario aprovechar
                     todo el alojamiento que contenía. Sin embargo, era una de las
@@ -193,12 +215,18 @@
                     de la cocina; solemne, porque se sabía que muy pocas veces se
                     entraba en ella. Solo la doncella venía aquí los sábados, para limpiar
                     de los espejos y los muebles el polvo silencioso de una semana; y la
-                    propia señora Reed, a intervalos muy espaciados, la visitaba para
+                    propia <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    , a intervalos muy espaciados, la visitaba para
                     revisar el contenido de cierto cajón secreto del armario, donde se
                     guardaban diversos pergaminos, su joyero y una miniatura de su
                     difunto esposo; y en estas últimas palabras yace el secreto del
-                    cuarto rojo, el hechizo que lo mantenía tan solitario a pesar de su
-                    grandeza.</p>
+                    <span class="anotacion"
+                        data-nota="El lugar del encierro y el miedo a la muerte. Jane entra como una víctima y sale con una furia interior que no sabía que tenía. Nace su resistencia.">cuarto
+                        rojo</span>, el hechizo que lo mantenía tan solitario a pesar de su
+                    grandeza.
+                </p>
 
                 <p>El señor Reed había muerto hacía nueve años; fue en esta cámara
                     donde exhaló su último aliento; aquí yació de cuerpo presente; de
@@ -206,7 +234,9 @@
                     desde aquel día, una sensación de lúgubre consagración lo había
                     protegido de intrusiones frecuentes.</p>
 
-                <p>Mi asiento, al que Bessie y la agria señorita Abbot me habían
+                <p>Mi asiento, al que <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ y la agria señorita Abbot me habían
                     dejado remachada, era un puf bajo cerca de la chimenea de
                     mármol; la cama se alzaba ante mí; a mi derecha estaba el armario
                     alto y oscuro, con reflejos tenues y quebrados que variaban el brillo
@@ -215,14 +245,19 @@
                     habitación. No estaba muy segura de si habían cerrado la puerta con
                     llave; y cuando me atreví a moverme, me levanté y fui a ver. ¡Ay, sí!
                     Ninguna cárcel fue jamás más segura. Al regresar, tuve que cruzar
-                    frente al espejo; mi mirada fascinada exploró involuntariamente la
+                    frente al <span class="anotacion"
+                        data-nota="Jane se siente un bicho raro, alguien que no pertenece al mundo material de los Reed. Es el inicio de su búsqueda de identidad: "
+                        ¿Quién soy yo en este lugar que me odia?".">espejo</span>
+                    ; mi mirada fascinada exploró involuntariamente la
                     profundidad que revelaba. Todo parecía más frío y oscuro en aquel
                     hueco visionario que en la realidad; y la extraña figurita que allí me
                     contemplaba, con un rostro y unos brazos blancos que salpicaban la
                     penumbra, y unos ojos brillantes de miedo que se movían donde
                     todo lo demás estaba quieto, tenía el efecto de un espíritu real: me
                     pareció uno de esos diminutos fantasmas, mitad hada, mitad
-                    duende, que los cuentos vespertinos de Bessie representaban
+                    duende, que los cuentos vespertinos de <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ representaban
                     saliendo de solitarias cañadas cubiertas de helechos en los páramos
                     y apareciéndose ante los ojos de los viajeros rezagados. Volví a mi
                     taburete.</p>
@@ -233,18 +268,26 @@
                     vigor; tuve que contener un rápido torrente de pensamientos
                     retrospectivos antes de acobardarme ante el lúgubre presente.</p>
 
-                <p>Todas las violentas tiranías de John Reed, toda la orgullosa
+                <p>Todas las violentas tiranías de <span class="anotacion"
+                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John Reed</span>
+, toda la orgullosa
                     indiferencia de sus hermanas, toda la aversión de su madre, toda la
                     parcialidad de los criados, afloraron en mi mente perturbada como
                     un oscuro sedimento en un pozo turbio. ¿Por qué sufría yo siempre,
                     siempre intimidada, siempre acusada, por siempre condenada? ¿Por
                     qué nunca podía complacer? ¿Por qué era inútil intentar ganarme el
-                    favor de nadie? Eliza, que era testaruda y egoísta, era respetada.
-                    Georgiana, que tenía un carácter mimado, un rencor muy agrio, un
+                    favor de nadie? <span class="anotacion"
+                        data-nota="Una niña egoísta, meticulosa y fría que prefiere el orden y el dinero antes que los sentimientos.">Eliza</span>
+, que era testaruda y egoísta, era respetada.
+                    <span class="anotacion"
+                        data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana</span>
+, que tenía un carácter mimado, un rencor muy agrio, un
                     porte capcioso e insolente, era universalmente consentida. Su
                     belleza, sus mejillas sonrosadas y sus rizos dorados parecían deleitar
                     a todos los que la miraban y comprar la indulgencia para cada falta.
-                    A John nadie le contrariaba, y mucho menos le castigaba; aunque
+                    A <span class="anotacion"
+                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John</span>
+ nadie le contrariaba, y mucho menos le castigaba; aunque
                     retorcía el pescuezo de las palomas, mataba a los pavitos, azuzaba a
                     los perros contra las ovejas, despojaba de sus frutos las vides del
                     invernadero y arrancaba los capullos de las plantas más selectas del
@@ -258,7 +301,9 @@
                     hasta la noche.</p>
 
                 <p>Aún me dolía y sangraba la cabeza por el golpe y la caída que
-                    había recibido; nadie había reprendido a John por golpearme
+                    había recibido; nadie había reprendido a <span class="anotacion"
+                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John</span>
+ por golpearme
                     gratuitamente; y porque me había vuelto contra él para evitar una
                     mayor violencia irracional, se me cargaba con el oprobio general.</p>
 
@@ -276,7 +321,10 @@
                     distancia de —no diré cuántos— años, lo veo claramente.</p>
 
                 <p>Yo era una discordancia en Gateshead Hall: no me parecía a nadie
-                    de allí; no tenía nada en armonía con la señora Reed o sus hijos, o
+                    de allí; no tenía nada en armonía con la <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    o sus hijos, o
                     su selecto vasallaje. Si ellos no me amaban, de hecho, tampoco yo
                     los amaba a ellos. No estaban obligados a mirar con afecto a un ser
                     que no podía simpatizar con ninguno de ellos; un ser heterogéneo,
@@ -285,13 +333,18 @@
                     un ser nocivo, que albergaba los gérmenes de la indignación por su
                     trato, del desprecio por su juicio. Sé que si hubiera sido una niña
                     optimista, brillante, despreocupada, exigente, hermosa y juguetona
-                    —aunque igualmente dependiente y sin amigos—, la señora Reed
+                    —aunque igualmente dependiente y sin amigos—, la <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+
                     habría soportado mi presencia con más complacencia; sus hijos
                     habrían sentido por mí más de la cordialidad del compañerismo; los
                     criados habrían sido menos propensos a convertirme en el chivo
                     expiatorio del cuarto de los niños.</p>
 
-                <p>La luz del día comenzó a abandonar el cuarto rojo; pasaban de las
+                <p>La luz del día comenzó a abandonar el <span class="anotacion"
+                        data-nota="El lugar del encierro y el miedo a la muerte. Jane entra como una víctima y sale con una furia interior que no sabía que tenía. Nace su resistencia.">cuarto
+                        rojo</span>; pasaban de las
                     cuatro, y la tarde nublada tendía a un lúgubre crepúsculo. Oía la
                     lluvia golpear aún continuamente en la ventana de la escalera, y el
                     viento aullar en la arboleda detrás de la casa; poco a poco me quedé
@@ -307,9 +360,14 @@
                     detuve en ella con creciente pavor. No podía recordarlo; pero sabía
                     que era mi tío —hermano de mi madre—, que me había acogido en
                     su casa cuando era una niña huérfana; y que en sus últimos
-                    momentos le había exigido a la señora Reed la promesa de que me
-                    criaría y mantendría como a una de sus propios hijos. La señora
-                    Reed probablemente consideraba que había cumplido esta promesa;
+                    momentos le había exigido a la <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    la promesa de que me
+                    criaría y mantendría como a una de sus propios hijos. La <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    probablemente consideraba que había cumplido esta promesa;
                     y así lo había hecho, me atrevería a decir, tanto como su naturaleza
                     se lo permitía; pero, ¿cómo podría realmente querer a una intrusa
                     que no era de su estirpe y que, tras la muerte de su marido, no la
@@ -323,7 +381,10 @@
                     que si el señor Reed hubiera estado vivo, me habría tratado con
                     amabilidad; y ahora, mientras estaba sentada mirando la cama
                     blanca y las paredes ensombrecidas —volviendo también de vez en
-                    cuando una mirada fascinada hacia el espejo que brillaba débilmente
+                    cuando una mirada fascinada hacia el <span class="anotacion"
+                        data-nota="Jane se siente un bicho raro, alguien que no pertenece al mundo material de los Reed. Es el inicio de su búsqueda de identidad: "
+                        ¿Quién soy yo en este lugar que me odia?".">espejo</span>
+                    que brillaba débilmente
                     —, comencé a recordar lo que había oído de los muertos que,
                     perturbados en sus tumbas por la violación de sus últimos deseos,
                     volvían a la tierra para castigar al perjuro y vengar al oprimido; y
@@ -352,9 +413,13 @@
                     de alas; algo parecía cerca de mí; me sentí oprimida, sofocada; la
                     resistencia se quebró; corrí hacia la puerta y sacudí la cerradura en
                     un esfuerzo desesperado. Unos pasos llegaron corriendo por el
-                    pasillo exterior; la llave giró, Bessie y Abbot entraron.</p>
+                    pasillo exterior; la llave giró, <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ y Abbot entraron.</p>
 
-                <p>—Señorita Eyre, ¿se encuentra mal? —dijo Bessie.</p>
+                <p>—Señorita Eyre, ¿se encuentra mal? —dijo <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+.</p>
 
                 <p>—¡Qué ruido tan espantoso! ¡Me ha traspasado! —exclamó Abbot.</p>
 
@@ -362,10 +427,14 @@
                     grito.</p>
 
                 <p>—¿Por qué? ¿Se ha hecho daño? ¿Ha visto algo? —volvió a
-                    preguntar Bessie.</p>
+                    preguntar <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+.</p>
 
                 <p>—¡Oh! Vi una luz, y pensé que iba a aparecer un fantasma. —Para
-                    entonces me había agarrado a la mano de Bessie, y ella no me la
+                    entonces me había agarrado a la mano de <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+, y ella no me la
                     apartó.</p>
 
                 <p>—Ha gritado a propósito —declaró Abbot, con cierto disgusto—. ¡Y
@@ -373,16 +442,31 @@
                     disculpado, pero solo quería traernos a todos aquí. Conozco sus
                     malas artes.</p>
 
-                <p>—¿Qué es todo esto? —exigió otra voz, perentoria; y la señora
-                    Reed apareció por el pasillo, con la cofia al vuelo y el vestido
-                    susurrando tempestuosamente—. Abbot y Bessie, creo que di
-                    órdenes de que Jane Eyre se quedara en el cuarto rojo hasta que yo
+                <p>—¿Qué es todo esto? —exigió otra voz, perentoria; y la <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    apareció por el pasillo, con la cofia al vuelo y el vestido
+                    susurrando tempestuosamente—. Abbot y <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+, creo que di
+                    órdenes de que <span class="anotacion"
+                        data-nota="Es una niña apasionada, sensible y de espíritu indómito que, bajo el maltrato, despierta una conciencia aguda sobre la injusticia y una furia interna contra la opresión">Jane
+                        Eyre</span>
+                    se quedara en el <span class="anotacion"
+                        data-nota="El lugar del encierro y el miedo a la muerte. Jane entra como una víctima y sale con una furia interior que no sabía que tenía. Nace su resistencia.">cuarto
+                        rojo</span> hasta que yo
                     misma fuera a buscarla.</p>
 
-                <p>—La señorita Jane gritó muy fuerte, señora —suplicó Bessie.</p>
+                <p>—La señorita <span class="anotacion"
+                        data-nota="Es una niña apasionada, sensible y de espíritu indómito que, bajo el maltrato, despierta una conciencia aguda sobre la injusticia y una furia interna contra la opresión">Jane</span>
+                    gritó muy fuerte, señora —suplicó <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+.</p>
 
                 <p>—Dejadla marchar —fue la única respuesta—. Suelta la mano de
-                    Bessie, niña; no conseguirás salir por estos medios, tenlo por
+                    <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+, niña; no conseguirás salir por estos medios, tenlo por
                     seguro. Aborrezco la artimaña, sobre todo en los niños; es mi deber
                     mostrarte que los trucos no funcionan. Te quedarás aquí una hora
                     más, y solo con la condición de perfecta sumisión y quietud te
@@ -396,7 +480,12 @@
                     sinceramente me consideraba un compuesto de pasiones virulentas,
                     espíritu mezquino y peligrosa duplicidad.</p>
 
-                <p>Habiéndose retirado Bessie y Abbot, la señora Reed, impaciente
+                <p>Habiéndose retirado <span class="anotacion"
+                        data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
+ y Abbot, la <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    , impaciente
                     ante mi ahora frenética angustia y mis sollozos salvajes, me empujó
                     bruscamente hacia dentro y me encerró, sin más discusión. La oí
                     alejarse; y poco después de que se marchara, supongo que sufrí una
