@@ -1,29 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   background: #f5ecd7;
   font-family: "Georgia", serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  color: #8a6a3f;
+  margin-bottom: 20px;
+  text-align: center;
+  font-style: italic;
 }
 
 #mapa {
   position: relative;
-  width: 100%;
-  height: 100vh;
+  width: 1200px;
+  height: 700px;
+  background: #f5ecd7;
+  border: 3px solid #8a6a3f;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin-bottom: 30px;
 }
 
 .node {
   position: absolute;
-  padding: 12px 18px;
-  background: #e7d3a1;
+  padding: 8px 12px;
+  background: #d4a574;
   border: 2px solid #8a6a3f;
-  border-radius: 18px;
-  font-size: 14px;
+  border-radius: 15px;
+  font-size: 12px;
   text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
   z-index: 2;
+  transform: translate(-50%, -50%);
+  transition: all 0.3s ease;
+  color: #333;
+  font-weight: 500;
+}
+
+.node:hover {
+  background: #c0976f;
+  transform: translate(-50%, -50%) scale(1.1);
+  z-index: 10;
 }
 
 .node.main {
-  font-weight: bold;
   background: #d9b97d;
+  border: 3px solid #8a6a3f;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 12px 16px;
 }
 
 #lines {
@@ -31,4 +69,180 @@ body {
   width: 100%;
   height: 100%;
   z-index: 1;
+  top: 0;
+  left: 0;
+}
+
+.place-label {
+  position: absolute;
+  font-size: 18px;
+  font-weight: bold;
+  color: #8a6a3f;
+  opacity: 0.4;
+  z-index: 0;
+  pointer-events: none;
+  font-style: italic;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.legend {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  padding: 20px;
+  background: #f9f3e9;
+  border: 2px solid #8a6a3f;
+  border-radius: 8px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  color: #333;
+}
+
+.legend-color {
+  width: 40px;
+  height: 3px;
+  border-radius: 2px;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 100;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+  background-color: #f9f3e9;
+  margin: 5% auto;
+  padding: 30px;
+  border: 2px solid #8a6a3f;
+  border-radius: 8px;
+  width: 80%;
+  max-width: 600px;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+.close {
+  color: #8a6a3f;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.close:hover,
+.close:focus {
+  color: #c0976f;
+}
+
+.character-modal-content {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.character-image {
+  width: 180px;
+  height: auto;
+  border-radius: 8px;
+  border: 2px solid #8a6a3f;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.character-text h2 {
+  color: #8a6a3f;
+  font-size: 24px;
+  margin-bottom: 15px;
+  font-style: italic;
+}
+
+.character-text p {
+  color: #333;
+  font-size: 14px;
+  line-height: 1.8;
+  text-align: justify;
+  word-spacing: 2px;
+  margin: 0;
+}
+
+.color-odio {
+  background: #c0392b;
+}
+
+.color-afecto {
+  background: #f1c40f;
+}
+
+.color-amor {
+  background: #27ae60;
+}
+
+.color-relations {
+  background: #3498db;
+}
+
+/* Modal Styles */
+.modal {
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: none;
+}
+
+.modal-content {
+  background-color: #f9f3e9;
+  margin: 5% auto;
+  padding: 30px;
+  border: 2px solid #8a6a3f;
+  border-radius: 8px;
+  width: 80%;
+  max-width: 800px;
+  max-height: 80vh;
+  overflow-y: auto;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.close {
+  color: #8a6a3f;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+  line-height: 20px;
+}
+
+.close:hover,
+.close:focus {
+  color: #5a4a1f;
+}
+
+.modal-content h2 {
+  color: #8a6a3f;
+  margin-top: 0;
+  font-size: 24px;
+}
+
+.modal-content p {
+  color: #333;
+  line-height: 1.6;
+  font-size: 14px;
 }
