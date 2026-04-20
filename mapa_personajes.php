@@ -10,35 +10,35 @@ while ($row = $result->fetch_assoc()) {
   $characters[$row['id']] = $row;
 }
 
-// Define nodes with positions
+// Define nodes with positions based on narrative location in Jane Eyre
 $nodes = [
-  "jane" => ["label" => "Jane Eyre", "x" => 500, "y" => 350, "main" => true, "db_id" => 4],
+  "jane" => ["label" => "Jane Eyre", "x" => 600, "y" => 350, "main" => true, "db_id" => 4],
   
-  // Gateshead family and connections
-  "eliza" => ["label" => "Eliza Reed", "x" => 100, "y" => 200, "db_id" => 2],
-  "john" => ["label" => "John Reed", "x" => 100, "y" => 300, "db_id" => 5],
-  "georgiana" => ["label" => "Georgiana Reed", "x" => 100, "y" => 400, "db_id" => 3],
-  "bessie" => ["label" => "Bessie", "x" => 150, "y" => 500],
-  "reed_sra" => ["label" => "Sra. Reed", "x" => 200, "y" => 150, "db_id" => 7],
+  // Gateshead (beginning - left side)
+  "reed_sra" => ["label" => "Sra. Reed", "x" => 80, "y" => 80, "db_id" => 7],
+  "eliza" => ["label" => "Eliza Reed", "x" => 80, "y" => 200, "db_id" => 2],
+  "georgiana" => ["label" => "Georgiana Reed", "x" => 80, "y" => 280, "db_id" => 3],
+  "john" => ["label" => "John Reed", "x" => 80, "y" => 360, "db_id" => 5],
+  "bessie" => ["label" => "Bessie", "x" => 150, "y" => 450],
+  "lloyd" => ["label" => "Señor Lloyd", "x" => 200, "y" => 200, "db_id" => 6],
   
-  // Lowood
-  "brocklehu" => ["label" => "Señor Brocklehurst", "x" => 150, "y" => 620, "db_id" => 8],
-  "helen" => ["label" => "Helen Burns", "x" => 250, "y" => 650, "db_id" => 9],
-  "senorita" => ["label" => "Señorita Temple", "x" => 250, "y" => 550, "db_id" => 10],
-  "lloyd" => ["label" => "Señor Lloyd", "x" => 350, "y" => 600, "db_id" => 6],
+  // Lowood (school - left-center, below Gateshead)
+  "brocklehu" => ["label" => "Señor Brocklehurst", "x" => 100, "y" => 580, "db_id" => 8],
+  "helen" => ["label" => "Helen Burns", "x" => 220, "y" => 620, "db_id" => 9],
+  "senorita" => ["label" => "Señorita Temple", "x" => 280, "y" => 560, "db_id" => 10],
   
-  // Moor House
-  "diana" => ["label" => "Diana Rivers", "x" => 650, "y" => 100, "db_id" => 11],
-  "mary" => ["label" => "Mary Rivers", "x" => 750, "y" => 50, "db_id" => 13],
-  "john_rivers" => ["label" => "St. John Rivers", "x" => 850, "y" => 100, "db_id" => 12],
+  // Thornfield (main setting - right side)
+  "rochester" => ["label" => "Edward Rochester", "x" => 850, "y" => 280, "db_id" => 16],
+  "adele" => ["label" => "Adèle Varens", "x" => 950, "y" => 200, "db_id" => 14],
+  "fairfax" => ["label" => "Señora Fairfax", "x" => 900, "y" => 380, "db_id" => 17],
+  "grace" => ["label" => "Grace Poole", "x" => 1000, "y" => 350, "db_id" => 18],
+  "bertha" => ["label" => "Bertha Mason", "x" => 1050, "y" => 280, "db_id" => 15],
+  "ingram" => ["label" => "Blanche Ingram", "x" => 950, "y" => 480, "db_id" => 19],
   
-  // Thornfield
-  "rochester" => ["label" => "Edward Rochester", "x" => 700, "y" => 380, "db_id" => 16],
-  "adele" => ["label" => "Adèle Varens", "x" => 800, "y" => 350, "db_id" => 14],
-  "grace" => ["label" => "Grace Poole", "x" => 900, "y" => 450, "db_id" => 18],
-  "bertha" => ["label" => "Bertha Mason", "x" => 900, "y" => 350, "db_id" => 15],
-  "ingram" => ["label" => "Blanche Ingram", "x" => 950, "y" => 500, "db_id" => 19],
-  "fairfax" => ["label" => "Señora Fairfax", "x" => 850, "y" => 520, "db_id" => 17],
+  // Moor House (later setting - top right)
+  "john_rivers" => ["label" => "St. John Rivers", "x" => 850, "y" => 80, "db_id" => 12],
+  "diana" => ["label" => "Diana Rivers", "x" => 920, "y" => 120, "db_id" => 11],
+  "mary" => ["label" => "Mary Rivers", "x" => 990, "y" => 80, "db_id" => 13],
 ];
 
 $relations = [
@@ -48,6 +48,7 @@ $relations = [
   ["from" => "jane", "to" => "georgiana", "type" => "relations"],
   ["from" => "jane", "to" => "john", "type" => "odio"],
   ["from" => "jane", "to" => "bessie", "type" => "afecto"],
+  ["from" => "jane", "to" => "lloyd", "type" => "afecto"],
   
   // Jane - Lowood
   ["from" => "jane", "to" => "brocklehu", "type" => "odio"],
@@ -87,6 +88,12 @@ $relations = [
 
 <div id="mapa">
   <svg id="lines"></svg>
+  
+  <!-- Place labels -->
+  <div class="place-label" style="left: 70px; top: 30px;\">Gateshead</div>
+  <div class="place-label" style="left: 120px; top: 530px;\">Lowood</div>
+  <div class="place-label" style="left: 850px; top: 40px;\">Moor House</div>
+  <div class="place-label" style="left: 900px; top: 160px;\">Thornfield</div>
 
   <?php foreach ($nodes as $id => $n): ?>
     <div
@@ -134,12 +141,42 @@ $relations = [
 <script>
   const characters = <?php echo json_encode($characters); ?>;
   
+  // Map character IDs to image filenames
+  const characterImages = {
+    2: 'eliza.png',
+    3: 'georgina.png',
+    4: 'jane.png',
+    5: 'johnReed.png',
+    6: 'lloyd.png',
+    7: 'senoraReed.png',
+    8: 'brocklehurst.png',
+    9: 'helen.png',
+    10: 'temple.png',
+    11: 'diana.png',
+    12: 'johnRivers.png',
+    13: 'mary.png',
+    14: 'adele.png',
+    15: 'bertha.png',
+    16: 'rochester.png',
+    17: 'fairfaix.png',
+    18: 'gracePoole.png',
+    19: 'ingram.png'
+  };
+  
   function showCharacter(characterId) {
     const character = characters[characterId];
     if (character) {
+      const imageSrc = characterImages[characterId] ? `media/images/${characterImages[characterId]}` : '';
+      const imageHtml = imageSrc ? `<img src="${imageSrc}" alt="${character.nombre}" class="character-image">` : '';
+      
       document.getElementById('characterInfo').innerHTML = `
-        <h2>${character.titulo}</h2>
-        <div>${character.texto_curado}</div>
+        <div class="character-modal-content">
+          ${imageHtml}
+          <div class="character-text">
+            <h2>${character.nombre}</h2>
+            <p>${character.descripcion}</p>
+          </div>
+        </div>
       `;
       document.getElementById('characterModal').style.display = 'block';
     }
