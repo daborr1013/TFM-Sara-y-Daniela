@@ -130,11 +130,23 @@
                     constante atención; continuamente le dirigía frases como las
                     siguientes:</p>
 
-                <p>—Burns (tal parecía ser su nombre; aquí a las niñas se las llamaba
-                    a todas por sus apellidos, como a los niños en otros lugares), Burns,
+                <p>—<span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">
+                        Burns
+                    </span> (tal parecía ser su nombre; aquí a las niñas se las llamaba
+                    a todas por sus apellidos, como a los niños en otros lugares), <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">
+                        Burns
+                    </span>,
                     estás apoyada en el canto del zapato; saca las puntas de los pies
-                    inmediatamente. Burns, sacas la barbilla de forma muy
-                    desagradable; métela hacia dentro. Burns, insisto en que mantengas
+                    inmediatamente. <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">
+                        Burns
+                    </span>, sacas la barbilla de forma muy
+                    desagradable; métela hacia dentro. <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">
+                        Burns
+                    </span>, insisto en que mantengas
                     la cabeza alta; no quiero tenerte delante de mí en esa actitud, etc.,
                     etc.</p>
 
@@ -143,7 +155,10 @@
                     Carlos I, y hubo diversas preguntas sobre el impuesto sobre el
                     tonelaje y el peso y el impuesto sobre los barcos, que la mayoría de
                     ellas parecían incapaces de responder; aun así, cada pequeña
-                    dificultad se resolvía al instante cuando le llegaba el turno a Burns;
+                    dificultad se resolvía al instante cuando le llegaba el turno a <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">
+                        Burns
+                    </span>;
                     su memoria parecía haber retenido la sustancia de toda la lección, y
                     estaba lista con respuestas en cada punto. Yo esperaba que la
                     señorita Scatcherd elogiara su atención; pero, en lugar de eso, gritó
@@ -152,7 +167,10 @@
                 <p>—¡Niña sucia y desagradable! ¡No te has limpiado las uñas esta
                     mañana!</p>
 
-                <p>Burns no respondió. Me extrañó su silencio.</p>
+                <p><span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">
+                        Burns
+                    </span> no respondió. Me extrañó su silencio.</p>
 
                 <p>«¿Por qué?», pensé, «¿no explica que no pudo limpiarse las uñas
                     ni lavarse la cara, ya que el agua estaba congelada?».</p>
@@ -164,22 +182,32 @@
                     no pude continuar mis observaciones sobre los movimientos de la
                     señorita Scatcherd. Cuando volví a mi asiento, esa dama estaba
                     precisamente dando una orden cuyo significado no capté; pero
-                    Burns abandonó inmediatamente la clase y, entrando en la pequeña
+                    <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">
+                        Burns
+                    </span> abandonó inmediatamente la clase y, entrando en la pequeña
                     habitación interior donde se guardaban los libros, regresó en medio
                     minuto, llevando en la mano un manojo de varas atadas por un
                     extremo. Presentó esta ominosa herramienta a la señorita Scatcherd
                     con una respetuosa reverencia; luego, tranquilamente y sin que se lo
                     dijeran, se desató el delantal, y la maestra le infligió al instante y
                     con fuerza una docena de golpes en el cuello con el haz de varas. Ni
-                    una lágrima asomó a los ojos de Burns; y, mientras yo dejaba de
+                    una lágrima asomó a los ojos de <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">
+                        Burns
+                    </span>; y, mientras yo dejaba de
                     coser, porque mis dedos temblaban ante este espectáculo con un
                     sentimiento de ira inútil e impotente, ni un rasgo de su rostro
-                    pensativo alteró su expresión ordinaria.</p>
+                    pensativo alteró su expresión ordinaria.
+                </p>
 
                 <p>—¡Niña empedernida! —exclamó la señorita Scatcherd—. Nada
                     puede corregir tus hábitos desaliñados. Llévate la vara.</p>
 
-                <p>Burns obedeció. La miré detenidamente mientras salía del cuarto
+                <p><span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">
+                        Burns
+                    </span> obedeció. La miré detenidamente mientras salía del cuarto
                     de los libros; se estaba guardando el pañuelo en el bolsillo, y el
                     rastro de una lágrima brillaba en su delgada mejilla.</p>
 
@@ -194,7 +222,10 @@
                     daban una bienvenida sensación de libertad.</p>
 
                 <p>La tarde del día en que había visto a la señorita Scatcherd azotar
-                    a su alumna, Burns, vagué como de costumbre entre los bancos, las
+                    a su alumna, <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">
+                        Burns
+                    </span>, vagué como de costumbre entre los bancos, las
                     mesas y los grupos risueños sin compañía, pero sin sentirme sola.
                     Cuando pasaba por las ventanas, de vez en cuando levantaba una
                     persiana y miraba hacia fuera; nevaba copiosamente, ya se estaba
@@ -213,7 +244,10 @@
 
                 <p>Saltando por encima de los bancos y arrastrándome por debajo de
                     las mesas, me abrí paso hasta una de las chimeneas; allí, arrodillada
-                    junto al alto guardafuegos de alambre, encontré a Burns, absorta,
+                    junto al alto guardafuegos de alambre, encontré a <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">
+                        Burns
+                    </span>, absorta,
                     silenciosa, abstraída de todo lo que la rodeaba por la compañía de
                     un libro, que leía a la tenue luz de las brasas.</p>
 
@@ -226,7 +260,10 @@
                 <p>«Ahora», pensé, «quizás pueda conseguir que hable». Me senté a
                     su lado en el suelo.</p>
 
-                <p>—¿Cuál es tu nombre además de Burns?</p>
+                <p>—¿Cuál es tu nombre además de <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">
+                        Burns
+                    </span>?</p>
 
                 <p>—<span class="anotacion"
                         data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
