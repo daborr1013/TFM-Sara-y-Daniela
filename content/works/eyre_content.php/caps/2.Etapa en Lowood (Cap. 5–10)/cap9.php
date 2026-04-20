@@ -91,7 +91,9 @@
 
                 <p>Pero las privaciones, o más bien las penalidades, de Lowood
                     disminuyeron. La primavera se acercaba; de hecho, ya había llegado.
-                    Las heladas del invierno habían cesado; sus nieves se habían
+                    Las <span class="anotacion"
+                        data-nota="Simboliza la represión del espíritu y la dureza del sistema de Brocklehurst, que intenta 'congelar' la vitalidad de las niñas para hacerlas sumisas.">heladas</span>
+                    del invierno habían cesado; sus nieves se habían
                     derretido, sus vientos cortantes se habían suavizado. Mis
                     desdichados pies, desollados e hinchados hasta la cojera por el aire
                     agudo de enero, comenzaron a sanar y a deshincharse bajo los
@@ -114,11 +116,15 @@
                     que ceñían una gran hondonada de colinas, rica en verdor y sombra;
                     en un arroyo brillante, lleno de piedras oscuras y remolinos
                     centelleantes. ¡Qué diferente había parecido esta escena cuando la
-                    vi dispuesta bajo el cielo de hierro del invierno, rígida por la helada,
+                    vi dispuesta bajo el cielo de hierro del invierno, rígida por la <span class="anotacion"
+                        data-nota="Simboliza la represión del espíritu y la dureza del sistema de Brocklehurst, que intenta 'congelar' la vitalidad de las niñas para hacerlas sumisas.">helada</span>
+                    ,
                     envuelta en nieve! ¡Cuando nieblas tan frías como la muerte
                     vagaban al impulso de los vientos del este a lo largo de aquellos
                     picos púrpuras, y rodaban por prados y vegas hasta mezclarse con la
-                    niebla helada del arroyo! Aquel arroyo mismo era entonces un
+                    niebla <span class="anotacion"
+                        data-nota="Simboliza la represión del espíritu y la dureza del sistema de Brocklehurst, que intenta 'congelar' la vitalidad de las niñas para hacerlas sumisas.">helada</span>
+                    del arroyo! Aquel arroyo mismo era entonces un
                     torrente, turbio e irrefrenable; desgarraba el bosque y enviaba un
                     sonido furioso por el aire, a menudo espeso por la lluvia salvaje o el
                     aguanieve arremolinado; y en cuanto al bosque en sus orillas, aquel
@@ -156,8 +162,11 @@
                     continuaron bien se les permitió una licencia casi ilimitada; porque el
                     médico insistía en la necesidad de ejercicio frecuente para
                     mantenerlas sanas, y de haber sido de otro modo, nadie tenía
-                    tiempo para vigilarlas o contenerlas. Toda la atención de la señorita
-                    Temple estaba absorbida por las pacientes; vivía en la enfermería,
+                    tiempo para vigilarlas o contenerlas. Toda la atención de la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    estaba absorbida por las pacientes; vivía en la enfermería,
                     sin abandonarla nunca excepto para tomar unas pocas horas de
                     descanso por la noche. Las maestras estaban completamente
                     ocupadas empaquetando y haciendo otros preparativos necesarios
@@ -188,7 +197,9 @@
                     plenamente de las bellezas de la escena y la estación. Nos dejaban
                     vagar por el bosque, como gitanas, desde la mañana hasta la noche;
                     hacíamos lo que queríamos, íbamos a donde queríamos. También
-                    vivíamos mejor. El señor Brocklehurst y su familia ya no se
+                    vivíamos mejor. El señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    y su familia ya no se
                     acercaban a Lowood. Los asuntos domésticos no eran escrutados. El
                     ama de llaves antipática se había ido, ahuyentada por el miedo a la
                     infección; su sucesora, que había sido matrona en el Dispensario de
@@ -218,33 +229,55 @@
                     maravilla, obteniendo mucho entretenimiento, si no mucha mejora,
                     de nuestra mutua relación.</p>
 
-                <p>¿Y dónde, mientras tanto, estaba Helen Burns? ¿Por qué no
+                <p>¿Y dónde, mientras tanto, estaba <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                        Burns
+                    </span>
+                    ? ¿Por qué no
                     pasaba estos dulces días de libertad con ella? ¿La había olvidado? ¿O
                     era yo tan indigna como para haberme cansado de su pura
                     compañía? Ciertamente, la Mary Ann Wilson que he mencionado era
                     inferior a mi primera conocida. Ella solo podía contarme historias
                     divertidas y corresponder a cualquier chismorreo picante y punzante
                     en el que yo quisiera deleitarme; mientras que, si he dicho la verdad
-                    sobre Helen, ella estaba cualificada para dar a quienes disfrutaban
+                    sobre <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    , ella estaba cualificada para dar a quienes disfrutaban
                     del privilegio de su conversación una muestra de cosas mucho más
                     elevadas.</p>
 
                 <p>Cierto, lector; y yo lo sabía y lo sentía. Y aunque soy un ser
                     defectuoso, con muchas faltas y pocos puntos redentores, nunca me
-                    cansé de Helen Burns; ni dejé de albergar por ella un sentimiento de
+                    cansé de <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                        Burns
+                    </span>
+                    ; ni dejé de albergar por ella un sentimiento de
                     apego, tan fuerte, tierno y respetuoso como cualquiera que haya
                     animado jamás mi corazón. ¿Cómo podría ser de otro modo, cuando
-                    Helen, en todo momento y bajo toda circunstancia, me demostró
+                    <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    , en todo momento y bajo toda circunstancia, me demostró
                     una amistad tranquila y fiel, que el mal humor nunca agrió, ni la
-                    irritación nunca perturbó? Pero Helen estaba enferma en ese
+                    irritación nunca perturbó? Pero <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    estaba enferma en ese
                     momento. Hacía algunas semanas que la habían apartado de mi
                     vista a no sé qué habitación de arriba. No estaba, me dijeron, en la
                     parte del hospital de la casa con los pacientes de fiebre, pues su
                     dolencia era tisis, no tifus; y por tisis yo, en mi ignorancia, entendía
-                    algo leve, que el tiempo y los cuidados seguramente aliviarían.</p>
+                    algo leve, que el tiempo y los cuidados seguramente aliviarían.
+                </p>
 
                 <p>Me confirmé en esta idea por el hecho de que una o dos veces
-                    bajó en tardes muy cálidas y soleadas, y la señorita Temple la llevó
+                    bajó en tardes muy cálidas y soleadas, y la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    la llevó
                     al jardín; pero, en estas ocasiones, no se me permitía ir a hablar con
                     ella. Solo la veía desde la ventana del aula, y aun así no con
                     claridad, pues iba muy abrigada y se sentaba a distancia bajo la
@@ -287,7 +320,11 @@
                     Después de que ella lo viera montar en su caballo y partir, estaba a
                     punto de cerrar la puerta, pero corrí hacia ella.</p>
 
-                <p>—¿Cómo está Helen Burns?</p>
+                <p>—¿Cómo está <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                        Burns
+                    </span>
+                    ?</p>
 
                 <p>—Muy mal —fue la respuesta.</p>
 
@@ -303,14 +340,22 @@
                     transmitido la idea de que estaba a punto de ser trasladada a
                     Northumberland, a su propia casa. No habría sospechado que
                     significaba que se estaba muriendo; ¡pero ahora lo supe al instante!
-                    Se abrió claramente a mi comprensión que Helen Burns estaba
+                    Se abrió claramente a mi comprensión que <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                        Burns
+                    </span>
+                    estaba
                     contando sus últimos días en este mundo, y que iba a ser llevada a
                     la región de los espíritus, si tal región existía. Experimenté una
                     conmoción de horror, luego un fuerte estremecimiento de dolor,
                     luego un deseo —una necesidad— de verla; y pregunté en qué
                     habitación yacía.</p>
 
-                <p>—Está en la habitación de la señorita Temple —dijo la enfermera.</p>
+                <p>—Está en la habitación de la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    —dijo la enfermera.</p>
 
                 <p>—¿Puedo subir a hablar con ella?</p>
 
@@ -327,47 +372,74 @@
                     el perfecto silencio del dormitorio, que mis compañeras estaban
                     todas envueltas en un profundo reposo— me levanté suavemente,
                     me puse el vestido sobre el camisón y, sin zapatos, me deslicé fuera
-                    del apartamento y partí en busca de la habitación de la señorita
-                    Temple. Estaba justo en el otro extremo de la casa; pero conocía el
+                    del apartamento y partí en busca de la habitación de la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    . Estaba justo en el otro extremo de la casa; pero conocía el
                     camino, y la luz de la luna de verano sin nubes, que entraba aquí y
                     allá por las ventanas de los pasillos, me permitió encontrarlo sin
                     dificultad. Un olor a alcanfor y vinagre quemado me advirtió cuando
                     me acerqué a la sala de la fiebre, y pasé rápidamente por su puerta,
                     temerosa de que la enfermera que velaba toda la noche me oyera.
-                    Temía ser descubierta y enviada de vuelta; pues debía ver a Helen,
+                    Temía ser descubierta y enviada de vuelta; pues debía ver a <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    ,
                     debía abrazarla antes de que muriera, debía darle un último beso,
                     intercambiar con ella una última palabra.</p>
 
                 <p>Habiendo bajado una escalera, atravesado una parte de la casa de
                     abajo, y logrado abrir y cerrar, sin ruido, dos puertas, llegué a otro
                     tramo de escaleras; las subí, y entonces, justo enfrente de mí,
-                    estaba la habitación de la señorita Temple. Una luz brillaba a través
+                    estaba la habitación de la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    . Una luz brillaba a través
                     del ojo de la cerradura y por debajo de la puerta; una profunda
                     quietud impregnaba los alrededores. Al acercarme, encontré la
                     puerta ligeramente entornada, probablemente para admitir algo de
                     aire fresco en la cerrada morada de la enfermedad. Indispuesta a
                     dudar y llena de impulsos impacientes —alma y sentidos temblando
                     con agudas punzadas—, la empujé y miré dentro. Mi ojo buscó a
-                    Helen y temió encontrar la muerte.</p>
+                    <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    y temió encontrar la muerte.
+                </p>
 
-                <p>Junto a la cama de la señorita Temple, y medio cubierta por sus
+                <p>Junto a la cama de la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    , y medio cubierta por sus
                     blancas cortinas, había una pequeña cuna. Vi el contorno de una
                     forma bajo las sábanas, pero el rostro estaba oculto por los
                     cortinajes. La enfermera con la que había hablado en el jardín
                     dormía sentada en un sillón; una vela sin despabilar ardía
-                    débilmente sobre la mesa. No se veía a la señorita Temple; supe
+                    débilmente sobre la mesa. No se veía a la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    ; supe
                     después que la habían llamado para atender a un paciente delirante
                     en la sala de la fiebre. Avancé; luego me detuve junto a la cuna. Mi
                     mano estaba en la cortina, pero preferí hablar antes de retirarla.
                     Todavía retrocedía ante el pavor de ver un cadáver.</p>
 
-                <p>—¡Helen! —susurré suavemente—, ¿estás despierta?</p>
+                <p>—¡<span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    ! —susurré suavemente—, ¿estás despierta?</p>
 
                 <p>Se removió, apartó la cortina y vi su rostro, pálido, consumido,
                     pero completamente sereno. Parecía tan poco cambiada que mi
                     miedo se disipó al instante.</p>
 
-                <p>—¿Puedes ser tú, Jane? —preguntó, con su propia voz suave.</p>
+                <p>—¿Puedes ser tú, <span class="anotacion"
+                        data-nota="Es una joven en formación que aprende a canalizar su furia interna hacia la disciplina y el intelecto, transformando su rebeldía en una resiliencia digna y silenciosa.">Jane</span>
+                    ? —preguntó, con su propia voz suave.</p>
 
                 <p>«¡Oh!», pensé, «no se va a morir; están equivocados. No podría
                     hablar y parecer tan tranquila si lo estuviera».</p>
@@ -376,30 +448,48 @@
                     y delgada, al igual que su mano y su muñeca; pero sonrió como
                     antaño.</p>
 
-                <p>—¿Por qué has venido aquí, Jane? Pasan de las once. Oí dar la
+                <p>—¿Por qué has venido aquí, <span class="anotacion"
+                        data-nota="Es una joven en formación que aprende a canalizar su furia interna hacia la disciplina y el intelecto, transformando su rebeldía en una resiliencia digna y silenciosa.">Jane</span>
+                    ? Pasan de las once. Oí dar la
                     hora hace unos minutos.</p>
 
-                <p>—Vine a verte, Helen. Oí que estabas muy enferma y no podía
+                <p>—Vine a verte, <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    . Oí que estabas muy enferma y no podía
                     dormir hasta haber hablado contigo.</p>
 
                 <p>—Viniste a despedirte, entonces. Llegas justo a tiempo,
                     probablemente.</p>
 
-                <p>—¿Te vas a alguna parte, Helen? ¿Te vas a casa?</p>
+                <p>—¿Te vas a alguna parte, <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    ? ¿Te vas a casa?</p>
 
                 <p>—Sí; a mi largo hogar, mi último hogar.</p>
 
-                <p>—¡No, no, Helen! —me detuve, angustiada. Mientras intentaba
-                    devorar mis lágrimas, un ataque de tos se apoderó de Helen; sin
+                <p>—¡No, no, <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    ! —me detuve, angustiada. Mientras intentaba
+                    devorar mis lágrimas, un ataque de tos se apoderó de <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    ; sin
                     embargo, no despertó a la enfermera. Cuando pasó, yació unos
                     minutos agotada; luego susurró:</p>
 
-                <p>—Jane, tus piececitos están descalzos; acuéstate y cúbrete con mi colcha.</p>
+                <p>—<span class="anotacion"
+                        data-nota="Es una joven en formación que aprende a canalizar su furia interna hacia la disciplina y el intelecto, transformando su rebeldía en una resiliencia digna y silenciosa.">Jane</span>
+                    , tus piececitos están descalzos; acuéstate y cúbrete con mi colcha.</p>
 
                 <p>Así lo hice. Ella me pasó el brazo por encima y me acurruqué junto
                     a ella. Tras un largo silencio, reanudó, todavía susurrando:</p>
 
-                <p>—Soy muy feliz, Jane; y cuando oigas que he muerto, asegúrate
+                <p>—Soy muy feliz, <span class="anotacion"
+                        data-nota="Es una joven en formación que aprende a canalizar su furia interna hacia la disciplina y el intelecto, transformando su rebeldía en una resiliencia digna y silenciosa.">Jane</span>
+                    ; y cuando oigas que he muerto, asegúrate
                     de no afligirte. No hay nada por lo que afligirse. Todos debemos
                     morir un día, y la enfermedad que me está llevando no es dolorosa;
                     es suave y gradual. Mi mente está en paz. No dejo a nadie que me
@@ -408,7 +498,10 @@
                     sufrimientos. No tenía cualidades ni talentos para abrirme camino
                     muy bien en el mundo; habría estado continuamente en falta.</p>
 
-                <p>—Pero, ¿a dónde vas, Helen? ¿Puedes ver? ¿Lo sabes?</p>
+                <p>—Pero, ¿a dónde vas, <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    ? ¿Puedes ver? ¿Lo sabes?</p>
 
                 <p>—Creo; tengo fe. Voy a Dios.</p>
 
@@ -419,37 +512,58 @@
                     Cuento las horas hasta que llegue esa hora trascendental que me
                     devolverá a Él, me lo revelará a mí.</p>
 
-                <p>—¿Estás segura, entonces, Helen, de que existe un lugar como el
+                <p>—¿Estás segura, entonces, <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    , de que existe un lugar como el
                     cielo, y de que nuestras almas pueden llegar a él cuando morimos?</p>
 
                 <p>—Estoy segura de que hay un estado futuro; creo que Dios es
                     bueno; puedo entregarle mi parte inmortal sin ningún recelo. Dios es
                     mi padre; Dios es mi amigo. Lo amo; creo que Él me ama.</p>
 
-                <p>—¿Y te volveré a ver, Helen, cuando yo muera?</p>
+                <p>—¿Y te volveré a ver, <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    , cuando yo muera?</p>
 
                 <p>—Vendrás a la misma región de felicidad; serás recibida por el
-                    mismo poderoso y universal Padre, sin duda, querida Jane.</p>
+                    mismo poderoso y universal Padre, sin duda, querida <span class="anotacion"
+                        data-nota="Es una joven en formación que aprende a canalizar su furia interna hacia la disciplina y el intelecto, transformando su rebeldía en una resiliencia digna y silenciosa.">Jane</span>
+                    .</p>
 
                 <p>De nuevo pregunté, pero esta vez solo en pensamiento. «¿Dónde
                     está esa región? ¿Existe?». Y estreché mis brazos más fuerte
-                    alrededor de Helen; me parecía más querida que nunca; sentí como
+                    alrededor de <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    ; me parecía más querida que nunca; sentí como
                     si no pudiera dejarla ir. Yací con el rostro oculto en su cuello. Al
                     instante dijo, en el tono más dulce:</p>
 
                 <p>—¡Qué a gusto estoy! Ese último ataque de tos me ha cansado un
-                    poco; siento como si pudiera dormir. Pero no me dejes, Jane; me
+                    poco; siento como si pudiera dormir. Pero no me dejes, <span class="anotacion"
+                        data-nota="Es una joven en formación que aprende a canalizar su furia interna hacia la disciplina y el intelecto, transformando su rebeldía en una resiliencia digna y silenciosa.">Jane</span>
+                    ; me
                     gusta tenerte cerca.</p>
 
-                <p>—Me quedaré contigo, querida Helen. Nadie me apartará.</p>
+                <p>—Me quedaré contigo, querida <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    . Nadie me apartará.</p>
 
                 <p>—¿Tienes calor, cariño?</p>
 
                 <p>—Sí.</p>
 
-                <p>—Buenas noches, Jane.</p>
+                <p>—Buenas noches, <span class="anotacion"
+                        data-nota="Es una joven en formación que aprende a canalizar su furia interna hacia la disciplina y el intelecto, transformando su rebeldía en una resiliencia digna y silenciosa.">Jane</span>
+                    .</p>
 
-                <p>—Buenas noches, Helen.</p>
+                <p>—Buenas noches, <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    .</p>
 
                 <p>Ella me besó, y yo a ella, y ambas nos dormimos pronto.</p>
 
@@ -459,15 +573,29 @@
                     reprendieron por haber dejado mi cama; la gente tenía otras cosas
                     en qué pensar. No se me dio entonces ninguna explicación a mis
                     muchas preguntas; pero uno o dos días después supe que la
-                    señorita Temple, al regresar a su propia habitación al amanecer, me
+                    <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    , al regresar a su propia habitación al amanecer, me
                     había encontrado acostada en la pequeña cuna; mi rostro contra el
-                    hombro de Helen Burns, mis brazos alrededor de su cuello. Yo
-                    estaba dormida, y Helen estaba... muerta.</p>
+                    hombro de <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                        Burns
+                    </span>
+                    , mis brazos alrededor de su cuello. Yo
+                    estaba dormida, y <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    estaba... muerta.
+                </p>
 
                 <p>Su tumba está en el cementerio de Brocklebridge. Durante quince
                     años después de su muerte solo estuvo cubierta por un montículo de
                     hierba; pero ahora una lápida de mármol gris marca el lugar, inscrita
-                    con su nombre y la palabra «Resurgam».</p>
+                    con su nombre y la palabra «<span class="anotacion"
+                        data-nota="Es el símbolo de la esperanza cristiana y la trascendencia. Representa la creencia de Helen en un mundo mejor y la promesa de que el sufrimiento de Jane en Lowood no será el final de su historia, sino el inicio de su renacimiento."><i>Resurgam</i></span>
+                    ».</p>
 
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap8.php" rel="prev">Anterior</a>

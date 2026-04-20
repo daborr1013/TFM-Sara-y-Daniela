@@ -90,18 +90,20 @@
                 <h1>Capítulo IV</h1>
 
                 <p>De mi conversación con el <span class="anotacion"
-                        data-nota="El boticario que trata a Jane tras su desmayo; es el primer adulto que la escucha con empatía y el puente que le permite escapar hacia una nueva vida en Lowood.">señor Lloyd</span>
- y de la antedicha conferencia
+                        data-nota="El boticario que trata a Jane tras su desmayo; es el primer adulto que la escucha con empatía y el puente que le permite escapar hacia una nueva vida en Lowood.">señor
+                        Lloyd</span>
+                    y de la antedicha conferencia
                     entre <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- y Abbot, extraje la esperanza suficiente para que me
+                    y Abbot, extraje la esperanza suficiente para que me
                     sirviera de motivo para desear ponerme bien: un cambio parecía
                     cercano, y lo deseaba y esperaba en silencio. Sin embargo, se
                     demoró: pasaron días y semanas. Yo había recuperado mi estado
                     normal de salud, pero no se hizo ninguna nueva alusión al tema
                     sobre el que yo cavilaba. La <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- me examinaba a veces con
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    me examinaba a veces con
                     ojo severo, pero rara vez me dirigía la palabra. Desde mi
                     enfermedad, había trazado una línea de separación más marcada
                     que nunca entre sus hijos y yo; me asignó un pequeño cuartito para
@@ -116,12 +118,12 @@
 
                 <p><span class="anotacion"
                         data-nota="Una niña egoísta, meticulosa y fría que prefiere el orden y el dinero antes que los sentimientos.">Eliza</span>
- y <span class="anotacion"
+                    y <span class="anotacion"
                         data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana</span>
-, actuando evidentemente según órdenes, me
+                    , actuando evidentemente según órdenes, me
                     hablaban lo menos posible. <span class="anotacion"
                         data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John</span>
- se metía la lengua en el carrillo
+                    se metía la lengua en el carrillo
                     cada vez que me veía, y una vez intentó castigarme; pero como me
                     volví instantáneamente contra él, impulsada por el mismo
                     sentimiento de profunda ira y revuelta desesperada que había
@@ -140,7 +142,7 @@
 
                 <p>—No me hables de ella, <span class="anotacion"
                         data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John</span>
-. Te dije que no te acercaras; no es
+                    . Te dije que no te acercaras; no es
                     digna de atención. No deseo que ni tú ni tus hermanas os relacionéis
                     con ella.</p>
 
@@ -150,8 +152,9 @@
                 <p>—¡No son ellos los dignos de relacionarse conmigo!</p>
 
                 <p>La <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- era una mujer más bien corpulenta; pero, al oír
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    era una mujer más bien corpulenta; pero, al oír
                     esta extraña y audaz declaración, subió ágilmente la escalera, me
                     arrastró como un torbellino hasta el cuarto de los niños y,
                     aplastándome contra el borde de mi cuna, me desafió con voz
@@ -164,8 +167,9 @@
                     emisión; algo habló a través de mí sobre lo cual no tenía control.</p>
 
                 <p>—¿Qué? —dijo la <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- en voz baja. Su ojo gris,
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    en voz baja. Su ojo gris,
                     habitualmente frío y sereno, se turbó con una mirada parecida al
                     miedo; retiró la mano de mi brazo y me contempló como si
                     realmente no supiera si yo era una niña o un demonio. Ahora sí que
@@ -176,12 +180,13 @@
                     todo el día y cómo desea que me muera.</p>
 
                 <p>La <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- pronto recobró el ánimo: me zarandeó con todas
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    pronto recobró el ánimo: me zarandeó con todas
                     sus fuerzas, me abofeteó en ambas orejas y luego me dejó sin decir
                     palabra. <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- llenó el hiato con un sermón de una hora de
+                    llenó el hiato con un sermón de una hora de
                     duración, en el que demostró sin lugar a dudas que yo era la niña
                     más malvada y abandonada que jamás se había criado bajo un
                     techo. La creí a medias, pues, en efecto, solo sentía malos
@@ -194,9 +199,9 @@
                     estaba excluida: mi parte de la alegría consistía en presenciar el
                     atavío diario de <span class="anotacion"
                         data-nota="Una niña egoísta, meticulosa y fría que prefiere el orden y el dinero antes que los sentimientos.">Eliza</span>
- y <span class="anotacion"
+                    y <span class="anotacion"
                         data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana</span>
-, y verlas descender al salón,
+                    , y verlas descender al salón,
                     vestidas con finos trajes de muselina y lazos escarlata, con el pelo
                     elaboradamente rizado; y después, en escuchar el sonido del piano o
                     del arpa que se tocaba abajo, el ir y venir del mayordomo y el
@@ -209,14 +214,15 @@
                     compañía, pues en compañía muy rara vez se fijaban en mí; y si
                     <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- hubiera sido amable y sociable, habría considerado un placer
+                    hubiera sido amable y sociable, habría considerado un placer
                     pasar las tardes tranquilamente con ella, en lugar de pasarlas bajo la
                     formidable mirada de la <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
-, en una habitación llena de
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    , en una habitación llena de
                     damas y caballeros. Pero <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-, tan pronto como había vestido a
+                    , tan pronto como había vestido a
                     sus señoritas, solía marcharse a las animadas regiones de la cocina y
                     el cuarto del ama de llaves, llevándose generalmente la vela consigo.
                     Entonces me sentaba con mi muñeca en el regazo hasta que el
@@ -233,12 +239,13 @@
                     imaginando a medias que estaba vivo y era capaz de sentir. No podía
                     dormir a menos que estuviera envuelto en mi camisón; y cuando
                     yacía allí, seguro y cálido, yo era comparativamente feliz, creyendo
-                    que él también lo era.</p>
+                    que él también lo era.
+                </p>
 
                 <p>Largas me parecían las horas mientras esperaba la partida de los
                     invitados y escuchaba el sonido de los pasos de <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- en la
+                    en la
                     escalera. A veces subía en el intervalo para buscar su dedal o sus
                     tijeras, o quizás para traerme algo a modo de cena —un bollo o un
                     pastel de queso—; entonces se sentaba en la cama mientras yo
@@ -248,13 +255,13 @@
                     ».
                     Cuando se mostraba así de dulce, <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- me parecía el ser mejor,
+                    me parecía el ser mejor,
                     más bonito y más amable del mundo; y deseaba con toda mi alma
                     que siempre fuera tan agradable y afable, y que nunca me
                     empujara, ni me riñera, ni me encargara tareas irrazonables, como
                     solía hacer con demasiada frecuencia. <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- Lee, creo, debía de ser
+                    Lee, creo, debía de ser
                     una muchacha de buena capacidad natural, pues era lista en todo lo
                     que hacía y tenía un notable don para la narración; al menos, así lo
                     juzgo por la impresión que me causaron sus cuentos infantiles.
@@ -271,7 +278,7 @@
                     había bajado a desayunar; mis primas aún no habían sido llamadas
                     por su mamá; <span class="anotacion"
                         data-nota="Una niña egoísta, meticulosa y fría que prefiere el orden y el dinero antes que los sentimientos.">Eliza</span>
- se estaba poniendo su gorro y su abrigo de
+                    se estaba poniendo su gorro y su abrigo de
                     jardín para ir a dar de comer a sus aves de corral, una ocupación
                     que le encantaba, y no menos la de vender los huevos al ama de
                     llaves y atesorar el dinero que así obtenía.2 Tenía vena de
@@ -279,18 +286,19 @@
                     solo en la venta de huevos y pollos, sino también en regatear
                     duramente con el jardinero por raíces de flores, semillas y esquejes
                     de plantas; dicho funcionario tenía órdenes de la <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- de
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    de
                     comprar a su joven señorita todos los productos de su parterre que
                     ella quisiera vender. Y <span class="anotacion"
                         data-nota="Una niña egoísta, meticulosa y fría que prefiere el orden y el dinero antes que los sentimientos.">Eliza</span>
- se habría vendido el pelo de la cabeza si
+                    se habría vendido el pelo de la cabeza si
                     hubiera podido sacar un buen beneficio con ello. En cuanto a su
                     dinero, primero lo escondía en rincones extraños, envuelto en un
                     trapo o en un viejo papel de rizar; pero como algunos de estos
                     tesoros habían sido descubiertos por la doncella, <span class="anotacion"
                         data-nota="Una niña egoísta, meticulosa y fría que prefiere el orden y el dinero antes que los sentimientos.">Eliza</span>
-, temerosa de
+                    , temerosa de
                     perder un día su valioso tesoro, consintió en confiárselo a su madre,
                     a un tipo de interés usurero —cincuenta o sesenta por ciento—,
                     interés que exigía cada trimestre, llevando sus cuentas en un
@@ -298,23 +306,23 @@
 
                 <p><span class="anotacion"
                         data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana</span>
- estaba sentada en un taburete alto, arreglándose el
+                    estaba sentada en un taburete alto, arreglándose el
                     pelo ante el espejo y entretejiendo sus rizos con flores artificiales y
                     plumas desvaídas, de las que había encontrado una provisión en un
                     cajón del desván. Yo estaba haciendo mi cama, habiendo recibido
                     órdenes estrictas de <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- de tenerla arreglada antes de que
+                    de tenerla arreglada antes de que
                     volviera (pues <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- ahora me empleaba con frecuencia como una
+                    ahora me empleaba con frecuencia como una
                     especie de ayudante de niñera, para ordenar la habitación, quitar el
                     polvo de las sillas, etc.). Habiendo extendido la colcha y doblado mi
                     camisón, fui al asiento de la ventana para poner en orden algunos
                     libros de ilustraciones y muebles de casa de muñecas esparcidos por
                     allí; una orden brusca de <span class="anotacion"
                         data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana</span>
- de que dejara en paz sus
+                    de que dejara en paz sus
                     juguetes (pues las diminutas sillas y espejos, los platos y tazas de
                     hadas, eran de su propiedad) detuvo mis acciones; y entonces, a
                     falta de otra ocupación, me puse a echar el aliento sobre las flores
@@ -336,9 +344,12 @@
                     clavado en la pared cerca del ventanal. Los restos de mi desayuno
                     de pan y leche estaban sobre la mesa y, habiendo desmigajado un
                     trozo de panecillo, estaba forcejeando con el pestillo para poner las
-                    migas en el alféizar, cuando <span class="anotacion"
+                    migas en el <span class="anotacion"
+                        data-nota="Vuelta o derrame que hace la pared en el corte de una puerta o ventana, tanto por la parte de adentro como por la de afuera, dejando al descubierto el grueso del muro.">alféizar
+                    </span>
+                    , cuando <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- subió corriendo las escaleras
+                    subió corriendo las escaleras
                     hacia el cuarto de los niños.</p>
 
                 <p>—¡Señorita <span class="anotacion"
@@ -348,12 +359,16 @@
 
                 <p>Di otro tirón antes de responder, pues quería que el pájaro tuviera
                     su pan asegurado. El pestillo cedió; esparcí las migas, algunas en el
-                    alféizar de piedra, otras en la rama del cerezo. Luego, cerrando la
-                    ventana, respondí:</p>
+                    <span class="anotacion"
+                        data-nota="Vuelta o derrame que hace la pared en el corte de una puerta o ventana, tanto por la parte de adentro como por la de afuera, dejando al descubierto el grueso del muro.">alféizar
+                    </span>
+                    de piedra, otras en la rama del cerezo. Luego, cerrando la
+                    ventana, respondí:
+                </p>
 
                 <p>—No, <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-; acabo de terminar de quitar el polvo.</p>
+                    ; acabo de terminar de quitar el polvo.</p>
 
                 <p>—¡Niña molesta y descuidada! ¿Y qué haces ahora? Estás toda
                     colorada, como si hubieras hecho alguna travesura. ¿Para qué abrías
@@ -361,7 +376,7 @@
 
                 <p>Me ahorró la molestia de responder, pues <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- parecía tener
+                    parecía tener
                     demasiada prisa para escuchar explicaciones. Me arrastró hasta el
                     lavabo, me infligió un despiadado, pero felizmente breve, fregado en
                     la cara y las manos con jabón, agua y una toalla áspera; disciplinó
@@ -372,18 +387,21 @@
 
                 <p>Habría preguntado quién me necesitaba; habría exigido saber si la
                     <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- estaba allí; pero <span class="anotacion"
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    estaba allí; pero <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- ya se había ido y había cerrado
+                    ya se había ido y había cerrado
                     la puerta del cuarto de los niños tras de sí. Descendí lentamente.
                     Durante casi tres meses, nunca había sido llamada a la presencia de
                     la <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
-; recluida tanto tiempo en el cuarto de los niños, el
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    ; recluida tanto tiempo en el cuarto de los niños, el
                     comedor de diario, el comedor principal y el salón se habían
                     convertido para mí en regiones terribles, en las que me consternaba
-                    entrometerme.</p>
+                    entrometerme.
+                </p>
 
                 <p>Ahora me encontraba en el vestíbulo vacío; ante mí estaba la
                     puerta del comedor de diario, y me detuve, intimidada y temblorosa.
@@ -397,8 +415,9 @@
                     mientras con ambas manos giraba el rígido pomo de la puerta, que,
                     por uno o dos segundos, se resistió a mis esfuerzos. «¿Qué veré
                     además de <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">tía Reed</span>
- en la estancia? ¿Un hombre o una mujer?». El
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">tía
+                        Reed</span>
+                    en la estancia? ¿Un hombre o una mujer?». El
                     pomo giró, la puerta se abrió y, pasando y haciendo una profunda
                     reverencia, levanté la vista hacia... ¡un pilar negro! Tal, al menos,
                     me pareció a primera vista la figura erguida, estrecha, vestida de
@@ -407,8 +426,9 @@
                     capitel.</p>
 
                 <p>La <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- ocupaba su asiento habitual junto al fuego. Me
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    ocupaba su asiento habitual junto al fuego. Me
                     hizo una señal para que me acercara; así lo hice, y me presentó al
                     pétreo desconocido con las palabras:</p>
 
@@ -445,7 +465,8 @@
 
                 <p>Imposible responder afirmativamente a esto: mi pequeño mundo
                     sostenía una opinión contraria. Guardé silencio. La <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
 
                     respondió por mí con un expresivo movimiento de cabeza,
                     añadiendo al poco:</p>
@@ -456,8 +477,9 @@
                 <p>—¡Lamento oírlo, ciertamente! Ella y yo debemos tener una charla
                     —y, abandonando la perpendicularidad, acomodó su persona en el
                     sillón frente al de la <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
-—. Ven aquí —dijo.</p>
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    —. Ven aquí —dijo.</p>
 
                 <p>Crucé la alfombra; me colocó, recta y firme, frente a él. ¡Qué
                     rostro tenía, ahora que estaba casi a la altura del mío! ¡Qué nariz tan
@@ -499,8 +521,9 @@
 
                 <p>«¡Benefactora! ¡Benefactora!», dije para mis adentros. «Todos
                     llaman a la <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- mi benefactora; si es así, una benefactora
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    mi benefactora; si es así, una benefactora
                     es algo desagradable».</p>
 
                 <p>—¿Rezas tus oraciones por la noche y por la mañana? —continuó
@@ -539,9 +562,11 @@
                 <p>Estaba a punto de plantear una pregunta, tocante a la manera en
                     que esa operación de cambiar mi corazón debía realizarse, cuando la
                     <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- interpuso, diciéndome que me sentara; luego procedió
-                    a continuar la conversación ella misma.</p>
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    interpuso, diciéndome que me sentara; luego procedió
+                    a continuar la conversación ella misma.
+                </p>
 
                 <p>—Señor Brocklehurst, creo que le insinué en la carta que le escribí
                     hace tres semanas que esta niña no tiene exactamente el carácter y
@@ -555,8 +580,9 @@
                 </p>
 
                 <p>Con razón podía temer, con razón podía detestar a la <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
-;
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    ;
                     pues era su naturaleza herirme cruelmente. Nunca fui feliz en su
                     presencia; por mucho que obedeciera, por mucho que me esforzara
                     en complacerla, mis esfuerzos eran siempre rechazados y pagados
@@ -577,8 +603,9 @@
                     dijo el señor Brocklehurst—. Es pariente de la falsedad, y todos los
                     mentirosos tendrán su parte en el lago que arde con fuego y azufre.
                     Sin embargo, será vigilada, <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
-. Hablaré con la señorita
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    . Hablaré con la señorita
                     Temple y las maestras.</p>
 
                 <p>—Desearía que fuera educada de una manera adecuada a sus
@@ -603,8 +630,9 @@
 
                 <p>—Este es el estado de cosas que apruebo por completo —
                     respondió la <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
-—. Si hubiera buscado por toda Inglaterra,
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    —. Si hubiera buscado por toda Inglaterra,
                     apenas habría encontrado un sistema que se ajustara más
                     exactamente a una niña como <span class="anotacion"
                         data-nota="Es una niña apasionada, sensible y de espíritu indómito que, bajo el maltrato, despierta una conciencia aguda sobre la injusticia y una furia interna contra la opresión">Jane
@@ -650,10 +678,12 @@
                     campanilla para llamar a su carruaje, partió.</p>
 
                 <p>La <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- y yo nos quedamos solas; pasaron algunos
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    y yo nos quedamos solas; pasaron algunos
                     minutos en silencio; ella cosía, yo la observaba. La <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
 
                     podría tener en aquel tiempo unos treinta y seis o treinta y siete
                     años; era una mujer de complexión robusta, de hombros cuadrados
@@ -674,16 +704,18 @@
                     panfleto que contenía la muerte súbita de la Mentirosa, narrativa a la
                     que se había señalado mi atención como una advertencia apropiada.
                     Lo que acababa de pasar; lo que la <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- había dicho de mí al
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    había dicho de mí al
                     señor Brocklehurst; todo el tenor de su conversación, estaba
                     reciente, crudo y punzante en mi mente; había sentido cada palabra
                     tan agudamente como la había oído claramente, y una pasión de
                     resentimiento fermentaba ahora dentro de mí.</p>
 
                 <p>La <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- levantó la vista de su labor; su ojo se posó en el
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    levantó la vista de su labor; su ojo se posó en el
                     mío, sus dedos suspendieron al mismo tiempo sus ágiles
                     movimientos.</p>
 
@@ -701,15 +733,17 @@
                 <p>—No soy una embustera. Si lo fuera, diría que la quiero; pero
                     declaro que no la quiero. La detesto más que a nadie en el mundo,
                     excepto a <span class="anotacion"
-                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John Reed</span>
-; y este libro sobre la mentirosa, puede dárselo
+                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John
+                        Reed</span>
+                    ; y este libro sobre la mentirosa, puede dárselo
                     a su hija, <span class="anotacion"
                         data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana</span>
-, porque es ella quien dice mentiras, y no yo.</p>
+                    , porque es ella quien dice mentiras, y no yo.</p>
 
                 <p>Las manos de la <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- seguían sobre su labor, inactivas; su
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    seguían sobre su labor, inactivas; su
                     ojo de hielo continuaba posado gélidamente en el mío.</p>
 
                 <p>—¿Qué más tienes que decir? —preguntó, más bien en el tono con
@@ -732,8 +766,9 @@
                     ?</p>
 
                 <p>—¿Que cómo me atrevo, <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
-? ¿Cómo me atrevo? Porque
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    ? ¿Cómo me atrevo? Porque
                     es la verdad. Usted piensa que no tengo sentimientos, y que puedo
                     vivir sin una pizca de amor o bondad; pero no puedo vivir así, y
                     usted no tiene piedad. Recordaré cómo me empujó —brusca y
@@ -742,8 +777,9 @@
                         rojo</span>, y me encerró
                     allí, hasta el día de mi muerte; aunque yo estaba en agonía; aunque
                     grité, mientras me ahogaba de angustia: «¡Piedad! ¡Piedad, <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">tía Reed</span>
-!». Y ese castigo me lo hizo sufrir porque su malvado hijo me
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">tía
+                        Reed</span>
+                    !». Y ese castigo me lo hizo sufrir porque su malvado hijo me
                     pegó, me derribó por nada. Le contaré a cualquiera que me haga
                     preguntas, esta historia exacta. La gente cree que es usted una
                     buena mujer, pero es mala, dura de corazón. ¡Usted es la
@@ -754,7 +790,8 @@
                     triunfo, que jamás había sentido. Parecía como si un lazo invisible se
                     hubiera roto y yo hubiera luchado por alcanzar una libertad
                     inesperada. No carecía de causa este sentimiento: la <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
 
                     parecía asustada; su labor se le había resbalado de las rodillas;
                     levantaba las manos, se mecía de un lado a otro e incluso contraía el
@@ -766,8 +803,9 @@
                     violentamente? ¿Quieres beber un poco de agua?</p>
 
                 <p>—No, <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
-.</p>
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    .</p>
 
                 <p>—¿Deseas algo más, <span class="anotacion"
                         data-nota="Es una niña apasionada, sensible y de espíritu indómito que, bajo el maltrato, despierta una conciencia aguda sobre la injusticia y una furia interna contra la opresión">Jane</span>
@@ -791,14 +829,17 @@
 
                 <p>—No soy su tesoro; no puedo acostarme. Envíeme pronto a la
                     escuela, <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
-, porque odio vivir aquí.</p>
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    , porque odio vivir aquí.</p>
 
                 <p>—Desde luego que la enviaré pronto a la escuela —murmuró la
                     <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- sotto voce; y, recogiendo su labor, abandonó
-                    bruscamente la estancia.</p>
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    sotto voce; y, recogiendo su labor, abandonó
+                    bruscamente la estancia.
+                </p>
 
                 <p>Me quedé allí sola, vencedora del campo de batalla. Fue la batalla
                     más dura que había librado y la primera victoria que había obtenido.
@@ -813,23 +854,27 @@
                     cresta de brezo encendido, viva, centelleante, devoradora, habría
                     sido un emblema adecuado de mi mente cuando acusé y amenacé la
                     <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
-; la misma cresta, negra y calcinada después de que las
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    ; la misma cresta, negra y calcinada después de que las
                     llamas se extinguieran, habría representado con igual acierto mi
                     estado posterior, cuando media hora de silencio y reflexión me
                     mostró la locura de mi conducta y la desolación de mi odiada y
-                    odiosa posición.</p>
+                    odiosa posición.
+                </p>
 
                 <p>Había probado por primera vez algo parecido a la venganza;
                     parecía, al tragarlo, un vino aromático, cálido y especiado; su
                     regusto, metálico y corrosivo, me dio la sensación de haber sido
                     envenenada. De buena gana habría ido ahora a pedir perdón a la
                     <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
-; pero sabía, en parte por experiencia y en parte por
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    ; pero sabía, en parte por experiencia y en parte por
                     instinto, que esa era la manera de hacer que me rechazara con
                     doble desdén, reavivando así cada impulso turbulento de mi
-                    naturaleza.</p>
+                    naturaleza.
+                </p>
 
                 <p>Anhelaba ejercitar alguna facultad mejor que la de hablar con
                     ferocidad; anhelaba encontrar alimento para algún sentimiento
@@ -861,7 +906,7 @@
 
                 <p>Era <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-, lo sabía de sobra; pero no me moví; su paso ligero se
+                    , lo sabía de sobra; pero no me moví; su paso ligero se
                     acercó por el sendero.</p>
 
                 <p>—¡Pequeña traviesa! —dijo—. ¿Por qué no vienes cuando te
@@ -869,19 +914,20 @@
 
                 <p>La presencia de <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-, comparada con los pensamientos sobre
+                    , comparada con los pensamientos sobre
                     los que había estado cavilando, parecía alegre; aunque, como de
                     costumbre, estaba algo enfadada. Lo cierto es que, tras mi conflicto
                     y victoria sobre la <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
-, no estaba dispuesta a preocuparme
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    , no estaba dispuesta a preocuparme
                     mucho por la ira pasajera de la niñera; y sí estaba dispuesta a
                     deleitarme en su juvenil alegría de corazón. Simplemente la rodeé
                     con mis dos brazos y le dije:</p>
 
                 <p>—¡Vamos, <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-! No me riñas.</p>
+                    ! No me riñas.</p>
 
                 <p>La acción fue más franca y audaz que cualquiera que yo estuviera
                     habituada a permitirme; de alguna manera, le agradó.</p>
@@ -896,11 +942,11 @@
 
                 <p>—¿Y no le dará pena dejar a la pobre <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-?</p>
+                    ?</p>
 
                 <p>—¿Qué le importa <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- de mí? Siempre me está riñendo.</p>
+                    de mí? Siempre me está riñendo.</p>
 
                 <p>—Porque es usted una cosita tan rara, asustadiza y tímida.
                     Debería ser más audaz.</p>
@@ -914,12 +960,12 @@
 
                 <p>—No creo que las tenga, <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-.</p>
+                    .</p>
 
                 <p>—¡Niña! ¿Qué quieres decir? ¡Qué ojos tan tristes me pones!
                     Bueno, pero la señora, las señoritas y el señorito <span class="anotacion"
                         data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John</span>
- van a tomar
+                    van a tomar
                     el té fuera esta tarde, y usted tomará el té conmigo. Le pediré a la
                     cocinera que le hornee un pastelito, y luego me ayudará a revisar
                     sus cajones, porque pronto tengo que hacerle el baúl. La señora
@@ -928,7 +974,7 @@
 
                 <p>—<span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-, tienes que prometerme que no me reñirás más hasta
+                    , tienes que prometerme que no me reñirás más hasta
                     que me vaya.</p>
 
                 <p>—Bueno, lo prometo; pero pórtate muy bien y no me tengas
@@ -937,7 +983,7 @@
 
                 <p>—No creo que vuelva a tenerte miedo, <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-, porque me he
+                    , porque me he
                     acostumbrado a ti, y pronto tendré otro grupo de gente a quien
                     temer.</p>
 
@@ -945,7 +991,7 @@
 
                 <p>—¿Como a ti, <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-?</p>
+                    ?</p>
 
                 <p>—Usted no me disgusta, señorita; creo que le tengo más cariño
                     que a todos los demás.</p>
@@ -957,8 +1003,9 @@
 
                 <p>—Pues que pronto estaré lejos de ti, y además... —iba a decir algo
                     sobre lo que había pasado entre la <span class="anotacion"
-                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora Reed</span>
- y yo, pero
+                        data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
+                        Reed</span>
+                    y yo, pero
                     pensándolo mejor, consideré que era preferible guardar silencio
                     sobre ese asunto.</p>
 
@@ -966,7 +1013,7 @@
 
                 <p>—En absoluto, <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-; de hecho, ahora mismo me da bastante
+                    ; de hecho, ahora mismo me da bastante
                     pena.</p>
 
                 <p>—¡Ahora mismo! ¡Y bastante! ¡Con qué frialdad lo dice mi
@@ -977,11 +1024,11 @@
 
                 <p><span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- se agachó; nos abrazamos mutuamente y la seguí a la casa
+                    se agachó; nos abrazamos mutuamente y la seguí a la casa
                     bastante reconfortada. Aquella tarde transcurrió en paz y armonía; y
                     por la noche, <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- me contó algunas de sus historias más
+                    me contó algunas de sus historias más
                     encantadoras y me cantó algunas de sus canciones más dulces.
                     Incluso para mí, la vida tenía sus destellos de sol.</p>
 

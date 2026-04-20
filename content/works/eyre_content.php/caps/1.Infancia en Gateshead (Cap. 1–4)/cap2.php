@@ -121,12 +121,15 @@
 
                 <p>—Si no se está quieta, habrá que atarla —dijo <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-—. Señorita
+                    —. Señorita
                     Abbot, présteme sus ligas; las mías las rompería de inmediato.</p>
 
                 <p>La señorita Abbot se dispuso a despojar una robusta pierna de la
                     necesaria ligadura. Esta preparación para las ataduras, y la
-                    ignominia adicional que implicaba, aplacó un poco mi agitación.</p>
+                    <span class="anotacion" data-nota="Afrenta pública.">ignominia
+                    </span>
+                    adicional que implicaba, aplacó un poco mi agitación.
+                </p>
 
                 <p>—No se las quite —grité—; no me moveré.</p>
 
@@ -134,14 +137,14 @@
 
                 <p>—A ver si es verdad —dijo <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-; y cuando se hubo cerciorado de
+                    ; y cuando se hubo cerciorado de
                     que realmente me estaba calmando, me soltó. Entonces ella y la
                     señorita Abbot se quedaron de brazos cruzados, mirándome el rostro
                     con aire sombrío y dubitativo, como incrédulas de mi cordura.</p>
 
                 <p>—Nunca había hecho algo así —dijo finalmente <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-,
+                    ,
                     volviéndose hacia la doncella.</p>
 
                 <p>—Pero siempre lo ha llevado dentro —fue la respuesta—. Le he
@@ -151,7 +154,7 @@
 
                 <p><span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- no respondió; pero al poco rato, dirigiéndose a mí, dijo:</p>
+                    no respondió; pero al poco rato, dirigiéndose a mí, dijo:</p>
 
                 <p>—Debería ser consciente, señorita, de que tiene obligaciones con
                     la <span class="anotacion"
@@ -173,7 +176,7 @@
 
                 <p>—Lo que le decimos es por su bien —añadió <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-, con voz nada
+                    , con voz nada
                     áspera—, debería tratar de ser útil y agradable, entonces, quizás,
                     tendría un hogar aquí; pero si se vuelve apasionada y grosera, la
                     señora la echará, estoy segura.</p>
@@ -182,7 +185,7 @@
                     fulminarla en medio de sus rabietas, y entonces, ¿adónde iría?
                     Venga, <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-, dejémosla. No querría tener su corazón por nada del
+                    , dejémosla. No querría tener su corazón por nada del
                     mundo. Rece sus oraciones, señorita Eyre, cuando esté a solas;
                     porque si no se arrepiente, podría permitirse que algo malo bajara
                     por la chimenea y se la llevara.</p>
@@ -236,7 +239,7 @@
 
                 <p>Mi asiento, al que <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- y la agria señorita Abbot me habían
+                    y la agria señorita Abbot me habían
                     dejado remachada, era un puf bajo cerca de la chimenea de
                     mármol; la cama se alzaba ante mí; a mi derecha estaba el armario
                     alto y oscuro, con reflejos tenues y quebrados que variaban el brillo
@@ -257,7 +260,7 @@
                     pareció uno de esos diminutos fantasmas, mitad hada, mitad
                     duende, que los cuentos vespertinos de <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- representaban
+                    representaban
                     saliendo de solitarias cañadas cubiertas de helechos en los páramos
                     y apareciéndose ante los ojos de los viajeros rezagados. Volví a mi
                     taburete.</p>
@@ -269,8 +272,9 @@
                     retrospectivos antes de acobardarme ante el lúgubre presente.</p>
 
                 <p>Todas las violentas tiranías de <span class="anotacion"
-                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John Reed</span>
-, toda la orgullosa
+                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John
+                        Reed</span>
+                    , toda la orgullosa
                     indiferencia de sus hermanas, toda la aversión de su madre, toda la
                     parcialidad de los criados, afloraron en mi mente perturbada como
                     un oscuro sedimento en un pozo turbio. ¿Por qué sufría yo siempre,
@@ -278,16 +282,16 @@
                     qué nunca podía complacer? ¿Por qué era inútil intentar ganarme el
                     favor de nadie? <span class="anotacion"
                         data-nota="Una niña egoísta, meticulosa y fría que prefiere el orden y el dinero antes que los sentimientos.">Eliza</span>
-, que era testaruda y egoísta, era respetada.
+                    , que era testaruda y egoísta, era respetada.
                     <span class="anotacion"
                         data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana</span>
-, que tenía un carácter mimado, un rencor muy agrio, un
+                    , que tenía un carácter mimado, un rencor muy agrio, un
                     porte capcioso e insolente, era universalmente consentida. Su
                     belleza, sus mejillas sonrosadas y sus rizos dorados parecían deleitar
                     a todos los que la miraban y comprar la indulgencia para cada falta.
                     A <span class="anotacion"
                         data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John</span>
- nadie le contrariaba, y mucho menos le castigaba; aunque
+                    nadie le contrariaba, y mucho menos le castigaba; aunque
                     retorcía el pescuezo de las palomas, mataba a los pavitos, azuzaba a
                     los perros contra las ovejas, despojaba de sus frutos las vides del
                     invernadero y arrancaba los capullos de las plantas más selectas del
@@ -298,14 +302,18 @@
                     Yo no osaba cometer ninguna falta; me esforzaba por cumplir con
                     todos mis deberes; y era tildada de traviesa y fastidiosa, de huraña y
                     taimada, desde la mañana hasta el mediodía, y desde el mediodía
-                    hasta la noche.</p>
+                    hasta la noche.
+                </p>
 
                 <p>Aún me dolía y sangraba la cabeza por el golpe y la caída que
                     había recibido; nadie había reprendido a <span class="anotacion"
                         data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John</span>
- por golpearme
+                    por golpearme
                     gratuitamente; y porque me había vuelto contra él para evitar una
-                    mayor violencia irracional, se me cargaba con el oprobio general.</p>
+                    mayor violencia irracional, se me cargaba con el <span class="anotacion"
+                        data-nota="Afrenta pública.">oprobio
+                    </span>
+                    general.</p>
 
                 <p>«¡Injusto! ¡Injusto!», decía mi razón, forzada por el angustioso
                     estímulo a un poder precoz aunque transitorio. Y la Determinación,
@@ -415,11 +423,11 @@
                     un esfuerzo desesperado. Unos pasos llegaron corriendo por el
                     pasillo exterior; la llave giró, <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- y Abbot entraron.</p>
+                    y Abbot entraron.</p>
 
                 <p>—Señorita Eyre, ¿se encuentra mal? —dijo <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-.</p>
+                    .</p>
 
                 <p>—¡Qué ruido tan espantoso! ¡Me ha traspasado! —exclamó Abbot.</p>
 
@@ -429,12 +437,12 @@
                 <p>—¿Por qué? ¿Se ha hecho daño? ¿Ha visto algo? —volvió a
                     preguntar <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-.</p>
+                    .</p>
 
                 <p>—¡Oh! Vi una luz, y pensé que iba a aparecer un fantasma. —Para
                     entonces me había agarrado a la mano de <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-, y ella no me la
+                    , y ella no me la
                     apartó.</p>
 
                 <p>—Ha gritado a propósito —declaró Abbot, con cierto disgusto—. ¡Y
@@ -448,7 +456,7 @@
                     apareció por el pasillo, con la cofia al vuelo y el vestido
                     susurrando tempestuosamente—. Abbot y <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-, creo que di
+                    , creo que di
                     órdenes de que <span class="anotacion"
                         data-nota="Es una niña apasionada, sensible y de espíritu indómito que, bajo el maltrato, despierta una conciencia aguda sobre la injusticia y una furia interna contra la opresión">Jane
                         Eyre</span>
@@ -461,16 +469,17 @@
                         data-nota="Es una niña apasionada, sensible y de espíritu indómito que, bajo el maltrato, despierta una conciencia aguda sobre la injusticia y una furia interna contra la opresión">Jane</span>
                     gritó muy fuerte, señora —suplicó <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-.</p>
+                    .</p>
 
                 <p>—Dejadla marchar —fue la única respuesta—. Suelta la mano de
                     <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-, niña; no conseguirás salir por estos medios, tenlo por
+                    , niña; no conseguirás salir por estos medios, tenlo por
                     seguro. Aborrezco la artimaña, sobre todo en los niños; es mi deber
                     mostrarte que los trucos no funcionan. Te quedarás aquí una hora
                     más, y solo con la condición de perfecta sumisión y quietud te
-                    liberaré entonces.</p>
+                    liberaré entonces.
+                </p>
 
                 <p>—¡Oh, tía! ¡Tenga piedad! ¡Perdóneme! No puedo soportarlo, ¡que
                     se me castigue de otra manera! Moriré si...</p>
@@ -482,7 +491,7 @@
 
                 <p>Habiéndose retirado <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- y Abbot, la <span class="anotacion"
+                    y Abbot, la <span class="anotacion"
                         data-nota="La tía política de Jane, una mujer fría y resentida que cumple estrictamente con las convenciones sociales mientras ejerce una tiranía emocional sobre su sobrina.">señora
                         Reed</span>
                     , impaciente

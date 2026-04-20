@@ -92,6 +92,9 @@
                 <section>
                     <p>En esta sección se encuentran todos los capítulos de <i>Jane Eyre</i>, navega por las etapas de
                         su vida para escoger uno.</p>
+                    <p>Si algún personaje, término, símbolo o lugar aparece subrayado, significa que puedes encontrar
+                        más información haciendo click
+                        en él.</p>
                 </section>
                 <section>
                     <h4>Infancia en Gateshead</h4>

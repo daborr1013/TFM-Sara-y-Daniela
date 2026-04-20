@@ -96,7 +96,9 @@
                     y un agudo viento del nordeste, que silbó toda la noche por las
                     rendijas de las ventanas de nuestro dormitorio, nos había hecho
                     tiritar en nuestras camas y había convertido el contenido de los
-                    aguamaniles en hielo.</p>
+                    aguamaniles en <span class="anotacion"
+                        data-nota="Simboliza la represión del espíritu y la dureza del sistema de Brocklehurst, que intenta 'congelar' la vitalidad de las niñas para hacerlas sumisas.">hielo</span>
+                    .</p>
 
                 <p>Antes de que terminara la larga hora y media de oraciones y
                     lectura de la Biblia, me sentía a punto de perecer de frío. Por fin
@@ -226,7 +228,10 @@
 
                 <p>—¿Cuál es tu nombre además de Burns?</p>
 
-                <p>—Helen.</p>
+                <p>—<span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    .</p>
 
                 <p>—¿Vienes de muy lejos?</p>
 
@@ -252,7 +257,9 @@
                     rompería delante de sus narices.</p>
 
                 <p>—Probablemente no harías nada de eso; pero si lo hicieras, el
-                    señor Brocklehurst te expulsaría de la escuela; eso sería un gran
+                    señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    te expulsaría de la escuela; eso sería un gran
                     disgusto para tus parientes. Es mucho mejor soportar pacientemente
                     un dolor que nadie siente más que tú misma, que cometer una
                     acción precipitada cuyas malas consecuencias se extenderán a todos
@@ -271,12 +278,17 @@
                 <p>La escuché con asombro; no podía comprender esta doctrina de la
                     resistencia; y menos aún podía entender o simpatizar con la
                     indulgencia que expresaba hacia quien la castigaba. Aun así, sentí
-                    que Helen Burns consideraba las cosas bajo una luz invisible para
+                    que <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                        Burns</span>
+                    consideraba las cosas bajo una luz invisible para
                     mis ojos. Sospeché que ella podría tener razón y yo estar
                     equivocada; pero no quise reflexionar profundamente sobre el
                     asunto; como Félix, lo pospuse para un momento más oportuno.</p>
 
-                <p>—Dices que tienes faltas, Helen. ¿Cuáles son? A mí me pareces
+                <p>—Dices que tienes faltas, <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen</span>
+                    . ¿Cuáles son? A mí me pareces
                     muy buena.</p>
 
                 <p>—Entonces aprende de mí a no juzgar por las apariencias. Soy,
@@ -287,16 +299,31 @@
                     sistemáticos. Todo esto es muy irritante para la señorita Scatcherd,
                     que es naturalmente ordenada, puntual y meticulosa.</p>
 
-                <p>—Y antipática y cruel —añadí; pero Helen Burns no admitió mi
+                <p>—Y antipática y cruel —añadí; pero <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                        Burns</span>
+                    no admitió mi
                     adición; guardó silencio.</p>
 
-                <p>—¿Es la señorita Temple tan severa contigo como la señorita
+                <p>—¿Es la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    tan severa contigo como la señorita
                     Scatcherd?</p>
 
-                <p>Al pronunciar el nombre de la señorita Temple, una suave sonrisa
+                <p>Al pronunciar el nombre de la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    , una suave sonrisa
                     revoloteó por su grave rostro.</p>
 
-                <p>—La señorita Temple está llena de bondad; le duele ser severa
+                <p>—La <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    está llena de bondad; le duele ser severa
                     con cualquiera, incluso con la peor de la escuela. Ve mis errores y
                     me los dice con delicadeza; y, si hago algo digno de elogio, me da
                     mi recompensa generosamente. Una fuerte prueba de mi naturaleza
@@ -334,20 +361,35 @@
                     sus enemigos fueron los peores; derramaron sangre que no tenían
                     derecho a derramar. ¡Cómo se atrevieron a matarlo!</p>
 
-                <p>Helen hablaba ahora consigo misma; había olvidado que yo no
+                <p><span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    hablaba ahora consigo misma; había olvidado que yo no
                     podía entenderla muy bien, que era ignorante, o casi, del tema que
                     discutía. La traje de vuelta a mi nivel.</p>
 
-                <p>—Y cuando la señorita Temple te enseña, ¿tus pensamientos
+                <p>—Y cuando la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    te enseña, ¿tus pensamientos
                     divagan entonces?</p>
 
-                <p>—No, ciertamente, no a menudo; porque la señorita Temple
+                <p>—No, ciertamente, no a menudo; porque la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+
                     generalmente tiene algo que decir que es más nuevo que mis
                     propias reflexiones; su lenguaje me resulta singularmente agradable,
                     y la información que comunica es a menudo justo lo que deseaba
                     obtener.</p>
 
-                <p>—Bueno, entonces, ¿con la señorita Temple eres buena?</p>
+                <p>—Bueno, entonces, ¿con la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    eres buena?</p>
 
                 <p>—Sí, de manera pasiva. No hago ningún esfuerzo; sigo a donde
                     me guía la inclinación. No hay mérito en tal bondad.</p>
@@ -364,7 +406,10 @@
                 <p>—Cambiarás de opinión, espero, cuando seas mayor. Por ahora no
                     eres más que una niña pequeña sin instrucción.</p>
 
-                <p>—Pero siento esto, Helen; debo detestar a quienes, haga lo que
+                <p>—Pero siento esto, <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    ; debo detestar a quienes, haga lo que
                     haga para complacerles, persisten en detestarme; debo resistir a
                     quienes me castigan injustamente. Es tan natural como que ame a
                     quienes me muestran afecto, o me someta al castigo cuando siento
@@ -391,12 +436,19 @@
                 <p>—Entonces debería amar a la señora Reed, cosa que no puedo
                     hacer; debería bendecir a su hijo John, lo cual es imposible.</p>
 
-                <p>A su vez, Helen Burns me pidió que me explicara, y procedí
+                <p>A su vez, <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                        Burns
+                    </span>
+                    me pidió que me explicara, y procedí
                     inmediatamente a verter, a mi manera, el relato de mis sufrimientos
                     y resentimientos. Amarga y mordaz cuando me excitaba, hablé como
                     sentía, sin reservas ni atenuantes.</p>
 
-                <p>Helen me escuchó pacientemente hasta el final. Esperaba que
+                <p><span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    me escuchó pacientemente hasta el final. Esperaba que
                     entonces hiciera algún comentario, pero no dijo nada.</p>
 
                 <p>—Bueno —pregunté con impaciencia—, ¿no es la señora Reed una
@@ -432,18 +484,28 @@
                     demasiado profundamente, la injusticia nunca me aplasta demasiado
                     bajo. Vivo en calma, mirando hacia el final.</p>
 
-                <p>La cabeza de Helen, siempre inclinada, se hundió un poco más al
+                <p>La cabeza de <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    , siempre inclinada, se hundió un poco más al
                     terminar esta frase. Vi por su mirada que ya no deseaba hablar
                     conmigo, sino más bien conversar con sus propios pensamientos. No
                     se le concedió mucho tiempo para la meditación: una monitora, una
                     chica alta y ruda, se acercó al momento, exclamando con un fuerte
                     acento de Cumberland:</p>
 
-                <p>—¡Helen Burns, si no vas a poner en orden tu cajón y a doblar tu
+                <p>—¡<span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                        Burns
+                    </span>
+                    , si no vas a poner en orden tu cajón y a doblar tu
                     labor en este mismo instante, le diré a la señorita Scatcherd que
                     venga a verlo!</p>
 
-                <p>Helen suspiró mientras su ensoñación se desvanecía y,
+                <p><span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                    </span>
+                    suspiró mientras su ensoñación se desvanecía y,
                     levantándose, obedeció a la monitora sin responder y sin demora.</p>
 
                 <div class="botonesFinales">

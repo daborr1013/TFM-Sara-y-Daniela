@@ -136,7 +136,7 @@
                     </tr>
 
                     <tr>
-                        <td><a class="boton" href="personajes/gateshead/georginaReed.php">Georgina Reed</a></td>
+                        <td><a class="boton" href="personajes/gateshead/georginaReed.php">Georgiana Reed</a></td>
                         <td></td>
                         <td><a class="boton" href="personajes/thornfield/ingram.php">Blanche Ingram</a></td>
                         <td></td>

@@ -132,13 +132,20 @@
                     soplaba sobre una cadena de cumbres nevadas al norte, casi nos
                     arrancaba la piel de la cara.</p>
 
-                <p>Recuerdo a la señorita Temple caminando ligera y rápidamente a
+                <p>Recuerdo a la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    caminando ligera y rápidamente a
                     lo largo de nuestra abatida fila, con su capa de tartán, que el viento
-                    helado agitaba, ceñida a su cuerpo, y animándonos, con el precepto
+                    <span class="anotacion"
+                        data-nota="Simboliza la represión del espíritu y la dureza del sistema de Brocklehurst, que intenta 'congelar' la vitalidad de las niñas para hacerlas sumisas.">helado</span>
+                    agitaba, ceñida a su cuerpo, y animándonos, con el precepto
                     y el ejemplo, a mantener el ánimo y a marchar hacia adelante, como
                     ella decía, «como soldados valientes». Las otras maestras,
                     pobrecillas, generalmente estaban ellas mismas demasiado abatidas
-                    para intentar la tarea de animar a las demás.</p>
+                    para intentar la tarea de animar a las demás.
+                </p>
 
                 <p>¡Cómo anhelábamos la luz y el calor de un fuego crepitante
                     cuando volvíamos! Pero, al menos para las pequeñas, esto se nos
@@ -168,7 +175,9 @@
                     desplomaban juntas en un montón; entonces se las apuntalaba con
                     los altos taburetes de las monitoras.</p>
 
-                <p>Todavía no he aludido a las visitas del señor Brocklehurst; y, de
+                <p>Todavía no he aludido a las visitas del señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    ; y, de
                     hecho, ese caballero estuvo fuera de casa durante la mayor parte del
                     primer mes después de mi llegada; quizás prolongando su estancia
                     con su amigo el arcediano. Su ausencia fue un alivio para mí. No
@@ -183,25 +192,40 @@
                     demacrada; y cuando, dos minutos después, toda la escuela,
                     maestras incluidas, se levantó en masse, no fue necesario que yo
                     mirara hacia arriba para averiguar a quién saludaban con su entrada.
-                    Una larga zancada midió el aula, y al instante, junto a la señorita
-                    Temple, que también se había levantado, se erguía la misma
+                    Una larga zancada midió el aula, y al instante, junto a la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    , que también se había levantado, se erguía la misma
                     columna negra que me había mirado con tanto ceño ominoso desde
                     la alfombra de Gateshead. Ahora miré de reojo a esta pieza de
-                    arquitectura. Sí, tenía razón: era el señor Brocklehurst, abotonado
+                    arquitectura. Sí, tenía razón: era el señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    , abotonado
                     en un sobretodo, y pareciendo más largo, más estrecho y más rígido
                     que nunca.</p>
 
                 <p>Tenía mis propias razones para estar consternada por esta
                     aparición; recordaba demasiado bien las pérfidas insinuaciones de la
                     señora Reed sobre mi disposición, etc.; la promesa hecha por el
-                    señor Brocklehurst de informar a la señorita Temple y a las maestras
+                    señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    de informar a la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    y a las maestras
                     de mi naturaleza viciosa. Todo el tiempo había estado temiendo el
                     cumplimiento de esta promesa, había estado esperando diariamente
                     la llegada del «Hombre», cuya información sobre mi vida pasada y
                     mi conducta me marcaría como una niña mala para siempre. Ahora,
                     allí estaba él.</p>
 
-                <p>Estaba de pie al lado de la señorita Temple; le hablaba en voz baja
+                <p>Estaba de pie al lado de la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    ; le hablaba en voz baja
                     al oído. No dudé de que estaba revelando mi villanía, y observé sus
                     ojos con dolorosa ansiedad, esperando a cada momento ver su
                     oscuro orbe volverse hacia mí con una mirada de repugnancia y
@@ -209,7 +233,11 @@
                     justo en la parte delantera de la sala, capté la mayor parte de lo que
                     dijo. Su contenido me alivió de la aprensión inmediata.</p>
 
-                <p>—Supongo, señorita Temple, que el hilo que compré en Lowton
+                <p>—Supongo, <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    , que el hilo que compré en Lowton
                     servirá; me pareció que sería de la calidad justa para las camisas de
                     calicó, y he seleccionado las agujas a juego. Puede decirle a la
                     señorita Smith que olvidé tomar nota de las agujas de zurcir, pero
@@ -224,7 +252,11 @@
 
                 <p>Hizo una pausa.</p>
 
-                <p>—Se atenderán sus indicaciones, señor —dijo la señorita Temple.</p>
+                <p>—Se atenderán sus indicaciones, señor —dijo la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    .</p>
 
                 <p>—Y, señora —continuó—, la lavandera me dice que algunas de las
                     niñas tienen dos pecheras limpias a la semana. Es demasiado; las
@@ -235,7 +267,9 @@
                     en Lowton el jueves pasado, y les di permiso para ponerse pecheras
                     limpias para la ocasión.</p>
 
-                <p>El señor Brocklehurst asintió.</p>
+                <p>El señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    asintió.</p>
 
                 <p>—Bueno, por una vez puede pasar; pero por favor, que la
                     circunstancia no ocurra con demasiada frecuencia. Y hay otra cosa
@@ -247,9 +281,14 @@
                     autoridad?</p>
 
                 <p>—Debo responsabilizarme de la circunstancia, señor —replicó la
-                    señorita Temple—. El desayuno estaba tan mal preparado que las
+                    <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    —. El desayuno estaba tan mal preparado que las
                     alumnas no pudieron comerlo de ninguna manera; y no me atreví a
-                    permitir que permanecieran en ayunas hasta la hora de la cena.</p>
+                    permitir que permanecieran en ayunas hasta la hora de la cena.
+                </p>
 
                 <p>—Señora, permítame un instante. Es usted consciente de que mi
                     plan al educar a estas niñas no es acostumbrarlas a hábitos de lujo e
@@ -273,8 +312,14 @@
                     estas niñas, podéis ciertamente alimentar sus viles cuerpos, pero
                     poco pensáis en cómo matáis de hambre sus almas inmortales!</p>
 
-                <p>El señor Brocklehurst volvió a hacer una pausa, quizás abrumado
-                    por sus sentimientos. La señorita Temple había bajado la vista
+                <p>El señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    volvió a hacer una pausa, quizás abrumado
+                    por sus sentimientos. La <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    había bajado la vista
                     cuando él comenzó a hablarle; pero ahora miraba fijamente al
                     frente, y su rostro, naturalmente pálido como el mármol, parecía
                     estar asumiendo también la frialdad y la fijeza de ese material;
@@ -282,18 +327,32 @@
                     de un escultor para abrirla, y su frente se endureció gradualmente
                     en una severidad petrificada.</p>
 
-                <p>Mientras tanto, el señor Brocklehurst, de pie en el hogar con las
+                <p>Mientras tanto, el señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    , de pie en el hogar con las
                     manos a la espalda, inspeccionaba majestuosamente toda la
                     escuela. De repente, su ojo parpadeó, como si se hubiera topado
                     con algo que deslumbrara o sorprendiera a su pupila; volviéndose,
                     dijo con acentos más rápidos de los que había usado hasta ahora:</p>
 
-                <p>—¡Señorita Temple, señorita Temple, qué... qué es esa niña con el
+                <p>—¡<span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">Señorita
+                        Temple
+                    </span>
+                    , <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    e, qué... qué es esa niña con el
                     pelo rizado? Pelo rojo, señora, rizado, ¡rizado por todas partes! —Y
                     extendiendo su bastón, señaló el terrible objeto, temblándole la
                     mano al hacerlo.</p>
 
-                <p>—Es Julia Severn —replicó la señorita Temple, muy
+                <p>—Es Julia Severn —replicó la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    , muy
                     tranquilamente.</p>
 
                 <p>—¡Julia Severn, señora! ¿Y por qué tiene ella, o cualquier otra, el
@@ -302,24 +361,38 @@
                     establecimiento evangélico y de caridad— como para llevar el pelo
                     en una masa de rizos?</p>
 
-                <p>—El pelo de Julia es rizado por naturaleza —respondió la señorita
-                    Temple, aún más tranquilamente.</p>
+                <p>—El pelo de Julia es rizado por naturaleza —respondió la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    , aún más tranquilamente.</p>
 
                 <p>—¡Por naturaleza! Sí, pero no debemos conformarnos a la
                     naturaleza. Deseo que estas niñas sean hijas de la Gracia. ¿Y por
                     qué esa abundancia? He insinuado una y otra vez que deseo que el
                     cabello se arregle pegado a la cabeza, con modestia, con sencillez.
-                    Señorita Temple, el pelo de esa niña debe ser cortado por completo;
+                    <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">Señorita
+                        Temple
+                    </span>
+                    , el pelo de esa niña debe ser cortado por completo;
                     enviaré un barbero mañana. Y veo a otras que tienen demasiada de
                     esa excrecencia; esa chica alta, dígale que se dé la vuelta. Diga a
-                    toda la primera clase que se levante y ponga la cara contra la pared.</p>
+                    toda la primera clase que se levante y ponga la cara contra la pared.
+                </p>
 
-                <p>La señorita Temple se pasó el pañuelo por los labios, como para
+                <p>La <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    se pasó el pañuelo por los labios, como para
                     borrar la sonrisa involuntaria que los curvaba; dio la orden, sin
                     embargo, y cuando la primera clase pudo comprender lo que se les
                     exigía, obedecieron. Inclinándome un poco hacia atrás en mi banco,
                     pude ver las miradas y muecas con las que comentaban esta
-                    maniobra. Era una lástima que el señor Brocklehurst no pudiera
+                    maniobra. Era una lástima que el señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    no pudiera
                     verlas también; quizás habría sentido que, hiciera lo que hiciera con
                     el exterior de la copa y el plato, el interior estaba más allá de su
                     interferencia de lo que imaginaba.</p>
@@ -330,7 +403,11 @@
 
                 <p>—Todos esos moños deben ser cortados.</p>
 
-                <p>La señorita Temple pareció protestar.</p>
+                <p>La <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    pareció protestar.</p>
 
                 <p>—Señora —prosiguió él—, tengo un Amo que servir cuyo reino no
                     es de este mundo. Mi misión es mortificar en estas niñas las
@@ -340,7 +417,9 @@
                     retorcido en trenzas que la propia vanidad podría haber tejido.
                     Estos, repito, deben ser cortados. Piense en el tiempo perdido, en...</p>
 
-                <p>El señor Brocklehurst fue interrumpido aquí: otras tres visitantes,
+                <p>El señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    fue interrumpido aquí: otras tres visitantes,
                     damas, entraron en la sala. Deberían haber llegado un poco antes
                     para haber oído su sermón sobre el vestir, pues estaban
                     espléndidamente ataviadas de terciopelo, seda y pieles. Las dos más
@@ -352,8 +431,11 @@
                     costoso chal de terciopelo, adornado con armiño, y llevaba un
                     postizo de rizos franceses.</p>
 
-                <p>Estas damas fueron recibidas con deferencia por la señorita
-                    Temple, como la señora y las señoritas Brocklehurst, y conducidas a
+                <p>Estas damas fueron recibidas con deferencia por la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    , como la señora y las señoritas Brocklehurst, y conducidas a
                     asientos de honor en la cabecera de la sala. Parece que habían
                     venido en el carruaje con su reverendo pariente y habían estado
                     llevando a cabo un minucioso escrutinio de la habitación de arriba,
@@ -364,8 +446,14 @@
                     dormitorios; pero no tuve tiempo de escuchar lo que decían; otros
                     asuntos desviaron y encantaron mi atención.</p>
 
-                <p>Hasta ahora, mientras recogía el discurso del señor Brocklehurst y
-                    la señorita Temple, no había, al mismo tiempo, descuidado las
+                <p>Hasta ahora, mientras recogía el discurso del señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    y
+                    la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    , no había, al mismo tiempo, descuidado las
                     precauciones para asegurar mi seguridad personal, que pensé que
                     se lograría si tan solo podía eludir la observación. Con este fin, me
                     había sentado bien atrás en el banco y, mientras parecía estar
@@ -385,33 +473,55 @@
                 <p>Por mi propia voluntad no podría haberme movido; estaba
                     paralizada. Pero las dos chicas mayores que se sentaban a cada lado
                     de mí, me pusieron de pie y me empujaron hacia el temible juez, y
-                    entonces la señorita Temple me ayudó suavemente a llegar hasta
+                    entonces la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    me ayudó suavemente a llegar hasta
                     sus mismos pies, y capté su consejo susurrado:</p>
 
-                <p>—No tengas miedo, Jane, vi que fue un accidente; no serás
+                <p>—No tengas miedo, <span class="anotacion"
+                        data-nota="Es una joven en formación que aprende a canalizar su furia interna hacia la disciplina y el intelecto, transformando su rebeldía en una resiliencia digna y silenciosa.">Jane</span>
+                    , vi que fue un accidente; no serás
                     castigada.</p>
 
                 <p>El amable susurro se clavó en mi corazón como una daga.</p>
 
                 <p>«Un minuto más, y me despreciará por hipócrita», pensé; y un
-                    impulso de furia contra Reed, Brocklehurst y Compañía saltó en mis
-                    venas ante la convicción. Yo no era Helen Burns.</p>
+                    impulso de furia contra Reed, <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    y Compañía saltó en mis
+                    venas ante la convicción. Yo no era <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                        Burns
+                    </span>
+                    .</p>
 
-                <p>—Traed ese taburete —dijo el señor Brocklehurst, señalando uno
+                <p>—Traed ese taburete —dijo el señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    , señalando uno
                     muy alto del que una monitora acababa de levantarse. Lo trajeron.</p>
 
                 <p>—Colocad a la niña sobre él.</p>
 
                 <p>Y me colocaron allí, no sé por quién. No estaba en condiciones de
                     notar detalles; solo era consciente de que me habían izado a la
-                    altura de la nariz del señor Brocklehurst, que él estaba a menos de
+                    altura de la nariz del señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    , que él estaba a menos de
                     una yarda de mí, y que una extensión de pellizas de seda naranja y
                     púrpura moteada y una nube de plumaje plateado se extendían y
                     ondeaban debajo de mí.</p>
 
-                <p>El señor Brocklehurst carraspeó.</p>
+                <p>El señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    carraspeó.</p>
 
-                <p>—Señoras —dijo, volviéndose hacia su familia—, señorita Temple,
+                <p>—Señoras —dijo, volviéndose hacia su familia—, <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    ,
                     maestras y niñas, ¿veis todas a esta chica?</p>
 
                 <p>Por supuesto que la veían, pues sentía sus ojos dirigidos como
@@ -450,7 +560,9 @@
                     ojos, mientras la dama mayor se mecía de un lado a otro y las dos
                     más jóvenes susurraban: «¡Qué espanto!».</p>
 
-                <p>El señor Brocklehurst reanudó.</p>
+                <p>El señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    reanudó.</p>
 
                 <p>—Esto lo supe por su benefactora; por la piadosa y caritativa
                     dama que la adoptó en su estado de orfandad, la crió como a su
@@ -463,9 +575,15 @@
                     maestras, superintendente, os ruego que no permitáis que las aguas
                     se estanquen a su alrededor.</p>
 
-                <p>Con esta sublime conclusión, el señor Brocklehurst se ajustó el
+                <p>Con esta sublime conclusión, el señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    se ajustó el
                     botón superior de su sobretodo, murmuró algo a su familia, que se
-                    levantó, hizo una reverencia a la señorita Temple, y luego toda la
+                    levantó, hizo una reverencia a la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    , y luego toda la
                     gente importante salió majestuosamente de la sala. Volviéndose en
                     la puerta, mi juez dijo:</p>
 
@@ -483,13 +601,21 @@
                     nuevo sentimiento! Era como si un mártir, un héroe, hubiera pasado
                     junto a un esclavo o una víctima, e impartido fuerza en el tránsito.
                     Dominé la histeria naciente, levanté la cabeza y me planté con
-                    firmeza en el taburete. Helen Burns hizo alguna pregunta trivial
+                    firmeza en el taburete. <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                        Burns
+                    </span>
+                    hizo alguna pregunta trivial
                     sobre su labor a la señorita Smith, fue reprendida por la trivialidad
                     de la pregunta, regresó a su sitio y me sonrió al pasar de nuevo.
                     ¡Qué sonrisa! La recuerdo ahora, y sé que era la emanación de un
                     intelecto refinado, de un verdadero coraje; iluminó sus marcados
                     rasgos, su rostro delgado, su ojo gris hundido, como un reflejo del
-                    aspecto de un ángel. Sin embargo, en ese momento Helen Burns
+                    aspecto de un ángel. Sin embargo, en ese momento <span class="anotacion"
+                        data-nota="La mejor amiga de Jane y su guía espiritual; encarna el estoicismo y el perdón cristiano extremo, enseñándole a Jane que hay una paz interior que ningún castigo terrenal puede arrebatar.">Helen
+                        Burns
+                    </span>
+
                     llevaba en su brazo la «insignia de desaliñada»; apenas una hora
                     antes la había oído condenada por la señorita Scatcherd a una cena
                     de pan y agua al día siguiente porque había manchado un ejercicio

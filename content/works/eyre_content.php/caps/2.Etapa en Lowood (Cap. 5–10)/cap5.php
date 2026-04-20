@@ -119,12 +119,16 @@
                 <p>—Nada. Me cubrí la cara con las sábanas y me volví hacia la
                     pared.</p>
 
-                <p>—Eso estuvo mal, señorita Jane.</p>
+                <p>—Eso estuvo mal, señorita <span class="anotacion"
+                        data-nota="Es una joven en formación que aprende a canalizar su furia interna hacia la disciplina y el intelecto, transformando su rebeldía en una resiliencia digna y silenciosa.">Jane</span>
+                    .</p>
 
                 <p>—Estuvo muy bien, Bessie. Su señora no ha sido mi amiga, ha
                     sido mi enemiga.</p>
 
-                <p>—¡Oh, señorita Jane! ¡No diga eso!</p>
+                <p>—¡Oh, señorita <span class="anotacion"
+                        data-nota="Es una joven en formación que aprende a canalizar su furia interna hacia la disciplina y el intelecto, transformando su rebeldía en una resiliencia digna y silenciosa.">Jane</span>
+                    ! ¡No diga eso!</p>
 
                 <p>—¡Adiós a Gateshead! —grité, mientras cruzábamos el vestíbulo y
                     salíamos por la puerta principal.</p>
@@ -197,7 +201,10 @@
                     persona con aspecto de criada estaba de pie junto a ella. Vi su
                     rostro y su vestido a la luz de los faroles.</p>
 
-                <p>—¿Hay aquí una niña llamada Jane Eyre? —preguntó.</p>
+                <p>—¿Hay aquí una niña llamada <span class="anotacion"
+                        data-nota="Es una joven en formación que aprende a canalizar su furia interna hacia la disciplina y el intelecto, transformando su rebeldía en una resiliencia digna y silenciosa.">Jane
+                        Eyre</span>
+                    ? —preguntó.</p>
 
                 <p>Respondí «Sí», y entonces me bajaron. Descargaron mi baúl y la
                     diligencia se marchó al instante.</p>
@@ -390,7 +397,9 @@
                     denostaron sin miramientos. ¡Pobres! Era el único consuelo que
                     tenían. La señorita Miller era ahora la única maestra en la sala; un
                     grupo de chicas mayores de pie a su alrededor hablaba con gestos
-                    serios y hoscos. Oí el nombre del señor Brocklehurst pronunciado
+                    serios y hoscos. Oí el nombre del señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    pronunciado
                     por algunos labios, a lo que la señorita Miller meneó la cabeza con
                     desaprobación; pero no hizo un gran esfuerzo por frenar la ira
                     general; sin duda, la compartía.</p>
@@ -454,7 +463,15 @@
                     cinturón. Añada el lector, para completar el cuadro, rasgos refinados;
                     una tez, si bien pálida, clara; y un aire y porte majestuosos, y
                     tendrá, al menos, tan claramente como las palabras pueden darlo,
-                    una idea correcta del exterior de la señorita Temple —Maria Temple,
+                    una idea correcta del exterior de la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    —<span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">Maria
+                        Temple
+                    </span>
+                    ,
                     como vi después el nombre escrito en un libro de oraciones que se
                     me confió para llevar a la iglesia.</p>
 
@@ -464,7 +481,11 @@
                     comenzó a dar una lección de geografía; las clases inferiores fueron
                     llamadas por las maestras. Las repeticiones de historia, gramática,
                     etc., continuaron durante una hora; siguieron la escritura y la
-                    aritmética, y la señorita Temple dio lecciones de música a algunas de
+                    aritmética, y la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    dio lecciones de música a algunas de
                     las chicas mayores. La duración de cada lección se medía por el
                     reloj, que finalmente dio las doce. La superintendente se levantó.</p>
 
@@ -610,9 +631,18 @@
                 <p>—Entonces, ¿esta casa no pertenece a esa dama alta que lleva un
                     reloj y que dijo que íbamos a tomar pan y queso?</p>
 
-                <p>—¿A la señorita Temple? ¡Oh, no! Ojalá fuera así. Ella tiene que
-                    responder ante el señor Brocklehurst por todo lo que hace. El señor
-                    Brocklehurst compra toda nuestra comida y toda nuestra ropa.</p>
+                <p>—¿A la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    ? ¡Oh, no! Ojalá fuera así. Ella tiene que
+                    responder ante el señor <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    por todo lo que hace. El señor
+                    <span class="anotacion"
+                        data-nota="El tesorero del orfanato; un hipócrita religioso que utiliza la privación y la humillación como herramientas de control, representando la cara más cruel de la caridad victoriana.">Brocklehurst</span>
+                    compra toda nuestra comida y toda nuestra ropa.
+                </p>
 
                 <p>—¿Vive él aquí?</p>
 
@@ -622,7 +652,11 @@
 
                 <p>—Es un clérigo, y se dice que hace mucho bien.</p>
 
-                <p>—¿Dijiste que esa dama alta se llamaba señorita Temple?</p>
+                <p>—¿Dijiste que esa dama alta se llamaba <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    ?</p>
 
                 <p>—Sí.</p>
 
@@ -646,9 +680,17 @@
                 <p>—La señorita Scatcherd es impulsiva, debes tener cuidado de no
                     ofenderla. Madame Pierrot no es una mala persona.</p>
 
-                <p>—Pero la señorita Temple es la mejor, ¿no es así?</p>
+                <p>—Pero la <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    es la mejor, ¿no es así?</p>
 
-                <p>—La señorita Temple es muy buena y muy inteligente; está por
+                <p>—La <span class="anotacion"
+                        data-nota="La superintendente de Lowood y modelo a seguir de Jane; representa la justicia, la sabiduría y la bondad, actuando como la madre intelectual que le proporciona a Jane las herramientas para ser una mujer independiente.">señorita
+                        Temple
+                    </span>
+                    es muy buena y muy inteligente; está por
                     encima de las demás, porque sabe mucho más que ellas.</p>
 
                 <p>—¿Llevas mucho tiempo aquí?</p>

@@ -2,7 +2,7 @@
 <html lang="es">
 
 <head>
-    <title>Georgina Reed</title>
+    <title>Georgiana Reed</title>
     <meta charset="utf-8">
     <meta name="description" content="Análisis de personajes">
     <meta name="keywords" content="HTML, CSS">
@@ -87,11 +87,12 @@
             </div>
 
             <section class="pjustificado">
-                <h1 class="h1personajes">Georgina Reed</h1>
+                <h1 class="h1personajes">Georgiana Reed</h1>
 
                 <img class="fpersonaje" src="../../../../../media/images/georgina.png">
 
-                <p>Georgina es la prima pequeña de Jane. Desde que nació se convirtió en la consentida de la casa debido
+                <p>Georgiana es la prima pequeña de Jane. Desde que nació se convirtió en la consentida de la casa
+                    debido
                     a que es muy guapa y delicada, lo que la convierte en una persona muy egoísta y mimada.</p>
 
                 <h3>Personalidad e impacto en la vida de Jane</h3>
@@ -100,13 +101,13 @@
                     proporcionan los bailes, los vestidos y los pretendientes. En definitiva, necesita ser el centro de
                     atención continuamente.</p>
 
-                <p>Georgina sirve para dar visibilidad a las injusticias a las que se enfrenta Jane. Mientras que la
+                <p>Georgiana sirve para dar visibilidad a las injusticias a las que se enfrenta Jane. Mientras que la
                     pequeña podía portarse fatal
                     por el simple hecho de ser guapa, a Jane la castigaban prácticamente por respirar. Por ello, ve en
                     ella que la belleza
                     física no garantiza ser buena persona ni una valía real.</p>
 
-                <p>Por otro lado, Georgina es la única de los tres hermanos que muestra algo de cariño hacia Jane,
+                <p>Por otro lado, Georgiana es la única de los tres hermanos que muestra algo de cariño hacia Jane,
                     aunque sea de forma
                     superficial. </p>
 
@@ -117,16 +118,16 @@
                 <h3>Importancia del personaje</h3>
                 <p>Las hermanas Reed son los dos lados de una moneda: una es lógica pura sin corazón (Eliza), la otra es
                     sentimiento
-                    puro sin cerebro (Georgina). Jane es el equilibro perfecto entre las dos.
+                    puro sin cerebro (Georgiana). Jane es el equilibro perfecto entre las dos.
                 </p>
 
-                <p>Impacta que ni ella ni su hermana sean capaces de sentir empatía por la muerte de su madre. Georgina
+                <p>Impacta que ni ella ni su hermana sean capaces de sentir empatía por la muerte de su madre. Georgiana
                     se pasa el día quejándose
                     de que se aburre esperando a que suceda el funeral. Por otro lado, su hermana se pasa el día rezando
                     para que su madre
                     muera rápido y así poder heredar.</p>
 
-                <p>Georgina acaba cumpliendo su sueño: se casa con un hombre rico de la alta sociedad. Este personaje
+                <p>Georgiana acaba cumpliendo su sueño: se casa con un hombre rico de la alta sociedad. Este personaje
                     muestra perfectamente la necesidad de su clase
                     social de mantener el estatus ante todo.</p>
 
