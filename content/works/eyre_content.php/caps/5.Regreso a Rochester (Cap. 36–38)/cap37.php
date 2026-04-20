@@ -89,13 +89,22 @@
             <section class="contenido">
                 <h1>Capítulo XXXVII</h1>
 
-                <p>La casa solariega de Ferndean era un edificio de considerable
+                <p>La casa solariega de <span class="anotacion"
+                        data-nota="Simboliza un amor despojado de estatus social. No es una mansión pretenciosa; es un refugio humilde. Su ubicación profunda en la naturaleza representa que la unión de Jane y Rochester ahora es pura, alejada de los juicios del mundo y de las leyes que antes los separaban.">Ferndean
+                    </span>
+                    era un edificio de considerable
                     antigüedad, tamaño moderado y sin pretensiones arquitectónicas,
                     profundamente enterrado en un bosque. Ya había oído hablar de él
-                    antes. El señor Rochester a menudo hablaba de él y a veces iba allí.
+                    antes. El señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    a menudo hablaba de él y a veces iba allí.
                     Su padre había comprado la finca por sus cotos de caza. Habría
                     alquilado la casa, pero no pudo encontrar inquilino, a consecuencia
-                    de su emplazamiento poco idóneo e insalubre. Ferndean, pues,
+                    de su emplazamiento poco idóneo e insalubre. <span class="anotacion"
+                        data-nota="Simboliza un amor despojado de estatus social. No es una mansión pretenciosa; es un refugio humilde. Su ubicación profunda en la naturaleza representa que la unión de Jane y Rochester ahora es pura, alejada de los juicios del mundo y de las leyes que antes los separaban.">Ferndean
+                    </span>
+                    , pues,
                     permaneció deshabitada y sin amueblar, a excepción de unas dos o
                     tres habitaciones acondicionadas para el alojamiento del señor
                     cuando iba allí en la temporada de caza.</p>
@@ -188,7 +197,10 @@
 
                 <p>—Déjame en paz —fue la respuesta.</p>
 
-                <p>John se retiró sin haberme observado. El señor Rochester intentó
+                <p>John se retiró sin haberme observado. El señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    intentó
                     ahora caminar: en vano, todo era demasiado incierto. Volvió a
                     tientas a la casa y, al volver a entrar, cerró la puerta.</p>
 
@@ -202,7 +214,10 @@
                     la seguí a la cocina, donde John estaba ahora sentado junto a un
                     buen fuego. Les expliqué, en pocas palabras, que había oído todo lo
                     que había sucedido desde que dejé Thornfield y que había venido a
-                    ver al señor Rochester. Le pedí a John que bajara a la casa del
+                    ver al señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    . Le pedí a John que bajara a la casa del
                     peaje, donde había despedido la calesa, y trajera mi baúl, que había
                     dejado allí. Y luego, mientras me quitaba el gorro y el chal, le
                     pregunté a Mary si podría alojarme en la casa solariega por la
@@ -240,7 +255,10 @@
                     las orejas cuando entré; luego se levantó de un salto con un gañido
                     y un quejido, y se abalanzó hacia mí. Casi me tira la bandeja de las
                     manos. La puse sobre la mesa; luego lo acaricié y dije suavemente:
-                    «¡Échate!». El señor Rochester se volvió mecánicamente para ver
+                    «¡Échate!». El señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    se volvió mecánicamente para ver
                     cuál era la conmoción; pero como no vio nada, se volvió y suspiró.</p>
 
                 <p>—Dame el agua, Mary —dijo.</p>
@@ -291,17 +309,30 @@
                     agarrado, mi hombro, mi cuello, mi cintura. Fui entrelazada y
                     recogida hacia él.</p>
 
-                <p>—¿Es Jane? ¿Qué es? Esta es su figura, este es su tamaño...</p>
+                <p>—¿Es <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ? ¿Qué es? Esta es su figura, este es su tamaño...</p>
 
                 <p>—Y esta su voz —añadí—. Está toda aquí; su corazón, también.
                     ¡Dios lo bendiga, señor! Me alegro de estar tan cerca de usted de
                     nuevo.</p>
 
-                <p>—¡Jane Eyre! ¡Jane Eyre! —fue todo lo que dijo.</p>
+                <p>—¡<span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                        Eyre
+                    </span>! ¡Jane Eyre! —fue todo lo que dijo.</p>
 
-                <p>—Mi querido amo —respondí—, soy Jane Eyre. Lo he encontrado, he vuelto a usted.</p>
+                <p>—Mi querido amo —respondí—, soy <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                        Eyre
+                    </span>
+                    . Lo he encontrado, he vuelto a usted.</p>
 
-                <p>—¿De verdad? ¿En carne y hueso? ¿Mi Jane viva?</p>
+                <p>—¿De verdad? ¿En carne y hueso? ¿Mi <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    viva?</p>
 
                 <p>—Usted me toca, señor, me sujeta, y con bastante firmeza. No
                     estoy fría como un cadáver, ni vacía como el aire, ¿verdad?</p>
@@ -321,7 +352,10 @@
                     beber, mi corazón hambriento y nunca por ser alimentado. ¡Sueño
                     dulce y suave, que anidas ahora en mis brazos, también volarás,
                     como todas tus hermanas han huido antes que tú! Pero bésame
-                    antes de irte, abrázame, Jane.</p>
+                    antes de irte, abrázame, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    .</p>
 
                 <p>—¡Ahí, señor, y ahí!</p>
 
@@ -330,7 +364,10 @@
                     pareció desperezarse. La convicción de la realidad de todo esto se
                     apoderó de él.</p>
 
-                <p>—Eres tú, ¿verdad, Jane? ¿Has vuelto a mí entonces?</p>
+                <p>—Eres tú, ¿verdad, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ? ¿Has vuelto a mí entonces?</p>
 
                 <p>—Sí.</p>
 
@@ -339,20 +376,29 @@
 
                 <p>—¡No, señor! Ahora soy una mujer independiente.</p>
 
-                <p>—¡Independiente! ¿Qué quieres decir, Jane?</p>
+                <p>—¡Independiente! ¿Qué quieres decir, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ?</p>
 
                 <p>—Mi tío de Madeira ha muerto y me ha dejado cinco mil libras.</p>
 
                 <p>—¡Ah! ¡Esto es práctico, esto es real! —exclamó—. Nunca soñaría
                     eso. Además, está esa voz peculiar suya, tan animada y picante,
                     además de suave. ¡Anima mi corazón marchito, le infunde vida!
-                    ¡Cómo, Janet! ¿Eres una mujer independiente? ¿Una mujer rica?</p>
+                    ¡Cómo, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ! ¿Eres una mujer independiente? ¿Una mujer rica?</p>
 
                 <p>—Bastante rica, señor. Si no me deja vivir con usted, puedo
                     construir una casa propia junto a su puerta, y puede venir a
                     sentarse en mi salón cuando quiera compañía por la tarde.</p>
 
-                <p>—Pero como eres rica, Jane, ahora, sin duda, tienes amigos que
+                <p>—Pero como eres rica, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    , ahora, sin duda, tienes amigos que
                     cuidarán de ti y no te permitirán dedicarte a un tullido ciego como
                     yo.</p>
 
@@ -382,7 +428,10 @@
                     darme cuenta. Y empecé a retirarme suavemente de sus brazos,
                     pero él me atrajo con avidez más cerca.</p>
 
-                <p>—No, no, Jane; no debes irte. No, te he tocado, te he oído, he
+                <p>—No, no, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ; no debes irte. No, te he tocado, te he oído, he
                     sentido el consuelo de tu presencia, la dulzura de tu consuelo. No
                     puedo renunciar a estas alegrías. Me queda poco en mí mismo, debo
                     tenerte. El mundo puede reír, puede llamarme absurdo, egoísta, pero
@@ -403,12 +452,18 @@
                 <p>—Pensaré lo que usted guste, señor. Me contento con ser solo su
                     enfermera, si lo cree mejor.</p>
 
-                <p>—Pero no siempre puedes ser mi enfermera, Janet. Eres joven,
+                <p>—Pero no siempre puedes ser mi enfermera, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    . Eres joven,
                     debes casarte algún día.</p>
 
                 <p>—No me importa casarme.</p>
 
-                <p>—Debería importarte, Janet. Si yo fuera lo que una vez fui,
+                <p>—Debería importarte, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    . Si yo fuera lo que una vez fui,
                     intentaría hacer que te importara, pero... ¡un bloque sin vista!</p>
 
                 <p>Volvió a caer en la melancolía. Yo, por el contrario, me volví más
@@ -427,14 +482,20 @@
 
                 <p>—En este brazo, no tengo ni mano ni uñas —dijo, sacando el
                     miembro mutilado de su pecho y mostrándomelo—. Es un mero
-                    muñón, ¡una visión espantosa! ¿No te parece, Jane?</p>
+                    muñón, ¡una visión espantosa! ¿No te parece, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ?</p>
 
                 <p>—Es una lástima verlo; y una lástima ver sus ojos, y la cicatriz del
                     fuego en su frente. Y lo peor de todo es que una corre el peligro de
                     amarlo demasiado por todo esto y de hacer demasiado caso de
                     usted.</p>
 
-                <p>—Pensé que te sentirías repelida, Jane, cuando vieras mi brazo y
+                <p>—Pensé que te sentirías repelida, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    , cuando vieras mi brazo y
                     mi rostro cicatrizado.</p>
 
                 <p>—¿De veras? No me diga eso, no sea que diga algo despectivo de
@@ -478,11 +539,20 @@
                     sentimiento en su corazón. Mi único objetivo presente era animarlo.
                     Animado, como he dicho, estaba; y sin embargo, solo a ratos. Si un
                     momento de silencio rompía la conversación, se volvía inquieto, me
-                    tocaba y luego decía: «Jane».</p>
+                    tocaba y luego decía: «<span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ».</p>
 
-                <p>—Eres un ser completamente humano, ¿Jane? ¿Estás segura de eso?</p>
+                <p>—Eres un ser completamente humano, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ? ¿Estás segura de eso?</p>
 
-                <p>—A conciencia lo creo, señor Rochester.</p>
+                <p>—A conciencia lo creo, señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    .</p>
 
                 <p>—Sin embargo, ¿cómo, en esta noche oscura y lúgubre, pudiste
                     aparecer tan de repente en mi solitario hogar? Extendí la mano para
@@ -498,9 +568,15 @@
                     nada; fundiendo la noche en el día; sintiendo solo la sensación de
                     frío cuando dejaba que el fuego se apagara, de hambre cuando
                     olvidaba comer. Y luego una pena incesante y, a veces, un verdadero
-                    delirio de deseo de volver a ver a mi Jane. Sí, anhelaba su
+                    delirio de deseo de volver a ver a mi <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    . Sí, anhelaba su
                     restauración mucho más que la de mi vista perdida. ¿Cómo puede
-                    ser que Jane esté conmigo y diga que me ama? ¿No se marchará
+                    ser que <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    esté conmigo y diga que me ama? ¿No se marchará
                     tan repentinamente como llegó? Mañana, temo que no la encontraré
                     más.</p>
 
@@ -517,14 +593,20 @@
 
                 <p>—¿Tiene un peine de bolsillo, señor?</p>
 
-                <p>—¿Para qué, Jane?</p>
+                <p>—¿Para qué, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ?</p>
 
                 <p>—Solo para peinar esta hirsuta melena negra. Me resulta usted
                     bastante alarmante cuando lo examino de cerca. Habla de que soy
                     un hada, pero estoy segura de que usted se parece más a un
                     duende.</p>
 
-                <p>—¿Soy espantoso, Jane?</p>
+                <p>—¿Soy espantoso, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ?</p>
 
                 <p>—Mucho, señor. Siempre lo fue, ya sabe.</p>
 
@@ -541,7 +623,10 @@
                     cabeza; y entonces creo que dejará de albergar dudas sobre mi
                     sustancialidad.</p>
 
-                <p>—¿Con quién ha estado, Jane?</p>
+                <p>—¿Con quién ha estado, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ?</p>
 
                 <p>—No me lo sacará esta noche, señor; debe esperar hasta mañana.
                     Dejar mi relato a medio contar será, ya sabe, una especie de
@@ -559,7 +644,10 @@
                     dejaré. He estado viajando estos últimos tres días y creo que estoy
                     cansada. Buenas noches.</p>
 
-                <p>—Solo una palabra, Jane. ¿Había solo damas en la casa donde ha estado?</p>
+                <p>—Solo una palabra, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    . ¿Había solo damas en la casa donde ha estado?</p>
 
                 <p>Me reí e hice mi escapada, todavía riendo mientras subía las
                     escaleras. «¡Buena idea!», pensé con regocijo. «Veo que tengo los
@@ -595,7 +683,10 @@
                     no te has desvanecido? Oí a una de tu especie hace una hora,
                     cantando alto sobre el bosque; pero su canto no tenía música para
                     mí, como tampoco el sol naciente tenía rayos. Toda la melodía de la
-                    tierra se concentra en la lengua de mi Jane para mi oído (me alegro
+                    tierra se concentra en la lengua de mi <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    para mi oído (me alegro
                     de que no sea naturalmente silenciosa); todo el sol que puedo sentir
                     está en su presencia.</p>
 
@@ -616,7 +707,10 @@
                     todo estaba en calma. Estalló de repente mientras me estrechaba en
                     sus brazos:</p>
 
-                <p>—¡Cruel, cruel desertora! Oh, Jane, ¿qué sentí cuando descubrí
+                <p>—¡Cruel, cruel desertora! Oh, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    , ¿qué sentí cuando descubrí
                     que habías huido de Thornfield, y cuando no pude encontrarte en
                     ninguna parte; y, después de examinar tu apartamento, comprobé
                     que no te habías llevado dinero, ni nada que pudiera servir como
@@ -703,9 +797,15 @@
 
                 <p><i>(A mí)</i></p>
 
-                <p>——¿Te gustaba, Jane?</p>
+                <p>——¿Te gustaba, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ?</p>
 
-                <p>—Sí, señor Rochester, me gustaba. Pero ya me lo preguntó antes.</p>
+                <p>—Sí, señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    , me gustaba. Pero ya me lo preguntó antes.</p>
 
                 <p>Percibí, por supuesto, la intención de mi interlocutor. Los celos se
                     habían apoderado de él; lo picaban. Pero el aguijón era saludable; le
@@ -715,7 +815,10 @@
                 <p>—¿Quizás preferiría no seguir sentada en mi rodilla, señorita Eyre?
                     —fue la siguiente observación, algo inesperada.</p>
 
-                <p>—¿Por qué no, señor Rochester?</p>
+                <p>—¿Por qué no, señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    ?</p>
 
                 <p>—El cuadro que acaba de dibujar sugiere un contraste demasiado
                     abrumador. Sus palabras han delineado muy primorosamente a un
@@ -731,7 +834,10 @@
                     con un agarre más firme que nunca), tendrá la amabilidad de
                     responder a una o dos preguntas. —Hizo una pausa.</p>
 
-                <p>—¿Qué preguntas, señor Rochester?</p>
+                <p>—¿Qué preguntas, señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    ?</p>
 
                 <p>Entonces siguió este interrogatorio.</p>
 
@@ -743,7 +849,10 @@
 
                 <p>—Diariamente.</p>
 
-                <p>—¿Aprobaría sus planes, Jane? ¡Sé que serían inteligentes, porque
+                <p>—¿Aprobaría sus planes, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ? ¡Sé que serían inteligentes, porque
                     es usted una criatura talentosa!</p>
 
                 <p>—Los aprobó, sí.</p>
@@ -836,20 +945,32 @@
 
                 <p>—Porque estoy cómoda aquí.</p>
 
-                <p>—No, Jane, no estás cómoda aquí, porque tu corazón no está
+                <p>—No, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    , no estás cómoda aquí, porque tu corazón no está
                     conmigo. Está con este primo, este St. John. ¡Oh, hasta este
-                    momento, pensé que mi pequeña Jane era toda mía! Tenía la
+                    momento, pensé que mi pequeña <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    era toda mía! Tenía la
                     creencia de que me amaba incluso cuando me dejó. Eso era un
                     átomo de dulzura en mucha amargura. Por mucho que hayamos
                     estado separados, por muchas lágrimas calientes que haya
                     derramado por nuestra separación, ¡nunca pensé que mientras yo la
-                    lloraba, ella estaba amando a otro! Pero es inútil lamentarse. Jane,
+                    lloraba, ella estaba amando a otro! Pero es inútil lamentarse. <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ,
                     déjame. Ve y cásate con Rivers.</p>
 
                 <p>—Écheme entonces, señor, apárteme. Porque no lo dejaré por mi
                     propia voluntad.</p>
 
-                <p>—Jane, siempre me gusta tu tono de voz. Todavía renueva la
+                <p><span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    , siempre me gusta tu tono de voz. Todavía renueva la
                     esperanza, suena tan veraz. Cuando lo oigo, me transporta un año
                     atrás. Olvido que has formado un nuevo lazo. Pero no soy tonto,
                     vete.</p>
@@ -875,7 +996,10 @@
                 <p>Me estremecí involuntariamente y me aferré instintivamente más
                     cerca de mi ciego pero amado amo. Él sonrió.</p>
 
-                <p>—¡Cómo, Jane! ¿Es esto cierto? ¿Es realmente así el estado de las
+                <p>—¡Cómo, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ! ¿Es esto cierto? ¿Es realmente así el estado de las
                     cosas entre tú y Rivers?</p>
 
                 <p>—¡Absolutamente, señor! ¡Oh, no necesita estar celoso! Quería
@@ -907,13 +1031,19 @@
 
                 <p>De nuevo sonrió. Le di consuelo.</p>
 
-                <p>—¿Hablas de amigos, Jane? —preguntó.</p>
+                <p>—¿Hablas de amigos, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ? —preguntó.</p>
 
                 <p>—Sí, de amigos —respondí con bastante vacilación, pues sabía
                     que me refería a más que amigos, pero no sabía qué otra palabra
                     emplear. Él me ayudó.</p>
 
-                <p>—¡Ah, Jane! Pero quiero una esposa.</p>
+                <p>—¡Ah, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ! Pero quiero una esposa.</p>
 
                 <p>—¿De veras, señor?</p>
 
@@ -925,11 +1055,17 @@
 
                 <p>—Eso depende de las circunstancias, señor, de su elección.</p>
 
-                <p>—La cual harás por mí, Jane. Me atendré a tu decisión.</p>
+                <p>—La cual harás por mí, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    . Me atendré a tu decisión.</p>
 
                 <p>—Elija entonces, señor, a quien más lo ame.</p>
 
-                <p>—Al menos elegiré a quien más amo. Jane, ¿quieres casarte conmigo?</p>
+                <p>—Al menos elegiré a quien más amo. <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    , ¿quieres casarte conmigo?</p>
 
                 <p>—Sí, señor.</p>
 
@@ -941,13 +1077,19 @@
 
                 <p>—Sí, señor.</p>
 
-                <p>—¿De verdad, Jane?</p>
+                <p>—¿De verdad, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ?</p>
 
                 <p>—Con la mayor verdad, señor.</p>
 
                 <p>—¡Oh, mi amor! ¡Que Dios te bendiga y te recompense!</p>
 
-                <p>—Señor Rochester, si alguna vez hice una buena acción en mi
+                <p>—Señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    , si alguna vez hice una buena acción en mi
                     vida, si alguna vez tuve un buen pensamiento, si alguna vez recé
                     una oración sincera e intachable, si alguna vez deseé un deseo justo,
                     ahora soy recompensada. Ser su esposa es, para mí, ser tan feliz
@@ -961,7 +1103,10 @@
                     confío, ¿es eso hacer un sacrificio? Si es así, entonces ciertamente
                     me deleito en el sacrificio.</p>
 
-                <p>—Y soportar mis enfermedades, Jane; pasar por alto mis deficiencias.</p>
+                <p>—Y soportar mis enfermedades, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ; pasar por alto mis deficiencias.</p>
 
                 <p>—Que no son ninguna, señor, para mí. Lo amo más ahora, cuando
                     realmente puedo serle útil, que en su estado de orgullosa
@@ -971,9 +1116,18 @@
                 <p>—Hasta ahora he odiado que me ayuden, que me guíen. De ahora
                     en adelante, siento que ya no lo odiaré. No me gustaba poner mi
                     mano en la de un mercenario, pero es agradable sentirla rodeada
-                    por los pequeños dedos de Jane. Prefería la soledad absoluta a la
-                    constante atención de los criados; pero el suave ministerio de Jane
-                    será una alegría perpetua. Jane me conviene. ¿Le convengo yo a
+                    por los pequeños dedos de <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    . Prefería la soledad absoluta a la
+                    constante atención de los criados; pero el suave ministerio de <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+
+                    será una alegría perpetua. <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    me conviene. ¿Le convengo yo a
                     ella?</p>
 
                 <p>—Hasta la fibra más fina de mi naturaleza, señor.</p>
@@ -983,26 +1137,42 @@
 
                 <p>Miró y habló con avidez. Su vieja impetuosidad estaba resurgiendo.</p>
 
-                <p>—Debemos convertirnos en una sola carne sin demora, Jane. Solo
+                <p>—Debemos convertirnos en una sola carne sin demora, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    . Solo
                     hay que obtener la licencia, y luego nos casamos.</p>
 
-                <p>—Señor Rochester, acabo de descubrir que el sol ha declinado
+                <p>—Señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    , acabo de descubrir que el sol ha declinado
                     mucho de su meridiano y Pilot se ha ido a casa a cenar. Déjeme
                     mirar su reloj.</p>
 
-                <p>—Átatelo a tu cinturón, Janet, y guárdalo de ahora en adelante.
+                <p>—Átatelo a tu cinturón, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    , y guárdalo de ahora en adelante.
                     No tengo uso para él.</p>
 
                 <p>—Son casi las cuatro de la tarde, señor. ¿No siente hambre?</p>
 
                 <p>—El tercer día a partir de este debe ser el día de nuestra boda,
-                    Jane. No te preocupes por ropas finas y joyas ahora. Todo eso no
-                    vale un comino.</p>
+                    <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    . No te preocupes por ropas finas y joyas ahora. Todo eso no
+                    vale un comino.
+                </p>
 
                 <p>—El sol ha secado todas las gotas de lluvia, señor. La brisa está en
                     calma. Hace bastante calor.</p>
 
-                <p>—¿Sabes, Jane, que tengo tu pequeño collar de perlas en este
+                <p>—¿Sabes, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    , que tengo tu pequeño collar de perlas en este
                     momento atado alrededor de mi cuello de bronce bajo mi corbata?
                     Lo he llevado desde el día en que perdí mi único tesoro, como un
                     recuerdo de ella.</p>
@@ -1011,7 +1181,10 @@
 
                 <p>Persiguió sus propios pensamientos sin hacerme caso.</p>
 
-                <p>—¡Jane! Me crees, me atrevo a decir, un perro irreligioso. Pero mi
+                <p>—¡<span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ! Me crees, me atrevo a decir, un perro irreligioso. Pero mi
                     corazón se hincha de gratitud hacia el benéfico Dios de esta tierra en
                     este momento. Él no ve como ve el hombre, sino mucho más
                     claramente. No juzga como juzga el hombre, sino mucho más
@@ -1024,10 +1197,14 @@
                     me golpeó que me ha humillado para siempre. Sabes que estaba
                     orgulloso de mi fuerza. ¿Pero qué es ahora, cuando debo entregarla
                     a una guía ajena, como un niño entrega su debilidad? Últimamente,
-                    Jane —solo, solo últimamente— empecé a ver y a reconocer la mano
+                    <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    —solo, solo últimamente— empecé a ver y a reconocer la mano
                     de Dios en mi perdición. Empecé a experimentar remordimiento,
                     arrepentimiento; el deseo de reconciliación con mi Hacedor. Empecé
-                    a rezar a veces. Oraciones muy breves eran, pero muy sinceras.</p>
+                    a rezar a veces. Oraciones muy breves eran, pero muy sinceras.
+                </p>
 
                 <p>»Hace unos días, no, puedo contarlos, cuatro. Fue el lunes por la
                     noche pasado. Un singular estado de ánimo se apoderó de mí, uno
@@ -1037,23 +1214,35 @@
                     noche —quizás sería entre las once y las doce—, antes de retirarme
                     a mi lúgubre descanso, supliqué a Dios que, si le parecía bien,
                     pronto fuera yo apartado de esta vida y admitido en ese mundo
-                    venidero, donde todavía había esperanza de reunirme con Jane.</p>
+                    venidero, donde todavía había esperanza de reunirme con <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    .</p>
 
                 <p>»Estaba en mi propia habitación y sentado junto a la ventana, que
                     estaba abierta. Me calmaba sentir el aire balsámico de la noche,
                     aunque no podía ver estrellas y solo por una vaga y luminosa
-                    neblina sabía de la presencia de una luna. ¡Te anhelaba, Janet! ¡Oh,
+                    neblina sabía de la presencia de una luna. ¡Te anhelaba, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ! ¡Oh,
                     te anhelaba tanto con el alma como con la carne! Le pedí a Dios, a
                     la vez con angustia y humildad, si no había estado ya bastante
                     tiempo desolado, afligido, atormentado; y si no podría pronto probar
                     de nuevo la dicha y la paz. Que merecía todo lo que soportaba, lo
                     reconocí; que apenas podía soportar más, lo supliqué. Y el alfa y el
                     omega de los deseos de mi corazón brotaron involuntariamente de
-                    mis labios en las palabras: “¡Jane! ¡Jane! ¡Jane!”.</p>
+                    mis labios en las palabras: <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ! ¡Jane! ¡Jane!”.</p>
 
                 <p>—¿Dijo esas palabras en voz alta?</p>
 
-                <p>—Sí, Jane. Si algún oyente me hubiera oído, me habría creído
+                <p>—Sí, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    . Si algún oyente me hubiera oído, me habría creído
                     loco. Las pronuncié con una energía tan frenética.</p>
 
                 <p>—¿Y fue el lunes por la noche pasado, cerca de la medianoche?</p>
@@ -1063,28 +1252,44 @@
                     sangre y siempre la tuve. Sin embargo, esto es verdad, verdad es al
                     menos que oí lo que ahora relato.</p>
 
-                <p>»Al exclamar yo “¡Jane! ¡Jane! ¡Jane!”, una voz —no puedo decir
+                <p>»Al exclamar yo “¡<span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    ! ¡Jane! ¡Jane!”, una voz —no puedo decir
                     de dónde vino la voz, pero sé de quién era— respondió: “¡Ya voy,
                     espérame!”; y un momento después, fueron susurrando en el viento
                     las palabras: “¿Dónde estás?”.</p>
 
                 <p>»Te diré, si puedo, la idea, la imagen que estas palabras abrieron
                     en mi mente; sin embargo, es difícil expresar lo que quiero expresar.
-                    Ferndean está enterrado, como ves, en un denso bosque, donde el
+                    <span class="anotacion"
+                        data-nota="Simboliza un amor despojado de estatus social. No es una mansión pretenciosa; es un refugio humilde. Su ubicación profunda en la naturaleza representa que la unión de Jane y Rochester ahora es pura, alejada de los juicios del mundo y de las leyes que antes los separaban.">Ferndean
+                    </span>
+                    está enterrado, como ves, en un denso bosque, donde el
                     sonido cae sordo y muere sin reverberar. “¿Dónde estás?” parecía
                     dicho entre montañas, pues oí un eco enviado por una colina repetir
                     las palabras. Más fresco y lozano en ese momento el vendaval
                     pareció visitar mi frente. Podría haber creído que en alguna escena
-                    salvaje y solitaria, Jane y yo nos encontrábamos. En espíritu, creo
+                    salvaje y solitaria, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    y yo nos encontrábamos. En espíritu, creo
                     que debimos de encontrarnos. Tú, sin duda, estabas, a esa hora, en
-                    un sueño inconsciente, Jane. Quizás tu alma vagó desde su celda
+                    un sueño inconsciente, <span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    . Quizás tu alma vagó desde su celda
                     para consolar la mía; pues aquellos eran tus acentos, tan cierto
-                    como que vivo, ¡eran los tuyos!</p>
+                    como que vivo, ¡eran los tuyos!
+                </p>
 
                 <p>Lector, fue el lunes por la noche —cerca de la medianoche—
                     cuando yo también recibí la misteriosa llamada. Esas fueron las
                     mismas palabras con las que le respondí. Escuché la narración del
-                    señor Rochester, pero no hice ninguna revelación a cambio. La
+                    señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    , pero no hice ninguna revelación a cambio. La
                     coincidencia me pareció demasiado terrible e inexplicable para ser
                     comunicada o discutida. Si contaba algo, mi relato sería tal que
                     necesariamente causaría una profunda impresión en la mente de mi

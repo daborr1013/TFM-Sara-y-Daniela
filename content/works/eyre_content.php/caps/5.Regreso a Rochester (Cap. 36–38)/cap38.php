@@ -94,7 +94,10 @@
                     volvimos de la iglesia, entré en la cocina de la casa solariega, donde
                     Mary cocinaba la cena y John limpiaba los cuchillos, y dije:</p>
 
-                <p>—Mary, me he casado con el señor Rochester esta mañana.</p>
+                <p>—Mary, me he casado con el señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    esta mañana.</p>
 
                 <p>El ama de llaves y su marido eran de ese orden de gente decente y
                     flemática a quienes se puede comunicar en cualquier momento con
@@ -117,14 +120,24 @@
                     él, sonreía de oreja a oreja.</p>
 
                 <p>—Ya le dije a Mary cómo sería —dijo—. Sabía lo que el señor
-                    Edward (John era un viejo sirviente y había conocido a su amo
+                    <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Edward
+                    </span>
+                    (John era un viejo sirviente y había conocido a su amo
                     cuando era el cadete de la casa; por lo tanto, a menudo le daba su
-                    nombre de pila), sabía lo que el señor Edward haría; y estaba seguro
+                    nombre de pila), sabía lo que el señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Edward
+                    </span>
+                    haría; y estaba seguro
                     de que no esperaría mucho tampoco. Y ha hecho bien, por lo que
                     sé. ¡Le deseo felicidad, señorita! —Y se tiró cortésmente del mechón
-                    de pelo.</p>
+                    de pelo.
+                </p>
 
-                <p>—Gracias, John. El señor Rochester me dijo que les diera esto a ti
+                <p>—Gracias, John. El señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    me dijo que les diera esto a ti
                     y a Mary. —Puse en su mano un billete de cinco libras. Sin esperar a
                     oír más, salí de la cocina. Al pasar por la puerta de ese santuario un
                     tiempo después, capté las palabras:</p>
@@ -141,21 +154,32 @@
                     que luego vendría a verme.</p>
 
                 <p>—Será mejor que no espere hasta entonces, Jane —dijo el señor
-                    Rochester, cuando le leí su carta—. Si lo hace, será demasiado tarde,
+                    <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    , cuando le leí su carta—. Si lo hace, será demasiado tarde,
                     pues nuestra luna de miel brillará toda nuestra vida; sus rayos solo
-                    se desvanecerán sobre tu tumba o la mía.</p>
+                    se desvanecerán sobre tu tumba o la mía.
+                </p>
 
                 <p>Cómo recibió St. John la noticia, no lo sé. Nunca respondió a la
                     carta en la que se la comuniqué. Sin embargo, seis meses después
                     me escribió, sin mencionar, no obstante, el nombre del señor
-                    Rochester ni aludir a mi matrimonio. Su carta era entonces serena y,
+                    <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    ni aludir a mi matrimonio. Su carta era entonces serena y,
                     aunque muy seria, amable. Ha mantenido una correspondencia
                     regular, aunque no frecuente, desde entonces. Espera que sea feliz y
                     confía en que no sea de aquellos que viven sin Dios en el mundo y
-                    solo se preocupan por las cosas terrenales.</p>
+                    solo se preocupan por las cosas terrenales.
+                </p>
 
                 <p>No ha olvidado del todo a la pequeña Adèle, ¿verdad, lector? Yo
-                    no. Pronto pedí y obtuve permiso del señor Rochester para ir a verla
+                    no. Pronto pedí y obtuve permiso del señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    para ir a verla
                     a la escuela donde la había puesto. Su alegría frenética al volver a
                     verme me conmovió mucho. Parecía pálida y delgada; dijo que no
                     era feliz. Descubrí que las reglas del establecimiento eran demasiado
@@ -187,7 +211,10 @@
                     expresar; porque soy la vida de mi marido tan plenamente como él
                     es la mía. Ninguna mujer estuvo jamás más cerca de su compañero
                     que yo; nunca más absolutamente hueso de su hueso y carne de su
-                    carne. No conozco el cansancio de la compañía de mi Edward; él no
+                    carne. No conozco el cansancio de la compañía de mi <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Edward
+                    </span>
+                    ; él no
                     conoce ninguno de la mía, no más de lo que cada uno de nosotros
                     conoce la pulsación del corazón que late en nuestros pechos
                     separados; en consecuencia, estamos siempre juntos. Estar juntos
@@ -198,7 +225,10 @@
                     a mí; somos precisamente adecuados en carácter, la concordia
                     perfecta es el resultado.</p>
 
-                <p>El señor Rochester continuó ciego los dos primeros años de
+                <p>El señor <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Rochester
+                    </span>
+                    continuó ciego los dos primeros años de
                     nuestra unión. Quizás fue esa circunstancia la que nos acercó tanto,
                     la que nos unió tan estrechamente; pues yo era entonces su visión,
                     como sigo siendo su mano derecha. Literalmente, yo era (lo que a
@@ -219,7 +249,10 @@
                 <p>Una mañana, al final de los dos años, mientras yo escribía una
                     carta a su dictado, se acercó, se inclinó sobre mí y dijo:</p>
 
-                <p>—Jane, ¿tienes un adorno brillante alrededor del cuello?</p>
+                <p>—<span class="anotacion"
+                        data-nota="Se presenta como una mujer plenamente realizada e independiente. Ya no busca un lugar en el mundo, porque lo ha construido ella misma a través de su herencia y su familia (los Rivers). Su regreso con Rochester no es un acto de necesidad ni de sumisión, sino una elección libre y madura. Es ahora ella quien sostiene, guía y 've' por ambos, asumiendo un rol de protectora sin perder su esencia.">Jane
+                    </span>
+                    , ¿tienes un adorno brillante alrededor del cuello?</p>
 
                 <p>Llevaba una cadena de reloj de oro. Respondí:</p>
 
@@ -236,12 +269,20 @@
                     puede ver con mucha claridad; no puede leer ni escribir mucho; pero
                     puede encontrar su camino sin que lo lleven de la mano. El cielo ya
                     no es un vacío para él, la tierra ya no es un hueco. Cuando le
-                    pusieron a su primogénito en brazos, pudo ver que el niño había
+                    pusieron a su <span class="anotacion"
+                        data-nota="Es el símbolo del futuro y el renacimiento. El hecho de que Rochester recupere la vista justo para ver los ojos de su hijo simboliza que la "
+                        maldición" o el castigo divino ha terminado. La vida continúa y el linaje de Jane (que empezó
+                        como una huérfana sin nada) ahora tiene raíces fuertes.">primogénito
+                    </span>
+                    en brazos, pudo ver que el niño había
                     heredado sus propios ojos, como eran antes: grandes, brillantes y
                     negros. En esa ocasión, de nuevo, con el corazón lleno, reconoció
                     que Dios había atemperado el juicio con la misericordia.</p>
 
-                <p>Mi Edward y yo, pues, somos felices; y más aún, porque aquellos
+                <p>Mi <span class="anotacion"
+                        data-nota="Es un hombre purificado por el fuego y el sufrimiento. Ha perdido su arrogancia, su orgullo aristocrático y su fuerza física impulsiva (simbolizado por su ceguera y la pérdida de su mano). Se ha transformado en un ser humilde y espiritual que ha aprendido a depender de otros y de Dios. Su amor por Jane ya no es posesivo, sino una devoción profunda basada en la gratitud y la conexión de sus almas.">Edward
+                    </span>
+                    y yo, pues, somos felices; y más aún, porque aquellos
                     a quienes más amamos son felices igualmente. Diana y Mary Rivers
                     están ambas casadas. Alternativamente, una vez al año, vienen a
                     vernos y nosotros vamos a verlas. El marido de Diana es un capitán
