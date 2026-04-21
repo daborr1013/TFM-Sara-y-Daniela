@@ -123,7 +123,9 @@
                 <p>—¿No vendrá nadie? —gritó; y entonces, mientras el tambaleo y el
                     pateo continuaban salvajemente, distinguí a través de tablas y yeso:</p>
 
-                <p>—¡Rochester! ¡Rochester! ¡Por el amor de Dios, ven!</p>
+                <p>—¡<span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>! ¡Rochester! ¡Por el amor de Dios, ven!</p>
 
                 <p>Se abrió la puerta de una cámara; alguien corrió, o se precipitó, a
                     lo largo de la galería. Otro paso resonó en el suelo de arriba y algo
@@ -135,20 +137,32 @@
                     cada habitación; puerta tras puerta se abría; uno miraba y otro
                     miraba; la galería se llenó. Caballeros y damas por igual habían
                     abandonado sus lechos; y «¡Oh! ¿Qué es?», «¿Quién está herido?»,
-                    «¿Qué ha pasado?», «¡Traed una luz!», «¿Es fuego?», «¿Hay
+                    «¿Qué ha pasado?», «¡Traed una luz!», «¿Es <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span>?», «¿Hay
                     ladrones?», «¿Adónde corremos?», se demandaba confusamente por
                     todas partes. De no ser por la luz de la luna, habrían estado en
                     completa oscuridad. Corrían de un lado a otro; se agolpaban.
                     Algunos sollozaban, otros tropezaban. La confusión era inextricable.</p>
 
-                <p>—¿Dónde diablos está Rochester? —gritó el Coronel Dent—. No lo encuentro en su cama.</p>
+                <p>—¿Dónde diablos está <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>? —gritó el Coronel Dent—. No lo encuentro en su cama.</p>
 
                 <p>—¡Aquí! ¡Aquí! —se gritó en respuesta—. Cálmense todos. Ya voy.</p>
 
-                <p>Y la puerta al final de la galería se abrió, y el señor Rochester
+                <p>Y la puerta al final de la galería se abrió, y el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>
                     avanzó con una vela. Acababa de descender del piso superior. Una
                     de las damas corrió directamente hacia él; le agarró del brazo. Era la
-                    señorita Ingram.</p>
+                    señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>.</p>
 
                 <p>—¿Qué terrible suceso ha tenido lugar? —dijo ella—. ¡Hable! ¡Que
                     sepamos lo peor de una vez!</p>
@@ -170,10 +184,14 @@
                     Ahora, pues, debo verlos a todos de vuelta en sus habitaciones;
                     pues hasta que la casa no se asiente, no se la puede atender.
                     Caballeros, tengan la bondad de dar ejemplo a las damas. Señorita
-                    Ingram, estoy seguro de que no dejará de mostrar superioridad ante
+                    <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>, estoy seguro de que no dejará de mostrar superioridad ante
                     terrores ociosos. Amy y Louisa, vuelvan a sus nidos como un par de
                     palomas que son. Mesdames (a las viudas), se resfriarán con toda
-                    certeza si se quedan más tiempo en esta fría galería.</p>
+                    certeza si se quedan más tiempo en esta fría galería.
+                </p>
 
                 <p>Y así, a fuerza de alternar halagos y órdenes, se las arregló para
                     que todos volvieran a encerrarse en sus dormitorios separados. No
@@ -186,7 +204,10 @@
                     habían sido oídas por mí, pues habían procedido de la habitación de
                     encima de la mía; pero me aseguraron que no era el sueño de una
                     criada lo que así había sembrado el horror en la casa; y que la
-                    explicación que el señor Rochester había dado era meramente una
+                    explicación que el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> había dado era meramente una
                     invención urdida para apaciguar a sus invitados. Me vestí, pues, para
                     estar lista para emergencias. Una vez vestida, me senté un largo
                     rato junto a la ventana, mirando los terrenos silenciosos y los
@@ -215,7 +236,10 @@
 
                 <p>—Sal, entonces, silenciosamente.</p>
 
-                <p>Obedecí. El señor Rochester estaba de pie en la galería sosteniendo una luz.</p>
+                <p>Obedecí. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> estaba de pie en la galería sosteniendo una luz.</p>
 
                 <p>—Te necesito —dijo—. Ven por aquí. Tómate tu tiempo y no hagas ruido.</p>
 
@@ -253,32 +277,50 @@
                 <p>—Cálida y firme —fue su comentario. Giró la llave y abrió la puerta.</p>
 
                 <p>Vi una habitación que recordaba haber visto antes, el día en que
-                    la señora Fairfax me mostró la casa. Estaba cubierta de tapices; pero
+                    la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> me mostró la casa. Estaba cubierta de tapices; pero
                     el tapiz estaba ahora recogido en una parte, y se veía una puerta
                     que entonces había estado oculta. Esta puerta estaba abierta; una
                     luz brillaba desde la habitación interior. Oí desde allí un sonido de
                     gruñidos y arrebatos, casi como un perro riñendo. El señor
-                    Rochester, dejando su vela, me dijo: «Espera un minuto», y avanzó
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, dejando su vela, me dijo: «Espera un minuto», y avanzó
                     hacia el apartamento interior. Un grito de risa saludó su entrada;
                     ruidoso al principio, y terminando en el propio ¡ja! ¡ja! de duende de
                     Grace Poole. Ella, entonces, estaba allí. Hizo algún tipo de arreglo sin
                     hablar, aunque oí una voz baja dirigirse a él. Salió y cerró la puerta
-                    tras de sí.</p>
+                    tras de sí.
+                </p>
 
-                <p>—¡Aquí, Jane! —dijo; y rodeé una gran cama que, con sus cortinas
+                <p>—¡Aquí, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>! —dijo; y rodeé una gran cama que, con sus cortinas
                     corridas, ocultaba una parte considerable de la cámara. Un sillón
                     estaba cerca de la cabecera de la cama. Un hombre estaba sentado
                     en él, vestido a excepción de su abrigo; estaba quieto; su cabeza
-                    reclinada hacia atrás; sus ojos cerrados. El señor Rochester sostuvo
+                    reclinada hacia atrás; sus ojos cerrados. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> sostuvo
                     la vela sobre él; reconocí en su rostro pálido y aparentemente sin
                     vida al extraño, Mason. Vi también que su ropa de lino por un lado,
                     y un brazo, estaban casi empapados en sangre.</p>
 
-                <p>—Sostén la vela —dijo el señor Rochester, y la tomé. Trajo una
+                <p>—Sostén la vela —dijo el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, y la tomé. Trajo una
                     palangana con agua del lavabo—. Sostén eso —dijo. Obedecí. Tomó
                     la esponja, la mojó y humedeció el rostro cadavérico. Pidió mi frasco
                     de sales y lo aplicó a las fosas nasales. El señor Mason abrió en
-                    breve los ojos; gimió. El señor Rochester abrió la camisa del hombre
+                    breve los ojos; gimió. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> abrió la camisa del hombre
                     herido, cuyo brazo y hombro estaban vendados. Limpió con la
                     esponja la sangre que goteaba rápidamente.</p>
 
@@ -286,7 +328,10 @@
 
                 <p>—¡Bah! No, un simple rasguño. No te dejes abatir tanto, hombre.
                     ¡Ánimo! Iré yo mismo a buscar un cirujano para ti ahora. Espero que
-                    puedas ser trasladado por la mañana. Jane —continuó.</p>
+                    puedas ser trasladado por la mañana. <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span> —continuó.</p>
 
                 <p>—¿Señor?</p>
 
@@ -300,7 +345,10 @@
 
                 <p>De nuevo, el pobre hombre gimió; parecía como si no se atreviera
                     a moverse. El miedo, ya fuera a la muerte o a otra cosa, parecía casi
-                    paralizarlo. El señor Rochester me puso en la mano la esponja ahora
+                    paralizarlo. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> me puso en la mano la esponja ahora
                     ensangrentada, y procedí a usarla como él lo había hecho. Me
                     observó un segundo y luego, diciendo: «¡Recuerda! Nada de
                     conversación», abandonó la habitación. Experimenté una extraña
@@ -339,7 +387,10 @@
 
                 <p>En medio de todo esto, tenía que escuchar además de vigilar:
                     escuchar los movimientos de la bestia salvaje o del demonio en la
-                    guarida de al lado. Pero desde la visita del señor Rochester parecía
+                    guarida de al lado. Pero desde la visita del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> parecía
                     hechizada. Toda la noche no oí más que tres sonidos a tres largos
                     intervalos: el crujido de un paso, una renovación momentánea del
                     ruido canino y gruñón, y un profundo gemido humano.</p>
@@ -347,7 +398,10 @@
                 <p>Luego, mis propios pensamientos me atormentaban. ¿Qué crimen
                     era este, que vivía encarnado en esta mansión apartada y no podía
                     ser ni expulsado ni sometido por el dueño? ¿Qué misterio, que
-                    estallaba ahora en fuego y ahora en sangre, en las horas más
+                    estallaba ahora en <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> y ahora en sangre, en las horas más
                     muertas de la noche? ¿Qué criatura era, que, enmascarada en un
                     rostro y una forma de mujer corriente, emitía la voz, ora de un
                     demonio burlón, ora de un ave de rapiña en busca de carroña?</p>
@@ -356,28 +410,49 @@
                     tranquilo, ¿cómo se había visto envuelto en la red del horror? ¿Y por
                     qué la Furia se había lanzado contra él? ¿Qué le hizo buscar este
                     rincón de la casa a una hora intempestiva, cuando debería haber
-                    estado dormido en la cama? Había oído al señor Rochester asignarle
+                    estado dormido en la cama? Había oído al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> asignarle
                     un apartamento abajo, ¿qué lo trajo aquí? Y, ¿por qué, ahora, estaba
                     tan dócil bajo la violencia o la traición que se le había hecho? ¿Por
                     qué se sometía tan tranquilamente al ocultamiento que el señor
-                    Rochester imponía? ¿Por qué el señor Rochester imponía este
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> imponía? ¿Por qué el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> imponía este
                     ocultamiento? Su invitado había sido ultrajado, su propia vida en una
                     ocasión anterior había sido espantosamente tramada en su contra;
                     ¡y ambos intentos los sofocaba en secreto y los hundía en el olvido!
-                    Por último, vi que el señor Mason era sumiso al señor Rochester;
+                    Por último, vi que el señor Mason era sumiso al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>;
                     que la voluntad impetuosa de este último dominaba por completo la
                     inercia del primero. Las pocas palabras que habían cruzado entre
                     ellos me aseguraron de esto. Era evidente que en su trato anterior,
                     la disposición pasiva de uno había sido habitualmente influenciada
                     por la energía activa del otro. ¿De dónde, entonces, había surgido la
-                    consternación del señor Rochester al oír la llegada del señor Mason?
+                    consternación del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> al oír la llegada del señor Mason?
                     ¿Por qué el mero nombre de este individuo sin resistencia —a quien
                     su palabra ahora bastaba para controlar como a un niño— había
                     caído sobre él, unas horas antes, como un rayo podría caer sobre un
-                    roble?</p>
+                    roble?
+                </p>
 
                 <p>Oh! No podía olvidar su mirada y su palidez cuando susurró:
-                    «Jane, he recibido un golpe, he recibido un golpe, Jane». No podía
+                    «<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, he recibido un golpe, he recibido un golpe, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>». No podía
                     olvidar cómo había temblado el brazo que apoyaba en mi hombro; y
                     no era asunto baladí lo que podía doblegar así el espíritu resuelto y
                     hacer temblar el vigoroso cuerpo de Fairfax Rochester.</p>
@@ -401,7 +476,10 @@
                     advirtieron que mi vigilia había terminado. No podría haber durado
                     más de dos horas; muchas semanas me han parecido más cortas.</p>
 
-                <p>El señor Rochester entró, y con él el cirujano que había ido a buscar.</p>
+                <p>El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> entró, y con él el cirujano que había ido a buscar.</p>
 
                 <p>—Ahora, Carter, esté alerta —le dijo a este último—. Le doy solo
                     media hora para curar la herida, sujetar los vendajes, bajar al
@@ -412,7 +490,10 @@
                 <p>—Sin duda. No es nada serio. Está nervioso, hay que mantenerle
                     el ánimo. Venga, póngase a trabajar.</p>
 
-                <p>El señor Rochester descorrió la gruesa cortina, subió la persiana
+                <p>El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> descorrió la gruesa cortina, subió la persiana
                     de Holanda, dejó entrar toda la luz del día que pudo; y me
                     sorprendió y animó ver cuán avanzado estaba el amanecer, qué
                     vetas rosadas comenzaban a iluminar el este. Luego se acercó a
@@ -433,10 +514,16 @@
                     cuchillo. ¡Aquí ha habido dientes!</p>
 
                 <p>—Me mordió —murmuró—. Me atacó como una tigresa cuando
-                    Rochester le quitó el cuchillo.</p>
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> le quitó el cuchillo.
+                </p>
 
                 <p>—No deberías haber cedido; deberías haberte enfrentado a ella de
-                    inmediato —dijo el señor Rochester.</p>
+                    inmediato —dijo el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>.</p>
 
                 <p>—Pero en tales circunstancias, ¿qué podía hacer uno? —replicó
                     Mason—. ¡Oh, fue espantoso! —añadió, estremeciéndose—. Y no me
@@ -460,7 +547,10 @@
 
                 <p>—Me chupó la sangre; dijo que me desangraría el corazón —dijo Mason.</p>
 
-                <p>Vi al señor Rochester estremecerse. Una expresión singularmente
+                <p>Vi al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> estremecerse. Una expresión singularmente
                     marcada de asco, horror, odio, deformó su semblante casi hasta la
                     distorsión; pero solo dijo:</p>
 
@@ -478,7 +568,10 @@
                 <p>—No es imposible. Ten algo de energía, hombre. Hace dos horas
                     pensabas que estabas más muerto que una sardina, y ahora estás
                     vivo y coleando. ¡Ea! Carter ha terminado contigo, o casi. Te pondré
-                    decente en un santiamén. Jane (se volvió hacia mí por primera vez
+                    decente en un santiamén. <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span> (se volvió hacia mí por primera vez
                     desde su reingreso), toma esta llave, baja a mi dormitorio y camina
                     directamente a mi vestidor. Abre el cajón superior del armario y saca
                     una camisa y un pañuelo de cuello limpios. Tráelos aquí; y sé ágil.</p>
@@ -492,8 +585,14 @@
 
                 <p>Me retiré según lo indicado.</p>
 
-                <p>—¿Había alguien levantado abajo cuando bajaste, Jane? —inquirió
-                    el señor Rochester al instante.</p>
+                <p>—¿Había alguien levantado abajo cuando bajaste, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>? —inquirió
+                    el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> al instante.</p>
 
                 <p>—No, señor; todo estaba muy tranquilo.</p>
 
@@ -502,7 +601,10 @@
                     evitar la exposición, y no me gustaría que llegara al final. Aquí,
                     Carter, ayúdalo a ponerse el chaleco. ¿Dónde dejaste tu capa de
                     piel? No puedes viajar ni una milla sin ella, lo sé, en este maldito
-                    clima frío. ¿En tu habitación? Jane, baja corriendo a la habitación del
+                    clima frío. ¿En tu habitación? <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, baja corriendo a la habitación del
                     señor Mason, la que está al lado de la mía, y trae una capa que
                     verás allí.</p>
 
@@ -511,7 +613,10 @@
 
                 <p>—Ahora tengo otro recado para ti —dijo mi incansable amo—.
                     Debes volver a mi habitación. ¡Qué suerte que estés calzada de
-                    terciopelo, Jane! Un mensajero de zuecos nunca serviría en esta
+                    terciopelo, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>! Un mensajero de zuecos nunca serviría en esta
                     coyuntura. Debes abrir el cajón del medio de mi tocador y sacar un
                     pequeño frasco y un vasito que encontrarás allí. ¡Rápido!</p>
 
@@ -522,7 +627,10 @@
                     Conseguí este cordial en Roma, de un charlatán italiano, un tipo al
                     que habrías pateado, Carter. No es algo para usar
                     indiscriminadamente, pero es bueno en ocasiones, como ahora, por
-                    ejemplo. Jane, un poco de agua.</p>
+                    ejemplo. <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, un poco de agua.</p>
 
                 <p>Extendió el diminuto vaso y lo llené hasta la mitad con la botella
                     de agua del lavabo.</p>
@@ -539,7 +647,10 @@
 
                 <p>El señor Mason obedeció, porque era evidentemente inútil
                     resistirse. Estaba vestido ahora; todavía parecía pálido, pero ya no
-                    estaba ensangrentado y manchado. El señor Rochester lo dejó
+                    estaba ensangrentado y manchado. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> lo dejó
                     sentar tres minutos después de que se hubiera tragado el líquido;
                     luego lo tomó del brazo.</p>
 
@@ -551,11 +662,17 @@
 
                 <p>—Me siento mejor —observó el señor Mason.</p>
 
-                <p>—Estoy seguro de que sí. Ahora, Jane, trota delante de nosotros
+                <p>—Estoy seguro de que sí. Ahora, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, trota delante de nosotros
                     hacia la escalera de servicio; descorre el cerrojo de la puerta del
                     pasillo lateral y dile al cochero de la silla de postas que verás en el
                     patio —o justo fuera, pues le dije que no hiciera rodar sus ruidosas
-                    ruedas sobre el pavimento— que esté listo; ya vamos. Y, Jane, si hay
+                    ruedas sobre el pavimento— que esté listo; ya vamos. Y, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, si hay
                     alguien por ahí, ven al pie de la escalera y carraspea.</p>
 
                 <p>Para entonces eran las cinco y media, y el sol estaba a punto de
@@ -575,10 +692,16 @@
                     Todo lo demás estaba en silencio.</p>
 
                 <p>Aparecieron entonces los caballeros. Mason, apoyado en el señor
-                    Rochester y el cirujano, parecía caminar con tolerable facilidad. Lo
-                    ayudaron a subir a la calesa; Carter lo siguió.</p>
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> y el cirujano, parecía caminar con tolerable facilidad. Lo
+                    ayudaron a subir a la calesa; Carter lo siguió.
+                </p>
 
-                <p>—Cuida de él —le dijo el señor Rochester a este último—, y
+                <p>—Cuida de él —le dijo el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> a este último—, y
                     mantenlo en tu casa hasta que esté completamente bien. Pasaré a
                     caballo en uno o dos días para ver cómo le va. Richard, ¿cómo estás?</p>
 
@@ -597,13 +720,19 @@
                     respuesta. Cerró la portezuela de la calesa y el vehículo se alejó.</p>
 
                 <p>—¡Ojalá, por Dios, hubiera un final para todo esto! —añadió el
-                    señor Rochester, mientras cerraba y atrancaba las pesadas verjas del
+                    señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, mientras cerraba y atrancaba las pesadas verjas del
                     patio.</p>
 
                 <p>Hecho esto, se dirigió con paso lento y aire abstraído hacia una
                     puerta en el muro que bordeaba el huerto. Yo, suponiendo que
                     había terminado conmigo, me preparé para volver a la casa; de
-                    nuevo, sin embargo, lo oí llamar: «¡Jane!». Había abierto el portal y
+                    nuevo, sin embargo, lo oí llamar: «¡<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>!». Había abierto el portal y
                     estaba de pie en él, esperándome.</p>
 
                 <p>—Ven donde hay algo de frescura, por unos momentos —dijo—.
@@ -628,19 +757,28 @@
                     iluminaba los árboles del huerto enramados y cubiertos de rocío, y
                     brillaba por los tranquilos paseos bajo ellos.</p>
 
-                <p>—Jane, ¿quieres una flor?</p>
+                <p>—<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, ¿quieres una flor?</p>
 
                 <p>Cogió una rosa a medio abrir, la primera del rosal, y me la ofreció.</p>
 
                 <p>—Gracias, señor.</p>
 
-                <p>—¿Te gusta este amanecer, Jane? ¿Ese cielo con sus nubes altas y
+                <p>—¿Te gusta este amanecer, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>? ¿Ese cielo con sus nubes altas y
                     ligeras que seguramente se disiparán a medida que el día se
                     caliente, esta atmósfera plácida y balsámica?</p>
 
                 <p>—Sí, mucho.</p>
 
-                <p>—Has pasado una noche extraña, Jane.</p>
+                <p>—Has pasado una noche extraña, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>.</p>
 
                 <p>—Sí, señor.</p>
 
@@ -665,8 +803,14 @@
                 <p>—¿Ha pasado ya el peligro que temía anoche, señor?</p>
 
                 <p>—No puedo garantizarlo hasta que Mason esté fuera de
-                    Inglaterra; ni siquiera entonces. Vivir, para mí, Jane, es estar de pie
-                    sobre la corteza de un cráter que puede agrietarse y escupir fuego
+                    Inglaterra; ni siquiera entonces. Vivir, para mí, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, es estar de pie
+                    sobre la corteza de un cráter que puede agrietarse y escupir <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span>
                     cualquier día.</p>
 
                 <p>—Pero el señor Mason parece un hombre fácil de llevar. Su
@@ -711,20 +855,33 @@
                 <p>—Si no tiene más que temer del señor Mason que de mí, señor,
                     está usted muy a salvo.</p>
 
-                <p>—¡Quiera Dios que así sea! Aquí, Jane, hay un cenador; siéntate.</p>
+                <p>—¡Quiera Dios que así sea! Aquí, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, hay un cenador; siéntate.</p>
 
                 <p>El cenador era un arco en el muro, revestido de hiedra; contenía
-                    un asiento rústico. El señor Rochester lo tomó, dejando sitio, sin
+                    un asiento rústico. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> lo tomó, dejando sitio, sin
                     embargo, para mí; pero yo permanecí de pie ante él.</p>
 
                 <p>—Siéntate —dijo—. El banco es lo suficientemente largo para dos.
                     No dudas en tomar un lugar a mi lado, ¿verdad? ¿Está eso mal,
-                    Jane?</p>
+                    <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>?
+                </p>
 
                 <p>Le respondí asumiéndolo. Negarse, sentí, habría sido imprudente.</p>
 
                 <p>—Ahora, mi pequeña amiga, mientras el sol bebe el rocío,
-                    mientras todas las flores de este viejo jardín despiertan y se
+                    mientras todas las flores de este viejo <span class="anotacion"
+                        data-nota="Representa el Edén tentador. Es un espacio de belleza idílica, pero cargado de peligro moral. Jane se siente en el cielo, pero es un cielo construido sobre la bigamia.">
+                        jardín
+                    </span> despiertan y se
                     expanden, y los pájaros buscan el desayuno de sus crías fuera de
                     Thornfield, y las primeras abejas hacen su primer turno de trabajo,
                     te plantearé un caso que debes intentar suponer como propio. Pero
@@ -733,7 +890,10 @@
 
                 <p>—No, señor; estoy contenta.</p>
 
-                <p>—Bien, entonces, Jane, recurre a tu fantasía. Supón que ya no
+                <p>—Bien, entonces, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, recurre a tu fantasía. Supón que ya no
                     fueras una niña bien criada y disciplinada, sino un muchacho salvaje
                     consentido desde la infancia; imagínate en una remota tierra
                     extranjera; concibe que allí cometes un error funesto, no importa de
@@ -772,7 +932,10 @@
                     de los árboles, pero su canto, por muy dulce que fuera, era
                     inarticulado.</p>
 
-                <p>De nuevo el señor Rochester propuso su pregunta:</p>
+                <p>De nuevo el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> propuso su pregunta:</p>
 
                 <p>—¿Está el hombre errante y pecador, pero ahora en busca de
                     descanso y arrepentido, justificado a desafiar la opinión del mundo
@@ -801,20 +964,29 @@
                 <p>—Pequeña amiga —dijo, en un tono completamente cambiado,
                     mientras su rostro también cambiaba, perdiendo toda su suavidad y
                     gravedad y volviéndose áspero y sarcástico—, has notado mi tierna
-                    inclinación por la señorita Ingram. ¿No crees que si me casara con
+                    inclinación por la señorita<span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>. ¿No crees que si me casara con
                     ella me regeneraría con creces?</p>
 
                 <p>Se levantó al instante, fue hasta el otro extremo del paseo y,
                     cuando regresó, tarareaba una melodía.</p>
 
-                <p>—Jane, Jane —dijo, deteniéndose ante mí—, estás completamente
+                <p>—<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, Jane —dijo, deteniéndose ante mí—, estás completamente
                     pálida por tus vigilias. ¿No me maldices por perturbar tu descanso?</p>
 
                 <p>—¿Maldecirle? No, señor.</p>
 
                 <p>—Dame la mano en confirmación de la palabra. ¡Qué dedos tan
                     fríos! Estaban más cálidos anoche cuando los toqué en la puerta de
-                    la misteriosa cámara. Jane, ¿cuándo velarás conmigo de nuevo?</p>
+                    la misteriosa cámara. <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, ¿cuándo velarás conmigo de nuevo?</p>
 
                 <p>—Cuando pueda ser útil, señor.</p>
 
@@ -826,11 +998,17 @@
                 <p>
                     <—Sí, señor./p>
 
-                        <p>—Es una joya, ¿no es así, Jane?</p>
+                        <p>—Es una joya, ¿no es así, <span class="anotacion"
+                                data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                                Jane
+                            </span>?</p>
 
                         <p>—Sí, señor.</p>
 
-                        <p>—Una mujerona, una verdadera moza de rompe y rasga, Jane.
+                        <p>—Una mujerona, una verdadera moza de rompe y rasga, <span class="anotacion"
+                                data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                                Jane
+                            </span>.
                             Grande, morena y robusta; con un cabello como el que debían de
                             tener las damas de Cartago. ¡Cielos! ¡Ahí están Dent y Lynn en las
                             caballerizas! Entra por la zona de arbustos, por ese postigo.</p>

@@ -89,7 +89,10 @@
             <section class="contenido">
                 <h1>Capítulo XVI</h1>
 
-                <p>Deseaba y temía a la vez ver al señor Rochester el día que siguió a
+                <p>Deseaba y temía a la vez ver al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> el día que siguió a
                     esta noche de insomnio. Quería oír su voz de nuevo, pero temía
                     encontrarme con su mirada. Durante la primera parte de la mañana,
                     esperé momentáneamente su llegada; no tenía la costumbre
@@ -98,9 +101,18 @@
                     día.</p>
 
                 <p>Pero la mañana transcurrió como de costumbre. Nada sucedió que
-                    interrumpiera el tranquilo curso de los estudios de Adèle; solo que
+                    interrumpiera el tranquilo curso de los estudios de <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>; solo que
                     poco después del desayuno, oí cierto ajetreo en las cercanías de la
-                    cámara del señor Rochester, la voz de la señora Fairfax y la de Leah,
+                    cámara del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, la voz de la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> y la de Leah,
                     y la de la cocinera —es decir, la esposa de John— e incluso los tonos
                     roncos del propio John. Hubo exclamaciones de «¡Qué suerte que el
                     amo no se quemara en su cama!», «Siempre es peligroso dejar una
@@ -148,7 +160,10 @@
                     agua de la jarra.</p>
 
                 <p>—¡Un asunto extraño! —dije, en voz baja; luego, mirándola
-                    fijamente—: ¿El señor Rochester no despertó a nadie? ¿Nadie lo oyó
+                    fijamente—: ¿El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> no despertó a nadie? ¿Nadie lo oyó
                     moverse?</p>
 
                 <p>Ella volvió a levantar los ojos hacia mí, y esta vez había algo de
@@ -156,8 +171,14 @@
                     respondió:</p>
 
                 <p>—Los criados duermen tan lejos, ya sabe, señorita, que no sería
-                    probable que oyeran. La habitación de la señora Fairfax y la suya
-                    son las más cercanas a la del amo; pero la señora Fairfax dijo que
+                    probable que oyeran. La habitación de la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> y la suya
+                    son las más cercanas a la del amo; pero la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> dijo que
                     no oyó nada. Cuando la gente envejece, a menudo duerme
                     profundamente. —Hizo una pausa y luego añadió, con una especie
                     de indiferencia fingida, pero aún en un tono marcado y significativo
@@ -240,10 +261,15 @@
                 <p>—No se preocupe por ahora; bajaré antes de la hora del té, lo
                     haré yo misma.</p>
 
-                <p>La cocinera se volvió entonces hacia mí, diciendo que la señora
-                    Fairfax me estaba esperando; así que me marché.</p>
+                <p>La cocinera se volvió entonces hacia mí, diciendo que la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> me estaba esperando; así que me marché.</p>
 
-                <p>Apenas oí el relato de la señora Fairfax sobre el incendio de las
+                <p>Apenas oí el relato de la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> sobre el incendio de las
                     cortinas durante la cena, tan ocupada estaba rompiéndome la
                     cabeza con el enigmático carácter de Grace Poole, y más aún
                     reflexionando sobre el problema de su posición en Thornfield y
@@ -260,14 +286,22 @@
 
                 <p>Si Grace hubiera sido joven y guapa, me habría sentido tentada a
                     pensar que sentimientos más tiernos que la prudencia o el miedo
-                    influían en el señor Rochester en su favor; pero, poco agraciada y de
+                    influían en el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> en su favor; pero, poco agraciada y de
                     aspecto maternal como era, la idea no podía ser admitida. «Sin
                     embargo», reflexioné, «ha sido joven una vez; su juventud sería
-                    contemporánea a la de su amo. La señora Fairfax me dijo una vez
+                    contemporánea a la de su amo. La <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> me dijo una vez
                     que había vivido aquí muchos años. No creo que haya sido nunca
                     guapa; pero, por lo que sé, puede poseer originalidad y fuerza de
                     carácter para compensar la falta de ventajas personales. El señor
-                    Rochester es un aficionado a lo decidido y excéntrico. Grace es
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> es un aficionado a lo decidido y excéntrico. Grace es
                     excéntrica, al menos. ¿Y si un capricho anterior (un antojo muy
                     posible en una naturaleza tan súbita y testaruda como la suya) lo ha
                     entregado a su poder, y ahora ella ejerce sobre sus acciones una
@@ -278,20 +312,31 @@
                     claramente a mi ojo mental que pensé: «No; ¡imposible! Mi
                     suposición no puede ser correcta». «Sin embargo», sugirió la voz
                     secreta que nos habla en nuestros propios corazones, «tú tampoco
-                    eres hermosa, y quizás el señor Rochester te apruebe; en cualquier
+                    eres hermosa, y quizás el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> te apruebe; en cualquier
                     caso, a menudo has sentido como si lo hiciera; y anoche... recuerda
-                    sus palabras; recuerda su mirada; recuerda su voz».</p>
+                    sus palabras; recuerda su mirada; recuerda su voz».
+                </p>
 
                 <p>Recordaba bien todo; lenguaje, mirada y tono parecían en ese
-                    momento vívidamente renovados. Estaba ahora en el aula; Adèle
+                    momento vívidamente renovados. Estaba ahora en el aula; <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>
                     dibujaba. Me incliné sobre ella y dirigí su lápiz. Levantó la vista con
                     una especie de sobresalto.</p>
 
-                <p>—<i>Qu'avez-vous, mademoiselle?</i>—dijo—.<i>Vos doigts tremblent
-                        comme la feuille, et vos joues sont rouges: mais, rouges comme des
-                        cerises!</i></p>
+                <p>—<i><span class="anotacion"
+                            data-nota="¿Qué le pasa, señorita? Tus dedos tiemblan como una hoja y tus mejillas están rojas: ¡pero rojas como las cerezas!">Qu'avez-vous,
+                            mademoiselle? Vos doigts tremblent comme la feuille, et vos joues sont rouges: mais, rouges
+                            comme des cerises!</span></i></p>
 
-                <p>—¡Tengo calor, Adèle, de estar inclinada! —Ella siguió dibujando;
+                <p>—¡Tengo calor,<span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, de estar inclinada! —Ella siguió dibujando;
                     yo seguí pensando.</p>
 
                 <p>Me apresuré a expulsar de mi mente la odiosa noción que había
@@ -303,16 +348,25 @@
                     esperanzas más brillantes y goces más agudos.</p>
 
                 <p>«Se acerca la tarde», dije, mientras miraba hacia la ventana. «No
-                    he oído la voz ni los pasos del señor Rochester en la casa hoy; pero
+                    he oído la voz ni los pasos del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> en la casa hoy; pero
                     seguramente lo veré antes de la noche. Temía el encuentro por la
                     mañana; ahora lo deseo, porque la expectativa se ha frustrado tanto
                     tiempo que se ha vuelto impaciente».</p>
 
-                <p>Cuando el crepúsculo realmente se cerró, y cuando Adèle me dejó
+                <p>Cuando el crepúsculo realmente se cerró, y cuando <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> me dejó
                     para ir a jugar al cuarto de los niños con Sophie, lo deseé con la
                     mayor intensidad. Escuché a que sonara la campanilla abajo;
                     escuché a que Leah subiera con un mensaje; a veces me parecía oír
-                    los propios pasos del señor Rochester, y me volvía hacia la puerta,
+                    los propios pasos del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, y me volvía hacia la puerta,
                     esperando que se abriera y lo admitiera. La puerta permaneció
                     cerrada; solo la oscuridad entraba por la ventana. Aún no era tarde;
                     a menudo me mandaba llamar a las siete y a las ocho, y todavía no
@@ -333,8 +387,15 @@
 
                 <p>Unos pasos crujieron en la escalera por fin. Leah hizo su aparición;
                     pero solo para comunicar que el té estaba listo en la habitación de la
-                    señora Fairfax. Allí me dirigí, contenta al menos de bajar, pues eso
-                    me acercaba, imaginaba, a la presencia del señor Rochester.</p>
+                    <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>. Allí me dirigí, contenta al menos de bajar, pues eso
+                    me acercaba, imaginaba, a la presencia del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>.
+                </p>
 
                 <p>—Debe de querer su té —dijo la buena dama, mientras me unía a
                     ella—. Comió tan poco en la cena. Me temo —continuó— que no se
@@ -350,10 +411,16 @@
                     oscuridad total.</p>
 
                 <p>—Hace bueno esta noche —dijo, mientras miraba a través de los
-                    cristales—, aunque no hay estrellas. El señor Rochester, en general,
+                    cristales—, aunque no hay estrellas. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, en general,
                     ha tenido un día favorable para su viaje.</p>
 
-                <p>—¡Viaje! ¿Se ha ido el señor Rochester a alguna parte? No sabía
+                <p>—¡Viaje! ¿Se ha ido el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> a alguna parte? No sabía
                     que estaba fuera.</p>
 
                 <p>—¡Oh, partió en el momento en que desayunó! Se ha ido a Leas,
@@ -368,7 +435,10 @@
                     moda se reúne, están tan rodeados de elegancia y alegría, tan bien
                     provistos de todo lo que puede complacer y entretener, que no
                     tienen prisa por separarse. Los caballeros, especialmente, suelen ser
-                    muy solicitados en tales ocasiones; y el señor Rochester es tan
+                    muy solicitados en tales ocasiones; y el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> es tan
                     talentoso y tan animado en sociedad que creo que es un favorito
                     general. Las damas le tienen mucho aprecio, aunque no pensaría
                     usted que su apariencia está calculada para recomendarlo
@@ -379,32 +449,53 @@
                 <p>—¿Hay damas en Leas?</p>
 
                 <p>—Están la señora Eshton y sus tres hijas, unas jóvenes muy
-                    elegantes, por cierto; y están las Honorables Blanche y Mary
+                    elegantes, por cierto; y están las Honorables <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Blanche
+                    </span> y Mary
                     Ingram, mujeres hermosísimas, supongo. De hecho, he visto a
                     Blanche, hace seis o siete años, cuando era una muchacha de
                     dieciocho. Vino aquí a un baile y fiesta de Navidad que dio el señor
-                    Rochester. ¡Debería haber visto el comedor ese día, qué ricamente
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. ¡Debería haber visto el comedor ese día, qué ricamente
                     estaba decorado, qué brillantemente iluminado! Creo que había
                     cincuenta damas y caballeros presentes, todos de las primeras
-                    familias del condado; y la señorita Ingram fue considerada la belleza
-                    de la noche.</p>
+                    familias del condado; y la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> fue considerada la belleza
+                    de la noche.
+                </p>
 
-                <p>—La vio, dice usted, señora Fairfax. ¿Cómo era?</p>
+                <p>—La vio, dice usted, <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>. ¿Cómo era?</p>
 
                 <p>—Sí, la vi. Las puertas del comedor se abrieron de par en par; y,
                     como era Navidad, se permitió a los criados reunirse en el vestíbulo
-                    para oír a algunas de las damas cantar y tocar. El señor Rochester
+                    para oír a algunas de las damas cantar y tocar. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>
                     me hizo entrar, y me senté en un rincón tranquilo y los observé.
                     Nunca vi una escena más espléndida. Las damas estaban
                     magníficamente vestidas; la mayoría de ellas, al menos la mayoría
-                    de las más jóvenes, parecían guapas; pero la señorita Ingram era
+                    de las más jóvenes, parecían guapas; pero la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> era
                     ciertamente la reina.</p>
 
                 <p>—¿Y cómo era?</p>
 
                 <p>—Alta, de hermoso busto, hombros caídos; cuello largo y grácil;
                     tez aceitunada, oscura y clara; rasgos nobles; ojos bastante
-                    parecidos a los del señor Rochester, grandes y negros, y tan
+                    parecidos a los del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, grandes y negros, y tan
                     brillantes como sus joyas. Y además tenía una cabellera preciosa;
                     negro como el cuervo y tan bien arreglada: una corona de gruesas
                     trenzas detrás, y delante, los rizos más largos y lustrosos que he
@@ -418,17 +509,29 @@
 
                 <p>—Sí, por supuesto; y no solo por su belleza, sino por sus
                     habilidades. Fue una de las damas que cantó; un caballero la
-                    acompañó al piano. Ella y el señor Rochester cantaron un dúo.</p>
+                    acompañó al piano. Ella y el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> cantaron un dúo.</p>
 
-                <p>—¿El señor Rochester? No sabía que supiera cantar.</p>
+                <p>—¿El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>? No sabía que supiera cantar.</p>
 
                 <p>—¡Oh! Tiene una hermosa voz de bajo y un excelente gusto para la música.</p>
 
-                <p>—¿Y la señorita Ingram, qué clase de voz tenía?</p>
+                <p>—¿Y la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>, qué clase de voz tenía?</p>
 
                 <p>—Una muy rica y potente. Cantaba deliciosamente; era un placer
                     escucharla. Y después tocó. No soy juez de música, pero el señor
-                    Rochester sí; y le oí decir que su ejecución era notablemente buena.</p>
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> sí; y le oí decir que su ejecución era notablemente buena.
+                </p>
 
                 <p>—¿Y esta dama hermosa y culta aún no está casada?</p>
 
@@ -437,22 +540,40 @@
                     principalmente vinculadas, y el hijo mayor se quedó con casi todo.</p>
 
                 <p>—Pero me pregunto por qué ningún noble o caballero rico se ha
-                    encaprichado de ella. El señor Rochester, por ejemplo. Él es rico, ¿no
+                    encaprichado de ella. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, por ejemplo. Él es rico, ¿no
                     es así?</p>
 
                 <p>—¡Oh, sí! Pero ya ve, hay una considerable diferencia de edad. El
-                    señor Rochester tiene casi cuarenta años; ella solo veinticinco.</p>
+                    señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> tiene casi cuarenta años; ella solo veinticinco.</p>
 
                 <p>—¿Y qué? Todos los días se celebran matrimonios más desiguales.</p>
 
-                <p>—Cierto. Sin embargo, apenas me imagino que el señor Rochester
+                <p>—Cierto. Sin embargo, apenas me imagino que el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>
                     albergue una idea de ese tipo. Pero no come usted nada; apenas ha
                     probado desde que empezó a tomar el té.</p>
 
                 <p>—No; tengo demasiada sed para comer. ¿Me permite otra taza?</p>
 
                 <p>Estaba a punto de volver a la probabilidad de una unión entre el
-                    señor Rochester y la hermosa Blanche; pero Adèle entró y la
+                    señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> y la hermosa <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Blanche
+                    </span>; pero <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> entró y la
                     conversación se desvió hacia otro canal.</p>
 
                 <p>Una vez más sola, repasé la información que había obtenido; miré
@@ -470,11 +591,17 @@
                     lo real y devorado rabiosamente lo ideal, pronuncié sentencia a este
                     efecto:</p>
 
-                <p>Que una tonta más grande que Jane Eyre nunca había respirado el
+                <p>Que una tonta más grande que <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane Eyre
+                    </span> nunca había respirado el
                     aliento de la vida; que una idiota más fantástica nunca se había
                     hartado de dulces mentiras y tragado veneno como si fuera néctar.</p>
 
-                <p>«¿Tú», me dije, «una favorita del señor Rochester? ¿Tú, dotada
+                <p>«¿Tú», me dije, «una favorita del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>? ¿Tú, dotada
                     del poder de complacerle? ¿Tú, de importancia para él de alguna
                     manera? ¡Vamos! Tu locura me enferma. Y has obtenido placer de
                     muestras ocasionales de preferencia, muestras equívocas mostradas
@@ -489,10 +616,16 @@
                     con ella; y es una locura en todas las mujeres dejar que un amor
                     secreto se encienda en su interior, el cual, si no es correspondido y
                     es desconocido, debe devorar la vida que lo alimenta; y, si es
-                    descubierto y correspondido, debe conducir, como un fuego fatuo, a
+                    descubierto y correspondido, debe conducir, como un <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> fatuo, a
                     ciénagas de las que no hay escapatoria.</p>
 
-                <p>»Escucha, entonces, Jane Eyre, tu sentencia: mañana, coloca el
+                <p>»Escucha, entonces, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane Eyre
+                    </span>, tu sentencia: mañana, coloca el
                     espejo ante ti y dibuja en tiza tu propio retrato, fielmente, sin
                     suavizar un solo defecto; no omitas ninguna línea dura, no alises
                     ninguna irregularidad desagradable; escribe debajo: “Retrato de una
@@ -503,30 +636,51 @@
                     frescos, más finos, más claros; elige tus pinceles de pelo de camello
                     más delicados; delinea cuidadosamente el rostro más encantador
                     que puedas imaginar; píntalo con tus tonos más suaves y tus líneas
-                    más dulces, según la descripción dada por la señora Fairfax de
-                    Blanche Ingram; recuerda los rizos de cuervo, el ojo oriental. ¡Cómo!
-                    ¿Vuelves al señor Rochester como modelo? ¡Orden! ¡Nada de
+                    más dulces, según la descripción dada por la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> de
+                    <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Blanche Ingram
+                    </span>; recuerda los rizos de cuervo, el ojo oriental. ¡Cómo!
+                    ¿Vuelves al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> como modelo? ¡Orden! ¡Nada de
                     lloriqueos! ¡Nada de sentimentalismos! ¡Nada de lamentos! Solo
                     toleraré el sentido y la resolución. Recuerda los rasgos augustos
                     pero armoniosos, el cuello y el busto griegos; que el brazo redondo
                     y deslumbrante sea visible, y la mano delicada; no omitas ni el anillo
                     de diamantes ni el brazalete de oro; retrata fielmente el atuendo,
                     encaje etéreo y satén reluciente, pañuelo grácil y rosa dorada;
-                    llámalo “Blanche, una dama de rango y culta”.</p>
+                    llámalo “<span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Blanche
+                    </span>, una dama de rango y culta”.
+                </p>
 
-                <p>»Siempre que, en el futuro, te imagines que el señor Rochester
+                <p>»Siempre que, en el futuro, te imagines que el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>
                     piensa bien de ti, saca estos dos cuadros y compáralos. Di: “El señor
-                    Rochester podría probablemente ganar el amor de esa noble dama,
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> podría probablemente ganar el amor de esa noble dama,
                     si decidiera esforzarse por ello; ¿es probable que desperdiciara un
-                    pensamiento serio en esta plebeya indigente e insignificante?”.»</p>
+                    pensamiento serio en esta plebeya indigente e insignificante?”.»
+                </p>
 
                 <p>«Lo haré», resolví. Y habiendo formulado esta determinación, me
                     calmé y me quedé dormida.</p>
 
                 <p>Mantuve mi palabra. Una o dos horas fueron suficientes para
                     esbozar mi propio retrato a lápiz; y en menos de quince días había
-                    completado una miniatura de marfil de una imaginaria Blanche
-                    Ingram. Parecía un rostro bastante encantador, y cuando se
+                    completado una miniatura de marfil de una imaginaria <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Blanche Ingram
+                    </span>. Parecía un rostro bastante encantador, y cuando se
                     comparaba con la cabeza real en tiza, el contraste era tan grande
                     como el autocontrol podía desear. Obtuve beneficio de la tarea:
                     había mantenido mi cabeza y mis manos ocupadas, y había dado

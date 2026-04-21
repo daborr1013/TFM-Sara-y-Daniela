@@ -92,7 +92,10 @@
                 <p>La promesa de una carrera tranquila, que mi primera y serena
                     introducción a Thornfield Hall parecía augurar, no fue desmentida
                     por un conocimiento más prolongado del lugar y sus habitantes. La
-                    señora Fairfax resultó ser lo que aparentaba: una mujer de
+                    <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> resultó ser lo que aparentaba: una mujer de
                     temperamento plácido y naturaleza amable, de educación
                     competente e inteligencia media. Mi alumna era una niña vivaz, que
                     había sido mimada y consentida y, por lo tanto, a veces era
@@ -107,17 +110,25 @@
                     un afecto vivaz, aunque quizás no muy profundo; y con su
                     simplicidad, su alegre parloteo y sus esfuerzos por complacer, me
                     inspiró, a cambio, un grado de apego suficiente para que ambas
-                    estuviéramos contentas en la compañía de la otra.</p>
+                    estuviéramos contentas en la compañía de la otra.
+                </p>
 
-                <p>Esto, <i>par parenthèse</i>, será considerado un lenguaje frío por
+                <p>Esto, <i><span class="anotacion" data-nota="por cierto">par parenthèse</span></i>, será considerado
+                    un lenguaje frío por
                     personas que sostienen doctrinas solemnes sobre la naturaleza
                     angelical de los niños y el deber de quienes están a cargo de su
                     educación de concebir por ellos una devoción idólatra. Pero no estoy
                     escribiendo para halagar el egoísmo paternal, para hacer eco de la
                     hipocresía o para apuntalar el embuste; simplemente estoy diciendo
                     la verdad. Sentía una solicitud concienzuda por el bienestar y el
-                    progreso de Adèle, y un afecto tranquilo por su pequeña persona;
-                    así como albergaba hacia la señora Fairfax una gratitud por su
+                    progreso de <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, y un afecto tranquilo por su pequeña persona;
+                    así como albergaba hacia la <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> una gratitud por su
                     amabilidad y un placer en su compañía proporcionales al tranquilo
                     aprecio que ella tenía por mí y a la moderación de su mente y su
                     carácter.</p>
@@ -125,8 +136,13 @@
                 <p>Cualquiera puede culparme si quiere, cuando añado además que,
                     de vez en cuando, cuando daba un paseo sola por los terrenos;
                     cuando bajaba a las verjas y miraba a través de ellas a lo largo del
-                    camino; o cuando, mientras Adèle jugaba con su nodriza y la señora
-                    Fairfax preparaba jaleas en la despensa, subía las tres escaleras,
+                    camino; o cuando, mientras <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> jugaba con su nodriza y la <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> preparaba jaleas en la despensa, subía las tres escaleras,
                     levantaba la trampilla del desván y, habiendo llegado a la azotea,
                     miraba a lo lejos sobre campos y colinas apartados y a lo largo de la
                     tenue línea del horizonte; que entonces anhelaba un poder de visión
@@ -135,8 +151,15 @@
                     oído hablar pero que nunca había visto; que entonces deseaba más
                     experiencia práctica de la que poseía, más trato con mis semejantes,
                     más conocimiento de la variedad de caracteres de lo que aquí estaba
-                    a mi alcance. Valoraba lo que era bueno en la señora Fairfax y lo que
-                    era bueno en Adèle; pero creía en la existencia de otros tipos de
+                    a mi alcance. Valoraba lo que era bueno en la <span class="anotacion" data-nota="<span class="
+                        anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> y lo que
+                    era bueno en <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>; pero creía en la existencia de otros tipos de
                     bondad más vívidos, y lo que creía, deseaba contemplarlo.</p>
 
                 <p>¿Quién me culpa? Muchos, sin duda; y se me llamará descontenta.
@@ -150,7 +173,9 @@
                     expandía de vida; y, lo mejor de todo, abrir mi oído interno a un
                     cuento que nunca terminaba, un cuento que mi imaginación creaba
                     y narraba continuamente, avivado con todos los incidentes, la vida,
-                    el fuego, el sentimiento, que yo deseaba y no tenía en mi existencia
+                    el <span class="anotacion" data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span>, el sentimiento, que yo deseaba y no tenía en mi existencia
                     real.</p>
 
                 <p>Es en vano decir que los seres humanos deberían estar satisfechos
@@ -195,22 +220,43 @@
                     para fomentar la indagación.</p>
 
                 <p>Octubre, noviembre, diciembre pasaron. Una tarde de enero, la
-                    señora Fairfax había pedido un día festivo para Adèle, porque tenía
-                    un resfriado; y, como Adèle secundó la petición con un ardor que me
+                    <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> había pedido un día festivo para <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, porque tenía
+                    un resfriado; y, como <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> secundó la petición con un ardor que me
                     recordó lo preciosos que habían sido para mí los días festivos
                     ocasionales en mi propia infancia, se lo concedí, considerando que
                     hacía bien en mostrar flexibilidad en ese punto. Era un día bueno y
                     tranquilo, aunque muy frío; estaba cansada de estar sentada quieta
-                    en la biblioteca durante toda una larga mañana. La señora Fairfax
+                    en la biblioteca durante toda una larga mañana. La <span class="anotacion" data-nota="<span class="
+                        anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>
                     acababa de escribir una carta que esperaba ser enviada, así que me
                     puse mi gorro y mi capa y me ofrecí voluntaria para llevarla a Hay; la
                     distancia, dos millas, sería un agradable paseo de tarde de invierno.
-                    Habiendo visto a Adèle cómodamente sentada en su sillita junto al
-                    fuego del salón de la señora Fairfax, y habiéndole dado su mejor
+                    Habiendo visto a <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> cómodamente sentada en su sillita junto al
+                    fuego del salón de la <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>, y habiéndole dado su mejor
                     muñeca de cera (que yo solía guardar envuelta en papel de plata en
                     un cajón) para que jugara, y un libro de cuentos para cambiar de
-                    diversión; y habiendo respondido a su «<i>Revenez bientôt, ma bonne
-                        amie, ma chère Mdlle. Jeannette</i>» con un beso, partí.</p>
+                    diversión; y habiendo respondido a su «<i><span class="anotacion"
+                            data-nota="Vuelvan pronto, mi buena amiga, mi querida señorita Jane.">Revenez bientôt, ma
+                            bonne amie, ma chère Mdlle. Jeannette</span></i>» con un beso, partí.
+                </p>
 
                 <p>El suelo estaba duro, el aire quieto, mi camino solitario. Caminé
                     rápido hasta que entré en calor, y luego caminé lentamente para
@@ -352,7 +398,10 @@
                     la belleza, la elegancia, la galantería, la fascinación; pero si hubiera
                     encontrado esas cualidades encarnadas en forma masculina, habría
                     sabido instintivamente que no tenían ni podían tener simpatía con
-                    nada en mí, y las habría rehuido como se rehúye el fuego, el rayo o
+                    nada en mí, y las habría rehuido como se rehúye el <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span>, el rayo o
                     cualquier otra cosa que sea brillante pero antipática.</p>
 
                 <p>Incluso si este extraño me hubiera sonreído y se hubiera mostrado
@@ -387,9 +436,15 @@
 
                 <p>—¿De quién es la casa?</p>
 
-                <p>—Del señor Rochester.</p>
+                <p>—Del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>.</p>
 
-                <p>—¿Conoce al señor Rochester?</p>
+                <p>—¿Conoce al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>?</p>
 
                 <p>—No, nunca lo he visto.</p>
 
@@ -488,7 +543,10 @@
                 <p>No me gustaba volver a entrar en Thornfield. Cruzar su umbral era
                     volver al estancamiento; atravesar el silencioso vestíbulo, ascender
                     la oscura escalera, buscar mi propia y solitaria habitación, y luego
-                    encontrarme con la tranquila señora Fairfax y pasar la larga tarde de
+                    encontrarme con la tranquila <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> y pasar la larga tarde de
                     invierno con ella, y solo con ella, era sofocar por completo la débil
                     excitación despertada por mi paseo, volver a deslizar sobre mis
                     facultades los grilletes invisibles de una existencia uniforme y
@@ -529,11 +587,24 @@
                     pulidos, con el más agradable resplandor. Revelaba, también, un
                     grupo cerca de la repisa de la chimenea. Apenas lo había captado, y
                     apenas me había dado cuenta de una alegre mezcla de voces, entre
-                    las cuales me pareció distinguir los tonos de Adèle, cuando la puerta
+                    las cuales me pareció distinguir los tonos de <span class="anotacion" data-nota="<span class="
+                        anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, cuando la puerta
                     se cerró.</p>
 
-                <p>Me apresuré a la habitación de la señora Fairfax; allí también
-                    había fuego, pero no había vela, ni tampoco la señora Fairfax. En su
+                <p>Me apresuré a la habitación de la <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>; allí también
+                    había <span class="anotacion" data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span>, pero no había vela, ni tampoco la <span class="anotacion" data-nota="<span class="
+                        anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>. En su
                     lugar, completamente solo, sentado erguido sobre la alfombra y
                     contemplando con gravedad las llamas, vi a un gran perro de pelo
                     largo, blanco y negro, exactamente igual que el Gytrash del sendero.
@@ -550,11 +621,17 @@
 
                 <p>—¿Con quién?</p>
 
-                <p>—Con el amo, el señor Rochester. Acaba de llegar.</p>
+                <p>—Con el amo, el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. Acaba de llegar.</p>
 
                 <p>—¡De veras! ¿Y la señora Fairfax está con él?</p>
 
-                <p>—Sí, y la señorita Adèle; están en el comedor, y John ha ido a
+                <p>—Sí, y la señorita <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>; están en el comedor, y John ha ido a
                     buscar un cirujano, pues el amo ha tenido un accidente; su caballo
                     se cayó y se ha torcido el tobillo.</p>
 
@@ -566,7 +643,10 @@
 
                 <p>Leah la trajo; entró, seguida por la señora Fairfax, quien repitió la
                     noticia, añadiendo que el señor Carter, el cirujano, había llegado y
-                    estaba ahora con el señor Rochester. Luego salió apresuradamente
+                    estaba ahora con el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. Luego salió apresuradamente
                     para dar órdenes sobre el té, y yo subí a quitarme mis cosas.</p>
 
                 <div class="botonesFinales">

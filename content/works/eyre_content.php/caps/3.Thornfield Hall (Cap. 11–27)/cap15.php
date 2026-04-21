@@ -88,16 +88,24 @@
             <section class="contenido">
                 <h1>Capítulo XV</h1>
 
-                <p>El señor Rochester, en una ocasión futura, lo explicó. Fue una tarde
-                    en que casualmente nos encontró a Adèle y a mí en los terrenos; y
+                <p>El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, en una ocasión futura, lo explicó. Fue una tarde
+                    en que casualmente nos encontró a <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> y a mí en los terrenos; y
                     mientras ella jugaba con Pilot y su volante, me pidió que paseara de
                     un lado a otro por una larga avenida de hayas, a la vista de ella.</p>
 
                 <p>Dijo entonces que era hija de una bailarina de ópera francesa,
                     Céline Varens, hacia quien él había albergado en otro tiempo lo que
-                    llamaba una «<i>grande passion</i>». Esta pasión, Céline había profesado
+                    llamaba una «<i><span class="anotacion" data-nota="gran pasión">grande passion</span></i>». Esta
+                    pasión, Céline había profesado
                     corresponderla con un ardor incluso superior. Él se creía su ídolo, feo
-                    como era; creía, según dijo, que ella prefería su «<i>taille d'athlète</i>» a
+                    como era; creía, según dijo, que ella prefería su «<i><span class="anotacion"
+                            data-nota="talle de atleta">taille d'athlète</span></i>» a
                     la elegancia del Apolo de Belvedere.</p>
 
                 <p>—Y, señorita Eyre, tan halagado me sentí por esta preferencia de
@@ -128,12 +136,14 @@
                     incienso de La Habana en el aire helado y sin sol, continuó:</p>
 
                 <p>—También me gustaban los bombones en aquellos días, señorita
-                    Eyre, y estaba croquant —(pase por alto el barbarismo)—, <i>croquant</i>
+                    Eyre, y estaba croquant —(pase por alto el barbarismo)—, <i><span class="anotacion"
+                            data-nota="crocante">croquant</span></i>
                     confites de chocolate, y fumando alternativamente, mientras
                     observaba los carruajes que rodaban por las calles de moda hacia la
                     ópera cercana, cuando en un elegante coche cerrado tirado por un
                     hermoso par de caballos ingleses, y visto claramente en la brillante
-                    noche de la ciudad, reconocí la <i>voiture</i> que le había regalado a
+                    noche de la ciudad, reconocí la <i><span class="anotacion" data-nota="coche">voiture</span></i> que
+                    le había regalado a
                     Céline. Regresaba. Por supuesto, mi corazón latió con impaciencia
                     contra las barandillas de hierro sobre las que me apoyaba. El
                     carruaje se detuvo, como esperaba, en la puerta del hotel; mi llama
@@ -142,12 +152,14 @@
                     por cierto, en una noche de junio tan cálida—, la reconocí al instante
                     por su pequeño pie, que se asomaba por el borde de su vestido
                     mientras saltaba del estribo del carruaje. Inclinándome sobre el
-                    balcón, estaba a punto de murmurar <i>Mon ange</i> —en un tono, por
+                    balcón, estaba a punto de murmurar <i><span class="anotacion" data-nota="Mi ángel">Mon
+                            ange</span></i> —en un tono, por
                     supuesto, que solo debería ser audible para el oído del amor—,
                     cuando una figura saltó del carruaje tras ella; también con capa,
                     pero era un tacón espoleado el que había resonado en el pavimento,
                     y era una cabeza con sombrero la que ahora pasaba bajo la
-                    arqueada <i>porte cochère</i> del hotel.</p>
+                    arqueada <i><span class="anotacion" data-nota="portón de entrada">porte cochère</span></i> del
+                    hotel.</p>
 
                 <p>»Usted nunca ha sentido celos, ¿verdad, señorita Eyre? Por
                     supuesto que no. No necesito preguntárselo, porque nunca ha
@@ -202,7 +214,10 @@
                     lanza, el dardo y la loriga, los impedimentos que otros cuentan como
                     hierro y bronce, yo los estimaré como paja y madera podrida».</p>
 
-                <p>Adèle corrió entonces delante de él con su volante.</p>
+                <p><span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> corrió entonces delante de él con su volante.</p>
 
                 <p>—¡Fuera! —gritó con dureza—. Mantente a distancia, niña; ¡o
                     entra con Sophie! —Continuando luego su paseo en silencio, me
@@ -268,14 +283,19 @@
                     pudieron a su manera. Especialmente Céline, que incluso se volvió
                     bastante brillante sobre mis defectos personales, deformidades los
                     llamó. Ahora bien, había sido su costumbre lanzarse a una ferviente
-                    admiración de lo que llamaba mi <i>beauté mâle</i>, en lo que difería
+                    admiración de lo que llamaba mi <i><span class="anotacion" data-nota="belleza masculina">beauté
+                            mâle</span></i>, en lo que difería
                     diametralmente de usted, que me dijo sin rodeos, en la segunda
                     entrevista, que no me consideraba guapo. El contraste me llamó la
                     atención en ese momento y...</p>
 
-                <p>Adèle volvió corriendo de nuevo.</p>
+                <p><span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> volvió corriendo de nuevo.</p>
 
-                <p>—<i>Monsieur</i>, John acaba de venir a decir que su agente ha llamado
+                <p>—<i><span class="anotacion" data-nota="Señor">Monsieur</span></i>, John acaba de venir a decir que su
+                    agente ha llamado
                     y desea verlo.</p>
 
                 <p>—¡Ah! En ese caso debo abreviar. Abriendo la ventana, entré y los
@@ -287,23 +307,38 @@
                     encontrarlo; le dejé una bala en uno de sus pobres y enclenques
                     brazos, débil como el ala de un pollo con pepita, y luego pensé que
                     había terminado con toda la pandilla. Pero, por desgracia, la Varens,
-                    seis meses antes, me había dado esta <i>filette</i>, Adèle, quien, afirmó
+                    seis meses antes, me había dado esta <i><span class="anotacion"
+                            data-nota="niña">filette</span></i>>, <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, quien, afirmó
                     ella, era mi hija; y quizás lo sea, aunque no veo pruebas de tan
                     sombría paternidad escritas en su semblante. Pilot se parece más a
                     mí que ella. Unos años después de que yo rompiera con la madre,
                     ella abandonó a su hija y se fugó a Italia con un músico o cantante.
-                    No reconocí ningún derecho natural por parte de Adèle a ser
+                    No reconocí ningún derecho natural por parte de <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> a ser
                     mantenida por mí, ni lo reconozco ahora, pues no soy su padre; pero
                     al oír que estaba completamente desamparada, saqué a la pobrecilla
                     del fango y el lodo de París y la trasplanté aquí, para que creciera
-                    limpia en el suelo saludable de un jardín campestre inglés. La señora
-                    Fairfax la encontró a usted para educarla; pero ahora que sabe que
+                    limpia en el suelo saludable de un <span class="anotacion"
+                        data-nota="Representa el Edén tentador. Es un espacio de belleza idílica, pero cargado de peligro moral. Jane se siente en el cielo, pero es un cielo construido sobre la bigamia.">
+                        jardín
+                    </span> campestre inglés. La <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> la encontró a usted para educarla; pero ahora que sabe que
                     es la descendencia ilegítima de una cantante de ópera francesa,
                     quizás piense de otra manera sobre su puesto y su protegida.
                     Vendrá a verme algún día con la noticia de que ha encontrado otro
                     lugar, de que me ruega que busque una nueva institutriz, etc. ¿Eh?</p>
 
-                <p>—No. Adèle no es responsable ni de las faltas de su madre ni de
+                <p>—No. <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> no es responsable ni de las faltas de su madre ni de
                     las suyas. Siento aprecio por ella; y ahora que sé que está, en cierto
                     sentido, sin padres —abandonada por su madre y repudiada por
                     usted, señor—, me aferraré más a ella que antes. ¿Cómo podría
@@ -314,7 +349,10 @@
                 <p>—¡Oh, esa es la luz con la que lo ve! Bueno, debo entrar ahora; y
                     usted también. Oscurece.</p>
 
-                <p>Pero me quedé fuera unos minutos más con Adèle y Pilot; eché
+                <p>Pero me quedé fuera unos minutos más con <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> y Pilot; eché
                     una carrera con ella y jugué un partido de bádminton. Cuando
                     entramos y le hube quitado el gorro y el abrigo, la tomé en mi
                     regazo; la mantuve allí una hora, permitiéndole parlotear a su
@@ -324,13 +362,19 @@
                     carácter, heredada probablemente de su madre, apenas congenial a
                     una mente inglesa. Aun así, tenía sus méritos, y yo estaba dispuesta
                     a apreciar todo lo bueno que había en ella al máximo. Busqué en su
-                    semblante y en sus rasgos un parecido con el señor Rochester, pero
+                    semblante y en sus rasgos un parecido con el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, pero
                     no encontré ninguno; ningún rasgo, ningún giro de expresión
                     anunciaba parentesco. Era una lástima; si tan solo se hubiera podido
                     demostrar que se parecía a él, habría pensado más en ella.</p>
 
                 <p>No fue hasta después de haberme retirado a mi propia cámara por
-                    la noche que repasé detenidamente el relato que el señor Rochester
+                    la noche que repasé detenidamente el relato que el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>
                     me había contado. Como él había dicho, probablemente no había
                     nada extraordinario en la sustancia de la narración en sí: la pasión
                     de un inglés rico por una bailarina francesa y la traición de esta
@@ -374,10 +418,16 @@
                     agrandarse; los vacíos de la existencia se llenaron; mi salud corporal
                     mejoró; gané carne y fuerza.</p>
 
-                <p>¿Y era ahora el señor Rochester feo a mis ojos? No, lector. La
+                <p>¿Y era ahora el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> feo a mis ojos? No, lector. La
                     gratitud y muchas asociaciones, todas placenteras y cordiales,
                     hicieron de su rostro el objeto que más me gustaba ver; su
-                    presencia en una habitación era más reconfortante que el fuego más
+                    presencia en una habitación era más reconfortante que el <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> más
                     brillante. Sin embargo, no había olvidado sus faltas; de hecho, no
                     podía, pues él me las presentaba con frecuencia. Era orgulloso,
                     sardónico, duro con la inferioridad de toda descripción. En el fondo
@@ -403,7 +453,10 @@
                     desafiado a ser feliz en Thornfield.</p>
 
                 <p>«¿Por qué no?», me pregunté. «¿Qué lo aleja de la casa? ¿La
-                    dejará de nuevo pronto? La señora Fairfax dijo que rara vez se
+                    dejará de nuevo pronto? La <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> dijo que rara vez se
                     quedaba aquí más de quince días seguidos; y ahora lleva ocho
                     semanas de residencia. Si se va, el cambio será desolador.
                     Supongamos que estuviera ausente en primavera, verano y otoño.
@@ -427,13 +480,16 @@
                 <p>De repente recordé que podría ser Pilot, quien, cuando la puerta
                     de la cocina quedaba abierta por casualidad, no con poca frecuencia
                     encontraba el camino hasta el umbral de la cámara del señor
-                    Rochester. Yo misma lo había visto yacer allí por las mañanas. La
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. Yo misma lo había visto yacer allí por las mañanas. La
                     idea me calmó un poco; me acosté. El silencio serena los nervios; y
                     como una quietud ininterrumpida reinaba ahora de nuevo en toda la
                     casa, comencé a sentir el regreso del sueño. Pero no estaba
                     destinado que yo durmiera esa noche. Apenas se había acercado un
                     sueño a mi oído, cuando huyó despavorido, asustado por un
-                    incidente que helaba la médula.</p>
+                    incidente que helaba la médula.
+                </p>
 
                 <p>Fue una risa demoníaca —baja, reprimida y profunda—, proferida,
                     al parecer, en el mismo ojo de la cerradura de la puerta de mi
@@ -451,8 +507,10 @@
                     todo quedó en silencio.</p>
 
                 <p>«¿Era esa Grace Poole? ¿Y está poseída por un demonio?», pensé.
-                    Imposible ahora permanecer más tiempo sola. Debo ir con la señora
-                    Fairfax. Me puse apresuradamente mi vestido y un chal; quité el
+                    Imposible ahora permanecer más tiempo sola. Debo ir con la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>. Me puse apresuradamente mi vestido y un chal; quité el
                     cerrojo y abrí la puerta con mano temblorosa. Había una vela
                     encendida justo fuera, sobre la estera de la galería. Me sorprendió
                     esta circunstancia, pero aún más me asombró percibir el aire
@@ -461,11 +519,26 @@
                     me di cuenta además de un fuerte olor a quemado.</p>
 
                 <p>Algo crujió. Era una puerta entornada; y esa puerta era la del
-                    señor Rochester, y el humo salía en una nube de allí. No pensé más
-                    en la señora Fairfax; no pensé más en Grace Poole, ni en la risa. En
-                    un instante, estaba dentro de la cámara. Lenguas de fuego
-                    danzaban alrededor de la cama; las cortinas estaban en llamas. En
-                    medio del resplandor y el vapor, el señor Rochester yacía inmóvil, en
+                    señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, y el humo salía en una nube de allí. No pensé más
+                    en la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>; no pensé más en Grace Poole, ni en la risa. En
+                    un instante, estaba dentro de la cámara. Lenguas de <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span>
+                    danzaban alrededor de la cama; las cortinas estaban en <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        llamas
+                    </span>. En
+                    medio del resplandor y el vapor, el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> yacía inmóvil, en
                     un sueño profundo.</p>
 
                 <p>—¡Despierte! ¡Despierte! —grité. Lo sacudí, pero solo murmuró y
@@ -480,7 +553,10 @@
                 <p>El siseo del elemento sofocado, la rotura de una jarra que arrojé
                     de mi mano cuando la hube vaciado y, sobre todo, el chapoteo de la
                     ducha que le había prodigado generosamente, despertaron por fin al
-                    señor Rochester. Aunque ahora estaba oscuro, supe que estaba
+                    señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. Aunque ahora estaba oscuro, supe que estaba
                     despierto, porque lo oí fulminando extraños anatemas al encontrarse
                     yaciendo en un charco de agua.</p>
 
@@ -489,10 +565,14 @@
                 <p>—No, señor —respondí—; pero ha habido un incendio. Levántese,
                     por favor; ya está usted apagado. Le traeré una vela.</p>
 
-                <p>—En nombre de todos los duendes de la cristiandad, ¿es esa Jane
-                    Eyre? —demandó—. ¿Qué has hecho conmigo, bruja, hechicera?
+                <p>—En nombre de todos los duendes de la cristiandad, ¿es esa
+                    <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane Eyre
+                    </span>? —demandó—. ¿Qué has hecho conmigo, bruja, hechicera?
                     ¿Quién hay en la habitación además de ti? ¿Has conspirado para
-                    ahogarme?</p>
+                    ahogarme?
+                </p>
 
                 <p>—Le traeré una vela, señor; y, en el nombre del Cielo, levántese.
                     Alguien ha conspirado algo; no puede descubrir demasiado pronto
@@ -510,7 +590,10 @@
 
                 <p>Le relaté brevemente lo que había ocurrido: la extraña risa que
                     había oído en la galería; los pasos que subían al tercer piso; el
-                    humo, el olor a fuego que me había conducido a su habitación; en
+                    humo, el olor a <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> que me había conducido a su habitación; en
                     qué estado había encontrado las cosas allí, y cómo lo había anegado
                     con toda el agua de la que pude echar mano.</p>
 
@@ -518,9 +601,15 @@
                     avanzaba, expresaba más preocupación que asombro. No habló de
                     inmediato cuando hube concluido.</p>
 
-                <p>—¿Llamo a la señora Fairfax? —pregunté.</p>
+                <p>—¿Llamo a la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>? —pregunté.</p>
 
-                <p>—¿La señora Fairfax? No. ¿Para qué diablos la llamaría? ¿Qué
+                <p>—¿La <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>? No. ¿Para qué diablos la llamaría? ¿Qué
                     puede hacer ella? Déjela dormir sin ser molestada.</p>
 
                 <p>—Entonces traeré a Leah y despertaré a John y a su esposa.</p>
@@ -540,7 +629,10 @@
                     nada. Pasó mucho tiempo. Me cansé. Hacía frío, a pesar de la capa;
                     y además, no veía la utilidad de quedarme, ya que no debía
                     despertar a la casa. Estaba a punto de arriesgarme al disgusto del
-                    señor Rochester desobedeciendo sus órdenes, cuando la luz volvió a
+                    señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> desobedeciendo sus órdenes, cuando la luz volvió a
                     brillar débilmente en la pared de la galería y oí sus pies descalzos
                     pisar la estera. «Espero que sea él», pensé, «y no algo peor».</p>
 
@@ -598,7 +690,11 @@
                     tan inmensa. No puedo decir más. Ningún otro ser que exista me
                     habría sido tolerable en el carácter de acreedor por tal obligación.
                     Pero usted... es diferente. No siento sus beneficios como una carga,
-                    Jane.</p>
+                    <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>.
+                </p>
 
                 <p>Hizo una pausa; me miró fijamente. Unas palabras casi visibles
                     temblaron en sus labios, pero su voz fue contenida.</p>
@@ -614,7 +710,10 @@
                     genios buenos. Hay granos de verdad en la fábula más descabellada.
                     ¡Mi querida salvadora, buenas noches!</p>
 
-                <p>Había una extraña energía en su voz, un extraño fuego en su mirada.</p>
+                <p>Había una extraña energía en su voz, un extraño <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> en su mirada.</p>
 
                 <p>—Me alegro de haber estado despierta por casualidad —dije; y
                     luego me disponía a irme.</p>
@@ -623,11 +722,17 @@
 
                 <p>—Tengo frío, señor.</p>
 
-                <p>—¿Frío? Sí, ¡y de pie en un charco! Váyase, entonces, Jane;
+                <p>—¿Frío? Sí, ¡y de pie en un charco! Váyase, entonces, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>;
                     ¡váyase! —Pero aún retenía mi mano, y no pude liberarla. Se me
                     ocurrió un expediente.</p>
 
-                <p>—Creo que oigo a la señora Fairfax moverse, señor —dije.</p>
+                <p>—Creo que oigo a la<span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> moverse, señor —dije.</p>
 
                 <p>—Bueno, déjeme. —Relajó los dedos y me fui.</p>
 

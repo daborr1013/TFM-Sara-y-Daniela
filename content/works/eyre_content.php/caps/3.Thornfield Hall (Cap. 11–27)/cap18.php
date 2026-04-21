@@ -113,9 +113,15 @@
                     pero en mi ignorancia no entendí el término. Se llamó a los criados,
                     se apartaron las mesas del comedor, se dispusieron las luces de otra
                     manera, se colocaron las sillas en un semicírculo frente al arco.
-                    Mientras el señor Rochester y los otros caballeros dirigían estas
+                    Mientras el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> y los otros caballeros dirigían estas
                     alteraciones, las damas corrían escaleras arriba y abajo llamando a
-                    sus doncellas. Se convocó a la señora Fairfax para que informara
+                    sus doncellas. Se convocó a la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> para que informara
                     sobre los recursos de la casa en chales, vestidos, pañerías de
                     cualquier tipo; y se saquearon ciertos guardarropas del tercer piso, y
                     sus contenidos, en forma de enaguas brocadas y con aros, sacos de
@@ -123,11 +129,17 @@
                     brazadas por las doncellas. Luego se hizo una selección, y las cosas
                     elegidas se llevaron al tocador dentro del salón.</p>
 
-                <p>Mientras tanto, el señor Rochester había vuelto a convocar a las
+                <p>Mientras tanto, el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> había vuelto a convocar a las
                     damas a su alrededor y estaba seleccionando a algunas de ellas para
                     que formaran parte de su grupo.</p>
 
-                <p>—La señorita Ingram es mía, por supuesto —dijo. Después
+                <p>—La señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> es mía, por supuesto —dijo. Después
                     nombró a las dos señoritas Eshton y a la señora Dent. Me miró;
                     casualmente yo estaba cerca de él, pues había estado abrochando el
                     cierre del brazalete de la señora Dent, que se había soltado.</p>
@@ -147,24 +159,42 @@
 
                 <p>Al poco rato sonó una campanilla y la cortina se levantó. Dentro
                     del arco, la voluminosa figura de Sir George Lynn, a quien el señor
-                    Rochester también había elegido, se vio envuelta en una sábana
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> también había elegido, se vio envuelta en una sábana
                     blanca. Ante él, sobre una mesa, yacía abierto un gran libro; y a su
-                    lado estaba Amy Eshton, envuelta en la capa del señor Rochester y
+                    lado estaba Amy Eshton, envuelta en la capa del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> y
                     sosteniendo un libro en la mano. Alguien, invisible, tocó la
-                    campanilla alegremente; luego Adèle (que había insistido en ser una
+                    campanilla alegremente; luego<span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> (que había insistido en ser una
                     del grupo de su guardián), saltó hacia adelante, esparciendo a su
                     alrededor el contenido de una cesta de flores que llevaba en el
-                    brazo. Luego apareció la magnífica figura de la señorita Ingram,
+                    brazo. Luego apareció la magnífica figura de la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>,
                     vestida de blanco, con un largo velo en la cabeza y una corona de
-                    rosas alrededor de la frente. A su lado caminaba el señor Rochester,
+                    rosas alrededor de la frente. A su lado caminaba el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>,
                     y juntos se acercaron a la mesa. Se arrodillaron; mientras que la
                     señora Dent y Louisa Eshton, vestidas también de blanco, tomaron
                     sus puestos detrás de ellos. Siguió una ceremonia, en pantomima,
                     en la que fue fácil reconocer la representación de una boda. A su
                     término, el Coronel Dent y su grupo consultaron en susurros durante
-                    dos minutos, luego el Coronel exclamó:</p>
+                    dos minutos, luego el Coronel exclamó:
+                </p>
 
-                <p>—¡Novia! —El señor Rochester hizo una reverencia y la cortina cayó.</p>
+                <p>—¡Novia! —El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> hizo una reverencia y la cortina cayó.</p>
 
                 <p>Transcurrió un intervalo considerable antes de que volviera a
                     levantarse. Su segunda subida mostró una escena más
@@ -178,11 +208,16 @@
                     alguna dificultad, debido a su tamaño y peso.</p>
 
                 <p>Sentado en la alfombra, al lado de esta pila, se veía al señor
-                    Rochester, ataviado con chales, con un turbante en la cabeza. Sus
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, ataviado con chales, con un turbante en la cabeza. Sus
                     ojos oscuros, su piel morena y sus rasgos sarracenos se adaptaban
                     exactamente al atuendo. Parecía el modelo mismo de un emir
                     oriental, un agente o una víctima del cordón de arco. Al instante
-                    avanzó a la vista la señorita Ingram. Ella también iba ataviada a la
+                    avanzó a la vista la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>. Ella también iba ataviada a la
                     moda oriental: un pañuelo carmesí atado a modo de faja alrededor
                     de la cintura; un pañuelo bordado anudado alrededor de sus sienes;
                     sus brazos bellamente moldeados, desnudos, uno de ellos levantado
@@ -190,7 +225,8 @@
                     su cabeza. Tanto su figura y sus rasgos, como su tez y su aire
                     general, sugerían la idea de alguna princesa israelita de los días
                     patriarcales; y tal era, sin duda, el personaje que pretendía
-                    representar.</p>
+                    representar.
+                </p>
 
                 <p>Se acercó a la pila y se inclinó sobre ella como para llenar su
                     cántaro; de nuevo lo levantó a su cabeza. El personaje junto al
@@ -217,7 +253,10 @@
 
                 <p>En medio de esta sórdida escena, se sentaba un hombre con las
                     manos apretadas apoyadas en las rodillas y los ojos fijos en el suelo.
-                    Reconocí al señor Rochester; aunque el rostro tiznado, el vestido
+                    Reconocí al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>; aunque el rostro tiznado, el vestido
                     desordenado (su abrigo colgando suelto de un brazo, como si casi se
                     lo hubieran arrancado de la espalda en una refriega), el semblante
                     desesperado y ceñudo, el pelo áspero y erizado bien podrían haberlo
@@ -228,7 +267,13 @@
 
                 <p>Habiendo transcurrido un intervalo suficiente para que los actores
                     reanudaran su vestimenta ordinaria, volvieron a entrar en el
-                    comedor. El señor Rochester condujo a la señorita Ingram; ella lo
+                    comedor. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> condujo a la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>; ella lo
                     felicitaba por su actuación.</p>
 
                 <p>—¿Sabe usted —dijo ella— que, de los tres personajes, me gustó
@@ -251,9 +296,15 @@
                     casamos hace una hora, en presencia de todos estos testigos. —Ella
                     rio tontamente y su color subió.</p>
 
-                <p>—Ahora, Dent —continuó el señor Rochester—, es su turno. —Y
+                <p>—Ahora, Dent —continuó el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>—, es su turno. —Y
                     mientras el otro grupo se retiraba, él y su banda tomaron los
-                    asientos desocupados. La señorita Ingram se colocó a la derecha de
+                    asientos desocupados. La señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> se colocó a la derecha de
                     su líder; los otros adivinadores llenaron las sillas a cada lado de él y
                     de ella. Yo ya no observaba a los actores; ya no esperaba con
                     interés que se levantara la cortina. Mi atención estaba absorta en los
@@ -261,8 +312,17 @@
                     irresistiblemente atraídos por el semicírculo de sillas. Qué charada
                     jugaron el Coronel Dent y su grupo, qué palabra eligieron, cómo se
                     desenvolvieron, ya no lo recuerdo; pero todavía veo la consulta que
-                    seguía a cada escena. Veo al señor Rochester volverse hacia la
-                    señorita Ingram, y a la señorita Ingram hacia él; la veo inclinar la
+                    seguía a cada escena. Veo al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> volverse hacia la
+                    señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>, y a la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> hacia él; la veo inclinar la
                     cabeza hacia él, hasta que los rizos de azabache casi tocan su
                     hombro y ondean contra su mejilla; oigo sus susurros mutuos;
                     recuerdo sus miradas intercambiadas; y algo incluso del sentimiento
@@ -270,7 +330,9 @@
                     momento.</p>
 
                 <p>Les he dicho, lectores, que había aprendido a amar al señor
-                    Rochester. No podía dejar de amarlo ahora, simplemente porque
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. No podía dejar de amarlo ahora, simplemente porque
                     descubrí que había dejado de fijarse en mí, porque podía pasar
                     horas en su presencia y él nunca volvería sus ojos en mi dirección,
                     porque veía todas sus atenciones apropiadas por una gran dama que
@@ -283,15 +345,22 @@
                     respecto a ella, porque presenciaba cada hora en él un estilo de
                     cortejo que, si bien descuidado y prefiriendo ser buscado a buscar,
                     era, sin embargo, en su misma negligencia, cautivador, y en su
-                    mismo orgullo, irresistible.</p>
+                    mismo orgullo, irresistible.
+                </p>
 
                 <p>No había nada que enfriara o desterrara el amor en estas
                     circunstancias, aunque mucho para crear desesperación. Mucho
                     también, pensarán ustedes, lectores, para engendrar celos, si una
                     mujer en mi posición pudiera presumir de estar celosa de una mujer
-                    en la de la señorita Ingram. Pero no estaba celosa, o muy
+                    en la de la señorita<span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>. Pero no estaba celosa, o muy
                     raramente. La naturaleza del dolor que sufría no podía explicarse
-                    con esa palabra. La señorita Ingram era un objetivo por debajo de
+                    con esa palabra. La señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> era un objetivo por debajo de
                     los celos; era demasiado inferior para excitar el sentimiento.
                     Perdonen la aparente paradoja; quiero decir lo que digo. Era muy
                     vistosa, pero no era genuina. Tenía una hermosa figura, muchas
@@ -304,12 +373,18 @@
                     y la piedad; la ternura y la verdad no estaban en ella. Con
                     demasiada frecuencia lo delataba, por el desahogo indebido que
                     daba a una antipatía rencorosa que había concebido contra la
-                    pequeña Adèle, apartándola con algún epíteto contumelioso si se le
+                    pequeña<span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, apartándola con algún epíteto contumelioso si se le
                     acercaba; a veces ordenándole que saliera de la habitación y
                     siempre tratándola con frialdad y acritud. Otros ojos además de los
                     míos observaban estas manifestaciones de carácter; las observaban
                     de cerca, con agudeza, con astucia. Sí; el futuro novio, el propio
-                    señor Rochester, ejercía sobre su prometida una vigilancia incesante;
+                    señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, ejercía sobre su prometida una vigilancia incesante;
                     y era de esta sagacidad, de esta cautela suya, de esta perfecta y
                     clara conciencia de los defectos de su bella, de esta obvia ausencia
                     de pasión en sus sentimientos hacia ella, de donde surgía mi dolor
@@ -325,7 +400,10 @@
                 <p>Si hubiera logrado la victoria de una vez, y él hubiera cedido y
                     sinceramente puesto su corazón a sus pies, me habría cubierto la
                     cara, me habría vuelto hacia la pared y (figurativamente) habría
-                    muerto para ellos. Si la señorita Ingram hubiera sido una mujer
+                    muerto para ellos. Si la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> hubiera sido una mujer
                     buena y noble, dotada de fuerza, fervor, amabilidad, sentido, habría
                     tenido una lucha vital con dos tigres —los celos y la desesperación
                     —. Entonces, con el corazón arrancado y devorado, la habría
@@ -333,7 +411,13 @@
                     el resto de mis días; y cuanto más absoluta fuera su superioridad,
                     más profunda habría sido mi admiración, más verdaderamente
                     tranquila mi aquiescencia. Pero tal como estaban las cosas, observar
-                    los esfuerzos de la señorita Ingram por fascinar al señor Rochester,
+                    los esfuerzos de la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> por fascinar al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>,
                     presenciar su repetido fracaso —ella misma inconsciente de que
                     fracasaban; imaginando vanamente que cada flecha lanzada daba en
                     el blanco, y engriéndose infatuadamente con el éxito, cuando su
@@ -343,11 +427,14 @@
 
                 <p>Porque, cuando ella fracasaba, yo veía cómo podría haber tenido
                     éxito. Flechas que continuamente rebotaban en el pecho del señor
-                    Rochester y caían inofensivas a sus pies, podrían, lo sabía, si
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> y caían inofensivas a sus pies, podrían, lo sabía, si
                     hubieran sido disparadas por una mano más segura, haber temblado
                     agudamente en su orgulloso corazón, haber llamado al amor a su
                     severo ojo y a la suavidad a su rostro sardónico; o, mejor aún, sin
-                    armas se podría haber ganado una conquista silenciosa.</p>
+                    armas se podría haber ganado una conquista silenciosa.
+                </p>
 
                 <p>«¿Por qué no puede influirle más, cuando tiene el privilegio de
                     acercarse tanto a él?», me pregunté. «¡Seguramente no puede
@@ -369,12 +456,17 @@
                     feliz que el sol ilumina».</p>
 
                 <p>Todavía no he dicho nada condenatorio del proyecto del señor
-                    Rochester de casarse por interés y conexiones. Me sorprendió
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> de casarse por interés y conexiones. Me sorprendió
                     cuando descubrí por primera vez que tal era su intención. Lo había
                     considerado un hombre poco propenso a ser influenciado por
                     motivos tan comunes en su elección de esposa; pero cuanto más
                     consideraba la posición, la educación, etc., de las partes, menos me
-                    sentía justificada para juzgar y culpar ni a él ni a la señorita Ingram
+                    sentía justificada para juzgar y culpar ni a él ni a la señorita<span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>
                     por actuar de conformidad con ideas y principios inculcados en ellos,
                     sin duda, desde su infancia. Toda su clase sostenía estos principios.
                     Supuse, entonces, que tenían razones para sostenerlos que yo no
@@ -384,7 +476,8 @@
                     que ofrecía este plan me convenció de que debía de haber
                     argumentos en contra de su adopción general de los que yo era
                     completamente ignorante. De lo contrario, sentía la certeza de que
-                    todo el mundo actuaría como yo deseaba actuar.</p>
+                    todo el mundo actuaría como yo deseaba actuar.
+                </p>
 
                 <p>Pero en otros puntos, además de este, me estaba volviendo muy
                     indulgente con mi amo. Estaba olvidando todas sus faltas, para las
@@ -405,7 +498,10 @@
                     ese algo, a intervalos, lo seguía contemplando, y con el corazón
                     palpitante, pero no con los nervios paralizados. En lugar de desear
                     rehuirlo, solo anhelaba atreverme a adivinarlo; y pensaba que la
-                    señorita Ingram era feliz, porque un día podría mirar al abismo a su
+                    señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> era feliz, porque un día podría mirar al abismo a su
                     antojo, explorar sus secretos y analizar su naturaleza.</p>
 
                 <p>Mientras tanto, mientras yo pensaba solo en mi amo y su futura
@@ -425,8 +521,14 @@
                     escuchaba lánguidamente los discursos galantes del otro. A veces
                     todos, como de común acuerdo, suspendían su juego secundario
                     para observar y escuchar a los actores principales; pues, después de
-                    todo, el señor Rochester y —por estar estrechamente relacionada
-                    con él— la señorita Ingram eran la vida y el alma de la fiesta. Si él
+                    todo, el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> y —por estar estrechamente relacionada
+                    con él— la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> eran la vida y el alma de la fiesta. Si él
                     se ausentaba de la habitación una hora, un aburrimiento perceptible
                     parecía apoderarse de los espíritus de sus invitados; y su reingreso
                     era seguro que daría un nuevo impulso a la vivacidad de la
@@ -441,7 +543,10 @@
                     de los caballeros se habían ido a las caballerizas; los más jóvenes,
                     junto con las damas más jóvenes, jugaban al billar en la sala de
                     billar. Las viudas Ingram y Lynn buscaron consuelo en una tranquila
-                    partida de cartas. Blanche Ingram, después de haber repelido, con
+                    partida de cartas. <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Blanche Ingram
+                    </span>, después de haber repelido, con
                     taciturnidad soberbia, algunos esfuerzos de la señora Dent y la
                     señora Eshton por entablar conversación, había primero murmurado
                     algunas melodías y aires sentimentales al piano, y luego, habiendo
@@ -452,20 +557,30 @@
                     de los jugadores de billar desde arriba.</p>
 
                 <p>Estaba anocheciendo y el reloj ya había avisado de la hora de
-                    vestirse para la cena, cuando la pequeña Adèle, que estaba
+                    vestirse para la cena, cuando la pequeña <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, que estaba
                     arrodillada a mi lado en el asiento de la ventana del salón, exclamó
                     de repente:</p>
 
-                <p>—<i>Voilà Monsieur Rochester, qui revient!</i></p>
+                <p>—<<i><span class="anotacion" data-nota="¡Aquí viene el Sr. Rochester, de vuelta!">Voilà Monsieur
+                            Rochester, qui revient!</span></i></p>
 
-                <p>Me volví, y la señorita Ingram se lanzó hacia adelante desde su
+                <p>Me volví, y la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> se lanzó hacia adelante desde su
                     sofá. Los demás también levantaron la vista de sus diversas
                     ocupaciones; pues al mismo tiempo se hizo audible un crujido de
                     ruedas y un chapoteo de cascos de caballo sobre la grava mojada.
                     Se acercaba una silla de postas.</p>
 
                 <p>—¿Qué le puede haber poseído para volver a casa de esa manera?
-                    —dijo la señorita Ingram—. Montaba a <i>Mesrour</i> (el caballo negro),
+                    —dijo la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>—. Montaba a Mesrour (el caballo negro),
                     ¿no es así, cuando salió? Y Pilot estaba con él. ¿Qué ha hecho con
                     los animales?</p>
 
@@ -475,11 +590,20 @@
                     observó al principio, pero cuando lo hizo, curvó el labio y se trasladó
                     a otro ventanal. La silla de postas se detuvo; el conductor tocó el
                     timbre de la puerta y se apeó un caballero ataviado con traje de
-                    viaje; pero no era el señor Rochester; era un hombre alto, de
+                    viaje; pero no era el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>; era un hombre alto, de
                     aspecto elegante, un extraño.</p>
 
-                <p>—¡Qué fastidio! —exclamó la señorita Ingram—. ¡Mona pesada!
-                    (apostrofando a Adèle), ¿quién te encaramó en la ventana para dar
+                <p>—¡Qué fastidio! —exclamó la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>—. ¡Mona pesada!
+                    (apostrofando a <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>), ¿quién te encaramó en la ventana para dar
                     falsas noticias? —y me lanzó una mirada airada, como si yo tuviera
                     la culpa.</p>
 
@@ -488,13 +612,19 @@
                     dama de más edad presente.</p>
 
                 <p>—Parece que llego en un momento inoportuno, señora —dijo—,
-                    cuando mi amigo, el señor Rochester, está fuera de casa; pero llego
+                    cuando mi amigo, el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, está fuera de casa; pero llego
                     de un viaje muy largo y creo que puedo presumir de una vieja e
                     íntima amistad como para instalarme aquí hasta que regrese.</p>
 
                 <p>Sus modales eran corteses; su acento, al hablar, me pareció algo
                     inusual, no precisamente extranjero, pero tampoco del todo inglés.
-                    Su edad podría ser la del señor Rochester, entre treinta y cuarenta
+                    Su edad podría ser la del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, entre treinta y cuarenta
                     años; su tez era singularmente amarillenta. Por lo demás, era un
                     hombre apuesto, especialmente a primera vista. En un examen más
                     detenido, se detectaba algo en su rostro que desagradaba, o más
@@ -519,12 +649,18 @@
                     luz de los candelabros de la repisa de la chimenea iluminándolo por
                     completo —pues ocupaba un sillón acercado al fuego y seguía
                     encogiéndose aún más cerca, como si tuviera frío—, lo comparé con
-                    el señor Rochester. Creo (dicho sea con deferencia) que el contraste
+                    el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. Creo (dicho sea con deferencia) que el contraste
                     no podría ser mucho mayor entre un ganso lustroso y un halcón
                     fiero, entre una oveja mansa y el perro de pelo áspero y ojos
                     penetrantes, su guardián.</p>
 
-                <p>Había hablado del señor Rochester como de un viejo amigo.
+                <p>Había hablado del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> como de un viejo amigo.
                     Curiosa amistad la suya debía de haber sido; una ilustración
                     palpable, en verdad, del viejo adagio de que «los extremos se
                     tocan».</p>
@@ -555,12 +691,22 @@
                     instante, las palabras Jamaica, Kingston, Spanish Town, indicaron las
                     Indias Occidentales como su residencia; y no fue con poca sorpresa
                     que deduje, al poco tiempo, que allí había visto y conocido por
-                    primera vez al señor Rochester. Habló de la aversión de su amigo a
+                    primera vez al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. Habló de la aversión de su amigo a
                     los calores abrasadores, los huracanes y las estaciones lluviosas de
-                    esa región. Sabía que el señor Rochester había sido un viajero; la
-                    señora Fairfax lo había dicho, pero pensaba que el continente
+                    esa región. Sabía que el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> había sido un viajero; la
+                    <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> lo había dicho, pero pensaba que el continente
                     europeo había limitado sus andanzas; hasta ahora nunca había oído
-                    una insinuación de visitas a costas más lejanas.</p>
+                    una insinuación de visitas a costas más lejanas.
+                </p>
 
                 <p>Estaba reflexionando sobre estas cosas cuando un incidente, y
                     uno bastante inesperado, rompió el hilo de mis cavilaciones. El señor
@@ -586,7 +732,10 @@
                     inmediato!</p>
 
                 <p>—Pero no puedo persuadirla de que se vaya, mi señora —dijo el
-                    lacayo—; ni ninguno de los criados. La señora Fairfax está con ella
+                    lacayo—; ni ninguno de los criados. La <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> está con ella
                     ahora mismo, suplicándole que se marche; pero ha tomado una silla
                     en el rincón de la chimenea y dice que nada la moverá de allí hasta
                     que obtenga permiso para entrar aquí.</p>
@@ -611,12 +760,18 @@
                     inconsistente —intervino la viuda Ingram.</p>
 
                 <p>—De hecho, mamá, pero puedes, y lo harás —pronunció la altiva
-                    voz de Blanche, mientras se giraba en el taburete del piano, donde
+                    voz de <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Blanche
+                    </span>, mientras se giraba en el taburete del piano, donde
                     hasta ahora había permanecido en silencio, aparentemente
                     examinando diversas partituras—. Tengo curiosidad por oír mi
                     fortuna. Por lo tanto, Sam, ordena que avance la arpía.</p>
 
-                <p>—¡Mi querida Blanche! ¡Recuerda...!</p>
+                <p>—¡Mi querida <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Blanche
+                    </span>! ¡Recuerda...!</p>
 
                 <p>—Lo hago, recuerdo todo lo que puedas sugerir; y debo salirme
                     con la mía. ¡Rápido, Sam!</p>
@@ -628,9 +783,15 @@
 
                 <p>—Parece tan ruda —dijo.</p>
 
-                <p>—¡Ve! —exclamó la señorita Ingram, y el hombre fue.</p>
+                <p>—¡Ve! —exclamó la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>, y el hombre fue.</p>
 
-                <p>La excitación se apoderó al instante de toda la comitiva. Un fuego
+                <p>La excitación se apoderó al instante de toda la comitiva. Un <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span>
                     cruzado de burlas y bromas procedía cuando Sam regresó.</p>
 
                 <p>—No quiere venir ahora —dijo—. Dice que no es su misión
@@ -638,7 +799,10 @@
                     una habitación para ella sola, y luego aquellos que deseen
                     consultarla deben ir a ella de uno en uno.</p>
 
-                <p>—Ya ves ahora, mi regia Blanche —comenzó Lady Ingram—, se
+                <p>—Ya ves ahora, mi regia <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Blanche
+                    </span> —comenzó Lady Ingram—, se
                     extralimita. Déjate aconsejar, mi niña ángel, y...</p>
 
                 <p>—Muéstrale la biblioteca, por supuesto —interrumpió la «niña
@@ -669,7 +833,10 @@
 
                 <p>—¡Por Júpiter, tiene gusto! —exclamó Henry Lynn.</p>
 
-                <p>La señorita Ingram se levantó solemnemente.</p>
+                <p>La señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> se levantó solemnemente.</p>
 
                 <p>—Yo voy primero —dijo, en un tono que podría haber convenido al
                     líder de una avanzadilla suicida, montando una brecha al frente de
@@ -680,29 +847,40 @@
                     atravesó la puerta que el Coronel Dent mantenía abierta, y la oímos
                     entrar en la biblioteca.</p>
 
-                <p>Siguió un silencio comparativo. Lady Ingram pensó que era «<i>le
-                        cas</i>» de retorcerse las manos, lo cual hizo en consecuencia. La
+                <p>Siguió un silencio comparativo. Lady Ingram pensó que era «<i><span class="anotacion"
+                            data-nota="El caso">le cas</span></i>
+                    » de retorcerse las manos, lo cual hizo en consecuencia. La
                     señorita Mary declaró que sentía, por su parte, que nunca se
                     atrevería a aventurarse. Amy y Louisa Eshton rieron tontamente por
                     lo bajo y parecieron un poco asustadas.</p>
 
                 <p>Los minutos pasaron muy lentamente; se contaron quince antes
                     de que la puerta de la biblioteca se abriera de nuevo. La señorita
-                    Ingram regresó a nosotros a través del arco.</p>
+                    <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> regresó a nosotros a través del arco.
+                </p>
 
                 <p>¿Reiría? ¿Se lo tomaría como una broma? Todos los ojos la
                     encontraron con una mirada de ávida curiosidad, y ella encontró
                     todos los ojos con una de rechazo y frialdad. No parecía ni alterada
                     ni alegre; caminó rígidamente hasta su asiento y lo tomó en silencio.</p>
 
-                <p>—¿Y bien, Blanche? —dijo Lord Ingram.</p>
+                <p>—¿Y bien, <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Blanche
+                    </span>? —dijo Lord Ingram.</p>
 
                 <p>—¿Qué te dijo, hermana? —preguntó Mary.</p>
 
                 <p>—¿Qué te pareció? ¿Cómo te sientes? ¿Es una verdadera adivina?
                     —demandaron las señoritas Eshton.</p>
 
-                <p>—Ahora, ahora, buena gente —respondió la señorita Ingram—, no
+                <p>—Ahora, ahora, buena gente —respondió la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>—, no
                     me presionen. Realmente sus órganos de asombro y credulidad se
                     excitan fácilmente. Parecen, por la importancia que todos ustedes —
                     incluida mi buena mamá— atribuyen a este asunto, creer
@@ -713,7 +891,10 @@
                     satisfecho; y ahora creo que el señor Eshton hará bien en poner a la
                     arpía en el cepo mañana por la mañana, como amenazó.</p>
 
-                <p>La señorita Ingram tomó un libro, se reclinó en su silla y así
+                <p>La señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> tomó un libro, se reclinó en su silla y así
                     declinó toda conversación posterior. La observé durante casi media
                     hora. Durante todo ese tiempo nunca pasó una página, y su rostro
                     se ensombrecía momentáneamente, más insatisfecho y más
@@ -731,7 +912,10 @@
                     dificultad, el permiso de la rigurosa Sibila para que las tres la
                     visitaran en grupo.</p>
 
-                <p>Su visita no fue tan silenciosa como la de la señorita Ingram.
+                <p>Su visita no fue tan silenciosa como la de la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>.
                     Oímos risitas histéricas y grititos procedentes de la biblioteca; y al
                     cabo de unos veinte minutos abrieron la puerta de golpe y salieron
                     corriendo por el vestíbulo, como si estuvieran medio muertas de

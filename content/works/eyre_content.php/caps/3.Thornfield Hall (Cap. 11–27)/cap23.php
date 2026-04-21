@@ -101,12 +101,21 @@
                     frondosos y de tintes profundos, contrastaban bien con el tono
                     soleado de los prados despejados de en medio.</p>
 
-                <p>En la víspera de San Juan, Adèle, cansada de recoger fresas
+                <p>En la víspera de San Juan,<span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, cansada de recoger fresas
                     silvestres en el sendero de Hay durante la mitad del día, se había
                     acostado con el sol. La observé quedarse dormida y, cuando la dejé,
-                    busqué el jardín.</p>
+                    busqué el <span class="anotacion"
+                        data-nota="Representa el Edén tentador. Es un espacio de belleza idílica, pero cargado de peligro moral. Jane se siente en el cielo, pero es un cielo construido sobre la bigamia.">
+                        jardín
+                    </span>.</p>
 
-                <p>Era ahora la hora más dulce de las veinticuatro. «El día sus fuegos
+                <p>Era ahora la hora más dulce de las veinticuatro. «El día sus <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuegos
+                    </span>
                     fervientes había gastado», y el rocío caía fresco sobre la llanura
                     jadeante y la cumbre abrasada. Donde el sol se había puesto en
                     simple majestad —puro de la pompa de las nubes— se extendía un
@@ -126,7 +135,10 @@
                     patio por un lado; por el otro, una avenida de hayas lo protegía del
                     césped. Al fondo había un foso, su única separación de los campos
                     solitarios. Un sendero sinuoso, bordeado de laureles y que
-                    terminaba en un castaño de indias gigante, rodeado en su base por
+                    terminaba en un <span class="anotacion"
+                        data-nota="Representa la naturaleza advirtiendo sobre una unión ilegal. Aunque el árbol está partido, las raíces siguen unidas. Simboliza que Jane y Rochester están destinados a estar juntos, pero que su relación debe ser destruida (el incendio) y purificada antes de que puedan unirse de verdad.">
+                        castaño
+                    </span> de indias gigante, rodeado en su base por
                     un asiento, descendía hasta el foso. Aquí se podía pasear sin ser
                     visto. Mientras caía tal rocío de miel, reinaba tal silencio, se
                     congregaba tal crepúsculo, sentí como si pudiera rondar tal sombra
@@ -139,23 +151,35 @@
                 <p>El escaramujo y el abrótano, el jazmín, el clavel y la rosa han
                     estado ofreciendo durante mucho tiempo su sacrificio vespertino de
                     incienso. Este nuevo aroma no es de arbusto ni de flor; es —lo
-                    conozco bien— el cigarro del señor Rochester. Miro a mi alrededor y
+                    conozco bien— el cigarro del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. Miro a mi alrededor y
                     escucho. Veo árboles cargados de fruta madura. Oigo a un ruiseñor
                     trinar en un bosque a media milla de distancia; no se ve ninguna
                     forma en movimiento, no se oye ningún paso que se acerque; pero
                     ese perfume aumenta. Debo huir. Me dirijo al postigo que conduce a
-                    la zona de arbustos y veo entrar al señor Rochester. Me hago a un
+                    la zona de arbustos y veo entrar al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. Me hago a un
                     lado en el recoveco de hiedra; no se quedará mucho tiempo. Pronto
                     volverá por donde vino, y si me quedo quieta, nunca me verá.</p>
 
                 <p>Pero no; el atardecer es tan agradable para él como para mí, y
-                    este antiguo jardín tan atractivo. Y sigue paseando, ahora
+                    este antiguo <span class="anotacion"
+                        data-nota="Representa el Edén tentador. Es un espacio de belleza idílica, pero cargado de peligro moral. Jane se siente en el cielo, pero es un cielo construido sobre la bigamia.">
+                        jardín
+                    </span> tan atractivo. Y sigue paseando, ahora
                     levantando las ramas del grosellero para mirar la fruta, grande como
                     ciruelas, con la que están cargadas; ahora tomando una cereza
                     madura del muro; ahora inclinándose hacia un macizo de flores, ya
                     sea para inhalar su fragancia o para admirar las perlas de rocío en
                     sus pétalos. Una gran polilla pasa zumbando a mi lado; se posa en
-                    una planta a los pies del señor Rochester. Él la ve y se inclina para
+                    una planta a los pies del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. Él la ve y se inclina para
                     examinarla.</p>
 
                 <p>«Ahora tiene la espalda hacia mí», pensé, «y también está
@@ -166,10 +190,16 @@
                     delatara. Él estaba de pie entre los arriates a una o dos yardas de
                     donde yo tenía que pasar; la polilla aparentemente lo ocupaba.
                     «Pasaré muy bien», medité. Al cruzar su sombra, proyectada
-                    largamente sobre el jardín por la luna, aún no muy alta, dijo
+                    largamente sobre el <span class="anotacion"
+                        data-nota="Representa el Edén tentador. Es un espacio de belleza idílica, pero cargado de peligro moral. Jane se siente en el cielo, pero es un cielo construido sobre la bigamia.">
+                        jardín
+                    </span> por la luna, aún no muy alta, dijo
                     tranquilamente, sin volverse:</p>
 
-                <p>—Jane, ven a mirar a este bicho.</p>
+                <p>—<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, ven a mirar a este bicho.</p>
 
                 <p>No había hecho ningún ruido; no tenía ojos en la nuca. ¿Podía
                     sentir su sombra? Me sobresalté al principio y luego me acerqué a
@@ -180,7 +210,10 @@
                     vistoso en Inglaterra. ¡Ahí está! Ya se ha ido.</p>
 
                 <p>La polilla se alejó volando. Yo también me retiraba tímidamente;
-                    pero el señor Rochester me siguió y, cuando llegamos al postigo,
+                    pero el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> me siguió y, cuando llegamos al postigo,
                     dijo:</p>
 
                 <p>—Date la vuelta. En una noche tan hermosa es una pena sentarse
@@ -192,7 +225,10 @@
                     tristemente al formular una excusa; y siempre el lapsus ocurre en
                     alguna crisis, cuando una palabra fácil o un pretexto plausible se
                     necesita especialmente para sacarme de un apuro doloroso. No me
-                    gustaba caminar a esta hora sola con el señor Rochester en el
+                    gustaba caminar a esta hora sola con el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> en el
                     sombrío huerto; pero no pude encontrar una razón que alegar para
                     dejarlo. Lo seguí con paso lento y los pensamientos afanosamente
                     inclinados a descubrir un medio de escapatoria; pero él mismo
@@ -200,8 +236,14 @@
                     cualquier confusión. El mal —si es que existía o era previsible—
                     parecía residir solo en mí; su mente estaba inconsciente y tranquila.</p>
 
-                <p>—Jane —reanudó, mientras entrábamos en el paseo de los
-                    laureles y descendíamos lentamente en dirección al foso y al castaño
+                <p>—<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span> —reanudó, mientras entrábamos en el paseo de los
+                    laureles y descendíamos lentamente en dirección al foso y al <span class="anotacion"
+                        data-nota="Representa la naturaleza advirtiendo sobre una unión ilegal. Aunque el árbol está partido, las raíces siguen unidas. Simboliza que Jane y Rochester están destinados a estar juntos, pero que su relación debe ser destruida (el incendio) y purificada antes de que puedan unirse de verdad.">
+                        castaño
+                    </span>
                     de indias—, Thornfield es un lugar agradable en verano, ¿no es así?</p>
 
                 <p>—Sí, señor.</p>
@@ -213,7 +255,10 @@
                 <p>—Estoy encariñada con ella, en verdad.</p>
 
                 <p>—Y aunque no comprendo cómo, percibo que también ha
-                    adquirido un grado de aprecio por esa tonta niña Adèle, e incluso
+                    adquirido un grado de aprecio por esa tonta niña <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, e incluso
                     por la simple dama Fairfax.</p>
 
                 <p>—Sí, señor; de diferentes maneras, siento afecto por ambas.</p>
@@ -229,7 +274,13 @@
 
                 <p>—¿Debo seguir adelante, señor? —pregunté—. ¿Debo dejar Thornfield?</p>
 
-                <p>—Creo que debes, Jane. Lo siento, Janet, pero creo que sí, que debes.</p>
+                <p>—Creo que debes, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>. Lo siento, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Janet
+                    </span>, pero creo que sí, que debes.</p>
 
                 <p>Esto fue un golpe, pero no dejé que me postrara.</p>
 
@@ -244,24 +295,45 @@
 
                 <p>—¿Pronto, señor?</p>
 
-                <p>—Muy pronto, mi... es decir, señorita Eyre. Y recordará, Jane, la
+                <p>—Muy pronto, mi... es decir, señorita Eyre. Y recordará, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, la
                     primera vez que yo, o el Rumor, le insinué claramente que era mi
                     intención meter mi viejo cuello de soltero en el sagrado lazo, entrar
-                    en el santo estado del matrimonio, tomar a la señorita Ingram en mi
+                    en el santo estado del matrimonio, tomar a la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> en mi
                     seno, en resumen (es un abrazo extenso, pero eso no viene al caso;
                     uno no puede tener demasiado de algo tan excelente como mi
-                    hermosa Blanche). Bueno, como iba diciendo, ¡escúcheme, Jane! No
+                    hermosa Blanche). Bueno, como iba diciendo, ¡escúcheme, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>! No
                     está volviendo la cabeza para buscar más polillas, ¿verdad? Eso era
                     solo una mariquita, niña, «volando a casa». Deseo recordarle que
                     fue usted quien primero me dijo, con esa discreción que respeto en
                     usted, con esa previsión, prudencia y humildad que corresponden a
                     su posición responsable y dependiente, que en caso de que me
-                    casara con la señorita Ingram, tanto usted como la pequeña Adèle
+                    casara con la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>, tanto usted como la pequeña <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>
                     harían mejor en marcharse de inmediato. Paso por alto la especie de
                     injuria que se transmite en esta sugerencia sobre el carácter de mi
-                    amada; de hecho, cuando esté lejos, Janet, intentaré olvidarlo. Solo
+                    amada; de hecho, cuando esté lejos, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Janet
+                    </span>, intentaré olvidarlo. Solo
                     notaré su sabiduría, que es tal que la he convertido en mi ley de
-                    acción. Adèle debe ir a la escuela; y usted, señorita Eyre, debe
+                    acción. <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> debe ir a la escuela; y usted, señorita Eyre, debe
                     conseguir un nuevo puesto.</p>
 
                 <p>—Sí, señor, pondré un anuncio inmediatamente. Y mientras tanto,
@@ -271,7 +343,10 @@
                     pues mi voz no estaba del todo bajo control.</p>
 
                 <p>—En aproximadamente un mes espero ser un novio —continuó el
-                    señor Rochester—. Y en el ínterin, yo mismo buscaré empleo y un
+                    señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>—. Y en el ínterin, yo mismo buscaré empleo y un
                     asilo para usted.</p>
 
                 <p>—Gracias, señor; lamento dar...</p>
@@ -292,7 +367,10 @@
 
                 <p>—No al viaje, pero sí a la distancia. Y además, el mar es una barrera...</p>
 
-                <p>—¿De qué, Jane?</p>
+                <p>—¿De qué, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>?</p>
 
                 <p>—De Inglaterra y de Thornfield. Y...</p>
 
@@ -312,9 +390,15 @@
                 <p>—Está muy lejos —dije de nuevo.</p>
 
                 <p>—Lo está, por supuesto; y cuando llegues a Bitternutt Lodge,
-                    Connaught, Irlanda, nunca te volveré a ver, Jane. Eso es moralmente
+                    Connaught, Irlanda, nunca te volveré a ver, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>. Eso es moralmente
                     cierto. Nunca voy a Irlanda, no teniendo yo mismo mucha afición
-                    por el país. Hemos sido buenos amigos, Jane, ¿no es así?</p>
+                    por el país. Hemos sido buenos amigos, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, ¿no es así?</p>
 
                 <p>—Sí, señor.</p>
 
@@ -322,14 +406,23 @@
                     gusta pasar el poco tiempo que les queda cerca el uno del otro.
                     ¡Vamos! Hablaremos del viaje y de la despedida tranquilamente
                     durante media hora más o menos, mientras las estrellas entran en
-                    su vida brillante allá arriba en el cielo. Aquí está el castaño; aquí
+                    su vida brillante allá arriba en el cielo. Aquí está el <span class="anotacion"
+                        data-nota="Representa la naturaleza advirtiendo sobre una unión ilegal. Aunque el árbol está partido, las raíces siguen unidas. Simboliza que Jane y Rochester están destinados a estar juntos, pero que su relación debe ser destruida (el incendio) y purificada antes de que puedan unirse de verdad.">
+                        castaño
+                    </span>; aquí
                     está el banco en sus viejas raíces. Vamos, nos sentaremos allí en paz
                     esta noche, aunque nunca más estemos destinados a sentarnos allí
                     juntos. —Me sentó a mí y a él mismo.</p>
 
-                <p>—Está muy lejos Irlanda, Janet, y lamento enviar a mi pequeña
+                <p>—Está muy lejos Irlanda, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Janet
+                    </span>, y lamento enviar a mi pequeña
                     amiga a viajes tan fatigosos. Pero si no puedo hacer nada mejor,
-                    ¿cómo se puede evitar? ¿Eres algo pariente mía, crees, Jane?</p>
+                    ¿cómo se puede evitar? ¿Eres algo pariente mía, crees, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>?</p>
 
                 <p>Para entonces no podía arriesgar ningún tipo de respuesta. Mi
                     corazón estaba quieto.</p>
@@ -346,7 +439,10 @@
 
                 <p>—Eso nunca lo haría, señor. Usted sabe... —Imposible continuar.</p>
 
-                <p>—Jane, ¿oyes a ese ruiseñor cantar en el bosque? ¡Escucha!</p>
+                <p>—<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, ¿oyes a ese ruiseñor cantar en el bosque? ¡Escucha!</p>
 
                 <p>Al escuchar, sollocé convulsivamente, pues ya no podía reprimir lo
                     que soportaba. Me vi obligada a ceder y fui sacudida de pies a
@@ -367,7 +463,10 @@
                     con mentes inferiores y excluida de todo atisbo de comunión con lo
                     que es brillante, enérgico y elevado. He hablado, cara a cara, con lo
                     que reverencio, con lo que me deleita, con una mente original,
-                    vigorosa y expansiva. Lo he conocido a usted, señor Rochester; y
+                    vigorosa y expansiva. Lo he conocido a usted, señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>; y
                     me golpea con terror y angustia sentir que debo ser arrancada de
                     usted para siempre. Veo la necesidad de la partida; y es como
                     contemplar la necesidad de la muerte.</p>
@@ -378,7 +477,10 @@
 
                 <p>—¿En qué forma?</p>
 
-                <p>—En la forma de la señorita Ingram; una mujer noble y hermosa, su novia.</p>
+                <p>—En la forma de la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>; una mujer noble y hermosa, su novia.</p>
 
                 <p>—¡Mi novia! ¿Qué novia? ¡No tengo novia!</p>
 
@@ -405,9 +507,15 @@
                     hubiéramos pasado por la tumba y estuviéramos a los pies de Dios,
                     iguales, ¡como lo somos!</p>
 
-                <p>—¡Como lo somos! —repitió el señor Rochester—. Así —añadió,
+                <p>—¡Como lo somos! —repitió el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>—. Así —añadió,
                     encerrándome en sus brazos, recogiéndome en su pecho,
-                    presionando sus labios sobre los míos—. ¡Así, Jane!</p>
+                    presionando sus labios sobre los míos—. ¡Así, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>!</p>
 
                 <p>—Sí, así, señor —repliqué—. Y sin embargo, no es así; porque
                     usted es un hombre casado, o casi como si lo fuera, y desposado
@@ -416,12 +524,18 @@
                     de ella. Yo despreciaría tal unión. Por lo tanto, soy mejor que usted.
                     ¡Déjeme ir!</p>
 
-                <p>—¿Adónde, Jane? ¿A Irlanda?</p>
+                <p>—¿Adónde, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>? ¿A Irlanda?</p>
 
                 <p>—Sí, a Irlanda. He dicho lo que pensaba y ahora puedo ir a
                     cualquier parte.</p>
 
-                <p>—Jane, quédate quieta; no luches así, como un pájaro salvaje y
+                <p>—<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, quédate quieta; no luches así, como un pájaro salvaje y
                     frenético que se arranca el plumaje en su desesperación.</p>
 
                 <p>—No soy un pájaro; y ninguna red me atrapa. Soy un ser humano
@@ -439,40 +553,64 @@
 
                 <p>—Para ese destino ya ha hecho su elección y debe atenerse a ella.</p>
 
-                <p>—Jane, quédate quieta unos momentos. Estás demasiado
+                <p>—<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, quédate quieta unos momentos. Estás demasiado
                     excitada. Yo también me quedaré quieto.</p>
 
                 <p>Una ráfaga de viento bajó barriendo el paseo de los laureles y
-                    tembló a través de las ramas del castaño. Se alejó, se alejó, a una
+                    tembló a través de las ramas del <span class="anotacion"
+                        data-nota="Representa la naturaleza advirtiendo sobre una unión ilegal. Aunque el árbol está partido, las raíces siguen unidas. Simboliza que Jane y Rochester están destinados a estar juntos, pero que su relación debe ser destruida (el incendio) y purificada antes de que puedan unirse de verdad.">
+                        castaño
+                    </span>. Se alejó, se alejó, a una
                     distancia indefinida, murió. El canto del ruiseñor era entonces la
-                    única voz de la hora. Al escucharlo, volví a llorar. El señor Rochester
+                    única voz de la hora. Al escucharlo, volví a llorar. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>
                     permaneció quieto, mirándome con dulzura y seriedad. Pasó un
                     tiempo antes de que hablara. Al fin dijo:</p>
 
-                <p>—Ven a mi lado, Jane, y expliquémonos y entendámonos.</p>
+                <p>—Ven a mi lado, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, y expliquémonos y entendámonos.</p>
 
                 <p>—Nunca más volveré a su lado. Ahora estoy arrancada y no puedo
                     regresar.</p>
 
-                <p>—Pero, Jane, te convoco como mi esposa. Es solo contigo con
+                <p>—Pero, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, te convoco como mi esposa. Es solo contigo con
                     quien tengo la intención de casarme.</p>
 
                 <p>Guardé silencio. Pensé que se burlaba de mí.</p>
 
-                <p>—Ven, Jane, ven aquí.</p>
+                <p>—Ven, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, ven aquí.</p>
 
                 <p>—Su novia se interpone entre nosotros.</p>
 
                 <p>Se levantó y, de una zancada, me alcanzó.</p>
 
                 <p>—Mi novia está aquí —dijo, atrayéndome de nuevo hacia él—,
-                    porque mi igual está aquí, y mi semejante. Jane, ¿quieres casarte
+                    porque mi igual está aquí, y mi semejante. <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, ¿quieres casarte
                     conmigo?</p>
 
                 <p>Aún no respondí y aún me retorcía para librarme de su agarre,
                     pues seguía incrédula.</p>
 
-                <p>—¿Dudas de mí, Jane?</p>
+                <p>—¿Dudas de mí, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>?</p>
 
                 <p>—Enteramente.</p>
 
@@ -482,12 +620,18 @@
 
                 <p>—¿Soy un mentiroso a tus ojos? —preguntó apasionadamente—.
                     Pequeña escéptica, serás convencida. ¿Qué amor siento yo por la
-                    señorita Ingram? Ninguno, y eso lo sabes. ¿Qué amor siente ella por
+                    señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>? Ninguno, y eso lo sabes. ¿Qué amor siente ella por
                     mí? Ninguno, como me he esforzado en demostrar. Hice que le
                     llegara el rumor de que mi fortuna no era ni un tercio de lo que se
                     suponía, y después me presenté para ver el resultado. Fue frialdad,
                     tanto por parte de ella como de su madre. No querría, no podría,
-                    casarme con la señorita Ingram. ¡Tú, tú, criatura extraña, casi
+                    casarme con la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>. ¡Tú, tú, criatura extraña, casi
                     sobrenatural! Te amo como a mi propia carne. A ti, pobre y oscura,
                     pequeña y sencilla como eres, te suplico que me aceptes como
                     marido.</p>
@@ -497,10 +641,16 @@
                     que no tengo un amigo en el mundo más que usted, si es que es mi
                     amigo; ni un chelín más que el que usted me ha dado?</p>
 
-                <p>—Tú, Jane, debo tenerte para mí, enteramente para mí. ¿Serás
+                <p>—Tú, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, debo tenerte para mí, enteramente para mí. ¿Serás
                     mía? Di que sí, rápido.</p>
 
-                <p>—Señor Rochester, déjeme mirarle la cara. Vuélvase a la luz de la luna.</p>
+                <p>—Señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, déjeme mirarle la cara. Vuélvase a la luz de la luna.</p>
 
                 <p>—¿Por qué?</p>
 
@@ -512,14 +662,20 @@
                 <p>Su rostro estaba muy agitado y muy sonrojado, y había fuertes
                     crispaciones en sus rasgos y extraños destellos en sus ojos.</p>
 
-                <p>—¡Oh, Jane, me torturas! —exclamó—. ¡Con esa mirada inquisitiva
+                <p>—¡Oh, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, me torturas! —exclamó—. ¡Con esa mirada inquisitiva
                     y a la vez fiel y generosa, me torturas!</p>
 
                 <p>—¿Cómo puedo hacer eso? Si usted es sincero y su oferta es real,
                     mis únicos sentimientos hacia usted deben ser de gratitud y
                     devoción. No pueden torturar.</p>
 
-                <p>—¡Gratitud! —exclamó; y añadió salvajemente—: Jane, acéptame
+                <p>—¡Gratitud! —exclamó; y añadió salvajemente—: <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, acéptame
                     rápido. Di: Edward, dame mi nombre, Edward, me casaré contigo.</p>
 
                 <p>—¿Habla en serio? ¿Me ama de verdad? ¿Desea sinceramente que
@@ -547,7 +703,10 @@
                     eran salvajes; pero, sentada a su lado, despertada de la pesadilla de
                     la separación, llamada al paraíso de la unión, solo pensaba en la
                     dicha que se me daba a beber en un flujo tan abundante. Una y otra
-                    vez decía: «¿Eres feliz, Jane?». Y una y otra vez respondía: «Sí».
+                    vez decía: «¿Eres feliz, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>?». Y una y otra vez respondía: «Sí».
                     Después de lo cual murmuró: «Expiará, expiará. ¿No la he
                     encontrado sin amigos, y fría, y desconsolada? ¿No la guardaré, y la
                     cuidaré, y la consolaré? ¿No hay amor en mi corazón y constancia en
@@ -557,25 +716,43 @@
 
                 <p>¿Pero qué le había ocurrido a la noche? La luna aún no se había
                     puesto y estábamos todos en la sombra. Apenas podía ver el rostro
-                    de mi amo, tan cerca como estaba. ¿Y qué le pasaba al castaño? Se
+                    de mi amo, tan cerca como estaba. ¿Y qué le pasaba al <span class="anotacion"
+                        data-nota="Representa la naturaleza advirtiendo sobre una unión ilegal. Aunque el árbol está partido, las raíces siguen unidas. Simboliza que Jane y Rochester están destinados a estar juntos, pero que su relación debe ser destruida (el incendio) y purificada antes de que puedan unirse de verdad.">
+                        castaño
+                    </span>? Se
                     retorcía y gemía; mientras el viento rugía en el paseo de los laureles
                     y venía barriendo sobre nosotros.</p>
 
-                <p>—Debemos entrar —dijo el señor Rochester—. El tiempo cambia.
-                    Podría haberme quedado sentado contigo hasta la mañana, Jane.</p>
+                <p>—Debemos entrar —dijo el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>—. El tiempo cambia.
+                    Podría haberme quedado sentado contigo hasta la mañana, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>.</p>
 
                 <p>«Y yo también», pensé, «podría contigo». Debería haberlo dicho,
                     quizás, pero una chispa lívida y vívida saltó de una nube que estaba
                     mirando, y hubo un crujido, un estrépito y un cercano y estrepitoso
                     trueno; y solo pensé en ocultar mis ojos deslumbrados contra el
-                    hombro del señor Rochester.</p>
+                    hombro del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>.</p>
 
                 <p>La lluvia cayó a cántaros. Me apresuró por el paseo, a través de
                     los terrenos y dentro de la casa; pero estábamos completamente
                     mojados antes de poder cruzar el umbral. Me estaba quitando el
                     chal en el vestíbulo y sacudiendo el agua de mi pelo suelto, cuando
-                    la señora Fairfax salió de su habitación. No la observé al principio, ni
-                    tampoco el señor Rochester. La lámpara estaba encendida. El reloj
+                    la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> salió de su habitación. No la observé al principio, ni
+                    tampoco el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. La lámpara estaba encendida. El reloj
                     estaba a punto de dar las doce.</p>
 
                 <p>—Apresúrate a quitarte la ropa mojada —dijo él—. Y antes de que
@@ -591,12 +768,21 @@
                     por muy cerca y profundo que retumbara el trueno, por muy fiero y
                     frecuente que relampagueara, por muy torrencial que cayera la lluvia
                     durante una tormenta de dos horas de duración, no experimenté
-                    miedo y poca reverencia. El señor Rochester vino tres veces a mi
+                    miedo y poca reverencia. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> vino tres veces a mi
                     puerta en el transcurso de ella para preguntar si estaba a salvo y
                     tranquila; y eso fue consuelo, eso fue fuerza para cualquier cosa.</p>
 
-                <p>Antes de levantarme de la cama por la mañana, la pequeña Adèle
-                    entró corriendo para decirme que el gran castaño de indias al fondo
+                <p>Antes de levantarme de la cama por la mañana, la pequeña <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>
+                    entró corriendo para decirme que el gran <span class="anotacion"
+                        data-nota="Representa la naturaleza advirtiendo sobre una unión ilegal. Aunque el árbol está partido, las raíces siguen unidas. Simboliza que Jane y Rochester están destinados a estar juntos, pero que su relación debe ser destruida (el incendio) y purificada antes de que puedan unirse de verdad.">
+                        castaño
+                    </span> de indias al fondo
                     del huerto había sido alcanzado por un rayo durante la noche, y que
                     la mitad de él se había partido.</p>
 

@@ -151,7 +151,10 @@
                 <p>—Pruébelo —repliqué.</p>
 
                 <p>—Lo haré, en pocas palabras. Tienes frío porque estás sola:
-                    ningún contacto hace saltar el fuego que hay en ti. Estás enferma
+                    ningún contacto hace saltar el <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> que hay en ti. Estás enferma
                     porque el mejor de los sentimientos, el más alto y el más dulce dado
                     al hombre, se mantiene lejos de ti. Eres tonta porque, por mucho
                     que sufras, no le harás señas para que se acerque, ni darás un solo
@@ -290,19 +293,31 @@
                     mañana. ¿Esa circunstancia lo excluye de la lista de tus conocidos, lo
                     borra, por así decirlo, de la existencia?</p>
 
-                <p>—No; pero apenas veo qué tiene que ver el señor Rochester con
+                <p>—No; pero apenas veo qué tiene que ver el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> con
                     el tema que habías introducido.</p>
 
                 <p>—Estaba hablando de damas sonriendo a los ojos de los
                     caballeros; y últimamente se han derramado tantas sonrisas en los
-                    ojos del señor Rochester que rebosan como dos copas llenas por
+                    ojos del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> que rebosan como dos copas llenas por
                     encima del borde. ¿Nunca lo has notado?</p>
 
-                <p>—El señor Rochester tiene derecho a disfrutar de la compañía de sus invitados.</p>
+                <p>—El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> tiene derecho a disfrutar de la compañía de sus invitados.</p>
 
                 <p>—No hay duda de su derecho. ¿Pero nunca has observado que, de
                     todos los cuentos que se cuentan aquí sobre el matrimonio, el señor
-                    Rochester ha sido favorecido con el más animado y el más continuo?</p>
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> ha sido favorecido con el más animado y el más continuo?
+                </p>
 
                 <p>—El afán de un oyente aviva la lengua de un narrador. —Dije esto
                     más para mí que para la gitana, cuyo extraño hablar, voz y manera
@@ -312,10 +327,16 @@
                     invisible había estado sentado durante semanas junto a mi corazón
                     observando sus tejemanejes y tomando nota de cada pulso.</p>
 
-                <p>—¡El afán de un oyente! —repitió ella—. Sí; el señor Rochester ha
+                <p>—¡El afán de un oyente! —repitió ella—. Sí; el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> ha
                     estado sentado durante horas, con el oído inclinado hacia los labios
                     fascinantes que tanto se deleitaban en su tarea de comunicar; y el
-                    señor Rochester estaba tan dispuesto a recibir y parecía tan
+                    señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> estaba tan dispuesto a recibir y parecía tan
                     agradecido por el pasatiempo que se le ofrecía. ¿Has notado esto?</p>
 
                 <p>—¡Agradecido! No recuerdo haber detectado gratitud en su rostro.</p>
@@ -332,9 +353,15 @@
                 <p>—¿Qué diablos has visto, entonces?</p>
 
                 <p>—No importa. Vine aquí a preguntar, no a confesar. ¿Se sabe que
-                    el señor Rochester se va a casar?</p>
+                    el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> se va a casar?</p>
 
-                <p>—Sí; y con la hermosa señorita Ingram.</p>
+                <p>—Sí; y con la hermosa señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>.</p>
 
                 <p>—¿Pronto?</p>
 
@@ -343,14 +370,20 @@
                     serán una pareja superlativamente feliz. Él debe amar a una dama
                     tan guapa, noble, ingeniosa y culta; y probablemente ella lo ame a
                     él, o, si no a su persona, al menos a su bolsa. Sé que considera la
-                    finca de Rochester elegible en el más alto grado; aunque (¡Dios me
+                    finca de <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> elegible en el más alto grado; aunque (¡Dios me
                     perdone!) le dije algo sobre ese punto hace una hora que la hizo
                     parecer maravillosamente grave. Las comisuras de su boca cayeron
                     media pulgada. Le aconsejaría a su moreno pretendiente que tuviera
                     cuidado: si viene otro con una lista de rentas más larga o más clara,
                     está perdido.</p>
 
-                <p>—Pero, madre, no vine a oír la fortuna del señor Rochester. Vine a
+                <p>—Pero, madre, no vine a oír la fortuna del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. Vine a
                     oír la mía; y no me ha dicho nada de ella.</p>
 
                 <p>—Tu fortuna es aún dudosa. Cuando examiné tu rostro, un rasgo
@@ -360,7 +393,10 @@
                     extender la mano y tomarla. Pero si lo harás, es el problema que
                     estudio. Arrodíllate de nuevo en la alfombra.</p>
 
-                <p>—No me retenga mucho; el fuego me abrasa.</p>
+                <p>—No me retenga mucho; el <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> me abrasa.</p>
 
                 <p>Me arrodillé. Ella no se inclinó hacia mí, sino que solo me miró,
                     reclinándose en su silla. Comenzó a murmurar:</p>
@@ -395,7 +431,10 @@
                     furiosamente, como verdaderas paganas que son; y los deseos
                     pueden imaginar toda clase de cosas vanas; pero el juicio tendrá
                     siempre la última palabra en cada argumento y el voto decisivo en
-                    cada decisión. Viento fuerte, terremoto y fuego pueden pasar, pero
+                    cada decisión. Viento fuerte, terremoto y <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> pueden pasar, pero
                     yo seguiré la guía de esa voz suave y queda que interpreta los
                     dictados de la conciencia”.</p>
 
@@ -430,7 +469,10 @@
                     nuevo miré el rostro, que ya no se apartaba de mí; por el contrario,
                     el gorro fue quitado, el vendaje desplazado, la cabeza adelantada.</p>
 
-                <p>—Bueno, Jane, ¿me conoces? —preguntó la voz familiar.</p>
+                <p>—Bueno, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, ¿me conoces? —preguntó la voz familiar.</p>
 
                 <p>—Solo quítese la capa roja, señor, y entonces...</p>
 
@@ -439,7 +481,10 @@
                 <p>—Rómpalo, señor.</p>
 
                 <p>—Ahí está, entonces: «¡Fuera, prendas prestadas!». —Y el señor
-                    Rochester salió de su disfraz.</p>
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> salió de su disfraz.
+                </p>
 
                 <p>—¡Ahora, señor, qué idea tan extraña!</p>
 
@@ -457,7 +502,10 @@
                     de sonsacarme, de una forma u otra; ha estado diciendo tonterías
                     para hacerme decir tonterías a mí. Apenas es justo, señor.</p>
 
-                <p>—¿Me perdona, Jane?</p>
+                <p>—¿Me perdona, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>?</p>
 
                 <p>—No puedo decirlo hasta que lo haya pensado todo. Si, tras
                     reflexionar, encuentro que no he caído en ningún gran absurdo,
@@ -473,7 +521,10 @@
                     su ansiedad por ocultar sus rasgos. Pero mi mente había estado
                     pensando en Grace Poole, ese enigma viviente, ese misterio de
                     misterios, como yo la consideraba. Nunca había pensado en el señor
-                    Rochester.</p>
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>.
+                </p>
 
                 <p>—Bueno —dijo él—, ¿en qué medita? ¿Qué significa esa sonrisa grave?</p>
 
@@ -488,7 +539,10 @@
                 <p>—¡Siéntese! Déjeme oír lo que dijeron de mí.</p>
 
                 <p>—Será mejor que no me quede mucho, señor; deben de ser cerca
-                    de las once. Oh, ¿es usted consciente, señor Rochester, de que ha
+                    de las once. Oh, ¿es usted consciente, señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, de que ha
                     llegado un extraño aquí desde que se fue esta mañana?</p>
 
                 <p>—¡Un extraño! No. ¿Quién puede ser? No esperaba a nadie. ¿Se ha ido?</p>
@@ -501,7 +555,10 @@
                 <p>—Su nombre es Mason, señor; y viene de las Indias Occidentales;
                     de Spanish Town, en Jamaica, creo.</p>
 
-                <p>El señor Rochester estaba de pie cerca de mí; me había tomado la
+                <p>El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> estaba de pie cerca de mí; me había tomado la
                     mano, como para conducirme a una silla. Mientras yo hablaba, me
                     dio un apretón convulsivo en la muñeca; la sonrisa de sus labios se
                     congeló; aparentemente un espasmo le cortó la respiración.</p>
@@ -514,11 +571,20 @@
 
                 <p>—¿Se encuentra mal, señor? —inquirí.</p>
 
-                <p>—Jane, ¡he recibido un golpe! ¡He recibido un golpe, Jane! —Se tambaleó.</p>
+                <p>—<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, ¡he recibido un golpe! ¡He recibido un golpe, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>! —Se tambaleó.</p>
 
                 <p>—Oh, apóyese en mí, señor.</p>
 
-                <p>—Jane, me ofreciste tu hombro una vez antes; déjame tenerlo ahora.</p>
+                <p>—<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, me ofreciste tu hombro una vez antes; déjame tenerlo ahora.</p>
 
                 <p>—Sí, señor, sí; y mi brazo.</p>
 
@@ -532,30 +598,48 @@
 
                 <p>—¿Puedo ayudarle, señor? Daría mi vida por servirle.</p>
 
-                <p>—Jane, si se necesita ayuda, la buscaré en tus manos; te lo prometo.</p>
+                <p>—<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, si se necesita ayuda, la buscaré en tus manos; te lo prometo.</p>
 
                 <p>—Gracias, señor. Dígame qué hacer; intentaré, al menos, hacerlo.</p>
 
-                <p>—Tráeme ahora, Jane, una copa de vino del comedor. Estarán
+                <p>—Tráeme ahora, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, una copa de vino del comedor. Estarán
                     cenando allí. Y dime si Mason está con ellos y qué está haciendo.</p>
 
                 <p>Fui. Encontré a toda la comitiva en el comedor cenando, como
-                    había dicho el señor Rochester. No estaban sentados a la mesa; la
+                    había dicho el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. No estaban sentados a la mesa; la
                     cena estaba dispuesta en el aparador. Cada uno había tomado lo que
                     había querido y estaban de pie aquí y allá en grupos, con sus platos
                     y copas en las manos. Todos parecían de muy buen humor; la risa y
                     la conversación eran generales y animadas. El señor Mason estaba
                     de pie cerca del fuego, hablando con el Coronel y la señora Dent, y
                     parecía tan alegre como cualquiera de ellos. Llené una copa de vino
-                    (vi a la señorita Ingram observarme con el ceño fruncido mientras lo
+                    (vi a la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> observarme con el ceño fruncido mientras lo
                     hacía; pensó que me estaba tomando una libertad, me atrevo a
                     decir) y regresé a la biblioteca.</p>
 
-                <p>La extrema palidez del señor Rochester había desaparecido y
+                <p>La extrema palidez del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> había desaparecido y
                     volvía a parecer firme y severo. Tomó la copa de mi mano.</p>
 
                 <p>—¡A tu salud, espíritu ministrador! —dijo. Se tragó el contenido y
-                    me la devolvió—. ¿Qué están haciendo, Jane?</p>
+                    me la devolvió—. ¿Qué están haciendo, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>?</p>
 
                 <p>—Riendo y hablando, señor.</p>
 
@@ -567,7 +651,10 @@
 
                 <p>—También se estaba riendo.</p>
 
-                <p>—Si toda esta gente entrara en masa y me escupiera, ¿qué harías, Jane?</p>
+                <p>—Si toda esta gente entrara en masa y me escupiera, ¿qué harías, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>?</p>
 
                 <p>—Echarlos de la habitación, señor, si pudiera.</p>
 
@@ -594,7 +681,10 @@
                     mi adhesión; como usted, estoy segura, merece.</p>
 
                 <p>—Vuelve ahora a la habitación; acércate silenciosamente a Mason
-                    y susúrrale al oído que el señor Rochester ha llegado y desea verlo.
+                    y susúrrale al oído que el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> ha llegado y desea verlo.
                     Hazlo entrar aquí y luego déjame.</p>
 
                 <p>—Sí, señor.</p>
@@ -606,7 +696,10 @@
 
                 <p>A una hora tardía, después de haber estado un tiempo en la
                     cama, oí a los visitantes retirarse a sus aposentos. Distinguí la voz
-                    del señor Rochester y le oí decir:</p>
+                    del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> y le oí decir:</p>
 
                 <p>—Por aquí, Mason; esta es su habitación.</p>
 

@@ -91,7 +91,10 @@
 
                 <p>Mientras me levantaba y me vestía, pensé en lo que había sucedido
                     y me pregunté si era un sueño. No podía estar segura de la realidad
-                    hasta que hubiera visto de nuevo al señor Rochester y lo hubiera
+                    hasta que hubiera visto de nuevo al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> y lo hubiera
                     oído renovar sus palabras de amor y promesa.</p>
 
                 <p>Mientras me arreglaba el pelo, me miré la cara en el espejo y sentí
@@ -117,18 +120,27 @@
                     y pájaros más alegres cantaban; pero nada era tan alegre ni tan
                     musical como mi propio corazón regocijado.</p>
 
-                <p>La señora Fairfax me sorprendió al mirar por la ventana con un
+                <p>La <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> me sorprendió al mirar por la ventana con un
                     semblante triste y decir gravemente:</p>
 
                 <p>—Señorita Eyre, ¿quiere venir a desayunar? —Durante la comida
                     estuvo silenciosa y fría. Pero no podía desengañarla entonces. Debía
                     esperar a que mi amo diera explicaciones; y ella también. Comí lo
-                    que pude y luego me apresuré a subir. Me encontré a Adèle saliendo
+                    que pude y luego me apresuré a subir. Me encontré a <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> saliendo
                     del aula.</p>
 
                 <p>—¿Adónde vas? Es hora de las lecciones.</p>
 
-                <p>—El señor Rochester me ha mandado al cuarto de los niños.</p>
+                <p>—El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> me ha mandado al cuarto de los niños.</p>
 
                 <p>—¿Dónde está él?</p>
 
@@ -140,7 +152,10 @@
                     lo que recibí, sino un abrazo y un beso. Parecía natural; parecía
                     cordial ser tan bien amada, tan acariciada por él.</p>
 
-                <p>—Jane, pareces radiante, y sonriente, y bonita —dijo—.
+                <p>—<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, pareces radiante, y sonriente, y bonita —dijo—.
                     Verdaderamente bonita esta mañana. ¿Es este mi pálido y pequeño
                     duende? ¿Es esta mi semilla de mostaza? ¿Esta niña de rostro
                     soleado con la mejilla con hoyuelos y los labios sonrosados; el
@@ -148,19 +163,35 @@
                     (Tenía los ojos verdes, lector; pero debe excusar el error; para él
                     estaban recién teñidos, supongo).</p>
 
-                <p>—Es Jane Eyre, señor.</p>
+                <p>—Es <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane Eyre
+                    </span>, señor.</p>
 
-                <p>—Pronto será Jane Rochester —añadió—. En cuatro semanas,
-                    Janet; ni un día más. ¿Oyes eso?</p>
+                <p>—Pronto será <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane Rochester
+                    </span> —añadió—. En cuatro semanas,
+                    <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Janet
+                    </span>; ni un día más. ¿Oyes eso?
+                </p>
 
                 <p>Lo oí, y no pude comprenderlo del todo. Me mareó. El
                     sentimiento, el anuncio que me recorrió, fue algo más fuerte de lo
                     que era consistente con la alegría, algo que golpeó y aturdió. Fue,
                     creo, casi miedo.</p>
 
-                <p>—Te sonrojaste, y ahora estás blanca, Jane. ¿A qué se debe eso?</p>
+                <p>—Te sonrojaste, y ahora estás blanca, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>. ¿A qué se debe eso?</p>
 
-                <p>—Porque me ha dado un nuevo nombre, Jane Rochester; y parece tan extraño.</p>
+                <p>—Porque me ha dado un nuevo nombre, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane Rochester
+                    </span>; y parece tan extraño.</p>
 
                 <p>—Sí, señora Rochester —dijo—. La joven señora Rochester, la
                     niña-novia de Fairfax Rochester.</p>
@@ -178,12 +209,18 @@
                     de un par, si estuviera a punto de casarme con ella.</p>
 
                 <p>—¡Oh, señor! ¡Nunca lluevan joyas! No me gusta oír hablar de
-                    ellas. Joyas para Jane Eyre suena antinatural y extraño. Preferiría no
+                    ellas. Joyas para <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane Eyre
+                    </span> suena antinatural y extraño. Preferiría no
                     tenerlas.</p>
 
                 <p>—Yo mismo te pondré la cadena de diamantes alrededor del cuello
                     y la diadema en la frente, que te sentará bien, pues la naturaleza, al
-                    menos, ha estampado su patente de nobleza en esta frente, Jane; y
+                    menos, ha estampado su patente de nobleza en esta frente, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>; y
                     abrocharé los brazaletes en estas finas muñecas y cargaré estos
                     dedos de hada con anillos.</p>
 
@@ -200,13 +237,22 @@
                 <p>—Haré que el mundo te reconozca como una belleza también —
                     continuó, mientras yo realmente me inquietaba por el tono que
                     había adoptado, porque sentía que o se estaba engañando a sí
-                    mismo o intentaba engañarme a mí—. Vestiré a mi Jane de satén y
+                    mismo o intentaba engañarme a mí—. Vestiré a mi <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span> de satén y
                     encaje, y tendrá rosas en el pelo; y cubriré la cabeza que más amo
                     con un velo de valor incalculable.</p>
 
-                <p>—Y entonces no me reconocerá, señor; y ya no seré su Jane Eyre,
+                <p>—Y entonces no me reconocerá, señor; y ya no seré su <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane Eyre
+                    </span>,
                     sino un mono con chaqueta de arlequín, un arrendajo con plumas
-                    prestadas. Preferiría verlo a usted, señor Rochester, ataviado con
+                    prestadas. Preferiría verlo a usted, señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, ataviado con
                     ropajes de teatro, que a mí misma vestida con el traje de una dama
                     de la corte; y no lo llamo a usted guapo, señor, aunque lo amo con
                     todo mi corazón, demasiado para halagarlo. No me halague.</p>
@@ -235,7 +281,10 @@
                 <p>Me reí de él cuando dijo esto.</p>
 
                 <p>—No soy un ángel —afirmé—. Y no lo seré hasta que muera. Seré
-                    yo misma. Señor Rochester, no debe esperar ni exigir nada celestial
+                    yo misma. Señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, no debe esperar ni exigir nada celestial
                     de mí, porque no lo obtendrá, como tampoco yo lo obtendré de
                     usted, lo cual no anticipo en absoluto.</p>
 
@@ -262,7 +311,10 @@
                     mismo diablo cuando descubro que no tienen ni alma ni corazón,
                     cuando me abren una perspectiva de insipidez, trivialidad y quizás
                     imbecilidad, grosería y mal genio. Pero para el ojo claro y la lengua
-                    elocuente, para el alma hecha de fuego y el carácter que se dobla
+                    elocuente, para el alma hecha de <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> y el carácter que se dobla
                     pero no se rompe —a la vez flexible y estable, dócil y consistente—,
                     soy siempre tierno y fiel.</p>
 
@@ -274,13 +326,19 @@
                 <p>—Pero antes de mí, ¿si es que yo, en algún aspecto, cumplo con
                     su difícil estándar?</p>
 
-                <p>—Nunca encontré a nadie como tú. Jane, me complaces y me
+                <p>—Nunca encontré a nadie como tú. <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, me complaces y me
                     dominas. Pareces someterte, y me gusta la sensación de flexibilidad
                     que impartes; y mientras enrosco la suave madeja de seda alrededor
                     de mi dedo, envía un escalofrío por mi brazo hasta mi corazón. Soy
                     influenciado, conquistado; y la influencia es más dulce de lo que
                     puedo expresar; y la conquista que sufro tiene una hechicería más
-                    allá de cualquier triunfo que pueda ganar. ¿Por qué sonríes, Jane?
+                    allá de cualquier triunfo que pueda ganar. ¿Por qué sonríes, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>?
                     ¿Qué significa ese giro inexplicable, casi sobrenatural, de tu
                     semblante?</p>
 
@@ -297,7 +355,10 @@
                     responderá dentro de un año si le pido un favor que no se ajuste a
                     su conveniencia o placer.</p>
 
-                <p>—Pídeme algo ahora, Janet, lo más mínimo. Deseo que me lo supliquen...</p>
+                <p>—Pídeme algo ahora, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Janet
+                    </span>, lo más mínimo. Deseo que me lo supliquen...</p>
 
                 <p>—De hecho lo haré, señor; tengo mi petición lista.</p>
 
@@ -325,7 +386,10 @@
 
                 <p>—Pero no puede haber peligro en cumplir con esta, señor.</p>
 
-                <p>—Dila, Jane. Pero desearía que, en lugar de una mera indagación
+                <p>—Dila, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>. Pero desearía que, en lugar de una mera indagación
                     sobre, quizás, un secreto, fuera un deseo de la mitad de mi
                     patrimonio.</p>
 
@@ -335,8 +399,12 @@
                     ¿No me excluirá de su confianza si me admite en su corazón?</p>
 
                 <p>—Eres bienvenida a toda mi confianza que valga la pena tener,
-                    Jane; pero, por el amor de Dios, ¡no desees una carga inútil! ¡No
-                    anheles veneno, no resultes ser una auténtica Eva en mis manos!</p>
+                    <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>; pero, por el amor de Dios, ¡no desees una carga inútil! ¡No
+                    anheles veneno, no resultes ser una auténtica Eva en mis manos!
+                </p>
 
                 <p>—¿Por qué no, señor? Acaba de decirme cuánto le gustaba ser
                     conquistado y cuán placentera le resulta la persuasión. ¿No cree que
@@ -360,21 +428,39 @@
                 <p>—Vaya, ahora es usted menos que cortés; y me gusta mucho más
                     la rudeza que la adulación. Prefiero ser una criatura que un ángel.
                     Esto es lo que tengo que preguntar: ¿Por qué se esforzó tanto en
-                    hacerme creer que deseaba casarse con la señorita Ingram?</p>
+                    hacerme creer que deseaba casarse con la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>?</p>
 
                 <p>—¿Eso es todo? ¡Gracias a Dios que no es peor! —Y ahora
                     desfrunció sus negras cejas; bajó la vista, sonriéndome, y me
                     acarició el pelo, como si estuviera muy complacido de ver un peligro
                     evitado—. Creo que puedo confesar —continuó—, aunque te indigne
-                    un poco, Jane, y he visto qué espíritu de fuego puedes ser cuando
+                    un poco, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, y he visto qué espíritu de <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> puedes ser cuando
                     estás indignada. Resplandeciste bajo la fría luz de la luna anoche,
                     cuando te amotinaste contra el destino y reclamaste tu rango como
-                    mi igual. Janet, por cierto, fuiste tú quien me hizo la oferta.</p>
+                    mi igual. <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Janet
+                    </span>, por cierto, fuiste tú quien me hizo la oferta.</p>
 
                 <p>—Por supuesto que sí. Pero al grano, si le parece, señor: ¿la
-                    señorita Ingram?</p>
+                    señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>?</p>
 
-                <p>—Bueno, fingí cortejar a la señorita Ingram porque deseaba que
+                <p>—Bueno, fingí cortejar a la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> porque deseaba que
                     te enamoraras de mí tan locamente como yo lo estaba de ti; y sabía
                     que los celos serían el mejor aliado que podría convocar para la
                     consecución de ese fin.</p>
@@ -382,24 +468,42 @@
                 <p>—¡Excelente! Ahora es usted pequeño, ni una pizca más grande
                     que la punta de mi dedo meñique. Fue una vergüenza y una
                     deshonra escandalosa actuar de esa manera. ¿No pensó nada en los
-                    sentimientos de la señorita Ingram, señor?</p>
+                    sentimientos de la señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span>, señor?</p>
 
                 <p>—Sus sentimientos se concentran en uno: el orgullo; y eso
-                    necesita ser humillado. ¿Estabas celosa, Jane?</p>
+                    necesita ser humillado. ¿Estabas celosa, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>?</p>
 
-                <p>—No importa, señor Rochester. No es de ningún interés para usted
+                <p>—No importa, señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. No es de ningún interés para usted
                     saberlo. Respóndame con sinceridad una vez más. ¿Cree que la
-                    señorita Ingram no sufrirá por su deshonesta coquetería? ¿No se
+                    señorita <span class="anotacion"
+                        data-nota="La rival social de Jane; representa la belleza superficial, la altivez y el interés económico en el matrimonio.">
+                        Ingram
+                    </span> no sufrirá por su deshonesta coquetería? ¿No se
                     sentirá abandonada y desamparada?</p>
 
                 <p>—¡Imposible! Cuando te conté cómo ella, por el contrario, me
                     abandonó. La idea de mi insolvencia enfrió, o más bien extinguió, su
                     llama en un momento.</p>
 
-                <p>—Tiene usted una mente curiosa y calculadora, señor Rochester.
+                <p>—Tiene usted una mente curiosa y calculadora, señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>.
                     Me temo que sus principios en algunos puntos son excéntricos.</p>
 
-                <p>—Mis principios nunca fueron entrenados, Jane. Puede que hayan
+                <p>—Mis principios nunca fueron entrenados, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>. Puede que hayan
                     crecido un poco torcidos por falta de atención.</p>
 
                 <p>—Una vez más, seriamente. ¿Puedo disfrutar del gran bien que se
@@ -408,7 +512,10 @@
 
                 <p>—Puedes, mi buena niña. No hay otro ser en el mundo que tenga
                     el mismo amor puro por mí que tú, pues me aplico ese grato
-                    ungüento a mi alma, Jane, la creencia en tu afecto.</p>
+                    ungüento a mi alma, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, la creencia en tu afecto.</p>
 
                 <p>Volví mis labios hacia la mano que descansaba en mi hombro. Lo
                     amaba mucho, más de lo que podía atreverme a decir, más de lo
@@ -419,14 +526,20 @@
 
                 <p>Estaba de nuevo lista con mi petición.</p>
 
-                <p>—Comunique sus intenciones a la señora Fairfax, señor. Me vio
+                <p>—Comunique sus intenciones a la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>, señor. Me vio
                     con usted anoche en el vestíbulo y se escandalizó. Dele alguna
                     explicación antes de que la vea de nuevo. Me duele ser mal juzgada
                     por una mujer tan buena.</p>
 
                 <p>—Ve a tu habitación y ponte el gorro —replicó—. Pienso que me
                     acompañes a Millcote esta mañana; y mientras te preparas para el
-                    paseo, iluminaré el entendimiento de la anciana. ¿Pensó, Janet, que
+                    paseo, iluminaré el entendimiento de la anciana. ¿Pensó, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Janet
+                    </span>, que
                     habías dado el mundo por amor y lo considerabas bien perdido?</p>
 
                 <p>—Creo que pensó que había olvidado mi posición y la suya, señor.</p>
@@ -434,11 +547,20 @@
                 <p>—¡Posición! ¡Posición! Tu posición está en mi corazón y sobre los
                     cuellos de aquellos que te insultarían, ahora o en el futuro. ¡Ve!</p>
 
-                <p>Pronto estuve vestida; y cuando oí al señor Rochester salir del
-                    salón de la señora Fairfax, me apresuré a bajar. La anciana había
+                <p>Pronto estuve vestida; y cuando oí al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> salir del
+                    salón de la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>, me apresuré a bajar. La anciana había
                     estado leyendo su porción matutina de las Escrituras, la Lección del
                     día; su Biblia yacía abierta ante ella y sus gafas estaban sobre ella.
-                    Su ocupación, suspendida por el anuncio del señor Rochester,
+                    Su ocupación, suspendida por el anuncio del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>,
                     parecía ahora olvidada. Sus ojos, fijos en la pared en blanco de
                     enfrente, expresaban la sorpresa de una mente tranquila agitada por
                     noticias insólitas. Al verme, se reanimó. Hizo una especie de
@@ -454,9 +576,12 @@
                     que murió hace quince años, ha entrado y se ha sentado a mi lado;
                     y que incluso lo he oído llamarme por mi nombre, Alice, como solía
                     hacer. Ahora, ¿puede decirme si es realmente cierto que el señor
-                    Rochester le ha pedido que se case con él? No se ría de mí. Pero
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> le ha pedido que se case con él? No se ría de mí. Pero
                     realmente pensé que entró aquí hace cinco minutos y dijo que en un
-                    mes sería usted su esposa.</p>
+                    mes sería usted su esposa.
+                </p>
 
                 <p>—Me ha dicho lo mismo a mí —repliqué.</p>
 
@@ -467,7 +592,9 @@
                 <p>Me miró desconcertada.</p>
 
                 <p>—Nunca podría haberlo pensado. Es un hombre orgulloso; todos
-                    los Rochester eran orgullosos. Y su padre, al menos, gustaba del
+                    los <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> eran orgullosos. Y su padre, al menos, gustaba del
                     dinero. A él también siempre se le ha llamado cuidadoso. ¿Pretende
                     casarse con usted?</p>
 
@@ -483,9 +610,15 @@
                     y hay veinte años de diferencia en sus edades. Casi podría ser su
                     padre.</p>
 
-                <p>—¡No, en absoluto, señora Fairfax! —exclamé, irritada—. ¡No se
+                <p>—¡No, en absoluto, <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>! —exclamé, irritada—. ¡No se
                     parece en nada a mi padre! Nadie, que nos viera juntos, lo
-                    supondría por un instante. El señor Rochester parece tan joven, y es
+                    supondría por un instante. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> parece tan joven, y es
                     tan joven, como algunos hombres a los veinticinco.</p>
 
                 <p>—¿Es realmente por amor que se va a casar con usted? — preguntó.</p>
@@ -500,10 +633,16 @@
                     o yo esperamos.</p>
 
                 <p>—¿Por qué? ¿Soy un monstruo? —dije—. ¿Es imposible que el
-                    señor Rochester sienta un afecto sincero por mí?</p>
+                    señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> sienta un afecto sincero por mí?</p>
 
                 <p>—No. Está usted muy bien, y ha mejorado mucho últimamente; y
-                    el señor Rochester, me atrevo a decir, le tiene afecto. Siempre he
+                    el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, me atrevo a decir, le tiene afecto. Siempre he
                     notado que era una especie de mascota suya. Hay momentos en
                     que, por su bien, me he sentido un poco inquieta por su marcada
                     preferencia, y he deseado ponerla en guardia. Pero no me gustaba
@@ -520,31 +659,52 @@
 
                 <p>—Espero que todo esté bien al final —dijo—. Pero créame, no
                     puede ser demasiado cuidadosa. Intente mantener al señor
-                    Rochester a distancia. Desconfíe de sí misma tanto como de él. Los
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> a distancia. Desconfíe de sí misma tanto como de él. Los
                     caballeros de su posición no acostumbran a casarse con sus
-                    institutrices.</p>
+                    institutrices.
+                </p>
 
-                <p>Me estaba irritando de verdad. Felizmente, Adèle entró corriendo.</p>
+                <p>Me estaba irritando de verdad. Felizmente, <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> entró corriendo.</p>
 
                 <p>—¡Déjeme ir, déjeme ir a Millcote también! —gritó—. El señor
-                    Rochester no quiere, aunque hay tanto sitio en el nuevo carruaje.
-                    ¡Pídale que me deje ir, <i>mademoiselle</i>!</p>
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> no quiere, aunque hay tanto sitio en el nuevo carruaje.
+                    ¡Pídale que me deje ir, <i><span class="anotacion" data-nota="señorita">mademoiselle</span></i>!
+                </p>
 
-                <p>—Eso haré, Adèle. —Y me apresuré a salir con ella, contenta de
+                <p>—Eso haré, <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>. —Y me apresuré a salir con ella, contenta de
                     abandonar a mi sombría monitora. El carruaje estaba listo; lo
                     estaban trayendo al frente, y mi amo paseaba por el pavimento, con
                     Pilot siguiéndolo de un lado a otro.</p>
 
-                <p>—Adèle puede acompañarnos, ¿no es así, señor?</p>
+                <p>—<span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> puede acompañarnos, ¿no es así, señor?</p>
 
                 <p>—Le dije que no. ¡No quiero mocosos! ¡Solo te quiero a ti!</p>
 
-                <p>—Deje que vaya, señor Rochester, por favor. Sería mejor.</p>
+                <p>—Deje que vaya, señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, por favor. Sería mejor.</p>
 
                 <p>—No lo es. Será un estorbo.</p>
 
                 <p>Fue bastante perentorio, tanto en la mirada como en la voz. El frío
-                    de las advertencias de la señora Fairfax y la humedad de sus dudas
+                    de las advertencias de la <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> y la humedad de sus dudas
                     estaban sobre mí. Algo de insustancialidad e incertidumbre había
                     asediado mis esperanzas. Perdí a medias el sentido de poder sobre
                     él. Estaba a punto de obedecerle mecánicamente, sin más réplica;
@@ -556,7 +716,10 @@
                 <p>—Preferiría con mucho que fuera, señor.</p>
 
                 <p>—¡Entonces, a por tu gorro, y vuelve como un relámpago! —le
-                    gritó a Adèle.</p>
+                    gritó a <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>.</p>
 
                 <p>Ella le obedeció con la mayor rapidez que pudo.</p>
 
@@ -564,7 +727,10 @@
                     mucho —dijo él—, cuando pretendo reclamarte en breve —tus
                     pensamientos, conversación y compañía— de por vida.</p>
 
-                <p>Adèle, al ser subida, comenzó a besarme, a modo de expresar su
+                <p><span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, al ser subida, comenzó a besarme, a modo de expresar su
                     gratitud por mi intercesión. Fue instantáneamente acomodada en un
                     rincón al otro lado de él. Luego se asomó a donde yo estaba
                     sentada. Un vecino tan severo era demasiado restrictivo. A él, en su
@@ -577,49 +743,81 @@
 
                 <p>—La enviaré a la escuela todavía —dijo, pero ahora sonreía.</p>
 
-                <p>Adèle lo oyó y preguntó si iba a ir a la escuela «<i>sans mademoiselle</i>».</p>
+                <p>Adèle lo oyó y preguntó si iba a ir a la escuela «<i><span class="anotacion"
+                            data-nota="sin la señorita">sans mademoiselle</span></i>».</p>
 
-                <p>—Sí —replicó—, absolutamente <i>sans mademoiselle</i>; porque voy a
-                    llevar a <i>mademoiselle</i> a la luna, y allí buscaré una cueva en uno de
-                    los valles blancos entre las cimas de los volcanes, y <i>mademoiselle</i>
+                <p>—Sí —replicó—, absolutamente <i><span class="anotacion" data-nota="sin la señorita">sans
+                            mademoiselle</span></i>; porque voy a
+                    llevar a <i><span class="anotacion" data-nota="señorita">mademoiselle</span></i> a la luna, y allí
+                    buscaré una cueva en uno de
+                    los valles blancos entre las cimas de los volcanes, y <i><span class="anotacion"
+                            data-nota="señorita">mademoiselle</span></i>
                     vivirá conmigo allí, y solo conmigo.</p>
 
-                <p>—No tendrá nada que comer. La matará de hambre —observó Adèle.</p>
+                <p>—No tendrá nada que comer. La matará de hambre —observó <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>.</p>
 
                 <p>—Recogeré maná para ella mañana y noche. Las llanuras y
-                    laderas de la luna están blanqueadas de maná, Adèle.</p>
+                    laderas de la luna están blanqueadas de maná, <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>.</p>
 
-                <p>—Querrá calentarse. ¿Qué hará para tener fuego?</p>
+                <p>—Querrá calentarse. ¿Qué hará para tener <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span>?</p>
 
-                <p>—El fuego surge de las montañas lunares. Cuando tenga frío, la
+                <p>—El <span class="anotacion" data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> surge de las montañas lunares. Cuando tenga frío, la
                     llevaré a una cima y la acostaré al borde de un cráter.</p>
 
-                <p>—<i>Oh, qu'elle y sera mal, peu confortable!</i> Y su ropa, se gastará.
+                <p>—<i><span class="anotacion" data-nota="¡Oh, qué incómodo será, no muy cómodo!">Oh, qu'elle y sera
+                            mal, peu confortable!</span></i> Y su ropa, se gastará.
                     ¿Cómo conseguirá una nueva?</p>
 
-                <p>El señor Rochester profesó estar perplejo.</p>
+                <p>El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> profesó estar perplejo.</p>
 
-                <p>—¡Hum! —dijo—. ¿Qué harías tú, Adèle? Estruja tus sesos en
+                <p>—¡Hum! —dijo—. ¿Qué harías tú, <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>? Estruja tus sesos en
                     busca de un expediente. ¿Qué tal una nube blanca o rosa para un
                     vestido, crees? Y se podría cortar una bufanda bastante bonita de un
                     arcoíris.</p>
 
-                <p>—Está mucho mejor como está —concluyó Adèle, después de
+                <p>—Está mucho mejor como está —concluyó <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, después de
                     meditar un rato—. Además, se cansaría de vivir solo contigo en la
-                    luna. Si yo fuera <i>mademoiselle</i>, nunca consentiría en ir contigo.</p>
+                    luna. Si yo fuera <i><span class="anotacion" data-nota="señorita">mademoiselle</span></i>, nunca
+                    consentiría en ir contigo.</p>
 
                 <p>—Ha consentido. Ha empeñado su palabra.</p>
 
                 <p>—Pero no puedes llevarla allí; no hay camino a la luna. Es todo
                     aire; y ni tú ni ella podéis volar.</p>
 
-                <p>—Adèle, mira ese campo. —Estábamos ahora fuera de las verjas
+                <p>—<span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, mira ese campo. —Estábamos ahora fuera de las verjas
                     de Thornfield y rodando ligeramente por el suave camino hacia
                     Millcote, donde el polvo estaba bien asentado por la tormenta y
                     donde los setos bajos y los altos árboles a cada lado brillaban verdes
                     y refrescados por la lluvia.</p>
 
-                <p>—En ese campo, Adèle, estaba yo paseando tarde una noche hace
+                <p>—En ese campo, <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, estaba yo paseando tarde una noche hace
                     unas dos semanas, la tarde del día en que me ayudaste a segar el
                     heno en los prados del huerto; y, como estaba cansado de rastrillar
                     hileras, me senté a descansar en una estela; y allí saqué un librito y
@@ -646,24 +844,39 @@
                     anillo de oro. “Póntelo”, dijo, “en el cuarto dedo de mi mano
                     izquierda, y soy tuya, y tú eres mío; y dejaremos la tierra y haremos
                     nuestro propio cielo allá arriba”. Asintió de nuevo hacia la luna. El
-                    anillo, Adèle, está en el bolsillo de mis calzones, bajo el disfraz de un
+                    anillo, <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, está en el bolsillo de mis calzones, bajo el disfraz de un
                     soberano. Pero pienso pronto cambiarlo de nuevo por un anillo.</p>
 
-                <p>—¿Pero qué tiene que ver <i>mademoiselle</i> con eso? No me importa
-                    el hada. ¿Dijo usted que era a <i>mademoiselle</i> a quien llevaría a la
+                <p>—¿Pero qué tiene que ver <i><span class="anotacion" data-nota="señorita">mademoiselle</span></i>
+                    con eso? No me importa
+                    el hada. ¿Dijo usted que era a <i><span class="anotacion"
+                            data-nota="señorita">mademoiselle</span></i>
+                    a quien llevaría a la
                     luna?</p>
 
-                <p>—<i>Mademoiselle</i> es un hada —dijo, susurrando misteriosamente.
+                <p>—<i><span class="anotacion" data-nota="Señorita">Mademoiselle</span></i>
+                    es un hada —dijo, susurrando misteriosamente.
                     Con lo cual le dije que no hiciera caso de sus bromas; y ella, por su
                     parte, demostró un fondo de genuino escepticismo francés,
-                    denominando al señor Rochester «<i>un vrai menteur</i>» y asegurándole
-                    que no hacía ningún caso de sus «<i>contes de fée</i>», y que «<i>du reste, il
-                        n'y avait pas de fées, et quand même il y en avait</i>», estaba segura
+                    denominando al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> «<i><span class="anotacion" data-nota="un verdadero mentiroso">un vrai menteur</span></i>» y
+                    asegurándole
+                    que no hacía ningún caso de sus «<i><span class="anotacion" data-nota="cuentos de hadas">contes de
+                            fée</span></i>», y que «<i><span class="anotacion"
+                            data-nota="además, no había hadas, y aunque las hubiera">du reste, il
+                            n'y avait pas de fées, et quand même il y en avait</span></i>», estaba segura
                     de que nunca se le aparecerían a él, ni le darían anillos, ni le
                     ofrecerían vivir con él en la luna.</p>
 
                 <p>La hora pasada en Millcote fue algo agotadora para mí. El señor
-                    Rochester me obligó a ir a un cierto almacén de sedas. Allí se me
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> me obligó a ir a un cierto almacén de sedas. Allí se me
                     ordenó elegir media docena de vestidos. Odiaba el asunto, supliqué
                     permiso para posponerlo. No, debía hacerse ahora. A fuerza de
                     súplicas expresadas en enérgicos susurros, reduje la media docena a
@@ -676,7 +889,8 @@
                     dificultad, pues era terco como una piedra, lo persuadí de que
                     hiciera un cambio en favor de un sobrio satén negro y una seda gris
                     perla. «Podría pasar por el momento», dijo, «pero aún me vería
-                    reluciente como un parterre».</p>
+                    reluciente como un parterre».
+                </p>
 
                 <p>Contenta estuve de sacarlo del almacén de sedas y luego de una
                     joyería. Cuanto más me compraba, más me ardía la mejilla con una
@@ -687,11 +901,17 @@
                     intención de adoptarme y hacerme su legataria. «Sería, en verdad,
                     un alivio», pensé, «si tuviera aunque fuera una pequeña
                     independencia. Nunca podré soportar ser vestida como una muñeca
-                    por el señor Rochester, o sentarme como una segunda Dánae con la
+                    por el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, o sentarme como una segunda Dánae con la
                     lluvia dorada cayendo diariamente a mi alrededor. Escribiré a
                     Madeira en el momento en que llegue a casa y le diré a mi tío John
                     que voy a casarme y con quién. Si tan solo tuviera la perspectiva de
-                    un día traerle al señor Rochester un aumento de fortuna, podría
+                    un día traerle al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> un aumento de fortuna, podría
                     soportar mejor que me mantuviera ahora». Y algo aliviada por esta
                     idea (que no dejé de ejecutar ese día), me aventuré una vez más a
                     encontrar la mirada de mi amo y amante, que buscaba la mía con la
@@ -723,7 +943,10 @@
                     dinero extra que parece no saber cómo gastar satisfactoriamente
                     aquí.</p>
 
-                <p>—¿Y qué harás tú, Janet, mientras yo regateo por tantas
+                <p>—¿Y qué harás tú, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Janet
+                    </span>, mientras yo regateo por tantas
                     toneladas de carne y tal surtido de ojos negros?</p>
 
                 <p>—Me prepararé para salir como misionera a predicar la libertad a
@@ -734,14 +957,23 @@
                     ataduras hasta que haya firmado una carta de derechos, la más
                     liberal que déspota alguno haya conferido jamás.</p>
 
-                <p>—Consentiría en estar a tu merced, Jane.</p>
+                <p>—Consentiría en estar a tu merced, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>.</p>
 
-                <p>—No tendría piedad, señor Rochester, si suplicara por ella con una
+                <p>—No tendría piedad, señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, si suplicara por ella con una
                     mirada como esa. Mientras mirara así, estaría segura de que
                     cualquier carta de derechos que pudiera otorgar bajo coacción, su
                     primer acto, al ser liberado, sería violar sus condiciones.</p>
 
-                <p>—Vaya, Jane, ¿qué quieres? Me temo que me obligarás a pasar
+                <p>—Vaya, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, ¿qué quieres? Me temo que me obligarás a pasar
                     por una ceremonia de matrimonio privada, además de la celebrada
                     en el altar. Estipularás, ya veo, condiciones peculiares. ¿Cuáles
                     serán?</p>
@@ -749,7 +981,10 @@
                 <p>—Solo quiero una mente tranquila, señor; no aplastada por
                     obligaciones acumuladas. ¿Recuerda lo que dijo de Céline Varens, de
                     los diamantes, las cachemiras que le dio? No seré su Céline Varens
-                    inglesa. Seguiré actuando como institutriz de Adèle; con eso ganaré
+                    inglesa. Seguiré actuando como institutriz de <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>; con eso ganaré
                     mi manutención y alojamiento, y treinta libras al año además.
                     Amueblaré mi propio guardarropa con ese dinero, y usted no me
                     dará nada más que...</p>
@@ -788,23 +1023,36 @@
                     tarde, cuando se sienta dispuesto a verme, y entonces vendré; pero
                     en ningún otro momento.</p>
 
-                <p>—Necesito un cigarro, Jane, o una pizca de rapé, para consolarme
-                    bajo todo esto, «<i>pour me donner une contenance</i>», como diría
-                    Adèle; y desafortunadamente no tengo ni mi cigarrera ni mi
+                <p>—Necesito un cigarro, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, o una pizca de rapé, para consolarme
+                    bajo todo esto, «<i><span class="anotacion"
+                            data-nota="para darme una apariencia de tranquilidad">pour me donner une
+                            contenance</span></i>», como diría
+                    <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>; y desafortunadamente no tengo ni mi cigarrera ni mi
                     tabaquera. Pero escucha... susurra. Ahora es tu momento, pequeña
                     tirana, pero pronto será el mío; y una vez que te haya agarrado
                     firmemente, para tenerte y retenerte, simplemente —hablando en
                     sentido figurado— te sujetaré a una cadena como esta (tocando la
                     cadena de su reloj). Sí, hermosa criaturita, te llevaré en mi pecho,
-                    no sea que mi joya se me pierda.</p>
+                    no sea que mi joya se me pierda.
+                </p>
 
                 <p>Dijo esto mientras me ayudaba a bajar del carruaje, y mientras
-                    después bajaba a Adèle, yo entré en la casa y me retiré escaleras
+                    después bajaba a <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, yo entré en la casa y me retiré escaleras
                     arriba.</p>
 
                 <p>Me convocó debidamente a su presencia por la tarde. Le había
                     preparado una ocupación; pues estaba decidida a no pasar todo el
-                    tiempo en una conversación <i>tête-à-tête</i>. Recordaba su hermosa voz;
+                    tiempo en una conversación <i><span class="anotacion" data-nota="cara a cara">tête-à-tête</span></i>
+                    . Recordaba su hermosa voz;
                     sabía que le gustaba cantar, los buenos cantantes generalmente lo
                     hacen. Yo no era una vocalista, y, a su juicio exigente, tampoco una
                     música; pero me deleitaba escuchar cuando la interpretación era
@@ -821,7 +1069,10 @@
                     suya; pero por una vez, y por motivos de conveniencia, la calmaría y
                     estimularía.</p>
 
-                <p>—Entonces, Jane, debes tocar el acompañamiento.</p>
+                <p>—Entonces, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, debes tocar el acompañamiento.</p>
 
                 <p>—Muy bien, señor, lo intentaré.</p>
 
@@ -903,7 +1154,10 @@
                     alcanzarme, pregunté con aspereza, «¿con quién se iba a casar
                     ahora?».</p>
 
-                <p>—Esa era una extraña pregunta para ser formulada por su querida Jane.</p>
+                <p>—Esa era una extraña pregunta para ser formulada por su querida <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>.</p>
 
                 <p>—¡De veras! La consideré una muy natural y necesaria. Había
                     hablado de que su futura esposa muriera con él. ¿Qué quería decir
@@ -971,9 +1225,15 @@
                     también, ahora recibía muecas; por un apretón de manos, un
                     pellizco en el brazo; por un beso en la mejilla, un severo tirón de
                     oreja. Todo estaba bien. En el presente prefería decididamente estos
-                    favores feroces a cualquier cosa más tierna. La señora Fairfax, vi, me
+                    favores feroces a cualquier cosa más tierna. La <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>, vi, me
                     aprobaba. Su ansiedad por mi cuenta se desvaneció; por lo tanto,
-                    estaba segura de que hacía bien. Mientras tanto, el señor Rochester
+                    estaba segura de que hacía bien. Mientras tanto, el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>
                     afirmaba que lo estaba consumiendo hasta los huesos, y amenazaba
                     con una venganza terrible por mi conducta actual en algún período
                     que se acercaba rápidamente. Me reí para mis adentros de sus

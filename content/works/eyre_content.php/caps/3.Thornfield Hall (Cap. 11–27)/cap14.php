@@ -89,7 +89,10 @@
             <section class="contenido">
                 <h1>Capítulo XIV</h1>
 
-                <p>Durante varios días subsiguientes vi poco al señor Rochester. Por las
+                <p>Durante varios días subsiguientes vi poco al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. Por las
                     mañanas parecía muy ocupado con negocios y, por las tardes,
                     caballeros de Millcote o de los alrededores lo visitaban, y a veces se
                     quedaban a cenar con él. Cuando su esguince estuvo lo
@@ -97,7 +100,10 @@
                     cabalgar mucho; probablemente para devolver estas visitas, ya que
                     generalmente no regresaba hasta bien entrada la noche.</p>
 
-                <p>Durante este intervalo, incluso a Adèle rara vez se la mandaba
+                <p>Durante este intervalo, incluso a <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> rara vez se la mandaba
                     llamar a su presencia, y todo mi trato con él se limitaba a un
                     encuentro ocasional en el vestíbulo, en las escaleras o en la galería,
                     donde a veces pasaba a mi lado altiva y fríamente, apenas
@@ -110,35 +116,61 @@
                 <p>Un día había tenido invitados a cenar y había mandado a buscar
                     mi portafolio; sin duda, para exhibir su contenido. Los caballeros se
                     marcharon temprano para asistir a una reunión pública en Millcote,
-                    como me informó la señora Fairfax; pero como la noche era húmeda
-                    e inclemente, el señor Rochester no los acompañó. Poco después de
-                    que se fueran, tocó la campanilla: llegó un mensaje de que Adèle y
-                    yo debíamos bajar. Cepillé el pelo de Adèle y la arreglé, y
+                    como me informó la <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>; pero como la noche era húmeda
+                    e inclemente, el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> no los acompañó. Poco después de
+                    que se fueran, tocó la campanilla: llegó un mensaje de que <span class="anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> y
+                    yo debíamos bajar. Cepillé el pelo de <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> y la arreglé, y
                     habiéndome asegurado de que yo misma estaba con mi habitual
                     atuendo cuáquero, donde no había nada que retocar —siendo todo
                     demasiado ceñido y sencillo, incluidos los cabellos trenzados, para
-                    admitir desorden—, descendimos, Adèle preguntándose si el petit
+                    admitir desorden—, descendimos, <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> preguntándose si el petit
                     coffre habría llegado por fin; pues, debido a algún error, su llegada
                     se había retrasado hasta ahora. Quedó satisfecha: allí estaba, un
                     pequeño cartón, sobre la mesa cuando entramos en el comedor.
                     Pareció reconocerlo por instinto.</p>
 
-                <p><i>—Ma boîte! ma boîte!</i> —exclamó, corriendo hacia ella.</p>
+                <p><i><span class="anotacion" data-nota="¡Mi caja! ¡Mi caja!">Ma boîte! ma boîte!</span></i> —exclamó,
+                    corriendo hacia ella.</p>
 
-                <p>—Sí, ahí está tu «<i>boîte</i>» por fin. Llévala a un rincón, genuina hija
+                <p>—Sí, ahí está tu «<i><span class="anotacion" data-nota="caja">boîte</span></i>» por fin. Llévala a un
+                    rincón, genuina hija
                     de París, y diviértete destripándola —dijo la voz profunda y algo
-                    sarcástica del señor Rochester, que procedía de las profundidades de
+                    sarcástica del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, que procedía de las profundidades de
                     un inmenso sillón junto al fuego—. Y ten cuidado —continuó—, no
                     me molestes con ningún detalle del proceso anatómico, ni con
                     ninguna noticia sobre el estado de las entrañas. Que tu operación se
-                    realice en silencio.<i>Tiens-toi tranquille, enfant; comprends-tu?</i></p>
+                    realice en silencio.<i><span class="anotacion"
+                            data-nota="Tranquilízate, niña; ¿entiendes?">Tiens-toi tranquille, enfant;
+                            comprends-tu?</span></i></p>
 
-                <p>Adèle apenas pareció necesitar la advertencia; ya se había retirado
+                <p><span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> apenas pareció necesitar la advertencia; ya se había retirado
                     a un sofá con su tesoro y estaba ocupada desatando el cordón que
                     aseguraba la tapa. Habiendo quitado este impedimento y levantado
                     ciertos sobres plateados de papel de seda, simplemente exclamó:</p>
 
-                <p>—<i>Oh ciel! Que c'est beau!</i>—y luego permaneció absorta en una
+                <p>—<i><span class="anotacion" data-nota="¡Oh cielo! ¡Qué bonito es!">Oh ciel! Que c'est
+                            beau!</span></i>—y luego permaneció absorta en una
                     contemplación extática.</p>
 
                 <p>—¿Está ahí la señorita Eyre? —demandó ahora el amo, medio
@@ -156,42 +188,72 @@
                     en cuenta a la mía; no conviene descuidarla; es una Fairfax, o está
                     casada con uno; y se dice que la sangre es más espesa que el agua.</p>
 
-                <p>Tocó la campanilla y despachó una invitación a la señora Fairfax,
+                <p>Tocó la campanilla y despachó una invitación a la <span class="
+                        anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>,
                     que pronto llegó, con la cesta de la costura en la mano.</p>
 
                 <p>—Buenas noches, señora; la he mandado llamar con un propósito
-                    caritativo. Le he prohibido a Adèle que me hable de sus regalos, y
+                    caritativo. Le he prohibido a <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> que me hable de sus regalos, y
                     está a punto de reventar de repleción; tenga la bondad de servirle
                     de oyente e interlocutora; será uno de los actos más benévolos que
                     haya realizado jamás.</p>
 
-                <p>Adèle, en efecto, tan pronto como vio a la señora Fairfax, la
+                <p><span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, en efecto, tan pronto como vio a la <span class="
+                        anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>, la
                     convocó a su sofá, y allí rápidamente llenó su regazo con la
-                    porcelana, el marfil, el contenido de cera de su «<i>boîte</i>», vertiendo,
+                    porcelana, el marfil, el contenido de cera de su «<i><span class="anotacion"
+                            data-nota="caja">boîte</span></i>», vertiendo,
                     mientras tanto, explicaciones y éxtasis en un inglés tan chapurreado
                     como dominaba.</p>
 
                 <p>—Ahora que he desempeñado el papel de un buen anfitrión —
-                    prosiguió el señor Rochester—, y he puesto a mis invitadas en
+                    prosiguió el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>—, y he puesto a mis invitadas en
                     camino de entretenerse mutuamente, debería tener la libertad de
                     atender a mi propio placer. Señorita Eyre, acerque su silla un poco
                     más. Todavía está demasiado atrás; no puedo verla sin perturbar mi
                     posición en esta cómoda silla, lo cual no tengo intención de hacer.</p>
 
                 <p>Hice lo que se me ordenó, aunque habría preferido mucho más
-                    permanecer algo en la sombra; pero el señor Rochester tenía una
+                    permanecer algo en la sombra; pero el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> tenía una
                     forma tan directa de dar órdenes que parecía natural obedecerle
                     prontamente.</p>
 
                 <p>Estábamos, como he dicho, en el comedor. El candelabro, que se
                     había encendido para la cena, llenaba la habitación con una festiva
-                    amplitud de luz; el gran fuego estaba todo rojo y claro; las cortinas
+                    amplitud de luz; el gran <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> estaba todo rojo y claro; las cortinas
                     púrpuras colgaban ricas y amplias ante la elevada ventana y el arco
                     más elevado aún. Todo estaba en silencio, salvo la charla contenida
-                    de Adèle (no se atrevía a hablar en voz alta) y, llenando cada pausa,
+                    de <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> (no se atrevía a hablar en voz alta) y, llenando cada pausa,
                     el golpeteo de la lluvia invernal contra los cristales.</p>
 
-                <p>El señor Rochester, sentado en su silla cubierta de damasco,
+                <p>El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, sentado en su silla cubierta de damasco,
                     parecía diferente a como lo había visto antes; no tan severo, mucho
                     menos sombrío. Había una sonrisa en sus labios y sus ojos brillaban,
                     ya fuera por el vino o no, no estoy segura, pero creo que es muy
@@ -238,7 +300,10 @@
                     por favor? Supongo que tengo todos mis miembros y todos mis
                     rasgos como cualquier otro hombre.</p>
 
-                <p>—Señor Rochester, permítame retractarme de mi primera
+                <p>—Señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, permítame retractarme de mi primera
                     respuesta. No pretendía una réplica mordaz, fue solo un desliz.</p>
 
                 <p>—Exacto. Eso creo. Y usted será responsable de ello. Critíqueme,
@@ -299,10 +364,19 @@
                     ciego e imperfecto, depositaba fe en la confianza.</p>
 
                 <p>—Estoy dispuesto a ser gregario y comunicativo esta noche —
-                    repitió—, y por eso la he mandado llamar. El fuego y el candelabro
+                    repitió—, y por eso la he mandado llamar. El <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> y el candelabro
                     no eran compañía suficiente para mí; tampoco lo habría sido Pilot,
-                    pues ninguno de ellos puede hablar. Adèle es un grado mejor, pero
-                    aún está muy por debajo de la marca; la señora Fairfax, ídem.
+                    pues ninguno de ellos puede hablar. <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> es un grado mejor, pero
+                    aún está muy por debajo de la marca; la <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>, ídem.
                     Usted, estoy persuadido, puede convenirme si quiere. Me
                     desconcertó la primera noche que la invité a bajar aquí. Casi la he
                     olvidado desde entonces; otras ideas han expulsado las suyas de mi
@@ -334,10 +408,14 @@
                     inferior. Es decir (corrigiéndose), solo reclamo la superioridad que
                     debe resultar de veinte años de diferencia de edad y un siglo de
                     avance en experiencia. Esto es legítimo, et j'y tiens, como diría
-                    Adèle; y es en virtud de esta superioridad, y solo de esta, que deseo
+                    <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>; y es en virtud de esta superioridad, y solo de esta, que deseo
                     que tenga la bondad de hablarme un poco ahora y desviar mis
                     pensamientos, que están irritados de tanto insistir en un punto,
-                    enconándose como un clavo oxidado.</p>
+                    enconándose como un clavo oxidado.
+                </p>
 
                 <p>Se había dignado a dar una explicación, casi una disculpa, y no
                     me sentí insensible a su condescendencia, y no quise parecerlo.</p>
@@ -372,7 +450,10 @@
                     en cuando, sin sentirse ofendida o herida por el tono de mando. ¿Lo
                     hará?</p>
 
-                <p>Sonreí. Pensé para mis adentros: el señor Rochester es peculiar;
+                <p>Sonreí. Pensé para mis adentros: el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> es peculiar;
                     parece olvidar que me paga 30 libras anuales por recibir sus
                     órdenes.</p>
 
@@ -596,7 +677,10 @@
 
                 <p>—¿Adónde va?</p>
 
-                <p>—A acostar a Adèle. Ya pasó su hora de dormir.</p>
+                <p>—A acostar a <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>. Ya pasó su hora de dormir.</p>
 
                 <p>—Me tiene miedo, porque hablo como una esfinge.</p>
 
@@ -627,16 +711,28 @@
 
                 <p>—Han dado las nueve, señor.</p>
 
-                <p>—No importa, espere un minuto. Adèle aún no está lista para irse
-                    a la cama. Mi posición, señorita Eyre, con la espalda al fuego y la
+                <p>—No importa, espere un minuto. <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> aún no está lista para irse
+                    a la cama. Mi posición, señorita Eyre, con la espalda al <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> y la
                     cara a la habitación, favorece la observación. Mientras hablaba con
-                    usted, también he observado ocasionalmente a Adèle (tengo mis
+                    usted, también he observado ocasionalmente a <span class="
+                        anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> (tengo mis
                     propias razones para considerarla un estudio curioso, razones que
                     puedo, no, que le comunicaré algún día). Sacó de su caja, hace unos
                     diez minutos, un pequeño vestido de seda rosa; el éxtasis iluminó su
                     rostro mientras lo desplegaba. La coquetería corre por su sangre, se
-                    mezcla con su cerebro y sazona la médula de sus huesos. «<i>Il faut
-                        que je l'essaie!</i>», exclamó, «<i>et à l'instant même!</i>». Y salió corriendo
+                    mezcla con su cerebro y sazona la médula de sus huesos. «<i><span class="anotacion"
+                            data-nota="¡Tengo que probármelo!">Il faut que je l'essaie!</span></i>», exclamó, «<i><span
+                            class="anotacion" data-nota="¡y ahora mismo!">et à l'instant même!</span></i>». Y salió
+                    corriendo
                     de la habitación. Ahora está con Sophie, sometiéndose a un proceso
                     de vestimenta. En pocos minutos volverá a entrar; y sé lo que veré:
                     una miniatura de Céline Varens, como solía aparecer en el escenario
@@ -644,7 +740,10 @@
                     más tiernos están a punto de recibir un golpe. Tal es mi
                     presentimiento; quédese ahora, para ver si se cumple.</p>
 
-                <p>En poco tiempo, se oyó el piececito de Adèle correteando por el
+                <p>En poco tiempo, se oyó el piececito de <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> correteando por el
                     vestíbulo. Entró, transformada como su guardián había predicho. Un
                     vestido de satén color de rosa, muy corto y con la falda tan fruncida
                     como podía estar, reemplazó el vestido marrón que había llevado
@@ -652,19 +751,26 @@
                     pies estaban vestidos con medias de seda y pequeñas sandalias de
                     satén blanco.</p>
 
-                <p>—<i>Est-ce que ma robe va bien?</i>—exclamó, saltando hacia adelante
-                    —;<i>et mes souliers? et mes bas? Tenez, je crois que je vais danser!</i></p>
+                <p>—<i><span class="anotacion"
+                            data-nota="¿Me queda bien el vestido? ¿Y mis zapatos? ¿Y mis medias? ¡Mirad, creo que voy a bailar!">Est-ce
+                            que ma robe va bien? Et mes souliers? Et mes bas? Tenez, je crois que je vais
+                            danser!</span></i></p>
 
                 <p>Y extendiendo su vestido, hizo un chassé a través de la habitación
-                    hasta que, habiendo llegado al señor Rochester, giró ligeramente
+                    hasta que, habiendo llegado al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, giró ligeramente
                     sobre las puntas de los pies ante él, y luego se arrodilló a sus pies,
                     exclamando:</p>
 
-                <p>—<i>Monsieur, je vous remercie mille fois de votre bonté.</i>—Luego,
-                    levantándose, añadió—;<i>C'est comme cela que maman faisait, n'estce
-                        pas, monsieur?</i></p>
+                <p>—<i><span class="anotacion"
+                            data-nota="Señor, le agradezco mil veces su bondad. Es así como mamá hacía, ¿no es así, señor?">Monsieur,
+                            je vous remercie mille fois de votre bonté. C'est comme cela que maman faisait, n'estce pas,
+                            monsieur?</span></i></p>
 
-                <p>—¡Pre-ci-sa-men-te! —fue la respuesta—. Y, «<i>comme cela</i>»,
+                <p>—¡Pre-ci-sa-men-te! —fue la respuesta—. Y, «<i><span class="anotacion" data-nota="así">comme
+                            cela</span></i>»,
                     encantó mi oro inglés fuera del bolsillo de mis calzones británicos. Yo
                     también he sido verde, señorita Eyre, sí, verde hierba. Ningún tinte
                     más primaveral la refresca a usted ahora del que una vez me

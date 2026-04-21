@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -164,7 +164,10 @@
                     elegante vehículo, medité a mis anchas.</p>
 
                 <p>«Supongo», pensé, «a juzgar por la sencillez del criado y del
-                    carruaje, que la señora Fairfax no es una persona muy ostentosa.
+                    carruaje, que la <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> no es una persona muy ostentosa.
                     Tanto mejor; solo viví una vez entre gente distinguida, y fui muy
                     desdichada con ellos. Me pregunto si vive sola, excepto por esta
                     niña. Si es así, y si es en algún grado amable, seguramente podré
@@ -172,7 +175,11 @@
                     hacer lo mejor que uno puede no siempre dé resultado. En Lowood,
                     ciertamente, tomé esa resolución, la mantuve y logré complacer;
                     pero con la señora Reed, recuerdo que lo mejor de mí siempre fue
-                    despreciado con desdén. Ruego a Dios que la señora Fairfax no
+                    despreciado con desdén. Ruego a Dios que la <span class="anotacion" data-nota="<span class="
+                        anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> no
                     resulte ser una segunda señora Reed; pero si lo es, ¡no estoy
                     obligada a quedarme con ella! En el peor de los casos, puedo volver
                     a poner un anuncio. ¿A qué distancia estaremos ahora, me
@@ -216,7 +223,11 @@
                     un fuego alegre; un sillón de respaldo alto y anticuado, en el que se
                     sentaba la dama de edad más pulcra que se pueda imaginar, con
                     cofia de viuda, vestido de seda negra y un delantal de muselina
-                    nívea; exactamente como había imaginado a la señora Fairfax, solo
+                    nívea; exactamente como había imaginado a la <span class="anotacion" data-nota="<span class="
+                        anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>, solo
                     que menos majestuosa y de aspecto más dulce. Estaba ocupada
                     tejiendo; un gato grande se sentaba recatadamente a sus pies; en
                     resumen, no faltaba nada para completar el beau idéal del confort
@@ -229,7 +240,10 @@
                 <p>—¿Cómo está, querida? Me temo que ha tenido un viaje tedioso;
                     John conduce tan despacio... Debe de tener frío, acérquese al fuego.</p>
 
-                <p>—¿La señora Fairfax, supongo? —dije.</p>
+                <p>—¿La <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>, supongo? —dije.</p>
 
                 <p>—Sí, tiene razón. Siéntese, por favor.</p>
 
@@ -265,7 +279,10 @@
                     fuera de lugar, pensé que era mejor tomar sus amabilidades con
                     tranquilidad.</p>
 
-                <p>—¿Tendré el placer de ver a la señorita Fairfax esta noche? —
+                <p>—¿Tendré el placer de ver a la <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> esta noche? —
                     pregunté, cuando hube probado lo que me ofrecía.</p>
 
                 <p>—¿Qué ha dicho, querida? Estoy un poco sorda —respondió la
@@ -273,7 +290,10 @@
 
                 <p>Repetí la pregunta más claramente.</p>
 
-                <p>—¿La señorita Fairfax? ¡Oh, se refiere a la señorita Varens! Varens
+                <p>—¿La <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>? ¡Oh, se refiere a la señorita Varens! Varens
                     es el nombre de su futura alumna.</p>
 
                 <p>—¡De veras! ¿Entonces no es su hija?</p>
@@ -305,7 +325,10 @@
                     pobre chica le gustara mucho la tarea; lo sentía como una atadura.
                     En primavera y verano una se las arreglaba mejor; el sol y los días
                     largos marcan una gran diferencia. Y luego, justo al comienzo de
-                    este otoño, llegó la pequeña Adèle Varens y su nodriza. Una niña
+                    este otoño, llegó la pequeña <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle Varens
+                    </span> y su nodriza. Una niña
                     hace que una casa cobre vida de repente; y ahora que está usted
                     aquí, estaré muy alegre.</p>
 
@@ -336,7 +359,10 @@
                     finalmente me condujeron a mi cámara, de encontrarla de pequeñas
                     dimensiones y amueblada en un estilo ordinario y moderno.</p>
 
-                <p>Cuando la señora Fairfax me hubo dado unas amables buenas
+                <p>Cuando la <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> me hubo dado unas amables buenas
                     noches y yo hube cerrado mi puerta, miré tranquilamente a mi
                     alrededor y, en cierta medida, borré la espeluznante impresión
                     causada por aquel amplio vestíbulo, aquella oscura y espaciosa
@@ -382,7 +408,11 @@
                     puesto mi vestido negro —que, por muy cuáquero que fuera, al
                     menos tenía el mérito de ajustarse a la perfección— y me hube
                     ajustado mi pechera blanca y limpia, pensé que me las arreglaría
-                    con la suficiente respetabilidad para aparecer ante la señora Fairfax,
+                    con la suficiente respetabilidad para aparecer ante la <span class="anotacion"
+                        data-nota="<span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>,
                     y que mi nueva alumna al menos no retrocedería ante mí con
                     antipatía. Habiendo abierto la ventana de mi cámara y visto que
                     dejaba todas las cosas rectas y ordenadas en el tocador, me
@@ -424,8 +454,11 @@
                 <p>Aún disfrutaba de la tranquila vista y del agradable aire fresco,
                     aún escuchaba con deleite el graznido de las grajas, aún examinaba
                     la ancha y canosa fachada de la mansión, y pensaba qué lugar tan
-                    grande era para que lo habitara una solitaria damita como la señora
-                    Fairfax, cuando esa dama apareció en la puerta.</p>
+                    grande era para que lo habitara una solitaria damita como la <span class="anotacion"
+                        data-nota="<span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>, cuando esa dama apareció en la puerta.</p>
 
                 <p>—¡Vaya! ¿Ya fuera? —dijo—. Veo que es usted madrugadora. —Me
                     acerqué a ella y fui recibida con un afable beso y un apretón de
@@ -435,15 +468,24 @@
                     mucho.</p>
 
                 <p>—Sí —dijo—, es un lugar bonito; pero me temo que se irá
-                    deteriorando, a menos que al señor Rochester se le ocurra venir a
+                    deteriorando, a menos que al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> se le ocurra venir a
                     residir aquí permanentemente; o, al menos, visitarlo con más
                     frecuencia. Las grandes casas y los hermosos terrenos requieren la
                     presencia del propietario.</p>
 
-                <p>—¡Señor Rochester! —exclamé—. ¿Quién es?</p>
+                <p>—¡Señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>! —exclamé—. ¿Quién es?</p>
 
                 <p>—El dueño de Thornfield —respondió tranquilamente—. ¿No sabía
-                    que se llamaba Rochester?</p>
+                    que se llamaba <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>?</p>
 
                 <p>Por supuesto que no, nunca había oído hablar de él antes; pero la
                     anciana parecía considerar su existencia como un hecho
@@ -454,17 +496,26 @@
 
                 <p>—¿A mí? ¡Bendita sea, niña; qué idea! ¿A mí? Solo soy el ama de
                     llaves, la administradora. Por supuesto, estoy lejanamente
-                    emparentada con los Rochester por parte de madre, o al menos mi
+                    emparentada con los <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> por parte de madre, o al menos mi
                     marido lo estaba; él era clérigo, titular de Hay —ese pequeño pueblo
                     de allí en la colina— y esa iglesia cerca de las verjas era suya. La
-                    madre del actual señor Rochester era una Fairfax, y prima segunda
+                    madre del actual señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> era una Fairfax, y prima segunda
                     de mi marido; pero nunca presumo de la conexión; de hecho, no es
                     nada para mí. Me considero completamente como una ama de llaves
                     ordinaria. Mi empleador siempre es cortés, y no espero nada más.</p>
 
                 <p>—¡Y la niña, mi alumna!</p>
 
-                <p>—Es la pupila del señor Rochester; él me encargó que le
+                <p>—Es la pupila del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>; él me encargó que le
                     encontrara una institutriz. Tenía la intención de que se criara en
                     ...shire, creo. Aquí viene, con su «bonne», como llama a su nodriza.
                     —El enigma entonces se explicó: esta afable y amable viudita no era
@@ -481,18 +532,28 @@
                     pálido de rasgos pequeños y una abundancia de cabello que le caía
                     en rizos hasta la cintura.</p>
 
-                <p>—Buenos días, señorita Adèle —dijo la señora Fairfax—. Venga a
+                <p>—Buenos días, señorita <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> —dijo la <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>—. Venga a
                     hablar con la dama que le va a enseñar y a hacer de usted una
                     mujer inteligente algún día. —Se acercó.</p>
 
-                <p>—<i>C'est là ma gouvernante?</i> —dijo, señalándome y dirigiéndose a
+                <p>—<i><span class="anotacion" data-nota="Es la institutriz">C'est là ma gouvernante?</i></span>—dijo,
+                    señalándome y dirigiéndose a
                     su nodriza; quien respondió:</p>
 
-                <p>—<i>Mais oui, certainement</i>.</p>
+                <p>—<i><span class="anotacion" data-nota="Desde luego que sí">Mais oui, certainement</span></i>.</p>
 
                 <p>—¿Son extranjeras? —inquirí, asombrada de oír el idioma francés.</p>
 
-                <p>—La nodriza es extranjera, y Adèle nació en el Continente; y, creo,
+                <p>—La nodriza es extranjera, y <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> nació en el Continente; y, creo,
                     nunca lo abandonó hasta hace unos seis meses. Cuando llegó aquí
                     por primera vez no hablaba nada de inglés; ahora se las arregla para
                     hablarlo un poco. No la entiendo, lo mezcla tanto con el francés;
@@ -506,7 +567,11 @@
                     mi acento e imitando lo más fielmente posible la pronunciación de
                     mi maestra—, había adquirido un cierto grado de soltura y
                     corrección en el idioma, y no era probable que me encontrara muy
-                    perdida con <i>Mademoiselle</i> Adèle. Se acercó y me dio la mano cuando
+                    perdida con <i><span class="anotacion" data-nota="Señorita">Mademoiselle</span></i> <span
+                        class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>. Se acercó y me dio la mano cuando
                     oyó que yo era su institutriz; y mientras la conducía al desayuno, le
                     dirigí algunas frases en su propia lengua. Al principio respondió
                     brevemente, pero después de que nos sentamos a la mesa, y me
@@ -514,23 +579,39 @@
                     de repente comenzó a parlotear fluidamente.</p>
 
                 <p>—¡Ah! —exclamó, en francés—, usted habla mi idioma tan bien
-                    como el señor Rochester. Puedo hablar con usted como puedo con
+                    como el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. Puedo hablar con usted como puedo con
                     él, y también Sophie. Ella se alegrará; nadie aquí la entiende.
                     Madame Fairfax es toda inglesa. Sophie es mi nodriza; vino conmigo
                     a través del mar en un gran barco con una chimenea que echaba
                     humo, ¡cómo echaba humo! Y yo me mareé, y también Sophie, y
-                    también el señor Rochester. El señor Rochester se tumbó en un sofá
+                    también el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> se tumbó en un sofá
                     en una bonita habitación llamada el salón, y Sophie y yo teníamos
                     pequeñas camas en otro lugar. Casi me caigo de la mía; era como un
-                    estante. Y <i>Mademoiselle</i>, ¿cuál es su nombre?</p>
+                    estante. Y <i><span class="anotacion" data-nota="Señorita">Mademoiselle</span></i>, ¿cuál es su
+                    nombre?</p>
 
-                <p>—Eyre, Jane Eyre.</p>
+                <p>—Eyre, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span> Eyre.</p>
 
                 <p>—¿Aire? ¡Bah! No puedo decirlo. Bueno, nuestro barco se detuvo
                     por la mañana, antes de que amaneciera del todo, en una gran
                     ciudad, una ciudad enorme, con casas muy oscuras y todo lleno de
                     humo; nada que ver con la bonita y limpia ciudad de la que venía. Y
-                    el señor Rochester me llevó en brazos por una plancha hasta tierra,
+                    el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> me llevó en brazos por una plancha hasta tierra,
                     y Sophie vino detrás, y todos nos metimos en un coche, que nos
                     llevó a una hermosa casa grande, más grande que esta y más fina,
                     llamada un hotel. Nos quedamos allí casi una semana. Sophie y yo
@@ -538,7 +619,11 @@
                     árboles, llamado el Parque; y había muchos niños allí además de mí,
                     y un estanque con pájaros preciosos a los que daba de comer migas.</p>
 
-                <p>—¿La entiende cuando habla tan rápido? —preguntó la señora Fairfax.</p>
+                <p>—¿La entiende cuando habla tan rápido? —preguntó la <span class="anotacion" data-nota="<span class="
+                        anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>.</p>
 
                 <p>La entendía muy bien, pues estaba acostumbrada a la lengua
                     fluida de Madame Pierrot.</p>
@@ -546,7 +631,10 @@
                 <p>—Desearía —continuó la buena dama— que le hiciera una o dos
                     preguntas sobre sus padres. Me pregunto si los recuerda.</p>
 
-                <p>—Adèle —inquirí—, ¿con quién vivías cuando estabas en esa
+                <p>—<span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> —inquirí—, ¿con quién vivías cuando estabas en esa
                     bonita y limpia ciudad de la que hablabas?</p>
 
                 <p>—Viví hace mucho tiempo con mamá; pero se ha ido con la
@@ -572,10 +660,14 @@
                     de amor y celos gorjeadas con el ceceo de la infancia; y de muy mal
                     gusto era ese punto, al menos así lo pensé.</p>
 
-                <p>Adèle cantó la canzonetta con bastante afinación y con la naïveté
+                <p><span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> cantó la canzonetta con bastante afinación y con la naïveté
                     de su edad. Logrado esto, saltó de mi regazo y dijo:</p>
 
-                <p>—Ahora, <i>Mademoiselle</i>, le recitaré un poco de poesía.</p>
+                <p>—Ahora, <i><span class="anotacion" data-nota="Señorita">Mademoiselle</span></i>, le recitaré un poco
+                    de poesía.</p>
 
                 <p>Asumiendo una actitud, comenzó a recitar <i>La Ligue des Rats, fábula de
                         La Fontaine</i>. Luego declamó la pequeña pieza con una atención a la
@@ -585,8 +677,9 @@
 
                 <p>—¿Fue tu mamá quien te enseñó esa pieza? —pregunté.</p>
 
-                <p>—Sí, y solía decirla así: «<i>Qu'avez-vous donc? lui dit un de ces rats;
-                        parlez!</i>». Me hacía levantar la mano —así— para recordarme que
+                <p>—Sí, y solía decirla así: «<i><span class="anotacion"
+                            data-nota="¿Qué os pasa? le dijo una de esas ratas; ¡hablad!">Qu'avez-vous donc? lui dit un
+                            de ces rats; parlez!</span></i>». Me hacía levantar la mano —así— para recordarme que
                     debía alzar la voz en la pregunta. ¿Ahora bailo para usted?</p>
 
                 <p>—No, con eso basta. Pero después de que tu mamá se fuera con
@@ -594,16 +687,28 @@
 
                 <p>—Con Madame Frédéric y su marido. Ella me cuidó, pero no es
                     pariente mía. Creo que es pobre, porque no tenía una casa tan
-                    bonita como mamá. No estuve mucho tiempo allí. El señor Rochester
+                    bonita como mamá. No estuve mucho tiempo allí. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>
                     me preguntó si me gustaría ir a vivir con él a Inglaterra, y yo dije
-                    que sí; porque conocía al señor Rochester antes de conocer a
+                    que sí; porque conocía al señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> antes de conocer a
                     Madame Frédéric, y siempre fue amable conmigo y me regaló
                     vestidos y juguetes bonitos. Pero ya ve, no ha cumplido su palabra,
                     porque me ha traído a Inglaterra y ahora él mismo ha vuelto a
                     marcharse, y nunca lo veo.</p>
 
-                <p>Después del desayuno, Adèle y yo nos retiramos a la biblioteca,
-                    habitación que, al parecer, el señor Rochester había indicado que se
+                <p>Después del desayuno, <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span> y yo nos retiramos a la biblioteca,
+                    habitación que, al parecer, el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> había indicado que se
                     usara como aula. La mayoría de los libros estaban encerrados tras
                     puertas de cristal; pero había una estantería abierta que contenía
                     todo lo que se podía necesitar en cuanto a obras elementales, y
@@ -627,14 +732,21 @@
                     algunos pequeños bocetos para su uso.</p>
 
                 <p>Mientras subía las escaleras para buscar mi portafolio y mis
-                    lápices, la señora Fairfax me llamó.</p>
+                    lápices, la <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> me llamó.</p>
 
                 <p>—Sus horas de clase de la mañana han terminado ya, supongo —
                     dijo. Estaba en una habitación cuyas puertas plegables estaban
                     abiertas. Entré cuando se dirigió a mí. Era un apartamento grande y
                     majestuoso, con sillas y cortinas púrpuras, una alfombra turca,
                     paredes con paneles de nogal, una vasta ventana rica en vidrieras y
-                    un techo elevado, noblemente moldeado. La señora Fairfax estaba
+                    un techo elevado, noblemente moldeado. La <span class="anotacion" data-nota="<span class="
+                        anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> estaba
                     quitando el polvo a unos jarrones de fino espato púrpura, que
                     estaban sobre un aparador./p>
 
@@ -661,17 +773,27 @@
                     ventanas, grandes espejos repetían la mezcla general de nieve y
                     fuego.</p>
 
-                <p>—¡En qué orden mantiene estas habitaciones, señora Fairfax! —
+                <p>—¡En qué orden mantiene estas habitaciones, <span class="anotacion" data-nota="<span class="
+                        anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>! —
                     dije—. Ni polvo, ni fundas de lona. Excepto que el aire se siente frío,
                     uno pensaría que están habitadas a diario.</p>
 
-                <p>—Bueno, señorita Eyre, aunque las visitas del señor Rochester
+                <p>—Bueno, señorita Eyre, aunque las visitas del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>
                     aquí son raras, siempre son repentinas e inesperadas; y como
                     observé que le molestaba encontrar todo envuelto, y tener un
                     ajetreo de arreglos a su llegada, pensé que era mejor mantener las
                     habitaciones listas.</p>
 
-                <p>—¿Es el señor Rochester un hombre exigente y quisquilloso?</p>
+                <p>—¿Es el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> un hombre exigente y quisquilloso?</p>
 
                 <p>—No particularmente; pero tiene los gustos y hábitos de un
                     caballero, y espera que las cosas se manejen de acuerdo con ellos.</p>
@@ -680,7 +802,10 @@
 
                 <p>—Oh, sí; la familia siempre ha sido respetada aquí. Casi todas las
                     tierras de esta vecindad, hasta donde alcanza la vista, han
-                    pertenecido a los Rochester desde tiempos inmemoriales.</p>
+                    pertenecido a los <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> desde tiempos inmemoriales.</p>
 
                 <p>—Bueno, pero, dejando de lado sus tierras, ¿le cae bien a usted?
                     ¿Es apreciado por sí mismo?</p>
@@ -704,12 +829,21 @@
                     del todo, en resumen, al menos yo no. Pero no tiene importancia, es
                     un muy buen amo.</p>
 
-                <p>Este fue todo el relato que obtuve de la señora Fairfax sobre su
+                <p>Este fue todo el relato que obtuve de la <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> sobre su
                     empleador y el mío. Hay personas que parecen no tener noción de
                     esbozar un carácter, o de observar y describir puntos sobresalientes,
                     ya sea en personas o en cosas. La buena dama evidentemente
                     pertenecía a esta clase; mis preguntas la desconcertaban, pero no la
-                    hacían hablar. El señor Rochester era el señor Rochester a sus ojos;
+                    hacían hablar. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> era el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> a sus ojos;
                     un caballero, un terrateniente, nada más. Ella no inquiría ni buscaba
                     más allá, y evidentemente se maravillaba de mi deseo de obtener
                     una noción más definida de su identidad.</p>
@@ -749,18 +883,27 @@
 
                 <p>—Eso pienso yo. ¿No tienen ningún fantasma, entonces?</p>
 
-                <p>—Ninguno del que yo haya oído hablar —respondió la señora
-                    Fairfax, sonriendo.</p>
+                <p>—Ninguno del que yo haya oído hablar —respondió la <span class="anotacion" data-nota="<span class="
+                        anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>, sonriendo.</p>
 
                 <p>—¿Ni tradiciones de uno? ¿Ni leyendas o historias de fantasmas?</p>
 
-                <p>—Creo que no. Y sin embargo, se dice que los Rochester han sido
+                <p>—Creo que no. Y sin embargo, se dice que los <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> han sido
                     una estirpe más bien violenta que tranquila en su tiempo. Quizás, sin
                     embargo, esa sea la razón por la que ahora descansan
                     tranquilamente en sus tumbas.</p>
 
                 <p>—Sí... «tras la febril fiebre de la vida, duermen bien» —murmuré
-                    —. ¿Adónde va ahora, señora Fairfax? —pues se estaba alejando.</p>
+                    —. ¿Adónde va ahora, <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>? —pues se estaba alejando.</p>
 
                 <p>—A la azotea; ¿quiere venir a ver la vista desde allí? —La seguí,
                     subiendo por una escalera muy estrecha hasta los desvanes, y de allí
@@ -783,9 +926,15 @@
                     pastizal y verde colina, de la que la mansión era el centro, y sobre la
                     cual había estado contemplando con deleite.</p>
 
-                <p>La señora Fairfax se quedó atrás un momento para cerrar la
+                <p>La <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> se quedó atrás un momento para cerrar la
                     trampilla; yo, a fuerza de tantear, encontré la salida del desván y
-                    procedí a descender la estrecha escalera del ático. Me detuve en el
+                    procedí a descender la estrecha escalera del <span class="anotacion"
+                        data-nota="Simboliza el subconsciente y los secretos oscuros. Es el 'lado oscuro' de Thornfield y de Rochester.">
+                        ático
+                    </span>. Me detuve en el
                     largo pasillo al que esta conducía, que separaba las habitaciones
                     delanteras y traseras del tercer piso. Estrecho, bajo y oscuro, con
                     solo una pequeña ventana en el extremo más alejado, y que parecía,
@@ -801,7 +950,10 @@
                     aunque se originó solo en una, y podría haber señalado la puerta de
                     donde provenían los acentos.</p>
 
-                <p>—¡Señora Fairfax! —grité, pues la oía ahora descender la gran
+                <p>—¡<span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        Señora Fairfax
+                    </span>! —grité, pues la oía ahora descender la gran
                     escalera—. ¿Oyó esa fuerte risa? ¿Quién es?</p>
 
                 <p>—Alguno de los criados, muy probablemente —respondió—.
@@ -816,7 +968,10 @@
                 <p>La risa se repitió en su tono bajo y silábico, y terminó en un
                     extraño murmullo.</p>
 
-                <p>—¡Grace! —exclamó la señora Fairfax.</p>
+                <p>—¡Grace! —exclamó la <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>.</p>
 
                 <p>Realmente no esperaba que ninguna Grace respondiera, pues la
                     risa era tan trágica, tan preternatural como ninguna que hubiera
@@ -833,7 +988,10 @@
                     podría concebirse una aparición menos romántica o menos
                     fantasmal.</p>
 
-                <p>—Demasiado ruido, Grace —dijo la señora Fairfax—. ¡Recuerda las
+                <p>—Demasiado ruido, Grace —dijo la <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>—. ¡Recuerda las
                     instrucciones! —Grace hizo una reverencia en silencio y entró.</p>
 
                 <p>—Es una persona que tenemos para coser y ayudar a Leah en sus
@@ -841,15 +999,26 @@
                     en algunos puntos, pero se las arregla bastante bien. Por cierto,
                     ¿cómo le ha ido con su nueva alumna esta mañana?</p>
 
-                <p>La conversación, así desviada hacia Adèle, continuó hasta que
-                    llegamos a la región luminosa y alegre de abajo. Adèle vino
+                <p>La conversación, así desviada hacia <span class=" anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>, continuó hasta que
+                    llegamos a la región luminosa y alegre de abajo. <span class="anotacion" data-nota="<span class="
+                        anotacion"
+                        data-nota="La protegida de Jane; representa la inocencia y el vínculo de Jane con el pasado francés de Rochester.">
+                        Adèle
+                    </span>c vino
                     corriendo a nuestro encuentro en el vestíbulo, exclamando:</p>
 
-                <p>—<i>Mesdames, vous êtes servies!</i> —y añadiendo—: <i>J'ai bien faim,
-                        moi!</i></p>
+                <p>—<i><span class="anotacion" data-nota="¡Señoras, están servidas! ¡Yo tengo mucha hambre!">Mesdames,
+                            vous êtes servies! J'ai bien faim, moi!</span></i></p>
 
                 <p>Encontramos la cena lista y esperándonos en la habitación de la
-                    señora Fairfax.</p>
+                    <span class=" anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>.
+                </p>
 
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap10.php" rel="prev">Anterior</a>

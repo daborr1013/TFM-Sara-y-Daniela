@@ -202,7 +202,6 @@
 
                 <ul>
                     <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap15.php">Capítulo XV</a>
-                    <li><i>Papanatas</i>: Tonto, bobo.</li>
                     <li><i>Grande passion</i>: Gran pasión.</li>
                     <li><i>Taille d'athlète</i>: Talle de atleta.</li>
                     <li><i>Croquant</i>: Crujiente.</li>
@@ -212,6 +211,14 @@
                     <li><i>Beauté mâle</i>: Belleza masculina.</li>
                     <li><i>Monsieur</i>: Señor.</li>
                     <li><i>Filette</i>: Niña.</li>
+                </ul>
+
+                <ul>
+                    <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap16.php">Capítulo XVI</a>
+                    <li><i>Qu'avez-vous, mademoiselle? Vos doigts tremblent comme la feuille, et vos joues sont rouges:
+                            mais, rouges comme des cerises!</i>: ¿Qué le pasa, señorita? Tus dedos tiemblan como una
+                        hoja y tus mejillas están rojas: ¡pero rojas como las cerezas!.</li>
+
                 </ul>
 
                 <ul>
@@ -227,13 +234,13 @@
                         criadas peinar y vestir a las damas, y era tan divertido: así se aprende.</li>
                     <li><i>Mais oui, mademoiselle: voilà cinq ou six heures que nous
                             n'avons pas mangé.</i>: ¡Pero sí, señorita: hace cinco o seis horas que no comemos!</li>
-                    <li><i>>Et alors quel dommage!</i>: ¡Y entonces qué lástima!</li>
+                    <li><i>Et alors quel dommage!</i>: ¡Y entonces qué lástima!</li>
                     <li><i>Est-ce que je ne puis pas prendre une seule de ces fleurs
                             magnifiques, mademoiselle? Seulement pour compléter ma toilette.</i>: ¿No puedo tomar una
                         sola de estas magníficas flores, señorita? Solo para completar mi tocado.</li>
                     <li><i>Minois chiffoné</i>: Rostro arrugado.</li>
                     <li><i>Bon jour, mesdames</i>: Buenos días, señoras.</li>
-                    <li><i>Père noble de théâtre</i>: Padre noble de teatro.</li>
+                    <li><i>Père noble de théâtre</i>: Padre noble del teatro.</li>
                     <li><i>Tant pis!</i>: ¡Qué lástima!</li>
                     <li><i>La belle passion</i>: La bella pasión.</li>
                     <li><i>Gardez-vous en bien!</i>: Cuídese mucho.</li>
@@ -246,7 +253,7 @@
                 </ul>
 
                 <ul>
-                    <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap18.php">Capítulo XVIII</a>
+                    <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap24.php">Capítulo XXIV</a>
                     <li><i>Sans mademoiselle</i>: Sin la señorita.</li>
                     <li><i>Oh, qu'elle y sera mal, peu confortable!</i>: ¡Oh, qué mal lo pasará allí, qué incómoda!</li>
                     <li><i>Un vrai menteur</i>: Un verdadero mentiroso.</li>

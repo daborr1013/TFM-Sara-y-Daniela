@@ -90,7 +90,10 @@
                 <h1>Capítulo XXVI</h1>
 
                 <p>Sophie vino a las siete a vestirme. Se demoró mucho, en verdad, en
-                    cumplir su tarea; tanto que el señor Rochester, supongo que
+                    cumplir su tarea; tanto que el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, supongo que
                     impaciente por mi tardanza, mandó a preguntar por qué no venía.
                     Justo me estaba sujetando el velo (el sencillo cuadrado de blonda,
                     después de todo) al pelo con un broche; me escabullí de sus manos
@@ -103,8 +106,14 @@
                     diferente a mi yo habitual que parecía casi la imagen de una
                     extraña.</p>
 
-                <p>—¡Jane! —llamó una voz, y bajé apresuradamente. Fui recibida al
-                    pie de las escaleras por el señor Rochester.</p>
+                <p>—¡<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>! —llamó una voz, y bajé apresuradamente. Fui recibida al
+                    pie de las escaleras por el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>.</p>
 
                 <p>—¡Tardona! —dijo—. ¡Mi cerebro arde de impaciencia y tú te
                     demoras tanto!</p>
@@ -141,31 +150,50 @@
 
                 <p>—Sí, señor.</p>
 
-                <p>—Jane, ¿estás lista?</p>
+                <p>—<span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>, ¿estás lista?</p>
 
                 <p>Me levanté. No había padrinos, ni damas de honor, ni parientes a
-                    quienes esperar o dirigir; nadie más que el señor Rochester y yo. La
-                    señora Fairfax estaba de pie en el vestíbulo cuando pasamos. De
+                    quienes esperar o dirigir; nadie más que el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> y yo. La
+                    <span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span> estaba de pie en el vestíbulo cuando pasamos. De
                     buena gana le habría hablado, pero mi mano estaba sujeta por un
                     agarre de hierro. Fui arrastrada por una zancada que apenas podía
-                    seguir; y mirar el rostro del señor Rochester era sentir que no se
+                    seguir; y mirar el rostro del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> era sentir que no se
                     toleraría ni un segundo de retraso para ningún propósito. Me
                     pregunto qué otro novio habrá tenido el aspecto que él tenía, tan
                     decidido a un propósito, tan sombríamente resuelto; o quién, bajo
                     cejas tan firmes, habrá revelado jamás ojos tan llameantes y
-                    centelleantes.</p>
+                    centelleantes.
+                </p>
 
                 <p>No sé si el día era bueno o malo; al descender por el camino de
                     entrada, no miré ni al cielo ni a la tierra. Mi corazón estaba con mis
                     ojos; y ambos parecían haber migrado al cuerpo del señor
-                    Rochester. Quería ver la cosa invisible en la que, mientras
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>. Quería ver la cosa invisible en la que, mientras
                     avanzábamos, él parecía fijar una mirada fiera y cruel. Quería sentir
-                    los pensamientos cuya fuerza parecía él afrontar y resistir.</p>
+                    los pensamientos cuya fuerza parecía él afrontar y resistir.
+                </p>
 
                 <p>En la portilla del cementerio se detuvo. Descubrió que yo estaba
                     completamente sin aliento.</p>
 
-                <p>—¿Soy cruel en mi amor? —dijo—. Detente un instante; apóyate en mí, Jane.</p>
+                <p>—¿Soy cruel en mi amor? —dijo—. Detente un instante; apóyate en mí, <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane
+                    </span>.</p>
 
                 <p>Y ahora puedo recordar la imagen de la vieja casa de Dios gris
                     alzándose tranquila ante mí, de una graja girando alrededor del
@@ -176,29 +204,41 @@
                     cubiertas de musgo. Me fijé en ellos porque, al vernos, pasaron a la
                     parte trasera de la iglesia; y no dudé de que iban a entrar por la
                     puerta del pasillo lateral y presenciar la ceremonia. El señor
-                    Rochester no los observó; miraba seriamente mi rostro, del que la
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> no los observó; miraba seriamente mi rostro, del que la
                     sangre, me atrevo a decir, había huido momentáneamente, pues
                     sentí mi frente húmeda y mis mejillas y labios fríos. Cuando me
                     recuperé, lo que hice pronto, caminó suavemente conmigo por el
-                    sendero hasta el porche.</p>
+                    sendero hasta el porche.
+                </p>
 
                 <p>Entramos en el templo tranquilo y humilde; el sacerdote esperaba
                     con su sobrepelliz blanca en el modesto altar, el sacristán a su lado.
                     Todo estaba en silencio; solo dos sombras se movían en un rincón
                     remoto. Mi conjetura había sido correcta: los extraños se habían
                     deslizado antes que nosotros y ahora estaban de pie junto a la cripta
-                    de los Rochester, de espaldas a nosotros, contemplando a través de
+                    de los <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, de espaldas a nosotros, contemplando a través de
                     las rejas la antigua tumba de mármol manchada por el tiempo,
                     donde un ángel arrodillado guardaba los restos de Damer de
-                    Rochester, muerto en Marston Moor en tiempos de las guerras
-                    civiles, y de Elizabeth, su esposa.</p>
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, muerto en Marston Moor en tiempos de las guerras
+                    civiles, y de Elizabeth, su esposa.
+                </p>
 
                 <p>Tomamos nuestro lugar en el comulgatorio. Al oír un paso
                     cauteloso detrás de mí, miré por encima del hombro: uno de los
                     extraños —un caballero, evidentemente— avanzaba por el
                     presbiterio. El servicio comenzó. Se leyó la explicación del propósito
                     del matrimonio; y luego el clérigo avanzó un paso más y,
-                    inclinándose ligeramente hacia el señor Rochester, continuó.</p>
+                    inclinándose ligeramente hacia el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, continuó.</p>
 
                 <p>—Os requiero y conmino a ambos (así como responderéis en el
                     temible día del juicio, cuando los secretos de todos los corazones
@@ -212,14 +252,20 @@
                     después de esa sentencia? Quizás, ni una vez en cien años. Y el
                     clérigo, que no había levantado los ojos de su libro y había
                     contenido la respiración solo por un momento, iba a proseguir. Su
-                    mano ya estaba extendida hacia el señor Rochester, mientras sus
+                    mano ya estaba extendida hacia el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, mientras sus
                     labios se abrían para preguntar: «¿Quieres a esta mujer por tu
                     legítima esposa?», cuando una voz nítida y cercana dijo:</p>
 
                 <p>—El matrimonio no puede continuar. Declaro la existencia de un impedimento.</p>
 
                 <p>El clérigo levantó la vista hacia el que hablaba y se quedó mudo;
-                    el sacristán hizo lo mismo. El señor Rochester se movió ligeramente,
+                    el sacristán hizo lo mismo. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> se movió ligeramente,
                     como si un terremoto hubiera rodado bajo sus pies. Tomando un
                     apoyo más firme y sin volver la cabeza ni los ojos, dijo:</p>
 
@@ -236,7 +282,10 @@
                     de nosotros—. Estoy en condiciones de probar mi alegato: existe un
                     impedimento insuperable para este matrimonio.</p>
 
-                <p>El señor Rochester oyó, pero no hizo caso. Permaneció terco y
+                <p>El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> oyó, pero no hizo caso. Permaneció terco y
                     rígido, sin hacer otro movimiento que el de apoderarse de mi mano.
                     ¡Qué agarre tan caliente y fuerte tenía! ¡Y qué parecido al mármol
                     de cantera era su frente pálida, firme y maciza en ese momento!
@@ -256,17 +305,26 @@
                     pero no en voz alta:</p>
 
                 <p>—Simplemente consiste en la existencia de un matrimonio previo.
-                    El señor Rochester tiene una esposa viva actualmente.</p>
+                    El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> tiene una esposa viva actualmente.</p>
 
                 <p>Mis nervios vibraron ante esas palabras pronunciadas en voz baja
                     como nunca habían vibrado ante un trueno; mi sangre sintió su sutil
-                    violencia como nunca había sentido la escarcha o el fuego. Pero
+                    violencia como nunca había sentido la escarcha o el <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span>. Pero
                     estaba serena y no corría peligro de desmayarme. Miré al señor
-                    Rochester; le hice mirarme. Todo su rostro era roca incolora; su ojo
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>; le hice mirarme. Todo su rostro era roca incolora; su ojo
                     era a la vez chispa y pedernal. No desmintió nada; parecía como si
                     fuera a desafiar todas las cosas. Sin hablar, sin sonreír, sin parecer
                     reconocer en mí a un ser humano, solo rodeó mi cintura con su
-                    brazo y me remachó a su lado.</p>
+                    brazo y me remachó a su lado.
+                </p>
 
                 <p>—¿Quién es usted? —le preguntó al intruso.</p>
 
@@ -286,12 +344,16 @@
                 <p>»“Afirmo y puedo probar que el 20 de octubre del año de nuestro
                     Señor... (una fecha de hace quince años), Edward Fairfax Rochester,
                     de Thornfield Hall, en el condado de ..., y de Ferndean Manor, en
-                    ...shire, Inglaterra, se casó con mi hermana, Bertha Antoinetta
-                    Mason, hija de Jonas Mason, comerciante, y de Antoinetta, su
+                    ...shire, Inglaterra, se casó con mi hermana,
+                    <span class="anotacion"
+                        data-nota="El 'doble' oscuro de Jane; la manifestación de la rabia y la locura.">
+                        Bertha Antonietta Mason
+                    </span>, hija de Jonas Mason, comerciante, y de Antoinetta, su
                     esposa, una criolla, en la iglesia de ..., Spanish Town, Jamaica. El
                     registro del matrimonio se encontrará en el registro de esa iglesia;
                     una copia del mismo está ahora en mi posesión. Firmado, Richard
-                    Mason”.</p>
+                    Mason”.
+                </p>
 
                 <p>—Eso, si es un documento genuino, puede probar que he estado
                     casado, pero no prueba que la mujer mencionada en él como mi
@@ -309,22 +371,34 @@
                 <p>—Lo presentaré primero; está aquí mismo. Señor Mason, tenga la
                     bondad de adelantarse.</p>
 
-                <p>El señor Rochester, al oír el nombre, apretó los dientes;
+                <p>El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, al oír el nombre, apretó los dientes;
                     experimentó, también, una especie de fuerte temblor convulsivo.
                     Tan cerca de él como estaba, sentí el movimiento espasmódico de
                     furia o desesperación recorrer su cuerpo. El segundo extraño, que
                     hasta entonces se había mantenido en segundo plano, se acercó
                     ahora; un rostro pálido se asomó por encima del hombro del
-                    abogado. Sí, era el propio Mason. El señor Rochester se volvió y lo
+                    abogado. Sí, era el propio Mason. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> se volvió y lo
                     fulminó con la mirada. Su ojo, como he dicho a menudo, era un ojo
                     negro; ahora tenía una luz leonada, no, una luz sanguinaria en su
                     penumbra; y su rostro se sonrojó: mejilla olivácea y frente incolora
-                    recibieron un brillo como de un fuego cardíaco que se extendía y
+                    recibieron un brillo como de un <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span> cardíaco que se extendía y
                     ascendía. Y se movió, levantó su fuerte brazo; podría haber
                     golpeado a Mason, haberlo arrojado al suelo de la iglesia, haberle
                     arrancado el aliento con un golpe despiadado. Pero Mason se
                     encogió y gritó débilmente: «¡Santo Dios!». El desprecio cayó frío
-                    sobre el señor Rochester; su pasión murió como si una plaga la
+                    sobre el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>; su pasión murió como si una plaga la
                     hubiera marchitado. Solo preguntó:</p>
 
                 <p>—¿Qué tiene usted que decir?</p>
@@ -346,9 +420,15 @@
 
                 <p>—¡En Thornfield Hall! —exclamó el clérigo—. ¡Imposible! Soy un
                     viejo residente de esta vecindad, señor, y nunca he oído hablar de
-                    una señora Rochester en Thornfield Hall.</p>
+                    una señora <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> en Thornfield Hall.</p>
 
-                <p>Vi una sonrisa sombría contorsionar los labios del señor Rochester,
+                <p>Vi una sonrisa sombría contorsionar los labios del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>,
                     y murmuró:</p>
 
                 <p>—¡No, por Dios! Me encargué de que nadie oyera hablar de ello, ni
@@ -360,31 +440,48 @@
                     sacristán), abandone la iglesia. No habrá boda hoy. —El hombre
                     obedeció.</p>
 
-                <p>El señor Rochester continuó, con dureza y temeridad:</p>
+                <p>El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> continuó, con dureza y temeridad:</p>
 
                 <p>»¡Bigamia es una palabra fea! Sin embargo, tenía la intención de
                     ser un bígamo; pero el destino me ha superado en la maniobra, o la
                     Providencia me ha frenado, quizás lo último. Soy poco mejor que un
                     demonio en este momento; y, como mi pastor de ahí me diría,
-                    merezco sin duda los juicios más severos de Dios, hasta el fuego
+                    merezco sin duda los juicios más severos de Dios, hasta el <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span>
                     inextinguible y el gusano inmortal. Caballeros, mi plan se ha roto. Lo
                     que este abogado y su cliente dicen es cierto. ¡He estado casado y la
                     mujer con la que me casé vive! Dice usted que nunca oyó hablar de
-                    una señora Rochester en la casa de allá arriba, Wood; pero me
+                    una señora <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> en la casa de allá arriba, Wood; pero me
                     atrevo a decir que muchas veces ha inclinado el oído a los chismes
                     sobre la misteriosa lunática que se mantiene allí bajo vigilancia y
                     custodia. Algunos le han susurrado que es mi media hermana
                     bastarda; otros, mi amante repudiada. Ahora les informo que es mi
-                    esposa, con quien me casé hace quince años, Bertha Mason de
+                    esposa, con quien me casé hace quince años, <span class="anotacion"
+                        data-nota="El 'doble' oscuro de Jane; la manifestación de la rabia y la locura.">
+                        Bertha Mason
+                    </span> de
                     nombre; hermana de este resuelto personaje, que ahora, con sus
                     miembros temblorosos y sus mejillas blancas, les está mostrando
                     qué corazón tan valiente pueden tener los hombres. ¡Ánimo, Dick!
-                    ¡No me temas! Casi preferiría golpear a una mujer que a ti. Bertha
-                    Mason está loca; y proviene de una familia de locos; ¡idiotas y
+                    ¡No me temas! Casi preferiría golpear a una mujer que a ti. <span class="anotacion"
+                        data-nota="El 'doble' oscuro de Jane; la manifestación de la rabia y la locura.">
+                        Bertha Mason
+                    </span> está loca; y proviene de una familia de locos; ¡idiotas y
                     maníacos a través de tres generaciones! Su madre, la criolla, era a la
                     vez una loca y una borracha, como descubrí después de haberme
                     casado con la hija, pues guardaron silencio sobre los secretos
-                    familiares antes. Bertha, como una hija obediente, copió a su
+                    familiares antes. <span class="anotacion"
+                        data-nota="El 'doble' oscuro de Jane; la manifestación de la rabia y la locura.">
+                        Bertha
+                    </span>, como una hija obediente, copió a su
                     progenitora en ambos puntos. Tuve una pareja encantadora: pura,
                     sabia, modesta. Pueden imaginarse que fui un hombre feliz. ¡Pasé
                     por escenas ricas! ¡Oh! ¡Mi experiencia ha sido celestial, si tan solo
@@ -403,10 +500,16 @@
                     caballeros vinieron detrás. En la puerta principal de la mansión
                     encontramos el carruaje.</p>
 
-                <p>—Llévalo de vuelta a la cochera, John —dijo el señor Rochester
+                <p>—Llévalo de vuelta a la cochera, John —dijo el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>
                     fríamente—. No se necesitará hoy.</p>
 
-                <p>A nuestra entrada, la señora Fairfax, Adèle, Sophie, Leah, se
+                <p>A nuestra entrada, la<span class="anotacion"
+                        data-nota="El ama de llaves; representa la calidez del hogar pero también la ceguera ante los secretos de la casa.">
+                        señora Fairfax
+                    </span>, Adèle, Sophie, Leah, se
                     adelantaron para recibirnos y saludarnos.</p>
 
                 <p>—¡Media vuelta, todo el mundo! —gritó el amo—. ¡Fuera con sus
@@ -416,13 +519,19 @@
                     y todavía haciendo señas a los caballeros para que lo siguieran, lo
                     cual hicieron. Subimos la primera escalera, pasamos por la galería,
                     procedimos al tercer piso. La puerta baja y negra, abierta por la llave
-                    maestra del señor Rochester, nos admitió en la habitación tapizada,
+                    maestra del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, nos admitió en la habitación tapizada,
                     con su gran cama y su armario pictórico.</p>
 
                 <p>—Conoces este lugar, Mason —dijo nuestro guía—. Aquí te mordió y te apuñaló.</p>
 
                 <p>Levantó los tapices de la pared, descubriendo la segunda puerta.
-                    Esta también la abrió. En una habitación sin ventana ardía un fuego
+                    Esta también la abrió. En una habitación sin ventana ardía un <span class="anotacion"
+                        data-nota="Es el símbolo de la pasión destructiva y purificadora.">
+                        fuego
+                    </span>
                     protegido por un guardafuegos alto y fuerte, y una lámpara
                     suspendida del techo por una cadena. Grace Poole se inclinaba sobre
                     el fuego, aparentemente cocinando algo en una cacerola. En la
@@ -433,7 +542,10 @@
                     ropa y una cantidad de pelo oscuro y entrecano, salvaje como una
                     crin, ocultaba su cabeza y su rostro.</p>
 
-                <p>—¡Buenos días, señora Poole! —dijo el señor Rochester—. ¿Cómo
+                <p>—¡Buenos días, señora Poole! —dijo el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>—. ¿Cómo
                     está usted? ¿Y cómo está su pupila hoy?</p>
 
                 <p>—Estamos pasablemente, señor, gracias —replicó Grace,
@@ -453,7 +565,10 @@
                     miró salvajemente a sus visitantes. Reconocí bien aquel rostro
                     purpúreo, aquellos rasgos hinchados. La señora Poole avanzó.</p>
 
-                <p>—Apártese —dijo el señor Rochester, empujándola a un lado—. No
+                <p>—Apártese —dijo el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, empujándola a un lado—. No
                     tiene cuchillo ahora, supongo, y estoy en guardia.</p>
 
                 <p>—Nunca se sabe lo que tiene, señor. Es tan astuta. No está en la
@@ -464,7 +579,10 @@
                 <p>—¡Váyase al diablo! —fue la recomendación de su cuñado.</p>
 
                 <p>—¡Cuidado! —gritó Grace. Los tres caballeros retrocedieron
-                    simultáneamente. El señor Rochester me arrojó detrás de él. La
+                    simultáneamente. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> me arrojó detrás de él. La
                     lunática saltó y le agarró la garganta con saña, y le hincó los dientes
                     en la mejilla. Lucharon. Era una mujer grande, de estatura casi igual
                     a la de su marido, y corpulenta además. Mostró una fuerza viril en la
@@ -474,8 +592,11 @@
                     le dio una cuerda y él se los ató a la espalda. Con más cuerda, que
                     estaba a mano, la ató a una silla. La operación se realizó en medio
                     de los más feroces aullidos y las más convulsivas sacudidas. El señor
-                    Rochester se volvió entonces hacia los espectadores. Los miró con
-                    una sonrisa a la vez agria y desolada.</p>
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> se volvió entonces hacia los espectadores. Los miró con
+                    una sonrisa a la vez agria y desolada.
+                </p>
 
                 <p>—Esa es mi esposa —dijo—. ¡Tal es el único abrazo conyugal que
                     jamás conoceré, tales son las caricias que han de solazar mis horas
@@ -489,7 +610,10 @@
                     ¡y recuerden que con el juicio con que juzguéis seréis juzgados!
                     Fuera con ustedes ahora. Debo encerrar mi premio.</p>
 
-                <p>Nos retiramos todos. El señor Rochester se quedó un momento
+                <p>Nos retiramos todos. El señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> se quedó un momento
                     detrás de nosotros para dar alguna orden más a Grace Poole. El
                     abogado se dirigió a mí mientras descendía la escalera.</p>
 
@@ -502,7 +626,9 @@
                 <p>—El señor Mason sí. El señor Eyre ha sido el corresponsal en
                     Funchal de su casa durante algunos años. Cuando su tío recibió su
                     carta insinuando la unión contemplada entre usted y el señor
-                    Rochester, el señor Mason, que se encontraba en Madeira
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, el señor Mason, que se encontraba en Madeira
                     recuperando su salud, de camino de regreso a Jamaica, casualmente
                     estaba con él. El señor Eyre mencionó la noticia, pues sabía que mi
                     cliente aquí conocía a un caballero de apellido Rochester. El señor
@@ -521,10 +647,14 @@
                     Mason de regreso; pero tal como están las cosas, creo que es mejor
                     que permanezca en Inglaterra hasta que pueda tener más noticias,
                     ya sea de o sobre el señor Eyre. ¿Tenemos algo más por lo que
-                    quedarnos? —inquirió al señor Mason.</p>
+                    quedarnos? —inquirió al señor Mason.
+                </p>
 
                 <p>—No, no, vámonos —fue la ansiosa respuesta. Y sin esperar a
-                    despedirse del señor Rochester, salieron por la puerta del vestíbulo.
+                    despedirse del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, salieron por la puerta del vestíbulo.
                     El clérigo se quedó para intercambiar unas pocas frases, ya fuera de
                     amonestación o de reproche, con su altivo feligrés; cumplido este
                     deber, también él partió.</p>
@@ -547,7 +677,10 @@
                     sido ruidosa; no hubo explosión de pasión, ni altercado fuerte, ni
                     disputa, ni desafío, ni lágrimas, ni sollozos. Se habían dicho unas
                     pocas palabras, se había hecho una objeción tranquilamente
-                    pronunciada al matrimonio; el señor Rochester había hecho algunas
+                    pronunciada al matrimonio; el señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> había hecho algunas
                     preguntas severas y breves; se habían dado respuestas,
                     explicaciones, se habían aducido pruebas; mi amo había admitido
                     abiertamente la verdad. Luego se había visto la prueba viviente; los
@@ -555,10 +688,16 @@
 
                 <p>Estaba en mi propia habitación como de costumbre, solo yo
                     misma, sin cambio aparente. Nada me había golpeado, ni arrasado,
-                    ni mutilado. Y sin embargo, ¿dónde estaba la Jane Eyre de ayer?
+                    ni mutilado. Y sin embargo, ¿dónde estaba la <span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane Eyre
+                    </span> de ayer?
                     ¿Dónde estaba su vida? ¿Dónde estaban sus perspectivas?</p>
 
-                <p>Jane Eyre, que había sido una mujer ardiente y expectante, casi
+                <p><span class="anotacion"
+                        data-nota="descubre la pasión pero prioriza su integridad. Encuentra a su igual en Rochester, pero huye para no ser su amante, demostrando que su auto-respeto es más fuerte que su deseo.">
+                        Jane Eyre
+                    </span>, que había sido una mujer ardiente y expectante, casi
                     una novia, era de nuevo una chica fría y solitaria. Su vida era pálida;
                     sus perspectivas, desoladas. Una helada de Navidad había llegado
                     en pleno verano; una blanca tormenta de diciembre se había
@@ -576,10 +715,15 @@
                     nunca podrían revivir. Miré mi amor, ese sentimiento que era de mi
                     amo, que él había creado; tiritaba en mi corazón, como un niño
                     sufriente en una cuna fría. La enfermedad y la angustia se habían
-                    apoderado de él; no podía buscar los brazos del señor Rochester, no
+                    apoderado de él; no podía buscar los brazos del señor <span class="anotacion"
+                        data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span>, no
                     podía obtener calor de su pecho. ¡Oh, nunca más podría volverse
                     hacia él; pues la fe estaba marchita, la confianza destruida! El señor
-                    Rochester no era para mí lo que había sido, porque no era lo que yo
+                    <span class="anotacion" data-nota="El héroe bypassiano, apasionado y torturado por su pasado.">
+                        Rochester
+                    </span> no era para mí lo que había sido, porque no era lo que yo
                     había pensado que era. No le atribuiría vicio; no diría que me había
                     traicionado; pero el atributo de la verdad inmaculada se había ido de
                     su idea, y de su presencia debía irme. Eso lo percibí bien. Cuándo,
@@ -588,7 +732,8 @@
                     tener por mí; solo había sido una pasión intermitente. Aquello se
                     había frustrado; ya no me necesitaría. Temería incluso cruzarme en
                     su camino ahora. Mi vista debía de serle odiosa. ¡Oh, qué ciegos
-                    habían estado mis ojos! ¡Qué débil mi conducta!</p>
+                    habían estado mis ojos! ¡Qué débil mi conducta!
+                </p>
 
                 <p>Mis ojos estaban cubiertos y cerrados. Una oscuridad arremolinada
                     parecía nadar a mi alrededor, y la reflexión llegó en un flujo tan
