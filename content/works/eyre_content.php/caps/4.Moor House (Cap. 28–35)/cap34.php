@@ -142,7 +142,13 @@
 
                 <p>—¿La necesita?</p>
 
-                <p>—Sí, para que vaya conmigo a Moor House. Diana y Mary estarán
+                <p>—Sí, para que vaya conmigo a Moor House. <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> y <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> estarán
                     en casa en una semana y quiero tener todo en orden para su
                     llegada.</p>
 
@@ -173,11 +179,20 @@
                     solemnizar de otros ritos culinarios, que las palabras apenas pueden
                     transmitir una noción adecuada a los no iniciados como usted. Mi
                     propósito, en resumen, es tener todas las cosas en un estado de
-                    preparación absolutamente perfecto para Diana y Mary antes del
+                    preparación absolutamente perfecto para <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> y <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> antes del
                     próximo jueves; y mi ambición es darles un beau idéal de bienvenida
                     cuando lleguen.</p>
 
-                <p>St. John sonrió ligeramente; aun así, estaba insatisfecho.</p>
+                <p><span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> sonrió ligeramente; aun así, estaba insatisfecho.</p>
 
                 <p>—Está todo muy bien por el momento —dijo—. Pero, seriamente,
                     confío en que cuando pase el primer arrebato de vivacidad, mirará
@@ -185,12 +200,18 @@
 
                 <p>—¡Las mejores cosas que el mundo tiene! —interrumpí.</p>
 
-                <p>—No, Jane, no. Este mundo no es la escena de la fruición; no
+                <p>—No, <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>, no. Este mundo no es la escena de la fruición; no
                     intente hacerlo así. Ni del descanso; no se vuelva perezosa.</p>
 
                 <p>—Pretendo, por el contrario, estar ocupada.</p>
 
-                <p>—Jane, la excuso por el presente. Le concedo dos meses de gracia
+                <p>—<span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>, la excuso por el presente. Le concedo dos meses de gracia
                     para el pleno disfrute de su nueva posición y para complacerse con
                     este encanto tardíamente encontrado de la relación familiar. Pero
                     entonces, espero que empiece a mirar más allá de Moor House y
@@ -200,18 +221,27 @@
 
                 <p>Lo miré con sorpresa.</p>
 
-                <p>—St. John —dije—, creo que es usted casi malvado al hablar así.
+                <p>—<span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> —dije—, creo que es usted casi malvado al hablar así.
                     ¡Estoy dispuesta a estar tan contenta como una reina y usted intenta
                     incitarme a la inquietud! ¿Con qué fin?</p>
 
                 <p>—Con el fin de aprovechar los talentos que Dios ha confiado a su
                     custodia, y de los cuales seguramente un día le pedirá una cuenta
-                    estricta. Jane, la vigilaré de cerca y con ansiedad, de eso le advierto.
+                    estricta. <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>, la vigilaré de cerca y con ansiedad, de eso le advierto.
                     Y trate de refrenar el fervor desproporcionado con que se arroja a
                     los placeres hogareños comunes. No se aferre tan tenazmente a los
                     lazos de la carne; guarde su constancia y ardor para una causa
                     adecuada; absténgase de desperdiciarlos en objetos triviales y
-                    transitorios. ¿Oye, Jane?</p>
+                    transitorios. ¿Oye, <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>?</p>
 
                 <p>—Sí; como si estuviera hablando en griego. Siento que tengo una
                     causa adecuada para ser feliz y seré feliz. ¡Adiós!</p>
@@ -227,7 +257,13 @@
                     efectuar las alteraciones que me placieran, y se había reservado una
                     suma para ese propósito. La sala de estar y los dormitorios
                     ordinarios los dejé más o menos como estaban, pues sabía que
-                    Diana y Mary obtendrían más placer al ver de nuevo las viejas y
+                    <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> y <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> obtendrían más placer al ver de nuevo las viejas y
                     hogareñas mesas, sillas y camas, que con el espectáculo de las
                     innovaciones más elegantes. Aun así, era necesaria alguna novedad
                     para dar a su regreso el picante con el que deseaba que estuviera
@@ -241,14 +277,18 @@
                     pensé que Moor House era un modelo tan completo de brillante,
                     modesta y acogedora comodidad por dentro, como lo era, en esta
                     estación, un espécimen de yermo invernal y desolación desértica por
-                    fuera.</p>
+                    fuera.
+                </p>
 
                 <p>El trascendental jueves llegó por fin. Se las esperaba sobre el
                     anochecer, y antes del crepúsculo se encendieron fuegos arriba y
                     abajo; la cocina estaba en perfecto orden; Hannah y yo estábamos
                     vestidas, y todo estaba listo.</p>
 
-                <p>St. John llegó primero. Le había suplicado que se mantuviera
+                <p><span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> llegó primero. Le había suplicado que se mantuviera
                     alejado de la casa hasta que todo estuviera arreglado; y, de hecho,
                     la sola idea de la conmoción, a la vez sórdida y trivial, que tenía
                     lugar dentro de sus muros, bastó para ahuyentarlo. Me encontró en
@@ -278,7 +318,10 @@
                 <p>Le mostré el volumen en el estante. Lo bajó y, retirándose a su
                     acostumbrado hueco de la ventana, comenzó a leerlo.</p>
 
-                <p>Ahora, esto no me gustó, lector. St. John era un buen hombre;
+                <p>Ahora, esto no me gustó, lector. <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> era un buen hombre;
                     pero empecé a sentir que había dicho la verdad de sí mismo cuando
                     dijo que era duro y frío. Las humanidades y las amenidades de la
                     vida no tenían atracción para él, sus placeres pacíficos ningún
@@ -316,22 +359,35 @@
                     había detenido en el postigo; el conductor abrió la puerta. Primero
                     una forma bien conocida, luego otra, salieron. En un minuto tenía mi
                     cara bajo sus gorros, en contacto primero con la suave mejilla de
-                    Mary, luego con los rizos ondulantes de Diana. Rieron, me besaron,
+                    <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span>, luego con los rizos ondulantes de <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span>. Rieron, me besaron,
                     luego a Hannah. Acariciaron a Carlo, que estaba medio loco de
                     alegría; preguntaron ansiosamente si todo estaba bien; y al ser
-                    aseguradas en afirmativo, se apresuraron a entrar en la casa.</p>
+                    aseguradas en afirmativo, se apresuraron a entrar en la casa.
+                </p>
 
                 <p>Estaban entumecidas por su largo y accidentado viaje desde
                     Whitcross, y heladas por el aire nocturno; pero sus agradables
                     semblantes se expandieron ante la alegre luz del fuego. Mientras el
-                    conductor y Hannah traían las cajas, preguntaron por St. John. En
+                    conductor y Hannah traían las cajas, preguntaron por <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>. En
                     ese momento, él avanzó desde el salón. Ambas le echaron los brazos
                     al cuello a la vez. Él le dio a cada una un beso tranquilo, dijo en voz
                     baja unas pocas palabras de bienvenida, se quedó un rato para que
                     le hablaran y luego, insinuando que suponía que pronto se reunirían
                     con él en el salón, se retiró allí como a un lugar de refugio.</p>
 
-                <p>Les había encendido las velas para que subieran, pero Diana tuvo
+                <p>Les había encendido las velas para que subieran, pero <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> tuvo
                     que dar primero órdenes hospitalarias respecto al conductor; hecho
                     esto, ambas me siguieron. Estaban encantadas con la renovación y
                     decoración de sus habitaciones; con los nuevos cortinajes y las
@@ -342,22 +398,35 @@
 
                 <p>Dulce fue aquella tarde. Mis primas, llenas de regocijo, eran tan
                     elocuentes en la narración y el comentario que su fluidez cubría la
-                    taciturnidad de St. John. Estaba sinceramente contento de ver a sus
+                    taciturnidad de <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>. Estaba sinceramente contento de ver a sus
                     hermanas; pero en su ardor de fervor y flujo de alegría no podía
-                    simpatizar. El acontecimiento del día —es decir, el regreso de Diana y
-                    Mary— le agradó; pero los acompañamientos de ese acontecimiento,
+                    simpatizar. El acontecimiento del día —es decir, el regreso de <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> y
+                    <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span>— le agradó; pero los acompañamientos de ese acontecimiento,
                     el alegre tumulto, la garrulería de la recepción, le fastidiaban. Vi que
                     deseaba que llegara el mañana más tranquilo. En el mismo
                     meridiano del disfrute de la noche, aproximadamente una hora
                     después del té, se oyó un golpe en la puerta. Hannah entró con la
                     noticia de que «un pobre muchacho había venido, a esa hora tan
                     improbable, a buscar al señor Rivers para ver a su madre, que se
-                    estaba muriendo».</p>
+                    estaba muriendo».
+                </p>
 
                 <p>—¿Dónde vive, Hannah?</p>
 
                 <p>—Allá arriba, en Whitcross Brow, a casi cuatro millas, y todo el
-                    camino por páramos y pantanos.</p>
+                    camino por <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramos
+                    </span> y pantanos.</p>
 
                 <p>—Dile que iré.</p>
 
@@ -378,18 +447,34 @@
                 <p>Me temo que toda la semana siguiente puso a prueba su
                     paciencia. Era la semana de Navidad. No nos dedicamos a ninguna
                     ocupación fija, sino que la pasamos en una especie de alegre
-                    disipación doméstica. El aire de los páramos, la libertad del hogar, el
-                    amanecer de la prosperidad, actuaron en los espíritus de Diana y
-                    Mary como un elixir vivificante. Estuvieron alegres desde la mañana
+                    disipación doméstica. El aire de los <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramos
+                    </span>, la libertad del hogar, el
+                    amanecer de la prosperidad, actuaron en los espíritus de <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> y
+                    <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> como un elixir vivificante. Estuvieron alegres desde la mañana
                     hasta el mediodía y desde el mediodía hasta la noche. Siempre
                     podían hablar; y su discurso, ingenioso, conciso, original, tenía tales
                     encantos para mí que prefería escucharlo y participar en él a hacer
-                    cualquier otra cosa. St. John no reprendió nuestra vivacidad, pero
+                    cualquier otra cosa. <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> no reprendió nuestra vivacidad, pero
                     escapó de ella. Rara vez estaba en la casa; su parroquia era grande,
                     la población dispersa, y encontraba ocupación diaria en visitar a los
-                    enfermos y a los pobres en sus diferentes distritos.</p>
+                    enfermos y a los pobres en sus diferentes distritos.
+                </p>
 
-                <p>Una mañana, en el desayuno, Diana, después de parecer un poco
+                <p>Una mañana, en el desayuno, <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span>, después de parecer un poco
                     pensativa durante unos minutos, le preguntó «si sus planes seguían
                     sin cambios».</p>
 
@@ -397,10 +482,15 @@
                     informarnos de que su partida de Inglaterra estaba ahora
                     definitivamente fijada para el año siguiente.</p>
 
-                <p>—¿Y Rosamond Oliver? —sugirió Mary, las palabras pareciendo
+                <p>—¿Y Rosamond Oliver? —sugirió <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span>, las palabras pareciendo
                     escapársele de los labios involuntariamente; pues tan pronto como
-                    las hubo pronunciado, hizo un gesto como si deseara retirarlas. St.
-                    John tenía un libro en la mano —era su costumbre insociable leer en
+                    las hubo pronunciado, hizo un gesto como si deseara retirarlas. <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> tenía un libro en la mano —era su costumbre insociable leer en
                     las comidas—, lo cerró y levantó la vista.</p>
 
                 <p>—Rosamond Oliver —dijo— está a punto de casarse con el señor
@@ -412,7 +502,10 @@
                     él. Estaba sereno como el cristal.</p>
 
                 <p>—El compromiso debe de haberse arreglado apresuradamente —
-                    dijo Diana—. No pueden haberse conocido mucho tiempo.</p>
+                    dijo <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span>—. No pueden haberse conocido mucho tiempo.</p>
 
                 <p>—Solo dos meses. Se conocieron en octubre en el baile del
                     condado en S... Pero donde no hay obstáculos para una unión, como
@@ -421,7 +514,10 @@
                     S... Place, que Sir Frederic les cede, pueda ser reacondicionado para
                     su recepción.</p>
 
-                <p>La primera vez que encontré a St. John solo después de esta
+                <p>La primera vez que encontré a <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> solo después de esta
                     comunicación, sentí la tentación de preguntarle si el acontecimiento
                     lo afligía; pero parecía necesitar tan poco la simpatía que, lejos de
                     aventurarme a ofrecerle más, experimenté cierta vergüenza al
@@ -440,7 +536,10 @@
                 <p>Siendo este el caso, no me sorprendió poco cuando levantó la
                     cabeza de repente del escritorio sobre el que se inclinaba y dijo:</p>
 
-                <p>—Ya ve, Jane, la batalla está librada y la victoria ganada.</p>
+                <p>—Ya ve, <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>, la batalla está librada y la victoria ganada.</p>
 
                 <p>Sobresaltada al ser interpelada así, no respondí de inmediato. Tras
                     un momento de vacilación, respondí:</p>
@@ -454,11 +553,26 @@
                     es decisivo. Mi camino está ahora despejado; ¡doy gracias a Dios por
                     ello! —Dicho esto, volvió a sus papeles y a su silencio.</p>
 
-                <p>A medida que nuestra felicidad mutua (es decir, la de Diana, Mary
+                <p>A medida que nuestra felicidad mutua (es decir, la de <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span>, <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span>
                     y la mía) se asentaba en un carácter más tranquilo, y reanudábamos
-                    nuestros hábitos usuales y nuestros estudios regulares, St. John se
+                    nuestros hábitos usuales y nuestros estudios regulares, <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> se
                     quedaba más en casa. Se sentaba con nosotras en la misma
-                    habitación, a veces durante horas. Mientras Mary dibujaba, Diana
+                    habitación, a veces durante horas. Mientras <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> dibujaba, <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span>
                     seguía un curso de lectura enciclopédica que había emprendido
                     (para mi asombro y admiración), y yo me afanaba en el alemán, él
                     meditaba sobre una tradición mística propia, la de alguna lengua
@@ -479,7 +593,10 @@
                     importancia a su solicitud y me animaba a cumplir la tarea sin tener
                     en cuenta los elementos.</p>
 
-                <p>—Jane no es tan débil como querríais hacerla —diría—. Puede
+                <p>—<span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span> no es tan débil como querríais hacerla —diría—. Puede
                     soportar una ráfaga de montaña, o un aguacero, o unos pocos copos
                     de nieve, tan bien como cualquiera de nosotros. Su constitución es a
                     la vez sana y elástica, mejor calculada para soportar las variaciones
@@ -501,7 +618,10 @@
                     por un momento me sentí supersticiosa, como si estuviera sentada
                     en la habitación con algo siniestro.</p>
 
-                <p>—Jane, ¿qué estás haciendo?</p>
+                <p>—<span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>, ¿qué estás haciendo?</p>
 
                 <p>—Aprendiendo alemán.</p>
 
@@ -522,13 +642,29 @@
                     tendría, quizás, que hacer el sacrificio por mucho tiempo, ya que
                     ahora apenas faltaban tres meses para su partida.</p>
 
-                <p>St. John no era un hombre al que se pudiera rechazar a la ligera.
+                <p><span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> no era un hombre al que se pudiera rechazar a la ligera.
                     Se sentía que cada impresión hecha en él, ya fuera de dolor o de
                     placer, quedaba grabada profundamente y era permanente.
-                    Consentí. Cuando Diana y Mary regresaron, la primera encontró a su
+                    Consentí. Cuando <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> y <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> regresaron, la primera encontró a su
                     alumna transferida de ella a su hermano. Se rio, y tanto ella como
-                    Mary estuvieron de acuerdo en que St. John nunca las habría
-                    persuadido a tal paso. Él respondió tranquilamente:</p>
+                    <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> estuvieron de acuerdo en que <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> nunca las habría
+                    persuadido a tal paso. Él respondió tranquilamente:
+                </p>
 
                 <p>—Lo sé.</p>
 
@@ -551,19 +687,34 @@
                 <p>Una tarde, a la hora de acostarse, mientras sus hermanas y yo
                     estábamos de pie a su alrededor, dándole las buenas noches, besó a
                     cada una de ellas, como era su costumbre; y, como era igualmente
-                    su costumbre, me dio la mano. Diana, que casualmente estaba de
+                    su costumbre, me dio la mano. <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span>, que casualmente estaba de
                     un humor juguetón (ella no estaba dolorosamente controlada por su
                     voluntad, pues la suya, de otra manera, era igual de fuerte),
                     exclamó:</p>
 
-                <p>—¡St. John! Solías llamar a Jane tu tercera hermana, pero no la
+                <p>—¡<span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>! Solías llamar a Jane tu tercera hermana, pero no la
                     tratas como tal. Deberías besarla también.</p>
 
-                <p>Me empujó hacia él. Pensé que Diana era muy provocadora y me
+                <p>Me empujó hacia él. Pensé que <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> era muy provocadora y me
                     sentí incómodamente confundida; y mientras pensaba y sentía esto,
-                    St. John inclinó la cabeza; su rostro griego se puso a la altura del
+                    <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> inclinó la cabeza; su rostro griego se puso a la altura del
                     mío, sus ojos interrogaron a mis ojos penetrantemente, me besó. No
-                    existen los besos de mármol o los besos de hielo, o diría que el
+                    existen los besos de mármol o los besos de <span class="anotacion"
+                        data-nota="Ambición fría y el deber sin amor. St. John es comparado constantemente con una estatua o un glaciar. Representa una fe religiosa que es intelectual y heroica, pero que carece de calor humano.">
+                        hielo
+                    </span>, o diría que el
                     saludo de mi primo eclesiástico pertenecía a una de estas clases;
                     pero puede haber besos de experimento, y el suyo fue un beso de
                     experimento. Una vez dado, me observó para conocer el resultado.
@@ -571,7 +722,8 @@
                     puse un poco pálida, pues sentí como si este beso fuera un sello
                     fijado a mis grilletes. Nunca omitió la ceremonia después, y la
                     gravedad y la quietud con que la sufría parecían investirla para él de
-                    un cierto encanto.</p>
+                    un cierto encanto.
+                </p>
 
                 <p>En cuanto a mí, deseaba cada día más complacerlo; pero para
                     hacerlo, sentía cada día más y más que debía repudiar la mitad de
@@ -596,14 +748,21 @@
                     tormentas pudieran borrar; era un nombre grabado en una tablilla,
                     destinado a durar tanto como el mármol que inscribía. El anhelo de
                     saber qué había sido de él me seguía a todas partes. Cuando estaba
-                    en Morton, volvía a mi cabaña cada tarde para pensar en eso; y
+                    en Morton, volvía a mi <span class="anotacion"
+                        data-nota="Simboliza el hogar ancestral y la raíz. A diferencia del lujo de Thornfield, esta casa es honesta y sencilla. Representa la recuperación de su identidad familiar y la conexión con sus iguales. Es el nido donde el "
+                        pájaro" cura sus alas antes del vuelo final.">
+                        cabaña
+                    </span> cada tarde para pensar en eso; y
                     ahora en Moor House, buscaba mi dormitorio cada noche para
                     meditar sobre ello.</p>
 
                 <p>En el transcurso de mi correspondencia necesaria con el señor
                     Briggs sobre el testamento, había preguntado si sabía algo de la
                     residencia actual y el estado de salud del señor Rochester; pero,
-                    como St. John había conjeturado, ignoraba por completo todo lo
+                    como <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> había conjeturado, ignoraba por completo todo lo
                     concerniente a él. Escribí entonces a la señora Fairfax, suplicando
                     información sobre el tema. Había calculado con certeza que este
                     paso respondería a mi fin; sentía la seguridad de que obtendría una
@@ -621,9 +780,15 @@
                     oscuras.</p>
 
                 <p>Una hermosa primavera brillaba a mi alrededor, que no podía
-                    disfrutar. Se acercaba el verano; Diana trató de animarme. Dijo que
+                    disfrutar. Se acercaba el verano; <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> trató de animarme. Dijo que
                     parecía enferma y deseaba acompañarme a la orilla del mar. A esto
-                    se opuso St. John; dijo que no necesitaba disipación, que necesitaba
+                    se opuso <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>; dijo que no necesitaba disipación, que necesitaba
                     empleo; mi vida actual carecía demasiado de propósito, necesitaba
                     un objetivo; y, supongo, a modo de suplir deficiencias, prolongó aún
                     más mis lecciones de indostaní y se volvió más urgente en exigir su
@@ -640,26 +805,50 @@
                     estudiando los caracteres enrevesados y las floridas tropos de un
                     escriba indio, mis ojos se llenaron de nuevo.</p>
 
-                <p>St. John me llamó a su lado para leer; al intentar hacerlo, mi voz
+                <p><span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> me llamó a su lado para leer; al intentar hacerlo, mi voz
                     me falló. Las palabras se perdieron en sollozos. Él y yo éramos los
-                    únicos ocupantes del salón. Diana practicaba su música en la sala de
-                    estar, Mary trabajaba en el jardín; era un día de mayo muy hermoso,
+                    únicos ocupantes del salón. <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> practicaba su música en la sala de
+                    estar, <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> trabajaba en el jardín; era un día de mayo muy hermoso,
                     claro, soleado y ventoso. Mi compañero no expresó sorpresa ante
                     esta emoción, ni me preguntó por su causa; solo dijo:</p>
 
-                <p>—Esperaremos unos minutos, Jane, hasta que esté más serena. —
+                <p>—Esperaremos unos minutos, <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>, hasta que esté más serena. —
                     Y mientras yo sofocaba el paroxismo con toda prisa, él permaneció
                     sentado, tranquilo y paciente, apoyado en su escritorio y pareciendo
                     un médico que observa con el ojo de la ciencia una crisis esperada y
                     plenamente comprendida en la enfermedad de un paciente.
                     Habiendo sofocado mis sollozos, secado mis ojos y murmurado algo
                     sobre no encontrarme muy bien esa mañana, reanudé mi tarea y
-                    logré completarla. St. John guardó mis libros y los suyos, cerró su
+                    logré completarla. <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> guardó mis libros y los suyos, cerró su
                     escritorio con llave y dijo:</p>
 
-                <p>—Ahora, Jane, dará un paseo; y conmigo.</p>
+                <p>—Ahora, <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>, dará un paseo; y conmigo.</p>
 
-                <p>—Llamaré a Diana y a Mary.</p>
+                <p>—Llamaré a <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> y a <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span>.</p>
 
                 <p>—No; solo quiero una compañera esta mañana, y esa debe ser
                     usted. Póngase sus cosas; salga por la puerta de la cocina; tome el
@@ -673,7 +862,10 @@
                     estallar, a veces con vehemencia volcánica, en la otra; y como ni las
                     circunstancias presentes lo justificaban, ni mi estado de ánimo actual
                     me inclinaba al motín, observé una cuidadosa obediencia a las
-                    indicaciones de St. John; y en diez minutos estaba recorriendo el
+                    indicaciones de <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>; y en diez minutos estaba recorriendo el
                     sendero salvaje de la cañada, codo con codo con él.</p>
 
                 <p>La brisa venía del oeste. Llegaba por encima de las colinas, dulce
@@ -687,7 +879,10 @@
                     Las colinas, mientras tanto, nos encerraban por completo; pues la
                     cañada, hacia su cabecera, se adentraba hasta su mismo corazón.</p>
 
-                <p>—Descansemos aquí —dijo St. John, al llegar a los primeros
+                <p>—Descansemos aquí —dijo <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>, al llegar a los primeros
                     rezagados de un batallón de rocas, que guardaban una especie de
                     paso, más allá del cual el arroyo se precipitaba en una cascada; y
                     donde, aún un poco más lejos, la montaña se despojaba de césped
@@ -696,7 +891,10 @@
                     ceñudo; donde guardaba la última esperanza de la soledad y un
                     último refugio para el silencio.</p>
 
-                <p>Tomé asiento. St. John se quedó de pie cerca de mí. Miró hacia
+                <p>Tomé asiento. <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> se quedó de pie cerca de mí. Miró hacia
                     arriba del paso y hacia abajo de la hondonada; su mirada vagó con
                     el arroyo y regresó para recorrer el cielo despejado que lo coloreaba.
                     Se quitó el sombrero, dejó que la brisa le agitara el pelo y le besara
@@ -711,7 +909,10 @@
                     patriota por su patria! Se sentó. Durante media hora no hablamos;
                     ni él a mí ni yo a él. Pasado ese intervalo, reanudó:</p>
 
-                <p>—Jane, me voy en seis semanas. He tomado mi pasaje en un
+                <p>—<span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>, me voy en seis semanas. He tomado mi pasaje en un
                     buque de las Indias Orientales que zarpa el 20 de junio.</p>
 
                 <p>—Dios la protegerá, pues ha emprendido Su obra —respondí.</p>
@@ -745,13 +946,19 @@
                     pronunciar alguna palabra fatal que a la vez declararía y remacharía
                     el hechizo.</p>
 
-                <p>—¿Y qué dice tu corazón? —demandó St. John.</p>
+                <p>—¿Y qué dice tu corazón? —demandó <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>.</p>
 
                 <p>—Mi corazón está mudo, mi corazón está mudo —respondí,
                     impresionada y estremecida.</p>
 
                 <p>—Entonces debo hablar por él —continuó la voz profunda e
-                    implacable—. Jane, ven conmigo a la India. Ven como mi compañera
+                    implacable—. <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>, ven conmigo a la India. Ven como mi compañera
                     y colaboradora.</p>
 
                 <p>¡La cañada y el cielo giraron; las colinas se agitaron! Fue como si
@@ -760,7 +967,10 @@
                     Pero yo no era un apóstol, no podía contemplar al heraldo, no podía
                     recibir su llamada.</p>
 
-                <p>—¡Oh, St. John! —grité—. ¡Tenga algo de piedad!</p>
+                <p>—¡Oh, <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>! —grité—. ¡Tenga algo de piedad!</p>
 
                 <p>Apelé a uno que, en el cumplimiento de lo que creía su deber, no
                     conocía ni piedad ni remordimiento. Continuó:</p>
@@ -780,7 +990,10 @@
                     acumulado una reserva de paciencia para que le durara hasta su fin,
                     resuelto, sin embargo, a que ese fin fuera una conquista para él.</p>
 
-                <p>—La humildad, Jane —dijo—, es el fundamento de las virtudes
+                <p>—La humildad, <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span> —dijo—, es el fundamento de las virtudes
                     cristianas. Dices bien que no eres apta para la obra. ¿Quién es apto
                     para ella? ¿O quién, que alguna vez fue verdaderamente llamado, se
                     creyó digno de la llamada? Yo, por ejemplo, no soy más que polvo y
@@ -788,8 +1001,14 @@
                     pero no permito que este sentido de mi vileza personal me
                     acobarde. Conozco a mi Líder: que es tan justo como poderoso; y
                     mientras Él ha elegido un instrumento débil para realizar una gran
-                    tarea, Él, de los almacenes ilimitados de Su providencia, suplirá la
-                    insuficiencia de los medios para el fin. Piensa como yo, Jane, confía
+                    tarea, Él, de los almacenes ilimitados de Su <span class="anotacion"
+                        data-nota="Disposición anticipada o prevención que mira o conduce al logro de un fin.">
+                        providencia
+                    </span>, suplirá la
+                    insuficiencia de los medios para el fin. Piensa como yo, <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>, confía
                     como yo. Es en la Roca de los Siglos en la que te pido que te
                     apoyes; no dudes de que soportará el peso de tu debilidad humana.</p>
 
@@ -828,7 +1047,10 @@
                     asiduidad con que desde entonces has perseverado en él, en la
                     energía inagotable y el temple inquebrantable con que has afrontado
                     sus dificultades, reconozco el complemento de las cualidades que
-                    busco. Jane, eres dócil, diligente, desinteresada, fiel, constante y
+                    busco. <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>, eres dócil, diligente, desinteresada, fiel, constante y
                     valiente; muy dulce y muy heroica. Deja de desconfiar de ti misma,
                     yo puedo confiar en ti sin reservas. Como directora de escuelas
                     indias y ayudante entre las mujeres indias, tu ayuda será para mí
@@ -857,18 +1079,26 @@
                     y si estuviera, ¿qué es, qué puede ser eso para mí? Mi asunto es
                     vivir sin él ahora. Nada tan absurdo, tan débil como arrastrarse día a
                     día, como si esperara algún cambio imposible en las circunstancias
-                    que pudiera reunirme con él. Por supuesto (como dijo una vez St.
-                    John), debo buscar otro interés en la vida para reemplazar el
+                    que pudiera reunirme con él. Por supuesto (como dijo una vez <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>), debo buscar otro interés en la vida para reemplazar el
                     perdido. ¿No es la ocupación que ahora me ofrece verdaderamente
                     la más gloriosa que el hombre puede adoptar o Dios asignar? ¿No
                     es, por sus nobles cuidados y sus sublimes resultados, la más
                     adecuada para llenar el vacío dejado por afectos arrancados y
                     esperanzas demolidas? Creo que debo decir que sí, y sin embargo
-                    me estremezco. ¡Ay! Si me uno a St. John, abandono la mitad de mí
+                    me estremezco. ¡Ay! Si me uno a <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>, abandono la mitad de mí
                     misma; si voy a la India, voy a una muerte prematura. ¿Y cómo se
                     llenará el intervalo entre dejar Inglaterra por la India, y la India por
                     la tumba? ¡Oh, lo sé bien! Eso, también, está muy claro para mi
-                    visión. Esforzándome por satisfacer a St. John hasta que me duelan
+                    visión. Esforzándome por satisfacer a <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> hasta que me duelan
                     los tendones, lo satisfaceré, hasta el punto central más fino y el
                     círculo exterior más lejano de sus expectativas. Si voy con él, si hago
                     el sacrificio que él insta, lo haré absolutamente. Lo arrojaré todo al
@@ -910,7 +1140,10 @@
                     hermana de verdad, sería diferente. La llevaría y no buscaría esposa.
                     Pero tal como están las cosas, o nuestra unión debe ser consagrada
                     y sellada por el matrimonio, o no puede existir. Obstáculos prácticos
-                    se oponen a cualquier otro plan. ¿No lo ve, Jane? Considere un
+                    se oponen a cualquier otro plan. ¿No lo ve, <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>? Considere un
                     momento, su fuerte sentido común la guiará.</p>
 
                 <p>Lo consideré; y aun así mi sentido común, tal como era, me dirigió
@@ -918,7 +1151,10 @@
                     deberían; y por lo tanto, infirió que no debíamos casarnos. Así lo
                     dije.</p>
 
-                <p>—St. John —respondí—, lo considero como un hermano, y usted a
+                <p>—<span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> —respondí—, lo considero como un hermano, y usted a
                     mí como una hermana. Así que continuemos.</p>
 
                 <p>—No podemos, no podemos —respondió, con corta y aguda
@@ -944,7 +1180,10 @@
                 <p>Me estremecí mientras hablaba. Sentí su influencia en mi médula,
                     su dominio sobre mis miembros.</p>
 
-                <p>—Busque una en otra parte que no sea en mí, St. John. Busque
+                <p>—Busque una en otra parte que no sea en mí, <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>. Busque
                     una adecuada para usted.</p>
 
                 <p>—Una adecuada para mi propósito, quiere decir, adecuada para mi
@@ -965,14 +1204,21 @@
 
                 <p>No juraré, lector, que no hubiera algo de sarcasmo reprimido tanto
                     en el tono con el que pronuncié esta frase como en el sentimiento
-                    que la acompañó. Había temido silenciosamente a St. John hasta
+                    que la acompañó. Había temido silenciosamente a <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> hasta
                     ahora, porque no lo había entendido. Me había mantenido
                     sobrecogida, porque me había mantenido en la duda. Cuánto de él
                     era santo, cuánto mortal, no podría haberlo dicho hasta entonces;
                     pero se estaban haciendo revelaciones en esta conferencia. El
                     análisis de su naturaleza procedía ante mis ojos. Vi sus falibilidades;
                     las comprendí. Entendí que, sentada allí donde estaba, en la orilla
-                    del brezal y con esa hermosa forma ante mí, me sentaba a los pies
+                    del <span class="anotacion"
+                        data-nota="Simboliza el hogar ancestral y la raíz. A diferencia del lujo de Thornfield, esta casa es honesta y sencilla. Representa la recuperación de su identidad familiar y la conexión con sus iguales. Es el nido donde el "
+                        pájaro" cura sus alas antes del vuelo final.">
+                        brezal
+                    </span> y con esa hermosa forma ante mí, me sentaba a los pies
                     de un hombre, tan pecador como yo. El velo cayó de su dureza y
                     despotismo. Habiendo sentido en él la presencia de estas cualidades,
                     sentí su imperfección y cobré valor. Estaba con un igual, alguien con
@@ -987,7 +1233,10 @@
 
                 <p>—No olvidemos que este es un asunto solemne —dijo al poco rato
                     —. Uno del que no podemos pensar ni hablar a la ligera sin pecado.
-                    Confío, Jane, en que habla en serio cuando dice que entregará su
+                    Confío, <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>, en que habla en serio cuando dice que entregará su
                     corazón a Dios. Es todo lo que quiero. Una vez que arranque su
                     corazón del hombre y lo fije en su Hacedor, el avance del reino
                     espiritual de ese Hacedor en la tierra será su principal deleite y
@@ -1027,7 +1276,10 @@
                     llama aprisionada consumiera víscera tras víscera, esto sería
                     insoportable.</p>
 
-                <p>—¡St. John! —exclamé, cuando había llegado tan lejos en mi meditación.</p>
+                <p>—¡<span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>! —exclamé, cuando había llegado tan lejos en mi meditación.</p>
 
                 <p>—¿Y bien? —respondió gélidamente.</p>
 
@@ -1060,14 +1312,21 @@
 
                 <p>—Es lo que quiero —dijo, hablando para sí mismo—. Es justo lo
                     que quiero. Y hay obstáculos en el camino; deben ser derribados.
-                    Jane, no se arrepentiría de casarse conmigo, esté segura de eso.
+                    <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>, no se arrepentiría de casarse conmigo, esté segura de eso.
                     Debemos casarnos. Lo repito: no hay otro modo; y sin duda,
                     suficiente amor seguiría al matrimonio para hacer la unión correcta
-                    incluso a sus ojos.</p>
+                    incluso a sus ojos.
+                </p>
 
                 <p>—Desprecio su idea del amor —no pude evitar decir, mientras me
                     levantaba y me paraba ante él, apoyando la espalda en la roca—.
-                    Desprecio el sentimiento falsificado que ofrece. Sí, St. John, y lo
+                    Desprecio el sentimiento falsificado que ofrece. Sí, <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>, y lo
                     desprecio a usted cuando lo ofrece.</p>
 
                 <p>Me miró fijamente, comprimiendo sus labios bien cortados
@@ -1079,7 +1338,10 @@
 
                 <p>Me conmovió su tono suave y me sobrecogió su porte alto y sereno.</p>
 
-                <p>—Perdóneme las palabras, St. John; pero es culpa suya que me
+                <p>—Perdóneme las palabras, <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>; pero es culpa suya que me
                     haya exaltado a hablar tan sin reparos. Ha introducido un tema en el
                     que nuestras naturalezas discrepan, un tema que nunca deberíamos
                     discutir. El mismo nombre del amor es una manzana de la discordia
@@ -1121,17 +1383,35 @@
                     amistad por él, me sentí herida por la marcada omisión; tan herida
                     que las lágrimas asomaron a mis ojos.</p>
 
-                <p>—Veo que St. John y tú habéis reñido, Jane —dijo Diana—,
-                    durante vuestro paseo por el páramo. Pero ve tras él; ahora está
+                <p>—Veo que <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> y tú habéis reñido, <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span> —dijo <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span>—,
+                    durante vuestro paseo por el <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramo
+                    </span>. Pero ve tras él; ahora está
                     demorándose en el pasillo esperándote, hará las paces.</p>
 
                 <p>No tengo mucho orgullo en tales circunstancias. Siempre preferiría
                     ser feliz a ser digna; y corrí tras él. Estaba de pie al pie de las
                     escaleras.</p>
 
-                <p>—Buenas noches, St. John —dije.</p>
+                <p>—Buenas noches, <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> —dije.</p>
 
-                <p>—Buenas noches, Jane —respondió calmadamente.</p>
+                <p>—Buenas noches, <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span> —respondió calmadamente.</p>
 
                 <p>—Entonces, démonos la mano —añadí.</p>
 

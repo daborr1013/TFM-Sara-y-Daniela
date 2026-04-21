@@ -105,12 +105,21 @@
                     la que estos señalan está, según la inscripción, a diez millas de
                     distancia; la más lejana, a más de veinte. Por los conocidos nombres
                     de estas ciudades, sé en qué condado he aterrizado; un condado del
-                    centro-norte de Inglaterra, oscuro de páramos, surcado de
-                    montañas: esto es lo que veo. Hay grandes páramos detrás y a cada
+                    centro-norte de Inglaterra, oscuro de <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramos
+                    </span>, surcado de
+                    montañas: esto es lo que veo. Hay grandes <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramos
+                    </span> detrás y a cada
                     lado de mí; hay olas de montañas mucho más allá de ese profundo
                     valle a mis pies. La población aquí debe de ser escasa, y no veo
                     pasajeros en estos caminos. Se extienden al este, oeste, norte y sur:
-                    blancos, anchos, solitarios; todos están cortados en el páramo, y el
+                    blancos, anchos, solitarios; todos están cortados en el <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramo
+                    </span>, y el
                     brezo crece denso y salvaje hasta sus mismos bordes. Sin embargo,
                     podría pasar un viajero casual; y no deseo que ningún ojo me vea
                     ahora. Los extraños se preguntarían qué estoy haciendo,
@@ -124,10 +133,16 @@
                     Naturaleza. Buscaré su seno y pediré reposo.</p>
 
                 <p>Me adentré directamente en el brezal; me aferré a una hondonada
-                    que vi surcando profundamente la ladera parda del páramo; vadeé
+                    que vi surcando profundamente la ladera parda del <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramo
+                    </span>; vadeé
                     hasta la rodilla en su oscura vegetación; giré con sus giros y,
                     encontrando un peñasco de granito ennegrecido por el musgo en un
-                    ángulo oculto, me senté debajo de él. Altos bancos de páramo me
+                    ángulo oculto, me senté debajo de él. Altos bancos de <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramo
+                    </span> me
                     rodeaban; el peñasco protegía mi cabeza; el cielo estaba sobre
                     aquello.</p>
 
@@ -211,7 +226,10 @@
                     sol llenaba la tierra y el cielo, me levanté y miré a mi alrededor.</p>
 
                 <p>¡Qué día tan quieto, caluroso y perfecto! ¡Qué desierto dorado
-                    este páramo extendido! Sol por todas partes. Deseé poder vivir en él
+                    este <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramo
+                    </span> extendido! Sol por todas partes. Deseé poder vivir en él
                     y de él. Vi una lagartija correr sobre el peñasco; vi una abeja
                     afanada entre los dulces arándanos. De buena gana, en ese
                     momento, me habría convertido en abeja o lagartija, para haber
@@ -477,14 +495,20 @@
                     ¿Por qué lucho por retener una vida sin valor? Porque sé, o creo,
                     que el señor Rochester está vivo; y entonces, morir de necesidad y
                     de frío es un destino al que la naturaleza no puede someterse
-                    pasivamente. ¡Oh, Providencia! ¡Sostenme un poco más! ¡Ayuda!
+                    pasivamente. ¡Oh, <span class="anotacion"
+                        data-nota="Disposición anticipada o prevención que mira o conduce al logro de un fin.">
+                        Providencia
+                    </span>! ¡Sostenme un poco más! ¡Ayuda!
                     ¡Dirígeme!</p>
 
                 <p>Mi ojo vidrioso vagó por el paisaje oscuro y neblinoso. Vi que me
                     había alejado mucho del pueblo; estaba completamente fuera de la
                     vista. La misma zona de cultivo que lo rodeaba había desaparecido.
                     Por atajos y veredas, me había acercado una vez más a la extensión
-                    de páramo; y ahora, solo unos pocos campos, casi tan salvajes e
+                    de <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramo
+                    </span>; y ahora, solo unos pocos campos, casi tan salvajes e
                     improductivos como el brezal del que apenas habían sido
                     reclamados, se interponían entre mí y la colina oscura.</p>
 
@@ -505,7 +529,10 @@
                     la luz del día.</p>
 
                 <p>Mi ojo todavía recorría la hosca elevación y a lo largo del borde del
-                    páramo, que se desvanecía en medio del paisaje más salvaje,
+                    <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramo
+                    </span>, que se desvanecía en medio del paisaje más salvaje,
                     cuando en un punto oscuro, muy adentro entre las marismas y las
                     crestas, brotó una luz. «Eso es un fuego fatuo», fue mi primer
                     pensamiento; y esperaba que pronto se desvaneciera. Sin embargo,
@@ -515,7 +542,8 @@
                     tampoco aumentaba. «Puede ser una vela en una casa», conjeturé
                     entonces; «pero si es así, nunca podré alcanzarla. Está demasiado
                     lejos. Y aunque estuviera a una yarda de mí, ¿de qué me serviría?
-                    Solo llamaría a la puerta para que me la cerraran en la cara».</p>
+                    Solo llamaría a la puerta para que me la cerraran en la cara».
+                </p>
 
                 <p>Y me derrumbé donde estaba, y escondí mi rostro contra el suelo.
                     Yací quieta un rato. El viento nocturno barrió la colina y sobre mí, y
@@ -535,7 +563,10 @@
                     facultades. Esta luz era mi esperanza desvalida; debía alcanzarla.</p>
 
                 <p>Habiendo cruzado la marisma, vi un rastro de blanco sobre el
-                    páramo. Me acerqué; era un camino o una senda. Llevaba
+                    <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramo
+                    </span>. Me acerqué; era un camino o una senda. Llevaba
                     directamente hacia la luz, que ahora brillaba desde una especie de
                     montículo, en medio de un grupo de árboles —abetos, al parecer,
                     por lo que pude distinguir del carácter de sus formas y follaje a
@@ -546,7 +577,8 @@
                     dentro, un seto alto y espinoso. Seguí a tientas. De nuevo un objeto
                     blanquecino brilló ante mí: era una puerta, un postigo; se movió
                     sobre sus goznes al tocarlo. A cada lado había un arbusto oscuro:
-                    acebo o tejo.</p>
+                    acebo o tejo.
+                </p>
 
                 <p>Al entrar por la puerta y pasar los arbustos, la silueta de una casa
                     se alzó a la vista, negra, baja y bastante larga; pero la luz guía no
@@ -599,7 +631,10 @@
                     agujas de tejer de la mujer. Por lo tanto, cuando una voz rompió por
                     fin la extraña quietud, fue lo suficientemente audible para mí.</p>
 
-                <p>—Escucha, Diana —dijo una de las absortas estudiantes—. Franz y
+                <p>—Escucha, <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> —dijo una de las absortas estudiantes—. Franz y
                     el viejo Daniel están juntos en la noche, y Franz está contando un
                     sueño del que ha despertado aterrorizado. ¡Escucha! —Y en voz baja
                     leyó algo, de lo cual ni una sola palabra me fue inteligible, pues era
@@ -645,13 +680,19 @@
                 <p>—Muy probable. Pero dejad de estudiar; ya habéis hecho bastante
                     por esta noche.</p>
 
-                <p>—Creo que sí; al menos yo estoy cansada. Mary, ¿y tú?</p>
+                <p>—Creo que sí; al menos yo estoy cansada. <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span>, ¿y tú?</p>
 
                 <p>—Mortalmente. Después de todo, es un trabajo duro afanarse en
                     un idioma sin más maestro que un diccionario.</p>
 
                 <p>—Lo es, especialmente un idioma como este intrincado pero
-                    glorioso <i>Deutsch</i>. Me pregunto cuándo volverá a casa St. John.</p>
+                    glorioso <i>Deutsch</i>. Me pregunto cuándo volverá a casa <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>.</p>
 
                 <p>—Seguramente no tardará mucho ahora; son las diez en punto
                     (mirando un pequeño reloj de oro que sacó de su cinturón). Llueve
@@ -675,28 +716,50 @@
 
                 <p>—No tuvo tiempo, criatura. Se fue en un minuto, vuestro padre.
                     Había estado un poco indispuesto el día anterior, pero nada de
-                    importancia; y cuando el señor St. John le preguntó si le gustaría
+                    importancia; y cuando el señor <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> le preguntó si le gustaría
                     que mandaran a buscar a alguna de vosotras, se rio de él. Empezó
                     de nuevo con un poco de pesadez en la cabeza al día siguiente, es
                     decir, hace quince días, y se durmió y nunca despertó. Estaba casi
                     rígido cuando vuestro hermano entró en la cámara y lo encontró.
                     ¡Ay, niñas! Ese es el último del viejo linaje, pues vosotras y el señor
-                    St. John sois como de otra clase que los que se han ido; por mucho
+                    <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> sois como de otra clase que los que se han ido; por mucho
                     que vuestra madre se pareciera a vosotras, y fuera casi tan
-                    instruida. Era el vivo retrato de ti, Mary; Diana se parece más a
-                    vuestro padre.</p>
+                    instruida. Era el vivo retrato de ti, <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span>; <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> se parece más a
+                    vuestro padre.
+                </p>
 
                 <p>Me parecieron tan similares que no sabría decir dónde veía la
                     diferencia la vieja sirvienta (pues tal concluí ahora que era). Ambas
                     eran de tez clara y constitución esbelta; ambas poseían rostros
                     llenos de distinción e inteligencia. Una, por supuesto, tenía el pelo
                     un tono más oscuro que la otra, y había una diferencia en su estilo
-                    de llevarlo. Los mechones castaño pálido de Mary estaban partidos y
-                    trenzados lisos; las trenzas más oscuras de Diana cubrían su cuello
+                    de llevarlo. Los mechones castaño pálido de <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> estaban partidos y
+                    trenzados lisos; las trenzas más oscuras de <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> cubrían su cuello
                     con gruesos rizos. El reloj dio las diez.</p>
 
                 <p>—Querréis vuestra cena, estoy segura —observó Hannah—. Y
-                    también el señor St. John cuando entre.</p>
+                    también el señor <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> cuando entre.</p>
 
                 <p>Y procedió a preparar la comida. Las damas se levantaron;
                     parecían a punto de retirarse al salón. Hasta este momento, había
@@ -790,7 +853,10 @@
                     distinguirla. Con un golpe fuerte y prolongado, el recién llegado
                     llamó a la puerta.</p>
 
-                <p>—¿Es usted, señor St. John? —gritó Hannah.</p>
+                <p>—¿Es usted, señor <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>? —gritó Hannah.</p>
 
                 <p>—Sí, sí; abre rápido.</p>
 
@@ -810,9 +876,15 @@
                     aquella cocina limpia y luminosa —en el mismo hogar— temblando,
                     mareada; consciente de un aspecto en último grado macabro,
                     salvaje y curtido por la intemperie. Las dos damas, su hermano, el
-                    señor St. John, la vieja sirvienta, todos me miraban fijamente.</p>
+                    señor <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>, la vieja sirvienta, todos me miraban fijamente.</p>
 
-                <p>—St. John, ¿quién es? —oí preguntar a una.</p>
+                <p>—<span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>, ¿quién es? —oí preguntar a una.</p>
 
                 <p>—No sabría decirlo; la encontré en la puerta —fue la respuesta.</p>
 
@@ -834,28 +906,43 @@
 
                 <p>—Hambrienta, creo. Hannah, ¿eso es leche? Dámela, y un trozo de pan.</p>
 
-                <p>Diana (la reconocí por los largos rizos que vi caer entre el fuego y
+                <p><span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> (la reconocí por los largos rizos que vi caer entre el fuego y
                     yo mientras se inclinaba sobre mí) partió un poco de pan, lo mojó en
                     leche y me lo puso en los labios. Su rostro estaba cerca del mío. Vi
                     que había piedad en él, y sentí simpatía en su respiración
                     apresurada. En sus simples palabras, también, hablaba la misma
                     emoción balsámica: «Intenta comer».</p>
 
-                <p>—Sí, intenta —repitió Mary con dulzura; y la mano de Mary me
+                <p>—Sí, intenta —repitió <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> con dulzura; y la mano de <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> me
                     quitó el sombrero empapado y me levantó la cabeza. Probé lo que
                     me ofrecían: débilmente al principio, ávidamente al poco.</p>
 
                 <p>—No demasiado al principio, contrólala —dijo el hermano—. Ya ha
                     tenido suficiente. —Y retiró la taza de leche y el plato de pan.</p>
 
-                <p>—Un poco más, St. John, mira la avidez en sus ojos.</p>
+                <p>—Un poco más, <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>, mira la avidez en sus ojos.</p>
 
                 <p>—No más por ahora, hermana. Prueba si puede hablar ahora,
                     pregúntale su nombre.</p>
 
                 <p>Sentí que podía hablar y respondí:</p>
 
-                <p>—Mi nombre es Jane Elliott. —Ansiosa como siempre por evitar ser
+                <p>—Mi nombre es <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión..">
+                        Jane Elliot
+                    </span>. —Ansiosa como siempre por evitar ser
                     descubierta, había resuelto antes adoptar un alias.</p>
 
                 <p>—¿Y dónde vive? ¿Dónde están sus amigos?</p>
@@ -873,7 +960,10 @@
                     sentía una paria, una vagabunda y una repudiada por el vasto
                     mundo. Me atreví a despojarme de la mendiga, a reanudar mi
                     manera y mi carácter naturales. Empecé una vez más a conocerme a
-                    mí misma; y cuando el señor St. John pidió un relato —que en el
+                    mí misma; y cuando el señor <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> pidió un relato —que en el
                     momento presente estaba demasiado débil para rendir—, dije tras
                     una breve pausa:</p>
 
@@ -882,10 +972,16 @@
                 <p>—Pero, entonces —dijo él—, ¿qué espera que haga por usted?</p>
 
                 <p>—Nada —respondí. Mis fuerzas solo alcanzaban para respuestas
-                    cortas. Diana tomó la palabra:</p>
+                    cortas. <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> tomó la palabra:</p>
 
                 <p>—¿Quiere decir —preguntó— que ya le hemos dado la ayuda que
-                    necesita y que podemos despedirla al páramo y a la noche lluviosa?</p>
+                    necesita y que podemos despedirla al <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz' de Rochester y renace como Jane Elliott.">
+                        páramo
+                    </span> y a la noche lluviosa?</p>
 
                 <p>La miré. Tenía, pensé, un semblante notable, instintivamente
                     dotado tanto de poder como de bondad. Cobré un valor repentino.
@@ -898,9 +994,18 @@
                     siento un espasmo cuando hablo. —Los tres me examinaron y los
                     tres guardaron silencio.</p>
 
-                <p>—Hannah —dijo por fin el señor St. John—, déjala sentarse ahí
+                <p>—Hannah —dijo por fin el señor <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>—, déjala sentarse ahí
                     por el momento y no le hagas preguntas; en diez minutos más, dale
-                    el resto de esa leche y ese pan. Mary y Diana, vayamos al salón y
+                    el resto de esa leche y ese pan. <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> y <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span>, vayamos al salón y
                     hablemos del asunto.</p>
 
                 <p>Se retiraron. Muy pronto regresó una de las damas, no sabría

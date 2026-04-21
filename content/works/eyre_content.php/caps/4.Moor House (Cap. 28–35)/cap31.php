@@ -90,14 +90,19 @@
                 <h1>Capítulo XXXI</h1>
 
                 <p>Mi hogar, entonces, cuando por fin encuentro un hogar, es una
-                    cabaña; una pequeña habitación con paredes encaladas y un suelo
+                    <span class="anotacion"
+                        data-nota="Simboliza el hogar ancestral y la raíz. A diferencia del lujo de Thornfield, esta casa es honesta y sencilla. Representa la recuperación de su identidad familiar y la conexión con sus iguales. Es el nido donde el "
+                        pájaro" cura sus alas antes del vuelo final.">
+                        cabaña
+                    </span>; una pequeña habitación con paredes encaladas y un suelo
                     enarenado, que contiene cuatro sillas pintadas y una mesa, un reloj,
                     un armario con dos o tres platos y fuentes, y un juego de té de loza
                     de Delft. Arriba, una cámara de las mismas dimensiones que la
                     cocina, con un catre de pino y una cómoda; pequeña, pero
                     demasiado grande para ser llenada con mi escaso vestuario, aunque
                     la amabilidad de mis gentiles y generosos amigos lo ha aumentado
-                    con una modesta provisión de las cosas necesarias.</p>
+                    con una modesta provisión de las cosas necesarias.
+                </p>
 
                 <p>Es de noche. He despedido, con el pago de una naranja, a la
                     pequeña huérfana que me sirve de criada. Estoy sentada sola junto
@@ -158,11 +163,18 @@
                 <p>Sí; siento ahora que hice lo correcto cuando me adherí al principio
                     y a la ley, y desprecié y aplasté los impulsos insensatos de un
                     momento frenético. Dios me dirigió a una elección correcta.
-                    ¡Agradezco a Su providencia por la guía!</p>
+                    ¡Agradezco a Su <span class="anotacion"
+                        data-nota="Disposición anticipada o prevención que mira o conduce al logro de un fin.">
+                        providencia
+                    </span> por la guía!</p>
 
                 <p>Habiendo llevado mis cavilaciones vespertinas a este punto, me
                     levanté, fui a mi puerta y miré el atardecer del día de la cosecha, y
-                    los campos tranquilos ante mi cabaña, la cual, junto con la escuela,
+                    los campos tranquilos ante mi <span class="anotacion"
+                        data-nota="Simboliza el hogar ancestral y la raíz. A diferencia del lujo de Thornfield, esta casa es honesta y sencilla. Representa la recuperación de su identidad familiar y la conexión con sus iguales. Es el nido donde el "
+                        pájaro" cura sus alas antes del vuelo final.">
+                        cabaña
+                    </span>, la cual, junto con la escuela,
                     distaba media milla del pueblo. Los pájaros cantaban sus últimas
                     estrofas:</p>
 
@@ -184,7 +196,10 @@
                     postigo que separaba mi diminuto jardín del prado de más allá me
                     hizo levantar la vista. Un perro —el viejo Carlo, el pointer del señor
                     Rivers, como vi en un momento— empujaba la verja con el hocico, y
-                    el propio St. John se apoyaba en ella con los brazos cruzados; el
+                    el propio <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> se apoyaba en ella con los brazos cruzados; el
                     ceño fruncido, la mirada, grave casi hasta el disgusto, fija en mí. Le
                     pedí que entrara.</p>
 
@@ -206,7 +221,11 @@
                     decepcionado sus expectativas? Son, en verdad, bastante escasos;
                     pero... —interrumpí.</p>
 
-                <p>—Mi cabaña está limpia y es a prueba de intemperie; mis muebles
+                <p>—Mi <span class="anotacion"
+                        data-nota="Simboliza el hogar ancestral y la raíz. A diferencia del lujo de Thornfield, esta casa es honesta y sencilla. Representa la recuperación de su identidad familiar y la conexión con sus iguales. Es el nido donde el "
+                        pájaro" cura sus alas antes del vuelo final.">
+                        cabaña
+                    </span> está limpia y es a prueba de intemperie; mis muebles
                     son suficientes y cómodos. Todo lo que veo me ha hecho sentir
                     agradecida, no abatida. No soy absolutamente tan tonta y
                     sensualista como para lamentar la ausencia de una alfombra, un
@@ -230,7 +249,10 @@
                     mirar atrás. Siga su carrera actual con constancia, al menos durante
                     algunos meses.</p>
 
-                <p>—Es lo que pienso hacer —respondí. St. John continuó:</p>
+                <p>—Es lo que pienso hacer —respondí. <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> continuó:</p>
 
                 <p>—Es un trabajo duro controlar los impulsos de la inclinación y
                     torcer el curso de la naturaleza; pero que puede hacerse, lo sé por
@@ -319,7 +341,10 @@
                     mezquina dote de madrastra, había dotado a esta, su favorita, con la
                     generosidad de una abuela.</p>
 
-                <p>¿Qué pensaba St. John Rivers de este ángel terrenal?
+                <p>¿Qué pensaba <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John Rivers
+                    </span> de este ángel terrenal?
                     Naturalmente me hice esa pregunta al verlo volverse hacia ella y
                     mirarla; y, naturalmente, busqué la respuesta a la pregunta en su
                     semblante. Ya había retirado su ojo de la Peri y miraba un humilde
@@ -335,7 +360,10 @@
                     llegado; así que me puse el gorro después del té y subí corriendo
                     por el valle para verla. ¿Es esta? —dijo, señalándome.</p>
 
-                <p>—Lo es —dijo St. John.</p>
+                <p>—Lo es —dijo <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>.</p>
 
                 <p>—¿Cree que le gustará Morton? —me preguntó, con una sencillez
                     de tono y maneras directa e ingenua, agradable, aunque infantil.</p>
@@ -370,7 +398,10 @@
                     todos nuestros jóvenes afiladores de cuchillos y comerciantes de
                     tijeras.</p>
 
-                <p>Me pareció que el labio inferior del señor St. John sobresalía y el
+                <p>Me pareció que el labio inferior del señor <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> sobresalía y el
                     superior se curvaba un momento. Su boca ciertamente parecía muy
                     comprimida, y la parte inferior de su rostro inusualmente severa y
                     cuadrada, mientras la chica risueña le daba esta información.
@@ -401,7 +432,10 @@
                     Está solo esta noche y no muy bien. ¿Volverás conmigo a visitarlo?</p>
 
                 <p>—No es una hora oportuna para importunar al señor Oliver —
-                    respondió St. John.</p>
+                    respondió <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>.</p>
 
                 <p>—¡No es una hora oportuna! Pero declaro que lo es. Es justo la
                     hora en que papá más necesita compañía, cuando las fábricas están
@@ -413,13 +447,23 @@
                     como si estuviera escandalizada de sí misma—. ¡Soy tan atolondrada
                     y desconsiderada! Discúlpeme. Se me había olvidado que tiene
                     buenas razones para no estar dispuesto a unirse a mi cháchara.
-                    Diana y Mary lo han dejado, y Moor House está cerrada, y está
+                    <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> y <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> lo han dejado, y Moor House está cerrada, y está
                     usted tan solo. Estoy segura de que lo compadezco. Venga a ver a
-                    papá.</p>
+                    papá.
+                </p>
 
                 <p>—No esta noche, señorita Rosamond, no esta noche.</p>
 
-                <p>El señor St. John habló casi como un autómata; solo él sabía el
+                <p>El señor <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> habló casi como un autómata; solo él sabía el
                     esfuerzo que le costaba negarse así.</p>
 
                 <p>—Bueno, si es usted tan obstinado, lo dejaré; pues no me atrevo a
@@ -439,7 +483,10 @@
                     cruzaba con paso firme, no se volvió ni una sola vez.</p>
 
                 <p>Este espectáculo del sufrimiento y el sacrificio de otro apartó mis
-                    pensamientos de la meditación exclusiva sobre los míos. Diana
+                    pensamientos de la meditación exclusiva sobre los míos. <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span>
                     Rivers había calificado a su hermano de «inexorable como la
                     muerte». No había exagerado.</p>
 

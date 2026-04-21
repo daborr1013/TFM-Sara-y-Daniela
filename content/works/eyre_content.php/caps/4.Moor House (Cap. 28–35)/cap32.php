@@ -185,7 +185,10 @@
                 <p>Y entonces ella hacía un mohín como una niña decepcionada; una
                     nube pensativa suavizaba su radiante vivacidad; retiraba su mano
                     apresuradamente de la de él y se apartaba con petulancia pasajera
-                    de su aspecto, a la vez tan heroico y tan martirial. St. John, sin
+                    de su aspecto, a la vez tan heroico y tan martirial. <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>, sin
                     duda, habría dado el mundo por seguirla, llamarla, retenerla, cuando
                     así lo dejaba; pero no daría una sola oportunidad del cielo, ni
                     renunciaría, por el elíseo de su amor, a una sola esperanza del
@@ -208,7 +211,10 @@
                     resumen, incluso para una observadora fría de su propio sexo como
                     yo; pero no era profundamente interesante ni completamente
                     impresionante. Un tipo de mente muy diferente era la suya de la,
-                    por ejemplo, de las hermanas de St. John. Aun así, me gustaba casi
+                    por ejemplo, de las hermanas de <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>. Aun así, me gustaba casi
                     tanto como me gustaba mi pupila Adèle; excepto que, por un niño al
                     que hemos cuidado y enseñado, se engendra un afecto más
                     estrecho del que podemos dar a un conocido adulto igualmente
@@ -229,7 +235,10 @@
                     diccionario de alemán, y luego mis materiales de dibujo y algunos
                     bocetos, incluida la cabeza a lápiz de una niña bonita y querubínica,
                     una de mis alumnas, y diversas vistas de la naturaleza, tomadas en
-                    el Valle de Morton y en los páramos circundantes. Primero quedó
+                    el Valle de Morton y en los <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramos
+                    </span> circundantes. Primero quedó
                     paralizada de sorpresa y luego electrizada de deleite.</p>
 
                 <p>¿Había hecho yo esos cuadros? ¿Sabía francés y alemán? ¡Qué
@@ -277,7 +286,10 @@
                     lástima que un joven tan distinguido y talentoso hubiera formado el
                     designio de irse como misionero; era desperdiciar por completo una
                     vida valiosa. Parecía, entonces, que su padre no pondría ningún
-                    obstáculo a la unión de Rosamond con St. John. El señor Oliver
+                    obstáculo a la unión de Rosamond con <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>. El señor Oliver
                     evidentemente consideraba la buena cuna del joven clérigo, su
                     antiguo nombre y su sagrada profesión como compensación
                     suficiente por la falta de fortuna.</p>
@@ -297,8 +309,10 @@
                     añadir a los labios maduros, un rizo suave aquí y allá a las trenzas,
                     un tinte más profundo a la sombra de la pestaña bajo el párpado
                     azulado. Estaba absorta en la ejecución de estos delicados detalles
-                    cuando, tras un rápido golpe, mi puerta se abrió, admitiendo a St.
-                    John Rivers.</p>
+                    cuando, tras un rápido golpe, mi puerta se abrió, admitiendo a <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John Rivers
+                    </span>.</p>
 
                 <p>—He venido a ver cómo pasa usted su día festivo —dijo—. ¿No,
                     espero, pensando? No, eso está bien. Mientras dibuja no se sentirá
@@ -321,7 +335,10 @@
                     de tu propia mezquindad.</p>
 
                 <p>Mientras yo ojeaba con avidez las brillantes páginas de «<i>Marmion</i>»
-                    (pues «<i>Marmion</i>» era), St. John se inclinó para examinar mi dibujo.
+                    (pues «<i>Marmion</i>» era), <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John Rivers
+                    </span> se inclinó para examinar mi dibujo.
                     Su alta figura se irguió de nuevo con un sobresalto. No dijo nada. Lo
                     miré; él rehuía mi mirada. Conocía bien sus pensamientos y podía
                     leer su corazón claramente. En ese momento me sentía más
@@ -393,8 +410,10 @@
 
                 <p>Desde que había comprobado que Rosamond realmente lo
                     prefería y que su padre no era probable que se opusiera al
-                    matrimonio, yo —menos exaltada en mis puntos de vista que St.
-                    John— me había sentido fuertemente dispuesta en mi propio
+                    matrimonio, yo —menos exaltada en mis puntos de vista que <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>— me había sentido fuertemente dispuesta en mi propio
                     corazón a abogar por su unión. Me parecía que, si él se convirtiera
                     en el poseedor de la gran fortuna del señor Oliver, podría hacer
                     tanto bien con ella como si fuera y dejara que su genio se
