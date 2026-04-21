@@ -89,7 +89,7 @@
             </div>
 
             <section class="exel">
-                <iframe src="../../../content/actividades_eyre/juegos/juegos/index.html" width="100%" height="700"
+                <iframe src="../../../content/actividades_eyre/juegos/index.html" width="100%" height="700"
                     style="border:none;"></iframe>
             </section>
         </div>

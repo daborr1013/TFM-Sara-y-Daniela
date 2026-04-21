@@ -1,60 +1,33 @@
-# TFM-Sara-y-Daniela
+# Litterally - Plataforma de Análisis Literario Interactivo
 
-html
-<button onclick="abrirModal()">Haz click</button>
+Litterally es una plataforma diseñada para transformar la lectura pasiva en una experiencia inmersiva e interactiva. Los lectores pueden explorar personajes, simbología y completar actividades de comprensión sobre grandes obras literarias.
 
-<div id="miModal" class="modal">
-  <div class="modal-contenido">
-    <span onclick="cerrarModal()">&times;</span>
-    <p>Texto aquí</p>
-  </div>
-</div>
+## 🚀 Características
+- **Análisis Profundo**: Secciones dedicadas a personajes, contextos históricos y temas.
+- **Interactividad**: Actividades tipo test, rellenar espacios y juegos de memoria.
+- **Seguimiento de Progreso**: Panel de usuario con estadísticas y logros.
+- **Asistente Virtual**: "Litto", un compañero para guiarte en tus lecturas.
 
+## 🛠️ Tecnologías
+- **Frontend**: HTML5, CSS3 (Vanilla), JavaScript (ES6+).
+- **Backend**: PHP 8.x.
+- **Base de Datos**: MySQL.
 
-css
-.modal {
-  display: none; 
-  position: fixed;
-  z-index: 1;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.5);
-}
+## 📁 Estructura del Proyecto (Módulos Principales)
+- `login.php` / `register.php`: Sistema de gestión de usuarios.
+- `content/`: Carpeta con todas las obras y análisis literarios.
+- `css/`: Estilos centralizados (incluyendo `registro.css`).
+- `js/`: Lógica interactiva (incluyendo `registro.js`).
+- `media/`: Recursos visuales y gráficos.
 
-.modal-contenido {
-  background: white;
-  margin: 15% auto;
-  padding: 20px;
-  width: 300px;
-  border-radius: 10px;
-  text-align: center;
-}
+## 🔧 Instalación y Configuración
+1. Clona el repositorio en tu servidor local (XAMPP/WAMP).
+2. Importa la base de datos `litterally.sql`.
+3. Configura las credenciales en `database.php`.
+4. Accede a través de `index.php`.
 
-.cerrar {
-  float: right;
-  font-size: 25px;
-  cursor: pointer;
-}
+## ✍️ Autoras
+Proyecto desarrollado para el **TFM – Letras Digitales – UCM**.
 
-
-js
-
-function abrirModal() {
-  document.getElementById("miModal").style.display = "block";
-}
-
-function cerrarModal() {
-  document.getElementById("miModal").style.display = "none";
-}
-
-const modal = document.getElementById("miModal");
-
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
-
-
+---
+*Litterally: Porque no se trata solo de leer, sino de lo que sucede mientras lees.*
