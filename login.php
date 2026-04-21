@@ -121,5 +121,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             <a href="index.php">← Volver al inicio</a>
         </div>
     </div>
+    <script src="js/registro.js"></script>
 </body>
 </html>
