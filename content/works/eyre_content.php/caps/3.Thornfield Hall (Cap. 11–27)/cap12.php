@@ -319,7 +319,10 @@
                     una viveza más allá de lo que la infancia podía dar. Mientras este
                     caballo se acercaba, y mientras yo esperaba que apareciera a través
                     del crepúsculo, recordé ciertos cuentos de Bessie, en los que
-                    figuraba un espíritu del norte de Inglaterra llamado «Gytrash», que,
+                    figuraba un espíritu del norte de Inglaterra llamado «<span class="anotacion"
+                        data-nota="Criatura  del foclore inglés. Se describe como un perro negro, a veces con forma de mula fantasmal.">
+                        Gytrash
+                    </span>», que,
                     en forma de caballo, mula o perro grande, rondaba los caminos
                     solitarios y a veces se encontraba con viajeros rezagados, como este
                     caballo se encontraba ahora conmigo.</p>
@@ -328,16 +331,25 @@
                     traqueteo, oí un ruido bajo el seto, y junto a los tallos de avellano se
                     deslizó un gran perro, cuyo color blanco y negro lo convertía en un
                     objeto nítido contra los árboles. Era exactamente una de las formas
-                    del Gytrash de Bessie: una criatura leonina con pelo largo y una
+                    del <span class="anotacion"
+                        data-nota="Criatura  del foclore inglés. Se describe como un perro negro, a veces con forma de mula fantasmal.">
+                        Gytrash
+                    </span> de Bessie: una criatura leonina con pelo largo y una
                     cabeza enorme. Pasó a mi lado, sin embargo, con bastante
                     tranquilidad; sin detenerse a mirarme a la cara con extraños ojos
                     pretercaninos, como yo medio esperaba que hiciera. El caballo lo
                     siguió, un corcel alto, y en su lomo un jinete. El hombre, el ser
                     humano, rompió el hechizo al instante. Nada montaba nunca al
-                    Gytrash; siempre estaba solo. Y los duendes, según mis nociones,
+                    <span class="anotacion"
+                        data-nota="Criatura  del foclore inglés. Se describe como un perro negro, a veces con forma de mula fantasmal.">
+                        Gytrash
+                    </span>; siempre estaba solo. Y los duendes, según mis nociones,
                     aunque pudieran habitar los cuerpos mudos de las bestias,
                     difícilmente podrían codiciar refugio en la forma humana corriente.
-                    No era un Gytrash, solo un viajero que tomaba el atajo hacia
+                    No era un <span class="anotacion"
+                        data-nota="Criatura  del foclore inglés. Se describe como un perro negro, a veces con forma de mula fantasmal.">
+                        Gytrash
+                    </span>, solo un viajero que tomaba el atajo hacia
                     Millcote. Pasó, y yo seguí adelante; unos pocos pasos, y me volví: un
                     sonido de deslizamiento y una exclamación de «¿Qué diablos pasa
                     ahora?» y una caída estrepitosa captaron mi atención. Hombre y
@@ -350,7 +362,8 @@
                     ayuda a mano para convocar. Le obedecí y me acerqué al viajero,
                     que para entonces se estaba liberando de su montura. Sus esfuerzos
                     eran tan vigorosos que pensé que no podría estar muy herido; pero
-                    le hice la pregunta:</p>
+                    le hice la pregunta:
+                </p>
 
                 <p>—¿Está usted herido, señor?</p>
 
@@ -462,10 +475,19 @@
                     gorro de castor negro; ninguno de los dos ni la mitad de fino para
                     una doncella. Parecía perplejo para decidir qué era yo; le ayudé.</p>
 
-                <p>—Soy la institutriz.</p>
+                <p>—Soy la <span class="anotacion"
+                        data-nota="Mujer encargada de la educación o instrucción de uno o varios niños en el hogar de estos.">
+                        institutriz
+                    </span>.</p>
 
-                <p>—¡Ah, la institutriz! —repitió—. ¡Que me parta un rayo, si no lo
-                    había olvidado! ¡La institutriz! —Y de nuevo mi atuendo fue sometido
+                <p>—¡Ah, la <span class="anotacion"
+                        data-nota="Mujer encargada de la educación o instrucción de uno o varios niños en el hogar de estos.">
+                        institutriz
+                    </span>! —repitió—. ¡Que me parta un rayo, si no lo
+                    había olvidado! ¡La <span class="anotacion"
+                        data-nota="Mujer encargada de la educación o instrucción de uno o varios niños en el hogar de estos.">
+                        institutriz
+                    </span>! —Y de nuevo mi atuendo fue sometido
                     a escrutinio. En dos minutos se levantó de la estela. Su rostro
                     expresó dolor cuando intentó moverse.</p>
 
@@ -531,7 +553,10 @@
                     Cuando llegué a la estela, me detuve un minuto, miré a mi alrededor
                     y escuché, con la idea de que los cascos de un caballo pudieran
                     volver a resonar en el empedrado, y que un jinete con capa y un
-                    perro terranova parecido a un Gytrash pudieran volver a aparecer. Vi
+                    perro terranova parecido a un <span class="anotacion"
+                        data-nota="Criatura  del foclore inglés. Se describe como un perro negro, a veces con forma de mula fantasmal.">
+                        Gytrash
+                    </span> pudieran volver a aparecer. Vi
                     solo el seto y un sauce desmochado ante mí, alzándose quietos y
                     rectos para recibir los rayos de la luna; oí solo la más leve ráfaga de
                     viento vagando intermitentemente entre los árboles alrededor de
@@ -607,7 +632,10 @@
                     </span>. En su
                     lugar, completamente solo, sentado erguido sobre la alfombra y
                     contemplando con gravedad las llamas, vi a un gran perro de pelo
-                    largo, blanco y negro, exactamente igual que el Gytrash del sendero.
+                    largo, blanco y negro, exactamente igual que el <span class="anotacion"
+                        data-nota="Criatura  del foclore inglés. Se describe como un perro negro, a veces con forma de mula fantasmal.">
+                        Gytrash
+                    </span> del sendero.
                     Se parecía tanto que me adelanté y dije: «Pilot», y el animal se
                     levantó, vino hacia mí y me olfateó. Lo acaricié y movió su gran cola;
                     pero parecía una criatura misteriosa para estar a solas con ella, y no
