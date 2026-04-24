@@ -118,7 +118,7 @@
                     <li><a href="https://dle.rae.es/frenolog%C3%ADa" target="_blank">Frenología</a>: Antigua doctrina
                         psicológica según la cual las facultades psíquicas están localizadas en zonas precisas del
                         cerebro y en correspondencia con relieves del cráneo.</li>
-                    <li><a href="https://dle.rae.es/frugal" target="_blank">Frugal</a>: <a
+                    <li><a href="https://dle.rae.es/frugal" target="_blank">Frugal</a>: Dicho de una cosa: Propia de una persona frugal. Vida, almuerzo frugal.</li>
                             href="https://dle.rae.es/parco" target="_blank"> Parco</a> (Corto, escaso o moderado en el
                         uso o concesión de las cosas) en comer y beber.</li>
                     <li><a href="https://dle.rae.es/gobernanta" target="_blank">Gobernanta</a>: Mujer que en los hoteles
@@ -201,7 +201,7 @@
                             danser!</i>: ¿Me queda bien el vestido? ¿Y mis zapatos? ¿Y mis medias? ¡Mirad, creo que voy
                         a bailar!</li>
                     <li><i>Monsieur, je vous remercie mille fois de votre bonté. C'est comme cela que maman
-                            faisait, n'estce pas, monsieur?</i>: Señor, le agradezco mil veces su bondad. Es así como
+                            faisait, n'est-ce pas, monsieur?</i>: Señor, le agradezco mil veces su bondad. Es así como
                         mamá hacía, ¿no es así, señor?</li>
                     <li><i>Comme cela</i>: Así.</li>
                 </ul>
@@ -222,8 +222,8 @@
                 <ul>
                     <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap16.php">Capítulo XVI</a>
                     <li><i>Qu'avez-vous, mademoiselle? Vos doigts tremblent comme la feuille, et vos joues sont rouges:
-                            mais, rouges comme des cerises!</i>: ¿Qué le pasa, señorita? Tus dedos tiemblan como una
-                        hoja y tus mejillas están rojas: ¡pero rojas como las cerezas!.</li>
+                            mais, rouges comme des cerises!</i>: ¿Qué le pasa, señorita? Sus dedos tiemblan como una
+                        hoja y sus mejillas están rojas: ¡pero rojas como las cerezas!.</li>
 
                 </ul>
 

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 07-04-2026 a las 20:44:14
+-- Tiempo de generación: 24-04-2026 a las 18:18:12
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.2.12
 
@@ -20,20 +20,6 @@ SET time_zone = "+00:00";
 --
 -- Base de datos: `litterally`
 --
-
--- --------------------------------------------------------
-
---
--- Estructura de tabla para la tabla `activities`
---
-
-CREATE TABLE `activities` (
-  `id` int(11) NOT NULL,
-  `work_id` int(11) NOT NULL,
-  `tipo` varchar(50) DEFAULT NULL,
-  `nivel` varchar(50) DEFAULT NULL,
-  `descripcion` text DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- --------------------------------------------------------
 
@@ -169,18 +155,41 @@ INSERT INTO `characters` (`id`, `work_id`, `nombre`, `descripcion`, `rol`, `rela
 -- --------------------------------------------------------
 
 --
--- Estructura de tabla para la tabla `questions`
+-- Estructura de tabla para la tabla `glossary`
 --
 
-CREATE TABLE `questions` (
+CREATE TABLE `glossary` (
   `id` int(11) NOT NULL,
-  `activity_id` int(11) NOT NULL,
-  `pregunta` text DEFAULT NULL,
-  `opcion_a` varchar(255) DEFAULT NULL,
-  `opcion_b` varchar(255) DEFAULT NULL,
-  `opcion_c` varchar(255) NOT NULL,
-  `respuesta_correcta` varchar(1) DEFAULT NULL
+  `work_id` int(11) NOT NULL,
+  `concept` varchar(255) NOT NULL,
+  `definition` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Volcado de datos para la tabla `glossary`
+--
+
+INSERT INTO `glossary` (`id`, `work_id`, `concept`, `definition`) VALUES
+(1, 1, 'Alféizar', 'Vuelta o derrame que hace la pared en el corte de una puerta o ventana, tanto por la parte de adentro como por la de afuera, dejando al descubierto el grueso del muro.'),
+(2, 1, 'Antítesis', 'Persona o cosa enteramente opuesta en sus condiciones a otra.'),
+(3, 1, 'Byroniano', 'Que tiene rasgos característicos de la obra de Byron.'),
+(4, 1, 'Displicencia', 'Desagrado o indiferencia en el trato.'),
+(5, 1, 'Doppelgänger (doble)', 'Dicho de una cosa: Que va acompañada de otra semejante y sirve junto con ella para un fin.'),
+(6, 1, 'Estoicismo', 'Fortaleza o dominio sobre la propia sensibilidad.'),
+(7, 1, 'Fanal', 'Farol grande que se coloca en las torres de los puertos para que su luz sirva de señal nocturna.'),
+(8, 1, 'Fideicomiso', 'Disposición por la cual el testador deja su hacienda o parte de ella encomendada a la buena fe de alguien para que, en caso y tiempo determinados, la transmita a otra persona o la invierta del modo que se le señala.'),
+(9, 1, 'Frenología', 'Antigua doctrina psicológica según la cual las facultades psíquicas están localizadas en zonas precisas del cerebro y en correspondencia con relieves del cráneo.'),
+(10, 1, 'Frugal', 'Dicho de una cosa: Propia de una persona frugal. Vida, almuerzo frugal.'),
+(11, 1, 'Parco', '(Corto, escaso o moderado en el uso o concesión de las cosas) en comer y beber.'),
+(12, 1, 'Gobernanta', 'Mujer que en los hoteles tiene a su cargo el servicio de un piso en lo tocante a limpieza de habitaciones, conservación del mobiliario, alfombras y demás enseres.'),
+(13, 1, 'Gytrash', 'criatura del foclore inglés. Se describe como un perro negro, a veces con forma de mula fantasmal.'),
+(14, 1, 'Ignominia', 'Afrenta pública.'),
+(15, 1, 'Indómito/a', 'Que no se puede o no se deja domar.'),
+(16, 1, 'Institutriz', 'Mujer encargada de la educación o instrucción de uno o varios niños en el hogar de estos.'),
+(17, 1, 'Oprobio', 'Ignominia, afrenta, deshonra.'),
+(18, 1, 'Preceptor/a', 'Persona que enseña.'),
+(19, 1, 'Providencia', 'Disposición anticipada o prevención que mira o conduce al logro de un fin.'),
+(20, 1, 'Vicisitud', 'Orden sucesivo o alternativo de algo.');
 
 -- --------------------------------------------------------
 
@@ -292,6 +301,78 @@ INSERT INTO `themes` (`id`, `tema_id`, `contenido`, `work_id`) VALUES
 -- --------------------------------------------------------
 
 --
+-- Estructura de tabla para la tabla `translations`
+--
+
+CREATE TABLE `translations` (
+  `id` int(11) NOT NULL,
+  `block_id` int(11) NOT NULL,
+  `source_word` varchar(255) NOT NULL,
+  `target_language` varchar(10) NOT NULL,
+  `translated_word` varchar(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Volcado de datos para la tabla `translations`
+--
+
+INSERT INTO `translations` (`id`, `block_id`, `source_word`, `target_language`, `translated_word`) VALUES
+(1, 11, 'Mademoiselle', 'fr', 'Señorita.'),
+(2, 11, 'C\'est là ma gouvernante', 'fr', 'Es la institutriz.'),
+(3, 11, 'Mais oui, certainement', 'fr', 'Desde luego que sí.'),
+(4, 11, 'Qu\'avez-vous donc? lui dit un de ces rats; parlez!', 'fr', '¿Qué os pasa? le dijo una de esas ratas; ¡hablad!'),
+(5, 11, 'Mesdames, vous êtes servies!J\'ai bien faim, moi!', 'fr', '¡Señoras, están servidas! ¡Yo tengo mucha hambre!'),
+(6, 12, 'Par parenthèse', 'fr', 'Por cierto.'),
+(7, 12, 'Revenez bientôt, ma bonne amie, ma chère Mdlle. Jeannette', 'fr', 'Vuelvan pronto, mi buena amiga, mi querida señorita Jane.'),
+(8, 13, 'Ami, Monsieur Edouard Fairfax de Rochester', 'fr', 'Amigo, señor Edward Fairfax de Rochester.'),
+(9, 13, 'Et cela doit signifier, qu\'il y aura là dedans un cadeau pour moi, et peut-être pour vous aussi, mademoiselle. Monsieur a parlé de vous: il m’a demandé le nom de ma gouvernante, et si elle n’était pas une petite personne, assez mince et un peu pâle. J’ai ', 'fr', 'Y eso debe significar que habrá un regalo para mí, y quizás también para ti, señorita. El señor ha hablado de ti: me ha preguntado el nombre de mi institutriz, y si no era una persona pequeña, bastante delgada y un poco pálida. Yo dije que sí: porque es v'),
+(10, 13, 'N\'est-ce pas, monsieur, qu\'il y a un cadeau pour Mademoiselle Eyre dans votre petit coffre?', 'fr', '¿No es así, señor, que hay un regalo para la señorita Eyre en su pequeño cofre?'),
+(11, 13, 'Cadeau', 'fr', 'regalo.'),
+(12, 14, 'Petit coffre', 'fr', 'pequeño cofre.'),
+(13, 14, 'Ma boîte! ma boîte!', 'fr', '¡Mi caja! ¡Mi caja!'),
+(14, 14, 'Boîte', 'fr', 'caja.'),
+(15, 14, 'Tiens-toi tranquille, enfant; comprends-tu?', 'fr', 'Tranquilízate, niña; ¿entiendes?'),
+(16, 14, 'Oh ciel! Que c\'est beau!', 'fr', '¡Oh cielo! ¡Qué bonito es!'),
+(17, 14, 'Il faut que je l\'essaie!', 'fr', '¡Tengo que probármelo!'),
+(18, 14, 'Est-ce que ma robe va bien? Et mes souliers? Et mes bas? Tenez, je crois que je vais danser!', 'fr', '¿Me queda bien el vestido? ¿Y mis zapatos? ¿Y mis medias? ¡Mirad, creo que voy a bailar!'),
+(19, 14, 'Monsieur, je vous remercie mille fois de votre bonté. C\'est comme cela que maman faisait, n\'est-ce pas, monsieur?', 'fr', 'Señor, le agradezco mil veces su bondad. Es así como mamá hacía, ¿no es así, señor?'),
+(20, 14, 'Comme cela', 'fr', 'así.'),
+(21, 15, 'Grande passion', 'fr', 'Gran pasión.'),
+(22, 15, 'Taille d\'athlète', 'fr', 'Talle de atleta.'),
+(23, 15, 'Croquant', 'fr', 'Crujiente.'),
+(24, 15, 'Voiture', 'fr', 'coche.'),
+(25, 15, 'Mon ange', 'fr', 'mi ángel.'),
+(26, 15, 'Porte cochère', 'fr', 'portón de entrada.'),
+(27, 15, 'Beauté mâle', 'fr', 'belleza masculina.'),
+(28, 15, 'Monsieur', 'fr', 'señor.'),
+(29, 15, 'Filette', 'fr', 'niña.'),
+(30, 16, 'Quavez-vous, mademoiselle? Vos doigts tremblent comme la feuille, et vos joues sont rouges: mais, rouges comme des cerises!', 'fr', '¿Qué le pasa, señorita? Sus dedos tiemblan como una hoja y sus mejillas están rojas: ¡pero rojas como las cerezas!'),
+(31, 17, 'Toilettes', 'fr', 'ropa.'),
+(32, 17, 'Passées', 'fr', 'pasadas.'),
+(33, 17, 'Elles changent de toilettes', 'fr', 'Se cambian de ropa.'),
+(34, 17, 'Chez maman quand il y avait du monde, je le suivais partout, au salon et à leurs chambres; souvent je regardais les femmes de chambre coiffer et habiller les dames, et c\'était si amusant: comme cela on apprend.', 'fr', 'En casa de mamá, cuando había gente, la seguía por todas partes, al salón y a sus habitaciones; a menudo miraba a las criadas peinar y vestir a las damas, y era tan divertido: así se aprende.'),
+(35, 17, 'Mais oui, mademoiselle: voilà cinq ou six heures que nous n\'avons pas mangé.', 'fr', '¡Pero sí, señorita: hace cinco o seis horas que no comemos!'),
+(36, 17, 'Et alors quel dommage!', 'fr', '¡Y entonces qué lástima!'),
+(37, 17, 'Est-ce que je ne puis pas prendre une seule de ces fleurs magnifiques, mademoiselle? Seulement pour compléter ma toilette.', 'fr', '¿No puedo tomar una sola de estas magníficas flores, señorita? Solo para completar mi tocado.'),
+(38, 17, 'Minois chiffoné', 'fr', 'Rostro arrugado.'),
+(39, 17, 'Bon jour, mesdames', 'fr', 'Buenos días, señoras.'),
+(40, 17, 'Père noble de théâtre', 'fr', 'Padre noble del teatro.'),
+(41, 17, 'Tant pis!', 'fr', '¡Qué lastima!'),
+(42, 17, 'La belle passion', 'fr', 'La bella pasión.'),
+(43, 17, 'Gardez-vous en bien!', 'fr', '¡Cuídese mucho!'),
+(44, 18, 'Voilà Monsieur Rochester, qui revient!', 'fr', '¡Ahí está el señor Rochester, que vuelve!'),
+(45, 18, 'Le cas', 'fr', 'El caso.'),
+(46, 24, 'Sans mademoiselle', 'fr', 'Sin la señorita.'),
+(47, 24, 'Oh, quelle y sera mal, peu confortable!', 'fr', '¡Oh, qué mal lo pasará allí, qué incómoda!'),
+(48, 24, 'Un vrai menteur', 'fr', 'Un verdadero mentiroso.'),
+(49, 24, 'Contes de fée', 'fr', 'Cuentos de hadas.'),
+(50, 24, 'Du reste, il ny avait pas de fées, et quand même il y en avait', 'fr', 'Además, no había hadas, y aunque las hubiera.'),
+(51, 24, 'Pour me donner une contenance', 'fr', 'Para darme una apariencia de tranquilidad.'),
+(52, 24, 'Tête-à-tête', 'fr', 'Cara a cara.');
+
+-- --------------------------------------------------------
+
+--
 -- Estructura de tabla para la tabla `users`
 --
 
@@ -347,15 +428,54 @@ CREATE TABLE `works` (
 INSERT INTO `works` (`id`, `titulo`, `autor`, `año_publicacion`, `idioma`, `nivel`) VALUES
 (1, '[Jane Eyre]', '[Charlotte Brontë]', 1847, '[Inglés]', '[Secundaria]');
 
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `work_context`
+--
+
+CREATE TABLE `work_context` (
+  `id` int(11) NOT NULL,
+  `work_id` int(11) NOT NULL,
+  `content` text NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Volcado de datos para la tabla `work_context`
+--
+
+INSERT INTO `work_context` (`id`, `work_id`, `content`) VALUES
+(1, 1, '<section class=\"pjustificado\">\r\n                <section class=\"layout\">\r\n                    <section class=\"pjustificado\">\r\n                        <p>Para comprender por qué la historia de una pequeña institutriz huérfana sacudió los cimientos\r\n                            de la Inglaterra del siglo XIX,\r\n                            debemos mirar más allá de las páginas del libro y explorar el mundo que vio nacer a su\r\n                            autora.</p>\r\n                        <p>En la sección <a href=\"contexto_historico.php\">contexto histórico</a> podrás encontrar un\r\n                            recorrido por el marco histórico en el que\r\n                            se escribió la historia, un siglo lleno de cambios sociales, políticos y científicos.\r\n                            Además, verás las ideas principales de las corrientes\r\n                            literarias que influyeron en la obra, como el Romanticismo y la Ilustración.</p>\r\n                        <p>Por otro lado, en la sección <a href=\"charlotte.php\">Charlotte Brontë</a> podrás encontrar\r\n                            información sobre la autora, su vida y su obra.\r\n                            ¿Qué mejor manera de entender la historia que conocer a su creadora? Verás mucho de ella\r\n                            reflejado en la obra.</p>\r\n                    </section>');
+
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `work_historical_context`
+--
+
+CREATE TABLE `work_historical_context` (
+  `id` int(11) NOT NULL,
+  `work_id` int(11) NOT NULL,
+  `section` varchar(100) NOT NULL,
+  `content` text NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Volcado de datos para la tabla `work_historical_context`
+--
+
+INSERT INTO `work_historical_context` (`id`, `work_id`, `section`, `content`) VALUES
+(1, 1, 'Marco histórico. Un siglo de cambios.', '<ul> <li><b>Regencia (1811-1820)</b>: La infancia de las Brontë ocurre bajo la influencia de este periodo pre-victoriano, marcado por las Guerras Napoleónicas y la tensión entre la razón y la pasión.</li> <li><b>Era Victoriana (1837-1901)</b>: El contexto real de la novela. Una época de responsabilidad moral, expansión del Imperio y una fe que empieza a tambalearse por descubrimientos científicos (como la geología de Lyell o la evolución de Darwin).</li> <li><b>La Gran Exposición (1851)</b>: El clímax del orgullo británico, mostrando la riqueza y los inventos (telégrafo, fotografía) que cambiaron el mundo mientras Charlotte escribía.</li> </ul>'),
+(2, 1, 'Época Victoriana', '<p>La época victoriana, llamada así por la reina Victoria I, fue un periodo de grandes cambios sociales, económicos e industriales. La población creció rápidamente y la industrialización transformó la vida cotidiana, aunque también trajo problemas como pobreza, desempleo, <p>Uno de sus rasgos principales fue la importancia de la moral y el deber social. Se valoraban la disciplina, el comportamiento correcto y el orden, especialmente en temas como la sexualidad. Sin embargo, también existía una gran hipocresía entre lo que se mostraba en público y lo que ocurría en privado.</p> <ul> <li><b>Early Victorian (1830-1848):</b> periodo de reformas como la ampliación del voto (Reform Bill de 1832) y el desarrollo del ferrocarril. Aun así, persistían la pobreza y el desempleo. Surgen movimientos como el cartismo. En literatura destacan las novelas sociales y el <i>Bildungsroman</i> (novela de formación).</li> <li><b>Mid Victorian (1848-1870):</b> se consolidan los avances industriales y científicos. El Imperio británico alcanza su máximo esplendor. Sin embargo, aparecen dudas religiosas debido al progreso científico. Predominan las novelas de costumbres.</li> <li><b>Late Victorian (1870-1901):</b> etapa marcada por el escepticismo. Surgen avances como la educación obligatoria y el movimiento sufragista, pero también críticas al sistema social. El Imperio empieza a debilitarse.</li> </ul> <p>En el ámbito literario, el siglo XIX fue la era de la novela, especialmente popular entre la clase media. Muchas obras se publicaban por entregas, lo que facilitaba su difusión. También destacaron la poesía romántica, el teatro y la prosa centrada en problemas sociales, así como el naturalismo, que retrataba la vida de las clases más desfavorecidas.</p>'),
+(3, 1, 'Romanticismo', '<p>El Romanticismo surge en un contexto de grandes cambios sociales, políticos y económicos. Inglaterra se convierte en una sociedad industrial, lo que acentúa las diferencias entre el mundo rural y el urbano y aumenta las desigualdades.</p> <p>Eventos como la Revolución Francesa impulsaron ideas de libertad, igualdad y cambio, aunque también generaron miedo, lo que llevó a una sociedad más controladora y moralista.</p> <p>La industrialización favoreció una nueva cultura de consumo y amplió el acceso a la lectura. En este contexto, crecieron las oportunidades para escritoras, que empezaron a destacar en un mundo dominado por hombres.</p> <p>Aunque la poesía es el género principal del Romanticismo, también se desarrollan ensayos, teatro y novela, que adquiere cada vez más importancia.</p> <p><b>Ideas clave del Romanticismo</b></p> <ul> <li>Naturaleza: se opone al mundo artificial y puede ser tanto protectora como destructiva. Aparece la “falacia patética”, que consiste en atribuir emociones humanas a la naturaleza. </li> <li>Imaginación: permite ir más allá de la realidad y es un elemento esencial del movimiento. </li> <li>El “buen salvaje”: idea de que el ser humano es bueno por naturaleza, pero la sociedad lo </ul>'),
+(4, 1, 'Romanticismo vs. Ilustración', ' <p>La novela es un campo de batalla entre dos formas de ver el mundo:</p> <table> <tr> <th>Romanticismo<br><i>El corazón</i></th> <th>Ilustración<br><i>La razón</i></th> </tr> <tr> <td>El corazón controla la cabeza.</td>  <td>La cabeza controla el corazón.</td> </tr> <tr> <td>La razón y el intelecto pueden ser peligrosos.</td> <td>La imaginación y los sentimientos son peligrosos.</td> </tr> <tr> <td>Jane Eyre se deja llevar por su pasión y sus visiones.</td> <td>John Rivers representa el control y el deber frío.</td> </tr> </table> <p><b>Concepto clave:</b> Jane es una anti-heroína romántica. No es la clásica heroína perfecta y bella; es \"pobre, oscura, fea y pequeña\", pero con una voluntad de hierro.</p>'),
+(5, 1, 'Gótico', '<p>La literatura gótica surge en el siglo XVIII como reacción contra el exceso de racionalidad de la Ilustración. En lugar de la razón, explora lo emocional, lo irracional y lo desconocido.</p> <p>Se distingue entre entre <b>terror</b>, que está más enfocado en lo psicológico, y el <b>horror</b>, que está más enfocado en lo físico.\r\n                    </p>\r\n                    <p>Este género está influido por acontecimientos como la Revolución Francesa y la Revolución Industrial, así como por autores como Shakespeare o los poetas de cementerio.</p>\r\n\r\n                    <p><b>Características del gótico:</b></p>\r\n                    <ul>\r\n                        <li>Ambientes: castillos, abadías o escenarios medievales</li>\r\n                        <li>Temas: herencias, secretos, relaciones prohibidas</li>\r\n                        <li>Personajes: villano, joven en peligro y héroe</li>\r\n                        <li>Elementos: ruinas, laberintos, pasado que persigue</li>\r\n                        <li>Narración: subjetiva, a veces en primera persona</li>\r\n                    </ul>\r\n\r\n                    <p>Conceptos clave:</p>\r\n                    <ul>\r\n                        <li>Lo sublime: mezcla de placer y terror</li>\r\n                        <li>Lo siniestro: algo familiar que se vuelve extraño</li>\r\n                        <li>Lo grotesco: lo deformado o inquietante</li>\r\n                    </ul>\r\n\r\n                    <p>Con el tiempo, el gótico evoluciona: los escenarios pasan a ser más cotidianos (casas, ciudades)\r\n                        y el miedo se vuelve más psicológico, centrado en la mente humana.</p>\r\n\r\n                    <p>Tipos de gótico:</p>\r\n                    <ul>\r\n                        <li>Gótico puro: no hay explicación racional para los sucesos sobrenaturales</li>\r\n                        <li>Gótico explicado: los sucesos sobrenaturales tienen explicación racional</li>\r\n                        <li>Gótico satánico: se centra en la figura del diablo</li>\r\n                        <li>Gótico fantástico: se centra en la figura de los fantasmas</li>\r\n                        <li>Gótico filosófico: se centra en la figura de los demonios</li>\r\n                        <li>Gótico paródico: se centra en la figura de los vampiros</li>\r\n                    </ul>\r\n\r\n                    <p>Interpretaciones críticas:</p>\r\n                    <ul>\r\n                        <li>Psicoanálisis: se centra en los miedos internos</li>\r\n                        <li>Feminismo: lo interpreta como expresión de la ansiedad femenina</li>\r\n                        <li>Marxismo: analiza las jerarquías sociales</li>\r\n                    </ul>'),
+(6, 1, 'Las Hermanas Brontë: Realidad tras la Ficción', '<p>La vida de Charlotte, Emily y Anne es tan fascinante como sus libros. Podemos ver sus experiencias reflejadas en sus historias, como el paisaje rudo y sombrío de los páramos de Yorkshire que se refleja en la atmósfera de la novela, o el trabajo que hicieron de institutrices y maestras.</p>\r\n\r\n                <p>A pesar de la tragedia marcar sus vidas, con la muerte de su madre y sus hermanas, esta les dio una capacidad narrativa única y las Brontë se hicieron escritoras, creando mundos imaginarios que marcaron la literatura y les dio fama mundial.</p>\r\n\r\n                <p>Las tres tuvieron que usar pseudónimos para poder publicar en un inicio: Currer, Ellis y Acton Bell fueron su táctica para evitar los prejuicios que había contra las escritoras.</p>'),
+(7, 1, 'El Legado: ¿Por qué seguimos leyendo Jane Eyre?', '<p>El enfoque de Charlotte en la consciencia interior y los sentimientos de Jane fue precursor de la \"corriente de conciencia\" del siglo XX. Jane no solo narra lo que pasa, sino cómo se siente su mente.</p>\r\n                <p>Hoy entendemos <i>Jane Eyre</i> a través de la intertextualidad. Un ejemplo es <i>Wide Sargasso Sea</i> o <i>El ancho mar de los Sargazos</i> de Jean Rhys, que reescribe la historia desde el punto de vista de Bertha Mason (la mujer en el ático), cuestionando el canon original.</p>\r\n                <p>La novela ha sido adaptada innumerables veces al cine, la televisión y el teatro, demostrando su vigencia y capacidad para conectar con nuevas generaciones.</p>\r\n\r\n                <p><i>Jane Eyre</i> sigue siendo un referente feminista y un clásico de la literatura universal que nos invita a reflexionar sobre la libertad, la justicia y el amor verdadero.</p>');
+
 --
 -- Índices para tablas volcadas
 --
-
---
--- Indices de la tabla `activities`
---
-ALTER TABLE `activities`
-  ADD PRIMARY KEY (`id`);
 
 --
 -- Indices de la tabla `blocks`
@@ -371,10 +491,11 @@ ALTER TABLE `characters`
   ADD KEY `work_id` (`work_id`);
 
 --
--- Indices de la tabla `questions`
+-- Indices de la tabla `glossary`
 --
-ALTER TABLE `questions`
-  ADD PRIMARY KEY (`id`);
+ALTER TABLE `glossary`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `fk_glossary_work` (`work_id`);
 
 --
 -- Indices de la tabla `summaries`
@@ -400,6 +521,13 @@ ALTER TABLE `themes`
   ADD KEY `work_id` (`work_id`);
 
 --
+-- Indices de la tabla `translations`
+--
+ALTER TABLE `translations`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `uq_block_word_language` (`block_id`,`source_word`,`target_language`);
+
+--
 -- Indices de la tabla `users`
 --
 ALTER TABLE `users`
@@ -419,14 +547,22 @@ ALTER TABLE `works`
   ADD PRIMARY KEY (`id`);
 
 --
--- AUTO_INCREMENT de las tablas volcadas
+-- Indices de la tabla `work_context`
 --
+ALTER TABLE `work_context`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `fk_work_context_work` (`work_id`);
 
 --
--- AUTO_INCREMENT de la tabla `activities`
+-- Indices de la tabla `work_historical_context`
 --
-ALTER TABLE `activities`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+ALTER TABLE `work_historical_context`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `fk_work_content_work` (`work_id`);
+
+--
+-- AUTO_INCREMENT de las tablas volcadas
+--
 
 --
 -- AUTO_INCREMENT de la tabla `blocks`
@@ -441,10 +577,10 @@ ALTER TABLE `characters`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=20;
 
 --
--- AUTO_INCREMENT de la tabla `questions`
+-- AUTO_INCREMENT de la tabla `glossary`
 --
-ALTER TABLE `questions`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+ALTER TABLE `glossary`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=21;
 
 --
 -- AUTO_INCREMENT de la tabla `summaries`
@@ -465,6 +601,12 @@ ALTER TABLE `themes`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
 --
+-- AUTO_INCREMENT de la tabla `translations`
+--
+ALTER TABLE `translations`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=53;
+
+--
 -- AUTO_INCREMENT de la tabla `users`
 --
 ALTER TABLE `users`
@@ -483,6 +625,18 @@ ALTER TABLE `works`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
+-- AUTO_INCREMENT de la tabla `work_context`
+--
+ALTER TABLE `work_context`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+
+--
+-- AUTO_INCREMENT de la tabla `work_historical_context`
+--
+ALTER TABLE `work_historical_context`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+
+--
 -- Restricciones para tablas volcadas
 --
 
@@ -491,6 +645,12 @@ ALTER TABLE `works`
 --
 ALTER TABLE `characters`
   ADD CONSTRAINT `characters_ibfk_1` FOREIGN KEY (`work_id`) REFERENCES `works` (`id`);
+
+--
+-- Filtros para la tabla `glossary`
+--
+ALTER TABLE `glossary`
+  ADD CONSTRAINT `fk_glossary_work` FOREIGN KEY (`work_id`) REFERENCES `works` (`id`) ON DELETE CASCADE;
 
 --
 -- Filtros para la tabla `summaries`
@@ -509,6 +669,24 @@ ALTER TABLE `symbols`
 --
 ALTER TABLE `themes`
   ADD CONSTRAINT `themes_ibfk_1` FOREIGN KEY (`work_id`) REFERENCES `works` (`id`);
+
+--
+-- Filtros para la tabla `translations`
+--
+ALTER TABLE `translations`
+  ADD CONSTRAINT `fk_word_translations_block` FOREIGN KEY (`block_id`) REFERENCES `blocks` (`id`) ON DELETE CASCADE;
+
+--
+-- Filtros para la tabla `work_context`
+--
+ALTER TABLE `work_context`
+  ADD CONSTRAINT `fk_work_context_work` FOREIGN KEY (`work_id`) REFERENCES `works` (`id`) ON DELETE CASCADE;
+
+--
+-- Filtros para la tabla `work_historical_context`
+--
+ALTER TABLE `work_historical_context`
+  ADD CONSTRAINT `fk_work_content_work` FOREIGN KEY (`work_id`) REFERENCES `works` (`id`) ON DELETE CASCADE;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
