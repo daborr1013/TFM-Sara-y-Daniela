@@ -340,6 +340,7 @@ h3 {
     margin: 0;
     font-size: 1rem;
     line-height: 1.4;
+    white-space: pre-line;
 }
 
 .message.user {
@@ -352,7 +353,7 @@ h3 {
     background-color: #e4e6eb;
     color: black;
     align-self: flex-start;
-    text-align: justify;
+    text-align: left;
 }
 
 .chat-input-area {
