@@ -13,12 +13,72 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 0);
 
+// Iniciar sesión para autenticación
+session_start();
+
 // Limpiar cualquier buffer de salida previo e iniciar uno nuevo
 ob_end_clean();
 ob_start();
 
 // Establecer encabezado para devolver formato JSON ANTES de cualquier otra salida
 header('Content-Type: application/json; charset=utf-8');
+header('X-Content-Type-Options: nosniff');
+header('X-Frame-Options: DENY');
+
+// Función para retornar respuesta de error
+function sendError($message, $code = 400) {
+    ob_end_clean();
+    http_response_code($code);
+    echo json_encode([
+        'response' => $message,
+        'status' => 'error',
+        'timestamp' => date('Y-m-d H:i:s')
+    ], JSON_UNESCAPED_UNICODE);
+    exit;
+}
+
+// Función para aplicar rate limiting
+function applyRateLimit() {
+    $maxRequests = 30;
+    $timeWindow = 60; // segundos
+    
+    if (!isset($_SESSION['chatbot_requests'])) {
+        $_SESSION['chatbot_requests'] = [];
+    }
+    
+    $now = time();
+    // Limpiar requests antiguos
+    $_SESSION['chatbot_requests'] = array_filter(
+        $_SESSION['chatbot_requests'],
+        fn($t) => ($now - $t) < $timeWindow
+    );
+    
+    if (count($_SESSION['chatbot_requests']) >= $maxRequests) {
+        sendError('Demasiadas solicitudes. Por favor, espera antes de intentar de nuevo.', 429);
+    }
+    
+    $_SESSION['chatbot_requests'][] = $now;
+}
+
+// Verificar si el usuario está autenticado
+if (!isset($_SESSION['user_id'])) {
+    sendError('Debes estar autenticado para usar el chatbot.', 401);
+}
+
+// Aplicar rate limiting
+applyRateLimit();
+
+// Validar método HTTP
+if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
+    sendError('Método no permitido.', 405);
+}
+
+// Función para sanitizar entrada del usuario
+function sanitizeInput($input) {
+    $input = trim($input);
+    $input = htmlspecialchars($input, ENT_QUOTES, 'UTF-8');
+    return substr($input, 0, 500); // Limitar a 500 caracteres
+}
 
 // Función para obtener información de personajes de la base de datos
 function getCharacterInfo($message, $conn) {
@@ -55,7 +115,7 @@ function getCharacterInfo($message, $conn) {
     // Si se menciona "personaje" sin especificar, obtener lista de la BD
     if (!$characterName && preg_match('/personaje|protagonista/', $msg)) {
         $query = "SELECT nombre FROM characters WHERE work_id = 1 ORDER BY nombre LIMIT 15";
-        $result = @$conn->query($query);
+        $result = $conn->query($query);
         $characters = [];
         if ($result) {
             while($row = $result->fetch_assoc()) {
@@ -158,7 +218,7 @@ function getThemeInfo($message, $conn) {
     
     // Si no encontró tema específico, mostrar lista general
     $query = "SELECT tema_id FROM themes WHERE work_id = 1 LIMIT 10";
-    $result = @$conn->query($query);
+    $result = $conn->query($query);
     
     if ($result && $result->num_rows > 0) {
         $response = "📚 **Temas Principales en Jane Eyre:**\n\n";
@@ -393,32 +453,38 @@ $response = "Ocurrió un error inesperado.";
 try {
     // Importar conexión a la base de datos
     require_once 'database.php';
+    
+    // Verificar conexión
+    if (!$conn || $conn->connect_error) {
+        sendError('No se puede conectar a la base de datos. Por favor verifique que XAMPP/MySQL está ejecutándose.', 503);
+    }
 
     // Obtener el mensaje desde JavaScript
     $input = json_decode(file_get_contents("php://input"), true);
-    $userMessage = isset($input['message']) ? trim($input['message']) : '';
-
-    // Validar que el mensaje no esté vacío
-    if (empty($userMessage)) {
-        $response = 'Por favor, escribe un mensaje.';
-    } else {
-        // Llamar a la función para obtener respuesta
-        $response = getBotResponse($userMessage, $conn);
+    
+    if (!$input || !isset($input['message'])) {
+        sendError('Solicitud inválida. Falta el campo "message".', 400);
     }
+    
+    $userMessage = sanitizeInput($input['message']);
+
+    // Validar que el mensaje no esté vacío después de sanitizar
+    if (empty($userMessage)) {
+        sendError('Por favor, escribe un mensaje.', 400);
+    }
+    
+    // Llamar a la función para obtener respuesta
+    $response = getBotResponse($userMessage, $conn);
+    
 } catch (Exception $e) {
     // Capturar errores de conexión o consulta
     $errorMsg = $e->getMessage();
-    error_log("Error en chatbot - " . date('Y-m-d H:i:s') . ": " . $errorMsg);
+    error_log("Error en chatbot [" . date('Y-m-d H:i:s') . "]: " . $errorMsg);
+    sendError('Disculpa, hubo un error al procesar tu mensaje. Por favor intenta de nuevo.', 500);
     
-    // Para debugging: mostramos si es en desarrollo
-    if (strpos($errorMsg, 'connect') !== false) {
-        $response = 'No se puede conectar a la base de datos. Por favor verifique que XAMPP/MySQL está ejecutándose.';
-    } else {
-        $response = 'Disculpa, hubo un error al procesar tu mensaje. Por favor intenta de nuevo.';
-    }
 } finally {
     // Cerrar conexión a la base de datos
-    if ($conn !== null && $conn instanceof mysqli) {
+    if ($conn !== null && $conn instanceof mysqli && !$conn->connect_error) {
         $conn->close();
     }
 }
@@ -428,11 +494,13 @@ if (!is_string($response)) {
     $response = "Hubo un error al procesar tu mensaje.";
 }
 
+// Asegurar codificación UTF-8
 $response = mb_convert_encoding($response, 'UTF-8', 'UTF-8');
 
 // Devolver respuesta como JSON
 ob_end_clean();
 echo json_encode([
     'response' => $response,
-    'status' => 'success'
+    'status' => 'success',
+    'timestamp' => date('Y-m-d H:i:s')
 ], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
