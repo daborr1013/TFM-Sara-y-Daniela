@@ -620,168 +620,45 @@ function isContextQuery(string $normalizedMessage): bool
         ]);
 }
 
-function hasJaneAndRochesterNames(string $normalizedMessage): bool
-{
-    return hasPhrase($normalizedMessage, 'jane') && hasPhrase($normalizedMessage, 'rochester');
-}
 
-function isJaneRochesterEndingQuery(string $normalizedMessage): bool
-{
-    return hasJaneAndRochesterNames($normalizedMessage)
-        && hasAnyPhrase($normalizedMessage, [
-            'terminan juntos',
-            'acaban juntos',
-            'final de jane y rochester',
-            'final de rochester y jane',
-            'como termina la relacion',
-            'por que jane y rochester terminan juntos',
-            'por que rochester y jane terminan juntos',
-        ]);
-}
-
-function isJaneRochesterPairOverviewQuery(string $normalizedMessage): bool
-{
-    if (!hasJaneAndRochesterNames($normalizedMessage)) {
-        return false;
-    }
-
-    if (hasAnyPhrase($normalizedMessage, [
-        'quienes son',
-        'quien es',
-        'explica',
-        'explicame',
-        'habla de',
-        'que pasa entre',
-        'como son',
-        'juntos',
-    ])) {
-        return true;
-    }
-
-    $remaining = preg_replace('/\b(?:jane|eyre|rochester|edward|mr|senor|y|e)\b/u', ' ', $normalizedMessage);
-    $remaining = trim(preg_replace('/\s+/', ' ', $remaining));
-
-    return $remaining === '';
-}
-
-function isRelationshipQuery(string $normalizedMessage): bool
-{
-    if (!hasJaneAndRochesterNames($normalizedMessage)) {
-        return false;
-    }
-
-    if (isJaneRochesterEndingQuery($normalizedMessage) || isJaneRochesterPairOverviewQuery($normalizedMessage)) {
-        return true;
-    }
-
-    return hasAnyPhrase($normalizedMessage, [
-        'relacion',
-        'relacion entre',
-        'pareja',
-        'romance',
-        'matrimonio',
-        'amor',
-        'entre',
-        'juntos',
-        'terminan',
-        'acaban',
-        'final',
-        'como es',
-        'que pasa',
-    ]);
-}
-
-function isLeavingThornfieldQuery(string $normalizedMessage): bool
-{
-    return hasAnyPhrase($normalizedMessage, [
-        'se va de thornfield',
-        'huye de thornfield',
-        'abandona thornfield',
-        'deja thornfield',
-    ]);
-}
-
-function isStJohnRejectionQuery(string $normalizedMessage): bool
-{
-    return hasAnyPhrase($normalizedMessage, [
-        'rechaza a st john',
-        'rechaza a john rivers',
-        'rechaza a st john rivers',
-        'no se casa con st john',
-        'no acepta a st john',
-    ]);
-}
 
 function getCharacterFollowUps(string $characterName): array
 {
-    $map = [
-        'Jane Eyre' => [
-            'como evoluciona Jane a lo largo de la novela',
-            'que simboliza Jane dentro de la obra',
-            'como cambia su relacion con Rochester',
-        ],
-        'Edward Rochester' => [
-            'que papel cumple Rochester en Thornfield',
-            'como evoluciona su relacion con Jane',
-            'que significa el incendio final para Rochester',
-        ],
-        'Helen Burns' => [
-            'por que Helen marca tanto a Jane',
-            'que significa Resurgam en su historia',
-            'como representa la religion en la novela',
-        ],
-        'John Rivers' => [
-            'por que St. John es tan importante para Jane',
-            'como se opone a Rochester',
-            'que representa su idea del deber',
-        ],
-        'Señora Fairfax' => [
-            'que funcion cumple en Thornfield',
-            'como advierte a Jane sobre Rochester',
-            'que diferencia a la señora Fairfax de la señora Reed',
-        ],
-    ];
-
-    return $map[$characterName] ?? [
-        'como influye este personaje en Jane',
-        'en que parte de la novela destaca mas',
-        'que relacion tiene con los temas principales',
+    return [
+        'pregunta sobre otro personaje',
+        'busca otro tema',
     ];
 }
 
 function getThemeFollowUps(): array
 {
     return [
-        'que personajes encarnan mejor este tema',
-        'en que capitulos se ve con mas claridad',
-        'como cambia este tema el destino de Jane',
+        'pregunta sobre otro tema',
+        'busca información de otro tipo',
     ];
 }
 
 function getSymbolFollowUps(): array
 {
     return [
-        'en que escenas aparece este simbolo',
-        'como se relaciona con Jane',
-        'que otro simbolo se conecta con este',
+        'pregunta sobre otro síbolo',
+        'busca otro tema',
     ];
 }
 
 function getContextFollowUps(): array
 {
     return [
-        'como influye este contexto en la historia',
-        'que rasgos goticos aparecen en Jane Eyre',
-        'que relacion tiene con Charlotte Bronte',
+        'pregunta sobre otro aspecto histórico',
+        'busca otra información',
     ];
 }
 
 function getChapterFollowUps(int $chapter): array
 {
     return [
-        'cual es la idea clave del capitulo ' . $chapter,
-        'que personajes destacan en el capitulo ' . $chapter,
-        'como conecta este capitulo con el siguiente tramo de la historia',
+        'pregunta sobre otro capítulo',
+        'busca información sobre personajes',
     ];
 }
 
@@ -797,10 +674,10 @@ function getCharacterList(mysqli $conn): string
     }
 
     if (empty($characters)) {
-        return '👤 Puedo hablarte de varios personajes de Jane Eyre. Prueba con Jane, Rochester, Helen Burns o Bertha Mason.';
+        return '👤 No tengo información de personajes disponible en este momento.';
     }
 
-    return "👤 Puedo ayudarte con estos personajes:\n\n- " . implode("\n- ", $characters) . "\n\nDime sobre cuál quieres saber más.";
+    return "👤 Tengo información sobre estos personajes:\n\n- " . implode("\n- ", $characters) . "\n\nPregunta por el que te interese.";
 }
 
 function getCharacterResponse(string $normalizedMessage, mysqli $conn): string
@@ -837,7 +714,7 @@ function getCharacterResponse(string $normalizedMessage, mysqli $conn): string
         }
     }
 
-    return '👤 No he podido localizar ese personaje en la base de datos. Si quieres, prueba con otro nombre o pregúntame por los personajes principales.';
+    return '👤 No he podido localizar ese personaje en la base de datos. Intenta con otro nombre.';
 }
 
 function getThemeList(mysqli $conn): string
@@ -852,10 +729,10 @@ function getThemeList(mysqli $conn): string
     }
 
     if (empty($themes)) {
-        return '📚 Puedo ayudarte con temas como amor y moralidad, justicia, religión o independencia.';
+        return '📚 No tengo información de temas disponible en este momento.';
     }
 
-    return "📚 Estos son algunos de los temas que tengo registrados:\n\n- " . implode("\n- ", $themes) . "\n\nPregunta por el que más te interese.";
+    return "📚 Tengo información sobre estos temas:\n\n- " . implode("\n- ", $themes) . "\n\nPregunta por el que te interese.";
 }
 
 function getThemeResponse(string $normalizedMessage, mysqli $conn): string
@@ -895,10 +772,10 @@ function getSymbolList(mysqli $conn): string
     }
 
     if (empty($symbols)) {
-        return '🎭 Puedo explicarte símbolos como el cuarto rojo, el fuego y el hielo, las casas o la naturaleza.';
+        return '🎭 No tengo información de símbolos disponible en este momento.';
     }
 
-    return "🎭 Puedo ayudarte con estos símbolos:\n\n- " . implode("\n- ", $symbols) . "\n\nPrueba con preguntas como \"qué simboliza el cuarto rojo\".";
+    return "🎭 Tengo información sobre estos símbolos:\n\n- " . implode("\n- ", $symbols) . "\n\nPregunta por el que te interese.";
 }
 
 function getSymbolResponse(string $normalizedMessage, mysqli $conn): string
@@ -938,10 +815,10 @@ function getContextList(mysqli $conn): string
     }
 
     if (empty($sections)) {
-        return '🏛️ Puedo darte contexto sobre la época victoriana, el romanticismo y el componente gótico de la obra.';
+        return '🏛️ No tengo información de contexto histórico disponible en este momento.';
     }
 
-    return "🏛️ Jane Eyre dialoga con la epoca victoriana, el romanticismo y la tradicion gotica. Si quieres profundizar, puedo moverme por estas secciones:\n\n- " . implode("\n- ", $sections) . "\n\nDime una concreta y la desarrollamos.";
+    return "🏛️ Tengo información sobre estas secciones de contexto:\n\n- " . implode("\n- ", $sections) . "\n\nPregunta por la que te interese.";
 }
 
 function getContextResponse(string $normalizedMessage, mysqli $conn): string
@@ -982,11 +859,11 @@ function getChapterResponse(string $normalizedMessage, mysqli $conn): string
     $chapter = extractChapterNumber($normalizedMessage);
 
     if ($chapter === null) {
-        return '📖 Puedo darte el resumen de cualquier capítulo del 1 al 38. Prueba con algo como: "resumen capítulo 3".';
+        return '📖 Cuéntame el número o nombre del capítulo del que quieres el resumen.';
     }
 
     if ($chapter < 1 || $chapter > 38) {
-        return '📖 Jane Eyre tiene 38 capítulos. Dime un número entre el 1 y el 38 y te doy el resumen.';
+        return '📖 Jane Eyre tiene 38 capítulos. Solicita un número entre el 1 y el 38.';
     }
 
     $row = fetchSingleRow(
@@ -1034,97 +911,7 @@ function getChapterResponse(string $normalizedMessage, mysqli $conn): string
     );
 }
 
-function getRelationshipResponse(mysqli $conn): string
-{
-    $row = fetchSingleRow(
-        $conn,
-        "SELECT contenido FROM themes WHERE work_id = 1 AND tema_id = '#amorMoralidad' LIMIT 1"
-    );
 
-    $extra = $row ? cleanDatabaseText($row['contenido'], 650) : '';
-    $intro = "💞 La relación entre Jane y Rochester es el eje emocional de la novela. Empieza como una conexión intelectual y afectiva, se rompe cuando Jane descubre que Rochester sigue casado con Bertha Mason y solo puede reconstruirse cuando ambos regresan a una relación más honesta y más igualitaria.";
-
-    return appendFollowUpSuggestions(
-        $extra !== '' ? $intro . "\n\n" . $extra : $intro,
-        [
-            'por que Jane huye de Thornfield',
-            'que papel juega Bertha Mason en esta relacion',
-            'por que al final su union es mas igualitaria',
-        ]
-    );
-}
-
-function getJaneRochesterResponse(string $normalizedMessage, mysqli $conn): string
-{
-    if (isJaneRochesterEndingQuery($normalizedMessage)) {
-        return appendFollowUpSuggestions(
-            "💞 Jane y Rochester terminan juntos porque al final desaparece el obstáculo legal y moral que impedía su unión: Bertha ha muerto y Rochester ha pasado por una experiencia de pérdida y transformación. Jane, además, vuelve por decisión propia y con independencia económica, así que la relación final ya no nace de la dependencia, sino de una elección libre y más igualitaria.",
-            [
-                'por que Jane huye de Thornfield',
-                'que cambia en Rochester al final',
-                'por que Jane vuelve por voluntad propia',
-            ]
-        );
-    }
-
-    if (isJaneRochesterPairOverviewQuery($normalizedMessage)) {
-        return appendFollowUpSuggestions(
-            "💞 Jane y Rochester son la pareja central de Jane Eyre. Jane representa la conciencia moral, la independencia y la necesidad de dignidad; Rochester concentra la pasión, el secreto y el deseo de redención. Su vínculo mueve gran parte de la novela porque entre ellos hay amor real, pero también un conflicto profundo entre deseo, verdad y principios.",
-            [
-                'como evoluciona su relacion',
-                'que obstaculos separan a Jane y Rochester',
-                'por que al final su union es mas igualitaria',
-            ]
-        );
-    }
-
-    $response = "💞 La relación entre Jane y Rochester es el eje emocional de la novela. Comienza como una conexión intelectual y afectiva, se rompe cuando Jane descubre que Rochester oculta su matrimonio con Bertha Mason y solo puede reconstruirse cuando ambos se reencuentran desde una posición más honesta y equilibrada. La novela no presenta su amor como una pasión ciega, sino como una relación que debe volverse compatible con la libertad moral de Jane.";
-
-    return appendFollowUpSuggestions(
-        $response,
-        [
-            'por que Jane huye de Thornfield',
-            'que papel juega Bertha Mason en esta relacion',
-            'por que al final su union es mas igualitaria',
-        ]
-    );
-}
-
-function getLeavingThornfieldResponse(): string
-{
-    return appendFollowUpSuggestions(
-        "🏃 Jane se marcha de Thornfield cuando descubre que Rochester sigue casado con Bertha Mason. Aunque lo ama, no acepta convertirse en su pareja al margen de sus principios. Esa huida es decisiva porque Jane prefiere perder su comodidad y su amor antes que traicionarse a sí misma.",
-        [
-            'que ocurre con Jane despues de huir',
-            'por que Bertha cambia por completo la historia',
-            'como evoluciona Jane en Moor House',
-        ]
-    );
-}
-
-function getResurgamResponse(): string
-{
-    return appendFollowUpSuggestions(
-        "✝️ \"Resurgam\" significa \"resurgir\". Aparece en la tumba de Helen Burns y resume su fe en la resurrección. Para Jane, esa palabra también marca la huella espiritual y moral que Helen deja en su vida.",
-        [
-            'quien es Helen Burns',
-            'por que su muerte marca tanto a Jane',
-            'que simbolos religiosos aparecen en la novela',
-        ]
-    );
-}
-
-function getStJohnRejectionResponse(): string
-{
-    return appendFollowUpSuggestions(
-        "🧭 Jane rechaza a St. John porque ve que su propuesta no nace del amor, sino del deber. Él la respeta por su fortaleza y por su utilidad como posible esposa de misionero, pero Jane entiende que aceptar ese matrimonio seria traicionarse a si misma. Frente a Rochester, que representa una pasion peligrosa, St. John representa el extremo contrario: una vida correcta pero sin calor humano.",
-        [
-            'como se opone St. John a Rochester',
-            'que representa St. John dentro de la novela',
-            'por que Jane necesita elegir con libertad',
-        ]
-    );
-}
 
 function buildSearchTerms(string $normalizedMessage): array
 {
@@ -1367,30 +1154,24 @@ function searchKnowledgeBase(string $normalizedMessage, mysqli $conn): ?string
         return appendFollowUpSuggestions(
             $matches[0],
             [
-                'puedes pedirmelo con mas detalle',
-                'tambien puedo buscarlo por capitulo, personaje o simbolo',
+                'pregunta por algo relacionado',
+                'busca otro tema',
             ]
         );
     }
 
     return appendFollowUpSuggestions(
-        "He encontrado estas dos pistas utiles:\n\nPista 1:\n" . $matches[0] . "\n\nPista 2:\n" . $matches[1],
+        "He encontrado dos resultados relacionados:\n\nResultado 1:\n" . $matches[0] . "\n\nResultado 2:\n" . $matches[1],
         [
-            'si quieres, te lo resumo con palabras mas sencillas',
-            'tambien puedo centrarme solo en un personaje, tema o capitulo',
+            'pregunta algo más específ ico',
+            'intenta otra búsqueda',
         ]
     );
 }
 
 function getFallbackResponse(): string
 {
-    return "No he entendido del todo la consulta, pero si puedo ayudarte con esto:\n\n"
-        . "- Resúmenes por capítulo\n"
-        . "- Personajes como Jane, Rochester o Helen Burns\n"
-        . "- Temas como justicia, independencia o amor y moralidad\n"
-        . "- Símbolos como el cuarto rojo, el fuego o las casas\n"
-        . "- Contexto histórico de la novela\n\n"
-        . "Prueba, por ejemplo, con preguntas como \"resume el capitulo 9\", \"que simboliza el cuarto rojo\" o \"quien es Helen Burns\".";
+    return "No he encontrado nada al respecto en mi base de datos. Intenta una pregunta más específica sobre Jane Eyre.";
 }
 
 function getBotResponse(string $message, mysqli $conn): string
@@ -1398,11 +1179,11 @@ function getBotResponse(string $message, mysqli $conn): string
     $normalizedMessage = normalizeText($message);
 
     if ($normalizedMessage === '') {
-        return 'Escribe tu pregunta y te ayudo con Jane Eyre.';
+        return 'Escribe tu pregunta sobre Jane Eyre.';
     }
 
     if (isGreetingMessage($normalizedMessage)) {
-        return '¡Hola! Soy Litto, tu asistente sobre Jane Eyre. Puedo ayudarte con personajes, capítulos, símbolos, temas y contexto histórico.';
+        return '¡Hola! Soy Litto. Busco información sobre Jane Eyre en mi base de datos. ¿Qué quieres saber?';
     }
 
     if (isAuthorQuery($normalizedMessage)) {
@@ -1411,22 +1192,6 @@ function getBotResponse(string $message, mysqli $conn): string
 
     if (isChapterQuery($normalizedMessage)) {
         return getChapterResponse($normalizedMessage, $conn);
-    }
-
-    if (isLeavingThornfieldQuery($normalizedMessage)) {
-        return getLeavingThornfieldResponse();
-    }
-
-    if (isStJohnRejectionQuery($normalizedMessage)) {
-        return getStJohnRejectionResponse();
-    }
-
-    if (hasPhrase($normalizedMessage, 'resurgam')) {
-        return getResurgamResponse();
-    }
-
-    if (isRelationshipQuery($normalizedMessage)) {
-        return getJaneRochesterResponse($normalizedMessage, $conn);
     }
 
     if (isSymbolQuery($normalizedMessage)) {
