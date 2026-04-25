@@ -93,15 +93,26 @@ function mostrarScriptProgreso() {
             return;
         }
         
+        // Determinar la ruta correcta de save-progress.php
+        // Funciona desde cualquier profundidad de directorios
+        const basePath = window.location.pathname.includes('/TFM-Sara-y-Daniela/')
+            ? '/TFM-Sara-y-Daniela/save-progress.php'
+            : '../save-progress.php';
+        
         // Enviar datos al servidor
-        fetch('../../save-progress.php', {
+        fetch(basePath, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/x-www-form-urlencoded',
             },
             body: 'activity_id=' + activityId + '&puntuacion=' + puntuacion + '&completado=1'
         })
-        .then(response => response.json())
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Error HTTP ' + response.status + ': ' + response.statusText);
+            }
+            return response.json();
+        })
         .then(data => {
             if (data.success) {
                 // Mostrar mensaje de éxito
@@ -109,16 +120,19 @@ function mostrarScriptProgreso() {
                 
                 // Actualizar el botón
                 const btn = event.target;
-                btn.disabled = true;
-                btn.style.backgroundColor = '#ccc';
-                btn.textContent = '✓ Completada';
+                if (btn) {
+                    btn.disabled = true;
+                    btn.style.backgroundColor = '#ccc';
+                    btn.textContent = '✓ Completada';
+                }
             } else {
                 alert('Error: ' + (data.error || 'No se pudo guardar el progreso'));
             }
         })
         .catch(error => {
-            console.error('Error:', error);
-            alert('Error al guardar. Por favor, intenta de nuevo.');
+            console.error('Error en guardarProgreso:', error);
+            console.error('URL intentada:', basePath);
+            alert('Error al guardar: ' + error.message + '\\nPor favor, verifica tu conexión e intenta de nuevo.');
         });
     }
     </script>

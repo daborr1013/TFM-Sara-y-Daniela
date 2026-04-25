@@ -71,7 +71,12 @@ En tu página HTML/PHP:
 ```html
 <script>
 function guardarProgresoDatos(activityId, puntuacion = 0, completado = 1) {
-    fetch('../save-progress.php', {
+    // Determinar la ruta correcta (funciona desde cualquier profundidad)
+    const basePath = window.location.pathname.includes('/TFM-Sara-y-Daniela/')
+        ? '/TFM-Sara-y-Daniela/save-progress.php'
+        : '../save-progress.php';
+    
+    fetch(basePath, {
         method: 'POST',
         headers: {
             'Content-Type': 'application/x-www-form-urlencoded',
@@ -88,6 +93,10 @@ function guardarProgresoDatos(activityId, puntuacion = 0, completado = 1) {
         } else {
             console.error('Error:', data.error);
         }
+    })
+    .catch(error => {
+        console.error('Error:', error);
+        alert('Error al guardar. Por favor, intenta de nuevo.');
     });
 }
 

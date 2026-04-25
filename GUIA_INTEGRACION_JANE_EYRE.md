@@ -159,7 +159,12 @@ Si quieres escribir el JavaScript directamente:
 
 <script>
 function guardarProgreso(activityId, puntuacion) {
-    fetch('../../save-progress.php', {
+    // Determinar la ruta correcta (funciona desde cualquier profundidad)
+    const basePath = window.location.pathname.includes('/TFM-Sara-y-Daniela/')
+        ? '/TFM-Sara-y-Daniela/save-progress.php'
+        : '../save-progress.php';
+    
+    fetch(basePath, {
         method: 'POST',
         headers: {
             'Content-Type': 'application/x-www-form-urlencoded'
@@ -173,10 +178,16 @@ function guardarProgreso(activityId, puntuacion) {
         if (data.success) {
             alert('✓ Progreso guardado: ' + puntuacion + ' puntos');
         }
+    })
+    .catch(error => {
+        console.error('Error:', error);
+        alert('Error al guardar. Por favor, intenta de nuevo.');
     });
 }
 </script>
 ```
+
+**⚠️ Nota Importante**: Usa siempre la resolución de ruta dinámica arriba mostrada en lugar de `../../save-progress.php` hardcodeada, ya que los archivos pueden estar a diferentes profundidades de directorios.
 
 ---
 
