@@ -70,7 +70,6 @@ session_start();
 
         <!-- Botón accesible con aria-label descriptivo -->
         <a href="content/works/eyre.php" class="boton" role="button" aria-label="Acceder a la lectura interactiva de Jane Eyre">Accede a Jane Eyre</a>
-        <a href="memory/index.php" class="boton" role="button" aria-label="Acceder al juego de memoria">Prueba del memory luego lo quito cuando esté bien</a>
     </main>
 
     <footer>

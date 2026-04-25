@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -150,7 +150,7 @@
                     </tr>
                 </table>
 
-                <img class="relaciones" src="../../../media/images/relaciones.png" alt="Relaciones de personajes">
+                <iframe class="relaciones" src="../../../mapa_personajes.php" style="width: 100%; height: 850px; border: none; display: block; margin: 40px auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" title="Mapa de Relaciones" scrolling="no"></iframe>
             </section>
         </div>
     </main>

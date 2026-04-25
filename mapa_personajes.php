@@ -41,6 +41,27 @@ $nodes = [
   "mary" => ["label" => "Mary Rivers", "x" => 990, "y" => 80, "db_id" => 13],
 ];
 
+$charImages = [
+  2 => 'eliza.png',
+  3 => 'georgina.png',
+  4 => 'jane.png',
+  5 => 'johnReed.png',
+  6 => 'lloyd.png',
+  7 => 'senoraReed.png',
+  8 => 'brocklehurst.png',
+  9 => 'helen.png',
+  10 => 'temple.png',
+  11 => 'diana.png',
+  12 => 'johnRivers.png',
+  13 => 'mary.png',
+  14 => 'adele.png',
+  15 => 'bertha.png',
+  16 => 'rochester.png',
+  17 => 'fairfaix.png',
+  18 => 'gracePoole.png',
+  19 => 'ingram.png'
+];
+
 $relations = [
   // Jane - Gateshead area
   ["from" => "jane", "to" => "reed_sra", "type" => "odio"],
@@ -90,23 +111,35 @@ $relations = [
   <svg id="lines"></svg>
   
   <!-- Place labels -->
-  <div class="place-label" style="left: 70px; top: 30px;\">Gateshead</div>
-  <div class="place-label" style="left: 120px; top: 530px;\">Lowood</div>
-  <div class="place-label" style="left: 850px; top: 40px;\">Moor House</div>
-  <div class="place-label" style="left: 900px; top: 160px;\">Thornfield</div>
+  <div class="place-label" style="left: <?= (70/1200)*100 ?>%; top: <?= (30/700)*100 ?>%;">Gateshead</div>
+  <div class="place-label" style="left: <?= (120/1200)*100 ?>%; top: <?= (530/700)*100 ?>%;">Lowood</div>
+  <div class="place-label" style="left: <?= (850/1200)*100 ?>%; top: <?= (40/700)*100 ?>%;">Moor House</div>
+  <div class="place-label" style="left: <?= (900/1200)*100 ?>%; top: <?= (160/700)*100 ?>%;">Thornfield</div>
 
   <?php foreach ($nodes as $id => $n): ?>
+    <?php 
+      $imgSrc = '';
+      if(isset($n['db_id']) && isset($charImages[$n['db_id']])) {
+          $imgSrc = 'media/images/' . $charImages[$n['db_id']];
+      } else if (file_exists('media/images/' . $id . '.png')) {
+          $imgSrc = 'media/images/' . $id . '.png';
+      }
+    ?>
     <div
       class="node <?= $n['main'] ?? false ? 'main' : '' ?>"
       id="<?= $id ?>"
-      style="left: <?= $n['x'] ?>px; top: <?= $n['y'] ?>px;"
+      style="left: <?= ($n['x'] / 1200) * 100 ?>%; top: <?= ($n['y'] / 700) * 100 ?>%;"
       <?php if(isset($n['db_id']) && isset($characters[$n['db_id']])): ?>
         onclick="showCharacter(<?= $n['db_id'] ?>)"
         title="Haz clic para más información"
-        style="cursor: pointer; left: <?= $n['x'] ?>px; top: <?= $n['y'] ?>px;"
       <?php endif; ?>
       >
-      <?= $n['label'] ?>
+      <?php if ($imgSrc): ?>
+        <div class="node-image" style="background-image: url('<?= $imgSrc ?>');"></div>
+      <?php else: ?>
+        <div class="node-image placeholder"></div>
+      <?php endif; ?>
+      <span class="node-label"><?= $n['label'] ?></span>
     </div>
   <?php endforeach; ?>
 </div>

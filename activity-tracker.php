@@ -30,16 +30,19 @@ function mostrarBotonProgreso($activity_id, $puntuacion = 0, $nombre_actividad =
             class='btn-guardar-progreso' 
             onclick='guardarProgreso($activity_id, $puntuacion, \"$nombre_actividad\")'
             style='
-                background-color: #4CAF50;
+                background-color: #6A4C93;
                 color: white;
                 padding: 12px 24px;
                 border: none;
-                border-radius: 5px;
+                border-radius: 8px;
                 font-size: 16px;
                 font-weight: 600;
                 cursor: pointer;
-                transition: background-color 0.3s;
+                transition: all 0.3s ease;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
             '
+            onmouseover='this.style.backgroundColor=\"#593c7d\"; this.style.transform=\"translateY(-2px)\";'
+            onmouseout='this.style.backgroundColor=\"#6A4C93\"; this.style.transform=\"translateY(0)\";'
         >
             ✓ Marcar como Completada
         </button>
@@ -54,9 +57,9 @@ function mostrarWidgetProgreso() {
     
     if (!USER_LOGGED_IN) {
         echo "
-        <div style='background: #f5f5f5; padding: 15px; border-radius: 5px; text-align: center; color: #666;'>
-            <p>Inicia sesión para rastrear tu progreso</p>
-            <a href='../../login.php' style='color: #4CAF50; text-decoration: none; font-weight: bold;'>Iniciar sesión</a>
+        <div style='background: #f8f3eb; padding: 15px; border-radius: 8px; text-align: center; color: #555; border: 1px solid #e1d5c9; margin-bottom: 20px;'>
+            <p style='margin:0 0 10px 0;'>Inicia sesión para rastrear tu progreso en esta actividad</p>
+            <a href='/TFM-Sara-y-Daniela/login.php' style='display:inline-block; background-color:#6A4C93; color: white; padding: 8px 16px; border-radius:5px; text-decoration: none; font-weight: bold; transition: background 0.3s;'>Iniciar sesión</a>
         </div>
         ";
         return;
@@ -64,16 +67,16 @@ function mostrarWidgetProgreso() {
     
     echo "
     <div style='
-        background: linear-gradient(135deg, #4CAF50, #45a049);
+        background: linear-gradient(135deg, #6A4C93, #8b6bba);
         color: white;
         padding: 15px;
         border-radius: 8px;
         text-align: center;
+        box-shadow: 0 4px 10px rgba(106, 76, 147, 0.2);
+        margin-bottom: 20px;
     '>
-        <p style='font-size: 14px; opacity: 0.9; margin: 0;'>Tu progreso se guarda automáticamente</p>
-        <p style='font-size: 12px; opacity: 0.8; margin-top: 5px;'>
-            <a href='../../content/pUsuario.php' style='color: white; text-decoration: underline;'>Ver mi progreso</a>
-        </p>
+        <p style='font-size: 15px; font-weight: bold; margin: 0;'>🎮 Tu progreso se guarda automáticamente</p>
+        <a href='/TFM-Sara-y-Daniela/content/pUsuario.php' style='display: inline-block; margin-top: 10px; padding: 5px 15px; background: rgba(255,255,255,0.2); border-radius: 20px; color: white; text-decoration: none; font-size: 13px; font-weight: 500; transition: background 0.3s;' onmouseover='this.style.background=\"rgba(255,255,255,0.3)\"' onmouseout='this.style.background=\"rgba(255,255,255,0.2)\"'>Ver mi perfil</a>
     </div>
     ";
 }

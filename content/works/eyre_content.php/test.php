@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+<?php
+session_start();
+require '../../../activity-tracker.php';
+?>
+<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -91,9 +95,15 @@
                 </nav>
             </div>
 
-            <section class="exel">
+            <section class="exel" style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+                <div style="width: 100%; max-width: 800px;">
+                    <?php mostrarWidgetProgreso(); ?>
+                </div>
                 <iframe src="../../../content/actividades_eyre/tests/index.html" width="100%" height="700"
                     style="border:none;"></iframe>
+                <div style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
+                    <?php mostrarBotonProgreso(1, 100, "Test - Jane Eyre"); ?>
+                </div>
             </section>
         </div>
     </main>
@@ -102,6 +112,7 @@
         <p>TFM - Letras Digitales - UCM</p>
     </footer>
 
+    <?php mostrarScriptProgreso(); ?>
 </body>
 
 </html>

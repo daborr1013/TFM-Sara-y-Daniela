@@ -37,24 +37,37 @@ function drawLines() {
     const x2 = toRect.left - mapaRect.left + toRect.width / 2;
     const y2 = toRect.top - mapaRect.top + toRect.height / 2;
     
-    const line = document.createElementNS("http://www.w3.org/2000/svg", "line");
-    line.setAttribute("x1", x1);
-    line.setAttribute("y1", y1);
-    line.setAttribute("x2", x2);
-    line.setAttribute("y2", y2);
-    line.setAttribute("stroke", colors[r.type] || "#999");
-    line.setAttribute("stroke-width", "2");
-    line.setAttribute("opacity", "0.7");
-    line.style.transition = "opacity 0.2s ease, stroke-width 0.2s ease";
+    const dx = x2 - x1;
+    const dy = y2 - y1;
+    
+    // Add a slight curve by offsetting the control point perpendicularly
+    const cx = (x1 + x2) / 2 - dy * 0.15;
+    const cy = (y1 + y2) / 2 + dx * 0.15;
+    
+    const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    const d = `M ${x1} ${y1} Q ${cx} ${cy} ${x2} ${y2}`;
+    path.setAttribute("d", d);
+    path.setAttribute("stroke", colors[r.type] || "#999");
+    path.setAttribute("fill", "none");
+    path.setAttribute("stroke-width", "3");
+    path.setAttribute("opacity", "0.6");
+    path.style.transition = "opacity 0.3s ease, stroke-width 0.3s ease";
+    
+    // Custom dash arrays for different relations
+    if (r.type === 'odio') {
+      path.setAttribute("stroke-dasharray", "6,6");
+    } else if (r.type === 'relations') {
+      path.setAttribute("stroke-dasharray", "2,4");
+    }
     
     // Store line data for hover effects
     allLines.push({
-      element: line,
+      element: path,
       from: r.from,
       to: r.to
     });
     
-    svg.appendChild(line);
+    svg.appendChild(path);
   });
   
   // Add hover listeners to all nodes
@@ -70,10 +83,10 @@ function highlightNode(nodeId) {
     if (lineData.from === nodeId || lineData.to === nodeId) {
       // This line is connected to the hovered node
       lineData.element.setAttribute("opacity", "1");
-      lineData.element.setAttribute("stroke-width", "3");
+      lineData.element.setAttribute("stroke-width", "5");
     } else {
       // This line is not connected
-      lineData.element.setAttribute("opacity", "0.15");
+      lineData.element.setAttribute("opacity", "0.1");
       lineData.element.setAttribute("stroke-width", "2");
     }
   });
@@ -82,8 +95,8 @@ function highlightNode(nodeId) {
 // Reset all lines to default state
 function resetHighlight() {
   allLines.forEach(lineData => {
-    lineData.element.setAttribute("opacity", "0.7");
-    lineData.element.setAttribute("stroke-width", "2");
+    lineData.element.setAttribute("opacity", "0.6");
+    lineData.element.setAttribute("stroke-width", "3");
   });
 }
 

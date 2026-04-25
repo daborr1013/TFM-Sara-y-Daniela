@@ -143,6 +143,11 @@ function getFallbackActivityMetadata($conn, $activityId)
             'nivel' => 'Capitulos 11+',
             'descripcion' => 'Test sobre los capitulos posteriores al 10',
         ],
+        6 => [
+            'tipo' => 'Juegos',
+            'nivel' => 'General',
+            'descripcion' => 'Juego de Memoria de Personajes',
+        ],
     ];
 
     $metadata = $catalog[$activityId] ?? [

@@ -1,16 +1,14 @@
-﻿<!DOCTYPE html>
+<?php
+session_start();
+require '../../../activity-tracker.php';
+?>
+<!DOCTYPE html>
 <html lang="es">
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Litterally-Eyre-Mapa</title>
+    <title>Litterally-Eyre-Juegos Interactivos</title>
     <link rel="stylesheet" href="../../../css/css_eyre.css">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
-    <link rel="stylesheet" type="text/css" href="../../../css/css_mapa.css">
     <link rel="icon" href="../../../media/images/iconoPestanaClara.png">
 </head>
 
@@ -42,7 +40,7 @@
 
     <main id="main">
         <section class="hero">
-            <h1>Mapa</h1>
+            <h1>Juegos Interactivos</h1>
         </section>
 
         <div class="layout">
@@ -94,10 +92,15 @@
                 </nav>
             </div>
 
-            <section class="pjustificado">
-                <button id="resetBtn" class="reset-button" title="Reset map to original view"
-                    aria-label="Reiniciar vista del mapa"><span aria-hidden="true">↻</span></button>
-                <div id="map"></div>
+            <section class="exel" style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+                <div style="width: 100%; max-width: 800px;">
+                    <?php mostrarWidgetProgreso(); ?>
+                </div>
+                <iframe src="../../../content/actividades_eyre/juegos/index.html" width="100%" height="700"
+                    style="border:none;"></iframe>
+                <div style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
+                    <?php mostrarBotonProgreso(5, 100, "Juegos Interactivos"); ?>
+                </div>
             </section>
         </div>
     </main>
@@ -106,11 +109,7 @@
         <p>TFM - Letras Digitales - UCM</p>
     </footer>
 
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
-    <script src="../../../js/mapa.js"></script>
-
+    <?php mostrarScriptProgreso(); ?>
 </body>
 
 </html>

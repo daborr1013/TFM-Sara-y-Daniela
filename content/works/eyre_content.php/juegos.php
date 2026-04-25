@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -88,9 +88,68 @@
                 </nav>
             </div>
 
-            <section class="exel">
-                <iframe src="../../../content/actividades_eyre/juegos/index.html" width="100%" height="700"
-                    style="border:none;"></iframe>
+            <section class="game-hub">
+                <style>
+                    .hub-container {
+                        display: flex;
+                        gap: 30px;
+                        justify-content: center;
+                        margin-top: 40px;
+                        flex-wrap: wrap;
+                    }
+                    .game-card {
+                        background: #f8f3eb;
+                        border-radius: 12px;
+                        padding: 40px 30px;
+                        text-align: center;
+                        width: 320px;
+                        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+                        transition: transform 0.3s ease, box-shadow 0.3s ease;
+                        cursor: pointer;
+                        text-decoration: none;
+                        color: inherit;
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        border: 2px solid transparent;
+                    }
+                    .game-card:hover, .game-card:focus {
+                        transform: translateY(-5px);
+                        box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+                        border-color: #6A4C93;
+                        outline: none;
+                    }
+                    .game-card img {
+                        width: 100px;
+                        height: 100px;
+                        margin-bottom: 20px;
+                        object-fit: cover;
+                        border-radius: 50%;
+                        box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+                    }
+                    .game-card h2 {
+                        color: #6A4C93;
+                        font-size: 1.5em;
+                        margin-bottom: 15px;
+                    }
+                    .game-card p {
+                        color: #555;
+                        font-size: 1.1em;
+                        line-height: 1.5;
+                    }
+                </style>
+                <div class="hub-container">
+                    <a href="juegos_interactivos.php" class="game-card">
+                        <img src="../../../media/images/actividades.png" alt="Icono de Juegos Interactivos">
+                        <h2>Juegos Interactivos</h2>
+                        <p>Actividades y ejercicios variados sobre la obra.</p>
+                    </a>
+                    <a href="juego_memoria.php" class="game-card">
+                        <img src="../../../media/images/jane.png" alt="Icono de Memoria">
+                        <h2>Juego de Memoria</h2>
+                        <p>Encuentra las parejas de los personajes principales.</p>
+                    </a>
+                </div>
             </section>
         </div>
     </main>

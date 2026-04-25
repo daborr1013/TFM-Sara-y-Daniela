@@ -7,9 +7,11 @@ require '../../../activity-tracker.php';
 
 <head>
     <meta charset="UTF-8">
-    <title>Litterally-Eyre-Flashcards</title>
+    <title>Litterally-Eyre-Juego de Memoria</title>
     <link rel="stylesheet" href="../../../css/css_eyre.css">
+    <link rel="stylesheet" href="../../../css/css_memory.css">
     <link rel="icon" href="../../../media/images/iconoPestanaClara.png">
+    <script src="../../../js/memory_game.js" defer></script>
 </head>
 
 <body>
@@ -40,7 +42,7 @@ require '../../../activity-tracker.php';
 
     <main id="main">
         <section class="hero">
-            <h1>Flashcards</h1>
+            <h1>Juego de Memoria</h1>
         </section>
 
         <div class="layout">
@@ -92,14 +94,20 @@ require '../../../activity-tracker.php';
                 </nav>
             </div>
 
-            <section class="exel" style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-                <div style="width: 100%; max-width: 800px;">
-                    <?php mostrarWidgetProgreso(); ?>
+            <section class="pjustificado" style="display: flex; flex-direction: column; align-items: center;">
+                <?php mostrarWidgetProgreso(); ?>
+                <div class="game-info" style="text-align: center; margin-bottom: 20px;">
+                    <p style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
+                        Parejas encontradas: <span id="pairs-count">0</span>/<span id="pairs-total">8</span>
+                    </p>
+                    <p id="game-status" role="status" aria-live="polite" aria-atomic="true" style="color: #6A4C93; font-style: italic; min-height: 24px; margin: 5px 0;"></p>
+                    <p class="instructions" style="margin-top: 5px;">Usa las flechas del teclado para navegar y Enter o Espacio para seleccionar cartas.</p>
                 </div>
-                <iframe src="../../../content/actividades_eyre/flashcard/index.html" width="100%" height="700"
-                    style="border:none;"></iframe>
-                <div style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
-                    <?php mostrarBotonProgreso(4, 100, "Flashcards"); ?>
+                <div class="memory-game" role="region" aria-label="Tablero de juego de memoria">
+                    
+                </div>
+                <div style="margin-top: 20px;">
+                    <button id="restart-btn" class="restart-button" aria-label="Reiniciar el juego">Reiniciar Juego</button>
                 </div>
             </section>
         </div>
