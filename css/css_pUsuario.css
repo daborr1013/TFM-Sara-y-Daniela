@@ -47,11 +47,6 @@ body {
     border-bottom: 1px solid var(--violet-300);
 }
 
-.skip-link:hover {
-    background: var(--gold);
-    color: white;
-}
-
 /* ===== HEADER Y NAV ===== */
 header {
     background: #6a4c93;
