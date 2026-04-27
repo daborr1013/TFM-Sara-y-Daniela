@@ -68,7 +68,6 @@
                                 <li><a href="../simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="../personajes.php">Personajes</a></li>
                                 <li><a href="../glosario.php">Glosario</a></li>
-                                <li><a href="../mapa.php">Mapa</a></li>
                                 <li><a href="../citas.php">Citas</a></li>
                             </ul>
                         </li>

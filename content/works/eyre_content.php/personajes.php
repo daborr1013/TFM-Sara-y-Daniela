@@ -69,7 +69,6 @@
                                 <li><a href="simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
-                                <li><a href="mapa.php">Mapa</a></li>
                                 <li><a href="citas.php">Citas</a></li>
                             </ul>
                         </li>
@@ -150,7 +149,9 @@
                     </tr>
                 </table>
 
-                <iframe class="relaciones" src="../../../mapa_personajes.php" style="width: 100%; height: 850px; border: none; display: block; margin: 40px auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" title="Mapa de Relaciones" scrolling="no"></iframe>
+                <iframe class="relaciones" src="../../../mapa_personajes.php"
+                    style="width: 100%; height: 850px; border: none; display: block; margin: 40px auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);"
+                    title="Mapa de Relaciones" scrolling="no"></iframe>
             </section>
         </div>
     </main>

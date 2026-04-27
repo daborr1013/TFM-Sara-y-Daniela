@@ -67,7 +67,6 @@
                                 <li><a href="../../simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="../../personajes.php">Personajes</a></li>
                                 <li><a href="../../glosario.php">Glosario</a></li>
-                                <li><a href="../../mapa.php">Mapa</a></li>
                                 <li><a href="../../citas.php">Citas</a></li>
                             </ul>
                         </li>
@@ -105,22 +104,24 @@
                     amoratados por el frío, el corazón entristecido por las regañinas de
                     <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
-, la niñera, y humillada por la conciencia de mi inferioridad
+                    , la niñera, y humillada por la conciencia de mi inferioridad
                     física con respecto a <span class="anotacion"
                         data-nota="Una niña egoísta, meticulosa y fría que prefiere el orden y el dinero antes que los sentimientos.">Eliza</span>
-, <span class="anotacion"
+                    , <span class="anotacion"
                         data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John</span>
- y <span class="anotacion"
-                        data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana Reed</span>
-.</p>
+                    y <span class="anotacion"
+                        data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana
+                        Reed</span>
+                    .
+                </p>
 
                 <p>Los mencionados <span class="anotacion"
                         data-nota="Una niña egoísta, meticulosa y fría que prefiere el orden y el dinero antes que los sentimientos.">Eliza</span>
-, <span class="anotacion"
+                    , <span class="anotacion"
                         data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John</span>
- y <span class="anotacion"
+                    y <span class="anotacion"
                         data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana</span>
- estaban ahora
+                    estaban ahora
                     congregados en torno a su mamá en el salón: ella yacía reclinada en
                     un sofá junto a la chimenea y, con sus queridos a su alrededor (que
                     por el momento ni reñían ni lloraban), parecía perfectamente feliz. A
@@ -129,7 +130,7 @@
                 <p>— Lamento verme en la necesidad de mantenerte a distancia; pero
                     hasta que no tenga noticias de <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- y pueda comprobar por mi
+                    y pueda comprobar por mi
                     propia observación que te estás esforzando de veras por adquirir
                     una disposición más sociable e infantil, un talante más atractivo y
                     vivaz —algo más ligero, más franco, más natural, por así decirlo—,
@@ -138,7 +139,7 @@
 
                 <p>—¿Qué dice <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- que he hecho? —pregunté.</p>
+                    que he hecho? —pregunté.</p>
 
                 <p>—<span class="anotacion"
                         data-nota="Es una niña apasionada, sensible y de espíritu indómito que, bajo el maltrato, despierta una conciencia aguda sobre la injusticia y una furia interna contra la opresión">Jane</span>
@@ -215,7 +216,7 @@
                     siempre profundamente interesante: tan interesante como los
                     cuentos que <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- narraba a veces en las tardes de invierno,
+                    narraba a veces en las tardes de invierno,
                     cuando le daba por estar de buen humor; y cuando, habiendo traído
                     su tabla de planchar al hogar del cuarto de los niños, nos permitía
                     sentarnos a su alrededor y, mientras almidonaba los volantes de
@@ -233,8 +234,9 @@
                     pronto. La puerta del comedor de diario se abrió.</p>
 
                 <p>—¡Bu! ¡Señora Mustia! —gritó la voz de <span class="anotacion"
-                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John Reed</span>
- ; luego hizo una
+                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John
+                        Reed</span>
+                    ; luego hizo una
                     pausa: encontró la habitación aparentemente vacía.</p>
 
                 <p>—¡Dónde diablos se ha metido! —continuó—. ¡Lizzy! ¡Georgy!
@@ -243,8 +245,9 @@
 
                 <p>«Menos mal que corrí la cortina», pensé; y deseé fervientemente
                     que no descubriera mi escondite. <span class="anotacion"
-                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John Reed</span>
- no lo habría encontrado
+                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John
+                        Reed</span>
+                    no lo habría encontrado
                     por sí mismo; no era rápido ni de vista ni de ingenio; pero <span class="anotacion"
                         data-nota="Una niña egoísta, meticulosa y fría que prefiere el orden y el dinero antes que los sentimientos.">Eliza</span>
 
@@ -262,8 +265,9 @@
                     gesto que debía acercarme y permanecer de pie ante él.</p>
 
                 <p><span class="anotacion"
-                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John Reed</span>
- era un escolar de catorce años; cuatro años mayor que
+                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John
+                        Reed</span>
+                    era un escolar de catorce años; cuatro años mayor que
                     yo, pues yo solo tenía diez. Era grande y corpulento para su edad,
                     con una piel de tono apagado y malsano; facciones toscas en un
                     rostro ancho, miembros pesados y extremidades grandes. Se
@@ -276,12 +280,12 @@
                     opinión tan dura y se inclinó más bien por la idea más refinada de
                     que la palidez de <span class="anotacion"
                         data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John</span>
- se debía al exceso de estudio y, quizás, a la
+                    se debía al exceso de estudio y, quizás, a la
                     nostalgia de su hogar.</p>
 
                 <p><span class="anotacion"
                         data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John</span>
- no sentía mucho afecto por su madre y sus hermanas, y sí
+                    no sentía mucho afecto por su madre y sus hermanas, y sí
                     una antipatía hacia mí. Me acosaba y castigaba, no dos o tres veces
                     por semana, ni una o dos veces al día, sino continuamente; cada
                     nervio de mi cuerpo le temía, y cada partícula de carne de mis
@@ -299,7 +303,7 @@
 
                 <p>Habitualmente obediente a <span class="anotacion"
                         data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John</span>
-, me acerqué a su silla. Pasó unos
+                    , me acerqué a su silla. Pasó unos
                     tres minutos sacándome la lengua todo lo que podía sin dañarse las
                     raíces. Supe que pronto me pegaría, y mientras temía el golpe,
                     reflexionaba sobre el aspecto repugnante y feo de quien iba a
@@ -312,8 +316,9 @@
                     y por la mirada que tenías en los ojos hace dos minutos, ¡rata!</p>
 
                 <p>Acostumbrada a los insultos de <span class="anotacion"
-                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John Reed</span>
-, nunca se me ocurrió
+                        data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John
+                        Reed</span>
+                    , nunca se me ocurrió
                     responderle; mi preocupación era cómo soportar el golpe que sin
                     duda seguiría al insulto.</p>
 
@@ -355,9 +360,10 @@
                 <p>—¡Qué! ¡Qué! —gritó—. ¿Me ha dicho eso a mí? ¿La habéis oído,
                     <span class="anotacion"
                         data-nota="Una niña egoísta, meticulosa y fría que prefiere el orden y el dinero antes que los sentimientos.">Eliza</span>
- y <span class="anotacion"
+                    y <span class="anotacion"
                         data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana</span>
-? ¿A que se lo digo a mamá? Pero primero…</p>
+                    ? ¿A que se lo digo a mamá? Pero primero…
+                </p>
 
                 <p>Se abalanzó sobre mí; sentí cómo me agarraba del pelo y del
                     hombro. Se había topado con algo desesperado. Realmente vi en él
@@ -368,18 +374,18 @@
                     las manos, pero él me llamó «¡Rata! ¡Rata!» y se puso a bramar. La
                     ayuda estaba cerca: <span class="anotacion"
                         data-nota="Una niña egoísta, meticulosa y fría que prefiere el orden y el dinero antes que los sentimientos.">Eliza</span>
- y <span class="anotacion"
+                    y <span class="anotacion"
                         data-nota="La prima hermosa y mimada que encarna la vanidad superficial; es el ejemplo de cómo la belleza física otorga privilegios en una sociedad que ignora la valía moral de Jane.">Georgiana</span>
- habían corrido a buscar a la
+                    habían corrido a buscar a la
                     señora Reed, que había subido a su cuarto; apareció en escena,
                     seguida por <span class="anotacion"
                         data-nota="La niñera de los Reed, quien representa la única fuente de calidez y humanidad para Jane, alimentando su mente con historias, canciones y gestos de bondad intermitentes.">Bessie</span>
- y su doncella, Abbot. Nos separaron; oí las
+                    y su doncella, Abbot. Nos separaron; oí las
                     palabras:</p>
 
                 <p>—¡Cielos! ¡Qué furia al atacar al señorito <span class="anotacion"
                         data-nota="El primo mayor y principal torturador de Jane; representa el despotismo masculino y el abuso de poder basado en el privilegio de clase y género.">John</span>
-!</p>
+                    !</p>
 
                 <p>—¡Jamás se ha visto semejante arrebato de ira!</p>
 

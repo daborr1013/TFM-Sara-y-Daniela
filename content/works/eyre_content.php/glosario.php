@@ -69,7 +69,6 @@
                                 <li><a href="simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
-                                <li><a href="mapa.php">Mapa</a></li>
                                 <li><a href="citas.php">Citas</a></li>
                             </ul>
                         </li>
@@ -118,9 +117,10 @@
                     <li><a href="https://dle.rae.es/frenolog%C3%ADa" target="_blank">Frenología</a>: Antigua doctrina
                         psicológica según la cual las facultades psíquicas están localizadas en zonas precisas del
                         cerebro y en correspondencia con relieves del cráneo.</li>
-                    <li><a href="https://dle.rae.es/frugal" target="_blank">Frugal</a>: Dicho de una cosa: Propia de una persona frugal. Vida, almuerzo frugal.</li>
-                            href="https://dle.rae.es/parco" target="_blank"> Parco</a> (Corto, escaso o moderado en el
-                        uso o concesión de las cosas) en comer y beber.</li>
+                    <li><a href="https://dle.rae.es/frugal" target="_blank">Frugal</a>: Dicho de una cosa: Propia de una
+                        persona frugal. Vida, almuerzo frugal.</li>
+                    href="https://dle.rae.es/parco" target="_blank"> Parco</a> (Corto, escaso o moderado en el
+                    uso o concesión de las cosas) en comer y beber.</li>
                     <li><a href="https://dle.rae.es/gobernanta" target="_blank">Gobernanta</a>: Mujer que en los hoteles
                         tiene a su cargo el servicio de un piso en lo tocante a limpieza de habitaciones, conservación
                         del mobiliario, alfombras y demás enseres.</li>

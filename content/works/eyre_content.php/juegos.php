@@ -69,7 +69,6 @@
                                 <li><a href="simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
-                                <li><a href="mapa.php">Mapa</a></li>
                                 <li><a href="citas.php">Citas</a></li>
                             </ul>
                         </li>
@@ -97,13 +96,14 @@
                         margin-top: 40px;
                         flex-wrap: wrap;
                     }
+
                     .game-card {
                         background: #f8f3eb;
                         border-radius: 12px;
                         padding: 40px 30px;
                         text-align: center;
                         width: 320px;
-                        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+                        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
                         transition: transform 0.3s ease, box-shadow 0.3s ease;
                         cursor: pointer;
                         text-decoration: none;
@@ -113,25 +113,30 @@
                         align-items: center;
                         border: 2px solid transparent;
                     }
-                    .game-card:hover, .game-card:focus {
+
+                    .game-card:hover,
+                    .game-card:focus {
                         transform: translateY(-5px);
-                        box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+                        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
                         border-color: #6A4C93;
                         outline: none;
                     }
+
                     .game-card img {
                         width: 100px;
                         height: 100px;
                         margin-bottom: 20px;
                         object-fit: cover;
                         border-radius: 50%;
-                        box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+                        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
                     }
+
                     .game-card h2 {
                         color: #6A4C93;
                         font-size: 1.5em;
                         margin-bottom: 15px;
                     }
+
                     .game-card p {
                         color: #555;
                         font-size: 1.1em;

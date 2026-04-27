@@ -73,7 +73,6 @@
                                 <li><a href="eyre_content.php/simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="eyre_content.php/personajes.php">Personajes</a></li>
                                 <li><a href="eyre_content.php/glosario.php">Glosario</a></li>
-                                <li><a href="eyre_content.php/mapa.php">Mapa</a></li>
                                 <li><a href="eyre_content.php/citas.php">Citas</a></li>
                             </ul>
                         </li>

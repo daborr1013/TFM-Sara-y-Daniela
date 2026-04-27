@@ -75,7 +75,6 @@ require '../../../activity-tracker.php';
                                 <li><a href="simbolosTemas.php">Temas y Símbolos</a></li>
                                 <li><a href="personajes.php">Personajes</a></li>
                                 <li><a href="glosario.php">Glosario</a></li>
-                                <li><a href="mapa.php">Mapa</a></li>
                                 <li><a href="citas.php">Citas</a></li>
                             </ul>
                         </li>
@@ -100,14 +99,17 @@ require '../../../activity-tracker.php';
                     <p style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
                         Parejas encontradas: <span id="pairs-count">0</span>/<span id="pairs-total">8</span>
                     </p>
-                    <p id="game-status" role="status" aria-live="polite" aria-atomic="true" style="color: #6A4C93; font-style: italic; min-height: 24px; margin: 5px 0;"></p>
-                    <p class="instructions" style="margin-top: 5px;">Usa las flechas del teclado para navegar y Enter o Espacio para seleccionar cartas.</p>
+                    <p id="game-status" role="status" aria-live="polite" aria-atomic="true"
+                        style="color: #6A4C93; font-style: italic; min-height: 24px; margin: 5px 0;"></p>
+                    <p class="instructions" style="margin-top: 5px;">Usa las flechas del teclado para navegar y Enter o
+                        Espacio para seleccionar cartas.</p>
                 </div>
                 <div class="memory-game" role="region" aria-label="Tablero de juego de memoria">
-                    
+
                 </div>
                 <div style="margin-top: 20px;">
-                    <button id="restart-btn" class="restart-button" aria-label="Reiniciar el juego">Reiniciar Juego</button>
+                    <button id="restart-btn" class="restart-button" aria-label="Reiniciar el juego">Reiniciar
+                        Juego</button>
                 </div>
             </section>
         </div>
