@@ -39,8 +39,6 @@ if (!isset($_SESSION['user_id'])) {
             <li><a href="about_us.php">Sobre nosotras</a></li>
             <li><a href="litto.php">Litto</a></li>
             <li><a href="pUsuario.php">Perfil de usuario</a></li>
-            <li><a href="progreso.php">Mi Progreso</a></li>
-            <li><a href="../logout.php">Cerrar sesión</a></li>
         </ul>
     </nav>
 

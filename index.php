@@ -39,8 +39,6 @@ session_start();
 
             <?php if (isset($_SESSION['user_id'])): ?>
                 <li><a href="content/pUsuario.php">Perfil de usuario</a></li>
-                <li><a href="content/progreso.php">Mi Progreso</a></li>
-                <li><a href="logout.php">Cerrar sesión</a></li>
             <?php else: ?>
                 <li><a href="login.php">Iniciar sesión</a></li>
                 <li><a href="register.php">Registrarse</a></li>
