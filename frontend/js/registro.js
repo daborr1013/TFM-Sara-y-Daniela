@@ -23,6 +23,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // === INTERACCIONES PREMIUM ===
     const forms = document.querySelectorAll('form');
     forms.forEach(form => {
+        if (form.matches('[data-login-form], [data-register-form]')) {
+            return;
+        }
+
         form.addEventListener('submit', function() {
             const button = this.querySelector('button');
             if (button) {
