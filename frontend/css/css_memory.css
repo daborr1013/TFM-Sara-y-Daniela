@@ -1,0 +1,107 @@
+/* Game info and instructions */
+.game-info {
+    font-size: 18px;
+    color: #221a2e;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.instructions {
+    font-size: 14px;
+    font-weight: normal;
+    color: #5f3f8f;
+    margin-top: 10px;
+}
+
+/* Memory game grid */
+.memory-game {
+    display: grid;
+    grid-template-columns: repeat(4, 140px);
+    grid-gap: 15px;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+/* Card styling */
+.card {
+    width: 140px !important;
+    height: 180px !important;
+    background-color: #cdbfd8 !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    font-size: 24px !important;
+    cursor: pointer !important;
+    border-radius: 8px !important;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2) !important;
+    transform-style: preserve-3d;
+    transition: transform 0.5s;
+    border: 2px solid transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.card:focus {
+    outline: 3px solid #FFD700;
+    outline-offset: 2px;
+}
+
+.card:hover {
+    box-shadow: 0 0 15px rgba(255, 215, 0, 0.5);
+}
+
+.card:disabled {
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+.card.flipped {
+    transform: rotateY(180deg);
+}
+
+.card .symbol {
+    display: none;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    transform: rotateY(180deg);
+}
+
+.card.flipped .symbol {
+    display: flex;
+}
+
+.card img {
+    max-width: 95%;
+    max-height: 95%;
+    object-fit: contain;
+}
+
+/* Restart button */
+.restart-button {
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #4a3073;
+    border: 2px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.restart-button:hover {
+    background-color: #6A4C93;
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+}
+
+.restart-button:focus {
+    outline: 3px solid #FFD700;
+    outline-offset: 2px;
+}
+
+.restart-button:active {
+    transform: scale(0.98);
+}

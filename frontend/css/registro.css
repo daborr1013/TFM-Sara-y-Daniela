@@ -1,0 +1,257 @@
+/* registro.css - Estilos para Login y Registro */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --primary-color: #6a4c93; /* Púrpura principal de Litterally */
+    --primary-hover: #5d3d88;
+    --accent-color: #d2b06c; /* Dorado de Litterally */
+    --bg-gradient: linear-gradient(145deg, #f4eef9 0%, #e8dcf3 48%, #ece4f4 100%);
+    --text-color: #221a2e; /* Ink/Tinta */
+    --text-muted: #5f3f8f; /* Violeta intermedio */
+    --white: #ffffff;
+    --error-bg: #ffebee;
+    --error-text: #c62828;
+    --success-bg: #e8f5e9;
+    --success-text: #2e7d32;
+    --border-color: #e7deef; /* Mist/Niebla */
+    --shadow: 0 15px 35px rgba(42, 29, 63, 0.15);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', system-ui, sans-serif;
+    background: var(--bg-gradient);
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    overflow-x: hidden;
+}
+
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+        radial-gradient(circle at 12% 18%, rgba(210, 176, 108, 0.12) 0, rgba(210, 176, 108, 0) 42%),
+        radial-gradient(circle at 88% 82%, rgba(118, 82, 168, 0.1) 0, rgba(118, 82, 168, 0) 38%);
+    pointer-events: none;
+    z-index: -1;
+}
+
+.login-container,
+.register-container {
+    background: var(--white);
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: var(--shadow);
+    width: 100%;
+    max-width: 420px;
+    animation: fadeIn 0.5s ease-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.login-header,
+.register-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.login-header img,
+.register-header img {
+    width: 140px;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease;
+}
+
+.login-header img:hover,
+.register-header img:hover {
+    transform: scale(1.05);
+}
+
+.login-header h1,
+.register-header h1 {
+    color: var(--text-color);
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.login-header p,
+.register-header p {
+    color: var(--text-muted);
+    font-size: 16px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: var(--text-color);
+    font-weight: 600;
+    font-size: 14px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 14px;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    font-size: 15px;
+    font-family: 'Inter', system-ui, sans-serif;
+    transition: all 0.3s ease;
+}
+
+input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 4px rgba(106, 76, 147, 0.12);
+}
+
+.error-message,
+.success-message {
+    padding: 14px;
+    border-radius: 8px;
+    margin-bottom: 24px;
+    font-size: 14px;
+    line-height: 1.5;
+    animation: shake 0.4s ease-in-out;
+}
+
+@keyframes shake {
+
+    0%,
+    100% {
+        transform: translateX(0);
+    }
+
+    25% {
+        transform: translateX(-5px);
+    }
+
+    75% {
+        transform: translateX(5px);
+    }
+}
+
+.error-message {
+    background-color: var(--error-bg);
+    color: var(--error-text);
+    border-left: 4px solid var(--error-text);
+}
+
+.success-message {
+    background-color: var(--success-bg);
+    color: var(--success-text);
+    border-left: 4px solid var(--success-text);
+}
+
+.error-message a,
+.success-message a {
+    color: inherit;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.login-button,
+.register-button {
+    width: 100%;
+    padding: 14px;
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(106, 76, 147, 0.2);
+}
+
+.login-button:hover,
+.register-button:hover {
+    background-color: var(--primary-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 15px rgba(106, 76, 147, 0.25);
+}
+
+.login-button:active,
+.register-button:active {
+    transform: translateY(0);
+}
+
+.signup-link,
+.login-link {
+    text-align: center;
+    margin-top: 24px;
+    padding-top: 24px;
+    border-top: 1px solid #f0f0f0;
+}
+
+.signup-link p,
+.login-link p {
+    color: var(--text-muted);
+    font-size: 14px;
+}
+
+.signup-link a,
+.login-link a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 700;
+    margin-left: 4px;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.3s;
+}
+
+.signup-link a:hover,
+.login-link a:hover {
+    border-bottom-color: var(--primary-color);
+}
+
+.back-link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.back-link a {
+    color: var(--text-muted);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: color 0.3s ease;
+}
+
+.back-link a:hover {
+    color: var(--primary-color);
+}

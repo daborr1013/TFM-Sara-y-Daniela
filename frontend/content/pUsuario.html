@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil de usuario - Litterally</title>
+    <link rel="stylesheet" href="../css/css_pUsuario.css">
+    <link rel="icon" href="../media/images/iconoPestanaClara.png">
+</head>
+
+<body data-profile-page>
+
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
+
+    <header>
+        <a href="../index.html"><img class="logo" src="../media/images/litGrande.png" alt="Litterally - Inicio"></a>
+    </header>
+
+    <nav class="navbar">
+        <ul class="menu">
+            <li><a href="../index.html">Inicio</a></li>
+
+            <li class="dropdown">
+                <a href="obras.html">Obras</a>
+                <ul class="dropdown-menu">
+                    <li><a href="works/eyre.html">Jane Eyre</a></li>
+                </ul>
+            </li>
+
+            <li><a href="about_us.html">Sobre nosotras</a></li>
+            <li><a href="litto.html">Litto</a></li>
+            <li data-auth="in"><a href="pUsuario.html">Perfil de usuario</a></li>
+            <li data-auth="in"><button class="nav-action" type="button" data-logout>Cerrar sesión</button></li>
+            <li data-auth="out"><a href="../login.html">Iniciar sesión</a></li>
+            <li data-auth="out"><a href="../register.html">Registrarse</a></li>
+        </ul>
+    </nav>
+
+    <main id="main">
+        <div class="card-container">
+            <div class="user-card">
+                <div class="card-header">
+                    <h1>LITTERALLY ID CARD</h1>
+                    <div class="library-badge">Litterally.com</div>
+                </div>
+
+                <div class="card-content">
+                    <div class="card-left">
+                        <div class="profile-picture">
+                            <img src="../media/images/pfp.jpg" alt="Foto de perfil">
+                        </div>
+                        <div class="user-info">
+                            <div class="info-field">
+                                <span class="info-label">Nombre:</span>
+                                <span class="info-value" data-user-name>Cargando...</span>
+                            </div>
+                            <div class="info-field">
+                                <span class="info-label">ID:</span>
+                                <span class="info-value" data-user-id></span>
+                            </div>
+                            <div class="info-field">
+                                <span class="info-label">Miembro desde:</span>
+                                <span class="info-value" data-user-year></span>
+                            </div>
+                            <div class="info-field">
+                                <span class="info-label">Correo:</span>
+                                <span class="info-value" data-user-email></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card-right">
+                        <div class="barcode">
+                            <img src="../media/images/barcode.avif" alt="Código de barras">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="progress-wrapper">
+            <div id="seccion-progreso">
+                <h2 class="section-title">Tu Actividad y Progreso</h2>
+
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-label">Progreso General</div>
+                        <div class="progress-container">
+                            <div class="progress-fill" data-progress-fill style="width: 0%;"></div>
+                        </div>
+                        <div class="stat-summary">
+                            <span class="stat-main-value" data-progress-percent style="color: #4CAF50;">0%</span>
+                            <span class="stat-sub-value" data-progress-summary>0 de 0</span>
+                        </div>
+                    </div>
+
+                    <div class="stat-card stat-violet">
+                        <div class="stat-label">Puntuación Media</div>
+                        <div class="stat-main-value" data-average-score>-</div>
+                        <span class="stat-sub-value">sobre 100 puntos</span>
+                    </div>
+
+                    <div class="stat-card stat-gold">
+                        <div class="stat-label">Mejor Puntuación</div>
+                        <div class="stat-main-value" data-best-score>-</div>
+                        <span class="stat-sub-value">récord personal</span>
+                    </div>
+                </div>
+
+                <h3 class="section-subtitle">Desglose por Categoría</h3>
+                <div class="stats-grid categories-grid" data-progress-categories></div>
+
+                <h3 class="section-subtitle">Historial de Actividades</h3>
+                <div class="history-container" data-progress-history>
+                    <div class="profile-loading">Cargando progreso...</div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>TFM - Letras Digitales - UCM</p>
+    </footer>
+
+    <script type="module" src="/js/app.js"></script>
+</body>
+
+</html>

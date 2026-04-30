@@ -2,6 +2,15 @@
 
 Litterally es una plataforma diseñada para transformar la lectura pasiva en una experiencia inmersiva e interactiva. Los lectores pueden explorar personajes, simbología y completar actividades de comprensión sobre grandes obras literarias.
 
+## Deploy moderno
+
+El proyecto conserva la versión PHP original y añade una separación deployable:
+
+- `frontend/`: app estática para Vercel.
+- `backend/`: API Node para login, registro, perfil, progreso y Litto sobre Supabase/Postgres.
+
+Guía completa: [`DEPLOYMENT_SPLIT.md`](DEPLOYMENT_SPLIT.md).
+
 ## 🚀 Características
 - **Análisis Profundo**: Secciones dedicadas a personajes, contextos históricos y temas.
 - **Interactividad**: Actividades tipo test, rellenar espacios y juegos de memoria.
@@ -11,7 +20,7 @@ Litterally es una plataforma diseñada para transformar la lectura pasiva en una
 ## 🛠️ Tecnologías
 - **Frontend**: HTML5, CSS3 (Vanilla), JavaScript (ES6+).
 - **Backend**: PHP 8.x.
-- **Base de Datos**: MySQL.
+- **Base de Datos**: MySQL en la versión PHP original; Supabase/Postgres en la versión deployable.
 
 ## 📁 Estructura del Proyecto (Módulos Principales)
 - `login.php` / `register.php`: Sistema de gestión de usuarios.
