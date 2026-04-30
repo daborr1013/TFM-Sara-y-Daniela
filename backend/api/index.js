@@ -38,11 +38,11 @@ export default async function handler(request, response) {
     }
 
     if (request.method === 'POST' && pathname === '/api/auth/register') {
-      return register(request, response);
+      return await register(request, response);
     }
 
     if (request.method === 'POST' && pathname === '/api/auth/login') {
-      return login(request, response);
+      return await login(request, response);
     }
 
     if (request.method === 'POST' && pathname === '/api/auth/logout') {
@@ -56,17 +56,17 @@ export default async function handler(request, response) {
 
     if (request.method === 'GET' && pathname === '/api/progress') {
       const user = await requireUser(request);
-      return getProgress(response, user.id);
+      return await getProgress(response, user.id);
     }
 
     if (request.method === 'POST' && pathname === '/api/progress') {
       const user = await requireUser(request);
-      return saveProgress(request, response, user.id);
+      return await saveProgress(request, response, user.id);
     }
 
     if (request.method === 'POST' && pathname === '/api/chatbot') {
       await requireUser(request);
-      return chatbot(request, response);
+      return await chatbot(request, response);
     }
 
     return sendJson(response, { error: 'Ruta no encontrada' }, 404);
