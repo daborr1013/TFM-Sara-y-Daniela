@@ -1,5 +1,5 @@
 const configuredApiBase = window.LITTERALLY_API_URL || '__LITTERALLY_API_URL__';
-const apiBase = (configuredApiBase === '__LITTERALLY_API_URL__' ? '' : configuredApiBase).replace(/\/$/, '');
+const apiBase = (configuredApiBase.startsWith('__LITTERALLY_') ? '' : configuredApiBase).replace(/\/$/, '');
 
 const appCss = document.createElement('link');
 appCss.rel = 'stylesheet';
