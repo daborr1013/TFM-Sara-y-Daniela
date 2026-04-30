@@ -85,13 +85,25 @@ function applyCors(request, response) {
 
   if (!origin) return;
 
-  if (allowedOrigins.length === 0 || allowedOrigins.includes(origin)) {
+  if (originAllowed(origin, allowedOrigins)) {
     response.setHeader('Access-Control-Allow-Origin', origin);
     response.setHeader('Vary', 'Origin');
     response.setHeader('Access-Control-Allow-Credentials', 'true');
     response.setHeader('Access-Control-Allow-Methods', 'GET,POST,OPTIONS');
     response.setHeader('Access-Control-Allow-Headers', 'Content-Type,Authorization');
   }
+}
+
+function originAllowed(origin, allowedOrigins) {
+  if (allowedOrigins.length === 0) return true;
+
+  return allowedOrigins.some((allowedOrigin) => {
+    if (allowedOrigin === origin) return true;
+    if (!allowedOrigin.includes('*')) return false;
+
+    const escaped = allowedOrigin.replace(/[|\\{}()[\]^$+?.]/g, '\\$&').replace(/\*/g, '.*');
+    return new RegExp(`^${escaped}$`).test(origin);
+  });
 }
 
 function sendJson(response, payload, status = 200) {

@@ -44,10 +44,11 @@ Set these environment variables:
 ```bash
 DATABASE_URL=postgresql://postgres.PROJECT_REF:PASSWORD@aws-0-eu-west-1.pooler.supabase.com:6543/postgres
 JWT_SECRET=replace-with-a-long-random-secret
-FRONTEND_ORIGIN=https://your-frontend.vercel.app
+FRONTEND_ORIGIN=https://your-frontend.vercel.app,https://your-frontend-*.vercel.app
 ```
 
 Use the Supabase transaction pooler connection string for serverless Vercel functions. If you use local Postgres instead of Supabase, set `DATABASE_SSL=false`.
+The comma-separated `FRONTEND_ORIGIN` list accepts exact origins and `*` wildcards for Vercel preview deployment URLs.
 
 For local backend work:
 
