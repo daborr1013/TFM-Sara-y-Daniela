@@ -22,6 +22,8 @@ Set this environment variable:
 VITE_API_URL=https://your-backend.vercel.app
 ```
 
+After changing frontend environment variables, redeploy the frontend project so the static build receives the new values.
+
 For local frontend work:
 
 ```bash
