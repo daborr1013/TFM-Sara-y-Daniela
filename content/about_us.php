@@ -48,7 +48,7 @@
 
                 <section class="layout">
                     <section class="pjustificado">
-                        <p>Hello! Soy Daniela, fan de la literatura de romance y terror, la música y el cine.</p>
+                        <p>¡Hola! Soy Daniela, fan de la literatura de romance y terror, la música y el cine.</p>
 
                         <p>Graduada en Lenguas Modernas y sus Literaturas en la Universidad Complutense de Madrid,
                             estudios enfocados en
