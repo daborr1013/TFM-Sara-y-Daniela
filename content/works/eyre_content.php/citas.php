@@ -10,7 +10,7 @@
 
 <body>
 
-    <a href="#main" class="skip-link">Saltar a Obra principal</a>
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
 
     <header>
         <a href="../../../index.php"><img class="logo" src="../../../media/images/litGrande.png"

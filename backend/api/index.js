@@ -38,11 +38,11 @@ export default async function handler(request, response) {
     }
 
     if (request.method === 'POST' && pathname === '/api/auth/register') {
-      return register(request, response);
+      return await register(request, response);
     }
 
     if (request.method === 'POST' && pathname === '/api/auth/login') {
-      return login(request, response);
+      return await login(request, response);
     }
 
     if (request.method === 'POST' && pathname === '/api/auth/logout') {
@@ -56,17 +56,17 @@ export default async function handler(request, response) {
 
     if (request.method === 'GET' && pathname === '/api/progress') {
       const user = await requireUser(request);
-      return getProgress(response, user.id);
+      return await getProgress(response, user.id);
     }
 
     if (request.method === 'POST' && pathname === '/api/progress') {
       const user = await requireUser(request);
-      return saveProgress(request, response, user.id);
+      return await saveProgress(request, response, user.id);
     }
 
     if (request.method === 'POST' && pathname === '/api/chatbot') {
       await requireUser(request);
-      return chatbot(request, response);
+      return await chatbot(request, response);
     }
 
     return sendJson(response, { error: 'Ruta no encontrada' }, 404);
@@ -85,13 +85,25 @@ function applyCors(request, response) {
 
   if (!origin) return;
 
-  if (allowedOrigins.length === 0 || allowedOrigins.includes(origin)) {
+  if (originAllowed(origin, allowedOrigins)) {
     response.setHeader('Access-Control-Allow-Origin', origin);
     response.setHeader('Vary', 'Origin');
     response.setHeader('Access-Control-Allow-Credentials', 'true');
     response.setHeader('Access-Control-Allow-Methods', 'GET,POST,OPTIONS');
     response.setHeader('Access-Control-Allow-Headers', 'Content-Type,Authorization');
   }
+}
+
+function originAllowed(origin, allowedOrigins) {
+  if (allowedOrigins.length === 0) return true;
+
+  return allowedOrigins.some((allowedOrigin) => {
+    if (allowedOrigin === origin) return true;
+    if (!allowedOrigin.includes('*')) return false;
+
+    const escaped = allowedOrigin.replace(/[|\\{}()[\]^$+?.]/g, '\\$&').replace(/\*/g, '.*');
+    return new RegExp(`^${escaped}$`).test(origin);
+  });
 }
 
 function sendJson(response, payload, status = 200) {

@@ -224,7 +224,7 @@
                     <a class="boton" href="caps/3.Thornfield Hall (Cap. 11–27)/cap16.php">Capítulo XVI</a>
                     <li><i>Qu'avez-vous, mademoiselle? Vos doigts tremblent comme la feuille, et vos joues sont rouges:
                             mais, rouges comme des cerises!</i>: ¿Qué le pasa, señorita? Sus dedos tiemblan como una
-                        hoja y sus mejillas están rojas: ¡pero rojas como las cerezas!.</li>
+                        hoja y sus mejillas están rojas: ¡pero rojas como las cerezas!</li>
 
                 </ul>
 

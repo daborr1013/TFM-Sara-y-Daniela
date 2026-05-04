@@ -1,5 +1,5 @@
 const configuredApiBase = window.LITTERALLY_API_URL || '__LITTERALLY_API_URL__';
-const apiBase = (configuredApiBase === '__LITTERALLY_API_URL__' ? '' : configuredApiBase).replace(/\/$/, '');
+const apiBase = (configuredApiBase.startsWith('__LITTERALLY_') ? '' : configuredApiBase).replace(/\/$/, '');
 
 const appCss = document.createElement('link');
 appCss.rel = 'stylesheet';
@@ -22,7 +22,9 @@ async function apiRequest(path, options = {}) {
 
   if (!response.ok) {
     const message = payload?.error || payload?.message || `Error HTTP ${response.status}`;
-    throw new Error(message);
+    const error = new Error(message);
+    error.status = response.status;
+    throw error;
   }
 
   return payload;
@@ -69,7 +71,9 @@ function setupLogin() {
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
     const button = form.querySelector('button[type="submit"]');
+    const originalText = button.textContent;
     button.disabled = true;
+    button.textContent = 'Procesando...';
 
     try {
       const data = await apiRequest('/api/auth/login', {
@@ -87,6 +91,7 @@ function setupLogin() {
       setFormMessage(form, error.message);
     } finally {
       button.disabled = false;
+      button.textContent = originalText;
     }
   });
 }
@@ -98,7 +103,9 @@ function setupRegister() {
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
     const button = form.querySelector('button[type="submit"]');
+    const originalText = button.textContent;
     button.disabled = true;
+    button.textContent = 'Procesando...';
 
     try {
       await apiRequest('/api/auth/register', {
@@ -117,6 +124,7 @@ function setupRegister() {
       setFormMessage(form, error.message);
     } finally {
       button.disabled = false;
+      button.textContent = originalText;
     }
   });
 }
