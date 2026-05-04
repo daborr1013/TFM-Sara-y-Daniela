@@ -93,7 +93,7 @@
                     <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap1.php">Capítulo I</a>
 
                     <p>La historia comienza en una tarde gris de noviembre. <a
-                            href="../personajes/gateshead/jane.php">Jane Eyre</a> una huérfana de 10 años, intenta
+                            href="../personajes/gateshead/jane.php">Jane Eyre</a>, una huérfana de 10 años, intenta
                         pasar desapercibida leyendo La historia de los
                         pájaros británicos de Bewick tras una cortina. Su tía, la <a
                             href="../personajes/gateshead/senoraReed.php">señora Reed</a>, la excluye del círculo

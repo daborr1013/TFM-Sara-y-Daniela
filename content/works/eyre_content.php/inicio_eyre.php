@@ -98,7 +98,7 @@
                     y el hielo, la
                     naturaleza, o incluso el mismo nombre de la protagonista. En la sección de <a
                         href="personajes.php">personajes</a>, la encontrarás
-                    a ella y a los demás. ¿Quién es el culpable de los ruidos de y eventos extraños en Thornfield?</p>
+                    a ella y a los demás. ¿Quién es el culpable de los ruidos y eventos extraños en Thornfield?</p>
 
                 <p>Y no te olvides de <a href="../litto.php">Litto</a>, él puede ayudarte a resolver tus preguntas.</p>
 

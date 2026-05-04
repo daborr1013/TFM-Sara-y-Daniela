@@ -194,7 +194,7 @@
                     </summary>
                     <p>La literatura gótica surge en el siglo XVIII como reacción contra el exceso de racionalidad de la
                         Ilustración. En lugar de la razón, explora lo emocional, lo irracional y lo desconocido.</p>
-                    <p>Se distingue entre entre <b>terror</b>, que está más enfocado en lo psicológico, y el
+                    <p>Se distingue entre el <b>terror</b>, que está más enfocado en lo psicológico, y el
                         <b>horror</b>, que está más enfocado en lo físico.
                     </p>
                     <p>Este género está influido por acontecimientos como la Revolución Francesa y la Revolución

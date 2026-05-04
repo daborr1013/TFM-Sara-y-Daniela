@@ -95,7 +95,7 @@
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> llega a Thornfield Hall de noche, encontrando
                         un interior acogedor que contrasta con la
                         oscuridad exterior. Allí la recibe la <a href="../personajes/thornfield/fairfaix.php">señora
-                            Fairfaix</a>,
+                            Fairfax</a>,
                         una anciana amable que <a href="../personajes/gateshead/jane.php">Jane</a> confunde con la
                         dueña,
                         aunque pronto aclara que es solo la ama de
@@ -108,7 +108,7 @@
                     <p>Sin embargo, la calma se rompe cuando <a href="../personajes/gateshead/jane.php">Jane</a> escucha
                         una
                         risa tétrica y antinatural que resuena por
-                        los pasillos. La <a href="../personajes/thornfield/fairfaix.php">señora Fairfaix</a> resta
+                        los pasillos. La <a href="../personajes/thornfield/fairfaix.php">señora Fairfax</a> resta
                         importancia al incidente
                         culpando a <a href="../personajes/thornfield/grace.php">Grace Poole</a>, una costurera de
                         carácter difícil y errático que trabaja en la casa.
@@ -154,7 +154,7 @@
                         una mente profunda y
                         original que no encaja con la de una simple institutriz.</p>
                     <p>Tras el encuentro, <a href="../personajes/gateshead/jane.php">Jane</a> confiesa a la <a
-                            href="../personajes/thornfield/fairfaix.php">señora Fairfaix</a> que encuentra a su amo
+                            href="../personajes/thornfield/fairfaix.php">señora Fairfax</a> que encuentra a su amo
                         "cambiante y abrupto".
                         <a href="../personajes/thornfield/fairfaix.php">El ama de llaves</a> justifica su carácter
                         explicando su
@@ -256,7 +256,7 @@
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap17.php">Capítulo XVII</a>
 
                     <p>Tras una semana de angustia pensando que Rochester se irá a Europa por un año, la <a
-                            href="../personajes/thornfield/fairfaix.php">señora Fairfaix</a>
+                            href="../personajes/thornfield/fairfaix.php">señora Fairfax</a>
                         recibe noticias de que él regresará con una gran comitiva de invitados.
                         Mientras preparan la casa, <a href="../personajes/gateshead/jane.php">Jane</a> sigue
                         desconcertada
@@ -286,7 +286,7 @@
                     <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap18.php">Capítulo XVIII</a>
 
                     <p>La estancia de los invitados continúa y <a href="../personajes/gateshead/jane.php">Jane</a>
-                        observa con dolor cómo <a href="../personajes/thornfield/edwardRochester.php">Rochester</a> ey
+                        observa con dolor cómo <a href="../personajes/thornfield/edwardRochester.php">Rochester</a> e
                         <a href="../personajes/thornfield/ingram.php">Ingram</a>
                         actúan como la pareja perfecta, compitiendo juntos en juegos de mímica
                         (charades). <a href="../personajes/gateshead/jane.php">Jane</a> llega a la amarga conclusión de
@@ -412,7 +412,7 @@
                         marcha a Londres y <a href="../personajes/gateshead/elizaReed.php">Eliza</a>
                         ingresa en un convento en Francia (donde acabará siendo Madre Superiora). Antes de irse, <a
                             href="../personajes/gateshead/jane.php">Jane</a>
-                        recibe noticias de la <a href="../personajes/thornfield/fairfaix.php">señora Fairfaix</a>: los
+                        recibe noticias de la <a href="../personajes/thornfield/fairfaix.php">señora Fairfax</a>: los
                         invitados se han ido y <a href="../personajes/thornfield/edwardRochester.php">Rochester</a> ha
                         viajado
                         a Londres para comprar un nuevo carruaje, lo que todos interpretan como el paso definitivo para
@@ -461,7 +461,7 @@
 
                     <p>Los preparativos de la boda comienzan, pero no traen la paz que <a
                             href="../personajes/gateshead/jane.php">Jane</a> esperaba. La <a
-                            href="../personajes/thornfield/fairfaix.php">señora Fairfaix</a> se
+                            href="../personajes/thornfield/fairfaix.php">señora Fairfax</a> se
                         muestra fría y desaprobadora; incluso tras saber que hay
                         un compromiso formal, advierte a <a href="../personajes/gateshead/jane.php">Jane</a> que sea
                         cautelosa, sugiriendo que la diferencia de edad y

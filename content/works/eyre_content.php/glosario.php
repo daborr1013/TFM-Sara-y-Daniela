@@ -89,7 +89,7 @@
 
             <section class="pjustificado">
                 <h4>Glosario</h4>
-                <p>Algunas de las expresiones que se usan en <i>Jane Eyre</i> pueden llegar a resultarte un poco
+                <p>Algunas de las expresiones que se usan en <i>Jane Eyre</i> pueden llegar a resultar un poco
                     complejas, por el poco uso que hoy en día les damos. Por ello, hemos creado este glosario con
                     algunas
                     definiciones sacadas del <a href="https://dle.rae.es/">Diccionario de la lengua española de la
@@ -124,7 +124,8 @@
                     <li><a href="https://dle.rae.es/gobernanta" target="_blank">Gobernanta</a>: Mujer que en los hoteles
                         tiene a su cargo el servicio de un piso en lo tocante a limpieza de habitaciones, conservación
                         del mobiliario, alfombras y demás enseres.</li>
-                    <li>Gytrash: criatura del foclore inglés. Se describe como un perro negro, a veces con forma de mula
+                    <li>Gytrash: criatura del folclore inglés. Se describe como un perro negro, a veces con forma de
+                        mula
                         fantasmal.</li>
                     <li><a href="https://dle.rae.es/ignominia" target="_blank">Ignominia</a>: Afrenta pública.</li>
                     <li><a href="https://dle.rae.es/ind%C3%B3mito" target="_blank">Indómito/a</a>: Que no se puede o no

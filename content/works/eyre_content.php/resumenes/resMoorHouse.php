@@ -199,7 +199,7 @@
                         <a href="../personajes/thornfield/ingram.php">Blanche Ingram</a>). Ella llega a la escuela y
                         su
                         presencia ilumina el lugar. <a href="../personajes/gateshead/jane.php">Jane</a> observa con
-                        atencián
+                        atención
                         la reacción de <a href="../personajes/moorhouse/johnRivers.php">St. John Rivers</a> ante ella,
                         ya
                         que es evidente que ambos se atraen pero <a href="../personajes/moorhouse/johnRivers.php">St.

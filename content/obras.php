@@ -51,7 +51,7 @@
                 introducción de la historia,
                 nuestra sección de resúmenes, el contexto tanto histórico como el personal del autor/a, explicaciones
                 relevantes, análisis de personajes y
-                de símbolos, glorarios, citas célebres y mapas interactivos, además de actividades que ayuden a mejorar
+                de símbolos, glosario, citas célebres y mapas interactivos, además de actividades que ayuden a mejorar
                 tu comprensión lectora.</p>
 
             <p>Aquí puedes ver las obras que tenemos disponibles en el momento. Estamos trabajando para poder

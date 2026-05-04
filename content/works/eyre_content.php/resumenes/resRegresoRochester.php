@@ -117,7 +117,7 @@
                     <a class="boton" href="../caps/5.Regreso a Rochester (Cap. 36–38)/cap37.php">Capítulo XXXVII</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> se acerca a la casa y ve a <a
-                            href="../personajes/thornfield/edwardRochester.php">Rochester</a> salir a la puerta. Se
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a> salir por la puerta. Se
                         queda impactada: su aspecto es
                         descuidado, su mirada fija y sin brillo, y
                         se mueve con una tristeza errática. Parece un "león enjaulado". Jane entra en la casa, se

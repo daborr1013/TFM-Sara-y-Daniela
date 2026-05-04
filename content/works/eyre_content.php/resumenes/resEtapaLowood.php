@@ -178,11 +178,11 @@
                         hechos. Mientras esperan la respuesta,
                         comparte con las niñas un té con pastel, un gesto de humanidad inolvidable para <a
                             href="../personajes/gateshead/jane.php">Jane</a>. Cuando
-                        llega la carta del boticario corroborando la versin de la nia,
+                        llega la carta del boticario corroborando la versión de la niña,
                         <a href="../personajes/lowood/temple.php">Miss Temple</a> limpia el nombre de <a
                             href="../personajes/gateshead/jane.php">Jane</a> ante toda la escuela. Liberada de la
                         etiqueta de
-                        "mentirosa", <a href="../personajes/gateshead/jane.php">Jane</a> se entrega con pasin a sus
+                        "mentirosa", <a href="../personajes/gateshead/jane.php">Jane</a> se entrega con pasión a sus
                         estudios, destacando pronto en dibujo y francés.
                     </p>
                 </section>
@@ -235,7 +235,7 @@
                         busca de fortuna. Con esta mezcla de pasado y futuro, <a
                             href="../personajes/gateshead/jane.php">Jane</a>
                         se despide de <a href="../personajes/gateshead/bessie.php">Bessie</a> y se encamina,
-                        llena de determinació n, hacia su nueva vida.</p>
+                        llena de determinación, hacia su nueva vida.</p>
                 </section>
 
                 <section>
