@@ -119,25 +119,34 @@
                         cerebro y en correspondencia con relieves del cráneo.</li>
                     <li><a href="https://dle.rae.es/frugal" target="_blank">Frugal</a>: Dicho de una cosa: Propia de una
                         persona frugal. Vida, almuerzo frugal.</li>
-                    href="https://dle.rae.es/parco" target="_blank"> Parco</a> (Corto, escaso o moderado en el
-                    uso o concesión de las cosas) en comer y beber.</li>
-                    <li><a href="https://dle.rae.es/gobernanta" target="_blank">Gobernanta</a>: Mujer que en los hoteles
-                        tiene a su cargo el servicio de un piso en lo tocante a limpieza de habitaciones, conservación
+                    <li>
+                        <a href="https: //dle.rae.es/parco" target="_blank"> Parco</a>: (Corto, escaso o moderado en el
+                        uso o concesión de las cosas) en comer y beber.
+                    </li>
+                    <li><a href="https://dle.rae.es/gobernanta" target="_blank">Gobernanta</a>: Mujer que en los
+                        hoteles
+                        tiene a su cargo el servicio de un piso en lo tocante a limpieza de habitaciones,
+                        conservación
                         del mobiliario, alfombras y demás enseres.</li>
                     <li>Gytrash: criatura del folclore inglés. Se describe como un perro negro, a veces con forma de
                         mula
                         fantasmal.</li>
                     <li><a href="https://dle.rae.es/ignominia" target="_blank">Ignominia</a>: Afrenta pública.</li>
-                    <li><a href="https://dle.rae.es/ind%C3%B3mito" target="_blank">Indómito/a</a>: Que no se puede o no
+                    <li><a href="https://dle.rae.es/ind%C3%B3mito" target="_blank">Indómito/a</a>: Que no se puede o
+                        no
                         se deja domar.</li>
-                    <li><a href="https://dle.rae.es/institutriz" target="_blank">Institutriz</a>: Mujer encargada de la
+                    <li><a href="https://dle.rae.es/institutriz" target="_blank">Institutriz</a>: Mujer encargada de
+                        la
                         educación o instrucción de uno o varios niños en el hogar de estos.</li>
 
                     </li>
-                    <li><a href="https://dle.rae.es/oprobio" target="_blank">Oprobio</a>: Ignominia, afrenta, deshonra.
+                    <li><a href="https://dle.rae.es/oprobio" target="_blank">Oprobio</a>: Ignominia, afrenta,
+                        deshonra.
                     </li>
-                    <li><a href="https://dle.rae.es/preceptor" target="_blank">Preceptor/a</a>: Persona que enseña.</li>
-                    <li><a href="https://dle.rae.es/providencia" target="_blank">Providencia</a>: Disposición anticipada
+                    <li><a href="https://dle.rae.es/preceptor" target="_blank">Preceptor/a</a>: Persona que enseña.
+                    </li>
+                    <li><a href="https://dle.rae.es/providencia" target="_blank">Providencia</a>: Disposición
+                        anticipada
                         o prevención que mira o conduce al logro de un fin.</li>
                     <li><a href="https://dle.rae.es/vicisitud" target="_blank">Vicisitud</a>: Orden sucesivo o
                         alternativo de algo.</li>
