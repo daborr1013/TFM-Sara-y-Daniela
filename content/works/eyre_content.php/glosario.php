@@ -120,8 +120,8 @@
                     <li><a href="https://dle.rae.es/frugal" target="_blank">Frugal</a>: Dicho de una cosa: Propia de una
                         persona frugal. Vida, almuerzo frugal.</li>
                     <li>
-                        <a href="https: //dle.rae.es/parco" target="_blank"> Parco</a>: (Corto, escaso o moderado en el
-                        uso o concesión de las cosas) en comer y beber.
+                        <a href="https: //dle.rae.es/parco" target="_blank"> Parco</a>: Corto, escaso o moderado en el
+                        uso o concesión de las cosas en comer y beber.
                     </li>
                     <li><a href="https://dle.rae.es/gobernanta" target="_blank">Gobernanta</a>: Mujer que en los
                         hoteles
