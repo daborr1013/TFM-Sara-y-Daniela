@@ -87,6 +87,8 @@
                                 <li><a href="eyre_content.php/juegos.php">Juegos</a></li>
                             </ul>
                         </li>
+
+                        <li><a href="eyre_content.php/externos.php">Enlaces externos</a></li>
                     </ul>
                 </nav>
             </div>

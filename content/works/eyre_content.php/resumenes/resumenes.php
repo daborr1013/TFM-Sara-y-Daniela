@@ -82,6 +82,8 @@
                                 <li><a href="../juegos.php">Juegos</a></li>
                             </ul>
                         </li>
+
+                        <li><a href="../externos.php">Enlaces externos</a></li>
                     </ul>
                 </nav>
             </div>

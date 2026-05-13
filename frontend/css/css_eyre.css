@@ -440,7 +440,7 @@ img {
 
 .fpersonaje {
     display: block;
-    width: 120px;
+    width: 170px;
     margin: 25px auto;
     /* Mejor centrado */
     object-fit: cover;
