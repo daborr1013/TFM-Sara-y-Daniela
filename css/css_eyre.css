@@ -244,7 +244,7 @@ nav a:focus-visible {
 .dropdown-sidebar .dropdown-menu-sidebar {
     display: none;
     list-style: none;
-    padding-left: 10px;
+    padding-left: 25px;
     margin-top: 5px;
 }
 
@@ -414,6 +414,16 @@ h5 {
     text-indent: 0%;
 }
 
+.linkExternos {
+    font-size: 1.05rem;
+    text-align: justify;
+    text-indent: 20px;
+    margin: 20px;
+    line-height: 1.8;
+    padding: 50px;
+    text-align: center;
+}
+
 /*fin texto*/
 
 /*imagenes*/
@@ -440,7 +450,7 @@ img {
 
 .fpersonaje {
     display: block;
-    width: 120px;
+    width: 170px;
     margin: 25px auto;
     /* Mejor centrado */
     object-fit: cover;
