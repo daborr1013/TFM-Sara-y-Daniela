@@ -33,7 +33,7 @@
 
     <main id="main">
         <section class="hero">
-            <h1>Desarrollar</h1>
+            <h1>Enlaces externos</h1>
         </section>
 
         <div class="layout">
@@ -87,7 +87,7 @@
             </div>
 
             <section class="pjustificado">
-                <h3>Enlaces externos</h3>
+
                 <p>Aquí encontrarás una selección de recursos adicionales que pueden enriquecer tu experiencia con
                     <i>Jane Eyre</i>.
                 </p>
