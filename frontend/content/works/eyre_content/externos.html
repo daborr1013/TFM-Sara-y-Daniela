@@ -33,7 +33,7 @@
 
     <main id="main">
         <section class="hero">
-            <h1>Desarrollar</h1>
+            <h1>Enlaces externos</h1>
         </section>
 
         <div class="layout">
@@ -41,8 +41,6 @@
                 <nav class="navbar-sidebar">
                     <ul class="menu-sidebar">
                         <li><a class="active" href="inicio_eyre.php">Inicio</a></li>
-
-                        <li><a href="intro_obra.php">Introducción a la obra</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="contenido_eyre.php">Obra</a>
@@ -87,7 +85,7 @@
             </div>
 
             <section class="pjustificado">
-                <h3>Enlaces externos</h3>
+
                 <p>Aquí encontrarás una selección de recursos adicionales que pueden enriquecer tu experiencia con
                     <i>Jane Eyre</i>.
                 </p>

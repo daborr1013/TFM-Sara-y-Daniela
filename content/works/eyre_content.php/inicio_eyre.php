@@ -45,8 +45,6 @@
                     <ul class="menu-sidebar">
                         <li><a class="active" href="inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="intro_obra.php">Introducción a la obra</a></li>
-
                         <li class="dropdown-sidebar">
                             <a href="contenido_eyre.php">Obra</a>
                             <ul class="dropdown-menu-sidebar">
@@ -90,17 +88,25 @@
             </div>
 
             <section class="pjustificado">
-                <p>Bienvenido al entorno de <i>Jane Eyre</i>. Aquí podrás conocer más acerca de la vida de <a
-                        href="charlotte.php">Charlotte Brontë</a>,
-                    como el dato curioso de que publicó esta obra bajo el pseudónimo de Currer Bell, las tensiones
-                    sociales de la Inglaterra
-                    del siglo XIX que modelaron la novela.</p>
-
-                <p>También podrás descubrir los significados ocultos tras elementos como la "habitación roja", el fuego
-                    y el hielo, la
-                    naturaleza, o incluso el mismo nombre de la protagonista. En la sección de <a
-                        href="personajes.php">personajes</a>, la encontrarás
-                    a ella y a los demás. ¿Quién es el culpable de los ruidos y eventos extraños en Thornfield?</p>
+                <section class="layout">
+                    <section class="pjustificado">
+                        <p>Bienvenido al entorno de <i>Jane Eyre</i>. Aquí podrás conocer más acerca de la vida de <a
+                                href="eyre_content.php/charlotte.php">Charlotte Brontë</a>,
+                            como el dato curioso de que publicó esta obra bajo el pseudónimo de Currer Bell, las
+                            tensiones
+                            sociales de la Inglaterra
+                            del siglo XIX que modelaron la novela.</p>
+                        <p>También podrás descubrir los significados ocultos tras elementos como la "habitación roja",
+                            el
+                            fuego
+                            y el hielo, la
+                            naturaleza, o incluso el mismo nombre de la protagonista. En la sección de <a
+                                href="eyre_content.php/personajes.php">personajes</a>, la encontrarás
+                            a ella y a los demás. ¿Quién es el culpable de los ruidos y eventos extraños en Thornfield?
+                        </p>
+                    </section>
+                    <img class="portada3" src="../../../media/images/portadaJane.png" alt="Portada de Jane Eyre">
+                </section>
 
                 <p>Y no te olvides de <a href="../litto.php">Litto</a>, él puede ayudarte a resolver tus preguntas.</p>
 

@@ -54,9 +54,6 @@
                 de símbolos, glosario, citas célebres y mapas interactivos, además de actividades que ayuden a mejorar
                 tu comprensión lectora.</p>
 
-            <p>Aquí puedes ver las obras que tenemos disponibles en el momento. Estamos trabajando para poder
-                proporcionar más obras y materiales educativos
-                de ellas, ¡mantente atento a las novedades!</p>
         </section>
 
         <div class="book-gallery">
