@@ -46,8 +46,6 @@
                     <ul class="menu-sidebar">
                         <li><a class="active" href="inicio_eyre.php">Inicio</a></li>
 
-                        <li><a href="intro_obra.php">Introducción a la obra</a></li>
-
                         <li class="dropdown-sidebar">
                             <a href="contenido_eyre.php">Obra</a>
                             <ul class="dropdown-menu-sidebar">
