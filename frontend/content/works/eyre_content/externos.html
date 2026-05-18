@@ -95,7 +95,7 @@
                                     Gutenberg</b></a>:
                             Accede al texto original en inglés de <i>Jane Eyre</i>.</li>
 
-                        <ul><b>Enlaces sobre el contexto histórico</b></ul>
+                        <ul><b>Enlaces sobre el contexto histórico:</b></ul>
 
                         <li><a href="https://books.google.es/books?hl=es&lr=&id=AAfwzrVX5UIC&oi=fnd&pg=PT6&dq=charlotte+bronte&ots=b-8kbHk04V&sig=3WO1Ykb_7Ao5jbYvaefjpN9c6rE#v=onepage&q=charlotte%20bronte&f=false"
                                 target="_blank"><b><i>The life of Charlotte Brontë</i></a> de Elizabeth Gaskell
@@ -127,7 +127,7 @@
                             este link para ampliar información sobre el gótico, en especial el primer capítulo.</li>
 
                         <br>
-                        <ul><b>Enlaces sobre <i>Jane Eyre</i></b></ul>
+                        <ul><b>Enlaces sobre <i>Jane Eyre</i>:</b></ul>
                         <li><a href="" target="_blank"><b>"Jane Eyre’s legacy: The powers and dangers of
                                     singularity"</a> de
                             Susan Sniader Lanser</b>.</li>
