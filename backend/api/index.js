@@ -65,7 +65,6 @@ export default async function handler(request, response) {
     }
 
     if (request.method === 'POST' && pathname === '/api/chatbot') {
-      await requireUser(request);
       return await chatbot(request, response);
     }
 
