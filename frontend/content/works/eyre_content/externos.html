@@ -95,6 +95,8 @@
                                     Gutenberg</b></a>:
                             Accede al texto original en inglés de <i>Jane Eyre</i>.</li>
 
+                        <ul><b>Enlaces sobre el contexto histórico</b></ul>
+
                         <li><a href="https://books.google.es/books?hl=es&lr=&id=AAfwzrVX5UIC&oi=fnd&pg=PT6&dq=charlotte+bronte&ots=b-8kbHk04V&sig=3WO1Ykb_7Ao5jbYvaefjpN9c6rE#v=onepage&q=charlotte%20bronte&f=false"
                                 target="_blank"><b><i>The life of Charlotte Brontë</i></a> de Elizabeth Gaskell
                             (2011)</b>:
