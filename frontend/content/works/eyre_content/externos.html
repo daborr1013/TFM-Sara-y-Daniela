@@ -85,16 +85,22 @@
             </div>
 
             <section class="pjustificado">
+                <section class="layout">
+                    <img class="actividades" src="../../../media/images/externos.png" alt="Imagen de externos">
 
-                <p>Aquí encontrarás una selección de recursos adicionales que pueden enriquecer tu experiencia con
-                    <i>Jane Eyre</i>.
-                </p>
-                <section class="linksExternos">
-                    <ul>
+                    <section class="pjustificado">
+                        <p>Aquí encontrarás una selección de recursos adicionales que pueden enriquecer tu experiencia
+                            con
+                            <i>Jane Eyre</i>.
+                        </p>
                         <li><a href="https://www.gutenberg.org/ebooks/1260" target="_blank"><b>Proyecto
                                     Gutenberg</b></a>:
                             Accede al texto original en inglés de <i>Jane Eyre</i>.</li>
+                    </section>
+                </section>
 
+                <section class="linksExternos">
+                    <ul>
                         <ul><b>Enlaces sobre el contexto histórico:</b></ul>
 
                         <li><a href="https://books.google.es/books?hl=es&lr=&id=AAfwzrVX5UIC&oi=fnd&pg=PT6&dq=charlotte+bronte&ots=b-8kbHk04V&sig=3WO1Ykb_7Ao5jbYvaefjpN9c6rE#v=onepage&q=charlotte%20bronte&f=false"
