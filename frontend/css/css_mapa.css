@@ -1,0 +1,291 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #f5ecd7;
+  font-family: "Georgia", serif;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+h1 {
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  z-index: 20;
+  font-size: 24px;
+  color: #8a6a3f;
+  margin: 0;
+  font-style: italic;
+  background: rgba(249, 243, 233, 0.9);
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: 2px solid #8a6a3f;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+#mapa {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(245, 236, 215, 0.75), rgba(245, 236, 215, 0.75)), url('../media/images/mapaInglaterra.jpg') center/cover;
+  box-shadow: inset 0 0 40px rgba(90, 74, 31, 0.4);
+  overflow: hidden;
+}
+
+.node {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  z-index: 2;
+  transform: translate(-50%, -50%);
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.node-image {
+  width: clamp(45px, 6vw, 65px);
+  height: clamp(45px, 6vw, 65px);
+  border-radius: 50%;
+  border: 3px solid #8a6a3f;
+  background-color: #d4a574;
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+}
+
+.node-image.placeholder {
+  background-image: linear-gradient(135deg, #d4a574, #c0976f);
+}
+
+.node-label {
+  background: rgba(249, 243, 233, 0.9);
+  padding: 4px 10px;
+  border-radius: 12px;
+  border: 1px solid #8a6a3f;
+  font-size: clamp(10px, 1.2vw, 12px);
+  font-weight: bold;
+  color: #333;
+  white-space: nowrap;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.node:hover {
+  transform: translate(-50%, -50%) scale(1.15);
+  z-index: 10;
+}
+
+.node:hover .node-image {
+  border-color: #f1c40f;
+  box-shadow: 0 0 15px rgba(241, 196, 15, 0.6);
+}
+
+.node.main .node-image {
+  width: clamp(60px, 8vw, 85px);
+  height: clamp(60px, 8vw, 85px);
+  border: 4px solid #d9b97d;
+}
+
+.node.main .node-label {
+  font-size: clamp(12px, 1.5vw, 15px);
+  background: rgba(217, 185, 125, 0.9);
+}
+
+#lines {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+
+.place-label {
+  position: absolute;
+  font-size: clamp(14px, 2.5vw, 26px);
+  font-weight: bold;
+  color: #5a4a1f;
+  opacity: 0.6;
+  z-index: 0;
+  pointer-events: none;
+  font-style: italic;
+  font-family: "Georgia", serif;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  text-shadow: 2px 2px 4px rgba(255,255,255,0.8), -1px -1px 0 rgba(255,255,255,0.8);
+}
+
+.legend {
+  position: absolute;
+  bottom: 20px;
+  right: 30px;
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 15px 20px;
+  background: rgba(249, 243, 233, 0.9);
+  border: 2px solid #8a6a3f;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  color: #333;
+}
+
+.legend-color {
+  width: 40px;
+  height: 3px;
+  border-radius: 2px;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 100;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+  background-color: #f9f3e9;
+  margin: 5% auto;
+  padding: 30px;
+  border: 2px solid #8a6a3f;
+  border-radius: 8px;
+  width: 80%;
+  max-width: 600px;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+.close {
+  color: #8a6a3f;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.close:hover,
+.close:focus {
+  color: #c0976f;
+}
+
+.character-modal-content {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.character-image {
+  width: 180px;
+  height: auto;
+  border-radius: 8px;
+  border: 2px solid #8a6a3f;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.character-text h2 {
+  color: #8a6a3f;
+  font-size: 24px;
+  margin-bottom: 15px;
+  font-style: italic;
+}
+
+.character-text p {
+  color: #333;
+  font-size: 14px;
+  line-height: 1.8;
+  text-align: justify;
+  word-spacing: 2px;
+  margin: 0;
+}
+
+.color-odio {
+  background: #c0392b;
+}
+
+.color-afecto {
+  background: #f1c40f;
+}
+
+.color-amor {
+  background: #27ae60;
+}
+
+.color-relations {
+  background: #3498db;
+}
+
+/* Modal Styles */
+.modal {
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: none;
+}
+
+.modal-content {
+  background-color: #f9f3e9;
+  margin: 5% auto;
+  padding: 30px;
+  border: 2px solid #8a6a3f;
+  border-radius: 8px;
+  width: 80%;
+  max-width: 800px;
+  max-height: 80vh;
+  overflow-y: auto;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.close {
+  color: #8a6a3f;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+  line-height: 20px;
+}
+
+.close:hover,
+.close:focus {
+  color: #5a4a1f;
+}
+
+.modal-content h2 {
+  color: #8a6a3f;
+  margin-top: 0;
+  font-size: 24px;
+}
+
+.modal-content p {
+  color: #333;
+  line-height: 1.6;
+  font-size: 14px;
+}

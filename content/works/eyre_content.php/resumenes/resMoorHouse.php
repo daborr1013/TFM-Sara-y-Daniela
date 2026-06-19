@@ -1,0 +1,338 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>Resumen Moor House</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Este es el capítulo 1">
+    <meta name="keywords" content="HTML, CSS">
+    <link rel="stylesheet" href="../../../../css/css_eyre.css">
+    <link rel="icon" href="../../../../media/images/iconoPestanaClara.png" type="image/png">
+</head>
+
+<body>
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
+    <header>
+        <a href="../../../../index.php"><img class="logo" src="../../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
+    </header>
+
+    <nav class="navbar">
+        <ul class="menu">
+            <li><a href="../../../../index.php">Inicio</a></li>
+
+            <li class="dropdown">
+                <a href="../../../obras.php">Obras</a>
+                <ul class="dropdown-menu">
+                    <li><a href="../../eyre.php">Jane Eyre</a></li>
+                </ul>
+            </li>
+
+            <li><a href="../../../about_us.php">Sobre nosotras</a></li>
+            <li><a href="../../../litto.php">Litto</a></li>
+
+            <li><a href="../../../pUsuario.php">Perfil de usuario</a></li>
+        </ul>
+    </nav>
+
+    <main id="main">
+        <div class="layout">
+            <div class="sidebar">
+                <nav class="navbar-sidebar">
+                    <ul class="menu-sidebar">
+                        <li><a class="active" href="../inicio_eyre.php">Inicio</a></li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../contenido_eyre.php">Obra</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../resumenes/resumenes.php">Resúmenes</a></li>
+                                <li><a href="../capitulos.php">Capítulos</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../contexto_eyre.php">Contexto</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../charlotte.php">Charlotte Brontë</a></li>
+                                <li><a href="../contexto_historico.php">Contexto histórico</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../recursos_eyre.php">Recursos</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../simbolosTemas.php">Temas y Símbolos</a></li>
+                                <li><a href="../personajes.php">Personajes</a></li>
+                                <li><a href="../glosario.php">Glosario</a></li>
+                                <li><a href="../citas.php">Citas</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../actividades_eyre.php">Actividades</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../test.php">Tests</a></li>
+                                <li><a href="../rellenar.php">Rellenar</a></li>
+                                <li><a href="../desarrollar.php">Desarrollar</a></li>
+                                <li><a href="../flashcard.php">Flashcards</a></li>
+                                <li><a href="../juegos.php">Juegos</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="../externos.php">Enlaces externos</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <section class="pjustificado">
+                <section class="hero">
+                    <h1>Resumen bloque <i>Moor House</i></h1>
+                </section>
+
+                <section class="pjustificado">
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap28.php">Capítulo XXVIII</a>
+
+                    <p>Tras huir de Thornfield con apenas unas pocas monedas, <a
+                            href="../personajes/gateshead/jane.php">Jane</a> se ve obligada a gastar lo último que
+                        tiene en un carruaje
+                        que la deja en un lugar remoto llamado Whitcross. Sin dinero, sin comida y sin techo, <a
+                            href="../personajes/gateshead/jane.php">Jane</a> vive
+                        la degradación absoluta de la pobreza:
+                        duerme al raso entre los brezales, intenta cambiar su paño por un poco de pan y llega a mendigar
+                        sobras que un granjero iba a dar a sus cerdos.</p>
+                    <p>En un estado de agotamiento extremo y bajo una lluvia torrencial, <a
+                            href="../personajes/gateshead/jane.php">Jane</a> sigue una luz en el páramo
+                        que la lleva hasta una casa
+                        llamada Marsh End (o Moor House). A través de la ventana, observa a dos mujeres cultas, <a
+                            href="../personajes/moorhouse/diana.php">Diana</a> y
+                        <a href="../personajes/moorhouse/mary.php">Mary</a>, y a su criada Hannah. Cuando intenta pedir
+                        ayuda, Hannah la rechaza confundiéndola con una vagabunda común. Justo cuando <a
+                            href="../personajes/gateshead/jane.php">Jane</a> se desploma
+                        aceptando su muerte, aparece <a href="../personajes/moorhouse/johnRivers.php">St. John
+                            Rivers</a>,
+                        el hermano de las
+                        jóvenes y clérigo del lugar, quien la rescata citando la voluntad de Dios. Los tres hermanos la
+                        acogen, le dan alimento y calor, mientras <a href="../personajes/gateshead/jane.php">Jane</a>,
+                        para
+                        proteger su pasado, les da un nombre falso: Jane Elliott.
+                    </p>
+
+                </section>
+
+                <section class="pjustificado">
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap29.php">Capítulo XXIX</a>
+
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a> baja a la cocina y tiene un pequeño
+                        enfrentamiento con Hannah, la sirvienta, quien la juzga
+                        por su apariencia de mendiga.
+                        <a href="../personajes/gateshead/jane.php">Jane</a>, con su característica dignidad, le da una
+                        lección de moral: le recuerda que la pobreza no
+                        es un crimen y que no debería juzgar a alguien solo por su
+                        falta de dinero. Hannah, avergonzada, se disculpa y terminan haciendo las paces.
+                    </p>
+                    <p>Cuando <a href="../personajes/moorhouse/johnRivers.php">St. John</a> le pide que cuente su
+                        historia,
+                        <a href="../personajes/gateshead/jane.php">Jane</a>
+                        (bajo el pseudónimo de Jane Elliott) les
+                        confiesa que es huérfana y que ha huido
+                        de una situación dolorosa, pero se niega rotundamente a dar detalles sobre su pasado o el lugar
+                        de donde viene. <a href="../personajes/moorhouse/johnRivers.php">St. John</a> acepta su secreto
+                        y
+                        le promete
+                        ayudarla a encontrar un trabajo que le permita ser independiente.
+                    </p>
+
+                </section>
+
+                <section class="pjustificado">
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap30.php">Capítulo XXX</a>
+
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a> entabla una amistad profunda con <a
+                            href="../personajes/moorhouse/diana.php">Diana</a> y <a
+                            href="../personajes/moorhouse/mary.php">Mary</a>. Las tres comparten el amor por la lectura
+                        y
+                        el estudio (especialmente de idiomas como el alemán).
+                        <a href="../personajes/gateshead/jane.php">Jane</a> admira su independencia y su intelecto,
+                        sintiéndose por primera vez tratada como una igual
+                        en un entorno familiar sano.
+                        Sin embargo, <a href="../personajes/moorhouse/johnRivers.php">St. John</a> sigue siendo un
+                        enigma: es
+                        un hombre entregado a su deber religioso, pero
+                        <a href="../personajes/gateshead/jane.php">Jane</a> nota que no es feliz; parece devorado por
+                        una
+                        ambición
+                        severa y un deseo de hacer algo "grande" que lo aleja de la paz doméstica.
+                    </p>
+                    <p>Los Rivers se enteran de que un tío suyo ha muerto y les ha dejado casi nada, legando su inmensa
+                        fortuna a otro pariente desconocido.
+                        Esto entristece a las hermanas, no por el dinero en sí, sino porque esperaban que esa herencia
+                        les permitiera dejar de trabajar como institutrices en casas ajenas.</p>
+                    <p><a href="../personajes/moorhouse/johnRivers.php">St. John</a> finalmente le encuentra un trabajo
+                        a
+                        <a href="../personajes/gateshead/jane.php">Jane</a>. Le ofrece ser la maestra de una escuela
+                        para
+                        niñas pobres en el pueblo de Morton.
+                        El salario es bajo y el trabajo humilde, pero <a
+                            href="../personajes/gateshead/jane.php">Jane</a>
+                        acepta con gratitud porque le ofrece lo que
+                        más desea: independencia total.
+                    </p>
+                </section>
+
+                <section class="pjustificado">
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap31.php">Capítulo XXXI</a>
+
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a> inaugura su escuela con solo veinte
+                        alumnas, de las cuales solo tres saben leer. Al
+                        principio, se siente desanimada y lucha
+                        contra una sensación de degradación; después de haber sido la compañera intelectual de
+                        <a href="../personajes/thornfield/edwardRochester.php">Rochester</a>, verse enseñando el
+                        abecedario en
+                        una aldea rural le
+                        resulta un cambio brusco. Sin embargo, su autodisciplina vence de nuevo: se prohíbe a sí misma
+                        mirar atrás con nostalgia y se compromete a hacer su
+                        trabajo con dignidad.
+                    </p>
+                    <p>En este capítulo aparece un personaje clave: Rosamond Oliver, la hija del hombre más rico de la
+                        zona. Rosamond es "la mujer más
+                        hermosa que <a href="../personajes/gateshead/jane.php">Jane</a> ha visto jamás" (incluso más que
+                        <a href="../personajes/thornfield/ingram.php">Blanche Ingram</a>). Ella llega a la escuela y
+                        su
+                        presencia ilumina el lugar. <a href="../personajes/gateshead/jane.php">Jane</a> observa con
+                        atención
+                        la reacción de <a href="../personajes/moorhouse/johnRivers.php">St. John Rivers</a> ante ella,
+                        ya
+                        que es evidente que ambos se atraen pero <a href="../personajes/moorhouse/johnRivers.php">St.
+                            John</a> se
+                        obliga a ser distante con ella por su ambición
+                        religiosa, que le impide casarse con alguien que solo busca placeres mundanos.
+                    </p>
+                </section>
+
+                <section class="pjustificado">
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap32.php">Capítulo XXXII</a>
+
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a> gana el respeto y el cariño de sus alumnas
+                        en Morton, descubriendo que incluso las niñas más
+                        humildes tienen talentos ocultos.
+                        Su vida es tranquila, pero sus noches están llenas de sueños vívidos y dolorosos con <a
+                            href="../personajes/thornfield/edwardRochester.php">Rochester</a>.
+                    </p>
+                    <p>Rosamond Oliver visita la escuela con frecuencia, claramente buscando encontrarse con <a
+                            href="../personajes/moorhouse/johnRivers.php">St. John</a>.
+                        Un día, <a href="../personajes/gateshead/jane.php">Jane</a> se ofrece a hacerle un
+                        retrato a lápiz a Rosamond. Mientras trabaja, <a
+                            href="../personajes/moorhouse/johnRivers.php">St. John</a> llega y queda cautivado por la
+                        imagen.
+                        <a href="../personajes/gateshead/jane.php">Jane</a>, valiente y directa, aprovecha la
+                        oportunidad
+                        para
+                        confrontarlo. <a href="../personajes/moorhouse/johnRivers.php">St. John</a> explica que su
+                        verdadera vocación es ser misionero en la India. Sabe que
+                        Rosamond, con su amor por el lujo y la vida social,
+                        moriría de aburrimiento y calor en un año. Prefiere sacrificar su felicidad personal por lo que
+                        considera su deber sagrado.
+                    </p>
+                </section>
+
+                <section class="pjustificado">
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap33.php">Capítulo XXXIII</a>
+
+                    <p>En una noche de tormenta de nieve, <a href="../personajes/moorhouse/johnRivers.php">St. John
+                            Rivers</a> llega a la cabaña de <a href="../personajes/gateshead/jane.php">Jane</a>. Tras un
+                        preámbulo
+                        lleno de tensión, le cuenta una
+                        historia que parece salida de un libro: habla de una tal <a
+                            href="../personajes/gateshead/jane.php">Jane Eyre</a>, una institutriz que
+                        desapareció de Thornfield Hall tras un intento de boda ilegal
+                        con el <a href="../personajes/thornfield/edwardRochester.php">Sr. Rochester</a>. <a
+                            href="../personajes/moorhouse/johnRivers.php">St. John</a> revela cómo la encontró: el
+                        trozo de papel que arrancó en el
+                        capítulo anterior tenía escrito el nombre real de ella;
+                        el abogado de Londres, el Sr. Briggs (el mismo que detuvo la boda), ha estado buscándola
+                        desesperadamente porque su tío, John Eyre, ha muerto en
+                        Madeira y le ha dejado a Jane toda su fortuna: 20,000 libras.</p>
+                    <p>Lo más conmovedor para <a href="../personajes/gateshead/jane.php">Jane</a> no es el dinero. Al
+                        hacer
+                        preguntas sobre la familia de <a href="../personajes/moorhouse/johnRivers.php">St. John</a>,
+                        descubre la verdad definitiva:
+                        el padre de <a href="../personajes/moorhouse/johnRivers.php">St. John</a>, <a
+                            href="../personajes/moorhouse/diana.php">Diana</a> y <a
+                            href="../personajes/moorhouse/mary.php">Mary</a> era el
+                        hermano de la madre de <a href="../personajes/gateshead/jane.php">Jane</a>. Los River son sus
+                        primos.
+                        En vez de regodearse en su riqueza, salta de alegría
+                        al saber que tiene familia. Inmediatamente decide dividir las 20,000 libras en cuatro partes
+                        iguales ($5,000$ para cada uno), para que sus primos
+                        también sean independientes y puedan dejar de trabajar como sirvientes o institutrices.</p>
+                </section>
+
+                <section class="pjustificado">
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap34.php">Capítulo XXXIV</a>
+
+                    <p>Tras repartir la herencia, las hermanas <a href="../personajes/moorhouse/diana.php">Diana</a> y
+                        <a href="../personajes/moorhouse/mary.php">Mary</a> regresan a Moor House, y por primera vez en
+                        su vida, <a href="../personajes/gateshead/jane.php">Jane</a> disfruta de un hogar
+                        lleno de afecto y libertad económica. Sin embargo, <a
+                            href="../personajes/moorhouse/johnRivers.php">St. John</a> no se permite disfrutar. Se
+                        vuelve
+                        cada vez más exigente con <a href="../personajes/gateshead/jane.php">Jane</a>, pidiéndole que
+                        deje de
+                        estudiar alemán y aprenda hindustani, preparándola para su misión en la India
+                    </p>
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a> se siente anulada por la voluntad de hierro
+                        de
+                        su primo. Ella describe su influencia como
+                        una "neblina helada" que apaga su
+                        chispa natural. El clímax del capítulo llega cuando <a
+                            href="../personajes/moorhouse/johnRivers.php">St. John</a> le hace una propuesta de
+                        matrimonio, pero de una forma totalmente desprovista de amor.
+                        No le pide que sea su esposa por afecto, sino porque la considera una "herramienta adecuada"
+                        para su labor misionera.</p>
+                    <p><a href="../personajes/gateshead/jane.php">Jane</a> acepta ir a la India como su "hermana" o
+                        colaboradora, pero se niega a casarse con él. Ella
+                        sabe que un matrimonio sin amor
+                        con un hombre tan frío serían una forma de suicidio emocional. Él se siente profundamente
+                        ofendido por su negativa, tachándola de rebelde ante la voluntad
+                        de Dios, y comienza a tratarla con una cortesía gélida que hiere a Jane más que cualquier grito.
+                    </p>
+                </section>
+
+                <section class="pjustificado">
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap35.php">Capítulo XXXV</a>
+
+                    <p>Tras el rechazo de <a href="../personajes/gateshead/jane.php">Jane</a>, <a
+                            href="../personajes/moorhouse/johnRivers.php">St. John</a> utiliza su arma más poderosa: la
+                        culpa religiosa. Durante una
+                        semana, la trata con una frialdad gélida
+                        que hace que <a href="../personajes/gateshead/jane.php">Jane</a> se sienta como una pecadora
+                        ante
+                        Dios. <a href="../personajes/moorhouse/diana.php">Diana</a> intenta advertirle que casarse
+                        con él sería una locura, pero <a href="../personajes/moorhouse/johnRivers.php">St. John</a>
+                        redobla
+                        su presión.</p>
+                    <p>Una noche, <a href="../personajes/moorhouse/johnRivers.php">St. John</a> reza con tal fervor y
+                        autoridad que <a href="../personajes/gateshead/jane.php">Jane</a> se siente al borde de la
+                        rendición.
+                        Por un momento, cree que su destino
+                        es sacrificarse y casarse con él para servir a la misión en la India. Está a punto de decir
+                        "sí", cuando de repente ocurre algo sobrenatural:
+                        en el silencio absoluto de la noche, <a href="../personajes/gateshead/jane.php">Jane</a> escucha
+                        una voz conocida que la llama, pero no es una
+                        voz que está en su cabeza, la está oyendo realmente.
+                        Reconoce al instante que es la voz de <a
+                            href="../personajes/thornfield/edwardRochester.php">Edward Rochester</a>.</p>
+                    <p>Este fenómeno le devuelve la fuerza y la claridad. Rompe el hechizo de <a
+                            href="../personajes/moorhouse/johnRivers.php">St. John</a>, lo aparta y
+                        declara que ahora es ella quien tiene
+                        un deber que cumplir.</p>
+                </section>
+
+                <section>
+                    <a class="boton" href="../contenido_eyre.php">Regresar a contenido</a>
+                </section>
+        </div>
+    </main>
+</body>
+
+</html>

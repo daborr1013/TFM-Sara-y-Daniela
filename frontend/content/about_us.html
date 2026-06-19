@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- Meta viewport para accesibilidad en dispositivos móviles -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Literally</title>
+    <link rel="stylesheet" href="../css/css_litterally.css">
+    <link rel="icon" href="../media/images/iconoPestanaClara.png">
+</head>
+
+<body>
+
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
+
+    <header>
+        <!-- Logo con texto alternativo para lectores de pantalla -->
+        <a href="../index.html"><img class="logo" src="../media/images/litGrande.png" alt="Literally - Inicio"></a>
+    </header>
+
+    <nav class="navbar">
+        <ul class="menu">
+            <li><a href="../index.html">Inicio</a></li>
+
+            <li class="dropdown">
+                <a href="obras.html">Obras</a>
+                <ul class="dropdown-menu">
+                    <li><a href="works/eyre.html">Jane Eyre</a></li>
+                </ul>
+            </li>
+
+            <li><a href="about_us.html">Sobre nosotras</a></li>
+            <li><a href="litto.html">Litto</a></li>
+            <li data-auth="in"><a href="../content/pUsuario.html">Perfil de usuario</a></li>
+            <li data-auth="in"><button class="nav-action" type="button" data-logout>Cerrar sesión</button></li>
+            <li data-auth="out"><a href="../login.html">Iniciar sesión</a></li>
+            <li data-auth="out"><a href="../register.html">Registrarse</a></li>
+        </ul>
+    </nav>
+
+    <main id="main">
+        <section class="hero">
+            <!-- Encabezado principal h1 para mejor jerarquía semántica -->
+            <h1>Daniela Borrego & Sara Escribano</h1>
+        </section>
+
+        <section class="layout">
+            <section class="pjustificado">
+                <h2>Daniela Borrego</h2>
+
+                <section class="layout">
+                    <section class="pjustificado">
+                        <p>Hello! Soy Daniela, fan de la literatura de romance y terror, la música y el cine.</p>
+
+                        <p>Graduada en Lenguas Modernas y sus Literaturas en la Universidad Complutense de Madrid,
+                            estudios enfocados en
+                            la lengua francesa e inglesa y en sus respectivos ámbitos literarios y lingüísticos.</p>
+
+                        <p>Actualmente me encuentro estudiando un máster en Letras Digitales en la Universidad
+                            Complutense de Madrid, en el que me especializo
+                            en la rama del e-Learning. Además, hago prácticas en Asteria, Asociación Internacional de
+                            Mitocrítica, en el que estoy desarrollando un proyecto
+                            de desarrollo y programación de un mapa interactivo.
+                        </p>
+
+                        <p>Anteriormente, he trabajado como agente de call center en la empresa Nexia Solutions S.L., en
+                            el que he gestionado llamadas telefónicas a la vez que
+                            me he formado en el ámbito de la atención al cliente y a la gestión de reservas de cadenas
+                            hoteleras.
+                        </p>
+                    </section>
+                    <img class="nosotras" src="../media/images/dani.jpeg" alt="Daniela Borrego">
+                </section>
+            </section>
+
+            <section class="pjustificado">
+                <h2>Sara Escribano</h2>
+
+                <section class="layout">
+                    <section class="pjustificado">
+                        <p>¡Hola! Soy Sara, apasionada por la escritura, la literatura y el arte audiovisual.</p>
+
+                        <p>Mi trayectoria comenzó estudiando Lenguas Modernas, Cultura y Comunicación en la Universidad
+                            Autónoma de Madrid,
+                            donde me enfoqué en asesoría lingüística, escritura creativa y comunicación audiovisual.</p>
+
+                        <p>Actualmente trabajo en una librería y hago prácticas en Lovi AI mientras estudio un master en
+                            Letras Digitales en la Universidad Complutense de Madrid,
+                            en el cual profundizamos en diferentes ramas de las Humanidades Digitales.</p>
+
+                        <p>También he realizado un voluntariado como copywriter en Socialty y un curso especializado en
+                            Maquillaje Social y Caracterización.</p>
+                    </section>
+                    <img class="nosotras" src="../media/images/sara.jpg" alt="Sara Escribano">
+                </section>
+            </section>
+        </section>
+    </main>
+
+    <footer>
+        <p>TFM – Letras Digitales – UCM</p>
+    </footer>
+    <script type="module" src="/js/app.js"></script>
+</body>
+
+</html>

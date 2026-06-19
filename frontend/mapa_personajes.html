@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mapa de relaciones - Literally</title>
+  <link rel="stylesheet" href="css/css_mapa.css">
+  <link rel="icon" href="media/images/iconoPestanaClara.png">
+</head>
+
+<body>
+  <h1>Mapa de relaciones</h1>
+
+  <div id="mapa">
+    <svg id="lines"></svg>
+
+    <div class="place-label" style="left: 5.83%; top: 4.28%;">Gateshead</div>
+    <div class="place-label" style="left: 10%; top: 75.71%;">Lowood</div>
+    <div class="place-label" style="left: 70.83%; top: 5.71%;">Moor House</div>
+    <div class="place-label" style="left: 75%; top: 22.85%;">Thornfield</div>
+
+    <div class="node main" id="jane" style="left: 50%; top: 50%;" onclick="showCharacter('jane')">
+      <div class="node-image" style="background-image: url('media/images/jane.png');"></div>
+      <span class="node-label">Jane Eyre</span>
+    </div>
+    <div class="node" id="reed_sra" style="left: 6.66%; top: 11.42%;" onclick="showCharacter('reed_sra')">
+      <div class="node-image" style="background-image: url('media/images/senoraReed.png');"></div>
+      <span class="node-label">Sra. Reed</span>
+    </div>
+    <div class="node" id="eliza" style="left: 6.66%; top: 28.57%;" onclick="showCharacter('eliza')">
+      <div class="node-image" style="background-image: url('media/images/eliza.png');"></div>
+      <span class="node-label">Eliza Reed</span>
+    </div>
+    <div class="node" id="georgiana" style="left: 6.66%; top: 40%;" onclick="showCharacter('georgiana')">
+      <div class="node-image" style="background-image: url('media/images/georgina.png');"></div>
+      <span class="node-label">Georgiana Reed</span>
+    </div>
+    <div class="node" id="john" style="left: 6.66%; top: 51.42%;" onclick="showCharacter('john')">
+      <div class="node-image" style="background-image: url('media/images/johnReed.png');"></div>
+      <span class="node-label">John Reed</span>
+    </div>
+    <div class="node" id="bessie" style="left: 12.5%; top: 64.28%;" onclick="showCharacter('bessie')">
+      <div class="node-image" style="background-image: url('media/images/bessie.png');"></div>
+      <span class="node-label">Bessie</span>
+    </div>
+    <div class="node" id="lloyd" style="left: 16.66%; top: 28.57%;" onclick="showCharacter('lloyd')">
+      <div class="node-image" style="background-image: url('media/images/lloyd.png');"></div>
+      <span class="node-label">Señor Lloyd</span>
+    </div>
+    <div class="node" id="brocklehu" style="left: 8.33%; top: 82.85%;" onclick="showCharacter('brocklehu')">
+      <div class="node-image" style="background-image: url('media/images/brocklehurst.png');"></div>
+      <span class="node-label">Sr. Brocklehurst</span>
+    </div>
+    <div class="node" id="helen" style="left: 18.33%; top: 88.57%;" onclick="showCharacter('helen')">
+      <div class="node-image" style="background-image: url('media/images/helen.png');"></div>
+      <span class="node-label">Helen Burns</span>
+    </div>
+    <div class="node" id="senorita" style="left: 23.33%; top: 80%;" onclick="showCharacter('senorita')">
+      <div class="node-image" style="background-image: url('media/images/temple.png');"></div>
+      <span class="node-label">Señorita Temple</span>
+    </div>
+    <div class="node" id="rochester" style="left: 70.83%; top: 40%;" onclick="showCharacter('rochester')">
+      <div class="node-image" style="background-image: url('media/images/rochester.png');"></div>
+      <span class="node-label">Edward Rochester</span>
+    </div>
+    <div class="node" id="adele" style="left: 79.16%; top: 28.57%;" onclick="showCharacter('adele')">
+      <div class="node-image" style="background-image: url('media/images/adele.png');"></div>
+      <span class="node-label">Adèle Varens</span>
+    </div>
+    <div class="node" id="fairfax" style="left: 75%; top: 54.28%;" onclick="showCharacter('fairfax')">
+      <div class="node-image" style="background-image: url('media/images/fairfaix.png');"></div>
+      <span class="node-label">Sra. Fairfax</span>
+    </div>
+    <div class="node" id="grace" style="left: 83.33%; top: 50%;" onclick="showCharacter('grace')">
+      <div class="node-image" style="background-image: url('media/images/gracePoole.png');"></div>
+      <span class="node-label">Grace Poole</span>
+    </div>
+    <div class="node" id="bertha" style="left: 87.5%; top: 40%;" onclick="showCharacter('bertha')">
+      <div class="node-image" style="background-image: url('media/images/bertha.png');"></div>
+      <span class="node-label">Bertha Mason</span>
+    </div>
+    <div class="node" id="ingram" style="left: 79.16%; top: 68.57%;" onclick="showCharacter('ingram')">
+      <div class="node-image" style="background-image: url('media/images/ingram.png');"></div>
+      <span class="node-label">Blanche Ingram</span>
+    </div>
+    <div class="node" id="john_rivers" style="left: 70.83%; top: 11.42%;" onclick="showCharacter('john_rivers')">
+      <div class="node-image" style="background-image: url('media/images/johnRivers.png');"></div>
+      <span class="node-label">St. John Rivers</span>
+    </div>
+    <div class="node" id="diana" style="left: 76.66%; top: 17.14%;" onclick="showCharacter('diana')">
+      <div class="node-image" style="background-image: url('media/images/diana.png');"></div>
+      <span class="node-label">Diana Rivers</span>
+    </div>
+    <div class="node" id="mary" style="left: 82.5%; top: 11.42%;" onclick="showCharacter('mary')">
+      <div class="node-image" style="background-image: url('media/images/mary.png');"></div>
+      <span class="node-label">Mary Rivers</span>
+    </div>
+  </div>
+
+  <div id="characterModal" class="modal" style="display: none;">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal()">&times;</span>
+      <div id="characterInfo"></div>
+    </div>
+  </div>
+
+  <div class="legend">
+    <div class="legend-item">
+      <div class="legend-color color-odio"></div><span>Odio, abuso, opresión</span>
+    </div>
+    <div class="legend-item">
+      <div class="legend-color color-afecto"></div><span>Afecto, amistad, estabilidad</span>
+    </div>
+    <div class="legend-item">
+      <div class="legend-color color-relations"></div><span>Relaciones frías, intelectuales</span>
+    </div>
+    <div class="legend-item">
+      <div class="legend-color color-amor"></div><span>Amor</span>
+    </div>
+  </div>
+
+  <script>
+    const characters = {
+      jane: { nombre: 'Jane Eyre', descripcion: 'Protagonista de la novela. Su trayectoria articula independencia, deseo de justicia y crecimiento moral.' },
+      reed_sra: { nombre: 'Sra. Reed', descripcion: 'Tía de Jane en Gateshead. Representa autoridad familiar opresiva.' },
+      eliza: { nombre: 'Eliza Reed', descripcion: 'Prima de Jane. Mantiene una relación distante y fría con ella.' },
+      georgiana: { nombre: 'Georgiana Reed', descripcion: 'Prima de Jane, asociada al privilegio y la vanidad.' },
+      john: { nombre: 'John Reed', descripcion: 'Primo de Jane. Encarna la violencia doméstica inicial.' },
+      bessie: { nombre: 'Bessie', descripcion: 'Criada de Gateshead. Ofrece a Jane algunos gestos de cuidado.' },
+      lloyd: { nombre: 'Señor Lloyd', descripcion: 'Boticario que interviene tras el episodio del cuarto rojo.' },
+      brocklehu: { nombre: 'Señor Brocklehurst', descripcion: 'Figura autoritaria de Lowood, vinculada a disciplina y humillación.' },
+      helen: { nombre: 'Helen Burns', descripcion: 'Amiga de Jane en Lowood. Simboliza paciencia, espiritualidad y afecto.' },
+      senorita: { nombre: 'Señorita Temple', descripcion: 'Maestra de Lowood. Da estabilidad, reconocimiento y cuidado.' },
+      rochester: { nombre: 'Edward Rochester', descripcion: 'Dueño de Thornfield y figura central del vínculo amoroso de Jane.' },
+      adele: { nombre: 'Adèle Varens', descripcion: 'Niña tutelada por Rochester y alumna de Jane.' },
+      fairfax: { nombre: 'Sra. Fairfax', descripcion: 'Ama de llaves de Thornfield. Aporta cercanía y estructura doméstica.' },
+      grace: { nombre: 'Grace Poole', descripcion: 'Sirvienta de Thornfield ligada al misterio de la casa.' },
+      bertha: { nombre: 'Bertha Mason', descripcion: 'Esposa de Rochester, encerrada en Thornfield. Concentra el secreto gótico de la novela.' },
+      ingram: { nombre: 'Blanche Ingram', descripcion: 'Figura social que contrasta con Jane en clase, belleza y expectativas matrimoniales.' },
+      john_rivers: { nombre: 'St. John Rivers', descripcion: 'Primo de Jane. Representa deber religioso, renuncia y presión moral.' },
+      diana: { nombre: 'Diana Rivers', descripcion: 'Prima de Jane. Forma parte de la familia encontrada en Moor House.' },
+      mary: { nombre: 'Mary Rivers', descripcion: 'Prima de Jane. Refuerza el espacio familiar de Moor House.' }
+    };
+
+    const relations = [
+      { from: 'jane', to: 'reed_sra', type: 'odio' },
+      { from: 'jane', to: 'eliza', type: 'relations' },
+      { from: 'jane', to: 'georgiana', type: 'relations' },
+      { from: 'jane', to: 'john', type: 'odio' },
+      { from: 'jane', to: 'bessie', type: 'afecto' },
+      { from: 'jane', to: 'lloyd', type: 'afecto' },
+      { from: 'jane', to: 'brocklehu', type: 'odio' },
+      { from: 'jane', to: 'helen', type: 'afecto' },
+      { from: 'jane', to: 'senorita', type: 'afecto' },
+      { from: 'jane', to: 'diana', type: 'afecto' },
+      { from: 'jane', to: 'mary', type: 'afecto' },
+      { from: 'jane', to: 'john_rivers', type: 'relations' },
+      { from: 'jane', to: 'rochester', type: 'amor' },
+      { from: 'jane', to: 'adele', type: 'afecto' },
+      { from: 'jane', to: 'grace', type: 'relations' },
+      { from: 'jane', to: 'fairfax', type: 'afecto' },
+      { from: 'rochester', to: 'bertha', type: 'odio' },
+      { from: 'rochester', to: 'adele', type: 'afecto' },
+      { from: 'rochester', to: 'ingram', type: 'relations' },
+      { from: 'adele', to: 'ingram', type: 'odio' },
+      { from: 'helen', to: 'senorita', type: 'afecto' }
+    ];
+
+    function showCharacter(characterId) {
+      const character = characters[characterId];
+      if (!character) return;
+      document.getElementById('characterInfo').innerHTML = `
+        <div class="character-modal-content">
+          <div class="character-text">
+            <h2>${character.nombre}</h2>
+            <p>${character.descripcion}</p>
+          </div>
+        </div>
+      `;
+      document.getElementById('characterModal').style.display = 'block';
+    }
+
+    function closeModal() {
+      document.getElementById('characterModal').style.display = 'none';
+    }
+
+    window.onclick = function (event) {
+      const modal = document.getElementById('characterModal');
+      if (event.target === modal) modal.style.display = 'none';
+    };
+  </script>
+  <script src="js/js_mapa.js"></script>
+  <script type="module" src="/js/app.js"></script>
+</body>
+
+</html>

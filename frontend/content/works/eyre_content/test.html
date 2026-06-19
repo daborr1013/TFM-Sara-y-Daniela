@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Literally-Eyre-Tests</title>
+        <link rel="stylesheet" href="../../../css/css_eyre.css">
+        <link rel="icon" href="../../../media/images/iconoPestanaClara.png">
+    </head>
+</head>
+
+<body>
+
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
+
+    <header>
+        <a href="../../../index.html"><img class="logo" src="../../../media/images/litGrande.png"
+                alt="Literally - Inicio"></a>
+    </header>
+
+    <nav class="navbar">
+        <ul class="menu">
+            <li><a href="../../../index.html">Inicio</a></li>
+
+            <li class="dropdown">
+                <a href="../../obras.html">Obras</a>
+                <ul class="dropdown-menu">
+                    <li><a href="../eyre.html">Jane Eyre</a></li>
+                </ul>
+            </li>
+
+            <li><a href="../../about_us.html">Sobre nosotras</a></li>
+            <li><a href="../../litto.html">Litto</a></li>
+            <li data-auth="in"><a href="../../../content/pUsuario.html">Perfil de usuario</a></li>
+            <li data-auth="in"><button class="nav-action" type="button" data-logout>Cerrar sesión</button></li>
+            <li data-auth="out"><a href="../../../login.html">Iniciar sesión</a></li>
+            <li data-auth="out"><a href="../../../register.html">Registrarse</a></li>
+        </ul>
+    </nav>
+
+    <main id="main">
+        <section class="hero">
+            <h1>Tests</h1>
+        </section>
+
+        <div class="layout">
+            <div class="sidebar">
+                <nav class="navbar-sidebar">
+                    <ul class="menu-sidebar">
+                        <li><a class="active" href="inicio_eyre.html">Inicio</a></li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="contenido_eyre.html">Obra</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="resumenes/resumenes.html">Resúmenes</a></li>
+                                <li><a href="capitulos.html">Capítulos</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="contexto_eyre.html">Contexto</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="charlotte.html">Charlotte Brontë</a></li>
+                                <li><a href="contexto_historico.html">Contexto histórico</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="recursos_eyre.html">Recursos</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="simbolosTemas.html">Temas y Símbolos</a></li>
+                                <li><a href="personajes.html">Personajes</a></li>
+                                <li><a href="glosario.html">Glosario</a></li>
+                                <li><a href="citas.html">Citas</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="actividades_eyre.html">Actividades</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="test.html">Tests</a></li>
+                                <li><a href="rellenar.html">Rellenar</a></li>
+                                <li><a href="desarrollar.html">Desarrollar</a></li>
+                                <li><a href="flashcard.html">Flashcards</a></li>
+                                <li><a href="juegos.html">Juegos</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="externos.html">Enlaces externos</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <section class="exel" style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+                <div style="width: 100%; max-width: 800px;">
+                    <div data-progress-widget></div>
+                </div>
+                <iframe src="../../../content/actividades_eyre/tests/index.html" width="100%" height="700"
+                    style="border:none;"></iframe>
+                <div style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
+                    <button class="btn-guardar-progreso" type="button" data-progress-activity-id="1"
+                        data-progress-score="100" data-progress-name="Test - Jane Eyre">Marcar como completada</button>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <p>TFM - Letras Digitales - UCM</p>
+    </footer>
+    <script type="module" src="/js/app.js"></script>
+</body>
+
+</html>

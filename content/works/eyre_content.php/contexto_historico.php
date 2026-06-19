@@ -1,0 +1,278 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Litterally-Eyre-Contexto histórico</title>
+    <link rel="stylesheet" href="../../../css/css_eyre.css">
+    <link rel="icon" href="../../../media/images/iconoPestanaClara.png">
+</head>
+
+<body>
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
+
+    <header>
+        <a href="../../../index.php"><img class="logo" src="../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
+    </header>
+
+    <nav class="navbar">
+        <ul class="menu">
+            <li><a href="../../../index.php">Inicio</a></li>
+
+            <li class="dropdown">
+                <a href="../../obras.php">Obras</a>
+                <ul class="dropdown-menu">
+                    <li><a href="../eyre.php">Jane Eyre</a></li>
+                </ul>
+            </li>
+
+            <li><a href="../../about_us.php">Sobre nosotras</a></li>
+            <li><a href="../../litto.php">ALitto</a></li>
+            <li><a href="../../pUsuario.php">Perfil de usuario</a></li>
+        </ul>
+    </nav>
+
+    <main id="main">
+        <section class="hero">
+            <h1>Contexto histórico</h1>
+        </section>
+
+        <div class="layout">
+            <div class="sidebar">
+                <nav class="navbar-sidebar">
+                    <ul class="menu-sidebar">
+                        <li><a class="active" href="inicio_eyre.php">Inicio</a></li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="contenido_eyre.php">Contenido</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="resumenes/resumenes.php">Resúmenes</a></li>
+                                <li><a href="capitulos.php">Capítulos</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="contexto_eyre.php">Obra</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="charlotte.php">Charlotte Brontë</a></li>
+                                <li><a href="contexto_historico.php">Contexto histórico</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="recursos_eyre.php">Recursos</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="simbolosTemas.php">Temas y Símbolos</a></li>
+                                <li><a href="personajes.php">Personajes</a></li>
+                                <li><a href="glosario.php">Glosario</a></li>
+                                <li><a href="citas.php">Citas</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="actividades_eyre.php">Actividades</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="test.php">Tests</a></li>
+                                <li><a href="rellenar.php">Rellenar</a></li>
+                                <li><a href="desarrollar.php">Desarrollar</a></li>
+                                <li><a href="flashcard.php">Flashcards</a></li>
+                                <li><a href="juegos.php">Juegos</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="externos.php">Enlaces externos</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <section class="pjustificado">
+                <h3>Marco histórico. Un siglo de cambios.</h3>
+                <p>Para entender a Jane, es esencial situarla en la línea del tiempo de la monarquía británica:</p>
+                <ul>
+                    <li><b>Regencia (1811-1820)</b>: La infancia de las Brontë ocurre bajo la influencia de este periodo
+                        pre-victoriano, marcado por las
+                        Guerras Napoleónicas y la tensión entre la razón y la pasión.</li>
+                    <li><b>Era Victoriana (1837-1901)</b>: El contexto real de la novela. Una época de responsabilidad
+                        moral, expansión del Imperio y una fe
+                        que empieza a tambalearse por descubrimientos científicos (como la geología de Lyell o la
+                        evolución de Darwin).</li>
+                    <li><b>La Gran Exposición (1851)</b>: El clímax del orgullo británico, mostrando la riqueza y los
+                        inventos (telégrafo, fotografía) que cambiaron
+                        el mundo mientras Charlotte escribía.</li>
+                </ul>
+
+                <br>
+
+                <details>
+                    <summary>
+                        <h3>Época Victoriana</h3>
+                    </summary>
+                    <p>La época victoriana, llamada así por la reina Victoria I, fue un periodo de grandes cambios
+                        sociales, económicos e industriales. La población creció rápidamente y la industrialización
+                        transformó la vida cotidiana, aunque también trajo problemas como pobreza, desempleo,
+                        explotación laboral, accidentes en fábricas y trabajo infantil.</p>
+                    <p>Uno de sus rasgos principales fue la importancia de la moral y el deber social. Se valoraban la
+                        disciplina, el comportamiento correcto y el orden, especialmente en temas como la sexualidad.
+                        Sin embargo, también existía una gran hipocresía entre lo que se mostraba en público y lo que
+                        ocurría en privado.</p>
+                    <ul>
+                        <li><b>Early Victorian (1830-1848):</b> periodo de reformas como la ampliación del voto (Reform
+                            Bill de 1832) y el desarrollo del ferrocarril. Aun así, persistían la pobreza y el
+                            desempleo. Surgen movimientos como el cartismo. En literatura destacan las novelas sociales
+                            y el <i>Bildungsroman</i> (novela de formación).</li>
+                        <li><b>Mid Victorian (1848-1870):</b> se consolidan los avances industriales y científicos. El
+                            Imperio británico alcanza su máximo esplendor. Sin embargo, aparecen dudas religiosas debido
+                            al progreso científico. Predominan las novelas de costumbres.</li>
+                        <li><b>Late Victorian (1870-1901):</b> etapa marcada por el escepticismo. Surgen avances como la
+                            educación obligatoria y el movimiento sufragista, pero también críticas al sistema social.
+                            El Imperio empieza a debilitarse.</li>
+                    </ul>
+                    <p>En el ámbito literario, el siglo XIX fue la era de la novela, especialmente popular entre la
+                        clase media. Muchas obras se publicaban por entregas, lo que facilitaba su difusión. También
+                        destacaron la poesía romántica, el teatro y la prosa centrada en problemas sociales, así como el
+                        naturalismo, que retrataba la vida de las clases más desfavorecidas.</p>
+                </details>
+
+                <details>
+                    <summary>
+                        <h3>Romanticismo</h3>
+                    </summary>
+                    <p>El Romanticismo surge en un contexto de grandes cambios sociales, políticos y económicos.
+                        Inglaterra se convierte en una sociedad industrial, lo que acentúa las diferencias entre el
+                        mundo rural y el urbano y aumenta las desigualdades.</p>
+                    <p>Eventos como la Revolución Francesa impulsaron ideas de libertad, igualdad y cambio, aunque
+                        también generaron miedo, lo que llevó a una sociedad más controladora y moralista.</p>
+                    <p>La industrialización favoreció una nueva cultura de consumo y amplió el acceso a la lectura. En
+                        este contexto, crecieron las oportunidades para escritoras, que empezaron a destacar en un mundo
+                        dominado por hombres.</p>
+                    <p>Aunque la poesía es el género principal del Romanticismo, también se desarrollan ensayos, teatro
+                        y novela, que adquiere cada vez más importancia.</p>
+                    <p><b>Ideas clave del Romanticismo</b></p>
+                    <ul>
+                        <li>Naturaleza: se opone al mundo artificial y puede ser tanto protectora como destructiva.
+                            Aparece la “falacia patética”, que consiste en atribuir emociones humanas a la naturaleza.
+                        </li>
+                        <li>Imaginación: permite ir más allá de la realidad y es un elemento esencial del movimiento.
+                        </li>
+                        <li>El “buen salvaje”: idea de que el ser humano es bueno por naturaleza, pero la sociedad lo
+                            corrompe.</li>
+                    </ul>
+
+                    <h3>Romanticismo vs. Ilustración</h3>
+                    <p>La novela es un campo de batalla entre dos formas de ver el mundo:</p>
+
+                    <table>
+                        <tr>
+                            <th>Romanticismo<br><i>El corazón</i></th>
+                            <th>Ilustración<br><i>La razón</i></th>
+                        </tr>
+
+                        <tr>
+                            <td>El corazón controla la cabeza.</td>
+                            <td>La cabeza controla el corazón.</td>
+                        </tr>
+
+                        <tr>
+                            <td>La razón y el intelecto pueden ser peligrosos.</td>
+                            <td>La imaginación y los sentimientos son peligrosos.</td>
+                        </tr>
+
+                        <tr>
+                            <td>Jane Eyre se deja llevar por su pasión y sus visiones.</td>
+                            <td>John Rivers representa el control y el deber frío.</td>
+                        </tr>
+                    </table>
+                    <p><b>Concepto clave:</b> Jane es una anti-heroína romántica. No es la clásica heroína perfecta y
+                        bella;
+                        es "pobre, oscura, fea y pequeña", pero con una voluntad de hierro.</p>
+                </details>
+
+                <details>
+                    <summary>
+                        <h3>Gótico</h3>
+                    </summary>
+                    <p>La literatura gótica surge en el siglo XVIII como reacción contra el exceso de racionalidad de la
+                        Ilustración. En lugar de la razón, explora lo emocional, lo irracional y lo desconocido.</p>
+                    <p>Se distingue entre el <b>terror</b>, que está más enfocado en lo psicológico, y el
+                        <b>horror</b>, que está más enfocado en lo físico.
+                    </p>
+                    <p>Este género está influido por acontecimientos como la Revolución Francesa y la Revolución
+                        Industrial, así como por autores como Shakespeare o los poetas de cementerio.</p>
+
+                    <p><b>Características del gótico:</b></p>
+                    <ul>
+                        <li>Ambientes: castillos, abadías o escenarios medievales</li>
+                        <li>Temas: herencias, secretos, relaciones prohibidas</li>
+                        <li>Personajes: villano, joven en peligro y héroe</li>
+                        <li>Elementos: ruinas, laberintos, pasado que persigue</li>
+                        <li>Narración: subjetiva, a veces en primera persona</li>
+                    </ul>
+
+                    <p>Conceptos clave:</p>
+                    <ul>
+                        <li>Lo sublime: mezcla de placer y terror</li>
+                        <li>Lo siniestro: algo familiar que se vuelve extraño</li>
+                        <li>Lo grotesco: lo deformado o inquietante</li>
+                    </ul>
+
+                    <p>Con el tiempo, el gótico evoluciona: los escenarios pasan a ser más cotidianos (casas, ciudades)
+                        y el miedo se vuelve más psicológico, centrado en la mente humana.</p>
+
+                    <p>Tipos de gótico:</p>
+                    <ul>
+                        <li>Gótico puro: no hay explicación racional para los sucesos sobrenaturales</li>
+                        <li>Gótico explicado: los sucesos sobrenaturales tienen explicación racional</li>
+                        <li>Gótico satánico: se centra en la figura del diablo</li>
+                        <li>Gótico fantástico: se centra en la figura de los fantasmas</li>
+                        <li>Gótico filosófico: se centra en la figura de los demonios</li>
+                        <li>Gótico paródico: se centra en la figura de los vampiros</li>
+                    </ul>
+
+                    <p>Interpretaciones críticas:</p>
+                    <ul>
+                        <li>Psicoanálisis: se centra en los miedos internos</li>
+                        <li>Feminismo: lo interpreta como expresión de la ansiedad femenina</li>
+                        <li>Marxismo: analiza las jerarquías sociales</li>
+                    </ul>
+                </details>
+
+                <br>
+
+                <h3>Las Hermanas Brontë: Realidad tras la Ficción</h3>
+                <p>La vida de Charlotte, Emily y Anne es tan fascinante como sus libros. Podemos ver sus experiencias
+                    reflejadas en sus historias, como el paisaje rudo y sombrío de los
+                    páramos de Yorkshire que se refleja en la atmósfera de la novela, o el trabajo que hicieron de
+                    institutrices y maestras.</p>
+
+                <p>A pesar de la tragedia marcar sus vidas, con la muerte de su madre y sus hermanas, esta les dio una
+                    capacidad narrativa única y las Brontë se hicieron escritoras, creando
+                    mundos imaginarios que marcaron la literatura y les dio fama mundial.</p>
+
+                <p>Las tres tuvieron que usar pseudónimos para poder publicar en un inicio: Currer, Ellis y Acton Bell
+                    fueron su táctica para evitar los prejuicios que había contra las escritoras.</p>
+
+                <h3>El Legado: ¿Por qué seguimos leyendo Jane Eyre?</h3>
+                <p>El enfoque de Charlotte en la consciencia interior y los sentimientos de Jane fue precursor de la
+                    "corriente de conciencia" del siglo XX. Jane no solo narra lo que pasa, sino cómo
+                    se siente su mente.</p>
+                <p>Hoy entendemos <i>Jane Eyre</i> a través de la intertextualidad. Un ejemplo es <i>Wide Sargasso
+                        Sea</i> o <i>El ancho mar de los Sargazos</i> de Jean Rhys, que reescribe la historia desde el
+                    punto de vista de Bertha Mason (la mujer en el ático),
+                    cuestionando el canon original.</p>
+                <p>La novela ha sido adaptada innumerables veces al cine, la televisión y el teatro, demostrando su
+                    vigencia y capacidad para conectar con nuevas generaciones.</p>
+
+                <p><i>Jane Eyre</i> sigue siendo un referente feminista y un clásico de la literatura universal que nos
+                    invita a reflexionar sobre la libertad, la justicia y el amor verdadero.</p>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <p>TFM - Letras Digitales - UCM</p>
+    </footer>
+
+</body>
+
+</html>

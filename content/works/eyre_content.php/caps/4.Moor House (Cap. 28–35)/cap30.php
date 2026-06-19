@@ -1,0 +1,660 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>Capítulo 30</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Este es el capítulo 30">
+    <meta name="keywords" content="HTML, CSS">
+    <link rel="stylesheet" href="../../../../../css/css_caps.css">
+    <script src="../../../../../js/js_caps.js"></script>
+    <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
+</head>
+
+<body>
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
+    <header>
+        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
+    </header>
+
+    <nav class="navbar">
+        <ul class="menu">
+            <li><a href="../../../../../index.php">Inicio</a></li>
+
+            <li class="dropdown">
+                <a href="../../../../obras.php">Obras</a>
+                <ul class="dropdown-menu">
+                    <li><a href="../../../eyre.php">Jane Eyre</a></li>
+                </ul>
+            </li>
+
+            <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
+            <li><a href="../../../../litto.php">Litto</a></li>
+
+            <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
+        </ul>
+    </nav>
+
+    <main id="main">
+        <div class="layout">
+            <div class="sidebar">
+                <nav class="navbar-sidebar">
+                    <ul class="menu-sidebar">
+                        <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../../contenido_eyre.php">Obra</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
+                                <li><a href="../../capitulos.php">Capítulos</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../../contexto_eyre.php">Contexto</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../../charlotte.php">Charlotte Brontë</a></li>
+                                <li><a href="../../contexto_historico.php">Contexto histórico</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../../recursos_eyre.php">Recursos</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../../simbolosTemas.php">Temas y Símbolos</a></li>
+                                <li><a href="../../personajes.php">Personajes</a></li>
+                                <li><a href="../../glosario.php">Glosario</a></li>
+                                <li><a href="../../citas.php">Citas</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../../actividades_eyre.php">Actividades</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../../test.php">Tests</a></li>
+                                <li><a href="../../rellenar.php">Rellenar</a></li>
+                                <li><a href="../../desarrollar.php">Desarrollar</a></li>
+                                <li><a href="../../flashcard.php">Flashcards</a></li>
+                                <li><a href="../../juegos.php">Juegos</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="../../externos.php">Enlaces externos</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <section class="contenido">
+                <h1>Capítulo XXX</h1>
+
+                <p>Cuanto más conocía a los moradores de Moor House, más me
+                    gustaban. En pocos días había recuperado tanto mi salud que podía
+                    estar sentada todo el día y salir a pasear a veces. Podía unirme a
+                    <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> y a <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> en todas sus ocupaciones, conversar con ellas tanto
+                    como desearan y ayudarlas cuando y donde me lo permitieran.
+                    Había un placer revivificador en esta relación, de un tipo que ahora
+                    probaba por primera vez: el placer que surge de una perfecta
+                    congenialidad de gustos, sentimientos y principios.
+                </p>
+
+                <p>Me gustaba leer lo que a ellas les gustaba leer; lo que ellas
+                    disfrutaban, me deleitaba; lo que ellas aprobaban, yo lo
+                    reverenciaba. Amaban su hogar apartado. Yo también, en la
+                    estructura gris, pequeña y antigua, con su techo bajo, sus
+                    ventanales de celosía, sus muros desmoronados, su avenida de
+                    abetos añosos —todos crecidos de lado bajo la tensión de los
+                    vientos de montaña—; su jardín, oscuro de tejos y acebos, y donde
+                    no florecían sino las especies más resistentes, encontré un encanto a
+                    la vez potente y permanente. Se aferraban a los <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramos
+                    </span> púrpuras
+                    detrás y alrededor de su morada, al valle hueco en el que descendía
+                    el sendero de herradura de guijarros que partía de su verja, y que
+                    serpenteaba primero entre bancales de helechos y luego entre
+                    algunos de los más salvajes pequeños pastizales que jamás
+                    bordearon un yermo de brezo o dieron sustento a un rebaño de
+                    ovejas grises del <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramo
+                    </span>, con sus corderitos de cara musgosa. Se
+                    aferraban a esta escena, digo, con un perfecto entusiasmo de
+                    apego. Podía comprender el sentimiento y compartir tanto su fuerza
+                    como su verdad. Vi la fascinación del lugar. Sentí la consagración de
+                    su soledad. Mi ojo se deleitaba en el contorno de la ondulación y la
+                    extensión, en el colorido salvaje comunicado a la cresta y al valle por
+                    el musgo, por la campanilla de brezo, por el césped salpicado de
+                    flores, por el helecho brillante y el peñasco de granito meloso. Estos
+                    detalles eran para mí exactamente lo que eran para ellas: tantas
+                    fuentes puras y dulces de placer. El fuerte vendaval y la suave brisa;
+                    el día rudo y el apacible; las horas del amanecer y del atardecer; la
+                    luz de la luna y la noche nublada, desarrollaron para mí, en estas
+                    regiones, la misma atracción que para ellas, envolvieron mis
+                    facultades con el mismo hechizo que encantaba las suyas.</p>
+
+                <p>Dentro de casa nos entendíamos igual de bien. Ambas eran más
+                    cultas y leídas que yo; pero con avidez seguí el camino del
+                    conocimiento que ellas habían hollado antes que yo. Devoré los
+                    libros que me prestaron; entonces era una satisfacción plena discutir
+                    con ellas por la noche lo que había leído durante el día. Pensamiento
+                    encajaba con pensamiento; opinión se encontraba con opinión.
+                    Coincidíamos, en resumen, perfectamente.</p>
+
+                <p>Si en nuestro trío había una superior y una líder, era <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span>.
+                    Físicamente, me superaba con creces: era guapa; era vigorosa. En
+                    su vitalidad había una afluencia de vida y una certeza de flujo tales
+                    que excitaban mi asombro, mientras desconcertaban mi
+                    comprensión. Yo podía hablar un rato cuando comenzaba la tarde,
+                    pero una vez pasada la primera efusión de vivacidad y fluidez, me
+                    complacía sentarme en un taburete a los pies de <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span>, apoyar la
+                    cabeza en su rodilla y escuchar alternativamente a ella y a <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span>,
+                    mientras ellas exploraban a fondo el tema que yo solo había tocado.
+                    <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> se ofreció a enseñarme alemán. Me gustaba aprender de ella;
+                    vi que el papel de instructora le agradaba y le convenía; el de
+                    alumna me agradaba y me convenía no menos. Nuestras naturalezas
+                    encajaban perfectamente. El afecto mutuo, del tipo más fuerte, fue
+                    el resultado. Descubrieron que sabía dibujar; sus lápices y cajas de
+                    colores estuvieron inmediatamente a mi servicio. Mi habilidad, mayor
+                    en este único punto que la de ellas, las sorprendió y encantó. <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span>
+                    se sentaba y me observaba durante horas; luego tomaba lecciones;
+                    y resultó ser una alumna dócil, inteligente y asidua. Así ocupadas y
+                    mutuamente entretenidas, los días pasaban como horas y las
+                    semanas como días.
+                </p>
+
+                <p>En cuanto al señor <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>, la intimidad que había surgido tan
+                    natural y rápidamente entre sus hermanas y yo no se extendió a él.
+                    Una razón de la distancia que aún se observaba entre nosotros era
+                    que rara vez estaba en casa; una gran proporción de su tiempo
+                    parecía dedicada a visitar a los enfermos y a los pobres entre la
+                    dispersa población de su parroquia.</p>
+
+                <p>Ningún tiempo parecía obstaculizarlo en estas excursiones
+                    pastorales. Lloviera o hiciera buen tiempo, cuando terminaban sus
+                    horas de estudio matutino, tomaba su sombrero y, seguido por el
+                    viejo pointer de su padre, Carlo, salía en su misión de amor o de
+                    deber; apenas sé bajo qué luz la consideraba. A veces, cuando el día
+                    era muy desfavorable, sus hermanas protestaban. Él entonces decía,
+                    con una sonrisa peculiar, más solemne que alegre:</p>
+
+                <p>—Y si dejo que una ráfaga de viento o una llovizna me aparten de
+                    estas tareas fáciles, ¿qué preparación sería tal pereza para el futuro
+                    que me propongo?</p>
+
+                <p>La respuesta general de <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> y <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> a esta pregunta era un
+                    suspiro y algunos minutos de meditación aparentemente lúgubre.</p>
+
+                <p>Pero además de sus frecuentes ausencias, había otra barrera para
+                    la amistad con él: parecía de naturaleza reservada, abstraída e
+                    incluso melancólica. Celoso en sus labores ministeriales,
+                    irreprochable en su vida y hábitos, no parecía, sin embargo, disfrutar
+                    de esa serenidad mental, de ese contento interior que debería ser la
+                    recompensa de todo cristiano sincero y filántropo práctico. A
+                    menudo, por la tarde, cuando se sentaba en la ventana, con su
+                    escritorio y sus papeles ante él, dejaba de leer o escribir, apoyaba la
+                    barbilla en la mano y se entregaba a no sé qué curso de
+                    pensamiento; pero que era perturbado y excitante se podía ver en el
+                    frecuente destello y la cambiante dilatación de su ojo.</p>
+
+                <p>Creo, además, that a naturaleza no era para él ese tesoro de
+                    deleite que era para sus hermanas. Expresó una vez, y solo una vez
+                    en mi presencia, un fuerte sentido del encanto rudo de las colinas y
+                    un afecto innato por el techo oscuro y los muros canosos que
+                    llamaba su hogar; pero había más de melancolía que de placer en el
+                    tono y las palabras en que se manifestaba el sentimiento; y nunca
+                    pareció vagar por los <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramo
+                    </span> por el bien de su silencio
+                    tranquilizador, nunca buscar o deleitarse en los mil placeres pacíficos
+                    que podían ofrecer.</p>
+
+                <p>Tan poco comunicativo como era, pasó algún tiempo antes de que
+                    tuviera la oportunidad de medir su mente. La primera idea de su
+                    calibre la obtuve cuando lo oí predicar en su propia iglesia de
+                    Morton. Ojalá pudiera describir ese sermón, pero está más allá de mi
+                    poder. Ni siquiera puedo reproducir fielmente el efecto que produjo
+                    en mí.</p>
+
+                <p>Comenzó con calma, y de hecho, en lo que respecta a la dicción y
+                    al tono de voz, fue tranquilo hasta el final. Un celo sinceramente
+                    sentido, pero estrictamente contenido, se respiró pronto en los
+                    acentos nítidos e impulsó el lenguaje nervioso. Esto creció en fuerza,
+                    comprimido, condensado, controlado. El corazón se estremeció, la
+                    mente se asombró por el poder del predicador; ninguno de los dos
+                    se ablandó. A lo largo de todo él hubo una extraña amargura, una
+                    ausencia de dulzura consoladora. Eran frecuentes las alusiones
+                    severas a las doctrinas calvinistas: elección, predestinación,
+                    reprobación; y cada referencia a estos puntos sonaba como una
+                    sentencia pronunciada para la perdición. Cuando hubo terminado, en
+                    lugar de sentirme mejor, más tranquila, más iluminada por su
+                    discurso, experimenté una tristeza inexpresable; pues me pareció —
+                    no sé si igualmente a otros— que la elocuencia que había estado
+                    escuchando había surgido de una profundidad donde yacían turbios
+                    posos de decepción, donde se movían impulsos perturbadores de
+                    anhelos insaciables y aspiraciones inquietantes. Estaba segura de
+                    que <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John Rivers
+                    </span> —de vida pura, concienzudo, celoso como era—
+                    aún no había encontrado esa paz de Dios que sobrepasa todo
+                    entendimiento. No la había encontrado más, pensé, que yo con mis
+                    arrepentimientos ocultos y torturadores por mi ídolo roto y mi elíseo
+                    perdido, arrepentimientos a los que últimamente he evitado
+                    referirme, pero que me poseían y tiranizaban despiadadamente.</p>
+
+                <p>Mientras tanto, había pasado un mes. <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> y <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> pronto
+                    dejarían Moor House y regresarían a la vida y escena muy diferentes
+                    que les esperaban, como institutrices en una gran ciudad de moda
+                    del sur de Inglaterra, donde cada una ocupaba un puesto en familias
+                    cuyos miembros ricos y altivos las consideraban solo humildes
+                    dependientas, y que ni conocían ni buscaban sus excelencias
+                    innatas, y apreciaban solo sus habilidades adquiridas como
+                    apreciaban la destreza de su cocinero o el gusto de su doncella. El
+                    señor <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> aún no me había dicho nada sobre el empleo que me
+                    había prometido conseguir; sin embargo, se volvía urgente que
+                    tuviera una vocación de algún tipo. Una mañana, al quedarme sola
+                    con él unos minutos en el salón, me aventuré a acercarme al hueco
+                    de la ventana —que su mesa, silla y escritorio consagraban como
+                    una especie de estudio—, e iba a hablar, aunque no sabía muy bien
+                    en qué palabras enmarcar mi pregunta —pues siempre es difícil
+                    romper el hielo de la reserva que recubre naturalezas como la suya
+                    —, cuando me ahorró la molestia al ser el primero en iniciar un
+                    diálogo.</p>
+
+                <p>Levantando la vista al acercarme:</p>
+
+                <p>—¿Tiene una pregunta que hacerme? —dijo.</p>
+
+                <p>—Sí; deseo saber si ha oído hablar de algún servicio que pueda
+                    ofrecerme a emprender.</p>
+
+                <p>—Encontré o ideé algo para usted hace tres semanas; pero como
+                    parecía a la vez útil y feliz aquí, como mis hermanas evidentemente
+                    se habían encariñado con usted y su compañía les daba un placer
+                    inusual, consideré inoportuno interrumpir su mutua comodidad hasta
+                    que su próxima partida de Marsh End hiciera necesaria la suya.</p>
+
+                <p>—¿Y se irán en tres días ahora? —dije.</p>
+
+                <p>—Sí; y cuando se vayan, volveré a la rectoría de Morton. Hannah
+                    me acompañará; y esta vieja casa se cerrará.</p>
+
+                <p>Esperé unos momentos, esperando que continuara con el tema
+                    abordado al principio; pero parecía haber entrado en otro tren de
+                    reflexión. Su mirada denotaba abstracción de mí y de mi asunto. Me
+                    vi obligada a recordarle un tema que era, por necesidad, de interés
+                    cercano y ansioso para mí.</p>
+
+                <p>—¿Cuál es el empleo que tenía en mente, señor Rivers? Espero
+                    que esta demora no haya aumentado la dificultad de asegurarlo.</p>
+
+                <p>—Oh, no; ya que es un empleo que depende solo de mí darlo y de
+                    usted aceptarlo.</p>
+
+                <p>Volvió a hacer una pausa. Parecía haber una renuencia a
+                    continuar. Me impacienté. Un movimiento inquieto o dos, y una
+                    mirada ansiosa y exigente fijada en su rostro, le transmitieron el
+                    sentimiento tan eficazmente como las palabras podrían haberlo
+                    hecho, y con menos problemas.</p>
+
+                <p>—No necesita tener prisa por oír —dijo—. Permítame decirle con
+                    franqueza que no tengo nada elegible o rentable que sugerir. Antes
+                    de explicar, recuerde, si le parece, mi aviso, claramente dado, de
+                    que si la ayudaba, debía ser como el ciego ayudaría al cojo. Soy
+                    pobre; pues descubro que, cuando haya pagado las deudas de mi
+                    padre, todo el patrimonio que me quedará será esta granja en
+                    ruinas, la hilera de abetos arrasados detrás y la parcela de suelo de
+                    <span class="anotacion"
+                        data-nota="Representa un espacio de libertad absoluta pero peligrosa. Es un 'limbo' donde Jane se despoja de su pasado. El páramo es salvaje y no tiene dueño, igual que Jane en ese momento. Es el lugar donde ella muere como 'institutriz de Rochester' y renace como Jane Elliott.">
+                        páramo
+                    </span>, con los tejos y los acebos delante. Soy oscuro. Rivers es un
+                    nombre antiguo; pero de los tres únicos descendientes de la estirpe,
+                    dos se ganan la corteza del dependiente entre extraños, y el tercero
+                    se considera un extranjero de su país natal, no solo en vida, sino en
+                    la muerte. Sí, y se considera, y está obligado a considerarse,
+                    honrado por la suerte, y solo aspira al día en que la cruz de la
+                    separación de los lazos carnales sea puesta sobre sus hombros, y
+                    cuando la Cabeza de esa iglesia militante de cuyos más humildes
+                    miembros él es uno, dé la orden: “¡Levántate, sígueme!”.
+                </p>
+
+                <p><span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> dijo estas palabras como pronunciaba sus sermones, con
+                    una voz tranquila y profunda; con una mejilla sin rubor y un
+                    resplandor centelleante en la mirada. Reanudó:</p>
+
+                <p>—Y como yo mismo soy pobre y oscuro, solo puedo ofrecerle un
+                    servicio de pobreza y oscuridad. Usted puede incluso pensar que es
+                    degradante, pues veo ahora que sus hábitos han sido lo que el
+                    mundo llama refinados; sus gustos se inclinan a lo ideal y su
+                    sociedad ha sido, al menos, entre los educados. Pero yo considero
+                    que ningún servicio degrada que pueda mejorar nuestra raza.
+                    Sostengo que cuanto más árido e inculto sea el suelo donde se le
+                    asigna al labrador cristiano la tarea de labranza, cuanto más escasa
+                    sea la recompensa que su trabajo traiga, mayor será el honor. El
+                    suyo, en tales circunstancias, es el destino del pionero; y los
+                    primeros pioneros del Evangelio fueron los Apóstoles, su capitán fue
+                    Jesús, el Redentor mismo.</p>
+
+                <p>—¿Y bien? —dije, mientras volvía a hacer una pausa—. Prosiga.</p>
+
+                <p>Me miró antes de proseguir; de hecho, pareció leer tranquilamente
+                    mi rostro, como si sus rasgos y líneas fueran caracteres en una
+                    página. Las conclusiones extraídas de este escrutinio las expresó
+                    parcialmente en sus observaciones siguientes.</p>
+
+                <p>—Creo que aceptará el puesto que le ofrezco —dijo—, y lo
+                    mantendrá por un tiempo. No permanentemente, sin embargo; no
+                    más de lo que yo podría mantener permanentemente el estrecho y
+                    cada vez más estrecho, el tranquilo y oculto oficio de párroco rural
+                    inglés; pues en su naturaleza hay una aleación tan perjudicial para el
+                    reposo como la que hay en la mía, aunque de un tipo diferente.</p>
+
+                <p>—Explíquese, por favor —insistí, cuando se detuvo una vez más.</p>
+
+                <p>—Lo haré; y oirá cuán pobre es la propuesta, cuán trivial, cuán
+                    limitante. No me quedaré mucho tiempo en Morton, ahora que mi
+                    padre ha muerto y que soy mi propio amo. Dejaré el lugar
+                    probablemente en el transcurso de un año; pero mientras me quede,
+                    me esforzaré al máximo por su mejora. Morton, cuando llegué hace
+                    dos años, no tenía escuela. Los hijos de los pobres estaban excluidos
+                    de toda esperanza de progreso. Establecí una para niños; ahora
+                    tengo la intención de abrir una segunda escuela para niñas. He
+                    alquilado un edificio para tal fin, con una casita de dos habitaciones
+                    adosada para la casa de la maestra. Su salario será de treinta libras
+                    al año. Su casa ya está amueblada, muy sencillamente, pero
+                    suficientemente, por la amabilidad de una dama, la señorita Oliver;
+                    la única hija del único hombre rico de mi parroquia, el señor Oliver,
+                    propietario de una fábrica de agujas y una fundición de hierro en el
+                    valle. La misma dama paga la educación y la ropa de una huérfana
+                    del hospicio, con la condición de que ayude a la maestra en las
+                    tareas domésticas relacionadas con su propia casa y la escuela que
+                    su ocupación de enseñar le impedirá tener tiempo de desempeñar
+                    en persona. ¿Será usted esta maestra?</p>
+
+                <p>Hizo la pregunta con bastante prisa; parecía esperar a medias un
+                    rechazo indignado o, al menos, desdeñoso de la oferta. No
+                    conociendo todos mis pensamientos y sentimientos, aunque
+                    adivinando algunos, no podía decir bajo qué luz me parecería la
+                    suerte. En verdad era humilde, pero entonces estaba resguardada, y
+                    yo quería un asilo seguro. Era laboriosa, pero entonces, comparada
+                    con la de una institutriz en una casa rica, era independiente; y el
+                    miedo a la servidumbre con extraños entraba en mi alma como
+                    hierro. No era innoble, ni indigna, ni mentalmente degradante. Tomé
+                    mi decisión.</p>
+
+                <p>—Le agradezco la propuesta, señor Rivers, y la acepto con todo mi corazón.</p>
+
+                <p>—¿Pero me comprende? —dijo—. Es una escuela de pueblo. Sus
+                    alumnas serán solo niñas pobres, hijas de campesinos; en el mejor
+                    de los casos, hijas de granjeros. Tejer, coser, leer, escribir, contar,
+                    será todo lo que tendrá que enseñar. ¿Qué hará con sus habilidades?
+                    ¿Qué, con la mayor parte de su mente, sus sentimientos, sus
+                    gustos?</p>
+
+                <p>—Guardarlos hasta que se necesiten. Se conservarán.</p>
+
+                <p>—¿Sabe lo que emprende, entonces?</p>
+
+                <p>—Sí.</p>
+
+                <p>Sonrió entonces; y no una sonrisa amarga o triste, sino una bien
+                    complacida y profundamente gratificada.</p>
+
+                <p>—¿Y cuándo comenzará el ejercicio de su función?</p>
+
+                <p>—Iré a mi casa mañana y abriré la escuela, si le parece, la próxima semana.</p>
+
+                <p>—Muy bien, que así sea.</p>
+
+                <p>Se levantó y caminó por la habitación. Deteniéndose, volvió a
+                    mirarme. Sacudió la cabeza.</p>
+
+                <p>—¿Qué desaprueba, señor Rivers? —pregunté.</p>
+
+                <p>—No se quedará mucho tiempo en Morton. ¡No, no!</p>
+
+                <p>—¿Por qué? ¿Cuál es su razón para decir eso?</p>
+
+                <p>—Lo leo en su ojo; no es de esa descripción que promete el
+                    mantenimiento de un tenor de vida uniforme.</p>
+
+                <p>—No soy ambiciosa.</p>
+
+                <p>Se sobresaltó ante la palabra «ambiciosa». Repitió:</p>
+
+                <p>—No. ¿Qué le hizo pensar en la ambición? ¿Quién es ambicioso?
+                    Sé que yo lo soy, ¿pero cómo lo descubrió?</p>
+
+                <p>—Hablaba de mí misma.</p>
+
+                <p>—Bueno, si no es usted ambiciosa, es... —hizo una pausa.</p>
+
+                <p>—¿Qué?</p>
+
+                <p>—Iba a decir, apasionada; pero quizás habría malinterpretado la
+                    palabra y se habría disgustado. Quiero decir que los afectos y las
+                    simpatías humanas tienen un dominio muy poderoso sobre usted.
+                    Estoy seguro de que no puede contentarse mucho tiempo con pasar
+                    su ocio en soledad y dedicar sus horas de trabajo a una labor
+                    monótona y totalmente carente de estímulo; no más de lo que yo
+                    puedo contentarme —añadió, con énfasis— con vivir aquí enterrado
+                    en un pantano, encerrado entre montañas; mi naturaleza, que Dios
+                    me dio, contrariada; mis facultades, otorgadas por el cielo,
+                    paralizadas, inutilizadas. Oye ahora cómo me contradigo. Yo, que
+                    prediqué el contentamiento con una suerte humilde y justifiqué la
+                    vocación incluso de leñadores y aguadores al servicio de Dios, yo, Su
+                    ministro ordenado, casi desvarío en mi inquietud. Bueno, las
+                    propensioniones y los principios deben reconciliarse de alguna
+                    manera.</p>
+
+                <p>Salió de la habitación. En esta breve hora había aprendido más de
+                    él que en todo el mes anterior; sin embargo, todavía me
+                    desconcertaba.</p>
+
+                <p><span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> y <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> Rivers se volvieron más tristes y silenciosas a
+                    medida que se acercaba el día de dejar a su hermano y su hogar.
+                    Ambas intentaron parecer como de costumbre; pero la pena contra
+                    la que tenían que luchar era una que no podía ser completamente
+                    conquistada u ocultada. <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> insinuó que esta sería una despedida
+                    diferente a cualquiera que hubieran conocido hasta ahora.
+                    Probablemente, en lo que respecta a <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>, sería una despedida
+                    por años; podría ser una despedida para toda la vida.</p>
+
+                <p>—Lo sacrificará todo a sus resoluciones largamente meditadas —
+                    dijo—; el afecto natural y sentimientos aún más potentes. <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>
+                    parece tranquilo, <span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>; pero esconde una fiebre en sus entrañas.
+                    Pensarías que es apacible, pero en algunas cosas es inexorable como
+                    la muerte; y lo peor de todo es que mi conciencia apenas me
+                    permite disuadirlo de su severa decisión. Ciertamente, no puedo
+                    culparlo ni por un momento por ello. ¡Es correcto, noble, cristiano;
+                    sin embargo, me rompe el corazón! —Y las lágrimas brotaron de sus
+                    hermosos ojos. <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> inclinó la cabeza sobre su labor.</p>
+
+                <p>—Ahora estamos sin padre; pronto estaremos sin hogar y sin
+                    hermano —murmuró.</p>
+
+                <p>En ese momento sobrevino un pequeño accidente, que pareció
+                    decretado por el destino a propósito para probar la verdad del
+                    adagio de que «las desgracias nunca vienen solas», y para añadir a
+                    sus aflicciones la vejación del resbalón entre la copa y el labio. <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> pasó por la ventana leyendo una carta. Entró.</p>
+
+                <p>—Nuestro tío John ha muerto —dijo.</p>
+
+                <p>Ambas hermanas parecieron impresionadas; no conmocionadas ni
+                    consternadas. La noticia pareció en sus ojos más trascendental que
+                    aflictiva.</p>
+
+                <p>—¿Muerto? —repitió <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span>.</p>
+
+                <p>—Sí.</p>
+
+                <p>Fijó una mirada inquisitiva en el rostro de su hermano.</p>
+
+                <p>—¿Y entonces qué? —demandó, en voz baja.</p>
+
+                <p>—Entonces, ¿qué si ha muerto? —replicó él, manteniendo una inmovilidad
+                    de mármol en sus rasgos—. ¿Qué entonces? Pues... nada. Lee.</p>
+
+                <p>Le arrojó la carta al regazo. Ella la ojeó y se la pasó a <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span>. Mary
+                    la leyó en silencio y se la devolvió a su hermano. Los tres se miraron
+                    y los tres sonrieron, una sonrisa bastante lúgubre y pensativa.</p>
+
+                <p>—¡Amén! Aún podemos vivir —dijo <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> al fin.</p>
+
+                <p>—En cualquier caso, no nos deja peor de lo que estábamos antes —observó <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span>.</p>
+
+                <p>—Solo que fuerza con bastante intensidad en la mente la imagen
+                    de lo que podría haber sido —dijo el señor Rivers—, y la contrasta
+                    de manera demasiado vívida con lo que es.</p>
+
+                <p>Dobló la carta, la guardó con llave en su escritorio y volvió a salir.</p>
+
+                <p>Durante algunos minutos nadie habló. <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> se volvió entonces hacia mí.</p>
+
+                <p>—<span class="anotacion"
+                        data-nota="Jane es una superviviente en busca de identidad. Tras renunciar al amor ilegal, se enfrenta a la prueba de la soledad y la pobreza extrema en los páramos. Se muestra como una mujer de una integridad moral inquebrantable, capaz de rechazar una vida cómoda con St. John porque carece de amor. Es la etapa donde Jane deja de ser una 'pobre institutriz' para convertirse en una heredera independiente y en una mujer que prefiere la libertad en la pobreza que la esclavitud en un matrimonio sin pasión.">
+                        Jane
+                    </span>, se maravillará de nosotros y de nuestros misterios —dijo
+                    —, y nos considerará seres desalmados por no conmovernos más
+                    ante la muerte de un pariente tan cercano como un tío; pero nunca
+                    lo hemos visto ni conocido. Era hermano de mi madre. Mi padre y él
+                    riñeron hace mucho tiempo. Fue por su consejo que mi padre
+                    arriesgó la mayor parte de su propiedad en la especulación que lo
+                    arruinó. Hubo recriminaciones mutuas entre ellos. Se separaron
+                    enojados y nunca se reconciliaron. Mi tío se dedicó después a
+                    empresas más prósperas. Parece que amasó una fortuna de veinte
+                    mil libras. Nunca se casó y no tenía parientes cercanos más que
+                    nosotros y otra persona, no más estrechamente emparentada que
+                    nosotros. Mi padre siempre abrigó la idea de que expiaría su error
+                    dejándonos sus posesiones. Esa carta nos informa de que ha legado
+                    cada centavo al otro pariente, con la excepción de treinta guineas, a
+                    dividir entre <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span>, <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> y <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> Rivers, para la compra de tres
+                    anillos de luto. Tenía derecho, por supuesto, a hacer lo que le
+                    placiera; y sin embargo, un abatimiento momentáneo se cierne
+                    sobre los espíritus al recibir tales noticias. <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> y yo nos habríamos
+                    considerado ricas con mil libras cada una; y para <span class="anotacion"
+                        data-nota="Un hombre de una moralidad rígida y heroica que intenta dominar a Jane a través del deber religioso; es el opuesto exacto de la pasión de Rochester.">
+                        St. John
+                    </span> tal suma
+                    habría sido valiosa, por el bien que le habría permitido hacer.</p>
+
+                <p>Dada esta explicación, se abandonó el tema y no se hizo más
+                    referencia a él ni por parte del señor Rivers ni de sus hermanas. Al
+                    día siguiente dejé Marsh End para ir a Morton. Al día siguiente,
+                    <span class="anotacion"
+                        data-nota="Es la figura líder y protectora del grupo. Posee una personalidad magnética, autoritaria pero cariñosa. Para Jane, Diana es un modelo de fuerza intelectual y moral; es la que guía los estudios en la casa y quien ofrece el apoyo emocional más sólido. Representa la sabiduría que nace del afecto.">
+                        Diana
+                    </span> y <span class="anotacion"
+                        data-nota="Es más reservada, silenciosa y dedicada al estudio personal. Representa la autonomía y la laboriosidad; su carácter tranquilo es un refugio para Jane tras el caos de Thornfield. A través de Mary, Jane ve que una mujer puede encontrar plenitud en el conocimiento y en la paz de una vida sencilla y compartida.">
+                        Mary
+                    </span> lo abandonaron para ir a la lejana B... En una semana,
+                    el señor Rivers y Hannah se trasladaron a la rectoría. Y así, la vieja
+                    granja fue abandonada.
+                </p>
+
+                <div class="botonesFinales">
+                    <a class="cambioAnterior" href="cap29.php" rel="prev">Anterior</a>
+                    <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
+                    <a class="cambioSiguiente" href="cap31.php" rel="next">Siguiente</a>
+                </div>
+            </section>
+            <div>
+    </main>
+</body>
+
+</html>

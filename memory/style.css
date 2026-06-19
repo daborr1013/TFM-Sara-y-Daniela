@@ -1,0 +1,317 @@
+/* Reset and base styles */
+html, body {
+    overflow-x: hidden;
+    max-width: 100vw;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* CSS Custom Properties */
+:root {
+    --violet-900: #2a1d3f;
+    --violet-700: #5f3f8f;
+    --violet-600: #7652a8;
+    --violet-300: #c8b6df;
+    --violet-100: #efe8f8;
+    --ink: #221a2e;
+    --ivory: #f8f3eb;
+    --gold: #d2b06c;
+    --mist: #e7deef;
+}
+
+body {
+    font-family: 'Inter', system-ui, sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    text-align: center;
+    color: var(--ink);
+    line-height: 1.6;
+    background:
+        radial-gradient(circle at 12% 18%, rgba(210, 176, 108, 0.22) 0, rgba(210, 176, 108, 0) 42%),
+        radial-gradient(circle at 88% 82%, rgba(118, 82, 168, 0.2) 0, rgba(118, 82, 168, 0) 38%),
+        linear-gradient(145deg, #f4eef9 0%, #e8dcf3 48%, #ece4f4 100%);
+    padding-top: 40px;
+}
+
+/* Skip link - hidden until focused */
+.skip-link {
+    position: absolute;
+    top: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #6a4c93;
+    color: white;
+    padding: 8px 12px;
+    z-index: 100;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.skip-link:focus {
+    top: 0;
+}
+
+/* Header styling */
+header {
+    background: #6a4c93;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 10%;
+    display: block;
+    margin: 0 auto;
+}
+
+header a {
+    display: block;
+    background: none;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+/* Navigation styling */
+nav {
+    padding: 10px 20px;
+    background: linear-gradient(135deg, #6A4C93 0%, #6d4b9f 70%, #7b5baa 100%);
+}
+
+nav a {
+    display: inline-block;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 4px;
+    transition: color 0.25s ease, outline 0.25s ease, background-color 0.25s ease;
+    outline: 2px solid transparent;
+}
+
+nav a:hover {
+    color: #f0d9a6;
+    background-color: rgba(240, 217, 166, 0.15);
+}
+
+/* Focus state: required for keyboard navigation */
+nav a:focus,
+nav a:focus-visible {
+    outline: 3px solid #ffffff;
+    outline-offset: 4px;
+    background-color: rgba(240, 217, 166, 0.2);
+}
+
+.navbar {
+    background: linear-gradient(135deg, #6A4C93 0%, #6d4b9f 70%, #7b5baa 100%);
+    padding: 10px;
+    overflow: visible;
+    box-shadow: 0 10px 20px rgba(42, 29, 63, 0.2);
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+.menu li {
+    position: relative;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #f7f1ff;
+    padding: 8px 12px;
+    display: block;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #a085c6;
+    list-style: none;
+    padding: 0;
+    min-width: 150px;
+    z-index: 1000;
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(42, 29, 63, 0.2);
+}
+
+.dropdown-menu li a {
+    padding: 12px 15px;
+    display: block;
+    color: #fefbff;
+    text-decoration: none;
+    transition: background-color 0.25s ease;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu li a:hover {
+    background: #5d3d88;
+}
+
+.dropdown-menu li a:focus,
+.dropdown-menu li a:focus-visible {
+    outline: 2px solid #ffffff;
+    outline-offset: -2px;
+    background: #5d3d88;
+}
+
+/* Main content */
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: var(--violet-900);
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+/* Screen reader only content */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+}
+
+/* Game info and instructions */
+.game-info {
+    font-size: 18px;
+    color: var(--ink);
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.instructions {
+    font-size: 14px;
+    font-weight: normal;
+    color: var(--violet-700);
+    margin-top: 10px;
+}
+
+/* Memory game grid */
+.memory-game {
+    display: grid;
+    grid-template-columns: repeat(4, 120px);
+    grid-gap: 15px;
+    margin-bottom: 20px;
+}
+
+/* Card styling */
+.card {
+    width: 120px;
+    height: 180px;
+    background-color: #cdbfd8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    transform-style: preserve-3d;
+    transition: transform 0.5s;
+    border: 2px solid transparent;
+    padding: 0;
+}
+
+.card:focus {
+    outline: 3px solid #FFD700;
+    outline-offset: 2px;
+}
+
+.card:hover {
+    box-shadow: 0 0 15px rgba(255, 215, 0, 0.5);
+}
+
+.card:disabled {
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+.card.flipped {
+    transform: rotateY(180deg);
+}
+
+.card .symbol {
+    display: none;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    transform: rotateY(180deg);
+}
+
+.card.flipped .symbol {
+    display: flex;
+}
+
+.card img {
+    max-width: 95%;
+    max-height: 95%;
+    object-fit: contain;
+}
+
+/* Restart button */
+.restart-button {
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #4a3073;
+    border: 2px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.restart-button:hover {
+    background-color: #6A4C93;
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+}
+
+.restart-button:focus {
+    outline: 3px solid #FFD700;
+    outline-offset: 2px;
+}
+
+.restart-button:active {
+    transform: scale(0.98);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #2b1e41;
+    color: #f3ebff;
+    margin-top: 20px;
+    width: 100%;
+}

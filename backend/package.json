@@ -1,0 +1,17 @@
+{
+  "name": "litterally-backend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node local-server.js",
+    "schema:supabase": "node scripts/generate-supabase-schema.mjs",
+    "start": "node local-server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie": "^1.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.13.1"
+  }
+}

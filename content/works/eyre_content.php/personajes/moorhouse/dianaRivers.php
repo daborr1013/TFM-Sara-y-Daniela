@@ -1,0 +1,135 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>Diana Rivers</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Análisis de personajes">
+    <meta name="keywords" content="HTML, CSS">
+    <link rel="stylesheet" href="../../../../../css/css_eyre.css">
+    <script src="../../../../../js/js_caps.js"></script>
+    <link rel="icon" href="../../../../../media/images/iconoPestanaClara.png" type="image/png">
+</head>
+
+<body>
+    <a href="#main" class="skip-link">Saltar a contenido principal</a>
+    <header>
+        <a href="../../../../../index.php"><img class="logo" src="../../../../../media/images/litGrande.png"
+                alt="Litterally - Inicio"></a>
+    </header>
+
+    <nav class="navbar">
+        <ul class="menu">
+            <li><a href="../../../../../index.php">Inicio</a></li>
+
+            <li class="dropdown">
+                <a href="../../../../obras.php">Obras</a>
+                <ul class="dropdown-menu">
+                    <li><a href="works/eyre.php">Jane Eyre</a></li>
+                </ul>
+            </li>
+
+            <li><a href="../../../../about_us.php">Sobre nosotras</a></li>
+            <li><a href="../../../../litto.php">Litto</a></li>
+
+            <li><a href="../../../../pUsuario.php">Perfil de usuario</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <div class="layout">
+            <div class="sidebar">
+                <nav class="navbar-sidebar">
+                    <ul class="menu-sidebar">
+                        <li><a class="active" href="../../inicio_eyre.php">Inicio</a></li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../../contenido_eyre.php">Obra</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../../resumenes/resumenes.php">Resúmenes</a></li>
+                                <li><a href="../../capitulos.php">Capítulos</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../../contexto_eyre.php">Contexto</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../../charlotte.php">Charlotte Brontë</a></li>
+                                <li><a href="../../contexto_historico.php">Contexto histórico</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../../recursos_eyre.php">Recursos</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../../simbolosTemas.php">Temas y Símbolos</a></li>
+                                <li><a href="../../personajes.php">Personajes</a></li>
+                                <li><a href="../../glosario.php">Glosario</a></li>
+                                <li><a href="../../citas.php">Citas</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown-sidebar">
+                            <a href="../../actividades_eyre.php">Actividades</a>
+                            <ul class="dropdown-menu-sidebar">
+                                <li><a href="../../test.php">Tests</a></li>
+                                <li><a href="../../rellenar.php">Rellenar</a></li>
+                                <li><a href="../../desarrollar.php">Desarrollar</a></li>
+                                <li><a href="../../flashcard.php">Flashcards</a></li>
+                                <li><a href="../../juegos.php">Juegos</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="../../externos.php">Enlaces externos</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <section class="pjustificado">
+                <h1 class="h1personajes">Diana Rivers</h1>
+
+                <img class="fpersonaje" src="../../../../../media/images/diana.png">
+
+                <p>Diana es la hermana mayor de la familia Rivers. Tras la muerte de su padre y la pérdida de la fortuna
+                    familiar, trabaja como institutriz en una
+                    ciudad lejana, pero regresa a Moor House para reunirse con sus hermanos. Representa la culminación
+                    del ideal femenino para Jane: una mujer que
+                    combina la inteligencia de la Srta. Temple con el afecto de una hermana.</p>
+
+                <h3>Personalidad e impacto en la vida de Jane</h3>
+                <p>Diana es una mujer culta y cálida. A diferencia de la rigidez de su hermano St. John, Diana posee una
+                    naturaleza abierta y compasiva. Comparte con
+                    Jane su amor por la lectura y el conocimiento, y la anima a desarrollar su intelecto y su
+                    curiosidad. Además, es una mujer compasiva y solidaria,
+                    que se preocupa por el bienestar de los demás. Su relación con Jane es de igual a igual, y se
+                    convierte en una figura de apoyo y guía para ella.</p>
+
+                <p>Junto con su hermana Mary, Diana es quien acoge a Jane cuando esta llega a su puerta moribunda,
+                    hambrienta y sin nombre (haciéndose llamar Jane Elliott),
+                    tras huir de Thornfield. Nadie las obliga a ser así de bondadosas, lo son por naturaleza.</p>
+
+                <p>Diana es la única que entiende por qué Jane no puede casarse con St. John. Ella apoya la
+                    independencia de Jane y valida sus sentimientos, protegiéndola
+                    indirectamente de la presión asfixiante de su hermano.</p>
+
+                <h3>Importancia del personaje</h3>
+                <p>Al igual que la señorita Temple, Diana representa la posibilidad de ser algo más que una mujer, en
+                    este caso una intelectual, sin dejar de ser afectuosa y
+                    solidaria. Representa la independencia lograda a través del intelecto. Al final, Diana se casa con
+                    un capitán de la marina, logrando un final feliz que
+                    equilibra su intelecto con una vida emocional plena.</p>
+
+                <p>A través de ella, Jane experimenta por primera vez una relación de igualdad y sororidad. Es el
+                    contraste perfecto a las primas Reed (Eliza y Georgiana):
+                    donde aquellas eran egoístas y frías, las Rivers son generosas y brillantes.</p>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <p>TFM - Letras Digitales - UCM</p>
+    </footer>
+
+</body>
+
+</html>
