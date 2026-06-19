@@ -439,7 +439,7 @@ async function chatbot(request, response) {
 
   const normalized = normalizeText(message);
 
-  if (/(hola|buenas|ayuda)/.test(normalized)) {
+  if (isGreetingOrHelp(normalized)) {
     return sendJson(response, {
       response: 'Hola. Puedo ayudarte con personajes, capitulos, temas, simbolos, glosario y contexto de Jane Eyre.',
     });
@@ -454,8 +454,16 @@ async function chatbot(request, response) {
 async function searchKnowledge(message, normalized) {
   const terms = normalizeText(message)
     .split(' ')
-    .filter((term) => term.length >= 4)
+    .filter((term) => term.length >= 4 && !STOP_WORDS.has(term))
     .slice(0, 4);
+
+  const characterNames = resolveCharacterNames(normalized);
+  if (characterNames.length > 0) {
+    const character = await firstCharacterByName(characterNames);
+    if (character) {
+      return formatCharacter(character);
+    }
+  }
 
   if (terms.length === 0) {
     return null;
@@ -464,7 +472,7 @@ async function searchKnowledge(message, normalized) {
   if (/(personaje|jane|rochester|bertha|helen|bessie|reed|rivers|adele)/.test(normalized)) {
     const character = await firstLike('characters', ['nombre', 'descripcion', 'rol', 'relaciones'], terms);
     if (character) {
-      return `${character.nombre}: ${cleanText(character.descripcion, 500)} Rol: ${cleanText(character.rol, 200)} Relaciones: ${cleanText(character.relaciones, 250)}`;
+      return formatCharacter(character);
     }
   }
 
@@ -524,6 +532,98 @@ async function searchKnowledge(message, normalized) {
   }
 
   return null;
+}
+
+function isGreetingOrHelp(normalized) {
+  return [
+    'hola',
+    'hola litto',
+    'buenas',
+    'buenos dias',
+    'buenas tardes',
+    'buenas noches',
+    'que tal',
+    'ayuda',
+  ].includes(normalized);
+}
+
+const STOP_WORDS = new Set([
+  'quien',
+  'sobre',
+  'como',
+  'donde',
+  'cuando',
+  'porque',
+  'explica',
+  'significa',
+  'simboliza',
+  'representa',
+  'personaje',
+  'personajes',
+]);
+
+const CHARACTER_ALIASES = [
+  { aliases: ['edward rochester', 'sr rochester', 'senor rochester', 'mr rochester', 'rochester'], names: ['Edward Rochester'] },
+  { aliases: ['bertha mason', 'bertha'], names: ['Bertha Mason'] },
+  { aliases: ['grace poole'], names: ['Grace Poole'] },
+  { aliases: ['blanche ingram', 'ingram'], names: ['Blanche Ingram'] },
+  { aliases: ['helen burns', 'helen'], names: ['Helen Burns'] },
+  { aliases: ['senora temple', 'miss temple', 'temple'], names: ['Señora Temple', 'SeÃ±ora Temple'] },
+  { aliases: ['senora reed', 'mrs reed'], names: ['Señora Reed', 'SeÃ±ora Reed'] },
+  { aliases: ['senora fairfax', 'senora fairfaix', 'mrs fairfax', 'fairfax', 'fairfaix'], names: ['Señora Fairfaix', 'Señora Fairfax', 'SeÃ±ora Fairfaix', 'SeÃ±ora Fairfax'] },
+  { aliases: ['adele varens', 'adele'], names: ['Adèle Varens', 'Adele Varens', 'AdÃ¨le Varens'] },
+  { aliases: ['bessie'], names: ['Bessie'] },
+  { aliases: ['diana rivers', 'diana'], names: ['Diana Rivers'] },
+  { aliases: ['mary rivers', 'mary'], names: ['Mary Rivers'] },
+  { aliases: ['st john rivers', 'st john', 'john rivers'], names: ['John Rivers'] },
+  { aliases: ['john reed', 'primo john'], names: ['John Reed'] },
+  { aliases: ['lloyd', 'senor lloyd', 'sr lloyd'], names: ['Lloyd'] },
+  { aliases: ['brocklehurst', 'senor brocklehurst', 'sr brocklehurst'], names: ['Señor Brocklehurst', 'SeÃ±or Brocklehurst'] },
+  { aliases: ['georgiana reed', 'georgiana', 'georgina reed', 'georgina'], names: ['Georgina Reed'] },
+  { aliases: ['eliza reed', 'eliza'], names: ['Eliza Reed'] },
+  { aliases: ['jane eyre', 'jane'], names: ['Jane Eyre'] },
+];
+
+function hasPhrase(normalized, phrase) {
+  const escaped = phrase.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\s+/g, '\\s+');
+  return new RegExp(`(?:^|\\s)${escaped}(?:$|\\s)`).test(normalized);
+}
+
+function resolveCharacterNames(normalized) {
+  for (const entry of CHARACTER_ALIASES) {
+    if (entry.aliases.some((alias) => hasPhrase(normalized, alias))) {
+      return entry.names;
+    }
+  }
+
+  return [];
+}
+
+async function firstCharacterByName(names) {
+  if (!await tableExists('characters')) return null;
+
+  const params = names.map((name) => name.toLowerCase());
+  const placeholders = params.map((_, index) => `$${index + 1}`).join(', ');
+  const rows = await query(
+    `SELECT * FROM characters WHERE LOWER(nombre::text) IN (${placeholders}) LIMIT 1`,
+    params,
+  );
+
+  return rows[0] || null;
+}
+
+function formatCharacter(character) {
+  const parts = [`${character.nombre}: ${cleanText(character.descripcion, 500)}`];
+
+  if (character.rol) {
+    parts.push(`Rol: ${cleanText(character.rol, 200)}`);
+  }
+
+  if (character.relaciones) {
+    parts.push(`Relaciones: ${cleanText(character.relaciones, 250)}`);
+  }
+
+  return parts.join(' ');
 }
 
 async function firstLike(table, columns, terms) {

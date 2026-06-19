@@ -1190,6 +1190,10 @@ function getBotResponse(string $message, mysqli $conn): string
         return getAuthorResponse($conn);
     }
 
+    if (!empty(resolveCharacterPatterns($normalizedMessage))) {
+        return getCharacterResponse($normalizedMessage, $conn);
+    }
+
     if (isChapterQuery($normalizedMessage)) {
         return getChapterResponse($normalizedMessage, $conn);
     }
