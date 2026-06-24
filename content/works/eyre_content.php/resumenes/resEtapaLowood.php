@@ -90,7 +90,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap5.php">Capítulo V</a>
+                    <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap5.php" target="_blank">Capítulo V</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> emprende sola un largo viaje en carruaje
                         hasta llegar a Lowood en un día gris y lluvioso. La
@@ -115,7 +115,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap6.php">Capítulo V</a>
+                    <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap6.php" target="_blank">Capítulo V</a>
 
                     <p>La vida en Lowood se revela en toda su dureza: las niñas despiertan con el agua de las palanganas
                         congelada y sufren hambre constante
@@ -139,7 +139,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap7.php">Capítulo VII</a>
+                    <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap7.php" target="_blank">Capítulo VII</a>
 
                     <p>Tras un mes de ausencia, el <a href="../personajes/lowood/brocklehurst.php">Señor
                             Brocklehurst</a> regresa a Lowood, aumentando la ansiedad de <a
@@ -162,7 +162,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap8.php">Capítulo VIII</a>
+                    <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap8.php" target="_blank">Capítulo VIII</a>
 
                     <p>Tras la humillación, <a href="../personajes/gateshead/jane.php">Jane</a> se derrumba creyendo que
                         su reputación está destruida para siempre,
@@ -188,7 +188,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap9.php">Capítulo IX</a>
+                    <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap9.php" target="_blank">Capítulo IX</a>
 
                     <p>Con la llegada de la primavera, la ubicación insalubre de Lowood provoca un brote masivo de tifus
                         que afecta a más de la mitad de las niñas.
@@ -213,7 +213,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap10.php">Capítulo X</a>
+                    <a class="boton" href="../caps/2.Etapa en Lowood (Cap. 5–10)/cap10.php" target="_blank">Capítulo X</a>
 
                     <p>Tras el escándalo del tifus, una nueva directiva asume el control de Lowood, mejorando
                         drásticamente las condiciones de vida. <a href="../personajes/gateshead/jane.php">Jane</a> pasa

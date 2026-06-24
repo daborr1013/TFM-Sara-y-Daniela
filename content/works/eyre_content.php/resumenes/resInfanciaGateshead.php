@@ -90,7 +90,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap1.php">Capítulo I</a>
+                    <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap1.php" target="_blank">Capítulo I</a>
 
                     <p>La historia comienza en una tarde gris de noviembre. <a
                             href="../personajes/gateshead/jane.php">Jane Eyre</a>, una huérfana de 10 años, intenta
@@ -112,7 +112,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap2.php">Capítulo II</a>
+                    <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap2.php" target="_blank">Capítulo II</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> es arrastrada por las criadas Abbott y <a
                             href="../personajes/gateshead/bessie.php">Bessie</a> al temido Cuarto Rojo. Al verse
@@ -133,7 +133,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap3.php">Capítulo III</a>
+                    <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap3.php" target="_blank">Capítulo III</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> despierta en su habitación bajo el cuidado
                         del amable boticario, el <a href="../personajes/gateshead/lloyd.php">señor Lloyd</a>, y de <a
@@ -154,7 +154,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap4.php">Capítulo IV</a>
+                    <a class="boton" href="../caps/1.Infancia en Gateshead (Cap. 1–4)/cap4.php" target="_blank">Capítulo IV</a>
 
                     <p>Tras dos meses de espera y mayor aislamiento, <a href="../personajes/gateshead/jane.php">Jane</a>
                         conoce al <a href="../personajes/lowood/brocklehurst.php">señor Brocklehurst</a>, el severo

@@ -90,7 +90,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap11.php">Capítulo XI</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap11.php" target="_blank">Capítulo XI</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> llega a Thornfield Hall de noche, encontrando
                         un interior acogedor que contrasta con la
@@ -117,7 +117,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap12.php">Capítulo XII</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap12.php" target="_blank">Capítulo XII</a>
 
                     <p>La vida en Thornfield resulta agradable para <a href="../personajes/gateshead/jane.php">Jane</a>;
                         <a href="../personajes/thornfield/adele.php">Adèle</a> es una alumna vivaz aunque algo
@@ -141,7 +141,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap13.php">Capítulo XIII</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap13.php" target="_blank">Capítulo XIII</a>
 
                     <p>Al día siguiente de su accidentado encuentro, el <a
                             href="../personajes/thornfield/edwardRochester.php">señor Rochester</a> invita a <a
@@ -168,7 +168,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap14.php">Capítulo XIV</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap14.php" target="_blank">Capítulo XIV</a>
 
                     <p>Una noche, en un estado de ánimo más relajado (y algo ebrio), el <a
                             href="../personajes/thornfield/edwardRochester.php">señor Rochester</a> manda llamar a <a
@@ -194,7 +194,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap15.php">Capítulo XV</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap15.php" target="_blank">Capítulo XV</a>
 
                     <p>El <a href="../personajes/thornfield/edwardRochester.php">señor Rochester</a> cumple su promesa y
                         revela a <a href="../personajes/gateshead/jane.php">Jane</a> su pasado: tuvo un romance con una
@@ -225,7 +225,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap16.php">Capítulo XVI</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap16.php" target="_blank">Capítulo XVI</a>
 
                     <p>Al día siguiente, <a href="../personajes/gateshead/jane.php">Jane</a> se asombra al ver que el
                         intento de asesinato no ha causado ningún
@@ -253,7 +253,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap17.php">Capítulo XVII</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap17.php" target="_blank">Capítulo XVII</a>
 
                     <p>Tras una semana de angustia pensando que Rochester se irá a Europa por un año, la <a
                             href="../personajes/thornfield/fairfaix.php">señora Fairfax</a>
@@ -283,7 +283,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap18.php">Capítulo XVIII</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap18.php" target="_blank">Capítulo XVIII</a>
 
                     <p>La estancia de los invitados continúa y <a href="../personajes/gateshead/jane.php">Jane</a>
                         observa con dolor cómo <a href="../personajes/thornfield/edwardRochester.php">Rochester</a> e
@@ -307,7 +307,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap19.php">Capítulo XIX</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap19.php" target="_blank">Capítulo XIX</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> entra en la biblioteca con escepticismo, pero
                         pronto queda fascinada por las palabras de la
@@ -336,7 +336,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap20.php">Capítulo XX</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap20.php" target="_blank">Capítulo XX</a>
 
                     <p>La paz de la noche se rompe con un grito desgarrador. <a
                             href="../personajes/thornfield/edwardRochester.php">Rochester</a> calma a los invitados
@@ -371,7 +371,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap21.php">Capítulo XXI</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap21.php" target="_blank">Capítulo XXI</a>
 
                     <p>Tras una serie de sueños premonitorios con bebés (mal augurio en el folclore inglés), <a
                             href="../personajes/gateshead/jane.php">Jane</a> recibe
@@ -404,7 +404,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap22.php">Capítulo XXII</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap22.php" target="_blank">Capítulo XXII</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> prolonga su estancia en Gateshead un mes más
                         para ayudar a sus primas a organizar sus vidas
@@ -429,7 +429,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap23.php">Capítulo XXIII</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap23.php" target="_blank">Capítulo XXIII</a>
 
                     <p>Tras dos semanas de tensa calma, <a
                             href="../personajes/thornfield/edwardRochester.php">Rochester</a> encuentra a <a
@@ -457,7 +457,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap24.php">Capítulo XXIV</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap24.php" target="_blank">Capítulo XXIV</a>
 
                     <p>Los preparativos de la boda comienzan, pero no traen la paz que <a
                             href="../personajes/gateshead/jane.php">Jane</a> esperaba. La <a
@@ -484,7 +484,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap25.php">Capítulo XXV</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap25.php" target="_blank">Capítulo XXV</a>
 
                     <p>La víspera de la boda, <a href="../personajes/gateshead/jane.php">Jane</a> espera a <a
                             href="../personajes/thornfield/edwardRochester.php">Rochester</a> con una ansiedad
@@ -511,7 +511,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap26.php">Capítulo XXVI</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap26.php" target="_blank">Capítulo XXVI</a>
 
                     <p>El día de la boda comienza con una nota de presagio cuando <a
                             href="../personajes/gateshead/jane.php">Jane</a> ve a dos extraños en el
@@ -548,7 +548,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap27.php">Capítulo XXVII</a>
+                    <a class="boton" href="../caps/3.Thornfield Hall (Cap. 11–27)/cap27.php" target="_blank">Capítulo XXVII</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> sale de su habitación y encuentra a <a
                             href="../personajes/thornfield/edwardRochester.php">Rochester</a> esperándola. Aunque lo

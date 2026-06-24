@@ -40,7 +40,7 @@
             <div class="sidebar">
                 <nav class="navbar-sidebar">
                     <ul class="menu-sidebar">
-                        <li><a class="active" href="inicio_eyre.php">Inicio</a></li>
+                        <li><a href="inicio_eyre.php">Inicio</a></li>
 
                         <li class="dropdown-sidebar">
                             <a href="contenido_eyre.php">Obra</a>
@@ -79,7 +79,7 @@
                             </ul>
                         </li>
 
-                        <li><a href="externos.php">Enlaces externos</a></li>
+                        <li><a class="active" href="externos.php">Enlaces externos</a></li>
                     </ul>
                 </nav>
             </div>

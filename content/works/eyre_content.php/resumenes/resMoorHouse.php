@@ -90,7 +90,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap28.php">Capítulo XXVIII</a>
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap28.php" target="_blank">Capítulo XXVIII</a>
 
                     <p>Tras huir de Thornfield con apenas unas pocas monedas, <a
                             href="../personajes/gateshead/jane.php">Jane</a> se ve obligada a gastar lo último que
@@ -120,7 +120,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap29.php">Capítulo XXIX</a>
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap29.php" target="_blank">Capítulo XXIX</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> baja a la cocina y tiene un pequeño
                         enfrentamiento con Hannah, la sirvienta, quien la juzga
@@ -145,7 +145,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap30.php">Capítulo XXX</a>
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap30.php" target="_blank">Capítulo XXX</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> entabla una amistad profunda con <a
                             href="../personajes/moorhouse/diana.php">Diana</a> y <a
@@ -180,7 +180,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap31.php">Capítulo XXXI</a>
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap31.php" target="_blank">Capítulo XXXI</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> inaugura su escuela con solo veinte
                         alumnas, de las cuales solo tres saben leer. Al
@@ -210,7 +210,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap32.php">Capítulo XXXII</a>
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap32.php" target="_blank">Capítulo XXXII</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> gana el respeto y el cariño de sus alumnas
                         en Morton, descubriendo que incluso las niñas más
@@ -236,7 +236,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap33.php">Capítulo XXXIII</a>
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap33.php" target="_blank">Capítulo XXXIII</a>
 
                     <p>En una noche de tormenta de nieve, <a href="../personajes/moorhouse/johnRivers.php">St. John
                             Rivers</a> llega a la cabaña de <a href="../personajes/gateshead/jane.php">Jane</a>. Tras un
@@ -268,7 +268,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap34.php">Capítulo XXXIV</a>
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap34.php" target="_blank">Capítulo XXXIV</a>
 
                     <p>Tras repartir la herencia, las hermanas <a href="../personajes/moorhouse/diana.php">Diana</a> y
                         <a href="../personajes/moorhouse/mary.php">Mary</a> regresan a Moor House, y por primera vez en
@@ -299,7 +299,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap35.php">Capítulo XXXV</a>
+                    <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap35.php" target="_blank">Capítulo XXXV</a>
 
                     <p>Tras el rechazo de <a href="../personajes/gateshead/jane.php">Jane</a>, <a
                             href="../personajes/moorhouse/johnRivers.php">St. John</a> utiliza su arma más poderosa: la
