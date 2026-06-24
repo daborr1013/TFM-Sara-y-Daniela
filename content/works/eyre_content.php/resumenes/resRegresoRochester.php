@@ -90,7 +90,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/5.Regreso a Rochester (Cap. 36–38)/cap36.php">Capítulo XXXVI</a>
+                    <a class="boton" href="../caps/5.Regreso a Rochester (Cap. 36–38)/cap36.php" target="_blank">Capítulo XXXVI</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> emprende un viaje de dos días en carruaje
                         hacia el distrito de Millcote. Su impaciencia es
@@ -114,7 +114,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/5.Regreso a Rochester (Cap. 36–38)/cap37.php">Capítulo XXXVII</a>
+                    <a class="boton" href="../caps/5.Regreso a Rochester (Cap. 36–38)/cap37.php" target="_blank">Capítulo XXXVII</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> se acerca a la casa y ve a <a
                             href="../personajes/thornfield/edwardRochester.php">Rochester</a> salir por la puerta. Se
@@ -143,7 +143,7 @@
                 </section>
 
                 <section class="pjustificado">
-                    <a class="boton" href="../caps/5.Regreso a Rochester (Cap. 36–38)/cap38.php">Capítulo XXXVIII</a>
+                    <a class="boton" href="../caps/5.Regreso a Rochester (Cap. 36–38)/cap38.php" target="_blank">Capítulo XXXVIII</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> y <a
                             href="../personajes/thornfield/edwardRochester.php">Rochester</a> celebran una boda
