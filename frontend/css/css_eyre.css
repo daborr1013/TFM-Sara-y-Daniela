@@ -248,18 +248,33 @@ nav a:focus-visible {
     margin-top: 5px;
 }
 
-.dropdown-sidebar:hover .dropdown-menu-sidebar {
+.dropdown-sidebar:hover .dropdown-menu-sidebar,
+.dropdown-sidebar:focus-within .dropdown-menu-sidebar {
     display: block;
 }
 
+.dropdown-sidebar>a::after {
+    content: ">";
+    float: right;
+    color: #6a4c93;
+    font-weight: 700;
+    transition: transform 0.2s ease;
+}
+
+.dropdown-sidebar:hover>a::after,
+.dropdown-sidebar:focus-within>a::after {
+    transform: rotate(90deg);
+}
+
 .dropdown-menu-sidebar li a {
-    background-color: #ffffff;
+    background-color: #f8f5fb;
     margin: 5px 0;
-    padding: 12px 15px;
+    padding: 10px 14px 10px 24px;
     /* Mejor padding */
-    border-left: 3px solid transparent;
+    border-left: 3px solid #c3b7d2;
     font-weight: 500;
     transition: all 0.25s ease;
+    font-size: 0.95rem;
 }
 
 .dropdown-menu-sidebar li a:hover {
@@ -492,6 +507,7 @@ img {
 
 .relaciones {
     width: 50%;
+    max-width: 100%;
     height: auto;
     margin: 20px auto;
     display: block;
@@ -553,6 +569,7 @@ button {
 table {
     width: 100%;
     max-width: 100%;
+    table-layout: fixed;
     border-collapse: collapse;
     margin: 20px auto;
     /* Centrar y dar espacio */
@@ -578,6 +595,51 @@ th {
 td {
     border-bottom: 1px solid #e0e0e0;
     /* Separación visual */
+}
+
+td .boton {
+    width: 100% !important;
+    max-width: 190px;
+    margin: 8px auto !important;
+    padding: 10px 12px !important;
+    font-size: 0.92rem;
+}
+
+.personajes-tablas {
+    display: grid;
+    gap: 24px;
+    margin: 28px auto;
+    width: min(100%, 820px);
+}
+
+.tabla-personajes {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(106, 76, 147, 0.12);
+    overflow: hidden;
+}
+
+.tabla-personajes th {
+    font-size: 1rem;
+}
+
+.tabla-personajes td {
+    width: 50%;
+}
+
+.mapa-relaciones + table,
+.mapa-relaciones + table + iframe {
+    display: none !important;
+}
+
+.mapa-relaciones {
+    width: min(100%, 920px) !important;
+    height: 760px !important;
+    border: none;
+    display: block;
+    margin: 38px auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
 .exel {
@@ -637,4 +699,238 @@ details {
 
 details[open] summary {
     margin-bottom: 10px;
+}
+
+/* ===== Ajustes responsive generales ===== */
+@media (max-width: 1024px) {
+    main {
+        padding: 16px;
+    }
+
+    .layout {
+        flex-direction: column;
+        align-items: stretch;
+        width: 100%;
+    }
+
+    .sidebar {
+        position: static;
+        width: min(100%, 900px);
+        margin: 0 auto 20px;
+        border-left: 0;
+        border-top: 4px solid #6a4c93;
+    }
+
+    .contenido {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .menu-sidebar {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+        gap: 8px;
+    }
+
+    .menu-sidebar a,
+    .dropdown-menu-sidebar li a {
+        margin: 0;
+        padding: 12px 14px;
+    }
+
+    .dropdown-sidebar .dropdown-menu-sidebar {
+        display: none;
+        padding-left: 0;
+    }
+
+    .dropdown-sidebar:hover .dropdown-menu-sidebar,
+    .dropdown-sidebar:focus-within .dropdown-menu-sidebar {
+        display: block;
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        padding-top: 0;
+    }
+
+    .skip-link {
+        position: absolute;
+        transform: translateY(-100%);
+    }
+
+    .skip-link:focus {
+        transform: translateY(0);
+    }
+
+    header a {
+        padding: 8px;
+    }
+
+    .logo {
+        width: clamp(110px, 38vw, 180px);
+    }
+
+    .navbar {
+        padding: 8px;
+    }
+
+    .menu {
+        flex-wrap: wrap;
+        gap: 8px;
+        margin: 0;
+        padding: 8px;
+    }
+
+    .menu li {
+        flex: 1 1 140px;
+    }
+
+    .menu a,
+    .nav-action {
+        width: 100%;
+        margin: 0;
+        padding: 10px 8px;
+        font-size: 0.95rem;
+        text-align: center;
+    }
+
+    .dropdown-menu {
+        position: static;
+        min-width: 100%;
+        box-shadow: none;
+        margin-top: 4px;
+    }
+
+    .hero {
+        width: 100%;
+        margin: 16px 0;
+        padding: 36px 16px;
+        border-radius: 18px;
+    }
+
+    h1,
+    .h1personajes,
+    .hero h1 {
+        font-size: clamp(1.45rem, 7vw, 2rem);
+        padding: 16px;
+        border-radius: 14px;
+    }
+
+    h2 {
+        font-size: 1.25rem;
+    }
+
+    .pjustificado {
+        width: 100%;
+        max-width: 100%;
+        padding: 0 4px;
+        text-indent: 0;
+        text-align: left;
+        font-size: 1rem;
+        line-height: 1.7;
+    }
+
+    .bloqueTexto {
+        margin: 16px 0;
+        padding: 12px;
+    }
+
+    .mapahistorico,
+    .bronte,
+    .bell,
+    .actividades {
+        width: min(100%, 260px);
+    }
+
+    .imgresumenes,
+    .relaciones {
+        width: 100%;
+    }
+
+    .fpersonaje {
+        width: 140px;
+    }
+
+    .layoutbotones,
+    .botonesFinales {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .boton,
+    button {
+        width: min(100%, 320px) !important;
+        white-space: normal;
+    }
+
+    table {
+        display: block;
+        width: 100%;
+        max-width: calc(100vw - 20px);
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        table-layout: auto;
+        border: 1px solid #e0e0e0;
+        border-radius: 10px;
+    }
+
+    th,
+    td {
+        min-width: 155px;
+        padding: 8px;
+        font-size: 0.95rem;
+    }
+
+    td .boton {
+        max-width: 150px;
+        padding: 9px 10px !important;
+        font-size: 0.88rem;
+    }
+
+    iframe.relaciones {
+        width: 100% !important;
+        max-width: calc(100vw - 20px);
+        height: 620px !important;
+        min-height: 0;
+        overflow: hidden;
+    }
+
+    .personajes-tablas {
+        gap: 18px;
+        margin: 22px auto;
+    }
+
+    .tabla-personajes {
+        display: table;
+        max-width: 100%;
+        overflow: hidden;
+    }
+
+    .tabla-personajes th,
+    .tabla-personajes td {
+        min-width: 0;
+    }
+
+    .exel {
+        height: 65vh;
+    }
+}
+
+@media (max-width: 480px) {
+    main {
+        padding: 10px;
+    }
+
+    .menu li {
+        flex-basis: 100%;
+    }
+
+    .menu-sidebar {
+        grid-template-columns: 1fr;
+    }
+
+    .hero {
+        padding: 28px 12px;
+    }
 }

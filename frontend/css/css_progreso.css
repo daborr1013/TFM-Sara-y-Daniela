@@ -269,3 +269,50 @@ footer {
     border-top: 1px solid #eee;
     color: #666;
 }
+
+@media (max-width: 768px) {
+    header {
+        padding: 14px 0;
+    }
+
+    header img {
+        max-width: 110px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    nav ul {
+        flex-wrap: wrap;
+        gap: 8px;
+        padding: 8px 12px;
+    }
+
+    nav li {
+        flex: 1 1 140px;
+        text-align: center;
+    }
+
+    nav a {
+        padding: 10px 6px;
+    }
+
+    main {
+        margin: 24px auto;
+        padding: 0 14px;
+    }
+
+    h1 {
+        font-size: clamp(1.6rem, 8vw, 2rem);
+    }
+
+    .activity-item,
+    .activity-status {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .score {
+        text-align: left;
+    }
+}

@@ -307,3 +307,41 @@ input[type="range"]::-webkit-slider-thumb {
 .link-perfil-progreso:hover {
     background: rgba(255, 255, 255, 0.25);
 }
+
+@media (max-width: 760px) {
+    body {
+        padding: 18px 12px;
+    }
+
+    .container {
+        margin: 12px auto;
+        padding: 24px 16px;
+        border-radius: 18px;
+    }
+
+    .container::before {
+        inset: 8px;
+        border-radius: 14px;
+    }
+
+    h1 {
+        font-size: clamp(1.45rem, 7vw, 2rem);
+    }
+
+    .activity-content,
+    .info-box {
+        padding: 18px;
+    }
+
+    .range-value {
+        display: block;
+        width: fit-content;
+        margin: 10px 0 0;
+    }
+
+    .submit-btn,
+    .btn-guardar-progreso {
+        width: 100%;
+        white-space: normal;
+    }
+}
