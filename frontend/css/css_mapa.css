@@ -289,3 +289,106 @@ h1 {
   line-height: 1.6;
   font-size: 14px;
 }
+
+@media (max-width: 900px) {
+  body {
+    width: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+  }
+
+  h1 {
+    top: 12px;
+    left: 12px;
+    right: 12px;
+    width: auto;
+    font-size: clamp(18px, 5vw, 24px);
+    padding: 8px 12px;
+  }
+
+  .node-image {
+    width: clamp(34px, 6.5vw, 48px);
+    height: clamp(34px, 6.5vw, 48px);
+  }
+
+  .node.main .node-image {
+    width: clamp(46px, 8vw, 62px);
+    height: clamp(46px, 8vw, 62px);
+  }
+
+  .node-label {
+    max-width: 110px;
+    white-space: normal;
+    text-align: center;
+    line-height: 1.15;
+  }
+
+  .place-label {
+    letter-spacing: 2px;
+  }
+
+  .legend {
+    position: absolute;
+    right: 12px;
+    top: 68px;
+    bottom: auto;
+    gap: 8px;
+    padding: 10px 12px;
+  }
+
+  .legend-item {
+    font-size: 12px;
+  }
+
+  .legend-color {
+    width: 28px;
+  }
+
+  .modal-content {
+    width: calc(100% - 24px);
+    margin: 64px auto 20px;
+    padding: 20px;
+    max-height: calc(100vh - 96px);
+  }
+
+  .character-modal-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .character-image {
+    width: min(180px, 70vw);
+  }
+}
+
+@media (max-width: 520px) {
+  .legend {
+    top: 64px;
+    bottom: auto;
+    left: 12px;
+    right: 12px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .modal-content h2,
+  .character-text h2 {
+    font-size: 20px;
+  }
+
+  .node {
+    gap: 3px;
+  }
+
+  .node-label {
+    max-width: 82px;
+    padding: 3px 6px;
+    font-size: 9px;
+  }
+
+  .place-label {
+    font-size: 13px;
+    letter-spacing: 1px;
+  }
+}

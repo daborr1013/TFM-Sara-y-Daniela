@@ -255,3 +255,34 @@ input:focus {
 .back-link a:hover {
     color: var(--primary-color);
 }
+
+@media (max-width: 520px) {
+    body {
+        align-items: flex-start;
+        padding: 14px;
+    }
+
+    .login-container,
+    .register-container {
+        padding: 26px 18px;
+        border-radius: 14px;
+    }
+
+    .login-header img,
+    .register-header img {
+        width: min(130px, 45vw);
+    }
+
+    .login-header h1,
+    .register-header h1 {
+        font-size: clamp(1.6rem, 9vw, 2rem);
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="password"],
+    .login-button,
+    .register-button {
+        font-size: 16px;
+    }
+}

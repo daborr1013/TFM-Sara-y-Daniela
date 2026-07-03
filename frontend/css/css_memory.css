@@ -105,3 +105,35 @@
 .restart-button:active {
     transform: scale(0.98);
 }
+
+@media (max-width: 720px) {
+    .game-info {
+        font-size: 1rem;
+        padding: 0 8px;
+    }
+
+    .memory-game {
+        grid-template-columns: repeat(4, minmax(64px, 1fr));
+        gap: 8px;
+        width: min(100%, 430px);
+        margin: 0 auto 20px;
+    }
+
+    .card {
+        width: 100% !important;
+        height: auto !important;
+        aspect-ratio: 7 / 9;
+        font-size: 18px !important;
+    }
+}
+
+@media (max-width: 420px) {
+    .memory-game {
+        grid-template-columns: repeat(3, minmax(70px, 1fr));
+    }
+
+    .restart-button {
+        width: min(100%, 300px);
+        white-space: normal;
+    }
+}

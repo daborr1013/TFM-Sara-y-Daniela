@@ -595,12 +595,13 @@ main {
 
 /* Book Gallery Styling */
 .book-gallery {
-    display: flex;
+    display: grid;
+    grid-template-columns: minmax(90px, 1fr) minmax(130px, 1.25fr) minmax(90px, 1fr);
     align-items: center;
     justify-content: center;
-    gap: 30px;
+    gap: clamp(12px, 4vw, 30px);
     margin: 10px 0;
-    flex-wrap: nowrap;
+    width: min(100%, 720px);
 }
 
 .book-item {
@@ -617,9 +618,144 @@ main {
 }
 
 .book-item.upcoming img {
-    width: 120px;
+    width: min(100%, 120px);
 }
 
 .book-item:not(.upcoming) img {
-    width: 200px;
+    width: min(100%, 200px);
+}
+
+.book-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+@media (max-width: 900px) {
+    main {
+        gap: 32px;
+        padding: 16px;
+    }
+
+    .logo {
+        width: clamp(110px, 36vw, 180px);
+    }
+
+    .menu {
+        flex-wrap: wrap;
+        gap: 8px;
+        margin: 0;
+        padding: 8px;
+    }
+
+    .menu li {
+        flex: 1 1 140px;
+    }
+
+    nav a,
+    .menu a,
+    .nav-action {
+        width: 100%;
+        margin: 0;
+        padding: 10px 8px;
+        text-align: center;
+    }
+
+    .dropdown-menu {
+        position: static;
+        min-width: 100%;
+        box-shadow: none;
+        margin-top: 4px;
+    }
+
+    h1 {
+        margin: 0;
+        width: 100%;
+        font-size: clamp(1.45rem, 7vw, 2.1rem);
+        padding: 18px 12px;
+    }
+
+    .hero {
+        width: 100%;
+        margin: 18px 0;
+        padding: 42px 16px;
+        border-radius: 22px;
+    }
+
+    .pjustificado {
+        padding: 0 4px;
+        text-indent: 0;
+        text-align: left;
+        font-size: 1rem;
+        line-height: 1.7;
+    }
+
+    .card-container {
+        flex-wrap: wrap;
+        gap: 18px;
+    }
+
+    .book-gallery {
+        grid-template-columns: minmax(70px, 1fr) minmax(110px, 1.2fr) minmax(70px, 1fr);
+        gap: 12px;
+    }
+
+    .book-item:not(.upcoming) img {
+        width: min(100%, 170px);
+    }
+
+    .book-item.upcoming img {
+        width: min(100%, 110px);
+    }
+
+    .nosotras {
+        width: min(38vw, 150px);
+    }
+
+    .layout {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        gap: 22px;
+    }
+
+    .layout > .pjustificado {
+        max-width: 900px;
+        width: 100%;
+    }
+
+    .pjustificado .layout {
+        flex-direction: column-reverse;
+        align-items: center;
+        gap: 14px;
+    }
+
+    .pjustificado .layout .pjustificado {
+        padding: 0;
+        margin: 0;
+    }
+
+    .nosotras {
+        width: min(230px, 72vw);
+        margin: 0 auto 8px;
+    }
+}
+
+@media (max-width: 520px) {
+    .menu li {
+        flex-basis: 100%;
+    }
+
+    .hero {
+        padding: 32px 12px;
+    }
+
+    .boton {
+        width: min(100%, 320px) !important;
+        white-space: normal;
+    }
+
+    .book-gallery {
+        grid-template-columns: 1fr;
+        width: min(100%, 240px);
+    }
 }

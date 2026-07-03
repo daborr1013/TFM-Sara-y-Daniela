@@ -418,3 +418,79 @@ button:active {
         opacity: 1;
     }
 }
+
+@media (max-width: 768px) {
+    .logo {
+        width: clamp(110px, 38vw, 180px);
+    }
+
+    .menu {
+        flex-wrap: wrap;
+        gap: 8px;
+        margin: 0;
+        padding: 8px;
+    }
+
+    .menu li {
+        flex: 1 1 140px;
+        font-size: 1rem;
+    }
+
+    nav a,
+    .menu a {
+        width: 100%;
+        margin: 0;
+        padding: 10px 8px;
+    }
+
+    .dropdown-menu {
+        position: static;
+        min-width: 100%;
+        box-shadow: none;
+    }
+
+    .hero,
+    .pjustificado {
+        width: calc(100% - 24px);
+        border-radius: 22px;
+    }
+
+    .hero {
+        padding: 40px 16px;
+        margin: 20px auto;
+    }
+
+    .hero h1 {
+        font-size: clamp(1.45rem, 7vw, 2rem);
+    }
+
+    .pjustificado {
+        padding: 22px;
+        text-indent: 0;
+        text-align: left;
+    }
+
+    .chat-container {
+        width: calc(100% - 24px);
+        height: min(70vh, 560px);
+    }
+
+    .chat-input-area {
+        flex-direction: column;
+    }
+
+    #messageInput,
+    button {
+        width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .menu li {
+        flex-basis: 100%;
+    }
+
+    .message {
+        max-width: 95%;
+    }
+}
