@@ -1,4 +1,4 @@
-const configuredApiBase = (window.LITTERALLY_API_URL || window.__LITTERALLY_API_URL__ || '__LITTERALLY_API_URL__').trim();
+const configuredApiBase = (window.LITTERALLY_API_URL || window.__LITTERALLY_API_URL__ || '__LITTERALLY_API_URL_VALUE__').trim();
 const apiBase = normalizeApiBase(configuredApiBase);
 const authTokenKey = 'litterally_auth_token';
 
