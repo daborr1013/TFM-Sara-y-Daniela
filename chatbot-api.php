@@ -1325,7 +1325,7 @@ function getBotResponse(string $message, mysqli $conn): string
         return getAuthorResponse($conn);
     }
 
-    if (isCharacterQuery($normalizedMessage)) {
+    if (!empty(resolveCharacterPatterns($normalizedMessage))) {
         return getCharacterResponse($normalizedMessage, $conn);
     }
 
