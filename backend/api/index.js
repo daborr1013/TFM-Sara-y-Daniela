@@ -77,10 +77,16 @@ export default async function handler(request, response) {
 
 function applyCors(request, response) {
   const origin = request.headers.origin;
-  const allowedOrigins = (process.env.FRONTEND_ORIGIN || '')
+  const configuredOrigins = (process.env.FRONTEND_ORIGIN || '')
     .split(',')
     .map((item) => normalizeOrigin(item))
     .filter(Boolean);
+  const allowedOrigins = [
+    ...configuredOrigins,
+    'https://front-tfm-sara-y-daniela.vercel.app',
+    'https://front-tfm-sara-y-daniela-*.vercel.app',
+    'http://localhost:5173',
+  ];
 
   if (!origin) return;
 
