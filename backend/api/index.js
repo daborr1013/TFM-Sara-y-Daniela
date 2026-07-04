@@ -94,8 +94,14 @@ function applyCors(request, response) {
 
   if (!origin) return;
 
-  if (originAllowed(origin, allowedOrigins)) {
-    response.setHeader('Access-Control-Allow-Origin', origin);
+  const normalizedOrigin = normalizeOrigin(origin);
+  const shouldAllowOrigin = originAllowed(normalizedOrigin, allowedOrigins)
+    || normalizedOrigin.includes('vercel.app')
+    || normalizedOrigin.includes('localhost')
+    || normalizedOrigin.includes('127.0.0.1');
+
+  if (shouldAllowOrigin) {
+    response.setHeader('Access-Control-Allow-Origin', normalizedOrigin);
     response.setHeader('Vary', 'Origin');
     response.setHeader('Access-Control-Allow-Credentials', 'true');
     response.setHeader('Access-Control-Allow-Methods', 'GET,POST,OPTIONS');
