@@ -79,7 +79,7 @@ function applyCors(request, response) {
   const origin = request.headers.origin;
   const allowedOrigins = (process.env.FRONTEND_ORIGIN || '')
     .split(',')
-    .map((item) => item.trim())
+    .map((item) => normalizeOrigin(item))
     .filter(Boolean);
 
   if (!origin) return;
@@ -94,15 +94,21 @@ function applyCors(request, response) {
 }
 
 function originAllowed(origin, allowedOrigins) {
+  const normalizedOrigin = normalizeOrigin(origin);
+
   if (allowedOrigins.length === 0) return true;
 
   return allowedOrigins.some((allowedOrigin) => {
-    if (allowedOrigin === origin) return true;
+    if (allowedOrigin === normalizedOrigin) return true;
     if (!allowedOrigin.includes('*')) return false;
 
     const escaped = allowedOrigin.replace(/[|\\{}()[\]^$+?.]/g, '\\$&').replace(/\*/g, '.*');
-    return new RegExp(`^${escaped}$`).test(origin);
+    return new RegExp(`^${escaped}$`).test(normalizedOrigin);
   });
+}
+
+function normalizeOrigin(value) {
+  return String(value || '').trim().replace(/\/+$/, '');
 }
 
 function sendJson(response, payload, status = 200) {

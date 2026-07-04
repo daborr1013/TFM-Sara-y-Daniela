@@ -15,16 +15,22 @@ async function apiRequest(path, options = {}) {
     ...(options.headers || {}),
   };
 
-  const response = await fetch(`${apiBase}${path}`, {
-    credentials: 'include',
-    ...options,
-    headers,
-  });
+  let response;
+
+  try {
+    response = await fetch(`${apiBase}${path}`, {
+      credentials: 'include',
+      ...options,
+      headers,
+    });
+  } catch {
+    throw new Error('No se ha podido conectar con la API. Revisa que VITE_API_URL apunte al backend de Vercel y que FRONTEND_ORIGIN incluya este dominio.');
+  }
 
   const payload = await response.json().catch(() => null);
 
   if (!response.ok) {
-    const message = payload?.error || payload?.message || `Error HTTP ${response.status}`;
+    const message = payload?.error || payload?.message || apiHttpErrorMessage(response.status);
     const error = new Error(message);
     error.status = response.status;
     throw error;
@@ -49,6 +55,14 @@ function setAuthState(user) {
   document.body.classList.toggle('authenticated', Boolean(user));
   document.body.classList.toggle('unauthenticated', !user);
   document.dispatchEvent(new CustomEvent('litterally:auth', { detail: { user } }));
+}
+
+function apiHttpErrorMessage(status) {
+  if (status === 404) {
+    return 'No se ha encontrado la API. Comprueba VITE_API_URL en Vercel; el frontend puede estar llamando al dominio equivocado.';
+  }
+
+  return `Error HTTP ${status}`;
 }
 
 function getAuthToken() {
