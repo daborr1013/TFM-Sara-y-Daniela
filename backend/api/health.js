@@ -1,5 +1,6 @@
 export default function handler(request, response) {
-  response.statusCode = 200;
-  response.setHeader('Content-Type', 'application/json; charset=utf-8');
-  response.end(JSON.stringify({ ok: true }));
+  return response.status(200).json({
+    ok: true,
+    service: 'litterally-backend',
+  });
 }
