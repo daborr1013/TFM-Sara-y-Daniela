@@ -15,6 +15,55 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
     }
 
+    const renderMessageText = (container, text) => {
+        const lines = String(text).split(/\r?\n/);
+        let list = null;
+        let paragraphLines = [];
+
+        const flushParagraph = () => {
+            if (paragraphLines.length === 0) {
+                return;
+            }
+
+            const paragraph = document.createElement('p');
+            paragraph.textContent = paragraphLines.join('\n');
+            container.appendChild(paragraph);
+            paragraphLines = [];
+        };
+
+        const flushList = () => {
+            list = null;
+        };
+
+        lines.forEach((line) => {
+            const trimmed = line.trim();
+
+            if (trimmed === '') {
+                flushParagraph();
+                flushList();
+                return;
+            }
+
+            if (trimmed.startsWith('- ')) {
+                flushParagraph();
+                if (!list) {
+                    list = document.createElement('ul');
+                    container.appendChild(list);
+                }
+
+                const item = document.createElement('li');
+                item.textContent = trimmed.slice(2);
+                list.appendChild(item);
+                return;
+            }
+
+            flushList();
+            paragraphLines.push(trimmed);
+        });
+
+        flushParagraph();
+    };
+
     const appendMessage = (text, sender = 'bot', extraId = '') => {
         const wrapper = document.createElement('div');
         wrapper.className = `message ${sender}`;
@@ -24,9 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
             wrapper.id = extraId;
         }
 
-        const paragraph = document.createElement('p');
-        paragraph.textContent = text;
-        wrapper.appendChild(paragraph);
+        renderMessageText(wrapper, text);
 
         chatBox.appendChild(wrapper);
         chatBox.scrollTop = chatBox.scrollHeight;

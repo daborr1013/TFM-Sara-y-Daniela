@@ -1,5 +1,6 @@
 const configuredApiBase = window.LITTERALLY_API_URL || '__LITTERALLY_API_URL__';
 const apiBase = (configuredApiBase.startsWith('__LITTERALLY_') ? '' : configuredApiBase).replace(/\/$/, '');
+const authTokenKey = 'litterally_auth_token';
 
 const appCss = document.createElement('link');
 appCss.rel = 'stylesheet';
@@ -7,8 +8,10 @@ appCss.href = '/css/app.css';
 document.head.append(appCss);
 
 async function apiRequest(path, options = {}) {
+  const token = getAuthToken();
   const headers = {
     ...(options.body instanceof FormData ? {} : { 'Content-Type': 'application/json' }),
+    ...(token ? { Authorization: `Bearer ${token}` } : {}),
     ...(options.headers || {}),
   };
 
@@ -48,11 +51,34 @@ function setAuthState(user) {
   document.dispatchEvent(new CustomEvent('litterally:auth', { detail: { user } }));
 }
 
+function getAuthToken() {
+  try {
+    return localStorage.getItem(authTokenKey);
+  } catch {
+    return '';
+  }
+}
+
+function setAuthToken(token) {
+  try {
+    if (token) {
+      localStorage.setItem(authTokenKey, token);
+    } else {
+      localStorage.removeItem(authTokenKey);
+    }
+  } catch {
+    // Cookies remain the primary session mechanism when local storage is unavailable.
+  }
+}
+
 async function loadCurrentUser() {
   try {
     const data = await apiRequest('/api/me');
     setAuthState(data.user);
-  } catch {
+  } catch (error) {
+    if (error?.status === 401) {
+      setAuthToken(null);
+    }
     setAuthState(null);
   }
 }
@@ -84,6 +110,7 @@ function setupLogin() {
         }),
       });
 
+      setAuthToken(data.token);
       setAuthState(data.user);
       setFormMessage(form, 'Sesión iniciada.', 'success');
       window.location.href = 'content/pUsuario.html';
@@ -138,6 +165,7 @@ function setupLogout() {
     try {
       await apiRequest('/api/auth/logout', { method: 'POST' });
     } finally {
+      setAuthToken(null);
       setAuthState(null);
       window.location.href = '/index.html';
     }

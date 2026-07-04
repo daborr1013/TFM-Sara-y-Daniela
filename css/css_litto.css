@@ -343,6 +343,19 @@ h3 {
     white-space: pre-line;
 }
 
+.message p + p {
+    margin-top: 0.75rem;
+}
+
+.message ul {
+    margin: 0.5rem 0 0;
+    padding-left: 1.25rem;
+}
+
+.message li {
+    margin: 0.25rem 0;
+}
+
 .message.user {
     background-color: #6a4c93;
     color: white;
