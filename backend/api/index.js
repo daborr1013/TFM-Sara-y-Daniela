@@ -77,10 +77,20 @@ export default async function handler(request, response) {
 
 function applyCors(request, response) {
   const origin = request.headers.origin;
-  const allowedOrigins = (process.env.FRONTEND_ORIGIN || '')
+  const configuredOrigins = (process.env.FRONTEND_ORIGIN || '')
     .split(',')
-    .map((item) => item.trim())
+    .map((item) => normalizeOrigin(item))
     .filter(Boolean);
+  const allowedOrigins = [
+    ...configuredOrigins,
+    'https://*.vercel.app',
+    'http://localhost:5173',
+    'http://localhost:3000',
+    'http://127.0.0.1:5173',
+    'http://127.0.0.1:3000',
+    'https://localhost:5173',
+    'https://localhost:3000',
+  ];
 
   if (!origin) return;
 
@@ -89,20 +99,26 @@ function applyCors(request, response) {
     response.setHeader('Vary', 'Origin');
     response.setHeader('Access-Control-Allow-Credentials', 'true');
     response.setHeader('Access-Control-Allow-Methods', 'GET,POST,OPTIONS');
-    response.setHeader('Access-Control-Allow-Headers', 'Content-Type,Authorization');
+    response.setHeader('Access-Control-Allow-Headers', 'Content-Type,Authorization,X-Requested-With');
   }
 }
 
 function originAllowed(origin, allowedOrigins) {
+  const normalizedOrigin = normalizeOrigin(origin);
+
   if (allowedOrigins.length === 0) return true;
 
   return allowedOrigins.some((allowedOrigin) => {
-    if (allowedOrigin === origin) return true;
+    if (allowedOrigin === normalizedOrigin) return true;
     if (!allowedOrigin.includes('*')) return false;
 
     const escaped = allowedOrigin.replace(/[|\\{}()[\]^$+?.]/g, '\\$&').replace(/\*/g, '.*');
-    return new RegExp(`^${escaped}$`).test(origin);
+    return new RegExp(`^${escaped}$`).test(normalizedOrigin);
   });
+}
+
+function normalizeOrigin(value) {
+  return String(value || '').trim().replace(/\/+$/, '');
 }
 
 function sendJson(response, payload, status = 200) {

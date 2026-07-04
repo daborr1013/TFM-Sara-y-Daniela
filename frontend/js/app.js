@@ -1,6 +1,34 @@
-const configuredApiBase = window.LITTERALLY_API_URL || '__LITTERALLY_API_URL__';
-const apiBase = (configuredApiBase.startsWith('__LITTERALLY_') ? '' : configuredApiBase).replace(/\/$/, '');
+const configuredApiBase = (window.LITTERALLY_API_URL || window.__LITTERALLY_API_URL__ || '__LITTERALLY_API_URL_VALUE__').trim();
+const apiBase = normalizeApiBase(configuredApiBase);
 const authTokenKey = 'litterally_auth_token';
+
+if (!configuredApiBase || configuredApiBase.includes('__LITTERALLY_')) {
+  console.warn('VITE_API_URL no configurada; el frontend usará /api como fallback.');
+}
+
+function normalizeApiBase(value) {
+  if (!value || value.includes('__LITTERALLY_')) {
+    return '/api';
+  }
+
+  return value.replace(/\/$/, '');
+}
+
+function buildApiUrl(path) {
+  const normalizedPath = path.startsWith('/') ? path : `/${path}`;
+  if (!apiBase) {
+    return normalizedPath;
+  }
+
+  const base = apiBase.replace(/\/$/, '');
+  const apiPrefix = '/api';
+
+  if (normalizedPath.startsWith(apiPrefix) && base.endsWith(apiPrefix)) {
+    return `${base}${normalizedPath.slice(apiPrefix.length)}`;
+  }
+
+  return `${base}${normalizedPath}`;
+}
 
 const appCss = document.createElement('link');
 appCss.rel = 'stylesheet';
@@ -15,16 +43,24 @@ async function apiRequest(path, options = {}) {
     ...(options.headers || {}),
   };
 
-  const response = await fetch(`${apiBase}${path}`, {
-    credentials: 'include',
-    ...options,
-    headers,
-  });
+  let response;
+
+  try {
+    response = await fetch(buildApiUrl(path), {
+      credentials: 'include',
+      ...options,
+      headers,
+    });
+  } catch (error) {
+    const attemptedUrl = buildApiUrl(path);
+    console.error('Error de conexión a la API:', attemptedUrl, error);
+    throw new Error(`No se ha podido conectar con la API (${attemptedUrl}). Revisa que VITE_API_URL apunte al backend de Vercel y que FRONTEND_ORIGIN incluya este dominio.`);
+  }
 
   const payload = await response.json().catch(() => null);
 
   if (!response.ok) {
-    const message = payload?.error || payload?.message || `Error HTTP ${response.status}`;
+    const message = payload?.error || payload?.message || apiHttpErrorMessage(response.status);
     const error = new Error(message);
     error.status = response.status;
     throw error;
@@ -49,6 +85,14 @@ function setAuthState(user) {
   document.body.classList.toggle('authenticated', Boolean(user));
   document.body.classList.toggle('unauthenticated', !user);
   document.dispatchEvent(new CustomEvent('litterally:auth', { detail: { user } }));
+}
+
+function apiHttpErrorMessage(status) {
+  if (status === 404) {
+    return 'No se ha encontrado la API. Comprueba VITE_API_URL en Vercel; el frontend puede estar llamando al dominio equivocado.';
+  }
+
+  return `Error HTTP ${status}`;
 }
 
 function getAuthToken() {

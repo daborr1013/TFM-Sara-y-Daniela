@@ -15,9 +15,9 @@ for (const entry of ['index.html', 'login.html', 'register.html', 'mapa_personaj
   }
 }
 
-const apiUrl = process.env.VITE_API_URL || '';
+const apiUrl = process.env.VITE_API_URL || process.env.LITTERALLY_API_URL || '/api';
 const appPath = join(dist, 'js', 'app.js');
-const appSource = readFileSync(appPath, 'utf8').replaceAll('__LITTERALLY_API_URL__', apiUrl);
+const appSource = readFileSync(appPath, 'utf8').replaceAll('__LITTERALLY_API_URL_VALUE__', apiUrl);
 writeFileSync(appPath, appSource);
 
 console.log(`Built static frontend into ${dist}`);

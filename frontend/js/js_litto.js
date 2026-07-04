@@ -97,6 +97,10 @@ document.addEventListener('DOMContentLoaded', () => {
         appendMessage('Escribiendo...', 'bot', 'typing');
 
         try {
+            if (!window.LitterallyApi?.post) {
+                throw new Error('La API del chat no está disponible en este momento.');
+            }
+
             const data = await window.LitterallyApi.post('/api/chatbot', { message: messageText });
             document.getElementById('typing')?.remove();
 
