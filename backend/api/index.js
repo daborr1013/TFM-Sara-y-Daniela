@@ -83,9 +83,13 @@ function applyCors(request, response) {
     .filter(Boolean);
   const allowedOrigins = [
     ...configuredOrigins,
-    'https://front-tfm-sara-y-daniela.vercel.app',
-    'https://front-tfm-sara-y-daniela-*.vercel.app',
+    'https://*.vercel.app',
     'http://localhost:5173',
+    'http://localhost:3000',
+    'http://127.0.0.1:5173',
+    'http://127.0.0.1:3000',
+    'https://localhost:5173',
+    'https://localhost:3000',
   ];
 
   if (!origin) return;
@@ -95,7 +99,7 @@ function applyCors(request, response) {
     response.setHeader('Vary', 'Origin');
     response.setHeader('Access-Control-Allow-Credentials', 'true');
     response.setHeader('Access-Control-Allow-Methods', 'GET,POST,OPTIONS');
-    response.setHeader('Access-Control-Allow-Headers', 'Content-Type,Authorization');
+    response.setHeader('Access-Control-Allow-Headers', 'Content-Type,Authorization,X-Requested-With');
   }
 }
 

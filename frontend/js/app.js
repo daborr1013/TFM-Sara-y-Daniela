@@ -1,6 +1,30 @@
-const configuredApiBase = window.LITTERALLY_API_URL || '__LITTERALLY_API_URL__';
-const apiBase = (configuredApiBase.startsWith('__LITTERALLY_') ? '' : configuredApiBase).replace(/\/$/, '');
+const configuredApiBase = (window.LITTERALLY_API_URL || window.__LITTERALLY_API_URL__ || '__LITTERALLY_API_URL__').trim();
+const apiBase = normalizeApiBase(configuredApiBase);
 const authTokenKey = 'litterally_auth_token';
+
+function normalizeApiBase(value) {
+  if (!value || value.includes('__LITTERALLY_')) {
+    return '/api';
+  }
+
+  return value.replace(/\/$/, '');
+}
+
+function buildApiUrl(path) {
+  const normalizedPath = path.startsWith('/') ? path : `/${path}`;
+  if (!apiBase) {
+    return normalizedPath;
+  }
+
+  const base = apiBase.replace(/\/$/, '');
+  const apiPrefix = '/api';
+
+  if (normalizedPath.startsWith(apiPrefix) && base.endsWith(apiPrefix)) {
+    return `${base}${normalizedPath.slice(apiPrefix.length)}`;
+  }
+
+  return `${base}${normalizedPath}`;
+}
 
 const appCss = document.createElement('link');
 appCss.rel = 'stylesheet';
@@ -18,7 +42,7 @@ async function apiRequest(path, options = {}) {
   let response;
 
   try {
-    response = await fetch(`${apiBase}${path}`, {
+    response = await fetch(buildApiUrl(path), {
       credentials: 'include',
       ...options,
       headers,
