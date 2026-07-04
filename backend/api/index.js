@@ -1,9 +1,9 @@
 import bcrypt from 'bcryptjs';
 import { parse as parseCookie, serialize as serializeCookie } from 'cookie';
 import jwt from 'jsonwebtoken';
-import pg from 'pg';
 
-const { Pool } = pg;
+let pool;
+let PoolCtor;
 
 const COOKIE_NAME = 'litterally_session';
 const FALLBACK_ACTIVITIES = {
@@ -18,7 +18,6 @@ const FALLBACK_ACTIVITIES = {
   12: { type: 'Tests', level: 'Capitulos 11+', description: 'Test sobre los capitulos posteriores al 10' },
 };
 
-let pool;
 const tableCache = new Map();
 
 export default async function handler(request, response) {
@@ -158,7 +157,7 @@ async function readJson(request) {
   }
 }
 
-function getPool() {
+async function getPool() {
   if (pool) return pool;
 
   const connectionString = process.env.DATABASE_URL || process.env.POSTGRES_URL;
@@ -167,11 +166,16 @@ function getPool() {
     throw httpError('DATABASE_URL o POSTGRES_URL no configurado', 500);
   }
 
+  if (!PoolCtor) {
+    const pg = await import('pg');
+    PoolCtor = pg.default || pg.Pool;
+  }
+
   const ssl = process.env.DATABASE_SSL === 'false'
     ? false
     : { rejectUnauthorized: false };
 
-  pool = new Pool({
+  pool = new PoolCtor({
     connectionString,
     max: 5,
     ssl,
@@ -182,7 +186,8 @@ function getPool() {
 }
 
 async function query(sql, params = []) {
-  const { rows } = await getPool().query(sql, params);
+  const client = await getPool();
+  const { rows } = await client.query(sql, params);
   return rows;
 }
 
@@ -485,10 +490,17 @@ async function chatbot(request, response) {
     return sendJson(response, { response: getOutOfScopeResponse() });
   }
 
-  const result = await searchKnowledge(message, normalized);
-  sendJson(response, {
-    response: result || getOutOfScopeResponse(),
-  });
+  try {
+    const result = await searchKnowledge(message, normalized);
+    sendJson(response, {
+      response: result || getOutOfScopeResponse(),
+    });
+  } catch (error) {
+    console.error('chatbot error', error);
+    sendJson(response, {
+      response: 'Estoy teniendo problemas para responder en este momento. Inténtalo de nuevo en unos segundos.',
+    });
+  }
 }
 
 const CHARACTER_ALIASES = [
