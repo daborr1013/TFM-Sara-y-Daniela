@@ -76,13 +76,18 @@ export default async function handler(request, response) {
 
 function applyCors(request, response) {
   const origin = request.headers.origin;
+  if (!origin) return;
+
+  const normalizedOrigin = normalizeOrigin(origin);
   const configuredOrigins = (process.env.FRONTEND_ORIGIN || '')
     .split(',')
     .map((item) => normalizeOrigin(item))
     .filter(Boolean);
+
   const allowedOrigins = [
     ...configuredOrigins,
     'https://*.vercel.app',
+    'https://vercel.app',
     'http://localhost:5173',
     'http://localhost:3000',
     'http://127.0.0.1:5173',
@@ -91,20 +96,16 @@ function applyCors(request, response) {
     'https://localhost:3000',
   ];
 
-  if (!origin) return;
-
-  const normalizedOrigin = normalizeOrigin(origin);
-  const shouldAllowOrigin = originAllowed(normalizedOrigin, allowedOrigins)
-    || normalizedOrigin.includes('vercel.app')
-    || normalizedOrigin.includes('localhost')
-    || normalizedOrigin.includes('127.0.0.1');
+  const isLocalOrVercelOrigin = /(localhost|127\.0\.0\.1|vercel\.app)$/i.test(normalizedOrigin);
+  const shouldAllowOrigin = originAllowed(normalizedOrigin, allowedOrigins) || isLocalOrVercelOrigin;
 
   if (shouldAllowOrigin) {
     response.setHeader('Access-Control-Allow-Origin', normalizedOrigin);
     response.setHeader('Vary', 'Origin');
     response.setHeader('Access-Control-Allow-Credentials', 'true');
-    response.setHeader('Access-Control-Allow-Methods', 'GET,POST,OPTIONS');
-    response.setHeader('Access-Control-Allow-Headers', 'Content-Type,Authorization,X-Requested-With');
+    response.setHeader('Access-Control-Allow-Methods', 'GET,HEAD,POST,OPTIONS');
+    response.setHeader('Access-Control-Allow-Headers', 'Accept,Content-Type,Authorization,X-Requested-With');
+    response.setHeader('Access-Control-Max-Age', '86400');
   }
 }
 
@@ -819,3 +820,4 @@ function cleanText(value, limit) {
   if (text.length <= limit) return text;
   return `${text.slice(0, limit).replace(/\s+\S*$/, '')}...`;
 }
+
