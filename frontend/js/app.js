@@ -2,6 +2,10 @@ const configuredApiBase = (window.LITTERALLY_API_URL || window.__LITTERALLY_API_
 const apiBase = normalizeApiBase(configuredApiBase);
 const authTokenKey = 'litterally_auth_token';
 
+if (!configuredApiBase || configuredApiBase.includes('__LITTERALLY_')) {
+  console.warn('VITE_API_URL no configurada; el frontend usará /api como fallback.');
+}
+
 function normalizeApiBase(value) {
   if (!value || value.includes('__LITTERALLY_')) {
     return '/api';
@@ -47,8 +51,10 @@ async function apiRequest(path, options = {}) {
       ...options,
       headers,
     });
-  } catch {
-    throw new Error('No se ha podido conectar con la API. Revisa que VITE_API_URL apunte al backend de Vercel y que FRONTEND_ORIGIN incluya este dominio.');
+  } catch (error) {
+    const attemptedUrl = buildApiUrl(path);
+    console.error('Error de conexión a la API:', attemptedUrl, error);
+    throw new Error(`No se ha podido conectar con la API (${attemptedUrl}). Revisa que VITE_API_URL apunte al backend de Vercel y que FRONTEND_ORIGIN incluya este dominio.`);
   }
 
   const payload = await response.json().catch(() => null);
