@@ -271,6 +271,116 @@ function isAuthorQuery(string $normalizedMessage): bool
     ]);
 }
 
+function getOutOfScopeResponse(): string
+{
+    return 'Solo puedo ayudarte con preguntas sobre Jane Eyre: personajes, capitulos, temas, simbolos, glosario y contexto historico. Si quieres, reformula tu pregunta relacionandola con la novela.';
+}
+
+function hasJaneEyreScopeSignal(string $normalizedMessage): bool
+{
+    if (resolveCharacterPatterns($normalizedMessage) !== []) {
+        return true;
+    }
+
+    return hasAnyPhrase($normalizedMessage, [
+        'jane eyre',
+        'jane',
+        'rochester',
+        'bronte',
+        'charlotte',
+        'thornfield',
+        'lowood',
+        'gateshead',
+        'moor house',
+        'ferndean',
+        'bertha',
+        'adele',
+        'helen',
+        'bessie',
+        'reed',
+        'rivers',
+        'personaje',
+        'personajes',
+        'protagonista',
+        'capitulo',
+        'chapter',
+        'resumen',
+        'resumeme',
+        'sinopsis',
+        'argumento',
+        'trama',
+        'tema',
+        'temas',
+        'simbolo',
+        'simbolismo',
+        'fuego',
+        'hielo',
+        'naturaleza',
+        'cuarto rojo',
+        'casa',
+        'luz',
+        'oscuridad',
+        'libertad',
+        'moralidad',
+        'clase social',
+        'independencia',
+        'desigualdad',
+        'religion',
+        'justicia',
+        'resurgam',
+        'institutriz',
+        'glosario',
+        'termino',
+        'concepto',
+        'contexto',
+        'historico',
+        'victoriana',
+        'gotico',
+        'romanticismo',
+        'autor',
+        'autora',
+        'obra',
+        'novela',
+        'libro',
+    ]);
+}
+
+function isOutOfScopeQuestion(string $normalizedMessage): bool
+{
+    if (hasJaneEyreScopeSignal($normalizedMessage)) {
+        return false;
+    }
+
+    return hasAnyPhrase($normalizedMessage, [
+        'capital',
+        'receta',
+        'cocina',
+        'programacion',
+        'codigo',
+        'matematicas',
+        'fisica',
+        'quimica',
+        'biologia',
+        'futbol',
+        'deporte',
+        'noticias',
+        'politica',
+        'musica',
+        'pelicula',
+        'serie',
+        'clima',
+        'tiempo',
+        'viaje',
+        'hotel',
+        'restaurante',
+        'traduce',
+        'traducir',
+        'escribe un poema',
+        'hazme',
+        'cuentame un chiste',
+    ]);
+}
+
 function romanToInt(string $roman): ?int
 {
     $roman = strtoupper(trim($roman));
@@ -522,6 +632,11 @@ function isCharacterQuery(string $normalizedMessage): bool
         || hasAnyPhrase($normalizedMessage, ['personaje', 'personajes', 'protagonista', 'protagonistas']);
 }
 
+function isJaneRochesterQuery(string $normalizedMessage): bool
+{
+    return hasPhrase($normalizedMessage, 'jane') && hasPhrase($normalizedMessage, 'rochester');
+}
+
 function getThemeMap(): array
 {
     return [
@@ -682,6 +797,17 @@ function getCharacterList(mysqli $conn): string
 
 function getCharacterResponse(string $normalizedMessage, mysqli $conn): string
 {
+    if (isJaneRochesterQuery($normalizedMessage)) {
+        return appendFollowUpSuggestions(
+            "Jane y Rochester forman la relacion central de la novela.\n\nAl principio, Rochester reconoce en Jane una igual intelectual: no la trata solo como institutriz, sino como alguien capaz de responderle con independencia y criterio. Ese vinculo se vuelve amoroso, pero tambien conflictivo, porque el secreto de Bertha rompe la confianza y obliga a Jane a elegir su dignidad antes que el deseo.\n\nEl final recompone la relacion desde otra posicion: Jane vuelve cuando ya es independiente y Rochester ha perdido parte de su antiguo poder. Por eso su union final funciona como una relacion mas igualitaria, no como un rescate romantico simple.",
+            [
+                'pregunta por Rochester',
+                'pregunta por Jane',
+                'busca el tema amor y moralidad',
+            ]
+        );
+    }
+
     $patterns = resolveCharacterPatterns($normalizedMessage);
 
     if (empty($patterns)) {
@@ -692,19 +818,24 @@ function getCharacterResponse(string $normalizedMessage, mysqli $conn): string
         $like = '%' . $pattern . '%';
         $row = fetchSingleRow(
             $conn,
-            "SELECT nombre, rol, descripcion FROM characters WHERE work_id = 1 AND nombre LIKE ? LIMIT 1",
+            "SELECT nombre, rol, descripcion, relaciones FROM characters WHERE work_id = 1 AND nombre LIKE ? LIMIT 1",
             's',
             [$like]
         );
 
         if ($row) {
-            $description = cleanDatabaseText($row['descripcion'] ?? '', 700);
+            $description = cleanDatabaseText($row['descripcion'] ?? '', 1400);
             $description = preg_replace('/^' . preg_quote($row['nombre'], '/') . '\s+/iu', '', $description);
+            $relationships = cleanDatabaseText($row['relaciones'] ?? '', 450);
 
             $displayName = normalizeCharacterDisplayName($row['nombre']);
             $response = "👤 " . $displayName;
             if (!empty($row['rol'])) {
                 $response .= ' (' . $row['rol'] . ')';
+            }
+
+            if ($relationships !== '') {
+                $description .= "\n\nRelaciones: " . $relationships;
             }
 
             return appendFollowUpSuggestions(
@@ -755,7 +886,7 @@ function getThemeResponse(string $normalizedMessage, mysqli $conn): string
     }
 
     return appendFollowUpSuggestions(
-        "📚 Tema: " . getReadableLabel($row['tema_id']) . "\n\n" . cleanDatabaseText($row['contenido'], 900),
+        "📚 Tema: " . getReadableLabel($row['tema_id']) . "\n\n" . cleanDatabaseText($row['contenido'], 1800),
         getThemeFollowUps()
     );
 }
@@ -798,7 +929,7 @@ function getSymbolResponse(string $normalizedMessage, mysqli $conn): string
     }
 
     return appendFollowUpSuggestions(
-        "🎭 Símbolo: " . getReadableLabel($row['simbolo_id']) . "\n\n" . cleanDatabaseText($row['contenido'], 900),
+        "🎭 Símbolo: " . getReadableLabel($row['simbolo_id']) . "\n\n" . cleanDatabaseText($row['contenido'], 1800),
         getSymbolFollowUps()
     );
 }
@@ -841,7 +972,7 @@ function getContextResponse(string $normalizedMessage, mysqli $conn): string
     }
 
     return appendFollowUpSuggestions(
-        "🏛️ " . $row['section'] . "\n\n" . cleanDatabaseText($row['content'], 900),
+        "🏛️ " . $row['section'] . "\n\n" . cleanDatabaseText($row['content'], 1800),
         getContextFollowUps()
     );
 }
@@ -878,7 +1009,7 @@ function getChapterResponse(string $normalizedMessage, mysqli $conn): string
     }
 
     $chapterNumber = (int) $row['chapter'];
-    $chapterBody = cleanDatabaseText($row['contenido'], 900);
+    $chapterBody = cleanDatabaseText($row['contenido'], 1600);
     $chapterTitle = 'Capítulo ' . $chapterNumber;
     $blockLike = '%' . $chapterTitle . '%';
     $insight = fetchSingleRow(
@@ -975,7 +1106,7 @@ function searchGlossaryByTerm(string $term, mysqli $conn): ?string
         return null;
     }
 
-    return "📘 " . cleanDatabaseText($row['concept']) . "\n\n" . cleanDatabaseText($row['definition'], 700);
+    return "📘 " . cleanDatabaseText($row['concept']) . "\n\n" . cleanDatabaseText($row['definition'], 1200);
 }
 
 function searchBlocksByTerm(string $term, mysqli $conn): ?string
@@ -1007,7 +1138,7 @@ function searchBlocksByTerm(string $term, mysqli $conn): ?string
     }
 
     if (empty($parts) && !empty($row['texto_curado'])) {
-        $parts[] = cleanDatabaseText($row['texto_curado'], 650);
+        $parts[] = cleanDatabaseText($row['texto_curado'], 1200);
     }
 
     return "📖 " . cleanDatabaseText($row['titulo'] ?? 'Pasaje relacionado') . "\n\n" . implode("\n\n", $parts);
@@ -1027,7 +1158,7 @@ function searchSummaryByTerm(string $term, mysqli $conn): ?string
         return null;
     }
 
-    return '📖 Capítulo ' . (int) $row['chapter'] . "\n\n" . cleanDatabaseText($row['contenido'], 750);
+    return '📖 Capítulo ' . (int) $row['chapter'] . "\n\n" . cleanDatabaseText($row['contenido'], 1400);
 }
 
 function searchWorkContextByTerm(string $term, mysqli $conn): ?string
@@ -1047,7 +1178,7 @@ function searchWorkContextByTerm(string $term, mysqli $conn): ?string
         return null;
     }
 
-    return '🏛️ Contexto general de la obra' . "\n\n" . cleanDatabaseText($row['content'], 750);
+    return '🏛️ Contexto general de la obra' . "\n\n" . cleanDatabaseText($row['content'], 1400);
 }
 
 function searchHistoricalContextByTerm(string $term, mysqli $conn): ?string
@@ -1067,7 +1198,7 @@ function searchHistoricalContextByTerm(string $term, mysqli $conn): ?string
         return null;
     }
 
-    return '🏛️ ' . cleanDatabaseText($row['section']) . "\n\n" . cleanDatabaseText($row['content'], 750);
+    return '🏛️ ' . cleanDatabaseText($row['section']) . "\n\n" . cleanDatabaseText($row['content'], 1400);
 }
 
 function searchSymbolsByTerm(string $term, mysqli $conn): ?string
@@ -1087,7 +1218,7 @@ function searchSymbolsByTerm(string $term, mysqli $conn): ?string
         return null;
     }
 
-    return '🎭 Símbolo: ' . getReadableLabel($row['simbolo_id']) . "\n\n" . cleanDatabaseText($row['contenido'], 750);
+    return '🎭 Símbolo: ' . getReadableLabel($row['simbolo_id']) . "\n\n" . cleanDatabaseText($row['contenido'], 1400);
 }
 
 function searchThemesByTerm(string $term, mysqli $conn): ?string
@@ -1107,7 +1238,7 @@ function searchThemesByTerm(string $term, mysqli $conn): ?string
         return null;
     }
 
-    return '📚 Tema: ' . getReadableLabel($row['tema_id']) . "\n\n" . cleanDatabaseText($row['contenido'], 750);
+    return '📚 Tema: ' . getReadableLabel($row['tema_id']) . "\n\n" . cleanDatabaseText($row['contenido'], 1400);
 }
 
 function searchKnowledgeBase(string $normalizedMessage, mysqli $conn): ?string
@@ -1186,8 +1317,16 @@ function getBotResponse(string $message, mysqli $conn): string
         return '¡Hola! Soy Litto. Busco información sobre Jane Eyre en mi base de datos. ¿Qué quieres saber?';
     }
 
+    if (isOutOfScopeQuestion($normalizedMessage)) {
+        return getOutOfScopeResponse();
+    }
+
     if (isAuthorQuery($normalizedMessage)) {
         return getAuthorResponse($conn);
+    }
+
+    if (isCharacterQuery($normalizedMessage)) {
+        return getCharacterResponse($normalizedMessage, $conn);
     }
 
     if (isChapterQuery($normalizedMessage)) {
@@ -1206,8 +1345,8 @@ function getBotResponse(string $message, mysqli $conn): string
         return getThemeResponse($normalizedMessage, $conn);
     }
 
-    if (isCharacterQuery($normalizedMessage)) {
-        return getCharacterResponse($normalizedMessage, $conn);
+    if (!hasJaneEyreScopeSignal($normalizedMessage)) {
+        return getOutOfScopeResponse();
     }
 
     $searchResult = searchKnowledgeBase($normalizedMessage, $conn);

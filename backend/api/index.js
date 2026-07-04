@@ -46,7 +46,7 @@ export default async function handler(request, response) {
     }
 
     if (request.method === 'POST' && pathname === '/api/auth/logout') {
-      return logout(response);
+      return logout(request, response);
     }
 
     if (request.method === 'GET' && pathname === '/api/me') {
@@ -246,17 +246,17 @@ async function login(request, response) {
 
   const user = normalizeUser(userRow);
   const token = jwt.sign({ sub: user.id }, jwtSecret(), { expiresIn: '7d' });
-  response.setHeader('Set-Cookie', sessionCookie(token));
+  response.setHeader('Set-Cookie', sessionCookie(request, token));
 
-  sendJson(response, { user });
+  sendJson(response, { user, token });
 }
 
-async function logout(response) {
+async function logout(request, response) {
   response.setHeader('Set-Cookie', serializeCookie(COOKIE_NAME, '', {
     httpOnly: true,
     maxAge: 0,
     path: '/',
-    sameSite: cookieSameSite(),
+    sameSite: cookieSameSite(request),
     secure: cookieSecure(),
   }));
   sendJson(response, { ok: true });
@@ -303,22 +303,36 @@ function jwtSecret() {
   return process.env.JWT_SECRET || 'dev-only-change-me';
 }
 
-function sessionCookie(token) {
+function sessionCookie(request, token) {
   return serializeCookie(COOKIE_NAME, token, {
     httpOnly: true,
     maxAge: 60 * 60 * 24 * 7,
     path: '/',
-    sameSite: cookieSameSite(),
+    sameSite: cookieSameSite(request),
     secure: cookieSecure(),
   });
 }
 
-function cookieSameSite() {
-  return process.env.NODE_ENV === 'production' ? 'none' : 'lax';
+function cookieSameSite(request) {
+  if (process.env.NODE_ENV !== 'production') return 'lax';
+  return isCrossSiteRequest(request) ? 'none' : 'lax';
 }
 
 function cookieSecure() {
   return process.env.NODE_ENV === 'production';
+}
+
+function isCrossSiteRequest(request) {
+  const origin = request.headers.origin;
+  if (!origin) return false;
+
+  try {
+    const originHost = new URL(origin).host;
+    const requestHost = request.headers['x-forwarded-host'] || request.headers.host || '';
+    return Boolean(requestHost) && originHost !== requestHost;
+  } catch {
+    return false;
+  }
 }
 
 async function getProgress(response, userId) {
@@ -440,16 +454,105 @@ async function chatbot(request, response) {
 
   const normalized = normalizeText(message);
 
-  if (/(hola|buenas|ayuda)/.test(normalized)) {
+  if (isGreetingOrHelp(normalized)) {
     return sendJson(response, {
       response: 'Hola. Puedo ayudarte con personajes, capitulos, temas, simbolos, glosario y contexto de Jane Eyre.',
     });
   }
 
+  if (isOutOfScopeQuestion(normalized)) {
+    return sendJson(response, { response: getOutOfScopeResponse() });
+  }
+
   const result = await searchKnowledge(message, normalized);
   sendJson(response, {
-    response: result || 'No he encontrado una respuesta concreta. Prueba preguntando por un personaje, un simbolo, un tema, un capitulo o el contexto historico.',
+    response: result || getOutOfScopeResponse(),
   });
+}
+
+const CHARACTER_ALIASES = [
+  { aliases: ['edward rochester', 'sr rochester', 'senor rochester', 'mr rochester', 'rochester'], patterns: ['Edward Rochester'] },
+  { aliases: ['bertha mason', 'bertha'], patterns: ['Bertha Mason'] },
+  { aliases: ['grace poole'], patterns: ['Grace Poole'] },
+  { aliases: ['blanche ingram', 'ingram'], patterns: ['Blanche Ingram'] },
+  { aliases: ['helen burns', 'helen'], patterns: ['Helen Burns'] },
+  { aliases: ['senora temple', 'miss temple', 'temple'], patterns: ['Señora Temple'] },
+  { aliases: ['senora reed', 'mrs reed'], patterns: ['Señora Reed'] },
+  { aliases: ['senora fairfax', 'senora fairfaix', 'mrs fairfax', 'fairfax', 'fairfaix'], patterns: ['Señora Fairfaix', 'Señora Fairfax'] },
+  { aliases: ['adele varens', 'adele'], patterns: ['Adèle Varens', 'Adele Varens'] },
+  { aliases: ['bessie'], patterns: ['Bessie'] },
+  { aliases: ['diana rivers', 'diana'], patterns: ['Diana Rivers'] },
+  { aliases: ['mary rivers', 'mary'], patterns: ['Mary Rivers'] },
+  { aliases: ['st john rivers', 'st john', 'john rivers'], patterns: ['John Rivers'] },
+  { aliases: ['john reed', 'primo john'], patterns: ['John Reed'] },
+  { aliases: ['lloyd', 'senor lloyd', 'sr lloyd'], patterns: ['Lloyd'] },
+  { aliases: ['brocklehurst', 'senor brocklehurst', 'sr brocklehurst'], patterns: ['Señor Brocklehurst'] },
+  { aliases: ['georgiana reed', 'georgiana', 'georgina reed', 'georgina'], patterns: ['Georgina Reed'] },
+  { aliases: ['eliza reed', 'eliza'], patterns: ['Eliza Reed'] },
+  { aliases: ['jane eyre', 'jane'], patterns: ['Jane Eyre'] },
+];
+
+function hasPhrase(normalized, phrase) {
+  const escaped = normalizeText(phrase).replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\s+/g, '\\s+');
+  return new RegExp(`(?:^|\\s)${escaped}(?:$|\\s)`).test(normalized);
+}
+
+function hasAnyPhrase(normalized, phrases) {
+  return phrases.some((phrase) => hasPhrase(normalized, phrase));
+}
+
+function resolveCharacterNames(normalized) {
+  for (const entry of CHARACTER_ALIASES) {
+    if (entry.aliases.some((alias) => hasPhrase(normalized, alias))) {
+      return entry.patterns;
+    }
+  }
+
+  return [];
+}
+
+function isGreetingOrHelp(normalized) {
+  return ['hola', 'hola litto', 'hi', 'hey', 'buenas', 'buenos dias', 'buenas tardes', 'buenas noches', 'ayuda'].includes(normalized);
+}
+
+function hasJaneEyreScopeSignal(normalized) {
+  if (resolveCharacterNames(normalized).length > 0) return true;
+
+  return hasAnyPhrase(normalized, [
+    'jane eyre', 'jane', 'rochester', 'bronte', 'charlotte', 'thornfield', 'lowood', 'gateshead',
+    'moor house', 'ferndean', 'bertha', 'adele', 'helen', 'bessie', 'reed', 'rivers',
+    'personaje', 'personajes', 'protagonista', 'capitulo', 'chapter', 'resumen', 'resumeme',
+    'sinopsis', 'argumento', 'trama', 'tema', 'temas', 'simbolo', 'simbolismo', 'glosario',
+    'fuego', 'hielo', 'naturaleza', 'cuarto rojo', 'casa', 'luz', 'oscuridad', 'libertad',
+    'moralidad', 'clase social', 'independencia', 'desigualdad', 'religion', 'justicia',
+    'resurgam', 'institutriz', 'termino', 'concepto', 'contexto', 'historico', 'victoriana',
+    'gotico', 'romanticismo', 'autor', 'autora', 'obra', 'novela', 'libro',
+  ]);
+}
+
+function isOutOfScopeQuestion(normalized) {
+  if (hasJaneEyreScopeSignal(normalized)) return false;
+
+  return hasAnyPhrase(normalized, [
+    'capital', 'receta', 'cocina', 'programacion', 'codigo', 'matematicas', 'fisica',
+    'quimica', 'biologia', 'futbol', 'deporte', 'noticias', 'politica', 'musica',
+    'pelicula', 'serie', 'clima', 'tiempo', 'viaje', 'hotel', 'restaurante', 'traduce',
+    'traducir', 'escribe un poema', 'hazme', 'cuentame un chiste',
+  ]);
+}
+
+function getOutOfScopeResponse() {
+  return 'Solo puedo ayudarte con preguntas sobre Jane Eyre: personajes, capitulos, temas, simbolos, glosario y contexto historico. Si quieres, reformula tu pregunta relacionandola con la novela.';
+}
+
+function getJaneRochesterResponse() {
+  return [
+    'Jane y Rochester forman la relacion central de la novela.',
+    '',
+    'Al principio, Rochester reconoce en Jane una igual intelectual: no la trata solo como institutriz, sino como alguien capaz de responderle con independencia y criterio. Ese vinculo se vuelve amoroso, pero tambien conflictivo, porque el secreto de Bertha rompe la confianza y obliga a Jane a elegir su dignidad antes que el deseo.',
+    '',
+    'El final recompone la relacion desde otra posicion: Jane vuelve cuando ya es independiente y Rochester ha perdido parte de su antiguo poder. Por eso su union final funciona como una relacion mas igualitaria, no como un rescate romantico simple.',
+  ].join('\n');
 }
 
 async function searchKnowledge(message, normalized) {
@@ -462,10 +565,26 @@ async function searchKnowledge(message, normalized) {
     return null;
   }
 
+  if (!hasJaneEyreScopeSignal(normalized)) {
+    return null;
+  }
+
+  if (hasPhrase(normalized, 'jane') && hasPhrase(normalized, 'rochester')) {
+    return getJaneRochesterResponse();
+  }
+
+  const exactCharacterNames = resolveCharacterNames(normalized);
+  if (exactCharacterNames.length > 0) {
+    const character = await firstCharacterByName(exactCharacterNames);
+    if (character) {
+      return formatCharacter(character);
+    }
+  }
+
   if (/(personaje|jane|rochester|bertha|helen|bessie|reed|rivers|adele)/.test(normalized)) {
     const character = await firstLike('characters', ['nombre', 'descripcion', 'rol', 'relaciones'], terms);
     if (character) {
-      return `${character.nombre}: ${cleanText(character.descripcion, 500)} Rol: ${cleanText(character.rol, 200)} Relaciones: ${cleanText(character.relaciones, 250)}`;
+      return formatCharacter(character);
     }
   }
 
@@ -479,31 +598,31 @@ async function searchKnowledge(message, normalized) {
   if (/(tema|simbolo|fuego|hielo|naturaleza|roja|habitacion)/.test(normalized)) {
     const symbol = await firstLike('symbols', ['contenido'], terms);
     if (symbol) {
-      return cleanText(symbol.contenido, 700);
+      return cleanText(symbol.contenido, 1400);
     }
 
     const theme = await firstLike('themes', ['contenido'], terms);
     if (theme) {
-      return cleanText(theme.contenido, 700);
+      return cleanText(theme.contenido, 1400);
     }
   }
 
   if (/(capitulo|resumen|obra|historia)/.test(normalized)) {
     const summary = await firstLike('summaries', ['chapter', 'tipo', 'contenido'], terms);
     if (summary) {
-      return `${summary.chapter || 'Resumen'}: ${cleanText(summary.contenido, 750)}`;
+      return `${summary.chapter || 'Resumen'}: ${cleanText(summary.contenido, 1400)}`;
     }
   }
 
   if (/(contexto|historico|bronte|charlotte|victoriana|inglaterra)/.test(normalized)) {
     const historical = await firstLike('work_historical_context', ['section', 'content'], terms);
     if (historical) {
-      return `${historical.section || 'Contexto historico'}: ${cleanText(historical.content, 750)}`;
+      return `${historical.section || 'Contexto historico'}: ${cleanText(historical.content, 1400)}`;
     }
 
     const context = await firstLike('work_context', ['content'], terms);
     if (context) {
-      return cleanText(context.content, 750);
+      return cleanText(context.content, 1400);
     }
   }
 
@@ -520,11 +639,42 @@ async function searchKnowledge(message, normalized) {
   for (const [table, columns] of genericSearches) {
     const row = await firstLike(table, columns, terms);
     if (row) {
-      return cleanText(Object.values(row).filter(Boolean).join(': '), 750);
+      return cleanText(Object.values(row).filter(Boolean).join(': '), 1400);
     }
   }
 
   return null;
+}
+
+async function firstCharacterByName(names) {
+  if (!await tableExists('characters')) return null;
+
+  for (const name of names) {
+    const rows = await query(
+      'SELECT * FROM characters WHERE work_id = 1 AND LOWER(nombre::text) = LOWER($1) LIMIT 1',
+      [name],
+    );
+
+    if (rows[0]) return rows[0];
+  }
+
+  return null;
+}
+
+function formatCharacter(character) {
+  const parts = [
+    `${character.nombre}: ${cleanText(character.descripcion, 1400)}`,
+  ];
+
+  if (character.rol) {
+    parts.push(`Rol: ${cleanText(character.rol, 250)}`);
+  }
+
+  if (character.relaciones) {
+    parts.push(`Relaciones: ${cleanText(character.relaciones, 450)}`);
+  }
+
+  return parts.join('\n\n');
 }
 
 async function firstLike(table, columns, terms) {
