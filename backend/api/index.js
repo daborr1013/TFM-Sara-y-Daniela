@@ -96,7 +96,7 @@ function applyCors(request, response) {
     'https://localhost:3000',
   ];
 
-  const isLocalOrVercelOrigin = /(localhost|127\.0\.0\.1|vercel\.app)$/i.test(normalizedOrigin);
+  const isLocalOrVercelOrigin = /(localhost|127\.0\.0\.1|vercel\.app)$/i.test(normalizedOrigin);
   const shouldAllowOrigin = originAllowed(normalizedOrigin, allowedOrigins) || isLocalOrVercelOrigin;
 
   if (shouldAllowOrigin) {
