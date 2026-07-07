@@ -42,12 +42,18 @@ document.addEventListener('DOMContentLoaded', function () {
 
 // Animación de notas
 document.addEventListener("click", function (e) {
-    // Cerrar todas
+    const anotacion = e.target.closest(".anotacion");
+
+    if (anotacion) {
+        document.querySelectorAll(".anotacion.activa")
+            .forEach(el => {
+                if (el !== anotacion) el.classList.remove("activa");
+            });
+
+        anotacion.classList.toggle("activa");
+        return;
+    }
+
     document.querySelectorAll(".anotacion.activa")
         .forEach(el => el.classList.remove("activa"));
-
-    // Abrir solo si has hecho clic en una anotación
-    if (e.target.classList.contains("anotacion")) {
-        e.target.classList.toggle("activa");
-    }
 });

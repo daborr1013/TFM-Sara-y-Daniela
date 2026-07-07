@@ -142,6 +142,25 @@ $relations = [
       <span class="node-label"><?= $n['label'] ?></span>
     </div>
   <?php endforeach; ?>
+
+  <div class="legend">
+    <div class="legend-item">
+      <div class="legend-color color-odio"></div>
+      <span>Odio, abuso, opresión</span>
+    </div>
+    <div class="legend-item">
+      <div class="legend-color color-afecto"></div>
+      <span>Afecto, amistad, estabilidad</span>
+    </div>
+    <div class="legend-item">
+      <div class="legend-color color-relations"></div>
+      <span>Relaciones frías, intelectuales</span>
+    </div>
+    <div class="legend-item">
+      <div class="legend-color color-amor"></div>
+      <span>Amor</span>
+    </div>
+  </div>
 </div>
 
 <!-- Modal para mostrar información del personaje -->
@@ -149,25 +168,6 @@ $relations = [
   <div class="modal-content">
     <span class="close" onclick="closeModal()">&times;</span>
     <div id="characterInfo"></div>
-  </div>
-</div>
-
-<div class="legend">
-  <div class="legend-item">
-    <div class="legend-color color-odio"></div>
-    <span>Odio, abuso, opresión</span>
-  </div>
-  <div class="legend-item">
-    <div class="legend-color color-afecto"></div>
-    <span>Afecto, amistad, estabilidad</span>
-  </div>
-  <div class="legend-item">
-    <div class="legend-color color-relations"></div>
-    <span>Relaciones frías, intelectuales</span>
-  </div>
-  <div class="legend-item">
-    <div class="legend-color color-amor"></div>
-    <span>Amor</span>
   </div>
 </div>
 
