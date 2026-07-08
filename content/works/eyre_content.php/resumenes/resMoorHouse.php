@@ -104,8 +104,8 @@
                             href="../personajes/gateshead/jane.php">Jane</a> sigue una luz en el páramo
                         que la lleva hasta una casa
                         llamada Marsh End (o Moor House). A través de la ventana, observa a dos mujeres cultas, <a
-                            href="../personajes/moorhouse/diana.php">Diana</a> y
-                        <a href="../personajes/moorhouse/mary.php">Mary</a>, y a su criada Hannah. Cuando intenta pedir
+                            href="../personajes/moorhouse/dianaRivers.php">Diana</a> y
+                        <a href="../personajes/moorhouse/maryRivers.php">Mary</a>, y a su criada Hannah. Cuando intenta pedir
                         ayuda, Hannah la rechaza confundiéndola con una vagabunda común. Justo cuando <a
                             href="../personajes/gateshead/jane.php">Jane</a> se desploma
                         aceptando su muerte, aparece <a href="../personajes/moorhouse/johnRivers.php">St. John
@@ -148,8 +148,8 @@
                     <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap30.php" target="_blank">Capítulo XXX</a>
 
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> entabla una amistad profunda con <a
-                            href="../personajes/moorhouse/diana.php">Diana</a> y <a
-                            href="../personajes/moorhouse/mary.php">Mary</a>. Las tres comparten el amor por la lectura
+                            href="../personajes/moorhouse/dianaRivers.php">Diana</a> y <a
+                            href="../personajes/moorhouse/maryRivers.php">Mary</a>. Las tres comparten el amor por la lectura
                         y
                         el estudio (especialmente de idiomas como el alemán).
                         <a href="../personajes/gateshead/jane.php">Jane</a> admira su independencia y su intelecto,
@@ -257,8 +257,8 @@
                         preguntas sobre la familia de <a href="../personajes/moorhouse/johnRivers.php">St. John</a>,
                         descubre la verdad definitiva:
                         el padre de <a href="../personajes/moorhouse/johnRivers.php">St. John</a>, <a
-                            href="../personajes/moorhouse/diana.php">Diana</a> y <a
-                            href="../personajes/moorhouse/mary.php">Mary</a> era el
+                            href="../personajes/moorhouse/dianaRivers.php">Diana</a> y <a
+                            href="../personajes/moorhouse/maryRivers.php">Mary</a> era el
                         hermano de la madre de <a href="../personajes/gateshead/jane.php">Jane</a>. Los River son sus
                         primos.
                         En vez de regodearse en su riqueza, salta de alegría
@@ -270,8 +270,8 @@
                 <section class="pjustificado">
                     <a class="boton" href="../caps/4.Moor House (Cap. 28–35)/cap34.php" target="_blank">Capítulo XXXIV</a>
 
-                    <p>Tras repartir la herencia, las hermanas <a href="../personajes/moorhouse/diana.php">Diana</a> y
-                        <a href="../personajes/moorhouse/mary.php">Mary</a> regresan a Moor House, y por primera vez en
+                    <p>Tras repartir la herencia, las hermanas <a href="../personajes/moorhouse/dianaRivers.php">Diana</a> y
+                        <a href="../personajes/moorhouse/maryRivers.php">Mary</a> regresan a Moor House, y por primera vez en
                         su vida, <a href="../personajes/gateshead/jane.php">Jane</a> disfruta de un hogar
                         lleno de afecto y libertad económica. Sin embargo, <a
                             href="../personajes/moorhouse/johnRivers.php">St. John</a> no se permite disfrutar. Se
@@ -307,7 +307,7 @@
                         semana, la trata con una frialdad gélida
                         que hace que <a href="../personajes/gateshead/jane.php">Jane</a> se sienta como una pecadora
                         ante
-                        Dios. <a href="../personajes/moorhouse/diana.php">Diana</a> intenta advertirle que casarse
+                        Dios. <a href="../personajes/moorhouse/dianaRivers.php">Diana</a> intenta advertirle que casarse
                         con él sería una locura, pero <a href="../personajes/moorhouse/johnRivers.php">St. John</a>
                         redobla
                         su presión.</p>

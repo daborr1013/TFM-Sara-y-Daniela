@@ -661,7 +661,7 @@
                 <p>Se fueron.</p>
 
                 <div class="botonesFinales">
-                    <a class="cambioAnterior" href="cap2.php"" rel=" prev">Anterior</a>
+                    <a class="cambioAnterior" href="cap2.php" rel="prev">Anterior</a>
                     <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
                     <a class="cambioSiguiente" href="cap4.php" rel="next">Siguiente</a>
                 </div>

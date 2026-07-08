@@ -551,6 +551,11 @@ async function searchKnowledge(message, normalized) {
     }
   }
 
+  const terms = normalizeText(message)
+    .split(' ')
+    .filter((term) => term.length >= 4 && !STOP_WORDS.has(term))
+    .slice(0, 4);
+
   if (terms.length === 0) {
     return null;
   }

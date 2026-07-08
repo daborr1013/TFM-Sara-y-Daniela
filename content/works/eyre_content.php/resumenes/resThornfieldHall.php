@@ -110,7 +110,7 @@
                         risa tétrica y antinatural que resuena por
                         los pasillos. La <a href="../personajes/thornfield/fairfaix.php">señora Fairfax</a> resta
                         importancia al incidente
-                        culpando a <a href="../personajes/thornfield/grace.php">Grace Poole</a>, una costurera de
+                        culpando a <a href="../personajes/thornfield/gracePoole.php">Grace Poole</a>, una costurera de
                         carácter difícil y errático que trabaja en la casa.
                         Aunque <a href="../personajes/gateshead/jane.php">Jane</a> acepta la explicación, la inquietud
                         queda sembrada en el ambiente.</p>
@@ -126,7 +126,7 @@
                         aunque a veces siente una inquietud errante que la lleva a recorrer los pasillos del piso
                         superior. Una tarde de invierno, mientras pasea sola bajo la luna, escucha
                         la llegada de un caballo y un perro, lo que le recuerda a los "Gytrash" (espíritus en forma de
-                        animales) de los cuentos de <a href="../personajes/lowood/bessie.php">Bessie</a>.
+                        animales) de los cuentos de <a href="../personajes/gateshead/bessie.php">Bessie</a>.
                     </p>
                     <p>El hechizo se rompe cuando el caballo resbala en el hielo y su jinete cae al suelo. <a
                             href="../personajes/gateshead/jane.php">Jane</a>, lejos
@@ -378,7 +378,7 @@
                         noticias devastadoras: su primo <a href="../personajes/gateshead/johnReed.php">John Reed</a> se
                         ha
                         suicidado
-                        tras una vida de excesos, y su tía, la <a href="../personajes/gateshead/sraReed.php">señora
+                        tras una vida de excesos, y su tía, la <a href="../personajes/gateshead/senoraReed.php">señora
                             Reed</a>,
                         ha sufrido un derrame cerebral. <a href="../personajes/gateshead/jane.php">Jane</a> regresa a
                         su antiguo hogar, donde se reencuentra con una <a
@@ -390,14 +390,14 @@
                     </p>
                     <p>A pesar del odio que recibió de niña, <a href="../personajes/gateshead/jane.php">Jane</a> intenta
                         reconciliarse con su tía moribunda. En un
-                        último acto de confesión, la <a href="../personajes/gateshead/sraReed.php">señora Reed</a> le
+                        último acto de confesión, la <a href="../personajes/gateshead/senoraReed.php">señora Reed</a> le
                         entrega una carta de
                         hace tres años de su tío, John Eyre, quien quería adoptarla y dejarle su fortuna. La tía
                         confiesa que, por puro rencor, ocultó la carta para evitar que <a
                             href="../personajes/gateshead/jane.php">Jane</a> prosperara.
                         Aun sabiendo esto, <a href="../personajes/gateshead/jane.php">Jane</a> le ofrece su perdón, pero
                         la
-                        <a href="../personajes/gateshead/sraReed.php">señora Reed</a> muere a medianoche manteniendo su
+                        <a href="../personajes/gateshead/senoraReed.php">señora Reed</a> muere a medianoche manteniendo su
                         hostilidad hasta el último aliento, incapaz de aceptar la bondad de la sobrina
                         que tanto maltrató.
                     </p>
@@ -520,7 +520,7 @@
                             href="../personajes/thornfield/edwardRochester.php">Rochester</a> ya
                         está casado. Revela que hace quince años, en Jamaica, <a
                             href="../personajes/thornfield/edwardRochester.php">Rochester</a> contrajo matrimonio
-                        con <a href="../personajes/thornfield/berthaMason.php">Bertha Mason</a>, quien aún vive. El
+                        con <a href="../personajes/thornfield/bertha.php">Bertha Mason</a>, quien aún vive. El
                         propio Richard Mason aparece para confirmar la historia.
                     </p>
                     <p>Tras un estallido de furia, <a href="../personajes/thornfield/edwardRochester.php">Rochester</a>
@@ -528,7 +528,7 @@
                         a todos a Thornfield para que
                         vean por qué ocultó su secreto. En una habitación escondida tras
                         un tapiz en el tercer piso, encuentran a <a
-                            href="../personajes/thornfield/berthaMason.php">Bertha</a>: una figura que <a
+                            href="../personajes/thornfield/bertha.php">Bertha</a>: una figura que <a
                             href="../personajes/gateshead/jane.php">Jane</a> describe casi como un
                         animal salvaje, con el cabello enmarañado, que gruñe y camina a cuatro patas. Es ella
                         quien intentó quemar a <a href="../personajes/thornfield/edwardRochester.php">Rochester</a> y
@@ -564,14 +564,14 @@
                     <p>Para justificar su engaño, <a href="../personajes/thornfield/edwardRochester.php">Rochester</a>
                         revela que su padre y su
                         hermano lo enviaron a Jamaica para
-                        casarse con <a href="../personajes/thornfield/berthaMason.php">Bertha</a> por su fortuna
+                        casarse con <a href="../personajes/thornfield/bertha.php">Bertha</a> por su fortuna
                         ($30,000$
                         libras),
                         ocultándole que la madre de ella estaba en un manicomio. Descubrió demasiado tarde que <a
-                            href="../personajes/thornfield/berthaMason.php">Bertha</a>
+                            href="../personajes/thornfield/bertha.php">Bertha</a>
                         era violenta y grosera, rasgos que precedieron a su locura total.
                         Tras la muerte de su padre y hermano, regresó a Inglaterra y ocultó a <a
-                            href="../personajes/thornfield/berthaMason.php">Bertha</a> en Thornfield para
+                            href="../personajes/thornfield/bertha.php">Bertha</a> en Thornfield para
                         proteger su dignidad y la de ella, buscando consuelo en diversas amantes en Europa,
                         lo cual solo le trajo más vacío.</p>
                     <p><a href="../personajes/gateshead/jane.php">Jane</a> siente una pena inmensa. Se siente tentada a
