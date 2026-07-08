@@ -1261,10 +1261,9 @@ async function getAuthorResponse() {
 
 function extractChapterNumber(normalized) {
   const tokens = normalized.split(' ').filter(Boolean);
-  const chapterMarkers = new Set(['capitulo', 'cap', 'chapter']);
 
   for (let index = 0; index < tokens.length; index += 1) {
-    if (!chapterMarkers.has(tokens[index])) continue;
+    if (!isChapterMarker(tokens[index])) continue;
 
     const nearby = tokens.slice(index + 1, index + 4);
     for (const token of nearby) {
@@ -1283,6 +1282,28 @@ function extractChapterNumber(normalized) {
   }
 
   return null;
+}
+
+const CHAPTER_MARKERS = new Set([
+  'capitulo',
+  'capitulos',
+  'cap',
+  'chapter',
+  'chapters',
+  'cpaitlu',
+  'cpaitulo',
+  'capitlu',
+  'capitlo',
+  'capiutlo',
+  'captulo',
+  'capituloo',
+]);
+
+function isChapterMarker(token) {
+  if (CHAPTER_MARKERS.has(token)) return true;
+  if (token.startsWith('capit') && token.length >= 5 && token.length <= 10) return true;
+
+  return false;
 }
 
 function parseChapterToken(token, allowRoman = true) {
