@@ -548,15 +548,243 @@ function getJaneRochesterResponse() {
   ].join('\n');
 }
 
+const STATIC_CHARACTER_RESPONSES = new Map([
+  ['Jane Eyre', [
+    'Jane Eyre es la protagonista y narradora de la novela.',
+    '',
+    'Es una huerfana que crece en Gateshead bajo el maltrato de la familia Reed, se forma en Lowood y despues trabaja como institutriz en Thornfield Hall. Su historia gira alrededor de la busqueda de dignidad, independencia, amor y justicia moral.',
+    '',
+    'Jane destaca porque no acepta ser tratada como inferior: defiende su conciencia incluso cuando eso le cuesta seguridad, pertenencia o amor.',
+  ].join('\n')],
+  ['Edward Rochester', [
+    'Edward Rochester es el dueno de Thornfield Hall y el gran interes amoroso de Jane.',
+    '',
+    'Es un heroe byroniano: oscuro, contradictorio, apasionado y marcado por un pasado que intenta ocultar. Reconoce la inteligencia de Jane y la trata como una igual, pero su secreto sobre Bertha Mason rompe la confianza y obliga a Jane a elegir su dignidad.',
+    '',
+    'Su evolucion final pasa por la perdida y la purificacion: tras el incendio de Thornfield queda vulnerable, y solo entonces puede reencontrarse con Jane en una relacion mas equilibrada.',
+  ].join('\n')],
+  ['Bertha Mason', [
+    'Bertha Mason es la esposa secreta de Rochester, encerrada en el atico de Thornfield.',
+    '',
+    'Funciona como el gran secreto gotico de la novela y como obstaculo moral para el matrimonio entre Jane y Rochester. Tambien puede leerse como doble oscuro de Jane: representa la pasion, la rabia y la violencia que la sociedad victoriana intenta encerrar o borrar.',
+  ].join('\n')],
+  ['Helen Burns', [
+    'Helen Burns es la amiga de Jane en Lowood.',
+    '',
+    'Representa la paciencia, el estoicismo y una forma de religiosidad basada en el perdon. Su influencia ayuda a Jane a controlar la rabia que trae de Gateshead, aunque Jane no adopta por completo su pasividad ante la injusticia.',
+  ].join('\n')],
+  ['Bessie', [
+    'Bessie es la ninera de Gateshead y una de las primeras figuras de afecto para Jane.',
+    '',
+    'Aunque a veces es brusca, tambien le ofrece canciones, relatos y pequenos gestos de carino. Para Jane, Bessie es una primera fuente de imaginacion y consuelo dentro de una casa hostil.',
+  ].join('\n')],
+  ['Señora Reed', [
+    'La senora Reed es la tia politica de Jane y su antagonista durante la infancia.',
+    '',
+    'Promete cuidar de Jane, pero la rechaza, la humilla y la encierra en el Cuarto Rojo. Su crueldad despierta en Jane una conciencia temprana de la injusticia y el deseo de defenderse.',
+  ].join('\n')],
+  ['John Reed', [
+    'John Reed es el primo de Jane en Gateshead.',
+    '',
+    'Es violento, consentido y clasista. Su maltrato provoca la rebelion inicial de Jane y muestra el abuso de poder dentro de la familia Reed.',
+  ].join('\n')],
+  ['Eliza Reed', [
+    'Eliza Reed es una de las primas de Jane.',
+    '',
+    'Es fria, calculadora y disciplinada. Contrasta con Georgina y sirve para mostrar un modelo de vida dominado por el control, el interes y la falta de afecto.',
+  ].join('\n')],
+  ['Georgina Reed', [
+    'Georgina Reed es la prima menor de Jane.',
+    '',
+    'Es bella, mimada y superficial. Su trato privilegiado contrasta con el rechazo que sufre Jane y denuncia una sociedad que premia apariencia y estatus antes que valor moral.',
+  ].join('\n')],
+  ['Lloyd', [
+    'El senor Lloyd es el boticario que atiende a Jane tras el episodio del Cuarto Rojo.',
+    '',
+    'Es el primer adulto que la escucha con cierta empatía. Al sugerir que Jane vaya a la escuela, abre la posibilidad de que salga de Gateshead.',
+  ].join('\n')],
+  ['Señor Brocklehurst', [
+    'El senor Brocklehurst dirige Lowood y representa la hipocresia religiosa.',
+    '',
+    'Predica humildad y sacrificio para las huerfanas mientras su propia familia vive con privilegios. Su crueldad denuncia el uso de la religion como control social.',
+  ].join('\n')],
+  ['Señora Temple', [
+    'La senora Temple es una figura protectora y educativa en Lowood.',
+    '',
+    'Ofrece a Jane justicia, serenidad y reconocimiento. Su influencia ayuda a Jane a confiar en su inteligencia y a construir una identidad mas estable.',
+  ].join('\n')],
+  ['Adèle Varens', [
+    'Adele Varens es la pupila francesa de Rochester y alumna de Jane en Thornfield.',
+    '',
+    'A traves de Adele, Jane demuestra paciencia y capacidad como educadora. Tambien muestra la responsabilidad moral de Rochester, que se hace cargo de ella pese a su pasado ambiguo.',
+  ].join('\n')],
+  ['Grace Poole', [
+    'Grace Poole es la sirvienta encargada de vigilar a Bertha Mason.',
+    '',
+    'Durante buena parte de la novela funciona como falsa sospechosa: Jane cree que ella causa las risas, incendios y sucesos extranos de Thornfield, ocultando asi el verdadero secreto del atico.',
+  ].join('\n')],
+  ['Blanche Ingram', [
+    'Blanche Ingram es una aristocrata que parece candidata ideal para casarse con Rochester.',
+    '',
+    'Representa belleza, clase social y conveniencia, pero tambien superficialidad. Contrasta con Jane porque tiene el estatus que la sociedad valora, pero no la profundidad moral e intelectual que Rochester encuentra en Jane.',
+  ].join('\n')],
+  ['Señora Fairfax', [
+    'La senora Fairfax es el ama de llaves de Thornfield.',
+    '',
+    'Recibe a Jane con amabilidad y aporta una sensacion de orden domestico. Tambien representa la mirada prudente de la sociedad ante la relacion desigual entre Jane y Rochester.',
+  ].join('\n')],
+  ['Diana Rivers', [
+    'Diana Rivers es una de las primas que Jane encuentra en Moor House.',
+    '',
+    'Es inteligente, afectuosa e independiente. Junto con Mary, ofrece a Jane una familia basada en igualdad intelectual y carino real.',
+  ].join('\n')],
+  ['Mary Rivers', [
+    'Mary Rivers es hermana de Diana y prima de Jane.',
+    '',
+    'Representa la mujer educada pero limitada por la pobreza. Su relacion con Jane muestra apoyo femenino, estudio compartido y pertenencia familiar.',
+  ].join('\n')],
+  ['John Rivers', [
+    'St. John Rivers es primo de Jane y clérigo.',
+    '',
+    'Representa una moral fria, disciplinada y sacrificial. Quiere que Jane se case con él por deber religioso, no por amor, y por eso funciona como contraste con Rochester y con la libertad emocional de Jane.',
+  ].join('\n')],
+]);
+
+const STATIC_SYMBOL_RESPONSES = [
+  {
+    keywords: ['fuego', 'hielo'],
+    response: 'El fuego y el hielo representan dos extremos emocionales en Jane Eyre. El fuego se asocia con pasion, deseo, hogar y purificacion, sobre todo alrededor de Rochester y Thornfield. El hielo representa frialdad, represion, soledad y deber sin afecto, especialmente en Lowood y St. John Rivers. Jane debe encontrar equilibrio: demasiado fuego destruye, demasiado hielo apaga la vida interior.',
+  },
+  {
+    keywords: ['cuarto rojo', 'habitacion roja', 'rojo'],
+    response: 'El Cuarto Rojo simboliza trauma, encierro e injusticia. Es la habitacion donde Jane es castigada de nina y donde toma conciencia de su propia opresion. El color rojo concentra miedo, ira reprimida y despertar de la rebeldia. Tambien anticipa otros encierros femeninos de la novela, como el atico de Bertha.',
+  },
+  {
+    keywords: ['thornfield', 'casa', 'atico'],
+    response: 'Thornfield simboliza la casa respetable que esconde un secreto. En la planta visible hay vida social y apariencia; en el atico se oculta Bertha Mason y el pasado reprimido de Rochester. Cuando Thornfield arde, la novela convierte la destruccion de la casa en purificacion: el secreto ya no puede sostenerse.',
+  },
+  {
+    keywords: ['luz', 'oscuridad', 'doble oscuro'],
+    response: 'La luz y la oscuridad muestran conocimiento y secreto. La luz permite descubrir la verdad, aunque duela; la oscuridad rodea a Bertha Mason y al secreto de Thornfield. Bertha funciona como una figura oscura porque encarna lo reprimido: pasion, violencia, deseo y sufrimiento ocultos por la sociedad.',
+  },
+  {
+    keywords: ['naturaleza', 'castano', 'arbol'],
+    response: 'La naturaleza refleja el estado emocional de Jane. En los momentos de opresion aparece como frio o intemperie; cuando Jane ama o se siente libre, la naturaleza florece. El castano partido tras la declaracion de Rochester anticipa que esa union esta rota por un secreto moral.',
+  },
+  {
+    keywords: ['pajaro', 'aire'],
+    response: 'Los pajaros y el aire simbolizan libertad. Jane se asocia con aves porque desea escapar de jaulas sociales, familiares y amorosas. Incluso su apellido, Eyre, recuerda a air en ingles: movimiento, independencia y capacidad de atravesar espacios sin perder identidad.',
+  },
+  {
+    keywords: ['madres', 'figuras maternas'],
+    response: 'Las figuras maternas sustitutas ayudan a Jane a construirse. La senora Reed despierta su rebeldia por contraste; Bessie alimenta su imaginacion; la senora Temple le da educacion y templanza; la senora Fairfax le ofrece una primera sensacion de hogar; Diana y Mary le dan pertenencia familiar.',
+  },
+];
+
+const STATIC_THEME_RESPONSES = [
+  {
+    keywords: ['amor', 'moralidad'],
+    response: 'Amor y moralidad chocan en la relacion entre Jane y Rochester. Jane ama a Rochester, pero cuando descubre que sigue casado con Bertha decide marcharse para no traicionar su conciencia. La novela defiende un amor que no exige perder dignidad: Jane vuelve solo cuando puede elegir desde la independencia.',
+  },
+  {
+    keywords: ['clase social', 'clases sociales', 'desigualdad', 'independencia', 'institutriz'],
+    response: 'La clase social atraviesa toda la novela. Jane es pobre, huerfana e institutriz: educada pero socialmente vulnerable. Su independencia economica y moral es clave porque le permite dejar de depender de la caridad, del matrimonio o del poder de otros.',
+  },
+  {
+    keywords: ['religion', 'espiritualidad', 'brocklehurst', 'helen', 'st john'],
+    response: 'La religion aparece en tres modelos: Brocklehurst representa hipocresia y control; Helen Burns representa perdon y paciencia; St. John Rivers representa deber frio y sacrificio. Jane construye una espiritualidad propia, basada en conciencia, libertad moral y amor sin sometimiento.',
+  },
+  {
+    keywords: ['justicia', 'justicia moral', 'justicia poetica'],
+    response: 'La justicia en Jane Eyre es sobre todo moral y poetica. Los Reed, Brocklehurst y Rochester afrontan consecuencias por sus actos. Jane, en cambio, es recompensada con libertad, herencia, familia y amor porque no sacrifica su conciencia.',
+  },
+];
+
+const STATIC_CONTEXT_RESPONSES = [
+  {
+    keywords: ['contexto', 'historico', 'victoriana', 'victoriano', 'inglaterra'],
+    response: 'Jane Eyre se entiende dentro de la Inglaterra victoriana: una sociedad marcada por jerarquias de clase, moral religiosa, desigualdad de genero e ideal domestico femenino. La novela cuestiona esos limites al presentar a una mujer pobre e independiente que exige respeto intelectual, moral y afectivo.',
+  },
+  {
+    keywords: ['romanticismo', 'ilustracion'],
+    response: 'La novela combina Romanticismo e Ilustracion. Del Romanticismo toma la intensidad emocional, la naturaleza, lo sublime y la subjetividad; de la Ilustracion aparece la tension con la razon, el autocontrol y el juicio moral. Jane busca equilibrio entre pasion y conciencia.',
+  },
+  {
+    keywords: ['gotico', 'gótico'],
+    response: 'El gotico aparece en Thornfield: ruidos extranos, secretos, fuego, oscuridad, una mujer encerrada y una casa que parece esconder su propio subconsciente. Bronte usa el terror gotico para hablar de culpa, deseo reprimido y violencia domestica.',
+  },
+  {
+    keywords: ['charlotte', 'bronte', 'brontë', 'autora'],
+    response: 'Charlotte Bronte publico Jane Eyre en 1847 bajo el seudonimo Currer Bell. Su experiencia como institutriz, la educacion religiosa severa y la vida de las hermanas Bronte influyen en la novela, especialmente en Lowood, la figura de la institutriz y la defensa de una voz femenina propia.',
+  },
+  {
+    keywords: ['legado', 'adaptaciones', 'por que seguimos leyendo'],
+    response: 'Jane Eyre sigue leyendose porque combina novela de formacion, romance, critica social, gotico y una voz femenina muy moderna. Su protagonista no pide solo amor: exige igualdad, conciencia, libertad y derecho a narrarse a si misma.',
+  },
+];
+
+function getStaticKnowledgeResponse(normalized) {
+  const context = getStaticEntryResponse(STATIC_CONTEXT_RESPONSES, normalized);
+  if (context) return context;
+
+  const symbol = getStaticEntryResponse(STATIC_SYMBOL_RESPONSES, normalized);
+  if (symbol) return symbol;
+
+  const theme = getStaticEntryResponse(STATIC_THEME_RESPONSES, normalized);
+  if (theme && hasThemeIntent(normalized)) return theme;
+
+  if (hasAnyPhrase(normalized, ['simbolo', 'simbolos', 'simbolismo'])) {
+    return 'Los simbolos principales de Jane Eyre incluyen el fuego y el hielo, el Cuarto Rojo, Thornfield, la luz y la oscuridad, la naturaleza, los pajaros y las figuras maternas. Todos ayudan a explicar la libertad, el deseo, el miedo, la moralidad y la identidad de Jane.';
+  }
+
+  if (hasAnyPhrase(normalized, ['tema', 'temas'])) {
+    return 'Los temas principales de Jane Eyre son amor y moralidad, independencia, clase social, desigualdad, religion, justicia moral, identidad femenina y busqueda de pertenencia. La novela defiende que Jane solo puede amar plenamente cuando conserva su libertad y su conciencia.';
+  }
+
+  if (hasAnyPhrase(normalized, ['personaje', 'personajes', 'protagonista'])) {
+    return 'Personajes principales de Jane Eyre: Jane Eyre, Edward Rochester, Bertha Mason, Helen Burns, Bessie, la senora Reed, John Reed, Brocklehurst, la senora Temple, Adele Varens, Grace Poole, Blanche Ingram, la senora Fairfax, Diana Rivers, Mary Rivers y St. John Rivers.';
+  }
+
+  const characterNames = resolveCharacterNames(normalized);
+  if (characterNames.length > 0) {
+    const character = getStaticCharacterResponse(characterNames, normalized);
+    if (character) return character;
+  }
+
+  return theme || null;
+}
+
+function getStaticEntryResponse(entries, normalized) {
+  const entry = entries.find((item) => item.keywords.some((keyword) => hasPhrase(normalized, keyword)));
+  return entry?.response || null;
+}
+
+function hasThemeIntent(normalized) {
+  return hasAnyPhrase(normalized, [
+    'tema',
+    'temas',
+    'amor',
+    'moralidad',
+    'clase social',
+    'clases sociales',
+    'desigualdad',
+    'independencia',
+    'religion',
+    'espiritualidad',
+    'justicia',
+  ]);
+}
+
 function getStaticCharacterResponse(names, normalized) {
-  if (names.includes('Jane Eyre') && isJaneIdentityQuestion(normalized)) {
-    return [
-      'Jane Eyre es la protagonista y narradora de la novela.',
-      '',
-      'Es una huerfana que crece en Gateshead bajo el maltrato de la familia Reed, se forma en Lowood y despues trabaja como institutriz en Thornfield Hall. Su historia gira alrededor de la busqueda de dignidad, independencia, amor y justicia moral.',
-      '',
-      'Jane destaca porque no acepta ser tratada como inferior: defiende su conciencia incluso cuando eso le cuesta seguridad, pertenencia o amor.',
-    ].join('\n');
+  for (const name of names) {
+    if (name === 'Jane Eyre' && !isJaneIdentityQuestion(normalized)) {
+      continue;
+    }
+
+    const response = STATIC_CHARACTER_RESPONSES.get(name);
+    if (response) {
+      return response;
+    }
   }
 
   return null;
@@ -590,6 +818,11 @@ async function searchKnowledge(message, normalized) {
   const chapterNumber = extractChapterNumber(normalized);
   if (chapterNumber !== null) {
     return await getChapterResponse(chapterNumber);
+  }
+
+  const staticResponse = getStaticKnowledgeResponse(normalized);
+  if (staticResponse) {
+    return staticResponse;
   }
 
   const characterNames = resolveCharacterNames(normalized);
@@ -730,14 +963,22 @@ function isAuthorQuestion(normalized) {
 }
 
 async function getAuthorResponse() {
-  if (!await tableExists('works')) {
+  try {
+    if (!await tableExists('works')) {
+      return 'Jane Eyre fue escrita por Charlotte Bronte.';
+    }
+
+    const rows = await query('SELECT autor FROM works WHERE id = 1 LIMIT 1');
+    const author = cleanText(rows[0]?.autor || 'Charlotte Bronte', 120);
+
+    return `Jane Eyre fue escrita por ${author}.`;
+  } catch (error) {
+    if (!isKnowledgeLookupError(error)) {
+      throw error;
+    }
+
     return 'Jane Eyre fue escrita por Charlotte Bronte.';
   }
-
-  const rows = await query('SELECT autor FROM works WHERE id = 1 LIMIT 1');
-  const author = cleanText(rows[0]?.autor || 'Charlotte Bronte', 120);
-
-  return `Jane Eyre fue escrita por ${author}.`;
 }
 
 function extractChapterNumber(normalized) {
