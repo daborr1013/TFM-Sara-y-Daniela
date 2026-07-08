@@ -11,6 +11,8 @@ El proyecto conserva la versión PHP original y añade una separación deployabl
 
 Guía completa: [`DEPLOYMENT_SPLIT.md`](DEPLOYMENT_SPLIT.md).
 
+Flujo de cambios con Vercel: [`GUIA_FLUJO_PR_VERCEL.md`](GUIA_FLUJO_PR_VERCEL.md).
+
 ## 🚀 Características
 - **Análisis Profundo**: Secciones dedicadas a personajes, contextos históricos y temas.
 - **Interactividad**: Actividades tipo test, rellenar espacios y juegos de memoria.
