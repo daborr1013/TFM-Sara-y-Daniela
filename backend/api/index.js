@@ -479,10 +479,25 @@ async function chatbot(request, response) {
     return sendJson(response, { response: getOutOfScopeResponse() });
   }
 
-  const result = await searchKnowledge(message, normalized);
+  let result = null;
+  try {
+    result = await searchKnowledge(message, normalized);
+  } catch (error) {
+    if (!hasJaneEyreScopeSignal(normalized) || !isKnowledgeLookupError(error)) {
+      throw error;
+    }
+
+    console.error('Error buscando conocimiento de Litto:', error);
+  }
+
   sendJson(response, {
-    response: result || getOutOfScopeResponse(),
+    response: result || (hasJaneEyreScopeSignal(normalized) ? getNoKnowledgeResponse() : getOutOfScopeResponse()),
   });
+}
+
+function isKnowledgeLookupError(error) {
+  const status = Number(error?.statusCode || 0);
+  return status >= 500 || typeof error?.code === 'string';
 }
 
 function hasAnyPhrase(normalized, phrases) {
@@ -519,6 +534,10 @@ function getOutOfScopeResponse() {
   return 'Solo puedo ayudarte con preguntas sobre Jane Eyre: personajes, capitulos, temas, simbolos, glosario y contexto historico. Si quieres, reformula tu pregunta relacionandola con la novela.';
 }
 
+function getNoKnowledgeResponse() {
+  return 'No he encontrado una respuesta clara en la base de conocimiento de Jane Eyre. Prueba a preguntar por un personaje, capitulo, tema, simbolo, glosario o contexto historico.';
+}
+
 function getJaneRochesterResponse() {
   return [
     'Jane y Rochester forman la relacion central de la novela.',
@@ -527,6 +546,36 @@ function getJaneRochesterResponse() {
     '',
     'El final recompone la relacion desde otra posicion: Jane vuelve cuando ya es independiente y Rochester ha perdido parte de su antiguo poder. Por eso su union final funciona como una relacion mas igualitaria, no como un rescate romantico simple.',
   ].join('\n');
+}
+
+function getStaticCharacterResponse(names, normalized) {
+  if (names.includes('Jane Eyre') && isJaneIdentityQuestion(normalized)) {
+    return [
+      'Jane Eyre es la protagonista y narradora de la novela.',
+      '',
+      'Es una huerfana que crece en Gateshead bajo el maltrato de la familia Reed, se forma en Lowood y despues trabaja como institutriz en Thornfield Hall. Su historia gira alrededor de la busqueda de dignidad, independencia, amor y justicia moral.',
+      '',
+      'Jane destaca porque no acepta ser tratada como inferior: defiende su conciencia incluso cuando eso le cuesta seguridad, pertenencia o amor.',
+    ].join('\n');
+  }
+
+  return null;
+}
+
+function isJaneIdentityQuestion(normalized) {
+  if (normalized === 'jane' || normalized === 'jane eyre') return true;
+
+  return hasAnyPhrase(normalized, [
+    'quien es jane',
+    'quien es jane eyre',
+    'quien era jane',
+    'quien era jane eyre',
+    'personaje jane',
+    'personaje de jane',
+    'protagonista jane',
+    'describe a jane',
+    'hablame de jane',
+  ]);
 }
 
 async function searchKnowledge(message, normalized) {
@@ -545,6 +594,11 @@ async function searchKnowledge(message, normalized) {
 
   const characterNames = resolveCharacterNames(normalized);
   if (characterNames.length > 0) {
+    const staticCharacter = getStaticCharacterResponse(characterNames, normalized);
+    if (staticCharacter) {
+      return staticCharacter;
+    }
+
     const character = await firstCharacterByName(characterNames);
     if (character) {
       return formatCharacter(character);
