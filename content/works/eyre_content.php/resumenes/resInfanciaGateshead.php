@@ -97,11 +97,11 @@
                         pasar desapercibida leyendo La historia de los
                         pájaros británicos de Bewick tras una cortina. Su tía, la <a
                             href="../personajes/gateshead/senoraReed.php">señora Reed</a>, la excluye del círculo
-                        familiar, mientras su primo <a href="../personajes/gateshead/john.php">John Reed</a> la acosa
+                        familiar, mientras su primo <a href="../personajes/gateshead/johnReed.php">John Reed</a> la acosa
                         físicamente y verbalmente,
                         recordándole que vive allí solo por caridad.</p>
                     <p>Tras recibir un golpe con un libro lanzado por <a
-                            href="../personajes/gateshead/john.php">John</a>,
+                            href="../personajes/gateshead/johnReed.php">John</a>,
                         <a href="../personajes/gateshead/jane.php">Jane</a> finalmente explota y se defiende,
                         tachándolo de "asesino" y "esclavo". La <a href="../personajes/gateshead/senoraReed.php">señora
                             Reed</a> interviene de inmediato,

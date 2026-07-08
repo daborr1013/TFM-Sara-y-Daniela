@@ -229,7 +229,7 @@
                         le pone al día sobre los Reed: sus primas
                         están enfrentadas tras un intento de fuga amorosa de <a
                             href="../personajes/gateshead/georgiana.php">Georgiana</a>,
-                        y su primo <a href="../personajes/gateshead/john.php">John</a> se ha hundido en la depravación.
+                        y su primo <a href="../personajes/gateshead/johnReed.php">John</a> se ha hundido en la depravación.
                         Lo más impactante es la noticia de que un tío
                         paterno, John Eyre, la buscó hace siete años antes de partir hacia Madeira en
                         busca de fortuna. Con esta mezcla de pasado y futuro, <a

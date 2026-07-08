@@ -162,8 +162,8 @@
                         dócil,
                         agradable y muy unida a <a href="../personajes/gateshead/jane.php">Jane</a>.
                     </p>
-                    <p><a href="../personajes/moorhouse/diana.php">Diana</a> y <a
-                            href="../personajes/moorhouse/mary.php">Mary</a> Rivers se casan con hombres que las valoran
+                    <p><a href="../personajes/moorhouse/dianaRivers.php">Diana</a> y <a
+                            href="../personajes/moorhouse/maryRivers.php">Mary</a> Rivers se casan con hombres que las valoran
                         y
                         mantienen una relación estrecha y
                         frecuente con su prima <a href="../personajes/gateshead/jane.php">Jane</a>.</p>
