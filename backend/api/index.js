@@ -485,49 +485,8 @@ async function chatbot(request, response) {
   });
 }
 
-const CHARACTER_ALIASES = [
-  { aliases: ['edward rochester', 'sr rochester', 'senor rochester', 'mr rochester', 'rochester'], patterns: ['Edward Rochester'] },
-  { aliases: ['bertha mason', 'bertha'], patterns: ['Bertha Mason'] },
-  { aliases: ['grace poole'], patterns: ['Grace Poole'] },
-  { aliases: ['blanche ingram', 'ingram'], patterns: ['Blanche Ingram'] },
-  { aliases: ['helen burns', 'helen'], patterns: ['Helen Burns'] },
-  { aliases: ['senora temple', 'miss temple', 'temple'], patterns: ['Señora Temple'] },
-  { aliases: ['senora reed', 'mrs reed'], patterns: ['Señora Reed'] },
-  { aliases: ['senora fairfax', 'senora fairfaix', 'mrs fairfax', 'fairfax', 'fairfaix'], patterns: ['Señora Fairfaix', 'Señora Fairfax'] },
-  { aliases: ['adele varens', 'adele'], patterns: ['Adèle Varens', 'Adele Varens'] },
-  { aliases: ['bessie'], patterns: ['Bessie'] },
-  { aliases: ['diana rivers', 'diana'], patterns: ['Diana Rivers'] },
-  { aliases: ['mary rivers', 'mary'], patterns: ['Mary Rivers'] },
-  { aliases: ['st john rivers', 'st john', 'john rivers'], patterns: ['John Rivers'] },
-  { aliases: ['john reed', 'primo john'], patterns: ['John Reed'] },
-  { aliases: ['lloyd', 'senor lloyd', 'sr lloyd'], patterns: ['Lloyd'] },
-  { aliases: ['brocklehurst', 'senor brocklehurst', 'sr brocklehurst'], patterns: ['Señor Brocklehurst'] },
-  { aliases: ['georgiana reed', 'georgiana', 'georgina reed', 'georgina'], patterns: ['Georgina Reed'] },
-  { aliases: ['eliza reed', 'eliza'], patterns: ['Eliza Reed'] },
-  { aliases: ['jane eyre', 'jane'], patterns: ['Jane Eyre'] },
-];
-
-function hasPhrase(normalized, phrase) {
-  const escaped = normalizeText(phrase).replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\s+/g, '\\s+');
-  return new RegExp(`(?:^|\\s)${escaped}(?:$|\\s)`).test(normalized);
-}
-
 function hasAnyPhrase(normalized, phrases) {
   return phrases.some((phrase) => hasPhrase(normalized, phrase));
-}
-
-function resolveCharacterNames(normalized) {
-  for (const entry of CHARACTER_ALIASES) {
-    if (entry.aliases.some((alias) => hasPhrase(normalized, alias))) {
-      return entry.patterns;
-    }
-  }
-
-  return [];
-}
-
-function isGreetingOrHelp(normalized) {
-  return ['hola', 'hola litto', 'hi', 'hey', 'buenas', 'buenos dias', 'buenas tardes', 'buenas noches', 'ayuda'].includes(normalized);
 }
 
 function hasJaneEyreScopeSignal(normalized) {
@@ -571,10 +530,18 @@ function getJaneRochesterResponse() {
 }
 
 async function searchKnowledge(message, normalized) {
-  const terms = normalizeText(message)
-    .split(' ')
-    .filter((term) => term.length >= 4 && !STOP_WORDS.has(term))
-    .slice(0, 4);
+  if (isAuthorQuestion(normalized)) {
+    return await getAuthorResponse();
+  }
+
+  if (hasPhrase(normalized, 'jane') && hasPhrase(normalized, 'rochester')) {
+    return getJaneRochesterResponse();
+  }
+
+  const chapterNumber = extractChapterNumber(normalized);
+  if (chapterNumber !== null) {
+    return await getChapterResponse(chapterNumber);
+  }
 
   const characterNames = resolveCharacterNames(normalized);
   if (characterNames.length > 0) {
@@ -590,10 +557,6 @@ async function searchKnowledge(message, normalized) {
 
   if (!hasJaneEyreScopeSignal(normalized)) {
     return null;
-  }
-
-  if (hasPhrase(normalized, 'jane') && hasPhrase(normalized, 'rochester')) {
-    return getJaneRochesterResponse();
   }
 
   const exactCharacterNames = resolveCharacterNames(normalized);
@@ -696,6 +659,147 @@ const STOP_WORDS = new Set([
   'personaje',
   'personajes',
 ]);
+
+function isAuthorQuestion(normalized) {
+  return hasAnyPhrase(normalized, [
+    'autor',
+    'autora',
+    'quien escribio',
+    'quien es el autor',
+    'quien es la autora',
+  ]);
+}
+
+async function getAuthorResponse() {
+  if (!await tableExists('works')) {
+    return 'Jane Eyre fue escrita por Charlotte Bronte.';
+  }
+
+  const rows = await query('SELECT autor FROM works WHERE id = 1 LIMIT 1');
+  const author = cleanText(rows[0]?.autor || 'Charlotte Bronte', 120);
+
+  return `Jane Eyre fue escrita por ${author}.`;
+}
+
+function extractChapterNumber(normalized) {
+  const tokens = normalized.split(' ').filter(Boolean);
+  const chapterMarkers = new Set(['capitulo', 'cap', 'chapter']);
+
+  for (let index = 0; index < tokens.length; index += 1) {
+    if (!chapterMarkers.has(tokens[index])) continue;
+
+    const nearby = tokens.slice(index + 1, index + 4);
+    for (const token of nearby) {
+      const chapter = parseChapterToken(token);
+      if (chapter !== null) return chapter;
+    }
+  }
+
+  if (!hasAnyPhrase(normalized, ['resumen', 'capitulo', 'chapter'])) {
+    return null;
+  }
+
+  for (const token of tokens) {
+    const chapter = parseChapterToken(token, false);
+    if (chapter !== null) return chapter;
+  }
+
+  return null;
+}
+
+function parseChapterToken(token, allowRoman = true) {
+  const numeric = Number.parseInt(token, 10);
+  if (Number.isInteger(numeric) && String(numeric) === token && numeric >= 1 && numeric <= 38) {
+    return numeric;
+  }
+
+  if (!allowRoman) {
+    return null;
+  }
+
+  const roman = ROMAN_CHAPTERS[token];
+  return roman || null;
+}
+
+const ROMAN_CHAPTERS = {
+  i: 1,
+  ii: 2,
+  iii: 3,
+  iv: 4,
+  v: 5,
+  vi: 6,
+  vii: 7,
+  viii: 8,
+  ix: 9,
+  x: 10,
+  xi: 11,
+  xii: 12,
+  xiii: 13,
+  xiv: 14,
+  xv: 15,
+  xvi: 16,
+  xvii: 17,
+  xviii: 18,
+  xix: 19,
+  xx: 20,
+  xxi: 21,
+  xxii: 22,
+  xxiii: 23,
+  xxiv: 24,
+  xxv: 25,
+  xxvi: 26,
+  xxvii: 27,
+  xxviii: 28,
+  xxix: 29,
+  xxx: 30,
+  xxxi: 31,
+  xxxii: 32,
+  xxxiii: 33,
+  xxxiv: 34,
+  xxxv: 35,
+  xxxvi: 36,
+  xxxvii: 37,
+  xxxviii: 38,
+};
+
+async function getChapterResponse(chapterNumber) {
+  if (!await tableExists('summaries')) {
+    return `No he encontrado el resumen del capitulo ${chapterNumber} en la base de datos.`;
+  }
+
+  const summaryRows = await query(
+    'SELECT chapter, contenido FROM summaries WHERE work_id = 1 AND chapter::text = $1 LIMIT 1',
+    [String(chapterNumber)],
+  );
+
+  if (summaryRows.length === 0) {
+    return `No he encontrado el resumen del capitulo ${chapterNumber} en la base de datos.`;
+  }
+
+  const parts = [
+    `Capitulo ${chapterNumber}`,
+    '',
+    cleanText(summaryRows[0].contenido, 1600),
+  ];
+
+  if (await tableExists('blocks')) {
+    const blockRows = await query(
+      'SELECT concepto_clave, nota_chatbot FROM blocks WHERE work_id = 1 AND titulo ILIKE $1 LIMIT 1',
+      [`%Capítulo ${chapterNumber}%`],
+    );
+    const block = blockRows[0];
+
+    if (block?.concepto_clave) {
+      parts.push('', `Idea clave: ${cleanText(block.concepto_clave, 220)}`);
+    }
+
+    if (block?.nota_chatbot) {
+      parts.push(`Lectura guiada: ${cleanText(block.nota_chatbot, 260)}`);
+    }
+  }
+
+  return parts.join('\n');
+}
 
 const CHARACTER_ALIASES = [
   { aliases: ['edward rochester', 'sr rochester', 'senor rochester', 'mr rochester', 'rochester'], names: ['Edward Rochester'] },
