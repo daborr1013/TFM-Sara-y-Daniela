@@ -26,6 +26,7 @@ const FALLBACK_ACTIVITIES = {
 let pool;
 const tableCache = new Map();
 let seedKnowledgeCache;
+let seedUsersCache;
 
 export default async function handler(request, response) {
   applyCors(request, response);
@@ -40,7 +41,11 @@ export default async function handler(request, response) {
     const pathname = url.pathname.replace(/\/$/, '') || '/';
 
     if (request.method === 'GET' && pathname === '/api/health') {
-      return sendJson(response, { ok: true });
+      return sendJson(response, {
+        ok: true,
+        service: 'litterally-backend',
+        database: databaseConfigured() ? 'configured' : 'missing',
+      });
     }
 
     if (request.method === 'POST' && pathname === '/api/auth/register') {
@@ -77,7 +82,12 @@ export default async function handler(request, response) {
     return sendJson(response, { error: 'Ruta no encontrada' }, 404);
   } catch (error) {
     const status = Number(error.statusCode || 500);
-    return sendJson(response, { error: status >= 500 ? 'Error interno del servidor' : error.message }, status);
+    if (status >= 500) {
+      console.error('API error:', formatErrorForLog(error));
+    }
+
+    const message = status >= 500 && !error.expose ? 'Error interno del servidor' : error.message;
+    return sendJson(response, { error: message }, status);
   }
 }
 
@@ -91,10 +101,13 @@ function applyCors(request, response) {
     ...configuredOrigins,
     'https://*.vercel.app',
     'http://localhost:5173',
+    'http://localhost:5174',
     'http://localhost:3000',
     'http://127.0.0.1:5173',
+    'http://127.0.0.1:5174',
     'http://127.0.0.1:3000',
     'https://localhost:5173',
+    'https://localhost:5174',
     'https://localhost:3000',
   ];
 
@@ -106,6 +119,7 @@ function applyCors(request, response) {
     response.setHeader('Access-Control-Allow-Credentials', 'true');
     response.setHeader('Access-Control-Allow-Methods', 'GET,POST,OPTIONS');
     response.setHeader('Access-Control-Allow-Headers', 'Content-Type,Authorization,X-Requested-With');
+    response.setHeader('Access-Control-Max-Age', '86400');
   }
 }
 
@@ -115,6 +129,7 @@ function originAllowed(origin, allowedOrigins) {
   if (allowedOrigins.length === 0) return true;
 
   return allowedOrigins.some((allowedOrigin) => {
+    if (allowedOrigin === '*') return true;
     if (allowedOrigin === normalizedOrigin) return true;
     if (!allowedOrigin.includes('*')) return false;
 
@@ -136,7 +151,65 @@ function sendJson(response, payload, status = 200) {
 function httpError(message, statusCode) {
   const error = new Error(message);
   error.statusCode = statusCode;
+  error.expose = statusCode < 500;
   return error;
+}
+
+function exposedHttpError(message, statusCode) {
+  const error = httpError(message, statusCode);
+  error.expose = true;
+  return error;
+}
+
+function databaseConfigured() {
+  return Boolean(process.env.DATABASE_URL || process.env.POSTGRES_URL);
+}
+
+function databaseSetupError(error) {
+  const setupError = exposedHttpError(
+    'Base de datos no disponible. Revisa DATABASE_URL/POSTGRES_URL en Vercel y carga backend/schema/supabase.sql en Supabase.',
+    503,
+  );
+  setupError.cause = error;
+  return setupError;
+}
+
+function isDatabaseUnavailableError(error) {
+  if (!error) return false;
+
+  const code = String(error.code || '');
+  const message = String(error.message || '');
+
+  if (error.statusCode === 500 && /DATABASE_URL|POSTGRES_URL/i.test(message)) return true;
+  if (code.startsWith('08')) return true;
+
+  const knownDatabaseErrorCodes = [
+    'ENOTFOUND',
+    'ECONNREFUSED',
+    'ECONNRESET',
+    'ETIMEDOUT',
+    'EAI_AGAIN',
+    '3D000',
+    '28P01',
+    '42P01',
+    '42703',
+  ];
+  const knownDatabaseErrorMessage = /DATABASE_URL|POSTGRES_URL|relation .* does not exist|column .* does not exist|password authentication failed|getaddrinfo|connect ECONNREFUSED/i;
+
+  return knownDatabaseErrorCodes.includes(code) || knownDatabaseErrorMessage.test(message);
+}
+
+function formatErrorForLog(error) {
+  return {
+    message: error?.message,
+    code: error?.code,
+    statusCode: error?.statusCode,
+    cause: error?.cause ? {
+      message: error.cause.message,
+      code: error.cause.code,
+      statusCode: error.cause.statusCode,
+    } : undefined,
+  };
 }
 
 async function readJson(request) {
@@ -197,6 +270,58 @@ async function tableExists(tableName) {
   return exists;
 }
 
+async function usersByEmail(email) {
+  return await query(
+    'SELECT id, nombre, email, "contraseña", fecha_registro FROM users WHERE email = $1 LIMIT 1',
+    [email],
+  );
+}
+
+async function usersById(id) {
+  return await query('SELECT id, nombre, email, fecha_registro FROM users WHERE id = $1 LIMIT 1', [id]);
+}
+
+function seedUsers() {
+  if (seedUsersCache) return seedUsersCache;
+
+  const users = [];
+
+  try {
+    const sql = readFileSync(SEED_SCHEMA_PATH, 'utf8');
+    const block = getSqlInsertBlock(sql, 'users');
+    const rowPattern = /\((\d+),\s*'((?:''|[^'])*)',\s*'((?:''|[^'])*)',\s*'((?:''|[^'])*)',\s*'((?:''|[^'])*)'\)(?:,|$)/g;
+    let match;
+
+    while ((match = rowPattern.exec(block)) !== null) {
+      users.push({
+        id: Number.parseInt(match[1], 10),
+        nombre: decodeSqlString(match[2]),
+        email: decodeSqlString(match[3]).toLowerCase(),
+        'contraseña': decodeSqlString(match[4]),
+        fecha_registro: decodeSqlString(match[5]),
+        __seed: true,
+      });
+    }
+  } catch (error) {
+    console.error('No se pudo cargar fallback local de usuarios:', error.message);
+  }
+
+  seedUsersCache = users;
+  return seedUsersCache;
+}
+
+function seedUserByEmail(email) {
+  return seedUsers().find((user) => user.email === String(email || '').toLowerCase());
+}
+
+function seedUserByToken(decoded) {
+  const user = seedUserByEmail(decoded?.email);
+  if (!user) return null;
+  if (String(user.id) !== String(decoded?.sub)) return null;
+
+  return user;
+}
+
 async function register(request, response) {
   const body = await readJson(request);
   const name = String(body.name || '').trim();
@@ -220,13 +345,31 @@ async function register(request, response) {
     throw httpError('Las contrasenas no coinciden.', 400);
   }
 
-  const existing = await query('SELECT id FROM users WHERE email = $1 LIMIT 1', [email]);
+  let existing;
+  try {
+    existing = await query('SELECT id FROM users WHERE email = $1 LIMIT 1', [email]);
+  } catch (error) {
+    if (isDatabaseUnavailableError(error)) {
+      throw databaseSetupError(error);
+    }
+
+    throw error;
+  }
+
   if (existing.length > 0) {
     throw httpError('Este correo ya esta registrado.', 409);
   }
 
   const hash = await bcrypt.hash(password, 12);
-  await query('INSERT INTO users (nombre, email, "contraseña") VALUES ($1, $2, $3)', [name, email, hash]);
+  try {
+    await query('INSERT INTO users (nombre, email, "contraseña") VALUES ($1, $2, $3)', [name, email, hash]);
+  } catch (error) {
+    if (isDatabaseUnavailableError(error)) {
+      throw databaseSetupError(error);
+    }
+
+    throw error;
+  }
 
   sendJson(response, { ok: true }, 201);
 }
@@ -240,12 +383,29 @@ async function login(request, response) {
     throw httpError('Completa todos los campos.', 400);
   }
 
-  const rows = await query(
-    'SELECT id, nombre, email, "contraseña", fecha_registro FROM users WHERE email = $1 LIMIT 1',
-    [email],
-  );
+  let rows;
+  let usingSeedUser = false;
+  let loginDatabaseError = null;
+
+  try {
+    rows = await usersByEmail(email);
+  } catch (error) {
+    if (!isDatabaseUnavailableError(error)) {
+      throw error;
+    }
+
+    loginDatabaseError = error;
+    console.error('Login database unavailable, trying seed user:', formatErrorForLog(error));
+    const seedUser = seedUserByEmail(email);
+    rows = seedUser ? [seedUser] : [];
+    usingSeedUser = Boolean(seedUser);
+  }
 
   if (rows.length === 0) {
+    if (loginDatabaseError) {
+      throw databaseSetupError(loginDatabaseError);
+    }
+
     throw httpError('El correo no esta registrado.', 401);
   }
 
@@ -260,13 +420,20 @@ async function login(request, response) {
     throw httpError('Contrasena incorrecta.', 401);
   }
 
-  if (!bcryptHash) {
+  if (!bcryptHash && !usingSeedUser) {
     const hash = await bcrypt.hash(password, 12);
-    await query('UPDATE users SET "contraseña" = $1 WHERE id = $2', [hash, userRow.id]);
+    try {
+      await query('UPDATE users SET "contraseña" = $1 WHERE id = $2', [hash, userRow.id]);
+    } catch (error) {
+      console.error('No se pudo actualizar password legacy a bcrypt:', formatErrorForLog(error));
+    }
   }
 
   const user = normalizeUser(userRow);
-  const token = jwt.sign({ sub: user.id }, jwtSecret(), { expiresIn: '7d' });
+  const tokenPayload = usingSeedUser
+    ? { sub: user.id, seed: true, email: user.email }
+    : { sub: user.id };
+  const token = jwt.sign(tokenPayload, jwtSecret(), { expiresIn: '7d' });
   response.setHeader('Set-Cookie', sessionCookie(request, token));
 
   sendJson(response, { user, token });
@@ -301,8 +468,28 @@ async function requireUser(request) {
     throw httpError('Sesion caducada', 401);
   }
 
-  const rows = await query('SELECT id, nombre, email, fecha_registro FROM users WHERE id = $1 LIMIT 1', [decoded.sub]);
+  let rows;
+  try {
+    rows = await usersById(decoded.sub);
+  } catch (error) {
+    if (isDatabaseUnavailableError(error) && decoded.seed) {
+      const seedUser = seedUserByToken(decoded);
+      if (seedUser) {
+        return normalizeUser(seedUser);
+      }
+    }
+
+    throw error;
+  }
+
   if (rows.length === 0) {
+    if (decoded.seed) {
+      const seedUser = seedUserByToken(decoded);
+      if (seedUser) {
+        return normalizeUser(seedUser);
+      }
+    }
+
     throw httpError('Usuario no encontrado', 401);
   }
 
@@ -357,7 +544,18 @@ function isCrossSiteRequest(request) {
 }
 
 async function getProgress(response, userId) {
-  const progress = await progressRows(userId);
+  let progress;
+  try {
+    progress = await progressRows(userId);
+  } catch (error) {
+    if (!isDatabaseUnavailableError(error)) {
+      throw error;
+    }
+
+    console.error('Progress database unavailable, returning empty progress:', formatErrorForLog(error));
+    progress = [];
+  }
+
   const stats = buildStats(progress);
   const categories = buildCategories(progress);
   sendJson(response, { progress, stats, categories });
@@ -373,24 +571,41 @@ async function saveProgress(request, response, userId) {
     throw httpError('activityId requerido', 400);
   }
 
-  const existing = await query('SELECT id FROM user_progress WHERE user_id = $1 AND activity_id = $2 LIMIT 1', [userId, activityId]);
+  try {
+    if (!await tableExists('user_progress')) {
+      return sendJson(response, { ok: true, stored: false });
+    }
 
-  if (existing.length > 0) {
-    await query(
-      'UPDATE user_progress SET puntuacion = $1, completado = $2, fecha = NOW() WHERE id = $3',
-      [score, completed, existing[0].id],
-    );
-  } else {
-    await query(
-      'INSERT INTO user_progress (user_id, activity_id, puntuacion, completado) VALUES ($1, $2, $3, $4)',
-      [userId, activityId, score, completed],
-    );
+    const existing = await query('SELECT id FROM user_progress WHERE user_id = $1 AND activity_id = $2 LIMIT 1', [userId, activityId]);
+
+    if (existing.length > 0) {
+      await query(
+        'UPDATE user_progress SET puntuacion = $1, completado = $2, fecha = NOW() WHERE id = $3',
+        [score, completed, existing[0].id],
+      );
+    } else {
+      await query(
+        'INSERT INTO user_progress (user_id, activity_id, puntuacion, completado) VALUES ($1, $2, $3, $4)',
+        [userId, activityId, score, completed],
+      );
+    }
+  } catch (error) {
+    if (!isDatabaseUnavailableError(error)) {
+      throw error;
+    }
+
+    console.error('Progress database unavailable, accepting no-op save:', formatErrorForLog(error));
+    return sendJson(response, { ok: true, stored: false });
   }
 
   sendJson(response, { ok: true });
 }
 
 async function progressRows(userId) {
+  if (!await tableExists('user_progress')) {
+    return [];
+  }
+
   const hasActivities = await tableExists('activities');
   const hasWorks = hasActivities && await tableExists('works');
 
