@@ -1,3 +1,6 @@
+import { readFileSync } from 'node:fs';
+import { dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import bcrypt from 'bcryptjs';
 import { parse as parseCookie, serialize as serializeCookie } from 'cookie';
 import jwt from 'jsonwebtoken';
@@ -5,7 +8,9 @@ import pg from 'pg';
 
 const { Pool } = pg;
 
+const API_DIR = dirname(fileURLToPath(import.meta.url));
 const COOKIE_NAME = 'litterally_session';
+const SEED_SCHEMA_PATH = join(API_DIR, '..', 'schema', 'supabase.sql');
 const FALLBACK_ACTIVITIES = {
   1: { type: 'Tests', level: 'General', description: 'Prueba general de comprension' },
   2: { type: 'Rellenar', level: 'General', description: 'Actividad para completar espacios' },
@@ -20,6 +25,7 @@ const FALLBACK_ACTIVITIES = {
 
 let pool;
 const tableCache = new Map();
+let seedKnowledgeCache;
 
 export default async function handler(request, response) {
   applyCors(request, response);
@@ -506,6 +512,7 @@ function hasAnyPhrase(normalized, phrases) {
 
 function hasJaneEyreScopeSignal(normalized) {
   if (resolveCharacterNames(normalized).length > 0) return true;
+  if (hasStaticGlossaryTerm(normalized)) return true;
 
   return hasAnyPhrase(normalized, [
     'jane eyre', 'jane', 'rochester', 'bronte', 'charlotte', 'thornfield', 'lowood', 'gateshead',
@@ -723,6 +730,246 @@ const STATIC_CONTEXT_RESPONSES = [
   },
 ];
 
+const STATIC_STAGE_SUMMARIES = [
+  {
+    keywords: ['gateshead', 'infancia'],
+    start: 1,
+    end: 4,
+    title: 'Resumen Gateshead (capitulos 1-4)',
+    response: 'Jane vive oprimida en Gateshead con la familia Reed. El maltrato de John Reed y el encierro en el Cuarto Rojo despiertan su conciencia de injusticia. Tras hablar con el boticario Lloyd, se abre la posibilidad de ir a Lowood. Antes de marcharse, Jane desafia a la senora Reed y afirma por primera vez su dignidad.',
+  },
+  {
+    keywords: ['lowood'],
+    start: 5,
+    end: 10,
+    title: 'Resumen Lowood (capitulos 5-10)',
+    response: 'Jane llega a Lowood, una escuela dura, fria y marcada por la disciplina religiosa de Brocklehurst. Alli conoce a Helen Burns y a la senora Temple, dos influencias decisivas. El brote de tifus revela la crueldad del sistema, Helen muere y Lowood mejora. Jane crece como alumna y maestra, pero decide buscar libertad fuera de la escuela.',
+  },
+  {
+    keywords: ['thornfield', 'rochester', 'adele'],
+    start: 11,
+    end: 27,
+    title: 'Resumen Thornfield (capitulos 11-27)',
+    response: 'Jane llega a Thornfield como institutriz de Adele y conoce a Rochester. La atraccion entre ambos crece entre conversaciones intensas, secretos goticos y sucesos extranos atribuidos a Grace Poole. Rochester propone matrimonio, pero en la boda se descubre que ya esta casado con Bertha Mason. Jane rechaza ser amante y huye para proteger su conciencia.',
+  },
+  {
+    keywords: ['moor house', 'whitcross', 'morton', 'st john', 'rivers'],
+    start: 28,
+    end: 35,
+    title: 'Resumen Moor House y Morton (capitulos 28-35)',
+    response: 'Tras huir de Thornfield, Jane queda sin dinero ni refugio hasta que Diana, Mary y St. John Rivers la acogen. Recupera dignidad trabajando como maestra y descubre que ellos son sus primos. Tambien hereda la fortuna de su tio y la reparte con ellos. St. John intenta casarse con Jane por deber religioso, pero ella rechaza una vida sin amor.',
+  },
+  {
+    keywords: ['ferndean', 'regreso', 'final'],
+    start: 36,
+    end: 38,
+    title: 'Resumen regreso a Rochester (capitulos 36-38)',
+    response: 'Jane regresa a Thornfield y descubre la mansion destruida por el incendio provocado por Bertha, que muere en la caida. Rochester queda ciego y herido, viviendo retirado en Ferndean. Jane vuelve a el desde una posicion independiente: ya tiene familia, dinero y libertad. La novela termina con un matrimonio mas igualitario y una reconciliacion moral.',
+  },
+];
+
+function getSeedKnowledge() {
+  if (seedKnowledgeCache) return seedKnowledgeCache;
+
+  const knowledge = {
+    glossary: new Map(),
+    summaries: new Map(),
+  };
+
+  try {
+    const sql = readFileSync(SEED_SCHEMA_PATH, 'utf8');
+    parseSeedGlossary(sql, knowledge.glossary);
+    parseSeedSummaries(sql, knowledge.summaries);
+  } catch (error) {
+    console.error('No se pudo cargar fallback local de Litto:', error.message);
+  }
+
+  seedKnowledgeCache = knowledge;
+  return seedKnowledgeCache;
+}
+
+function parseSeedGlossary(sql, glossary) {
+  const block = getSqlInsertBlock(sql, 'glossary');
+  const rowPattern = /\(\d+,\s*1,\s*'((?:''|[^'])*)',\s*'((?:''|[^'])*)'\)(?:,|$)/g;
+  let match;
+
+  while ((match = rowPattern.exec(block)) !== null) {
+    const concept = decodeSqlString(match[1]);
+    const definition = decodeSqlString(match[2]);
+    glossary.set(normalizeText(concept), { concept, definition });
+  }
+}
+
+function parseSeedSummaries(sql, summaries) {
+  const block = getSqlInsertBlock(sql, 'summaries');
+  const rowPattern = /\(\d+,\s*1,\s*(\d+),\s*'[^']*',\s*'([\s\S]*?)'\)(?:,|$)/g;
+  let match;
+
+  while ((match = rowPattern.exec(block)) !== null) {
+    const chapter = Number.parseInt(match[1], 10);
+    if (!Number.isInteger(chapter)) continue;
+
+    summaries.set(chapter, cleanText(decodeSqlString(match[2]), 1600));
+  }
+}
+
+function getSqlInsertBlock(sql, tableName) {
+  const start = sql.indexOf(`INSERT INTO "${tableName}"`);
+  if (start === -1) return '';
+
+  const end = sql.indexOf('\n;', start);
+  return end === -1 ? sql.slice(start) : sql.slice(start, end);
+}
+
+function decodeSqlString(value) {
+  return String(value || '').replace(/''/g, "'");
+}
+
+function getStaticGlossaryResponse(normalized, { listWhenNoTerm = true } = {}) {
+  const entry = findStaticGlossaryEntry(normalized);
+  if (entry) {
+    return `${entry.concept}: ${cleanText(entry.definition, 650)}`;
+  }
+
+  if (!listWhenNoTerm || !hasGlossaryIntent(normalized)) {
+    return null;
+  }
+
+  const concepts = [...getSeedKnowledge().glossary.values()].map((item) => item.concept);
+  if (concepts.length === 0) return null;
+
+  return `Glosario de Jane Eyre: ${concepts.join(', ')}. Pregunta por cualquiera de estos terminos y te doy la definicion.`;
+}
+
+function findStaticGlossaryEntry(normalized) {
+  for (const entry of getSeedKnowledge().glossary.values()) {
+    if (glossaryEntryMatches(entry, normalized)) {
+      return entry;
+    }
+  }
+
+  return null;
+}
+
+function glossaryEntryMatches(entry, normalized) {
+  const normalizedConcept = normalizeText(entry.concept);
+  if (hasPhrase(normalized, normalizedConcept)) return true;
+
+  return normalizedConcept
+    .split(' ')
+    .filter((term) => term.length >= 4)
+    .some((term) => hasPhrase(normalized, term));
+}
+
+function hasStaticGlossaryTerm(normalized) {
+  return Boolean(findStaticGlossaryEntry(normalized));
+}
+
+function hasGlossaryIntent(normalized) {
+  return hasAnyPhrase(normalized, [
+    'glosario',
+    'termino',
+    'terminos',
+    'concepto',
+    'conceptos',
+    'palabra',
+    'significa',
+    'significado',
+    'define',
+    'definicion',
+  ]);
+}
+
+function getStaticChapterResponse(chapterNumber) {
+  const summary = getSeedKnowledge().summaries.get(chapterNumber);
+  if (!summary) {
+    return `No he encontrado el resumen del capitulo ${chapterNumber}. Puedo resumir capitulos del 1 al 38 si el numero existe en Jane Eyre.`;
+  }
+
+  return [
+    `Capitulo ${chapterNumber}`,
+    '',
+    summary,
+  ].join('\n');
+}
+
+function getStaticSummaryResponse(normalized) {
+  if (!hasSummaryIntent(normalized)) return null;
+
+  const range = extractChapterRange(normalized);
+  if (range) {
+    return getStaticChapterRangeResponse(range.start, range.end);
+  }
+
+  const stage = STATIC_STAGE_SUMMARIES.find((item) => item.keywords.some((keyword) => hasPhrase(normalized, keyword)));
+  if (stage) {
+    return `${stage.title}\n\n${stage.response}`;
+  }
+
+  if (hasAnyPhrase(normalized, ['capitulos', 'resumenes'])) {
+    return 'Puedo resumir capitulos concretos de Jane Eyre del 1 al 38. Ejemplos: "resumen capitulo 1", "resumen capitulo 11", "resumen capitulos 5 a 10", "resumen de Lowood" o "resumen de Thornfield".';
+  }
+
+  return 'Jane Eyre cuenta la formacion moral de Jane, una huerfana que pasa de Gateshead a Lowood, Thornfield, Moor House y Ferndean. La novela sigue su busqueda de libertad, dignidad, amor e independencia, hasta que puede elegir a Rochester sin renunciar a su conciencia.';
+}
+
+function hasSummaryIntent(normalized) {
+  return hasAnyPhrase(normalized, [
+    'resumen',
+    'resumenes',
+    'resumeme',
+    'sinopsis',
+    'argumento',
+    'trama',
+    'capitulo',
+    'capitulos',
+    'chapter',
+  ]);
+}
+
+function extractChapterRange(normalized) {
+  if (!hasAnyPhrase(normalized, ['capitulos', 'resumenes'])) return null;
+
+  const numbers = normalized
+    .split(' ')
+    .map((token) => Number.parseInt(token, 10))
+    .filter((number) => Number.isInteger(number) && number >= 1 && number <= 38);
+
+  if (numbers.length < 2) return null;
+
+  const [left, right] = numbers;
+  if (left === right) return null;
+
+  return {
+    start: Math.min(left, right),
+    end: Math.max(left, right),
+  };
+}
+
+function getStaticChapterRangeResponse(start, end) {
+  const stage = STATIC_STAGE_SUMMARIES.find((item) => item.start === start && item.end === end);
+  if (stage) {
+    return `${stage.title}\n\n${stage.response}`;
+  }
+
+  const summaries = getSeedKnowledge().summaries;
+  const count = end - start + 1;
+
+  if (count > 6) {
+    return `Resumen capitulos ${start}-${end}\n\nEs un tramo amplio. Pide un capitulo concreto para ver el detalle, por ejemplo "resumen capitulo ${start}".`;
+  }
+
+  const parts = [`Resumen capitulos ${start}-${end}`, ''];
+  for (let chapter = start; chapter <= end; chapter += 1) {
+    const summary = summaries.get(chapter);
+    if (summary) {
+      parts.push(`Capitulo ${chapter}: ${cleanText(summary, 360)}`);
+    }
+  }
+
+  return parts.join('\n');
+}
+
 function getStaticKnowledgeResponse(normalized) {
   const context = getStaticEntryResponse(STATIC_CONTEXT_RESPONSES, normalized);
   if (context) return context;
@@ -815,9 +1062,24 @@ async function searchKnowledge(message, normalized) {
     return getJaneRochesterResponse();
   }
 
+  const chapterRange = extractChapterRange(normalized);
+  if (chapterRange) {
+    return getStaticChapterRangeResponse(chapterRange.start, chapterRange.end);
+  }
+
   const chapterNumber = extractChapterNumber(normalized);
   if (chapterNumber !== null) {
     return await getChapterResponse(chapterNumber);
+  }
+
+  const staticGlossary = getStaticGlossaryResponse(normalized);
+  if (staticGlossary && (hasGlossaryIntent(normalized) || hasStaticGlossaryTerm(normalized))) {
+    return staticGlossary;
+  }
+
+  const staticSummary = getStaticSummaryResponse(normalized);
+  if (staticSummary) {
+    return staticSummary;
   }
 
   const staticResponse = getStaticKnowledgeResponse(normalized);
@@ -867,10 +1129,18 @@ async function searchKnowledge(message, normalized) {
   }
 
   if (/(glosario|termino|concepto|palabra)/.test(normalized)) {
-    const glossary = await firstLike('glossary', ['concept', 'definition'], terms);
-    if (glossary) {
-      return `${glossary.concept}: ${cleanText(glossary.definition, 650)}`;
+    try {
+      const glossary = await firstLike('glossary', ['concept', 'definition'], terms);
+      if (glossary) {
+        return `${glossary.concept}: ${cleanText(glossary.definition, 650)}`;
+      }
+    } catch (error) {
+      if (!isKnowledgeLookupError(error)) {
+        throw error;
+      }
     }
+
+    return getStaticGlossaryResponse(normalized);
   }
 
   if (/(tema|simbolo|fuego|hielo|naturaleza|roja|habitacion)/.test(normalized)) {
@@ -886,10 +1156,18 @@ async function searchKnowledge(message, normalized) {
   }
 
   if (/(capitulo|resumen|obra|historia)/.test(normalized)) {
-    const summary = await firstLike('summaries', ['chapter', 'tipo', 'contenido'], terms);
-    if (summary) {
-      return `${summary.chapter || 'Resumen'}: ${cleanText(summary.contenido, 1400)}`;
+    try {
+      const summary = await firstLike('summaries', ['chapter', 'tipo', 'contenido'], terms);
+      if (summary) {
+        return `${summary.chapter || 'Resumen'}: ${cleanText(summary.contenido, 1400)}`;
+      }
+    } catch (error) {
+      if (!isKnowledgeLookupError(error)) {
+        throw error;
+      }
     }
+
+    return getStaticSummaryResponse(normalized);
   }
 
   if (/(contexto|historico|bronte|charlotte|victoriana|inglaterra)/.test(normalized)) {
@@ -1063,42 +1341,50 @@ const ROMAN_CHAPTERS = {
 };
 
 async function getChapterResponse(chapterNumber) {
-  if (!await tableExists('summaries')) {
-    return `No he encontrado el resumen del capitulo ${chapterNumber} en la base de datos.`;
-  }
+  try {
+    if (!await tableExists('summaries')) {
+      return getStaticChapterResponse(chapterNumber);
+    }
 
-  const summaryRows = await query(
-    'SELECT chapter, contenido FROM summaries WHERE work_id = 1 AND chapter::text = $1 LIMIT 1',
-    [String(chapterNumber)],
-  );
-
-  if (summaryRows.length === 0) {
-    return `No he encontrado el resumen del capitulo ${chapterNumber} en la base de datos.`;
-  }
-
-  const parts = [
-    `Capitulo ${chapterNumber}`,
-    '',
-    cleanText(summaryRows[0].contenido, 1600),
-  ];
-
-  if (await tableExists('blocks')) {
-    const blockRows = await query(
-      'SELECT concepto_clave, nota_chatbot FROM blocks WHERE work_id = 1 AND titulo ILIKE $1 LIMIT 1',
-      [`%Capítulo ${chapterNumber}%`],
+    const summaryRows = await query(
+      'SELECT chapter, contenido FROM summaries WHERE work_id = 1 AND chapter::text = $1 LIMIT 1',
+      [String(chapterNumber)],
     );
-    const block = blockRows[0];
 
-    if (block?.concepto_clave) {
-      parts.push('', `Idea clave: ${cleanText(block.concepto_clave, 220)}`);
+    if (summaryRows.length === 0) {
+      return getStaticChapterResponse(chapterNumber);
     }
 
-    if (block?.nota_chatbot) {
-      parts.push(`Lectura guiada: ${cleanText(block.nota_chatbot, 260)}`);
+    const parts = [
+      `Capitulo ${chapterNumber}`,
+      '',
+      cleanText(summaryRows[0].contenido, 1600),
+    ];
+
+    if (await tableExists('blocks')) {
+      const blockRows = await query(
+        'SELECT concepto_clave, nota_chatbot FROM blocks WHERE work_id = 1 AND titulo ILIKE $1 LIMIT 1',
+        [`%Capítulo ${chapterNumber}%`],
+      );
+      const block = blockRows[0];
+
+      if (block?.concepto_clave) {
+        parts.push('', `Idea clave: ${cleanText(block.concepto_clave, 220)}`);
+      }
+
+      if (block?.nota_chatbot) {
+        parts.push(`Lectura guiada: ${cleanText(block.nota_chatbot, 260)}`);
+      }
     }
+
+    return parts.join('\n');
+  } catch (error) {
+    if (!isKnowledgeLookupError(error)) {
+      throw error;
+    }
+
+    return getStaticChapterResponse(chapterNumber);
   }
-
-  return parts.join('\n');
 }
 
 const CHARACTER_ALIASES = [
