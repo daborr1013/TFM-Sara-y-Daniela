@@ -103,20 +103,31 @@ nav a:focus-visible {
     list-style: none;
     display: flex;
     justify-content: center;
-    gap: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px 20px;
     padding: 10px 20px;
     margin-top: 20px;
 }
 
 .menu li {
     position: relative;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
 }
 
-.menu a {
+.menu > li > a,
+.menu > li > .nav-action {
     text-decoration: none;
     color: #f7f1ff;
     padding: 8px 12px;
-    display: block;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+    min-height: 40px;
+    border-radius: 999px;
 }
 
 .menu .nav-action {
@@ -125,13 +136,16 @@ nav a:focus-visible {
     box-shadow: none !important;
     color: #f7f1ff !important;
     cursor: pointer;
-    display: block !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
     font: inherit !important;
     line-height: inherit !important;
     margin: 0 !important;
     padding: 8px 12px !important;
     text-align: center;
     width: auto !important;
+    white-space: nowrap;
 }
 
 .menu .nav-action:hover,
