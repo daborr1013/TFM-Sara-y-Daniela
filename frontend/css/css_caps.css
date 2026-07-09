@@ -347,18 +347,6 @@ h1 {
   color: #5f3f8f;
 }
 
-.chapter-quickview__badge {
-  display: inline-block;
-  padding: 0.2rem 0.5rem;
-  border-radius: 999px;
-  background: #6a4c93;
-  color: white;
-  font-size: 0.7rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-
 .chapter-quickview__list {
   list-style: none;
   padding: 0;
