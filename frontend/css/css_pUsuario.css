@@ -85,6 +85,28 @@ header {
     transition: all 0.3s;
 }
 
+.menu .nav-action {
+    background: transparent !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    color: #f7f1ff !important;
+    cursor: pointer;
+    display: block !important;
+    font: inherit !important;
+    font-size: 14px !important;
+    line-height: inherit !important;
+    margin: 0 !important;
+    padding: 8px 16px !important;
+    text-align: center;
+    width: auto !important;
+}
+
+.menu .nav-action:hover,
+.menu .nav-action:focus {
+    color: var(--gold) !important;
+    background: rgba(255, 255, 255, 0.1) !important;
+}
+
 .menu a:hover {
     color: var(--gold);
     background: rgba(255, 255, 255, 0.1);

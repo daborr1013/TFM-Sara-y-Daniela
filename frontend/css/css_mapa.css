@@ -334,8 +334,9 @@ h1 {
   .legend {
     position: absolute;
     right: 12px;
-    top: 68px;
-    bottom: auto;
+    top: auto;
+    bottom: 12px;
+    left: auto;
     gap: 8px;
     padding: 10px 12px;
   }
@@ -367,13 +368,26 @@ h1 {
 
 @media (max-width: 520px) {
   .legend {
-    top: 64px;
-    bottom: auto;
-    left: 12px;
+    top: auto;
+    bottom: 10px;
+    left: auto;
     right: 12px;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    max-width: min(210px, 46vw);
+    padding: 8px 10px;
+  }
+
+  .legend-item {
+    gap: 6px;
+    font-size: 10px;
+    line-height: 1.15;
+  }
+
+  .legend-color {
+    width: 22px;
+    flex: 0 0 22px;
   }
 
   .modal-content h2,

@@ -111,6 +111,26 @@ nav a:focus-visible {
     display: block;
 }
 
+.menu .nav-action {
+    background: transparent !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    color: white !important;
+    cursor: pointer;
+    display: block !important;
+    font: inherit !important;
+    line-height: inherit !important;
+    margin: 0 !important;
+    padding: 8px 12px !important;
+    text-align: center;
+    width: auto !important;
+}
+
+.menu .nav-action:hover,
+.menu .nav-action:focus {
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
 .dropdown-menu {
     display: none;
     position: absolute;
