@@ -1021,6 +1021,16 @@ main > .layout > .pjustificado {
 }
 
 /* ===== Home editorial refresh ===== */
+[data-auth="in"],
+[data-auth="out"] {
+    display: none !important;
+}
+
+body.authenticated [data-auth="in"],
+body.unauthenticated [data-auth="out"] {
+    display: flex !important;
+}
+
 body {
     background:
         linear-gradient(145deg, rgba(244, 238, 249, 0.95) 0%, rgba(232, 220, 243, 0.94) 48%, rgba(236, 228, 244, 0.96) 100%),

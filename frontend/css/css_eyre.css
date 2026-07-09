@@ -967,6 +967,16 @@ details[open] summary {
     --eyre-mist: #efe8f8;
 }
 
+[data-auth="in"],
+[data-auth="out"] {
+    display: none !important;
+}
+
+body.authenticated [data-auth="in"],
+body.unauthenticated [data-auth="out"] {
+    display: flex !important;
+}
+
 html,
 body {
     overflow-x: hidden;
