@@ -1047,28 +1047,6 @@ body {
     width: min(100%, 680px);
 }
 
-.visually-hidden {
-    position: absolute !important;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    border: 0;
-}
-
-.hero-logo {
-    display: block;
-    width: min(100%, 480px);
-    height: auto;
-    margin: 0 0 1.1rem;
-    filter:
-        drop-shadow(0 16px 24px rgba(0, 0, 0, 0.32))
-        drop-shadow(0 0 22px rgba(245, 231, 183, 0.18));
-}
-
 .home-hero h1 {
     font-size: clamp(3rem, 7vw, 5.5rem);
     line-height: 0.98;
@@ -1145,8 +1123,92 @@ body {
     box-shadow: 0 18px 38px rgba(42, 29, 63, 0.12);
 }
 
+.reading-flow {
+    display: grid;
+    grid-template-columns: 0.8fr 1.6fr;
+    gap: 22px;
+    width: min(100%, 1120px);
+    padding: 1.4rem;
+    border-radius: 24px;
+    background: rgba(42, 29, 63, 0.9);
+    color: #fffaf2;
+    box-shadow: 0 18px 42px rgba(42, 29, 63, 0.18);
+}
+
+.flow-intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 0.5rem;
+}
+
+.flow-intro h2 {
+    margin: 0;
+    color: #ffffff;
+    font-size: clamp(1.45rem, 3vw, 2.2rem);
+    font-style: normal;
+    line-height: 1.1;
+}
+
+.flow-steps {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 12px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    counter-reset: none;
+}
+
+.flow-steps li {
+    min-height: 160px;
+    padding: 1.1rem;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    text-align: left;
+}
+
+.flow-steps span {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    margin-bottom: 0.85rem;
+    border-radius: 50%;
+    background: #f2d48a;
+    color: #2a1d3f;
+    font-weight: 800;
+    font-size: 0.8rem;
+}
+
+.flow-steps strong {
+    display: block;
+    color: #ffffff;
+    font-size: 1.02rem;
+    line-height: 1.25;
+}
+
+.flow-steps p {
+    margin: 0.6rem 0 0;
+    color: rgba(255, 250, 242, 0.84);
+    font-size: 0.95rem;
+    line-height: 1.55;
+}
+
 .panel-side {
     text-align: left;
+}
+
+.panel-brand-logo {
+    display: block;
+    width: min(100%, 230px);
+    height: auto;
+    margin: 0 auto 1.35rem;
+    border-radius: 16px;
+    box-shadow: 0 14px 30px rgba(42, 29, 63, 0.18);
 }
 
 .feature-list li::before {
@@ -1169,17 +1231,23 @@ body {
         text-align: center;
     }
 
-    .hero-logo {
-        width: min(84vw, 420px);
-        margin-right: auto;
-        margin-left: auto;
-    }
-
     .hero-actions {
         justify-content: center;
     }
 
     .quick-links {
+        grid-template-columns: 1fr;
+    }
+
+    .reading-flow {
+        grid-template-columns: 1fr;
+    }
+
+    .flow-intro {
+        text-align: center;
+    }
+
+    .flow-steps {
         grid-template-columns: 1fr;
     }
 }
