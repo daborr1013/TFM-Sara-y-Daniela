@@ -316,6 +316,72 @@ h1 {
   text-align: center;
 }
 
+.chapter-quickview {
+  float: right;
+  width: min(280px, 100%);
+  margin: 0 0 1rem 1.25rem;
+  padding: 1rem;
+  background: linear-gradient(135deg, rgba(106, 76, 147, 0.1), rgba(248, 233, 216, 0.95));
+  border: 1px solid rgba(106, 76, 147, 0.18);
+  border-radius: 16px;
+  box-shadow: 0 10px 24px rgba(42, 29, 63, 0.08);
+}
+
+.chapter-quickview__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.chapter-quickview h2 {
+  margin: 0;
+  font-size: 1rem;
+  color: #5f3f8f;
+}
+
+.chapter-quickview__badge {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  background: #6a4c93;
+  color: white;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.chapter-quickview__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.65rem;
+}
+
+.chapter-quickview__list li {
+  display: grid;
+  gap: 0.2rem;
+  padding: 0.5rem 0;
+  border-top: 1px solid rgba(106, 76, 147, 0.14);
+}
+
+.chapter-quickview__list li:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.chapter-quickview__list strong {
+  color: #4f3578;
+}
+
+.chapter-quickview__list span {
+  font-size: 0.9rem;
+  color: #5a4a4a;
+}
+
 main p {
   text-indent: 25px;
   text-align: justify;
@@ -488,6 +554,12 @@ main p {
 }
 
 @media (max-width: 1024px) {
+  .chapter-quickview {
+    float: none;
+    width: 100%;
+    margin: 0 0 1rem 0;
+  }
+
   .layout {
     flex-direction: column;
     align-items: stretch;
