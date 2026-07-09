@@ -125,14 +125,20 @@ nav a:focus-visible {
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    gap: 6px;
     white-space: nowrap;
     min-height: 40px;
     border-radius: 999px;
     line-height: 1.2;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 500;
     width: fit-content;
+    transition: color 0.25s ease, background-color 0.25s ease, outline 0.25s ease;
 }
 
 .menu .nav-action {
+    appearance: none;
     background: transparent !important;
     border: 0 !important;
     box-shadow: none !important;
@@ -141,7 +147,9 @@ nav a:focus-visible {
     display: inline-flex !important;
     align-items: center;
     justify-content: center;
-    font: inherit !important;
+    font-family: inherit !important;
+    font-size: 1rem !important;
+    font-weight: 500 !important;
     line-height: 1.2 !important;
     margin: 0 !important;
     padding: 8px 12px !important;
@@ -151,9 +159,18 @@ nav a:focus-visible {
 }
 
 .menu .nav-action:hover,
-.menu .nav-action:focus {
+.menu .nav-action:focus,
+.menu .nav-action:focus-visible {
     background-color: rgba(240, 217, 166, 0.15) !important;
     color: #f0d9a6 !important;
+}
+
+.dropdown > a::after {
+    content: "▾";
+    font-size: 0.75em;
+    line-height: 1;
+    margin-top: 1px;
+    opacity: 0.86;
 }
 
 .dropdown-menu {
@@ -182,7 +199,8 @@ nav a:focus-visible {
     /* Smooth color transition */
 }
 
-.dropdown:hover .dropdown-menu {
+.dropdown:hover .dropdown-menu,
+.dropdown:focus-within .dropdown-menu {
     display: block;
 }
 
@@ -878,6 +896,10 @@ main > .layout > .pjustificado {
         margin: 0;
         padding: 10px 8px;
         text-align: center;
+    }
+
+    .menu .nav-action {
+        width: 100% !important;
     }
 
     .dropdown-menu {

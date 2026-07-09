@@ -94,30 +94,39 @@ header {
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    gap: 6px;
     white-space: nowrap;
     min-height: 40px;
     line-height: 1.2;
-    transition: all 0.3s;
+    font-family: inherit;
+    width: fit-content;
+    transition: color 0.25s ease, background-color 0.25s ease, outline 0.25s ease;
 }
 
 .menu .nav-action {
+    appearance: none;
     background: transparent !important;
     border: 0 !important;
     box-shadow: none !important;
     color: #f7f1ff !important;
     cursor: pointer;
     display: inline-flex !important;
-    font: inherit !important;
+    align-items: center;
+    justify-content: center;
+    font-family: inherit !important;
     font-size: 14px !important;
+    font-weight: 500 !important;
     line-height: 1.2 !important;
     margin: 0 !important;
     padding: 8px 12px !important;
     text-align: center;
     width: fit-content !important;
+    white-space: nowrap;
 }
 
 .menu .nav-action:hover,
-.menu .nav-action:focus {
+.menu .nav-action:focus,
+.menu .nav-action:focus-visible {
     color: var(--gold) !important;
     background: rgba(255, 255, 255, 0.1) !important;
 }
@@ -129,6 +138,14 @@ header {
 
 .dropdown {
     position: relative;
+}
+
+.dropdown > a::after {
+    content: "▾";
+    font-size: 0.75em;
+    line-height: 1;
+    margin-top: 1px;
+    opacity: 0.86;
 }
 
 .dropdown-menu {
@@ -571,9 +588,14 @@ footer {
         text-align: center;
     }
 
-    .menu a {
-        display: block;
+    .menu a,
+    .menu .nav-action {
+        display: flex;
+        align-items: center;
+        justify-content: center;
         padding: 10px 8px;
+        width: 100% !important;
+        margin: 0;
     }
 
     .dropdown-menu {
