@@ -1019,3 +1019,167 @@ main > .layout > .pjustificado {
         width: min(100%, 240px);
     }
 }
+
+/* ===== Home editorial refresh ===== */
+body {
+    background:
+        linear-gradient(145deg, rgba(244, 238, 249, 0.95) 0%, rgba(232, 220, 243, 0.94) 48%, rgba(236, 228, 244, 0.96) 100%),
+        url("../media/images/thornfield.jpg") center top / cover fixed;
+}
+
+.home-hero {
+    position: relative;
+    overflow: hidden;
+    min-height: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: clamp(58px, 9vw, 92px) clamp(22px, 6vw, 78px);
+    text-align: left;
+    background:
+        linear-gradient(90deg, rgba(42, 29, 63, 0.92) 0%, rgba(42, 29, 63, 0.72) 46%, rgba(42, 29, 63, 0.22) 100%),
+        url("../media/images/thornfield.jpg") center / cover;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 1;
+    width: min(100%, 680px);
+}
+
+.visually-hidden {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+.hero-logo {
+    display: block;
+    width: min(100%, 480px);
+    height: auto;
+    margin: 0 0 1.1rem;
+    filter:
+        drop-shadow(0 16px 24px rgba(0, 0, 0, 0.32))
+        drop-shadow(0 0 22px rgba(245, 231, 183, 0.18));
+}
+
+.home-hero h1 {
+    font-size: clamp(3rem, 7vw, 5.5rem);
+    line-height: 0.98;
+    text-align: left;
+}
+
+.home-hero .hero-subtitle {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 1.6rem;
+}
+
+.hero-actions .boton {
+    margin: 0 !important;
+}
+
+.boton-primary {
+    background: linear-gradient(135deg, #f2d48a 0%, #a8dadc 100%);
+    color: #24182f;
+}
+
+.boton-secondary {
+    background: rgba(255, 255, 255, 0.14);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    color: #ffffff;
+    box-shadow: none;
+}
+
+.quick-links {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+    width: min(100%, 1120px);
+}
+
+.quick-link {
+    display: grid;
+    gap: 0.35rem;
+    min-height: 128px;
+    padding: 1.25rem;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.86);
+    border: 1px solid rgba(95, 63, 143, 0.16);
+    box-shadow: 0 14px 32px rgba(42, 29, 63, 0.08);
+    text-align: left;
+    text-decoration: none;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.quick-link span {
+    color: var(--violet-700);
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.quick-link strong {
+    color: var(--ink);
+    font-size: 1.05rem;
+    line-height: 1.35;
+}
+
+.quick-link:hover,
+.quick-link:focus-visible {
+    transform: translateY(-3px);
+    border-color: rgba(210, 176, 108, 0.64);
+    box-shadow: 0 18px 38px rgba(42, 29, 63, 0.12);
+}
+
+.panel-side {
+    text-align: left;
+}
+
+.feature-list li::before {
+    content: "";
+    top: 0.68em;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--gold);
+}
+
+@media (max-width: 800px) {
+    .home-hero {
+        min-height: 360px;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .home-hero h1 {
+        text-align: center;
+    }
+
+    .hero-logo {
+        width: min(84vw, 420px);
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .hero-actions {
+        justify-content: center;
+    }
+
+    .quick-links {
+        grid-template-columns: 1fr;
+    }
+}
