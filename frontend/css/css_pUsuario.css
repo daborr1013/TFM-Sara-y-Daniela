@@ -127,22 +127,43 @@ header {
     background: rgba(255, 255, 255, 0.1);
 }
 
+.dropdown {
+    position: relative;
+}
+
 .dropdown-menu {
     display: none;
     position: absolute;
-    background: var(--violet-600);
-    min-width: 160px;
-    border-radius: 8px;
-    padding: 10px 0;
+    top: calc(100% + 6px);
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(135deg, #7b5baa 0%, #6a4c93 100%);
+    min-width: 170px;
+    border-radius: 12px;
+    padding: 8px 0;
     z-index: 1000;
+    box-shadow: 0 10px 24px rgba(42, 29, 63, 0.18);
+    border: 1px solid rgba(255,255,255,0.16);
 }
 
-.dropdown:hover .dropdown-menu {
+.dropdown:hover .dropdown-menu,
+.dropdown:focus-within .dropdown-menu {
     display: block;
 }
 
 .dropdown-menu a {
     display: block;
+    padding: 10px 14px;
+    margin: 0;
+    color: #f7f1ff;
+    border-radius: 0;
+    font-size: 13px;
+}
+
+.dropdown-menu a:hover,
+.dropdown-menu a:focus-visible {
+    background: rgba(255, 255, 255, 0.14);
+    color: #fff3c4;
 }
 
 /* ===== LAYOUT PRINCIPAL ===== */
