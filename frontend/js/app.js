@@ -1,9 +1,10 @@
 const configuredApiBase = (window.LITTERALLY_API_URL || window.__LITTERALLY_API_URL__ || '__LITTERALLY_API_URL_VALUE__').trim();
-const apiBase = normalizeApiBase(configuredApiBase);
+const apiBaseCandidates = buildApiBaseCandidates(configuredApiBase);
+let activeApiBase = apiBaseCandidates[0];
 const authTokenKey = 'litterally_auth_token';
 
 if (!configuredApiBase || configuredApiBase.includes('__LITTERALLY_')) {
-  console.warn('VITE_API_URL no configurada; el frontend usará /api como fallback.');
+  console.warn('VITE_API_URL no configurada; el frontend intentará /api y fallbacks conocidos.');
 }
 
 function normalizeApiBase(value) {
@@ -14,20 +15,34 @@ function normalizeApiBase(value) {
   return value.replace(/\/$/, '');
 }
 
-function buildApiUrl(path) {
+function buildApiBaseCandidates(value) {
+  const candidates = [normalizeApiBase(value)];
+
+  if (shouldUseKnownBackendFallback()) {
+    candidates.push('https://back-tfm-sara-daniela.vercel.app');
+  }
+
+  return [...new Set(candidates.filter(Boolean))];
+}
+
+function shouldUseKnownBackendFallback() {
+  return window.location.hostname.endsWith('.vercel.app');
+}
+
+function buildApiUrl(path, base = activeApiBase) {
   const normalizedPath = path.startsWith('/') ? path : `/${path}`;
-  if (!apiBase) {
+  if (!base) {
     return normalizedPath;
   }
 
-  const base = apiBase.replace(/\/$/, '');
+  const normalizedBase = base.replace(/\/$/, '');
   const apiPrefix = '/api';
 
-  if (normalizedPath.startsWith(apiPrefix) && base.endsWith(apiPrefix)) {
-    return `${base}${normalizedPath.slice(apiPrefix.length)}`;
+  if (normalizedPath.startsWith(apiPrefix) && normalizedBase.endsWith(apiPrefix)) {
+    return `${normalizedBase}${normalizedPath.slice(apiPrefix.length)}`;
   }
 
-  return `${base}${normalizedPath}`;
+  return `${normalizedBase}${normalizedPath}`;
 }
 
 const appCss = document.createElement('link');
@@ -43,34 +58,65 @@ async function apiRequest(path, options = {}) {
     ...(options.headers || {}),
   };
 
-  let response;
+  const basesToTry = [
+    activeApiBase,
+    ...apiBaseCandidates.filter((base) => base !== activeApiBase),
+  ];
+  const attemptedUrls = [];
+  let lastError;
 
-  try {
-    response = await fetch(buildApiUrl(path), {
-      credentials: 'include',
-      ...options,
-      headers,
-    });
-  } catch (error) {
-    const attemptedUrl = buildApiUrl(path);
-    console.error('Error de conexión a la API:', attemptedUrl, error);
-    throw new Error(`No se ha podido conectar con la API (${attemptedUrl}). Revisa que VITE_API_URL apunte al backend de Vercel y que FRONTEND_ORIGIN incluya este dominio.`);
+  for (let index = 0; index < basesToTry.length; index += 1) {
+    const base = basesToTry[index];
+    const attemptedUrl = buildApiUrl(path, base);
+    attemptedUrls.push(attemptedUrl);
+
+    let response;
+    try {
+      response = await fetch(attemptedUrl, {
+        credentials: 'include',
+        ...options,
+        headers,
+      });
+    } catch (error) {
+      console.error('Error de conexión a la API:', attemptedUrl, error);
+      lastError = error;
+      continue;
+    }
+
+    const payload = await response.json().catch(() => null);
+    if (shouldTryNextApiBase(response, payload, basesToTry, index)) {
+      lastError = new Error(apiHttpErrorMessage(response.status));
+      lastError.status = response.status;
+      continue;
+    }
+
+    if (!response.ok) {
+      const message = payload?.error || payload?.message || apiHttpErrorMessage(response.status);
+      const error = new Error(message);
+      error.status = response.status;
+      throw error;
+    }
+
+    activeApiBase = base;
+    return payload;
   }
 
-  const payload = await response.json().catch(() => null);
+  const error = new Error(`No se ha podido conectar con la API. URLs probadas: ${attemptedUrls.join(', ')}. Revisa VITE_API_URL en el frontend y FRONTEND_ORIGIN en el backend.`);
+  error.cause = lastError;
+  throw error;
+}
 
-  if (!response.ok) {
-    const message = payload?.error || payload?.message || apiHttpErrorMessage(response.status);
-    const error = new Error(message);
-    error.status = response.status;
-    throw error;
-  }
+function shouldTryNextApiBase(response, _payload, basesToTry, index) {
+  if (index >= basesToTry.length - 1) return false;
 
-  return payload;
+  return response.status === 404 || response.status === 405;
 }
 
 window.LitterallyApi = {
-  baseUrl: apiBase,
+  get baseUrl() {
+    return activeApiBase;
+  },
+  baseUrlCandidates: apiBaseCandidates,
   get: (path) => apiRequest(path),
   post: (path, body) => apiRequest(path, {
     method: 'POST',

@@ -30,7 +30,10 @@
 
             <li><a href="../../about_us.html">Sobre nosotras</a></li>
             <li><a href="../../litto.html">Litto</a></li>
-            <li><a href="../../pUsuario.html">Perfil de usuario</a></li>
+            <li data-auth="in"><a href="../../../content/pUsuario.html">Perfil de usuario</a></li>
+            <li data-auth="in"><button class="nav-action" type="button" data-logout>Cerrar sesión</button></li>
+            <li data-auth="out"><a href="../../../login.html">Iniciar sesión</a></li>
+            <li data-auth="out"><a href="../../../register.html">Registrarse</a></li>
         </ul>
     </nav>
 
@@ -182,6 +185,7 @@
         <p>TFM - Letras Digitales - UCM</p>
     </footer>
 
+    <script type="module" src="/js/app.js"></script>
 </body>
 
 </html>
