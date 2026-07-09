@@ -1047,6 +1047,28 @@ body {
     width: min(100%, 680px);
 }
 
+.visually-hidden {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+.hero-logo {
+    display: block;
+    width: min(100%, 480px);
+    height: auto;
+    margin: 0 0 1.1rem;
+    filter:
+        drop-shadow(0 16px 24px rgba(0, 0, 0, 0.32))
+        drop-shadow(0 0 22px rgba(245, 231, 183, 0.18));
+}
+
 .home-hero h1 {
     font-size: clamp(3rem, 7vw, 5.5rem);
     line-height: 0.98;
@@ -1145,6 +1167,12 @@ body {
 
     .home-hero h1 {
         text-align: center;
+    }
+
+    .hero-logo {
+        width: min(84vw, 420px);
+        margin-right: auto;
+        margin-left: auto;
     }
 
     .hero-actions {
