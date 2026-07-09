@@ -398,47 +398,65 @@ main p {
 /*fin textos*/
 
 /*otros elementos visuales*/
+.boton,
+.cambioAnterior,
 .cambioSiguiente {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   font-family: 'Inter', system-ui, sans-serif;
-  background-color: #694c9337;
+  font-size: 0.95rem;
+  font-weight: 700;
   text-align: center;
-  line-height: 50px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  padding: 15px;
-  border-style: double;
-  border-radius: 20px;
-}
-
-.cambioAnterior {
-  font-family: 'Inter', system-ui, sans-serif;
-  background-color: #694c9337;
-  text-align: center;
-  line-height: 50px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  padding: 15px;
-  border-style: double;
-  border-radius: 20px;
+  line-height: 1.2;
+  min-height: 46px;
+  margin: 0;
+  padding: 12px 22px;
+  border: 2px solid #6a4c93;
+  border-radius: 999px;
+  text-decoration: none;
+  text-indent: 0;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease, color 0.2s ease;
 }
 
 .boton {
-  font-family: 'Inter', system-ui, sans-serif;
-  background-color: #694c9337;
-  text-align: center;
-  line-height: 50px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  padding: 15px;
-  border-style: double;
-  border-radius: 20px;
+  background: linear-gradient(135deg, #6a4c93 0%, #8ecfe8 100%);
+  color: white;
+  box-shadow: 0 10px 22px rgba(95, 63, 143, 0.18);
+}
+
+.cambioAnterior,
+.cambioSiguiente {
+  background-color: #ffffff;
+  color: #5f3f8f;
+}
+
+.boton:hover,
+.cambioAnterior:hover,
+.cambioSiguiente:hover,
+.boton:focus,
+.cambioAnterior:focus,
+.cambioSiguiente:focus {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px rgba(95, 63, 143, 0.2);
+  outline: 0;
+}
+
+.cambioAnterior:hover,
+.cambioSiguiente:hover,
+.cambioAnterior:focus,
+.cambioSiguiente:focus {
+  background-color: #f8f5fb;
+  color: #2a1d3f;
 }
 
 .botonesFinales {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
-  gap: 10px;
-  margin-top: 20px;
+  align-items: center;
+  gap: 12px;
+  margin: 36px auto 20px;
 }
 
 /*notas*/
@@ -658,9 +676,9 @@ main p {
   .boton,
   .cambioAnterior,
   .cambioSiguiente {
-    display: block;
+    display: inline-flex;
     line-height: 1.4;
-    margin: 16px auto;
+    margin: 0 auto;
     width: min(100%, 330px);
   }
 
