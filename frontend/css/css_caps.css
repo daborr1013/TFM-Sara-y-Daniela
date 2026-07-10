@@ -473,7 +473,7 @@ main p {
   background: #ffe35c;
 }
 
-.anotacion::after {
+.anotacion[data-nota]::after {
   content: attr(data-nota);
   position: absolute;
   left: 0;
@@ -516,7 +516,7 @@ main p {
 }
 
 /* Estado visible cuando se hace clic */
-.anotacion.activa::after,
+.anotacion.activa[data-nota]::after,
 .anotacion.activa .nota {
   opacity: 1;
   pointer-events: auto;
@@ -682,13 +682,13 @@ main p {
     width: min(100%, 330px);
   }
 
-  .anotacion::after {
+  .anotacion[data-nota]::after {
     left: 50%;
     width: min(260px, 80vw);
     transform: translate(-50%, -5px);
   }
 
-  .anotacion.activa::after {
+  .anotacion.activa[data-nota]::after {
     transform: translate(-50%, 0);
   }
 }
