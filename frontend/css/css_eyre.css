@@ -107,7 +107,7 @@ nav a:focus-visible {
 
 .menu a {
     text-decoration: none;
-    color: #2a1d3f;
+    color: white;
     padding: 8px 12px;
     display: block;
 }
@@ -1013,6 +1013,7 @@ main {
 
 .menu a,
 .menu .nav-action {
+    color: #ffffff !important;
     border-radius: 999px;
     transition: color 0.25s ease, background-color 0.25s ease, outline 0.25s ease;
 }
