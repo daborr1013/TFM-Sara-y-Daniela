@@ -111,12 +111,6 @@ $progreso_por_tipo = obtenerProgresoPorTipo($conn, $user_id);
                             </div>
                         </div>
                     </div>
-
-                    <div class="card-right">
-                        <div class="barcode">
-                            <img src="../media/images/barcode.avif" alt="Código de barras">
-                        </div>
-                    </div>
                 </div>
 
                 <div class="card-footer">
