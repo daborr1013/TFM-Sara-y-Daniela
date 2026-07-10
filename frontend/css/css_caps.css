@@ -420,14 +420,14 @@ main p {
 }
 
 .boton {
-  background: linear-gradient(135deg, #6a4c93 0%, #8ecfe8 100%);
-  color: white;
+  background: linear-gradient(135deg, #6a4c93 0%, #7b5baa 100%);
+  color: #ffffff;
   box-shadow: 0 10px 22px rgba(95, 63, 143, 0.18);
 }
 
 .cambioAnterior,
 .cambioSiguiente {
-  background-color: #ffffff;
+  background-color: #f8f3eb;
   color: #5f3f8f;
 }
 
