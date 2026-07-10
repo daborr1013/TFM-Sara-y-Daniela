@@ -458,7 +458,8 @@ select:focus {
     font-family: 'Inter', system-ui, sans-serif;
     font-size: 15px;
     font-weight: 600;
-    background: linear-gradient(135deg, #a8dadc 0%, #8ecfe8 100%);
+    background: linear-gradient(135deg, #f8f3eb 0%, #efe8f8 100%);
+    border: 1px solid rgba(95, 63, 143, 0.24);
     text-align: center;
     line-height: normal !important;
     padding: 15px 30px !important;
@@ -1022,19 +1023,15 @@ main > .layout > .pjustificado {
 
 /* ===== Home editorial refresh ===== */
 [data-auth="in"],
-[data-auth="out"] {
+body.authenticated [data-auth="out"],
+body.unauthenticated [data-auth="in"] {
     display: none !important;
 }
 
+[data-auth="out"],
 body.authenticated [data-auth="in"],
 body.unauthenticated [data-auth="out"] {
     display: flex !important;
-}
-
-body {
-    background:
-        linear-gradient(145deg, rgba(244, 238, 249, 0.95) 0%, rgba(232, 220, 243, 0.94) 48%, rgba(236, 228, 244, 0.96) 100%),
-        url("../media/images/thornfield.jpg") center top / cover fixed;
 }
 
 .home-hero {
@@ -1047,7 +1044,7 @@ body {
     padding: clamp(58px, 9vw, 92px) clamp(22px, 6vw, 78px);
     text-align: left;
     background:
-        linear-gradient(90deg, rgba(42, 29, 63, 0.92) 0%, rgba(42, 29, 63, 0.72) 46%, rgba(42, 29, 63, 0.22) 100%),
+        linear-gradient(90deg, rgba(42, 29, 63, 0.86) 0%, rgba(95, 63, 143, 0.62) 50%, rgba(239, 232, 248, 0.08) 100%),
         url("../media/images/thornfield.jpg") center / cover;
 }
 
@@ -1080,7 +1077,8 @@ body {
 }
 
 .boton-primary {
-    background: linear-gradient(135deg, #f2d48a 0%, #a8dadc 100%);
+    background: linear-gradient(135deg, #f8f3eb 0%, #efe8f8 100%);
+    border: 1px solid rgba(95, 63, 143, 0.26);
     color: #24182f;
 }
 
@@ -1091,48 +1089,6 @@ body {
     box-shadow: none;
 }
 
-.quick-links {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 16px;
-    width: min(100%, 1120px);
-}
-
-.quick-link {
-    display: grid;
-    gap: 0.35rem;
-    min-height: 128px;
-    padding: 1.25rem;
-    border-radius: 18px;
-    background: rgba(255, 255, 255, 0.86);
-    border: 1px solid rgba(95, 63, 143, 0.16);
-    box-shadow: 0 14px 32px rgba(42, 29, 63, 0.08);
-    text-align: left;
-    text-decoration: none;
-    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
-}
-
-.quick-link span {
-    color: var(--violet-700);
-    font-size: 0.78rem;
-    font-weight: 800;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-}
-
-.quick-link strong {
-    color: var(--ink);
-    font-size: 1.05rem;
-    line-height: 1.35;
-}
-
-.quick-link:hover,
-.quick-link:focus-visible {
-    transform: translateY(-3px);
-    border-color: rgba(210, 176, 108, 0.64);
-    box-shadow: 0 18px 38px rgba(42, 29, 63, 0.12);
-}
-
 .reading-flow {
     display: grid;
     grid-template-columns: 0.8fr 1.6fr;
@@ -1140,7 +1096,7 @@ body {
     width: min(100%, 1120px);
     padding: 1.4rem;
     border-radius: 24px;
-    background: rgba(42, 29, 63, 0.9);
+    background: linear-gradient(135deg, rgba(42, 29, 63, 0.94), rgba(95, 63, 143, 0.9));
     color: #fffaf2;
     box-shadow: 0 18px 42px rgba(42, 29, 63, 0.18);
 }
@@ -1188,7 +1144,7 @@ body {
     height: 38px;
     margin-bottom: 0.85rem;
     border-radius: 50%;
-    background: #f2d48a;
+    background: #efe8f8;
     color: #2a1d3f;
     font-weight: 800;
     font-size: 0.8rem;
@@ -1212,22 +1168,13 @@ body {
     text-align: left;
 }
 
-.panel-brand-logo {
-    display: block;
-    width: min(100%, 230px);
-    height: auto;
-    margin: 0 auto 1.35rem;
-    border-radius: 16px;
-    box-shadow: 0 14px 30px rgba(42, 29, 63, 0.18);
-}
-
 .feature-list li::before {
     content: "";
     top: 0.68em;
     width: 7px;
     height: 7px;
     border-radius: 50%;
-    background: var(--gold);
+    background: var(--violet-600);
 }
 
 @media (max-width: 800px) {
@@ -1243,10 +1190,6 @@ body {
 
     .hero-actions {
         justify-content: center;
-    }
-
-    .quick-links {
-        grid-template-columns: 1fr;
     }
 
     .reading-flow {

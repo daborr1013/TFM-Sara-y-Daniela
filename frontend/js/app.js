@@ -133,6 +133,11 @@ function setAuthState(user) {
   document.dispatchEvent(new CustomEvent('litterally:auth', { detail: { user } }));
 }
 
+function setAuthShellState(isAuthenticated) {
+  document.body.classList.toggle('authenticated', Boolean(isAuthenticated));
+  document.body.classList.toggle('unauthenticated', !isAuthenticated);
+}
+
 function apiHttpErrorMessage(status) {
   if (status === 404) {
     return 'No se ha encontrado la API. Comprueba VITE_API_URL en Vercel; el frontend puede estar llamando al dominio equivocado.';
@@ -162,6 +167,14 @@ function setAuthToken(token) {
 }
 
 async function loadCurrentUser() {
+  const token = getAuthToken();
+  if (!token) {
+    setAuthState(null);
+    return;
+  }
+
+  setAuthShellState(true);
+
   try {
     const data = await apiRequest('/api/me');
     setAuthState(data.user);
