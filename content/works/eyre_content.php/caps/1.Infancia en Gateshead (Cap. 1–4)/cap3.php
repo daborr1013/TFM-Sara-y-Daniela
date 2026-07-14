@@ -660,6 +660,16 @@
 
                 <p>Se fueron.</p>
 
+<div class="caja-reflexion" style="background-color: #f9f6f0; border-left: 4px solid #8b5a2b; padding: 20px; margin: 30px 0; border-radius: 4px;">
+    <h3 style="margin-top: 0; color: #5c3a21;">Reflexión del Capítulo III</h3>
+    <p class="pregunta-reflexion" style="font-style: italic; font-size: 1.1em;">
+        Cuando el boticario le sugiere ir a la escuela, Jane ve una salida. ¿Qué nos revela este momento sobre la educación como única vía de escape y movilidad para las mujeres sin recursos en la época victoriana?
+    </p>
+    <form action="#" method="POST">
+        <textarea name="reflexion_cap3" placeholder="Escribe aquí tus pensamientos sobre este capítulo..." style="width: 100%; padding: 10px; margin-top: 10px; border: 1px solid #ccc; border-radius: 4px; resize: vertical;" rows="4"></textarea>
+    </form>
+</div>
+
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap2.php" rel="prev">Anterior</a>
                     <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>

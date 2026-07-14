@@ -1031,6 +1031,16 @@
                     encantadoras y me cantó algunas de sus canciones más dulces.
                     Incluso para mí, la vida tenía sus destellos de sol.</p>
 
+<div class="caja-reflexion" style="background-color: #f9f6f0; border-left: 4px solid #8b5a2b; padding: 20px; margin: 30px 0; border-radius: 4px;">
+    <h3 style="margin-top: 0; color: #5c3a21;">Reflexión del Capítulo IV</h3>
+    <p class="pregunta-reflexion" style="font-style: italic; font-size: 1.1em;">
+        Compara la severa visión religiosa del señor Brocklehurst con el sentido de rectitud que empieza a desarrollar Jane. ¿En qué se diferencian fundamentalmente sus conceptos de "ser bueno"?
+    </p>
+    <form action="#" method="POST">
+        <textarea name="reflexion_cap4" placeholder="Escribe aquí tus pensamientos sobre este capítulo..." style="width: 100%; padding: 10px; margin-top: 10px; border: 1px solid #ccc; border-radius: 4px; resize: vertical;" rows="4"></textarea>
+    </form>
+</div>
+
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap3.php" rel="prev">Anterior</a>
                     <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>

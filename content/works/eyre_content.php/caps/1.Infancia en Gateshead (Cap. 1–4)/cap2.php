@@ -499,6 +499,16 @@
                     alejarse; y poco después de que se marchara, supongo que sufrí una
                     especie de ataque: la pérdida del conocimiento cerró la escena.</p>
 
+<div class="caja-reflexion" style="background-color: #f9f6f0; border-left: 4px solid #8b5a2b; padding: 20px; margin: 30px 0; border-radius: 4px;">
+    <h3 style="margin-top: 0; color: #5c3a21;">Reflexión del Capítulo II</h3>
+    <p class="pregunta-reflexion" style="font-style: italic; font-size: 1.1em;">
+        El "cuarto rojo" es uno de los símbolos más famosos de la literatura. ¿De qué manera esta habitación representa los miedos internos de Jane y la opresión de la sociedad que la rodea?
+    </p>
+    <form action="#" method="POST">
+        <textarea name="reflexion_cap2" placeholder="Escribe aquí tus pensamientos sobre este capítulo..." style="width: 100%; padding: 10px; margin-top: 10px; border: 1px solid #ccc; border-radius: 4px; resize: vertical;" rows="4"></textarea>
+    </form>
+</div>
+
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap1.php" rel="prev">Anterior</a>
                     <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>

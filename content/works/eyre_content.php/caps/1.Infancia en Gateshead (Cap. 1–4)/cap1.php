@@ -402,6 +402,16 @@
                 <p>Cuatro manos se posaron inmediatamente sobre mí y fui
                     conducida escaleras arriba.</p>
 
+<div class="caja-reflexion" style="background-color: #f9f6f0; border-left: 4px solid #8b5a2b; padding: 20px; margin: 30px 0; border-radius: 4px;">
+    <h3 style="margin-top: 0; color: #5c3a21;">Reflexión del Capítulo I</h3>
+    <p class="pregunta-reflexion" style="font-style: italic; font-size: 1.1em;">
+        ¿Cómo influye el aislamiento físico y emocional que sufre Jane en su forma de percibir la injusticia y las diferencias de clase dentro de la casa de los Reed?
+    </p>
+    <form action="#" method="POST">
+        <textarea name="reflexion_cap1" placeholder="Escribe aquí tus pensamientos sobre este capítulo..." style="width: 100%; padding: 10px; margin-top: 10px; border: 1px solid #ccc; border-radius: 4px; resize: vertical;" rows="4"></textarea>
+    </form>
+</div>
+
                 <div class="botonesFinales">
                     <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
                     <a class="cambioSiguiente" href="cap2.php" rel="next">Siguiente</a>
