@@ -1006,22 +1006,22 @@ main {
     box-shadow: 0 10px 20px rgba(42, 29, 63, 0.2);
 }
 
-.menu {
+.navbar .menu {
     align-items: center;
     flex-wrap: wrap;
 }
 
-.menu a,
-.menu .nav-action {
+.navbar .menu a,
+.navbar .menu .nav-action {
     color: #ffffff !important;
     border-radius: 999px;
     transition: color 0.25s ease, background-color 0.25s ease, outline 0.25s ease;
 }
 
-.menu a:hover,
-.menu a:focus-visible,
-.menu .nav-action:hover,
-.menu .nav-action:focus-visible {
+.navbar .menu a:hover,
+.navbar .menu a:focus-visible,
+.navbar .menu .nav-action:hover,
+.navbar .menu .nav-action:focus-visible {
     color: #f5e7b7 !important;
     background-color: rgba(245, 231, 183, 0.15) !important;
 }
