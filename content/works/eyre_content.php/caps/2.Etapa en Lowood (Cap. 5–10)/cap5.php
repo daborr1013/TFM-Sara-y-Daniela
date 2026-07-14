@@ -747,6 +747,16 @@
                     torta de avena, las oraciones y a la cama. Tal fue mi primer día en
                     Lowood.</p>
 
+<div class="caja-reflexion" style="background-color: #f9f6f0; border-left: 4px solid #8b5a2b; padding: 20px; margin: 30px 0; border-radius: 4px;">
+    <h3 style="margin-top: 0; color: #5c3a21;">Reflexión del Capítulo V</h3>
+    <p class="pregunta-reflexion" style="font-style: italic; font-size: 1.1em;">
+        ¿Cómo refleja el ambiente físico de Lowood (el frío, la ropa insuficiente, la comida quemada) la privación emocional y afectiva a la que están sometidas las alumnas?
+    </p>
+    <form action="#" method="POST">
+        <textarea name="reflexion_cap5" placeholder="Escribe aquí tus pensamientos sobre este capítulo..." style="width: 100%; padding: 10px; margin-top: 10px; border: 1px solid #ccc; border-radius: 4px; resize: vertical;" rows="4"></textarea>
+    </form>
+</div>
+
                 <div class="botonesFinales">
                     <a class="cambioAnterior" href="cap4.php" rel="prev">Anterior</a>
                     <a class="boton" href="../../contenido_eyre.php">Regresa al menú de capítulos</a>
