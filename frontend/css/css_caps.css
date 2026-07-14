@@ -500,6 +500,36 @@ main p {
   border-color: #6a4c93;
 }
 
+.reflexion-acciones {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-top: 14px;
+}
+
+.boton-guardar-reflexion {
+  border: 0;
+  border-radius: 8px;
+  padding: 10px 16px;
+  background: #6a4c93;
+  color: #fff;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.boton-guardar-reflexion:hover,
+.boton-guardar-reflexion:focus-visible {
+  background: #50356f;
+}
+
+.estado-reflexion {
+  margin: 0;
+  color: #4e3a28;
+  font-size: 0.92rem;
+  text-align: left;
+}
+
 /*notas*/
 .anotacion {
   position: relative;

@@ -334,6 +334,7 @@ function setupProfile() {
     page.querySelector('[data-user-email]').textContent = user.email;
     page.querySelector('[data-user-id]').textContent = String(user.id).padStart(5, '0') + 'A';
     page.querySelector('[data-user-year]').textContent = user.registeredYear || '';
+    renderSavedReflections(page);
 
     try {
       const data = await apiRequest('/api/progress');
@@ -342,6 +343,37 @@ function setupProfile() {
       page.querySelector('[data-progress-history]').innerHTML = `<div class="profile-error">${error.message}</div>`;
     }
   });
+}
+
+function renderSavedReflections(page) {
+  const target = page.querySelector('[data-reflections-history]');
+  if (!target) return;
+
+  let reflections = {};
+  try {
+    reflections = JSON.parse(localStorage.getItem('litterally_reflections_v1') || '{}');
+  } catch {
+    target.innerHTML = '<div class="profile-error">No se han podido leer tus respuestas guardadas.</div>';
+    return;
+  }
+
+  const entries = Object.values(reflections)
+    .filter((item) => item && item.answer)
+    .sort((left, right) => String(right.updatedAt || '').localeCompare(String(left.updatedAt || '')));
+
+  if (entries.length === 0) {
+    target.innerHTML = '<div class="empty-history"><p>Aún no has guardado ninguna reflexión.</p></div>';
+    return;
+  }
+
+  target.innerHTML = entries.map((item) => `
+    <article class="reflection-item">
+      <h4>${escapeHtml(item.title || 'Reflexión')}</h4>
+      <p class="reflection-question">${escapeHtml(item.question || '')}</p>
+      <p class="reflection-answer">${escapeHtml(item.answer)}</p>
+      <a href="${escapeHtml(item.chapterUrl || '#')}">Ir al capítulo y editar</a>
+    </article>
+  `).join('');
 }
 
 function renderProfileProgress(page, data) {
