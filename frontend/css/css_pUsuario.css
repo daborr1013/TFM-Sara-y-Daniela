@@ -103,7 +103,7 @@ header {
     transition: color 0.25s ease, background-color 0.25s ease, outline 0.25s ease;
 }
 
-.menu .nav-action {
+.navbar .menu .nav-action {
     appearance: none;
     background: transparent !important;
     border: 0 !important;
