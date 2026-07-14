@@ -1171,6 +1171,17 @@ button:hover {
     transform: translateY(-2px);
 }
 
+/* El listado de capítulos reutiliza .menu, pero no es la barra de navegación. */
+.pjustificado .menu .boton {
+    color: var(--eyre-violet-900) !important;
+}
+
+.pjustificado .menu .boton:hover,
+.pjustificado .menu .boton:focus-visible {
+    color: #2a1d3f !important;
+    background: linear-gradient(135deg, #ffffff 0%, #e7deef 100%);
+}
+
 table,
 .tabla-personajes {
     background: rgba(255, 255, 255, 0.9);
