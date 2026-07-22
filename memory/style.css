@@ -228,17 +228,18 @@ h1 {
 .card {
     width: 120px;
     height: 180px;
-    background-color: #cdbfd8;
+    /* A darker card back makes every tile distinguishable from the page. */
+    background: linear-gradient(145deg, #73518f, #4a3073);
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 24px;
     cursor: pointer;
     border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 3px 8px rgba(45, 27, 61, 0.45);
     transform-style: preserve-3d;
     transition: transform 0.5s;
-    border: 2px solid transparent;
+    border: 2px solid #382255;
     padding: 0;
 }
 
@@ -248,7 +249,8 @@ h1 {
 }
 
 .card:hover {
-    box-shadow: 0 0 15px rgba(255, 215, 0, 0.5);
+    border-color: #ffd700;
+    box-shadow: 0 5px 14px rgba(45, 27, 61, 0.55);
 }
 
 .card:disabled {
