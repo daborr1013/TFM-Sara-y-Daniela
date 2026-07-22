@@ -573,7 +573,10 @@ async function saveProgress(request, response, userId) {
 
   try {
     if (!await tableExists('user_progress')) {
-      return sendJson(response, { ok: true, stored: false });
+      throw exposedHttpError(
+        'No se pudo guardar el progreso porque falta la tabla user_progress. Carga backend/schema/supabase.sql en la base de datos.',
+        503,
+      );
     }
 
     const existing = await query('SELECT id FROM user_progress WHERE user_id = $1 AND activity_id = $2 LIMIT 1', [userId, activityId]);
@@ -594,8 +597,8 @@ async function saveProgress(request, response, userId) {
       throw error;
     }
 
-    console.error('Progress database unavailable, accepting no-op save:', formatErrorForLog(error));
-    return sendJson(response, { ok: true, stored: false });
+    console.error('Progress database unavailable, rejecting save:', formatErrorForLog(error));
+    throw databaseSetupError(error);
   }
 
   sendJson(response, { ok: true });

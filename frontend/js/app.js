@@ -290,7 +290,7 @@ function setupProgressButtons() {
     button.disabled = true;
     setProgressMessage(button, 'Guardando progreso…');
     try {
-      await apiRequest('/api/progress', {
+      const result = await apiRequest('/api/progress', {
         method: 'POST',
         body: JSON.stringify({
           activityId: Number(button.dataset.progressActivityId),
@@ -298,6 +298,11 @@ function setupProgressButtons() {
           completed: true,
         }),
       });
+
+      if (!result?.ok || result.stored === false) {
+        throw new Error('La actividad no se ha podido guardar. Inténtalo de nuevo.');
+      }
+
       button.textContent = 'Completada';
       setProgressMessage(button, 'Actividad completada y progreso guardado.', 'success');
     } catch (error) {
