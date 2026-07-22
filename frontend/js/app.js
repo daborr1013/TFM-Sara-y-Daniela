@@ -280,12 +280,15 @@ function setupProgressButtons() {
     const button = event.target.closest('[data-progress-activity-id]');
     if (!button) return;
 
+    event.preventDefault();
+
     if (!currentUser) {
       window.location.href = '/login.html';
       return;
     }
 
     button.disabled = true;
+    setProgressMessage(button, 'Guardando progreso…');
     try {
       await apiRequest('/api/progress', {
         method: 'POST',
@@ -296,11 +299,28 @@ function setupProgressButtons() {
         }),
       });
       button.textContent = 'Completada';
+      setProgressMessage(button, 'Actividad completada y progreso guardado.', 'success');
     } catch (error) {
       button.disabled = false;
-      window.alert(error.message);
+      setProgressMessage(button, error.message || 'No se pudo guardar el progreso.', 'error');
     }
   });
+}
+
+function setProgressMessage(button, message, state = 'info') {
+  let messageNode = button.parentElement?.querySelector('[data-progress-message]');
+
+  if (!messageNode) {
+    messageNode = document.createElement('p');
+    messageNode.className = 'progress-save-message';
+    messageNode.dataset.progressMessage = '';
+    messageNode.setAttribute('role', 'status');
+    messageNode.setAttribute('aria-live', 'polite');
+    button.insertAdjacentElement('afterend', messageNode);
+  }
+
+  messageNode.textContent = message;
+  messageNode.dataset.state = state;
 }
 
 function renderProgressWidgets(user) {
