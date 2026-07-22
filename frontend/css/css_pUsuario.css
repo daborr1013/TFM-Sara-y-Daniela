@@ -151,7 +151,8 @@ header {
 .dropdown-menu {
     display: none;
     position: absolute;
-    top: calc(100% + 6px);
+    /* Evita un hueco que cerraba el menú al mover el cursor al submenú. */
+    top: 100%;
     left: 50%;
     transform: translateX(-50%);
     background: linear-gradient(135deg, #7b5baa 0%, #6a4c93 100%);

@@ -189,7 +189,9 @@ nav a:focus-visible {
 .dropdown-menu {
     display: none;
     position: absolute;
-    top: calc(100% + 6px);
+    /* Sin separación: así el cursor puede pasar de «Obras» al menú sin
+       abandonar el área hover y cerrar el desplegable. */
+    top: 100%;
     left: 50%;
     transform: translateX(-50%);
     background: linear-gradient(135deg, #7b5baa 0%, #6a4c93 100%);
